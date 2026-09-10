@@ -1,74 +1,86 @@
-ASCII MASTER FLOW — PANEL 1/12: Trade transmission rail
-BORDER RULE
--> LANDED PRICE + MARKET ACCESS
--> SOURCING + INVESTMENT
--> OUTPUT + JOBS + CONSUMERS
-MUST REMEMBER: Trade policy combines tariffs, non-tariff measures, services, rules of...
+ECONOMY TOPIC 20 - ASCII MASTER
+Current-source cutoff: 9 September 2026
 
-ASCII MASTER FLOW — PANEL 2/12: Trade-account boundary
-MERCHANDISE -> goods crossing borders
-SERVICES -> mode-specific supply
-TOTAL TRADE -> state included components
-CURRENT ACCOUNT -> broader than trade balance
+PANEL 01: TRADE LOGIC
++------------------------------------------------------------------------------+
+| Comparative advantage = lower relative opportunity cost                     |
+| Specialisation -> exchange -> aggregate gain                                 |
+| Distribution, mobility and adjustment decide who gains                       |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: WTO non-discrimination map
-MFN -> treatment across trading partners
-NATIONAL TREATMENT -> internal treatment after entry
-EXCEPTIONS -> agreement-specific conditions
-CUSTOMS DUTY -> border stage
+PANEL 02: TERMS AND WELFARE
++------------------------------------------------------------------------------+
+| Terms of trade = export-price index / import-price index x 100                |
+| Trade creation: high-cost domestic -> lower-cost partner                      |
+| Trade diversion: lower-cost outsider -> higher-cost preferred partner         |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Tariff space ladder
-BOUND RATE -> negotiated ceiling
-APPLIED RATE -> rate actually charged
-WATER -> gap between the two
-CHANGE -> preserve schedule + date
+PANEL 03: BORDER INSTRUMENTS
++------------------------------------------------------------------------------+
+| Ad valorem = percentage of value | Specific = fixed amount per unit           |
+| Quota fixes quantity and creates rent | TRQ uses two tariff tiers              |
+| Subsidy legality depends on design, specificity and effects                   |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: FTA status and origin chain
-NEGOTIATING -> SIGNED -> RATIFIED
--> ENTERED INTO FORCE
-PRODUCT COVERAGE + PHASE-DOWN
-RULES OF ORIGIN -> preference eligibility
+PANEL 04: STANDARDS AND REMEDIES
++------------------------------------------------------------------------------+
+| SPS = defined health/pest risks | TBT = other technical requirements          |
+| Anti-dumping = dumping + injury + causation                                   |
+| CVD = subsidy + injury | Safeguard = fair-trade surge + serious injury         |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Creation versus diversion
-TRADE CREATION -> lower-cost partner replaces domestic supply
-TRADE DIVERSION -> preferred partner displaces cheaper outsider
-TEST -> welfare + productivity
-DO NOT infer from gross trade alone
-CLOSE DISTINCTION: FTA signature is not entry into force or utilisation, tariff binding...
+PANEL 05: PROTECTION MEASURES
++------------------------------------------------------------------------------+
+| Nominal protection = final-product price wedge                                |
+| Effective protection = change in domestic value added                         |
+| Tariff escalation penalises later processing stages                           |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Trade-remedy decision tree
-DUMPING + INJURY -> anti-dumping route
-SUBSIDY + INJURY -> countervailing route
-IMPORT SURGE + SERIOUS INJURY -> safeguard
-DGTR FINDING -> not final duty
+PANEL 06: WTO ARCHITECTURE
++------------------------------------------------------------------------------+
+| GATT 1947 -> Marrakesh 1994 -> WTO 1995                                       |
+| Ministerial Conference -> General Council/DSB/TPRB -> councils                 |
+| Member-driven; consensus is normal                                             |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: TRIMS and TRIPS boundary
-TRIMS -> goods-linked investment measures
-TRIPS -> minimum IP standards
-GATS -> services rules
-DOMESTIC LAW -> grant + enforcement
+PANEL 07: CORE WTO PRINCIPLES
++------------------------------------------------------------------------------+
+| MFN = equal treatment among foreign partners                                  |
+| National treatment = imported versus domestic after entry                     |
+| Bindings + transparency + negotiated reciprocity + agreement-specific S&DT    |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: IGC objective trap
-INTERGOVERNMENTAL GRAIN-TRADE BODY
-MARKET INFORMATION + COOPERATION
-NOT UN RELIEF AGENCY
-NOT FCI PROCUREMENT OR PRICE SETTING
+PANEL 08: WTO AGREEMENTS
++------------------------------------------------------------------------------+
+| GATT = goods | GATS = four service modes | TRIPS = IP standards                |
+| TRIMS = goods-related investment measures                                     |
+| AoA = market access + domestic support + export competition                    |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Protection cost cascade
-UPSTREAM TARIFF
--> INPUT COST
--> DOWNSTREAM EXPORT PRICE
--> COMPETITIVENESS + CONSUMER EFFECT
+PANEL 09: CURRENT WTO STATUS
++------------------------------------------------------------------------------+
+| Fisheries Subsidies Agreement in force: 15 September 2025                     |
+| Appellate Body unable to review appeals                                       |
+| WTO-wide e-commerce moratorium lapsed: 30 March 2026                          |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: WTO dispute-settlement status
-PANELS CONTINUE
-APPELLATE BODY -> no new appeals since Dec 2019
-NOTIFIED APPEALS ACCUMULATE
-WEAKENED SYSTEM != NO SYSTEM
+PANEL 10: REGIONAL INTEGRATION
++------------------------------------------------------------------------------+
+| FTA: separate external tariffs -> rules of origin                             |
+| Customs union: common external tariff | Common market: factor mobility         |
+| Origin = production test, not shipment route                                  |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: Trade-policy answer spine
-DEFINE legal category + status
-TRACE value-chain incidence
-TEST consumers + firms + workers
-CONCLUDE capability + diversification
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Specify agreement parties, product/service...
+PANEL 11: INDIA STATUS MAP
++------------------------------------------------------------------------------+
+| UAE 2022 | Australia 2022 | EFTA 2025 | Oman 2026 | UK 2026: in force         |
+| EU: concluded 27 January 2026 | New Zealand: signed 27 April 2026              |
+| India did not join RCEP in November 2019                                      |
++------------------------------------------------------------------------------+
+
+PANEL 12: EXAM ANSWER ROUTE
++------------------------------------------------------------------------------+
+| Rule/instrument -> authority/status -> price and quantity transmission          |
+| -> firms/workers/consumers -> utilisation/value addition -> adjustment         |
+| Verdict: predictable openness + targeted, reviewable resilience                |
++------------------------------------------------------------------------------+

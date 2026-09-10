@@ -1,74 +1,96 @@
-ASCII MASTER FLOW — PANEL 1/12: Claim-priority waterfall
-ISSUER CASH FLOW
--> CONTRACTUAL DEBT SERVICE
--> BONDHOLDER PRIORITY
--> EQUITY RESIDUAL RETURN
-MUST REMEMBER: Bonds, equity, derivatives, mutual funds, ETFs, AIFs and pension products...
-
-ASCII MASTER FLOW — PANEL 2/12: Bond pricing board
-COUPON -> contractual rate
-YIELD -> market-price-based return
-YIELD RISE -> fixed bond price generally falls
-DURATION + CONVEXITY -> sensitivity detail
-
-ASCII MASTER FLOW — PANEL 3/12: Credit-risk decomposition
-BENCHMARK YIELD
-+ DEFAULT PREMIUM
-+ LIQUIDITY PREMIUM
-+ OTHER RISK PREMIA -> CREDIT SPREAD
-
-ASCII MASTER FLOW — PANEL 4/12: Derivative obligation fork
-FUTURE -> symmetric buyer/seller obligations
-OPTION BUYER -> right, not obligation
-OPTION WRITER -> contingent obligation
-SWAP -> exchange cash-flow streams
-
-ASCII MASTER FLOW — PANEL 5/12: Purpose test
-PRE-EXISTING EXPOSURE?
-YES -> hedge size and tenor
-NO -> speculative exposure
-SAME CONTRACT can reduce or enlarge risk
-
-ASCII MASTER FLOW — PANEL 6/12: Clearing and leverage rail
-POSITION
--> MARGIN + MARK-TO-MARKET
--> CLEARING CORPORATION
-RESIDUAL -> basis, liquidity and leverage risk
-CLOSE DISTINCTION: Bondholder is not owner, dividend is not contractual interest, futures...
-
-ASCII MASTER FLOW — PANEL 7/12: Pooled-vehicle map
-MUTUAL FUND -> pooled mandate + NAV
-ETF -> exchange-traded fund unit
-AIF -> privately pooled category framework
-REIT / InvIT -> property / infrastructure cash flows
-
-ASCII MASTER FLOW — PANEL 8/12: Access instruments board
-P-NOTE -> offshore instrument via registered FPI
-IIB -> inflation-linked payout or principal
-CONVERTIBLE -> debt with equity conversion terms
-BETA -> relative market volatility
-
-ASCII MASTER FLOW — PANEL 9/12: Tokenisation boundary
-UNDERLYING REAL-WORLD ASSET
--> DIGITAL TOKEN REPRESENTATION
-ACCESS may become fractional
-TITLE + CUSTODY + DISCLOSURE remain decisive
-
-ASCII MASTER FLOW — PANEL 10/12: Use-of-proceeds taxonomy
-GREEN BOND -> environmental projects
-SOCIAL BOND -> social projects
-SUSTAINABILITY BOND -> both
-LABEL does not eliminate credit risk
-
-ASCII MASTER FLOW — PANEL 11/12: Investor-protection stack
-DISCLOSURE + PRODUCT LABELLING
-REGISTERED ADVISERS + INTERMEDIARIES
-MARGIN + SETTLEMENT + GRIEVANCE
-LIMIT -> business and market loss remain
-
-ASCII MASTER FLOW — PANEL 12/12: Securities answer spine
-CLASSIFY claim and cash-flow priority
-MAP liquidity promise and leverage
-TRACE regulator and settlement
-MATCH instrument to investor exposure
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify legal claim, payoff,...
++----------------------------------------------------------------------------------------------+
+| PANEL 1/12 — CLAIM WATERFALL                                                                 |
++----------------------------------------------------------------------------------------------+
+| Debt = contractual creditor claim; equity = residual ownership claim.                        |
+| Secured/senior debt -> subordinated debt -> preference -> ordinary equity.                   |
+| Priority reduces relative exposure but never guarantees full recovery.                       |
+| Answer first: claim, cash flow, priority, maturity, optionality.                             |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 2/12 — BOND ANATOMY                                                                    |
++----------------------------------------------------------------------------------------------+
+| Face value -> coupon -> maturity -> redemption.                                              |
+| Market price changes after issue; coupon rate does not.                                      |
+| Covenants, security and seniority condition recovery.                                        |
+| Coupon != current yield != yield to maturity.                                                |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 3/12 — PRICE, DURATION, RISK                                                           |
++----------------------------------------------------------------------------------------------+
+| required yield up -> fixed-cash-flow present value down -> price down.                       |
+| Duration approximates sensitivity; convexity refines the curve.                              |
+| Risks: credit | rate | reinvestment | liquidity | inflation | currency.                      |
+| Fixed income does not mean fixed realised return.                                            |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 4/12 — SPECIAL BONDS                                                                   |
++----------------------------------------------------------------------------------------------+
+| Zero coupon: discount + redemption | Floating: benchmark reset.                              |
+| Inflation-indexed: stated cash flow linked to index.                                         |
+| Callable: issuer option | Puttable: investor option | Convertible: equity path.              |
+| Masala: overseas INR debt | Green: disclosed environmental proceeds.                         |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 5/12 — EQUITY AND RATIOS                                                               |
++----------------------------------------------------------------------------------------------+
+| Equity: ownership + residual return + governance rights.                                     |
+| Market cap = price x shares | EPS = profit / weighted shares.                                |
+| P-E, P-B and dividend yield are lenses, not verdicts.                                        |
+| Preference share has priority over ordinary equity but remains share capital.                |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 6/12 — DERIVATIVE FAMILY                                                               |
++----------------------------------------------------------------------------------------------+
+| Forward/future: symmetric obligations | Option: buyer right, writer duty.                    |
+| Swap: exchange specified cash-flow streams.                                                  |
+| Notional reference exposure can exceed cash initially posted.                                |
+| Underlying + payoff + purpose + settlement = complete classification.                        |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 7/12 — OPTION PAYOFF                                                                   |
++----------------------------------------------------------------------------------------------+
+| Long call = max(spot - strike, 0) - premium.                                                 |
+| Long put = max(strike - spot, 0) - premium.                                                  |
+| Buyer can allow expiry; writer must perform if validly exercised.                            |
+| Premium affects break-even; strike alone is not profit.                                      |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 8/12 — PURPOSE AND MARGIN                                                              |
++----------------------------------------------------------------------------------------------+
+| Existing exposure + offset = hedge | naked direction = speculation.                          |
+| Price inconsistency + offsetting trades = arbitrage.                                         |
+| Initial margin -> daily MTM -> variation margin -> possible forced sale.                     |
+| Margin controls default exposure but can transmit liquidity stress.                          |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 9/12 — FUND ARCHITECTURE                                                               |
++----------------------------------------------------------------------------------------------+
+| Investor -> units -> trust; AMC manages, trustee oversees, custodian holds.                  |
+| NAV = net scheme assets / units outstanding.                                                 |
+| Open/closed, active/passive, asset class and trading form are separate axes.                 |
+| ETF trades on exchange and can deviate from NAV.                                             |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 10/12 — FUND SAFEGUARDS                                                                |
++----------------------------------------------------------------------------------------------+
+| Direct vs regular = distribution-cost route, not different scheme mandate.                   |
+| Riskometer has six levels; it does not predict return.                                       |
+| Disclosure + valuation + custody + liquidity tools + SCORES remedy.                          |
+| SEBI MF Regulations effective 1 Apr 2026; Master Circular 20 Mar 2026.                       |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 11/12 — VEHICLES AND REGULATORS                                                        |
++----------------------------------------------------------------------------------------------+
+| REIT real estate | InvIT infrastructure | AIF private pool | PMS client-specific.            |
+| NPS: PFRDA + Trust + pension fund + CRA + PoP + custodian.                                   |
+| SEBI domestic securities | RBI specified OTC rate/FX | IFSCA IFSC.                           |
+| Wrapper classification must precede return, tax or suitability claims.                       |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 12/12 — CONDUCT AND SYSTEMIC RISK                                                      |
++----------------------------------------------------------------------------------------------+
+| UPSI misuse != manipulation != mis-selling; each has a distinct control.                     |
+| Leverage/mismatch -> margin/redemption -> forced sale -> lower price -> contagion.           |
+| Verdict: access + truthful disclosure + suitability + resilient settlement.                  |
+| Topic 7 = plumbing; Topic 8 = product payoff and portfolio risk.                             |
++----------------------------------------------------------------------------------------------+

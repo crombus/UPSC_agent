@@ -1,19 +1,13 @@
-FINAL LEARNING PACKAGE
-======================
+Economy Topic 1 - National Income: GDP, GVA, GNI/GNP, NDP, NNI and Measurement
 
-Topic: National Income: GDP, GVA, GNP, NDP and Measurement
-Subject: Economy
-Section: Subject-wide Syllabus
-Catalogue number: 01
-Source record ID: economy-01:learner-v2:g6
-Source generation: 6
-Approval: Approval pending
+01-Complete-Learning-Session\Complete-Learning-Session.pdf
+02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+03-Graphical-Flowchart\High-Resolution-Master.png
+03-Graphical-Flowchart\At-a-Glance-Poster.pdf
+03-Graphical-Flowchart\Printable-Tiled-Version.pdf
+04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
 
-Deliverables
-------------
-1. Complete Learning Session — PDF
-2. Solved Practice Workbook — PDF
-3. Carvaka Graphical Flowchart — poster PDF, printable tiled PDF, and high-resolution PNG
-4. ASCII Master Flowchart — standalone PDF and authored text
-
-Navigation command: Open final package: Economy — Subject-wide Syllabus — National Income: GDP, GVA, GNP, NDP and Measurement
+Graphical master: 4800 x 15000 pixels at approximately 300 DPI.
+Native-width tile rows: 0-4050, 3650-7700, 7300-11350, 10950-15000; overlap 400 pixels.
+Current methodology cutoff: 9 September 2026.

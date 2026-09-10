@@ -1,74 +1,100 @@
-ASCII MASTER FLOW — PANEL 1/12: Policy signal versus implementation
-MPC -> repo-rate signal
-RBI OPERATIONS -> liquidity alignment
-WACR -> operating target
-TRAP -> stance and quantity are distinct
-MUST REMEMBER: RBI monetary policy works through the policy rate, liquidity framework,...
-
-ASCII MASTER FLOW — PANEL 2/12: Liquidity corridor
-MSF -> overnight backstop
-REPO -> collateralised injection
-WACR -> market operating rate
-SDF -> uncollateralised absorption
-
-ASCII MASTER FLOW — PANEL 3/12: CRR versus OMO
-CRR -> reserve impounding ratio
-OMO -> outright G-sec transaction
-CRR -> broad bank-resource effect
-OMO -> durable liquidity + yield effect
-
-ASCII MASTER FLOW — PANEL 4/12: MPC institution map
-RBI GOVERNOR
-MONETARY-POLICY DEPUTY GOVERNOR
-ONE RBI OFFICER + THREE EXTERNAL MEMBERS
-SIX MEMBERS -> repo decision
-
-ASCII MASTER FLOW — PANEL 5/12: Inflation target frame
-NOMINAL ANCHOR -> headline CPI
-TARGET -> 4 per cent
-TOLERANCE -> plus/minus 2 percentage points
-MANDATE -> price stability while mindful of growth
-
-ASCII MASTER FLOW — PANEL 6/12: Transmission chain
-REPO + COMMUNICATION
--> WACR + funding + deposit rates
--> lending rates + credit + demand
--> output and inflation with lags
-CLOSE DISTINCTION: Repo policy rate is not every liquidity operation, liquidity surplus...
-
-ASCII MASTER FLOW — PANEL 7/12: Pandemic package
-REPO REDUCTIONS
-CRR EASING
-OMO PURCHASES
-TARGETED LONGER-TERM LIQUIDITY
-
-ASCII MASTER FLOW — PANEL 8/12: Pass-through frictions
-EBLR LOANS -> faster response
-DEPOSITS / LEGACY LOANS -> slower response
-FRICTIONS -> funding + competition + risk
-RESULT -> uneven burden
-
-ASCII MASTER FLOW — PANEL 9/12: Forex-liquidity bridge
-FOREX INTERVENTION
--> domestic liquidity changes
--> OMO / absorption offset
-LIMIT -> volatility smoothing, not a fixed rate
-
-ASCII MASTER FLOW — PANEL 10/12: Money multiplier
-RESERVE MONEY
--> bank deposits and lending
-LOWER CRR / LEAKAGE -> higher potential multiplier
-LIMIT -> banks may hold reserves or avoid risk
-
-ASCII MASTER FLOW — PANEL 11/12: RBI balance-sheet traps
-NOTES ISSUED -> liability
-G-SEC / FX INTEREST -> income source
-PAYMENT STORAGE -> supervisory direction
-COMMITTEES -> match sponsor and subject
-
-ASCII MASTER FLOW — PANEL 12/12: Monetary-policy answer spine
-DIAGNOSE inflation and output
-STATE MPC signal
-MAP liquidity implementation
-TEST transmission, growth and external limits
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Preserve RBI Act, MPC, operating target and...
+ASCII MASTER FLOW - PANEL 1/12: ORIGIN AND LEGAL IDENTITY
++------------------------------------------------------------------+
+| Hilton-Young 1926 -> RBI Act 1934 -> work from 01-04-1935        |
+| Transfer to Public Ownership Act 1948 -> public from 01-01-1949  |
+| statutory, not constitutional | Central Board | Section 7 limit |
++------------------------------------------------------------------+
+                                |
+                                v
+ASCII MASTER FLOW - PANEL 2/12: FUNCTIONS AND PERIMETERS
++------------------------------------------------------------------+
+| monetary authority | notes except Rs 1 | banker/debt manager     |
+| bankers' bank / settlement / last resort | forex reserves        |
+| assigned banking + payment regulation | no tax/spend/legislation |
++------------------------------------------------------------------+
+                                |
+                                v
+ASCII MASTER FLOW - PANEL 3/12: FLEXIBLE INFLATION TARGET
++------------------------------------------------------------------+
+| RBI Act s.45ZA: Government + RBI consultation -> Gazette         |
+| 25-03-2026: headline CPI 4%; lower 2%; upper 6%                   |
+| period 01-04-2026 to 31-03-2031 | review every five years        |
+| primary price stability; growth kept in mind                     |
++------------------------------------------------------------------+
+                                |
+                                v
+ASCII MASTER FLOW - PANEL 4/12: MPC DECISION BODY
++------------------------------------------------------------------+
+| Governor + monetary-policy DG + Board-nominated RBI officer      |
+| + 3 Government-appointed externals = 6 | decision binds RBI      |
+| externals: 4 years; no reappointment | eligibility safeguards    |
++------------------------------------------------------------------+
+                                |
+                                v
+ASCII MASTER FLOW - PANEL 5/12: VOTE AND ACCOUNTABILITY
++------------------------------------------------------------------+
+| quorum 4 incl Governor / MPC DG | one vote each | tie: casting   |
+| >=4 meetings/year; six is practice | minutes on day 14           |
+| MPR every 6 months | 3 quarterly breaches -> s.45ZN report       |
+| reasons + remedies + estimated return period                     |
++------------------------------------------------------------------+
+                                |
+                                v
+ASCII MASTER FLOW - PANEL 6/12: CURRENT CORRIDOR - 05-08-2026
++------------------------------------------------------------------+
+| SDF floor 5.00 <- repo 5.25 -> MSF ceiling 5.50                  |
+| Bank Rate 5.50 | neutral stance | numbers are dated, not static  |
+| WACR = operating target; RBI uses two-way liquidity operations   |
++------------------------------------------------------------------+
+                                |
+                                v
+ASCII MASTER FLOW - PANEL 7/12: INSTRUMENT DECODER
++------------------------------------------------------------------+
+| SDF: uncollateralised absorption | MSF: overnight backstop       |
+| CRR: cash with RBI, s.42 | SLR: bank-held liquid assets, s.24    |
+| CRR 3%, SLR 18% checked 09-09-2026 | FRRR retained, not floor    |
++------------------------------------------------------------------+
+                                |
+                                v
+ASCII MASTER FLOW - PANEL 8/12: TRANSIENT VERSUS DURABLE LIQUIDITY
++------------------------------------------------------------------+
+| transient: primarily 7-day VRR/VRRR; O/N to 14-day discretion   |
+| durable: OMO + long variable operations + forex swaps            |
+| Twist: buy long/sell short | MSS: ring-fenced government account|
+| injection/absorption quantity != automatic stance change         |
++------------------------------------------------------------------+
+                                |
+                                v
+ASCII MASTER FLOW - PANEL 9/12: MONEY AND BANK STRESS
++------------------------------------------------------------------+
+| M0 = currency + bankers' RBI deposits + other RBI deposits       |
+| multiplier = M3/M0; not fixed 1/CRR                              |
+| credit depends on reserves + capital + risk + funding + demand   |
+| liquidity timing != solvency/net-worth problem                   |
++------------------------------------------------------------------+
+                                |
+                                v
+ASCII MASTER FLOW - PANEL 10/12: TRANSMISSION
++------------------------------------------------------------------+
+| repo/communication -> WACR -> market/deposit/lending rates       |
+| interest + credit + expectations + FX + asset-price channels     |
+| EBLR can reset faster; MCLR remains relevant | spreads and lags  |
++------------------------------------------------------------------+
+                                |
+                                v
+ASCII MASTER FLOW - PANEL 11/12: TRADE-OFFS AND BALANCE SHEET
++------------------------------------------------------------------+
+| supply shock: contain second rounds; fiscal/supply repair source |
+| FX intervention smooths disorder; sterilisation offsets liquidity|
+| notes issued = liability | assets earn | seigniorage != face value|
+| stance != liquidity position | neutral rate is estimated         |
++------------------------------------------------------------------+
+                                |
+                                v
+ASCII MASTER FLOW - PANEL 12/12: EXAM ANSWER SPINE
++------------------------------------------------------------------+
+| diagnose shock -> assign Government/MPC/RBI role -> choose tool  |
+| -> trace channel -> test lag/distribution/stability -> qualify   |
+| Topic 3: inflation measurement | Topic 5: banking architecture   |
+| verdict: credible anchor + flexible operations + supply response |
++------------------------------------------------------------------+

@@ -1,74 +1,86 @@
-ASCII MASTER FLOW — PANEL 1/12: Institution comparison grid
-MANDATE -> stabilisation or development purpose
-CLIENT -> sovereign or private counterparty
-INSTRUMENT -> loan, guarantee, surveillance or advice
-GOVERNANCE + CONDITIONALITY -> voice and implementation rules
-MUST REMEMBER: IMF, World Bank Group, ADB, AIIB and NDB differ in membership, voting,...
+ECONOMY TOPIC 21 - ASCII MASTER
+Current-source cutoff: 9 September 2026
 
-ASCII MASTER FLOW — PANEL 2/12: IMF function rail
-SURVEILLANCE
--> EXTERNAL FINANCING NEED
--> FACILITY + CONDITIONALITY
--> REVIEWS + REPAYMENT
+PANEL 01: INSTITUTION CHOICE
++------------------------------------------------------------------------------+
+| Liquidity -> IMF | Sovereign development -> IBRD/IDA/MDBs                    |
+| Private finance -> IFC | Political-risk cover -> MIGA                        |
+| Dispute -> ICSID | Coordination -> G20/FSB/BIS/BCBS                          |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Quota and SDR map
-QUOTA -> contribution
-QUOTA -> voting + access
-QUOTA -> general SDR allocation share
-SDR -> reserve asset; not loan
+PANEL 02: BRETTON WOODS
++------------------------------------------------------------------------------+
+| 1944 conference -> IMF monetary cooperation + IBRD reconstruction            |
+| IMF solves external gaps; World Bank finances long-term development           |
+| Neither is a supranational government                                         |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Reserve tranche trap
-RESERVE TRANCHE POSITION -> liquid IMF claim
-GOLD TRANCHE -> historical name
-PROGRAMME CREDIT -> separate borrowing
-RESERVE ASSET != fiscal receipt
+PANEL 03: IMF QUOTA
++------------------------------------------------------------------------------+
+| Quota -> contribution + votes + normal access + SDR allocation share          |
+| India: SDR 13,114.4 mn quota | 2.63% voting share                             |
+| 16th Review 50% equiproportional: not effective at cutoff                      |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: IMF facility ladder
-RFI -> urgent one-off support
-SBA -> shorter stabilisation arrangement
-EFF -> medium-term structural need
-VERIFY current access limits separately
+PANEL 04: IMF WINDOWS
++------------------------------------------------------------------------------+
+| SBA short-term | EFF structural medium-term | RFI rapid GRA                   |
+| RCF/ECF/SCF concessional PRGT | RSF long-horizon resilience                   |
+| Programme approval != complete disbursement                                   |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: World Bank Group map
-IBRD -> eligible sovereign borrowers
-IDA -> concessional sovereign window
-IFC -> private sector
-MIGA -> political-risk guarantees
-CLOSE DISTINCTION: IMF quota is not World Bank capital, SDR is not a currency, project...
+PANEL 05: SDR AND RESERVE TRANCHE
++------------------------------------------------------------------------------+
+| SDR = reserve asset + unit of account; not currency/grant/loan                |
+| Reserve tranche = member's liquid IMF reserve claim                           |
+| Gold tranche = historical synonym, not another facility                       |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Development-bank family
-ADB -> Asia-Pacific regional bank
-AIIB -> sustainable infrastructure + connectivity
-NDB -> BRICS-founded development bank
-MANDATES overlap but governance differs
+PANEL 06: WORLD BANK GROUP
++------------------------------------------------------------------------------+
+| World Bank = IBRD + IDA                                                       |
+| Group adds IFC private finance + MIGA risk cover + ICSID disputes             |
+| India is not an ICSID Convention member                                       |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: ADB PYQ anchor
-NATURE SOLUTIONS FINANCE HUB
-LAUNCHED BY ADB
-ASIA AND THE PACIFIC
-DO NOT invent current finance totals
+PANEL 07: MDB PROJECT CYCLE
++------------------------------------------------------------------------------+
+| identify -> prepare -> appraise -> approve -> implement -> evaluate            |
+| safeguards + procurement + accountability + debt sustainability               |
+| approval != commitment != disbursement != outcome                             |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Lending-window distinction
-PROJECT LOAN -> asset + appraisal
-POLICY LOAN -> reform programme
-GUARANTEE -> defined risk
-CO-FINANCE -> shared funding structure
+PANEL 08: ASIAN MDBs
++------------------------------------------------------------------------------+
+| ADB: 1966, 69 members | AIIB: 2016, 111 approved members                      |
+| NDB: BRICS-founded, 10 full members at cutoff                                 |
+| New banks complement rather than replace older MDBs                           |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Foreign-currency risk chain
-FOREIGN-CURRENCY LIABILITY
-DOMESTIC-CURRENCY REVENUE
-DEPRECIATION -> repayment burden
-CONCESSIONAL TERMS do not erase mismatch
+PANEL 09: INDIA SHARE MAP
++------------------------------------------------------------------------------+
+| ADB: shares 6.317%, votes 5.343% (31 Dec 2025)                                |
+| AIIB: capital 8.5702%, votes 7.5268%                                          |
+| NDB: USD10 bn subscribed, 18.72%                                              |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: Debt-treatment timeline
-DSSI -> temporary suspension
-COMMON FRAMEWORK -> treatment beyond DSSI
-OFFICIAL + PRIVATE creditor coordination
-CASE STATUS -> verify by date
+PANEL 10: GLOBAL SAFETY NET
++------------------------------------------------------------------------------+
+| reserves -> bilateral swaps -> regional arrangements -> IMF                   |
+| liquidity problem != solvency problem                                         |
+| insolvency may require creditor coordination and restructuring                |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: Global-governance answer spine
-COMPARE mandate + window
-TEST voice + ownership
-ASSESS additionality + debt
-CONCLUDE reformed plural multilateralism
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Verify institution, window, borrower...
+PANEL 11: G20 AND DEBT
++------------------------------------------------------------------------------+
+| G20 informal + consensus + rotating presidency + no permanent secretariat     |
+| DSSI suspended service; Common Framework seeks restructuring                  |
+| Paris Club = official bilateral creditors + comparability                     |
++------------------------------------------------------------------------------+
+
+PANEL 12: STANDARDS AND VERDICT
++------------------------------------------------------------------------------+
+| BIS hosts cooperation | BCBS bank standards | FSB system coordination         |
+| National authorities implement; no supranational regulator                    |
+| Verdict: voice + resources + ownership + safeguards + measurable outcomes     |
++------------------------------------------------------------------------------+

@@ -1,74 +1,87 @@
-ASCII MASTER FLOW — PANEL 1/12: Externality-to-transition rail
-RESOURCE USE + EMISSIONS
--> UNPRICED SOCIAL COST
--> PRICE + RULE + FINANCE
--> LOW-CARBON RESILIENT OUTCOME
-MUST REMEMBER: Climate economics addresses externalities, carbon pricing, regulation,...
-
-ASCII MASTER FLOW — PANEL 2/12: Mitigation-adaptation split
-MITIGATION -> emissions + sinks
-ADAPTATION -> exposure + vulnerability
-FINANCE MODELS differ
-BOTH required; neither substitutes
-
-ASCII MASTER FLOW — PANEL 3/12: Carbon-value triangle
-SCC -> damage valuation
-CARBON TAX -> statutory price
-TRADING PRICE -> market outcome
-THREE VALUES may diverge
-
-ASCII MASTER FLOW — PANEL 4/12: PAT-to-CCTS boundary
-PAT -> energy intensity
-CCTS -> GHG compliance architecture
-SECTOR + YEAR -> dated notification
-PHASED STATUS != economy-wide market
-
-ASCII MASTER FLOW — PANEL 5/12: Climate-risk channels
-PHYSICAL -> hazard exposure
-TRANSITION -> policy + technology
-CREDIT + MARKET + OPERATIONAL
-HOUSEHOLD + FISCAL transmission
-
-ASCII MASTER FLOW — PANEL 6/12: Green-finance credibility chain
-ELIGIBILITY / TAXONOMY
--> ALLOCATION
--> OUTPUT + OUTCOME METRIC
--> ASSURANCE + ADDITIONALITY
-CLOSE DISTINCTION: Carbon tax is not emissions trading, green label is not verified...
-
-ASCII MASTER FLOW — PANEL 7/12: Bond-use boundary
-GREEN BOND -> environmental uses
-SUSTAINABILITY BOND -> green + social
-SOVEREIGN ISSUE -> earmarked borrowing
-LABEL != completed verified outcome
-
-ASCII MASTER FLOW — PANEL 8/12: Circular-value ladder
-REDUCE + REDESIGN
-REUSE + REPAIR
-REFURBISH + REMANUFACTURE
-RECYCLE residual materials
-
-ASCII MASTER FLOW — PANEL 9/12: EPR results chain
-PRODUCER OBLIGATION
--> COLLECTION / PROCESSING
--> CERTIFICATE + VERIFICATION
--> ACTUAL MATERIAL OUTCOME
-
-ASCII MASTER FLOW — PANEL 10/12: Just-transition map
-WORKERS + SKILLS
-REGIONS + REVENUE
-CONSUMERS + AFFORDABILITY
-ENERGY ACCESS + SOCIAL PROTECTION
-
-ASCII MASTER FLOW — PANEL 11/12: Trade-climate boundary
-EU CBAM -> external import rule
-INDIA CCTS / MRV -> domestic system
-RECOGNITION -> unsettled unless verified
-TRADE PRESSURE != policy identity
-
-ASCII MASTER FLOW — PANEL 12/12: Climate-economics answer spine
-DEFINE metric + status
-TRACE price + finance + innovation
-TEST distribution + additionality
-CONCLUDE credible just transition
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State taxonomy/method, boundary, baseline,...
+ECONOMY TOPIC 25 | CLIMATE ECONOMICS, GREEN FINANCE AND CIRCULAR ECONOMY
+CURRENT-SOURCE CUTOFF: 10 SEPTEMBER 2026
+READ: DEFINE FAILURE -> IDENTIFY INSTRUMENT -> TRACE FINANCE/MATERIAL FLOW -> TEST INTEGRITY -> DISTRIBUTION
+============================================================================================================
+[01 MARKET FAILURE]
+  |- negative externality: social cost > private cost
+  |- climate stability: public-good features
+  |- atmosphere/carbon budget: commons-like scarcity
+  |- cross-border + intergenerational free riding
+  `- uncertainty does not erase expected damage
+------------------------------------------------------------------------------------------------------------
+[02 RESPONSE TRIAD]
+  |- mitigation -> lower emissions / increase sinks
+  |- adaptation -> lower exposure / vulnerability
+  |- loss and damage -> residual economic/non-economic harm
+  |- resilience -> capacity to absorb, adapt and recover
+  `- separate objectives, metrics and finance
+------------------------------------------------------------------------------------------------------------
+[03 CARBON-VALUE MAP]
+  |- SCC -> discounted marginal damage estimate
+  |- carbon tax -> government fixes price
+  |- cap-and-trade -> regulator fixes allowance quantity
+  |- baseline-credit -> performance against benchmark
+  `- offset -> project reduction/removal against counterfactual
+------------------------------------------------------------------------------------------------------------
+[04 INTEGRITY CHECK]
+  |- monitoring + reporting + verification
+  |- additionality + conservative baseline
+  |- leakage + permanence
+  |- registry + surrender + no double counting
+  `- certificate != guaranteed climate outcome
+------------------------------------------------------------------------------------------------------------
+[05 INDIA CERTIFICATE MAP]
+  |- PAT / ESCert -> energy-efficiency intensity
+  |- REC -> renewable-electricity attribute
+  |- CCTS / CCC -> tCO2e reduction/removal under scheme
+  |- BEE administrator | GCI registry | CERC trading regulator
+  `- never merge ESCert, REC and CCC
+------------------------------------------------------------------------------------------------------------
+[06 CCTS DATED STATUS]
+  |- notified 28 Jun 2023; offset arm added 19 Dec 2023
+  |- Oct 2025 -> 282 obligated entities / four sectors
+  |- 13 Jan 2026 -> +208 / four categories = 490 total
+  |- 26 Jun 2026 steel targets -> draft at cutoff
+  `- no unsupported price, volume or mature-market claim
+------------------------------------------------------------------------------------------------------------
+[07 CLIMATE FINANCE]
+  |- public / private / alternative sources
+  |- mitigation / adaptation / loss-and-damage purposes
+  |- provided != mobilised != committed != disbursed
+  |- concessionality != additionality
+  `- blended finance -> barrier-specific risk absorption
+------------------------------------------------------------------------------------------------------------
+[08 GREEN INSTRUMENTS]
+  |- green bond -> debt + eligible use of proceeds
+  |- SGrB framework approved 9 Nov 2022
+  |- FY23-24 issuance Rs 20,000 crore
+  |- eligible transfers Rs 20,785.60 crore; top-up Rs 785.60 crore
+  `- greenium and environmental impact require separate proof
+------------------------------------------------------------------------------------------------------------
+[09 RBI + SEBI]
+  |- RBI green-deposit directions -> 28 Nov 2025
+  |- RBI climate disclosure -> draft 28 Feb 2024 at cutoff
+  |- BRSR Core -> top 500 FY25-26; top 1,000 FY26-27
+  |- value-chain ESG disclosure voluntary from FY25-26
+  `- disclosure != prudential resilience != environmental outcome
+------------------------------------------------------------------------------------------------------------
+[10 TAXONOMY + GREENWASHING]
+  |- DEA taxonomy framework -> draft 7 May 2025
+  |- taxonomy -> activity + threshold + safeguards
+  |- label -> allocation -> output -> outcome -> additionality
+  |- assurance reduces information asymmetry
+  `- draft / label / review never equals verified impact
+------------------------------------------------------------------------------------------------------------
+[11 CIRCULAR ECONOMY]
+  |- refuse/redesign -> reduce -> reuse -> repair
+  |- refurbish -> remanufacture -> recycle -> recover
+  |- LCA checks extraction-to-disposal impacts
+  |- EPR shifts specified end-of-life responsibility upstream
+  `- track rebound, absolute throughput and informal workers
+------------------------------------------------------------------------------------------------------------
+[12 INTEGRATED ANSWER]
+  |- carbon price + standards + innovation + public investment
+  |- adaptation grants/concessional finance for public benefits
+  |- CBAM from 1 Jan 2026 -> EU trade measure, not CCTS
+  |- just transition -> workers + regions + consumers + access
+  `- judge emissions, resilience, materials, jobs, equity and fiscal risk

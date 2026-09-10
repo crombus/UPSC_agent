@@ -1,1191 +1,757 @@
 ---
 title: "Taxation, GST, Finance Commission and Fiscal Federalism — Solved Practice Workbook"
-topic_key: economy-10
+topic_key: economy-topic-10-taxation-gst-finance-commission-fiscal-federalism
 ---
+
 # Taxation, GST, Finance Commission and Fiscal Federalism — Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Direct and indirect taxes?
+Exactly 32 original questions appear before PYQs. Correct answers rotate A -> B -> C -> D eight times.
 
-A. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-B. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-C. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-D. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
+### MCQ 1
 
-**Answer: A.**
-**Explanation:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+Which statement best distinguishes statutory from economic tax incidence?
 
-### Q2. Which option preserves the accounting or regulatory boundary of Direct and indirect taxes?
-
-A. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-B. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-C. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-D. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-
-**Answer: B.**
-**Explanation:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses Direct and indirect taxes without losing its vintage, basket or legal status?
-
-A. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-B. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-C. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-D. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-
-**Answer: C.**
-**Explanation:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Direct and indirect taxes?
-
-A. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-B. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-C. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-D. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-
-**Answer: D.**
-**Explanation:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies Progressivity?
-
-A. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-B. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-C. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-D. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
+A. Statutory incidence identifies the remitter, while economic incidence follows the final real-income burden after adjustment.
+B. Both always fall on the person named in the charging section.
+C. Economic incidence is simply the location of the tax office.
+D. Statutory incidence is calculated only after consumer prices change.
 
 **Answer: A.**
-**Explanation:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q6. Which option preserves the accounting or regulatory boundary of Progressivity?
+**Option-wise explanation:**
+- **A - Correct:** The distinction correctly separates legal remittance from behavioural burden shifting.
+- **B - Incorrect:** Law can name a remitter without preventing price, wage or return adjustments.
+- **C - Incorrect:** Administrative geography does not identify who loses purchasing power.
+- **D - Incorrect:** Statutory liability precedes, rather than waits for, market adjustment.
 
-A. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-B. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-C. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-D. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
+**Examiner trap 1:** A tax label cannot establish who ultimately bears the burden.
+
+### MCQ 2
+
+Tax buoyancy differs from tax elasticity because buoyancy:
+
+A. Excludes every policy change from the revenue series.
+B. Includes the revenue effect of discretionary rate, base and compliance changes.
+C. Measures only inflation-adjusted tax collection.
+D. Is identical to the tax-to-GDP ratio in one year.
 
 **Answer: B.**
-**Explanation:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q7. Which statement uses Progressivity without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Removing discretionary changes is the purpose of an elasticity estimate.
+- **B - Correct:** Buoyancy captures both automatic base growth and policy-induced revenue change.
+- **C - Incorrect:** Nominal-versus-real treatment is a separate measurement choice.
+- **D - Incorrect:** A level ratio cannot substitute for responsiveness across changes in income.
 
-A. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-B. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-C. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-D. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
+**Examiner trap 2:** Never use buoyancy and elasticity as interchangeable responsiveness measures.
+
+### MCQ 3
+
+Which description of tax expenditure is correct?
+
+A. It is every amount of tax illegally evaded.
+B. It is a cash grant that must appear under capital expenditure.
+C. It is estimated revenue forgone from a preferential tax provision relative to a stated benchmark.
+D. It equals the full revenue obtainable after abolishing an exemption.
 
 **Answer: C.**
-**Explanation:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Progressivity?
+**Option-wise explanation:**
+- **A - Incorrect:** Evasion violates the law and is conceptually distinct from a lawful preference.
+- **B - Incorrect:** A tax-code concession need not involve a budget cash payment.
+- **C - Correct:** A benchmarked exemption, deduction, credit or deferral can create tax expenditure.
+- **D - Incorrect:** Behavioural responses mean the static estimate is not guaranteed recoverable revenue.
 
-A. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-B. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
-C. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-D. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
+**Examiner trap 3:** Tax expenditure is a benchmark-dependent estimate, not a synonym for evasion.
+
+### MCQ 4
+
+Which constitutional statement is correct after the 101st Amendment?
+
+A. GST is an ordinary subject in the Concurrent List alone.
+B. Article 248 gives States the exclusive residuary taxing power.
+C. Article 246A abolished all surviving Union and State tax entries.
+D. Article 246A gives Parliament and State legislatures GST power, while Parliament has exclusive power over inter-State GST.
 
 **Answer: D.**
-**Explanation:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q9. Which statement correctly identifies GST destination principle?
+**Option-wise explanation:**
+- **A - Incorrect:** Article 246A, not a normal List III entry, is the special GST source.
+- **B - Incorrect:** Article 248 preserves parliamentary residuary power subject to Article 246A.
+- **C - Incorrect:** Non-GST entries and exclusions continue after the amendment.
+- **D - Correct:** The special article combines simultaneous intra-State competence with exclusive parliamentary inter-State competence.
 
-A. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-B. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-C. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-D. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
+**Examiner trap 4:** Article 246A is special concurrent-like power, not a simple Seventh Schedule entry.
+
+### MCQ 5
+
+For an intra-State taxable supply in a State, the ordinary dual levy is:
+
+A. CGST plus SGST.
+B. IGST alone.
+C. SGST plus UTGST.
+D. Basic customs duty plus CGST.
 
 **Answer: A.**
-**Explanation:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q10. Which option preserves the accounting or regulatory boundary of GST destination principle?
+**Option-wise explanation:**
+- **A - Correct:** The Centre and State levy parallel components on the intra-State supply.
+- **B - Incorrect:** IGST ordinarily applies to inter-State supplies.
+- **C - Incorrect:** SGST and UTGST are alternative territorial components, not a pair.
+- **D - Incorrect:** Basic customs duty concerns imports and is not the ordinary intra-State dual levy.
 
-A. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-B. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-C. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-D. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
+**Examiner trap 5:** Do not treat two tax components as two separate underlying supplies.
+
+### MCQ 6
+
+What is the central fiscal function of IGST?
+
+A. It permanently assigns all inter-State revenue to the producing State.
+B. It preserves credit and enables apportionment for inter-State supplies toward the destination jurisdiction.
+C. It replaces basic customs duty on imports.
+D. It is an additional levy retained entirely by the Union.
 
 **Answer: B.**
-**Explanation:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q11. Which statement uses GST destination principle without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Destination architecture rejects permanent origin-State retention.
+- **B - Correct:** IGST is a clearing and settlement bridge across State borders.
+- **C - Incorrect:** Import IGST and basic customs duty are legally distinct.
+- **D - Incorrect:** Article 269A requires apportionment rather than complete Union retention.
 
-A. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-B. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-C. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-D. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
+**Examiner trap 6:** Union collection of IGST must not be confused with sole Union ownership of proceeds.
+
+### MCQ 7
+
+Which pairing is correct?
+
+A. Exempt supply — unrestricted credit on all attributable inputs.
+B. Non-GST petroleum — nil-rated GST supply.
+C. Zero-rated export — eligible credit/refund route subject to law.
+D. Nil-rated supply — tax collected at the highest GST rate.
 
 **Answer: C.**
-**Explanation:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q12. Which option avoids the standard UPSC close-option trap about GST destination principle?
+**Option-wise explanation:**
+- **A - Incorrect:** Exempt use ordinarily requires attributable credit restriction or reversal.
+- **B - Incorrect:** Outside-GST treatment is not a zero or nil GST rate.
+- **C - Correct:** Zero rating protects export neutrality while retaining the statutory credit route.
+- **D - Incorrect:** A nil rate means no output GST, not the highest rate.
 
-A. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
-B. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-C. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-D. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
+**Examiner trap 7:** Zero-rated, exempt, nil-rated and non-GST are four different legal categories.
+
+### MCQ 8
+
+Which item is outside GST rather than merely exempt under GST?
+
+A. A notified nil-rated medicine.
+B. An exempt educational service.
+C. A qualifying zero-rated export.
+D. Alcoholic liquor for human consumption.
 
 **Answer: D.**
-**Explanation:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q13. Which statement correctly identifies Input tax credit?
+**Option-wise explanation:**
+- **A - Incorrect:** A nil-rated medicine remains classified within GST law.
+- **B - Incorrect:** An exemption is granted within the GST framework.
+- **C - Incorrect:** Exports are zero-rated under the IGST Act rather than outside GST.
+- **D - Correct:** The Constitution excludes alcoholic liquor for human consumption from the GST definition.
 
-A. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-B. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-C. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-D. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
+**Examiner trap 8:** Outside the levy is not the same as exemption within the levy.
+
+### MCQ 9
+
+Under Article 279A, which composition is correct?
+
+A. Union Finance Minister as Chairperson, Union Minister of State for Revenue or Finance, and State-nominated finance or taxation ministers.
+B. Prime Minister, RBI Governor and all Chief Ministers.
+C. Finance Commission Chairperson and State Chief Secretaries.
+D. Union Home Minister and only the five largest States.
 
 **Answer: A.**
-**Explanation:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q14. Which option preserves the accounting or regulatory boundary of Input tax credit?
+**Option-wise explanation:**
+- **A - Correct:** The Constitution expressly specifies these Union and State ministerial members.
+- **B - Incorrect:** Neither the RBI Governor nor a Chief-Minister-only body is prescribed.
+- **C - Incorrect:** The Finance Commission is institutionally separate from the GST Council.
+- **D - Incorrect:** Every State participates through its nominated minister, not only selected States.
 
-A. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-B. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-C. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
-D. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
+**Examiner trap 9:** Do not merge the GST Council's membership with other federal institutions.
+
+### MCQ 10
+
+A GST Council decision at a meeting requires:
+
+A. A simple majority with equal votes for Centre and every State.
+B. At least three-fourths of weighted votes of members present and voting.
+C. Two-thirds of Parliament in a joint sitting.
+D. Unanimity of every State and the Union.
 
 **Answer: B.**
-**Explanation:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q15. Which statement uses Input tax credit without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** The voting design is weighted, not one-member-one-vote.
+- **B - Correct:** Article 279A(9) prescribes the three-fourths weighted threshold.
+- **C - Incorrect:** Parliament does not vote on Council decisions as a joint sitting.
+- **D - Incorrect:** Consensus may occur in practice, but unanimity is not the constitutional rule.
 
-A. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-B. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-C. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-D. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
+**Examiner trap 10:** Remember both the threshold and the one-third/two-thirds weighting.
+
+### MCQ 11
+
+What did Mohit Minerals hold about GST Council recommendations?
+
+A. They automatically amend the CGST and SGST Acts.
+B. They bind States but not Parliament.
+C. They have persuasive value and are not binding on Union and State legislatures.
+D. They are judicial decrees enforceable without legislation.
 
 **Answer: C.**
-**Explanation:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Input tax credit?
+**Option-wise explanation:**
+- **A - Incorrect:** A recommendation cannot amend enacted text by itself.
+- **B - Incorrect:** The judgment did not create asymmetric binding force against States.
+- **C - Correct:** The Court preserved simultaneous legislative power while recognising collaborative dialogue.
+- **D - Incorrect:** The Council is a constitutional forum, not a court issuing decrees.
 
-A. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
-B. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-C. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-D. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
+**Examiner trap 11:** Non-binding recommendations do not make enacted GST law optional.
+
+### MCQ 12
+
+Which sequence correctly identifies legal implementation of a GST rate change?
+
+A. Press interview followed by automatic collection.
+B. Finance Commission report followed by RBI circular.
+C. Budget speech followed by retrospective State consent.
+D. Council recommendation followed by authorised notification or legislation and its stated effective date.
 
 **Answer: D.**
-**Explanation:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q17. Which statement correctly identifies Subsumed Union taxes?
+**Option-wise explanation:**
+- **A - Incorrect:** Media explanation is not a charging instrument.
+- **B - Incorrect:** Neither the Finance Commission nor RBI sets GST rates.
+- **C - Incorrect:** A Budget speech does not by itself create the GST liability described.
+- **D - Correct:** The recommendation and operative legal instrument must be distinguished.
 
-A. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-B. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
-C. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-D. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
+**Examiner trap 12:** Always separate recommendation date, notification date and commencement date.
+
+### MCQ 13
+
+As documented by the official 56th Council FAQ, most revised GST rates took effect on:
+
+A. 22 September 2025, subject to the separately deferred tobacco transition.
+B. 1 July 2017 for every revised item.
+C. 1 April 2026 without exception.
+D. The date of the Council meeting regardless of notification.
 
 **Answer: A.**
-**Explanation:** The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q18. Which option preserves the accounting or regulatory boundary of Subsumed Union taxes?
+**Option-wise explanation:**
+- **A - Correct:** The dated FAQ identifies 22 September 2025 for most goods and services.
+- **B - Incorrect:** 1 July 2017 was the original rollout, not the later rationalisation date.
+- **C - Incorrect:** The later tax-code commencement does not determine GST rate commencement.
+- **D - Incorrect:** A meeting recommendation needs the operative notified date.
 
-A. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
-B. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-C. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-D. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
+**Examiner trap 13:** Do not attach a single effective date to categories expressly deferred.
+
+### MCQ 14
+
+Which dated current-rate description is safest?
+
+A. Every supply is taxed only at 5% or 18%.
+B. The post-22 September 2025 broad architecture centres on 5%, 18% and a special 40%, with nil and other notified treatments for limited supplies.
+C. The original 12% and 28% map remains universally current.
+D. The Council press release alone fixes every item classification forever.
 
 **Answer: B.**
-**Explanation:** The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q19. Which statement uses Subsumed Union taxes without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Nil, special and product-specific treatments prevent a universal two-rate claim.
+- **B - Correct:** The statement preserves the broad official reform and item-specific notification caveat.
+- **C - Incorrect:** The 2025 rationalisation changed the earlier general architecture.
+- **D - Incorrect:** Classification and rates remain amendable through valid legal instruments.
 
-A. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
-B. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-C. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-D. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
+**Examiner trap 14:** Use the broad dated map, not an exhaustive memorised product list.
+
+### MCQ 15
+
+Which threshold statement is accurate?
+
+A. Rs 40 lakh is a universal exemption for every supplier.
+B. Registration threshold and composition threshold are identical.
+C. The Rs 40 lakh goods-registration relief from 1 April 2019 is jurisdiction- and condition-specific, with lower thresholds and compulsory-registration rules still relevant.
+D. Crossing a threshold alone determines place of supply.
 
 **Answer: C.**
-**Explanation:** The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Subsumed Union taxes?
+**Option-wise explanation:**
+- **A - Incorrect:** Services, specified States and compulsory categories defeat the universal claim.
+- **B - Incorrect:** Composition is a separate optional compliance regime.
+- **C - Correct:** The official notification must be read with adopting jurisdictions and statutory exceptions.
+- **D - Incorrect:** Place of supply follows IGST rules, not the turnover threshold.
 
-A. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-B. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-C. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-D. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
+**Examiner trap 15:** A headline threshold is never enough without supply type, State and exceptions.
+
+### MCQ 16
+
+The composition levy is best described as:
+
+A. A constitutional grant to small States.
+B. A mandatory tax holiday below registration turnover.
+C. A refund mechanism for exporters only.
+D. An optional simplified regime for eligible small taxpayers with restrictions and altered credit treatment.
 
 **Answer: D.**
-**Explanation:** The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q21. Which statement correctly identifies Subsumed State taxes?
+**Option-wise explanation:**
+- **A - Incorrect:** It is a taxpayer regime, not intergovernmental finance.
+- **B - Incorrect:** Registration relief and composition are legally distinct.
+- **C - Incorrect:** Export zero rating uses a different mechanism.
+- **D - Correct:** It simplifies payment and returns for eligible taxpayers under statutory conditions.
 
-A. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-B. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-C. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-D. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
+**Examiner trap 16:** Composition means simplified compliance, not ordinary GST at a discounted rate.
+
+### MCQ 17
+
+The GST compensation guarantee under the 2017 Act was based on:
+
+A. A 2015-16 base with 14% annual protected revenue growth for the five-year transition.
+B. Permanent compensation equal to 41% of Union taxes.
+C. A 2020-21 base with 5% growth forever.
+D. Only municipal property-tax losses.
 
 **Answer: A.**
-**Explanation:** The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q22. Which option preserves the accounting or regulatory boundary of Subsumed State taxes?
+**Option-wise explanation:**
+- **A - Correct:** The statutory transition formula used the stated base, growth and limited period.
+- **B - Incorrect:** Forty-one per cent concerns Finance Commission devolution, not compensation.
+- **C - Incorrect:** The guarantee was neither based on 2020-21 nor perpetual.
+- **D - Incorrect:** It addressed defined State GST-transition revenue rather than local property tax.
 
-A. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-B. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-C. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-D. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
+**Examiner trap 17:** Keep base year, protected growth rate and transition period together.
+
+### MCQ 18
+
+Which current-status statement on compensation cess is correct?
+
+A. The five-year compensation guarantee became permanent.
+B. Notification 03/2025-Compensation Cess (Rate), dated 31 December 2025, made specified rates nil from 1 February 2026.
+C. The cess remained unchanged on all products through September 2026.
+D. The Finance Commission converted the cess into tax devolution.
 
 **Answer: B.**
-**Explanation:** The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q23. Which statement uses Subsumed State taxes without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** The underlying State guarantee ended in June 2022.
+- **B - Correct:** The GST Council Secretariat newsletter records the dated notified withdrawal.
+- **C - Incorrect:** The February 2026 transition changed the earlier deferred tobacco position.
+- **D - Incorrect:** Finance Commission devolution is constitutionally separate from the cess.
 
-A. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-B. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-C. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-D. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
+**Examiner trap 18:** Do not freeze the September 2025 interim tobacco status after the February 2026 notification.
+
+### MCQ 19
+
+An inverted duty structure most directly means:
+
+A. Output tax exceeds every input tax by definition.
+B. A firm has inverted its annual turnover.
+C. Eligible input tax rates exceed output tax rates, potentially accumulating credit.
+D. The tax is collected by the destination State.
 
 **Answer: C.**
-**Explanation:** The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Subsumed State taxes?
+**Option-wise explanation:**
+- **A - Incorrect:** The defining relation runs from higher input to lower output taxation.
+- **B - Incorrect:** Turnover direction has no role in the concept.
+- **C - Correct:** Rate inversion can lock credit and create refund or working-capital issues.
+- **D - Incorrect:** Destination assignment is a separate GST principle.
 
-A. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-B. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-C. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-D. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
+**Examiner trap 19:** Identify the input-output rate relation before discussing refund.
+
+### MCQ 20
+
+Why can fake invoicing create systemic GST leakage?
+
+A. It automatically raises the divisible pool.
+B. It converts exempt supply into export zero rating.
+C. It is merely a delay in State Finance Commission formation.
+D. A false invoice may generate wrongful ITC that travels through linked returns and suppresses output payment.
 
 **Answer: D.**
-**Explanation:** The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q25. Which statement correctly identifies GST exclusions?
+**Option-wise explanation:**
+- **A - Incorrect:** Wrongful credit reduces rather than raises genuine collection.
+- **B - Incorrect:** Zero rating requires statutory export or SEZ conditions.
+- **C - Incorrect:** Local fiscal institutions are unrelated to invoice fraud.
+- **D - Correct:** Networked credit makes invoice authenticity central to revenue protection.
 
-A. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-B. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-C. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
-D. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
+**Examiner trap 20:** Enforcement should distinguish deliberate credit fraud from ordinary return error.
+
+### MCQ 21
+
+From 1 April 2026, the central direct-tax code is:
+
+A. The Income-tax Act, 2025 with Income-tax Rules, 2026, subject to transition for earlier periods.
+B. Only the Income-tax Act, 1961 for all future income.
+C. The CGST Act, 2017.
+D. A GST Council recommendation without parliamentary law.
 
 **Answer: A.**
-**Explanation:** Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q26. Which option preserves the accounting or regulatory boundary of GST exclusions?
+**Option-wise explanation:**
+- **A - Correct:** The new Act and Rules commenced on the stated date while preserving transition provisions.
+- **B - Incorrect:** Earlier law still matters for earlier periods but is not the sole current code.
+- **C - Incorrect:** CGST governs indirect tax on supply.
+- **D - Incorrect:** Direct-tax legislation comes through Parliament, not Council recommendation alone.
 
-A. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-B. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-C. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-D. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
+**Examiner trap 21:** Law commencement and the fiscal year's rate schedule are separate facts.
+
+### MCQ 22
+
+TDS and TCS are primarily:
+
+A. Separate GST components on intra-State supply.
+B. Advance collection and information mechanisms credited toward final direct-tax liability as law provides.
+C. Permanent surcharges excluded from all assessment.
+D. Finance Commission grants to tax administrations.
 
 **Answer: B.**
-**Explanation:** Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q27. Which statement uses GST exclusions without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** CGST and SGST are indirect-tax components.
+- **B - Correct:** Withholding or collection at transaction points supports compliance and later reconciliation.
+- **C - Incorrect:** TDS/TCS credit prevents automatic double final taxation.
+- **D - Incorrect:** They are taxpayer obligations, not intergovernmental transfers.
 
-A. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-B. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-C. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
-D. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
+**Examiner trap 22:** Do not add withholding to final tax twice when credit is available.
+
+### MCQ 23
+
+Under Article 271, a Union surcharge:
+
+A. Must be divided equally among all States.
+B. Can be imposed on GST under Article 246A without restriction.
+C. Forms part of the Consolidated Fund of India and is outside ordinary Article 270 sharing.
+D. Is the same as an Article 275 grant.
 
 **Answer: C.**
-**Explanation:** Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q28. Which option avoids the standard UPSC close-option trap about GST exclusions?
+**Option-wise explanation:**
+- **A - Incorrect:** Equal division is not the constitutional rule.
+- **B - Incorrect:** Article 271 expressly excepts GST under Article 246A.
+- **C - Correct:** The Constitution assigns the whole proceeds of the surcharge to the Union.
+- **D - Incorrect:** A surcharge is a levy, whereas Article 275 concerns grants.
 
-A. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-B. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-C. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-D. Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
+**Examiner trap 23:** Surcharge proceeds are not the same as shareable net proceeds.
+
+### MCQ 24
+
+Vertical tax devolution answers which question?
+
+A. How the States' share is divided among States.
+B. Which GST item receives a 5% rate.
+C. How a municipality assesses property tax.
+D. What share of the divisible pool goes collectively to States rather than the Union?
 
 **Answer: D.**
-**Explanation:** Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q29. Which statement correctly identifies GST Council voting?
+**Option-wise explanation:**
+- **A - Incorrect:** Inter se allocation is the horizontal stage.
+- **B - Incorrect:** GST classification belongs to the Council-law-notification process.
+- **C - Incorrect:** Municipal own-tax administration is outside vertical Union-State devolution.
+- **D - Correct:** Vertical division allocates between levels of government.
 
-A. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
-B. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-C. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-D. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
+**Examiner trap 24:** Vertical is between levels; horizontal is among States.
+
+### MCQ 25
+
+Article 280 requires a Finance Commission consisting of:
+
+A. A Chairperson and four other members appointed by the President.
+B. The Union Finance Minister and every State finance minister.
+C. Only the Comptroller and Auditor General.
+D. Five judges appointed by the Chief Justice of India.
 
 **Answer: A.**
-**Explanation:** Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q30. Which option preserves the accounting or regulatory boundary of GST Council voting?
+**Option-wise explanation:**
+- **A - Correct:** The Constitution specifies this five-person structure and presidential appointment.
+- **B - Incorrect:** That ministerial composition belongs broadly to the GST Council.
+- **C - Incorrect:** The CAG certifies net proceeds but is not the entire Commission.
+- **D - Incorrect:** Finance Commission membership is not a judicial bench.
 
-A. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-B. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
-C. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-D. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
+**Examiner trap 25:** Do not transpose GST Council membership onto the Finance Commission.
+
+### MCQ 26
+
+Article 281 requires:
+
+A. The GST Council to approve the Union Budget.
+B. The President to lay the Finance Commission recommendations and an explanatory memorandum on action taken before each House of Parliament.
+C. Every recommendation to become self-executing law.
+D. The RBI to distribute the divisible pool.
 
 **Answer: B.**
-**Explanation:** Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q31. Which statement uses GST Council voting without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** The Council has no budget-approval function.
+- **B - Correct:** Tabling with the action memorandum supplies transparency and accountability.
+- **C - Incorrect:** Recommendations require implementation through the proper constitutional and fiscal route.
+- **D - Incorrect:** RBI is not the constitutional devolution decision-maker.
 
-A. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-B. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-C. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
-D. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
+**Examiner trap 26:** Tabling and action taken do not make every recommendation automatically binding.
+
+### MCQ 27
+
+For 2026-27 to 2030-31, the accepted vertical devolution share is:
+
+A. 41% of every Union receipt including cesses and borrowings.
+B. 42% of gross GST alone.
+C. 41% of net proceeds in the divisible pool.
+D. 50% of each State's own tax revenue.
 
 **Answer: C.**
-**Explanation:** Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q32. Which option avoids the standard UPSC close-option trap about GST Council voting?
+**Option-wise explanation:**
+- **A - Incorrect:** Non-shareable levies and non-tax receipts are outside the stated base.
+- **B - Incorrect:** The 42% figure belongs to the Fourteenth Commission context, not current GST alone.
+- **C - Correct:** The Sixteenth Finance Commission recommendation and action memorandum specify this base and award period.
+- **D - Incorrect:** State own revenue is not the denominator.
 
-A. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-B. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-C. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-D. Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
+**Examiner trap 27:** Always attach 41% to net shareable proceeds and the 2026-31 award.
+
+### MCQ 28
+
+Which complete Sixteenth Finance Commission weight set is correct?
+
+A. Population 15; area 15; income distance 45; forest and ecology 10; demography 12.5; tax effort 2.5.
+B. Only population and tax collection, each 50.
+C. Area 42.5 and every other criterion 11.5.
+D. Population 17.5; demographic performance 10; area 10; forest 10; income distance 42.5; GDP contribution 10.
 
 **Answer: D.**
-**Explanation:** Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q33. Which statement correctly identifies IGST settlement?
+**Option-wise explanation:**
+- **A - Incorrect:** That alternative is the Fifteenth Commission formula.
+- **B - Incorrect:** The current formula balances six rather than two criteria.
+- **C - Incorrect:** Neither the weights nor arithmetic match the official table.
+- **D - Correct:** The six values reproduce official Table 8.8 and total 100.
 
-A. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-B. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-C. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-D. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
+**Examiner trap 28:** Check award period before quoting a horizontal-devolution formula.
+
+### MCQ 29
+
+Which statement correctly distinguishes Articles 275 and 282?
+
+A. Article 275 supports grants-in-aid of State revenues; Article 282 permits grants for any public purpose notwithstanding legislative-field limits.
+B. Both articles create GST rates.
+C. Article 282 abolishes parliamentary budget control.
+D. Article 275 deals only with State borrowing consent.
 
 **Answer: A.**
-**Explanation:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q34. Which option preserves the accounting or regulatory boundary of IGST settlement?
+**Option-wise explanation:**
+- **A - Correct:** The provisions create distinct grant routes within the constitutional fiscal system.
+- **B - Incorrect:** GST rates belong to the 246A/279A statutory architecture.
+- **C - Incorrect:** Public-purpose authority remains subject to fiscal authorisation and accountability.
+- **D - Incorrect:** State borrowing consent is principally an Article 293 issue.
 
-A. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-B. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-C. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-D. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
+**Examiner trap 29:** Not every grant is Finance Commission tax devolution.
 
-**Answer: B.**
-**Explanation:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 30
 
-### Q35. Which statement uses IGST settlement without losing its vintage, basket or legal status?
+A State Finance Commission primarily reviews:
 
-A. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-B. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-C. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-D. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-
-**Answer: C.**
-**Explanation:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about IGST settlement?
-
-A. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-B. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-C. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-D. The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-
-**Answer: D.**
-**Explanation:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies GST compensation?
-
-A. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-B. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-C. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-D. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-
-**Answer: A.**
-**Explanation:** The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of GST compensation?
-
-A. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-B. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-C. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-D. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
+A. Union-State divisible-pool percentages.
+B. State-local fiscal relations involving Panchayats and Municipalities.
+C. The nationwide GST rate schedule.
+D. RBI monetary policy transmission.
 
 **Answer: B.**
-**Explanation:** The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q39. Which statement uses GST compensation without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** The Union Finance Commission handles Union-State devolution.
+- **B - Correct:** Articles 243-I and 243-Y anchor the State-local review.
+- **C - Incorrect:** The GST Council is the federal GST forum.
+- **D - Incorrect:** Monetary policy lies outside local fiscal assignment.
 
-A. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-B. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-C. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-D. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
+**Examiner trap 30:** A State Finance Commission is not a subordinate office of the Union Commission.
 
-**Answer: C.**
-**Explanation:** The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 31
 
-### Q40. Which option avoids the standard UPSC close-option trap about GST compensation?
+Why can growing cesses and surcharges concern States?
 
-A. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-B. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-C. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-D. The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement.
-
-**Answer: D.**
-**Explanation:** The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies Finance Commission role?
-
-A. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-B. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-C. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-D. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-
-**Answer: A.**
-**Explanation:** The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of Finance Commission role?
-
-A. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-B. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-C. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-D. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-
-**Answer: B.**
-**Explanation:** The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses Finance Commission role without losing its vintage, basket or legal status?
-
-A. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-B. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-C. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-D. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
+A. They automatically increase each State's GST rate.
+B. They eliminate all Article 275 grants.
+C. They can increase gross Union tax receipts without proportionately enlarging the divisible pool.
+D. They are counted as State own-tax revenue.
 
 **Answer: C.**
-**Explanation:** The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Finance Commission role?
+**Option-wise explanation:**
+- **A - Incorrect:** GST rates are not mechanically linked to Union cesses.
+- **B - Incorrect:** Grant recommendations remain a separate channel.
+- **C - Correct:** Article 270's exclusions can narrow the shareable base relative to gross collections.
+- **D - Incorrect:** Union levies do not become State own taxes.
 
-A. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-B. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-C. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-D. The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
+**Examiner trap 31:** Compare gross taxes with net shareable proceeds, not with a single headline collection.
 
-**Answer: D.**
-**Explanation:** The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 32
 
-### Q45. Which statement correctly identifies Vertical and horizontal imbalance?
+Which institutional matching is correct?
 
-A. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-B. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-C. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-D. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-
-**Answer: A.**
-**Explanation:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of Vertical and horizontal imbalance?
-
-A. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-B. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-C. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-D. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-
-**Answer: B.**
-**Explanation:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses Vertical and horizontal imbalance without losing its vintage, basket or legal status?
-
-A. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-B. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-C. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-D. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-
-**Answer: C.**
-**Explanation:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Vertical and horizontal imbalance?
-
-A. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-B. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-C. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-D. Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
+A. GST Council — monetary policy; Finance Commission — GST invoices; Union Budget — Supreme Court review.
+B. GST Council — direct tax assessment; Finance Commission — corporate regulation; Union Budget — State Finance Commission appointments.
+C. All three are interchangeable rate-setting bodies.
+D. GST Council — GST recommendations; Finance Commission — devolution and grants; Union Budget — annual fiscal estimates and authorisation process.
 
 **Answer: D.**
-**Explanation:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q49. Which statement correctly identifies Fifteenth Finance Commission?
+**Option-wise explanation:**
+- **A - Incorrect:** RBI, tax administrations and courts perform the mismatched functions.
+- **B - Incorrect:** CBDT and State constitutional processes displace the suggested pairings.
+- **C - Incorrect:** Different constitutional anchors prevent institutional interchangeability.
+- **D - Correct:** The match preserves each institution's constitutional and operational role.
 
-A. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-B. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-C. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-D. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-
-**Answer: A.**
-**Explanation:** The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q50. Which option preserves the accounting or regulatory boundary of Fifteenth Finance Commission?
-
-A. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-B. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-C. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-D. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-
-**Answer: B.**
-**Explanation:** The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses Fifteenth Finance Commission without losing its vintage, basket or legal status?
-
-A. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-B. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-C. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-D. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-
-**Answer: C.**
-**Explanation:** The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Fifteenth Finance Commission?
-
-A. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-B. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-C. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-D. The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-
-**Answer: D.**
-**Explanation:** The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies Sixteenth Finance Commission?
-
-A. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-B. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-C. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-D. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-
-**Answer: A.**
-**Explanation:** The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of Sixteenth Finance Commission?
-
-A. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-B. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-C. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-D. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-
-**Answer: B.**
-**Explanation:** The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses Sixteenth Finance Commission without losing its vintage, basket or legal status?
-
-A. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-B. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-C. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-D. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-
-**Answer: C.**
-**Explanation:** The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Sixteenth Finance Commission?
-
-A. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-B. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-C. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-D. The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-
-**Answer: D.**
-**Explanation:** The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Cesses and surcharges?
-
-A. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-B. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-C. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-D. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-
-**Answer: A.**
-**Explanation:** Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Cesses and surcharges?
-
-A. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-B. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-C. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-D. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-
-**Answer: B.**
-**Explanation:** Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Cesses and surcharges without losing its vintage, basket or legal status?
-
-A. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-B. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-C. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-D. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-
-**Answer: C.**
-**Explanation:** Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Cesses and surcharges?
-
-A. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-B. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-C. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-D. Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
-
-**Answer: D.**
-**Explanation:** Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies Tax administration?
-
-A. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-B. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-C. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-D. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-
-**Answer: A.**
-**Explanation:** CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of Tax administration?
-
-A. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-B. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-C. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-D. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-
-**Answer: B.**
-**Explanation:** CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses Tax administration without losing its vintage, basket or legal status?
-
-A. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-B. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-C. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-D. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-
-**Answer: C.**
-**Explanation:** CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Tax administration?
-
-A. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-B. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-C. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-D. CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-
-**Answer: D.**
-**Explanation:** CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Economic-enforcement agencies?
-
-A. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-B. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-C. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-D. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-
-**Answer: A.**
-**Explanation:** ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Economic-enforcement agencies?
-
-A. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-B. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-C. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-D. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-
-**Answer: B.**
-**Explanation:** ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Economic-enforcement agencies without losing its vintage, basket or legal status?
-
-A. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-B. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-C. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-D. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-
-**Answer: C.**
-**Explanation:** ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Economic-enforcement agencies?
-
-A. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-B. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-C. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-D. ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable.
-
-**Answer: D.**
-**Explanation:** ED, DRI and DGGI function under the Department of Revenue, Ministry of Finance, but their statutory domains are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Agricultural-income boundary?
-
-A. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-B. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-C. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-D. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-
-**Answer: A.**
-**Explanation:** Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Agricultural-income boundary?
-
-A. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-B. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-C. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-D. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-
-**Answer: B.**
-**Explanation:** Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Agricultural-income boundary without losing its vintage, basket or legal status?
-
-A. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-B. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-C. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-D. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-
-**Answer: C.**
-**Explanation:** Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Agricultural-income boundary?
-
-A. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-B. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-C. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-D. Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions.
-
-**Answer: D.**
-**Explanation:** Allied rural activity is not automatically agricultural income, and rural agricultural land is generally outside the capital-asset definition only subject to statutory conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Digital and indirect-transfer taxation?
-
-A. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-B. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-C. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-D. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-
-**Answer: A.**
-**Explanation:** The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Digital and indirect-transfer taxation?
-
-A. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-B. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-C. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-D. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-
-**Answer: B.**
-**Explanation:** The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Digital and indirect-transfer taxation without losing its vintage, basket or legal status?
-
-A. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-B. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-C. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-D. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-
-**Answer: C.**
-**Explanation:** The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Digital and indirect-transfer taxation?
-
-A. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-B. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-C. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-D. The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status.
-
-**Answer: D.**
-**Explanation:** The Equalisation Levy addressed specified non-resident digital services, while indirect-transfer rules can tax offshore share transfers deriving substantial value from Indian assets; both require year-specific legal status. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Income-tax law and federal trust?
-
-A. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-B. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-C. Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-D. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-
-**Answer: A.**
-**Explanation:** The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Income-tax law and federal trust?
-
-A. Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-B. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-C. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-D. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-
-**Answer: B.**
-**Explanation:** The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Income-tax law and federal trust without losing its vintage, basket or legal status?
-
-A. GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-B. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-C. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-D. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-
-**Answer: C.**
-**Explanation:** The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Income-tax law and federal trust?
-
-A. Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-B. The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-C. The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-D. The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
-
-**Answer: D.**
-**Explanation:** The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 32:** Name the institution, legal output and implementation route separately.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### OFFICIAL-KEY DISCIPLINE
 
-Audited ledgers route Mains demands on taxes subsumed in GST and the GST compensation framework, plus objective demands on equalisation levy, GST exemptions, indirect transfers, Fifteenth Finance Commission criteria, enforcement agencies and agricultural-income boundaries. Objective answer letters are not inferred.
+The two Mains items below are verified routed demands and receive original model solutions, never an invented official answer. Objective routes are retained as audit cards without an answer letter unless a legible local official key and exact printed question are both available.
 
-### OWNER PYQ LEDGER EXTRACTS
+### VERIFIED ROUTED MAINS PYQ 1 — 2019 GS-III
 
-#### 9. PYQ application
+**Demand:** Enumerate the indirect taxes subsumed in GST and explain the revenue implications. (10 marks, 150 words.)
 
-- ⚠️ 2025 Prelims tested agricultural income and rural agricultural land under income-tax concepts.
-- ⚠️ 2025 GS-III Fiscal Health Index invites comparison of state revenue effort and expenditure quality.
-- ✅ **2025 Prelims Q66:** directly tested Fifteenth Finance Commission propositions—41% (not 45%) devolution, education/agriculture-performance grants and reintroduced tax effort. See `../README.md`.
-- ⚠️ Historical PYQs also require recall of equalisation levy, GST exemptions, indirect-transfer rules and the parent ministries of ED, DRI and DGGI.
+**Status:** Verified routed demand; the solution below is original, not an official UPSC model.
 
-#### Recent PYQ Integration (2024-2025)
+**Model solution:** GST subsumed several Union levies on covered supplies, including service tax, specified central excises, additional excises, countervailing duty and special additional duty, and relevant supply-related cesses. At State level it absorbed VAT or sales tax, Central Sales Tax as collected, purchase tax, entry or octroi, luxury tax, specified entertainment tax and taxes on lotteries, betting and gambling. The resulting destination-based value-added chain reduced cascading and internal border friction through input-tax credit and IGST settlement. However, basic customs duty, stamp duty, electricity duty, property tax and State excise on alcohol for human consumption remain outside; specified petroleum products await the constitutional Council-recommended date. Revenue effects therefore combine a broader common base and improved invoice trails with transition losses, refunds, compliance costs and a shift from producing to consuming jurisdictions.
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+### VERIFIED ROUTED MAINS PYQ 2 — 2020 GS-III
 
-- **Years represented:** 2025
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+**Demand:** Explain the GST Compensation to States Act, 2017 and the fiscal-federal challenge created by COVID-19. (15 marks, 250 words.)
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | Prelims GS-I | 3 | Enforcement agencies (ED, DRI, DGGI) and their parent ministries | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2025 | Prelims GS-I | 5 | Taxation of allied agricultural income; rural agricultural land as a capital asset | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Status:** Verified routed demand; the solution below is original, not an official UPSC model.
 
-##### What this owner must now support
+**Model solution:** The 2017 Act protected defined State revenue for five years after GST, using 2015-16 as the base and 14 per cent annual growth. A compensation cess on specified demerit and luxury goods financed the fund. COVID-19 simultaneously reduced collection and enlarged the protected shortfall, exposing a mismatch between statutory claims and available cess proceeds. Back-to-back Union borrowing transferred resources to States, while cess collection continued beyond June 2022 to service the borrowing. The compensation entitlement itself nevertheless remained a time-bound transition guarantee, not permanent devolution. Later tax redesign must be dated separately: the GST Council Secretariat records that Notification 03/2025-Compensation Cess (Rate), dated 31 December 2025, made specified cess entries nil from 1 February 2026. The episode shows why federal reforms need transparent baselines, shock-financing rules, independent reconciliation and a credible sunset.
 
-- Enforcement agencies (ED, DRI, DGGI) and their parent ministries
-- Taxation of allied agricultural income; rural agricultural land as a capital asset
+### OBJECTIVE PYQ ROUTING — KEY WITHHELD WHERE NOT LOCALLY VERIFIED
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+| Year / paper | Routed official-paper demand | Key discipline |
+|---|---|---|
+| 2018 Prelims GS-I Q8 | Equalisation levy on specified non-resident online-advertising services | No answer letter inferred |
+| 2018 Prelims GS-I Q97 | Items exempted under GST | No answer letter inferred |
+| 2022 Prelims GS-I Q8 | Indian taxation of indirect transfer of shares/assets | No answer letter inferred |
+| 2023 Prelims GS-I Q29 | Fifteenth Finance Commission horizontal criteria | No answer letter inferred |
+| 2025 Prelims GS-I Q66 | Fifteenth Finance Commission propositions including 41%, grants and tax effort | Local key extraction is not sufficiently legible; no letter inferred |
+| 2025 Prelims GS-I | Agricultural-income and rural-agricultural-land statutory boundaries | Route retained; no letter inferred |
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2018, 2019, 2020, 2022, 2023
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 6
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 8 | Equalization tax on non-resident online advertising services India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2018 | Prelims GS-I | 97 | Items exempted under Goods and Services Tax India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | GS-III | 1 | Indirect taxes subsumed in GST and revenue implications | Enumerate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 12 | GST Compensation to States Act 2017 and COVID-19 impact | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | Prelims GS-I | 8 | Indirect transfer of shares and assets taxation India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 29 | Fifteenth Finance Commission horizontal tax devolution criteria | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Equalization tax on non-resident online advertising services India
-- Items exempted under Goods and Services Tax India
-- Indirect taxes subsumed in GST and revenue implications
-- GST Compensation to States Act 2017 and COVID-19 impact
-- Indirect transfer of shares and assets taxation India
-- Fifteenth Finance Commission horizontal tax devolution criteria
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ 2025 Prelims tested agricultural income and rural agricultural land under income-tax
-  concepts.
-- ⚠️ 2025 GS-III Fiscal Health Index invites comparison of state revenue effort and
-  expenditure quality.
-- ✅ **2025 Prelims Q66:** tested XV-FC's 41% share and specified
-  grant/tax-effort propositions. Exact route: `../README.md`.
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2019, 2020
-- **Paper(s):** GS-III
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | GS-III | 1 | Indirect taxes subsumed in GST and revenue implications | Enumerate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 12 | GST Compensation to States Act 2017 and COVID-19 impact | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Indirect taxes subsumed in GST and revenue implications
-- GST Compensation to States Act 2017 and COVID-19 impact
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### PYQ DEMAND CARD 1 — 2019 GS-III
-
-**Demand:** Enumerate the indirect taxes subsumed in GST and explain the revenue implications.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **GST destination principle:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Input tax credit:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Subsumed Union taxes:** The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST. **Subsumed State taxes:** The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST. **GST exclusions:** Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2019 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **GST destination principle:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Input tax credit:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Subsumed Union taxes:** The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST. **Subsumed State taxes:** The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST. **GST exclusions:** Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Enumerate the indirect taxes subsumed in GST and explain the revenue implications. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **GST destination principle:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Input tax credit:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Subsumed Union taxes:** The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST. **Subsumed State taxes:** The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST. **GST exclusions:** Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2019 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 2 — 2020 GS-III
-
-**Demand:** Explain the GST Compensation to States Act, 2017 and the fiscal-federal challenge created by the COVID-19 shock.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **IGST settlement:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **GST compensation:** The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement. **Finance Commission role:** The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates. **Cesses and surcharges:** Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2020 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **IGST settlement:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **GST compensation:** The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement. **Finance Commission role:** The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates. **Cesses and surcharges:** Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Explain the GST Compensation to States Act, 2017 and the fiscal-federal challenge created by the COVID-19 shock. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **IGST settlement:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **GST compensation:** The GST (Compensation to States) Act, 2017 created a five-year 2017-2022 transition guarantee based on 14 per cent annual protected revenue growth over the 2015-16 base; it was not a permanent constitutional entitlement. **Finance Commission role:** The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates. **Cesses and surcharges:** Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2020 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish direct, indirect, progressive and regressive tax concepts. Answer in about 150 words.
+**Question:** Distinguish statutory and economic tax incidence and explain why the distinction matters for equity. Answer in 150 words.
 
-**Model thesis:** **Claim:** Direct and indirect taxes. **Named evidence/example:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Progressivity. **Named evidence/example:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Tax incidence has two layers. Statutory incidence identifies who must remit a tax; economic incidence identifies whose real income falls after prices, wages and returns adjust. A GST-registered seller remits tax, but consumers, workers or owners bear it according to elasticities, market power and adjustment time.
 
-- Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-- Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
+This distinction changes equity analysis. A consumption tax may absorb more of a poor household's income, while a corporate levy may partly shift through wages or prices. Transfers can offset or reinforce the burden.
 
-**Qualified conclusion:** **Claim:** Direct and indirect taxes. **Named evidence/example:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Progressivity. **Named evidence/example:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Therefore, progressivity cannot be inferred from the statutory rate or taxpayer name. Analysis must identify the legal base, trace shifting and assess the tax-and-transfer outcome. However, incidence estimates vary by market structure and time horizon; they are evidence-based distributions, not fixed labels.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish direct, indirect, progressive and regressive tax concepts. Answer in about 150…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Native-body word count:** 141 / 150.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Direct and indirect taxes. **Named evidence/example:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Progressivity. **Named evidence/example:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Direct and indirect taxes. **Named evidence/example:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Progressivity. **Named evidence/example:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish direct, indirect, progressive and regressive tax concepts. Answer in about 150…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named constitutional/statutory evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Explain GST's destination principle and input-tax-credit mechanism. Answer in about 150 words.
+**Question:** Explain how input-tax credit and destination-based IGST jointly support a common market. Answer in 150 words.
 
-**Model thesis:** **Claim:** GST destination principle. **Named evidence/example:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Input tax credit. **Named evidence/example:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** IGST settlement. **Named evidence/example:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+GST combines input-tax credit with destination-based IGST. An eligible registered person offsets tax paid on business inputs against output liability, so net payment approximates tax on value added. This limits cascading and supports invoice reporting, subject to eligibility and documentation.
 
-- GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-- Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-- The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
+For inter-State supplies, Article 269A authorises Union levy and collection of IGST, while credit and settlement rules transfer revenue toward the destination. Supplies can cross State borders without breaking credit at each border or assigning tax to the producing State.
 
-**Qualified conclusion:** **Claim:** GST destination principle. **Named evidence/example:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Input tax credit. **Named evidence/example:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** IGST settlement. **Named evidence/example:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Together, these mechanisms support a common market through neutrality and destination assignment. However, blocked credits, exempt links, place-of-supply disputes, delayed refunds and fraud can weaken that result. The architecture reduces fiscal barriers; it does not guarantee frictionless trade without sound administration and prompt settlement.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain GST's destination principle and input-tax-credit mechanism. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Native-body word count:** 143 / 150.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** GST destination principle. **Named evidence/example:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Input tax credit. **Named evidence/example:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** IGST settlement. **Named evidence/example:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** GST destination principle. **Named evidence/example:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Input tax credit. **Named evidence/example:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** IGST settlement. **Named evidence/example:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Explain GST's destination principle and input-tax-credit mechanism. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named constitutional/statutory evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Enumerate the major subsumed and excluded tax categories under GST. Answer in about 250 words.
+**Question:** Analyse the constitutional balance between the GST Council's harmonising role and legislative autonomy after Mohit Minerals. Answer in 250 words.
 
-**Model thesis:** **Claim:** Subsumed Union taxes. **Named evidence/example:** The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Subsumed State taxes. **Named evidence/example:** The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GST exclusions. **Named evidence/example:** Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The GST Constitution combines shared coordination with legislative autonomy. Article 246A gives Parliament and State legislatures simultaneous GST power, while Parliament has exclusive power over inter-State supplies. Article 279A creates the GST Council to recommend rates, exemptions, model laws, thresholds and place-of-supply principles. Its weighted voting gives one-third to the Union and two-thirds collectively to States, with a three-fourths decision threshold.
 
-- The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST.
-- The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST.
-- Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage.
+In Union of India v Mohit Minerals Pvt Ltd, decided on 19 May 2022, the Supreme Court held that Council recommendations have persuasive value but are not binding on Union and State legislatures. Binding recommendations would dilute the simultaneous authority conferred by Article 246A. Yet the Court recognised that GST depends on dialogue and cooperative federalism.
 
-**Qualified conclusion:** **Claim:** Subsumed Union taxes. **Named evidence/example:** The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Subsumed State taxes. **Named evidence/example:** The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GST exclusions. **Named evidence/example:** Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+This balance supports harmonisation without creating an extra-constitutional legislature. Common recommendations reduce trade barriers, classification divergence and compliance costs; retained legislative accountability preserves democratic choice. However, persistent divergence could fragment credit and settlement even when constitutionally permissible.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Enumerate the major subsumed and excluded tax categories under GST. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Thus, non-binding does not mean irrelevant. Council consensus needs transparent data, reasoned recommendations, valid legislation and clear notifications. Judicial review and legislative autonomy remain safeguards, while political cooperation makes the system work. GST is negotiated harmonisation, neither Union command nor unrestricted State tax competition.
 
-**Detailed examiner-grade model answer:**
+**Native-body word count:** 217 / 250.
 
-**Introduction and thesis:** **Claim:** Subsumed Union taxes. **Named evidence/example:** The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Subsumed State taxes. **Named evidence/example:** The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GST exclusions. **Named evidence/example:** Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Subsumed Union taxes. **Named evidence/example:** The owner lists Central Excise Duty on covered items, Service Tax, Additional Excise Duties, CVD, SAD and relevant central cesses or surcharges on supply among Union levies subsumed into GST. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Subsumed State taxes. **Named evidence/example:** The owner lists State VAT or Sales Tax, Central Sales Tax as collected, Purchase Tax, specified Entertainment Tax, Octroi or Entry Tax, Luxury Tax and taxes on lotteries, betting and gambling among State levies subsumed into GST. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GST exclusions. **Named evidence/example:** Basic customs duty, stamp duty, property tax, electricity duty and state excise on alcohol for human consumption remain outside GST, while the owner records specified petroleum products as not yet brought under GST at its stated vintage. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Enumerate the major subsumed and excluded tax categories under GST. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named constitutional/statutory evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Distinguish the GST Council and Finance Commission. Answer in about 250 words.
+**Question:** Examine GST compensation as a problem of transition design and fiscal-federal trust. Answer in 250 words.
 
-**Model thesis:** **Claim:** GST Council voting. **Named evidence/example:** Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Finance Commission role. **Named evidence/example:** The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Vertical and horizontal imbalance. **Named evidence/example:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The GST (Compensation to States) Act, 2017 created transition insurance, not ordinary devolution. It protected defined State revenue for five years from GST rollout, using 2015-16 as the base and 14 per cent annual protected growth. A cess on specified luxury and demerit goods financed the fund, reducing the perceived risk of surrendering State indirect-tax bases.
 
-- Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision.
-- The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates.
-- Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
+COVID-19 exposed the design's financing weakness. Collections fell while protected claims continued, creating a gap. Back-to-back Union borrowing transferred resources to States, and cess collection continued beyond the original period to service that liability. The compensation entitlement ended in June 2022; loan servicing and cess continuation were distinct.
 
-**Qualified conclusion:** **Claim:** GST Council voting. **Named evidence/example:** Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Finance Commission role. **Named evidence/example:** The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Vertical and horizontal imbalance. **Named evidence/example:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Exit also required date discipline. The GST Council Secretariat recorded that Notification 03/2025-Compensation Cess (Rate), dated 31 December 2025, made specified pan-masala and tobacco entries nil from 1 February 2026 alongside revised GST treatment.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish the GST Council and Finance Commission. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+The episode yields three lessons: federal reforms need credible transition insurance; shock-financing responsibilities should be specified beforehand; and recommendations, statutory entitlement, borrowing and notified levy must remain distinct. Permanent compensation could weaken reform incentives, but abrupt withdrawal can damage trust. Future transitions should combine transparent baselines, independent reconciliation, time-bound support and a pre-announced exit linked to measurable liabilities.
 
-**Detailed examiner-grade model answer:**
+**Native-body word count:** 216 / 250.
 
-**Introduction and thesis:** **Claim:** GST Council voting. **Named evidence/example:** Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Finance Commission role. **Named evidence/example:** The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Vertical and horizontal imbalance. **Named evidence/example:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** GST Council voting. **Named evidence/example:** Article 279A gives the Centre one-third of weighted GST Council votes and states together two-thirds, with at least three-fourths of weighted votes required for a decision. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Finance Commission role. **Named evidence/example:** The Finance Commission is a constitutional body recommending tax devolution and grants and does not set GST rates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Vertical and horizontal imbalance. **Named evidence/example:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish the GST Council and Finance Commission. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named constitutional/statutory evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Evaluate India's fiscal-federal architecture through devolution, cesses and GST settlement. Answer in about 300 words.
+**Question:** Discuss how the Sixteenth Finance Commission balances equalisation, incentives and fiscal autonomy. Answer in 250 words.
 
-**Model thesis:** **Claim:** IGST settlement. **Named evidence/example:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Vertical and horizontal imbalance. **Named evidence/example:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Fifteenth Finance Commission. **Named evidence/example:** The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Sixteenth Finance Commission. **Named evidence/example:** The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Cesses and surcharges. **Named evidence/example:** Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The Sixteenth Finance Commission's award covers 2026-27 to 2030-31. Its accepted vertical recommendation retains States' collective share at 41 per cent of net proceeds in the divisible pool. This supports continuity, but Article 271 surcharges and specific-purpose cesses remain outside that base; 41 per cent is not a share of gross Union receipts.
 
-- The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention.
-- Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria.
-- The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort.
-- The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum.
-- Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise.
+Horizontal distribution combines equity and incentives. Official Table 8.8 assigns 42.5 per cent to per capita GSDP distance, 17.5 per cent to 2011 population, and 10 per cent each to demographic performance, area, forest and State contribution to GDP. Income distance advances equalisation; area and forest recognise cost and ecological constraints; demographic performance and GDP contribution reward outcomes and contribution.
 
-**Qualified conclusion:** **Claim:** IGST settlement. **Named evidence/example:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Vertical and horizontal imbalance. **Named evidence/example:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Fifteenth Finance Commission. **Named evidence/example:** The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Sixteenth Finance Commission. **Named evidence/example:** The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Cesses and surcharges. **Named evidence/example:** Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+The Commission recommended no revenue-deficit, sector-specific or State-specific grants. It recommended Rs 7,91,493 crore in local-body grants, with entry conditions concerning duly constituted bodies, public accounts and regular State Finance Commissions. Conditions may improve accountability, but delayed compliance can deprive weak local bodies.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate India's fiscal-federal architecture through devolution, cesses and GST settlement.…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+No formula removes distributive conflict. Richer States seek stronger contribution incentives, while poorer States stress comparable service capacity. Cesses may narrow untied space despite a stable vertical percentage. The award is negotiated equalisation: untied devolution should remain central, CAG-certified net proceeds should strengthen trust, and conditional grants should serve verifiable national or local-governance objectives.
 
-**Detailed examiner-grade model answer:**
+**Native-body word count:** 234 / 250.
 
-**Introduction and thesis:** **Claim:** IGST settlement. **Named evidence/example:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Vertical and horizontal imbalance. **Named evidence/example:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Fifteenth Finance Commission. **Named evidence/example:** The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Sixteenth Finance Commission. **Named evidence/example:** The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Cesses and surcharges. **Named evidence/example:** Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** IGST settlement. **Named evidence/example:** The IGST architecture supports inter-state supply taxation and settlement toward the destination jurisdiction; it must not be described as simple origin-based revenue retention. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Vertical and horizontal imbalance. **Named evidence/example:** Vertical devolution addresses the Union-state resource gap, while horizontal distribution allocates the states' share among states using capacity, need and incentive criteria. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Fifteenth Finance Commission. **Named evidence/example:** The owner records a 41 per cent vertical devolution share for the Fifteenth Finance Commission and criteria including income distance, population, area, forest and ecology, demographic performance and tax effort. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Sixteenth Finance Commission. **Named evidence/example:** The owner records the Sixteenth Finance Commission award period as 2026-27 to 2030-31 and the accepted vertical share as 41 per cent of the divisible pool; other recommendations require the report and action-taken memorandum. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Cesses and surcharges. **Named evidence/example:** Cesses and surcharges have sharing treatment distinct from ordinary divisible-pool taxes and can narrow states' untied share even when gross Union tax collections rise. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Evaluate India's fiscal-federal architecture through devolution, cesses and GST settlement.…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named constitutional/statutory evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** How can tax design balance equity, compliance, state autonomy and a common market? Answer in about 300 words.
+**Question:** Differentiate the Finance Commission, GST Council and Union Budget, and assess how their interaction shapes fiscal federalism. Answer in 250 words.
 
-**Model thesis:** **Claim:** Direct and indirect taxes. **Named evidence/example:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Progressivity. **Named evidence/example:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GST destination principle. **Named evidence/example:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Input tax credit. **Named evidence/example:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Tax administration. **Named evidence/example:** CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-tax law and federal trust. **Named evidence/example:** The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+India's fiscal architecture uses three distinct constitutional processes. The GST Council under Article 279A recommends harmonised GST rates, exemptions, thresholds and place-of-supply principles. Its recommendations coordinate governments but, after Mohit Minerals, are not binding legislation.
 
-- Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices.
-- Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence.
-- GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment.
-- Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied.
-- CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters.
-- The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment.
+The Finance Commission under Article 280 is periodically constituted by the President. It recommends vertical distribution of shareable Union taxes, horizontal allocation among States, Article 275 grant principles and measures to augment State funds for local bodies. Article 281 requires its report and action-taken memorandum to be laid before Parliament. The accepted Sixteenth Commission share for 2026-31 is 41 per cent of the divisible pool.
 
-**Qualified conclusion:** **Claim:** Direct and indirect taxes. **Named evidence/example:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Progressivity. **Named evidence/example:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GST destination principle. **Named evidence/example:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Input tax credit. **Named evidence/example:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Tax administration. **Named evidence/example:** CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-tax law and federal trust. **Named evidence/example:** The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+The Union Budget is the annual fiscal-authorisation process. It estimates receipts, proposes legislated tax changes and authorises expenditure subject to Parliament. It provides yearly resources for accepted transfers, but cannot convert a non-shareable cess into Finance Commission devolution without legal change.
 
-**Demand decoding:** The directive **answer** requires a direct position on “How can tax design balance equity, compliance, state autonomy and a common market? Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Their interaction shapes trust. Council choices influence State GST revenue; Finance Commission transfers address vertical and horizontal gaps; the Budget supplies annual provisioning and disclosure. Confusion arises when a Council statement is treated as law, a Commission recommendation as self-executing, or a Budget announcement as constitutional devolution. Cooperative federalism therefore requires role clarity, reliable data, timely settlement, transparent net-proceeds certification and respect for both harmonisation and State accountability.
 
-**Detailed examiner-grade model answer:**
+**Native-body word count:** 228 / 250.
 
-**Introduction and thesis:** **Claim:** Direct and indirect taxes. **Named evidence/example:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Progressivity. **Named evidence/example:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GST destination principle. **Named evidence/example:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Input tax credit. **Named evidence/example:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Tax administration. **Named evidence/example:** CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-tax law and federal trust. **Named evidence/example:** The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Direct and indirect taxes. **Named evidence/example:** Direct taxes impose legal incidence on income, profit or wealth-related bases, while indirect taxes apply to transactions or consumption and may be shifted through prices. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Progressivity. **Named evidence/example:** Progressive, proportional and regressive describe how the burden changes relative to income, tax base or ability to pay; statutory rate alone does not establish incidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GST destination principle. **Named evidence/example:** GST is a destination-based value-added tax on supply, so final consumption jurisdiction is central to revenue assignment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Input tax credit. **Named evidence/example:** Input tax credit reduces cascading only when legal eligibility, invoice and compliance conditions are satisfied. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Tax administration. **Named evidence/example:** CBDT administers Union direct taxes, while CBIC and state GST administrations handle indirect-tax and GST functions within their respective legal perimeters. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-tax law and federal trust. **Named evidence/example:** The owner records the Income-tax Act, 2025 and Income-tax Rules, 2026 as commencing on 1 April 2026 while earlier years remain governed by the applicable prior law; sound fiscal federalism also requires predictable transfers, compliance capacity and transparent assignment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “How can tax design balance equity, compliance, state autonomy and a common market? Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named constitutional/statutory evidence -> economic analysis -> qualification -> concise conclusion.

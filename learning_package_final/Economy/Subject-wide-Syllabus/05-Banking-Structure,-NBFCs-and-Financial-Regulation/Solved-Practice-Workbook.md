@@ -1,1150 +1,890 @@
----
-title: "Banking Structure, NBFCs and Financial Regulation — Solved Practice Workbook"
-topic_key: economy-05
----
-# Banking Structure, NBFCs and Financial Regulation — Solved Practice Workbook
+# Banking Structure, NBFCs and Financial Regulation - Solved Practice Workbook
+
+**Standalone scope:** exactly 32 original MCQs before PYQs, strict ABCD rotation repeated eight times, 128 substantive unique option explanations, 32 unique examiner traps, official-key discipline and six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Scheduled-bank status?
+**Practice contract:** exactly 32 original MCQs; correct answers follow `ABCD` repeated eight times. Every option receives a question-specific explanation.
 
-A. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-B. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-C. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-D. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
+### MCQ 1
 
-**Answer: A.**
-**Explanation:** A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+Which feature is part of the statutory meaning of banking under section 5(b) of the Banking Regulation Act?
 
-### Q2. Which option preserves the accounting or regulatory boundary of Scheduled-bank status?
-
-A. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-B. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-C. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-D. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-
-**Answer: B.**
-**Explanation:** A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses Scheduled-bank status without losing its vintage, basket or legal status?
-
-A. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-B. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-C. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-D. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-
-**Answer: C.**
-**Explanation:** A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Scheduled-bank status?
-
-A. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-B. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-C. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-D. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-
-**Answer: D.**
-**Explanation:** A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies Commercial-bank function?
-
-A. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-B. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-C. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-D. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
+- A. Accepting public deposits repayable on demand or otherwise for lending or investment
+- B. Accepting only equity capital for own investment
+- C. Providing investment advice without taking repayable funds
+- D. Operating a securities exchange for listed companies
 
 **Answer: A.**
-**Explanation:** Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q6. Which option preserves the accounting or regulatory boundary of Commercial-bank function?
+**Option-specific explanations:**
 
-A. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-B. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-C. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-D. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
+- **A - Correct:** It preserves both the liability side and the use of funds in the statutory definition.
+- **B - Incorrect:** Equity raised from owners is not a public deposit repayable to customers.
+- **C - Incorrect:** Advice alone does not satisfy the deposit-and-lending definition.
+- **D - Incorrect:** Exchange operation falls in the securities-market perimeter, not section 5(b) banking.
+
+**Examiner trap 1:** Do not reduce banking to lending; the public-deposit and withdrawal promise is essential.
+
+### MCQ 2
+
+On a commercial bank's balance sheet, which item is ordinarily a liability?
+
+- A. Loans to households
+- B. Customer fixed deposits
+- C. Government securities held by the bank
+- D. Cash balance maintained with RBI
 
 **Answer: B.**
-**Explanation:** Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q7. Which statement uses Commercial-bank function without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-B. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-C. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-D. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
+- **A - Incorrect:** A loan is a claim receivable by the bank and therefore an asset.
+- **B - Correct:** The bank owes the deposited principal and contracted interest to the customer.
+- **C - Incorrect:** An investment owned by the bank is an asset, even if liquid.
+- **D - Incorrect:** Cash and reserve balances are assets available for settlement or compliance.
+
+**Examiner trap 2:** Read the balance sheet from the bank's perspective, not the customer's.
+
+### MCQ 3
+
+What best describes maturity transformation by a bank?
+
+- A. Turning every term deposit into equity capital
+- B. Exchanging damaged currency notes for new notes
+- C. Funding longer loans with a mix that includes shorter or withdrawable liabilities
+- D. Converting a non-performing loan into cash without loss
 
 **Answer: C.**
-**Explanation:** Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Commercial-bank function?
+**Option-specific explanations:**
 
-A. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-B. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-C. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-D. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
+- **A - Incorrect:** Deposits remain debt liabilities and do not become owner capital.
+- **B - Incorrect:** Currency exchange is an operational service, not maturity transformation.
+- **C - Correct:** Banks bridge savers' liquidity preference and borrowers' longer financing horizon.
+- **D - Incorrect:** Illiquid credit cannot be assumed to become cash at par.
+
+**Examiner trap 3:** Maturity transformation creates value and liquidity risk at the same time.
+
+### MCQ 4
+
+Which statement about scheduled-bank status is correct?
+
+- A. It is conferred automatically on every company licensed to lend
+- B. It means the bank is owned by the Union Government
+- C. It guarantees that RBI will prevent the bank from failing
+- D. It is defined by inclusion in the Second Schedule to the RBI Act, 1934
 
 **Answer: D.**
-**Explanation:** Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q9. Which statement correctly identifies Co-operative-bank perimeter?
+**Option-specific explanations:**
 
-A. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-B. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-C. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-D. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
+- **A - Incorrect:** A lending company may be an NBFC and not a bank, much less a scheduled bank.
+- **B - Incorrect:** The Schedule includes banks with different ownership forms.
+- **C - Incorrect:** Legal classification does not remove insolvency or resolution risk.
+- **D - Correct:** Second Schedule inclusion is the defining legal test.
+
+**Examiner trap 4:** Scheduled is a statutory status, not an ownership or guarantee label.
+
+### MCQ 5
+
+Which statement correctly separates ownership from regulation?
+
+- A. A public-sector bank may be government-owned while RBI separately regulates its banking conduct
+- B. RBI owns every bank that it supervises
+- C. A private bank's board replaces the need for prudential rules
+- D. Government ownership makes management decisions an MPC function
 
 **Answer: A.**
-**Explanation:** Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q10. Which option preserves the accounting or regulatory boundary of Co-operative-bank perimeter?
+**Option-specific explanations:**
 
-A. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-B. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-C. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-D. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
+- **A - Correct:** Ownership rights and regulatory powers arise from different legal relationships.
+- **B - Incorrect:** Supervisory jurisdiction does not transfer ownership to the regulator.
+- **C - Incorrect:** Board governance and external prudential supervision perform different functions.
+- **D - Incorrect:** The Monetary Policy Committee does not manage commercial-bank credit decisions.
+
+**Examiner trap 5:** Always identify owner, board, management and regulator separately.
+
+### MCQ 6
+
+Which statement about a foreign bank's presence in India is most accurate?
+
+- A. A foreign bank can operate only through a representative office that accepts deposits
+- B. A branch and a locally incorporated wholly owned subsidiary are distinct regulatory forms
+- C. Both forms have identical local capital and governance treatment
+- D. Foreign ownership removes RBI licensing jurisdiction
 
 **Answer: B.**
-**Explanation:** Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q11. Which statement uses Co-operative-bank perimeter without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-B. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-C. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-D. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
+- **A - Incorrect:** A representative office is not a deposit-taking bank branch.
+- **B - Correct:** RBI applies model-specific entry, capital and governance conditions.
+- **C - Incorrect:** Branch and subsidiary models create different legal and loss-absorption structures.
+- **D - Incorrect:** Banking in India remains subject to RBI permission and regulation.
+
+**Examiner trap 6:** Do not transfer a WOS condition mechanically to the branch model.
+
+### MCQ 7
+
+What is the statutory ownership ratio of a Regional Rural Bank?
+
+- A. Union Government 51%, RBI 24%, NABARD 25%
+- B. Sponsor bank 50%, State Government 35%, Union Government 15%
+- C. Union Government 50%, sponsor bank 35%, State Government 15%
+- D. Union and State Governments hold 50% each
 
 **Answer: C.**
-**Explanation:** Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Co-operative-bank perimeter?
+**Option-specific explanations:**
 
-A. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-B. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-C. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-D. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
+- **A - Incorrect:** RBI and NABARD are not statutory equity owners in that formula.
+- **B - Incorrect:** The shares are assigned in a different order under the RRB framework.
+- **C - Correct:** The 50:35:15 formula reflects three-way ownership under the RRB Act.
+- **D - Incorrect:** The sponsor bank's statutory stake cannot be omitted.
+
+**Examiner trap 7:** Remember both the numbers and which institution owns each share.
+
+### MCQ 8
+
+What is the safest description of co-operative-bank dual control after the 2020 amendment?
+
+- A. All State and Central Registrar powers were abolished
+- B. RBI regulates only payments while States regulate prudence
+- C. Every primary co-operative society became an insured bank
+- D. RBI's banking and governance powers expanded, while co-operative-law functions still remain with the relevant registrar
 
 **Answer: D.**
-**Explanation:** Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q13. Which statement correctly identifies NBFC boundary?
+**Option-specific explanations:**
 
-A. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-B. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-C. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-D. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
+- **A - Incorrect:** The co-operative legal form, registration and specified bye-law processes remain.
+- **B - Incorrect:** RBI's banking-law role includes licensing, prudence and supervision.
+- **C - Incorrect:** A credit society does not become a bank merely because co-operative law permits member transactions.
+- **D - Correct:** The amendment narrows regulatory gaps without erasing the co-operative-law layer.
+
+**Examiner trap 8:** Avoid saying dual control ended completely.
+
+### MCQ 9
+
+Which feature most clearly characterises the Local Area Bank model?
+
+- A. A banking licence combined with a deliberately limited local geography
+- B. A nationwide bank prohibited from local lending
+- C. An NBFC permitted to issue cheques without a bank licence
+- D. A co-operative society owned only by its borrowers
 
 **Answer: A.**
-**Explanation:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q14. Which option preserves the accounting or regulatory boundary of NBFC boundary?
+**Option-specific explanations:**
 
-A. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-B. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-C. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-D. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
+- **A - Correct:** The model combines deposit banking with a geographically bounded market.
+- **B - Incorrect:** The model was created precisely for local mobilisation and credit.
+- **C - Incorrect:** Cheque-linked deposit banking requires the banking perimeter.
+- **D - Incorrect:** LABs are a distinct private-sector banking model, not co-operative societies.
+
+**Examiner trap 9:** Do not confuse local geography with co-operative ownership.
+
+### MCQ 10
+
+Which statement about Small Finance Banks is correct as of the cited rules?
+
+- A. They may provide payments but cannot lend from their balance sheet
+- B. They accept deposits and lend, with an overall PSL target of 60% from FY 2025-26
+- C. They are always Base-Layer NBFCs
+- D. Their PSL target is permanently fixed by the Constitution
 
 **Answer: B.**
-**Explanation:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q15. Which statement uses NBFC boundary without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-B. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-C. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-D. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
+- **A - Incorrect:** That restriction defines Payments Banks, not SFBs.
+- **B - Correct:** RBI's 20 June 2025 circular set the 60 per cent overall target from FY 2025-26.
+- **C - Incorrect:** An SFB is a bank, not an NBFC layer.
+- **D - Incorrect:** PSL targets come from RBI directions and can change.
+
+**Examiner trap 10:** Date the current SFB target and keep it separate from the Payments Bank model.
+
+### MCQ 11
+
+Which combination correctly describes a Payments Bank under RBI directions updated 1 April 2026?
+
+- A. Term project lending is permitted but remittances are prohibited
+- B. Credit cards are permitted if deposits stay below Rs 2 lakh
+- C. Demand deposits and payments are permitted, but own-balance-sheet lending is prohibited
+- D. It is an NBFC because it cannot lend
 
 **Answer: C.**
-**Explanation:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q16. Which option avoids the standard UPSC close-option trap about NBFC boundary?
+**Option-specific explanations:**
 
-A. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-B. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-C. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-D. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
+- **A - Incorrect:** The model centres on payments and does not permit ordinary lending.
+- **B - Incorrect:** The deposit cap does not authorise credit-card lending.
+- **C - Correct:** The licence separates payment and deposit access from credit intermediation.
+- **D - Incorrect:** A Payments Bank is a differentiated bank with a banking licence.
+
+**Examiner trap 11:** No lending does not mean no banking status.
+
+### MCQ 12
+
+What is the current Payments Bank customer-balance rule cited in this package?
+
+- A. Maximum Rs 2 lakh across every bank owned by the customer
+- B. Minimum Rs 2 lakh balance before payments are allowed
+- C. No cap applies because DICGC insurance is Rs 5 lakh
+- D. Maximum Rs 2 lakh per individual customer at the end of the day
 
 **Answer: D.**
-**Explanation:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q17. Which statement correctly identifies Systemic regulation?
+**Option-specific explanations:**
 
-A. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-B. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-C. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-D. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
+- **A - Incorrect:** The rule applies to an individual customer's balance with the Payments Bank.
+- **B - Incorrect:** The amount is a ceiling, not a minimum.
+- **C - Incorrect:** Deposit insurance and the Payments Bank operating cap are separate rules.
+- **D - Correct:** RBI Directions updated 1 April 2026 retain the end-of-day ceiling.
+
+**Examiner trap 12:** Do not substitute the DICGC limit for the Payments Bank balance limit.
+
+### MCQ 13
+
+Which statement best describes a Business Correspondent?
+
+- A. An agent delivering specified bank services while the bank remains responsible
+- B. A separate bank that may create deposits in its own name
+- C. An unregulated lender exempt from customer-protection rules
+- D. A DICGC office that pays insured deposits
 
 **Answer: A.**
-**Explanation:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q18. Which option preserves the accounting or regulatory boundary of Systemic regulation?
+**Option-specific explanations:**
 
-A. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-B. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-C. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-D. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
+- **A - Correct:** The agency model extends reach without transferring the bank's legal responsibility.
+- **B - Incorrect:** The BC acts for the principal bank and does not become a bank.
+- **C - Incorrect:** The appointing bank must control and monitor the arrangement.
+- **D - Incorrect:** Deposit insurance administration is unrelated to the BC agency role.
+
+**Examiner trap 13:** Agent access is not a separate banking licence.
+
+### MCQ 14
+
+Which statutory provision is central to licensing a banking company?
+
+- A. Section 42 of the RBI Act alone
+- B. Section 22 of the Banking Regulation Act, 1949
+- C. Section 3 of the DICGC Act
+- D. Section 45-IA of the RBI Act for every bank
 
 **Answer: B.**
-**Explanation:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q19. Which statement uses Systemic regulation without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-B. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-C. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-D. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
+- **A - Incorrect:** Section 42 concerns scheduled-bank reserves and schedule status, not the whole licensing power.
+- **B - Correct:** Section 22 places banking-company entry within RBI's licensing power.
+- **C - Incorrect:** That provision establishes the deposit insurer rather than granting bank licences.
+- **D - Incorrect:** Section 45-IA governs NBFC registration, not commercial-bank licensing.
+
+**Examiner trap 14:** Do not confuse a bank licence, scheduled status and NBFC registration.
+
+### MCQ 15
+
+Which institutions are excluded from the revised SCB PCA framework effective 1 January 2022?
+
+- A. Foreign bank branches and subsidiaries
+- B. All private-sector banks
+- C. Small Finance Banks, Payments Banks and Regional Rural Banks
+- D. All non-scheduled commercial banks only
 
 **Answer: C.**
-**Explanation:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Systemic regulation?
+**Option-specific explanations:**
 
-A. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-B. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-C. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-D. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
+- **A - Incorrect:** The framework states that banks operating in India include foreign branches and subsidiaries.
+- **B - Incorrect:** Private ownership does not create a general PCA exemption.
+- **C - Correct:** The RBI circular's addressee line expressly identifies these three exclusions.
+- **D - Incorrect:** The cited framework is for scheduled commercial banks and names different exclusions.
+
+**Examiner trap 15:** Apply a PCA framework only to the entity class named in the direction.
+
+### MCQ 16
+
+Which statement correctly distinguishes PCA from resolution?
+
+- A. PCA automatically pays every depositor Rs 5 lakh
+- B. PCA transfers ownership to RBI immediately
+- C. Resolution is merely a higher CRAR threshold
+- D. PCA imposes early corrective restrictions; resolution restructures or winds down a failing institution
 
 **Answer: D.**
-**Explanation:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q21. Which statement correctly identifies Multi-tier banking structure?
+**Option-specific explanations:**
 
-A. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-B. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-C. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-D. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
+- **A - Incorrect:** DICGC, not PCA, administers insured-deposit protection.
+- **B - Incorrect:** Corrective supervision does not itself nationalise the bank.
+- **C - Incorrect:** Resolution concerns institutional continuity and loss allocation, not a prudential ratio.
+- **D - Correct:** PCA seeks recovery before disorderly failure while resolution handles non-viability.
+
+**Examiner trap 16:** Prevention, liquidity support, resolution and insurance are four different tools.
+
+### MCQ 17
+
+How are multiple accounts of one depositor in different branches of the same bank treated for DICGC cover?
+
+- A. They are aggregated when held in the same right and capacity
+- B. Each branch automatically receives a separate Rs 5 lakh cover
+- C. Only the oldest account is insured
+- D. Savings accounts are insured but fixed deposits are excluded
 
 **Answer: A.**
-**Explanation:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q22. Which option preserves the accounting or regulatory boundary of Multi-tier banking structure?
+**Option-specific explanations:**
 
-A. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-B. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-C. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-D. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
+- **A - Correct:** DICGC applies the same-right-and-capacity rule across the insured bank.
+- **B - Incorrect:** Branch location does not split the bank-wise insurance unit.
+- **C - Incorrect:** Eligible balances are aggregated rather than selected by age.
+- **D - Incorrect:** Eligible savings, current, fixed and recurring deposits are covered subject to exceptions.
+
+**Examiner trap 17:** The unit is not account-by-account or branch-by-branch.
+
+### MCQ 18
+
+Which claim is outside DICGC deposit insurance?
+
+- A. A savings deposit in an insured commercial bank
+- B. A debenture issued by an NBFC
+- C. A fixed deposit in an insured RRB
+- D. A current account in an insured Local Area Bank
 
 **Answer: B.**
-**Explanation:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q23. Which statement uses Multi-tier banking structure without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-B. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-C. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-D. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
+- **A - Incorrect:** Savings deposits are eligible bank deposits within the statutory ceiling.
+- **B - Correct:** DICGC protects eligible bank deposits, not market securities or ordinary NBFC liabilities.
+- **C - Incorrect:** RRBs are insured banks under the scheme.
+- **D - Incorrect:** Eligible current deposits in covered banks fall within deposit insurance.
+
+**Examiner trap 18:** Regulation by RBI does not itself create deposit insurance.
+
+### MCQ 19
+
+Under RBI's NBFC principal-business test, which combination is required?
+
+- A. Either financial assets or income exceeding 25%
+- B. All assets and all income must be financial
+- C. Financial assets over 50% of total assets and financial income over 50% of gross income
+- D. Only a company name containing finance
 
 **Answer: C.**
-**Explanation:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Multi-tier banking structure?
+**Option-specific explanations:**
 
-A. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-B. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-C. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-D. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
+- **A - Incorrect:** Both limbs of the 50-50 test are required.
+- **B - Incorrect:** The test identifies predominance, not exclusivity.
+- **C - Correct:** RBI's FAQ updated 29 April 2026 states the two cumulative tests.
+- **D - Incorrect:** Branding does not establish principal business.
+
+**Examiner trap 19:** Apply both 50 per cent limbs, not either one.
+
+### MCQ 20
+
+Which feature ordinarily separates an NBFC from a bank?
+
+- A. An NBFC cannot make loans
+- B. An NBFC cannot borrow from banks or markets
+- C. An NBFC is never supervised by RBI
+- D. An NBFC cannot accept demand deposits or issue cheques drawn on itself
 
 **Answer: D.**
-**Explanation:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q25. Which statement correctly identifies Differentiated licensing?
+**Option-specific explanations:**
 
-A. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-B. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-C. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-D. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
+- **A - Incorrect:** Lending is a central NBFC activity.
+- **B - Incorrect:** Non-deposit-taking entities can still use wholesale and institutional funding.
+- **C - Incorrect:** RBI registers and supervises NBFCs within its statutory perimeter.
+- **D - Correct:** Demand-deposit and payment-system powers define the sharper boundary.
+
+**Examiner trap 20:** Do not call an NBFC a bank merely because both extend credit.
+
+### MCQ 21
+
+Which statement correctly distinguishes NBFC-D from NBFC-ND?
+
+- A. NBFC-D has specific permission to accept public deposits; NBFC-ND does not
+- B. NBFC-ND has no liabilities to outside parties
+- C. NBFC-D deposits receive DICGC insurance
+- D. Every registered NBFC may choose either status daily
 
 **Answer: A.**
-**Explanation:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q26. Which option preserves the accounting or regulatory boundary of Differentiated licensing?
+**Option-specific explanations:**
 
-A. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-B. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-C. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-D. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
+- **A - Correct:** The suffix describes public-deposit permission, not the whole funding structure.
+- **B - Incorrect:** It may borrow from banks, markets or group entities.
+- **C - Incorrect:** DICGC does not insure deposits accepted by NBFCs.
+- **D - Incorrect:** Deposit-taking requires the applicable authorisation and compliance.
+
+**Examiner trap 21:** Public funds are broader than public deposits.
+
+### MCQ 22
+
+Which entity belongs to the SBR Base Layer by activity regardless of ordinary size classification?
+
+- A. Every deposit-taking NBFC
+- B. NBFC-Account Aggregator
+- C. Every Housing Finance Company
+- D. Every Core Investment Company
 
 **Answer: B.**
-**Explanation:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q27. Which statement uses Differentiated licensing without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-B. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-C. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-D. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
+- **A - Incorrect:** All NBFC-D are placed in Middle Layer unless escalated.
+- **B - Correct:** The 2025 SBR Directions specifically keep Account Aggregators in Base Layer.
+- **C - Incorrect:** HFCs are specified for Middle Layer unless in Upper Layer.
+- **D - Incorrect:** CICs are Middle or Upper Layer under the current framework.
+
+**Examiner trap 22:** Activity-based placement can override a simple size shortcut.
+
+### MCQ 23
+
+Which NBFC is necessarily placed in Middle Layer under the cited SBR directions unless in Upper Layer?
+
+- A. Every non-deposit-taking NBFC below Rs 1,000 crore
+- B. Every NBFC-P2P platform
+- C. A deposit-taking NBFC of any asset size
+- D. Every Type-I NBFC without public funds or customer interface
 
 **Answer: C.**
-**Explanation:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Differentiated licensing?
+**Option-specific explanations:**
 
-A. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-B. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-C. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-D. Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
+- **A - Incorrect:** That is the ordinary Base-Layer size rule.
+- **B - Incorrect:** P2P platforms remain in Base Layer by activity.
+- **C - Correct:** Deposit-taking status itself places the entity in Middle Layer.
+- **D - Incorrect:** Type-I NBFCs are specified for Base Layer.
+
+**Examiner trap 23:** Size is not the only SBR determinant.
+
+### MCQ 24
+
+What changed for NBFC Upper Layer identification on 24 June 2026?
+
+- A. All NBFCs above Rs 1,000 crore automatically became Upper Layer
+- B. Upper Layer was abolished and merged into Top Layer
+- C. Every government NBFC was permanently exempt from SBR
+- D. The framework specified an audited asset-size threshold of Rs 1,00,000 crore and above
 
 **Answer: D.**
-**Explanation:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q29. Which statement correctly identifies Rural place-based architecture?
+**Option-specific explanations:**
 
-A. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-B. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-C. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-D. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
+- **A - Incorrect:** Rs 1,000 crore is the ordinary Middle-Layer threshold for non-deposit takers.
+- **B - Incorrect:** The four-layer structure continues.
+- **C - Incorrect:** Government NBFCs remain within the framework subject to current directions.
+- **D - Correct:** The Second Amendment replaced the prior identification method with the stated size threshold.
+
+**Examiner trap 24:** Attach the June 2026 date because the Upper-Layer rule changed.
+
+### MCQ 25
+
+Which pair states the CIC asset-composition tests?
+
+- A. At least 90% in group-company exposures and at least 60% in qualifying group equity/InvIT sponsor units
+- B. At least 60% housing finance and 50% individual housing
+- C. At least 75% microfinance assets and 25% deposits
+- D. At least 50% factoring assets and 50% factoring income
 
 **Answer: A.**
-**Explanation:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q30. Which option preserves the accounting or regulatory boundary of Rural place-based architecture?
+**Option-specific explanations:**
 
-A. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-B. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-C. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-D. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
+- **A - Correct:** The CIC thresholds bind the entity to group-holding activity.
+- **B - Incorrect:** Those percentages identify an HFC.
+- **C - Incorrect:** The 75 per cent test belongs to NBFC-MFI and the deposit claim is wrong.
+- **D - Incorrect:** That 50-50 pair identifies an NBFC-Factor.
+
+**Examiner trap 25:** Keep net-asset composition separate from ordinary company shareholding.
+
+### MCQ 26
+
+Which pair identifies an HFC under the current RBI description?
+
+- A. 90% group-company assets and 60% group equity
+- B. At least 60% of assets in housing finance and at least 50% of total assets in individual housing finance
+- C. 75% microfinance assets and household income below Rs 3 lakh
+- D. 50% factoring assets and 50% factoring income
 
 **Answer: B.**
-**Explanation:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q31. Which statement uses Rural place-based architecture without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-B. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-C. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-D. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
+- **A - Incorrect:** Those are CIC tests.
+- **B - Correct:** The 60/50 structure preserves both housing focus and individual-housing depth.
+- **C - Incorrect:** Those conditions concern NBFC-MFI and microfinance loans.
+- **D - Incorrect:** Those conditions identify an NBFC-Factor.
+
+**Examiner trap 26:** Do not call every mortgage lender an HFC without the principal-business tests.
+
+### MCQ 27
+
+Which statement accurately describes an NBFC-MFI under the cited April 2026 RBI FAQ?
+
+- A. It is a Payments Bank limited to Rs 2 lakh deposits
+- B. It may secure every microloan by a lien on the borrower's deposit
+- C. At least 75% of assets are microfinance loans, which are collateral-free loans to households with annual income up to Rs 3 lakh
+- D. It must hold 90% of assets in group-company securities
 
 **Answer: C.**
-**Explanation:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Rural place-based architecture?
+**Option-specific explanations:**
 
-A. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-B. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-C. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-D. RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
+- **A - Incorrect:** Microfinance institution and Payments Bank are different categories.
+- **B - Incorrect:** The collateral-free rule bars linking the loan to such a lien.
+- **C - Correct:** Both the institution-level 75 per cent test and loan-level income/collateral test are required.
+- **D - Incorrect:** That is the CIC concentration test.
+
+**Examiner trap 27:** Do not confuse an NBFC-MFI with the wider category of all microfinance lenders.
+
+### MCQ 28
+
+What is the principal-business test for an NBFC-Factor?
+
+- A. At least 60% of assets in housing finance
+- B. At least 75% of assets in collateral-free household loans
+- C. At least 90% of net assets in group companies
+- D. At least 50% of total assets and 50% of gross income from factoring
 
 **Answer: D.**
-**Explanation:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q33. Which statement correctly identifies Priority Sector Lending?
+**Option-specific explanations:**
 
-A. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-B. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-C. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-D. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
+- **A - Incorrect:** That is part of the HFC definition.
+- **B - Incorrect:** That is the NBFC-MFI asset test.
+- **C - Incorrect:** That is the CIC test.
+- **D - Correct:** The two 50 per cent tests tie both balance sheet and earnings to receivables finance.
+
+**Examiner trap 28:** Factoring is receivables finance, not a generic loan label.
+
+### MCQ 29
+
+Which activity is prohibited for an NBFC-P2P under the 2025 Directions?
+
+- A. Lending from its own balance sheet or guaranteeing participant loans
+- B. Providing an online marketplace for participants
+- C. Assessing participant eligibility under board-approved policy
+- D. Routing prescribed fund flows through escrow arrangements
 
 **Answer: A.**
-**Explanation:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q34. Which option preserves the accounting or regulatory boundary of Priority Sector Lending?
+**Option-specific explanations:**
 
-A. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-B. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-C. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-D. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
+- **A - Correct:** The platform must remain an intermediary and cannot assume credit risk.
+- **B - Incorrect:** Loan facilitation is the platform's permitted core function.
+- **C - Incorrect:** Eligibility and matching rules form part of platform governance.
+- **D - Incorrect:** Escrow separates participant money from the platform's own balance sheet.
 
-**Answer: B.**
-**Explanation:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 29:** No guarantee means lenders bear the credit loss; registration is not assurance of return.
 
-### Q35. Which statement uses Priority Sector Lending without losing its vintage, basket or legal status?
+### MCQ 30
 
-A. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-B. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-C. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-D. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
+Which statement best defines an NBFC-Account Aggregator?
 
-**Answer: C.**
-**Explanation:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Priority Sector Lending?
-
-A. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-B. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-C. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-D. RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-
-**Answer: D.**
-**Explanation:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies PSL status caution?
-
-A. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-B. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-C. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-D. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-
-**Answer: A.**
-**Explanation:** PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of PSL status caution?
-
-A. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-B. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-C. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-D. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
+- A. A deposit wallet insured by DICGC
+- B. A consent-based financial-information intermediary that neither lends nor executes asset transactions
+- C. A P2P lender that sets guaranteed returns
+- D. A credit bureau that owns every customer's raw financial data
 
 **Answer: B.**
-**Explanation:** PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q39. Which statement uses PSL status caution without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-B. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-C. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
-D. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
+- **A - Incorrect:** An AA cannot accept deposits and is outside bank-deposit insurance.
+- **B - Correct:** AA regulation creates a neutral information rail governed by explicit customer consent.
+- **C - Incorrect:** AA activity concerns data, not loan matching or guarantees.
+- **D - Incorrect:** Customer financial information does not become the AA's property.
 
-**Answer: C.**
-**Explanation:** PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 30:** Information transfer, payment transfer and credit intermediation are different functions.
 
-### Q40. Which option avoids the standard UPSC close-option trap about PSL status caution?
+### MCQ 31
 
-A. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-B. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-C. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-D. PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number.
+Which chain best explains NBFC systemic risk?
 
-**Answer: D.**
-**Explanation:** PSL ratios, sub-targets and categories are periodically revised through RBI Master Directions, so a cited ratio must retain its effective direction and cannot be presented as a permanent constitutional or statutory number. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies NBFC contagion risk?
-
-A. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-B. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-C. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-D. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-
-**Answer: A.**
-**Explanation:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of NBFC contagion risk?
-
-A. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-B. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-C. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-D. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-
-**Answer: B.**
-**Explanation:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses NBFC contagion risk without losing its vintage, basket or legal status?
-
-A. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-B. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-C. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-D. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
+- A. Demand deposits -> cheque clearing -> DICGC payout in every case
+- B. Higher equity -> lower leverage -> automatic contagion
+- C. Short-term wholesale funding -> long assets -> rollover shock -> fire sales and interconnected losses
+- D. Long-term funding -> liquid assets -> no confidence effect
 
 **Answer: C.**
-**Explanation:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q44. Which option avoids the standard UPSC close-option trap about NBFC contagion risk?
+**Option-specific explanations:**
 
-A. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-B. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-C. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-D. The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
+- **A - Incorrect:** Ordinary NBFCs lack bank demand deposits and DICGC cover.
+- **B - Incorrect:** More loss-absorbing equity normally reduces, rather than mechanically creates, fragility.
+- **C - Correct:** The chain captures asset-liability mismatch and network propagation.
+- **D - Incorrect:** This configuration does not describe the classic maturity-mismatch channel.
 
-**Answer: D.**
-**Explanation:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 31:** Non-bank does not mean non-systemic.
 
-### Q45. Which statement correctly identifies DICGC perimeter?
+### MCQ 32
 
-A. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-B. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-C. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-D. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
+Which statement best separates NABARD, SIDBI and NaBFID?
 
-**Answer: A.**
-**Explanation:** DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of DICGC perimeter?
-
-A. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-B. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-C. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-D. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-
-**Answer: B.**
-**Explanation:** DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses DICGC perimeter without losing its vintage, basket or legal status?
-
-A. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-B. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-C. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-D. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-
-**Answer: C.**
-**Explanation:** DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about DICGC perimeter?
-
-A. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-B. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-C. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-D. DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
+- A. All three are Payments Banks
+- B. All three insure deposits
+- C. All three are ordinary NBFC-Factors
+- D. They have distinct rural, MSME and infrastructure development-finance mandates
 
 **Answer: D.**
-**Explanation:** DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q49. Which statement correctly identifies Prompt Corrective Action?
+**Option-specific explanations:**
 
-A. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-B. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-C. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-D. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
+- **A - Incorrect:** Their statutory development mandates are not narrow payment licences.
+- **B - Incorrect:** DICGC, not these DFIs, is the statutory deposit insurer.
+- **C - Incorrect:** Their legal creation and sector mandates differ from receivables-finance companies.
+- **D - Correct:** Institutional purpose, funding horizon and target sector distinguish the three DFIs.
 
-**Answer: A.**
-**Explanation:** RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 32:** Government connection does not make development institutions interchangeable.
 
-### Q50. Which option preserves the accounting or regulatory boundary of Prompt Corrective Action?
-
-A. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-B. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-C. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-D. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-
-**Answer: B.**
-**Explanation:** RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses Prompt Corrective Action without losing its vintage, basket or legal status?
-
-A. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-B. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-C. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-D. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-
-**Answer: C.**
-**Explanation:** RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Prompt Corrective Action?
-
-A. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-B. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-C. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-D. RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-
-**Answer: D.**
-**Explanation:** RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies Public-sector banking reform?
-
-A. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-B. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-C. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-D. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-
-**Answer: A.**
-**Explanation:** PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of Public-sector banking reform?
-
-A. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-B. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-C. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-D. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-
-**Answer: B.**
-**Explanation:** PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses Public-sector banking reform without losing its vintage, basket or legal status?
-
-A. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-B. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-C. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-D. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-
-**Answer: C.**
-**Explanation:** PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Public-sector banking reform?
-
-A. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-B. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-C. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-D. PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
-
-**Answer: D.**
-**Explanation:** PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Regulatory architecture?
-
-A. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-B. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-C. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-D. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-
-**Answer: A.**
-**Explanation:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Regulatory architecture?
-
-A. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-B. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-C. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-D. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-
-**Answer: B.**
-**Explanation:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Regulatory architecture without losing its vintage, basket or legal status?
-
-A. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-B. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-C. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-D. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-
-**Answer: C.**
-**Explanation:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Regulatory architecture?
-
-A. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-B. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-C. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-D. RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-
-**Answer: D.**
-**Explanation:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies Bank asset-liability classification?
-
-A. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-B. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-C. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-D. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-
-**Answer: A.**
-**Explanation:** Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of Bank asset-liability classification?
-
-A. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-B. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-C. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-D. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-
-**Answer: B.**
-**Explanation:** Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses Bank asset-liability classification without losing its vintage, basket or legal status?
-
-A. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-B. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-C. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-D. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-
-**Answer: C.**
-**Explanation:** Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Bank asset-liability classification?
-
-A. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-B. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-C. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-D. Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities.
-
-**Answer: D.**
-**Explanation:** Loans, investments, cash and balances with RBI or other banks are typical commercial-bank assets, while customer deposits are liabilities. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Financial Inclusion Index?
-
-A. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-B. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-C. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-D. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-
-**Answer: A.**
-**Explanation:** RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Financial Inclusion Index?
-
-A. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-B. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-C. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-D. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-
-**Answer: B.**
-**Explanation:** RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Financial Inclusion Index without losing its vintage, basket or legal status?
-
-A. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-B. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-C. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-D. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-
-**Answer: C.**
-**Explanation:** RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Financial Inclusion Index?
-
-A. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-B. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-C. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-D. RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened.
-
-**Answer: D.**
-**Explanation:** RBI's FI-Index measures Access, Usage and Quality, so it is broader than counting branches or accounts opened. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Syndicated lending?
-
-A. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-B. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-C. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-D. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-
-**Answer: A.**
-**Explanation:** Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Syndicated lending?
-
-A. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-B. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-C. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-D. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-
-**Answer: B.**
-**Explanation:** Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Syndicated lending without losing its vintage, basket or legal status?
-
-A. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-B. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-C. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-D. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-
-**Answer: C.**
-**Explanation:** Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Syndicated lending?
-
-A. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-B. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-C. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-D. Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination.
-
-**Answer: D.**
-**Explanation:** Syndicated lending uses multiple lenders under coordinated terms to share one exposure; risk sharing does not remove the need for appraisal and lender coordination. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Foreign banks and facility access?
-
-A. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-B. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-C. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-D. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-
-**Answer: A.**
-**Explanation:** Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Foreign banks and facility access?
-
-A. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-B. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-C. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-D. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-
-**Answer: B.**
-**Explanation:** Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Foreign banks and facility access without losing its vintage, basket or legal status?
-
-A. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-B. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-C. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-D. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-
-**Answer: C.**
-**Explanation:** Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Foreign banks and facility access?
-
-A. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-B. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-C. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-D. Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
-
-**Answer: D.**
-**Explanation:** Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Money, insurance and liability traps?
-
-A. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-B. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-C. A scheduled bank is included in the Second Schedule to the RBI Act subject to eligibility conditions; scheduled status is a legal classification rather than a guarantee against failure.
-D. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-
-**Answer: A.**
-**Explanation:** Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Money, insurance and liability traps?
-
-A. Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-B. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-C. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-D. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-
-**Answer: B.**
-**Explanation:** Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Money, insurance and liability traps without losing its vintage, basket or legal status?
-
-A. Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-B. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-C. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-D. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-
-**Answer: C.**
-**Explanation:** Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Money, insurance and liability traps?
-
-A. Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-B. An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-C. India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-D. Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework.
-
-**Answer: D.**
-**Explanation:** Withdrawing a demand deposit into cash changes the composition of money held rather than automatically creating fresh credit, while aviation hull insurance is distinct from airline legal liability under the Montreal Convention framework. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED OBJECTIVE-ONLY PYQ OWNERSHIP AUDIT
+### VERIFIED PYQ ROUTES AND OFFICIAL-KEY DISCIPLINE
 
-The audited ledgers route objective demands on PSB governance, the Service Area Approach, bank assets, public-bank appointments, demand deposits, urban co-operative banks, Banks Board Bureau, NBFC/LAF distinctions, foreign banks, syndicated lending, FI-Index dimensions and NBFC deposit and payment privileges here. No Mains demand or answer letter is invented.
+The repository routes thirteen objective demands to Topic 5. Exact wording is reproduced for the locally legible 2024 questions. The final official 2024 Set-A key is used exactly; Question 52 was dropped. The locally held 2026 key is provisional, so the required withholding sentence is used. No official descriptive model answer exists.
 
-### OWNER PYQ LEDGER EXTRACTS
+### PYQ 1 - UPSC Prelims 2024, GS Paper I, Set A, Question 42
 
-#### 9. PYQ application
+Consider the following statements:
 
-- ⚠️ 2026 Prelims directly pushed distinctions between FI-Index dimensions and
-  mere account-count measures.
-- ⚠️ 2026 Prelims also required separating RBI registration of NBFCs from
-  deposit insurance and payment-system participation.
-- ⚠️ 2024 Prelims combined NBFC access windows, FPI or G-sec holdings and
-  exchange debt platforms, rewarding venue-specific rather than generic
-  statements.
-- ⚠️ 2024 Prelims also tested qualified foreign-bank subsidiary statements,
-  showing UPSC's preference for governance and capital nuance.
-- ⚠️ Historical prelims have repeatedly used urban cooperative banks, demand
-  deposits, PSB governance bodies and syndicated lending to test whether
-  candidates confuse ownership, assets, liabilities and regulatory role.
+1. In India, Non-Banking Financial Companies can access the Liquidity Adjustment Facility window of the Reserve Bank of India.
+2. In India, Foreign Institutional Investors can hold Government Securities.
+3. In India, Stock Exchanges can offer separate trading platforms for debts.
 
-#### 2026 PYQ Integration
+Which of the statements given above is/are correct?
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+- A. 1 and 2 only
+- B. 3 only
+- C. 1, 2 and 3
+- D. 2 and 3 only
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 3
+**Official Set-A key: C.**
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 91 | RBI Financial Inclusion Index sub-indices and measurement dimensions | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2026 | Prelims GS-I | 96 | Aviation hull insurance and airline liability under Montreal Convention | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2026 | Prelims GS-I | 99 | NBFC deposits, RBI registration, payment systems, and deposit insurance | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Solution:** The official key treats all three statements as correct. The exam lesson is to avoid converting a general institutional label into an absolute access rule: specified non-bank institutions and market arrangements can receive permissions that ordinary NBFCs do not automatically enjoy. Government securities can be held by eligible foreign portfolio investors under prescribed routes, and exchanges can provide debt segments.
 
-##### What this owner must now support
+**Examiner caution:** Follow the official key for this question; do not rewrite the unqualified first statement as a timeless rule that every NBFC has routine LAF access.
 
-- RBI Financial Inclusion Index sub-indices and measurement dimensions
-- Aviation hull insurance and airline liability under Montreal Convention
-- NBFC deposits, RBI registration, payment systems, and deposit insurance
+### PYQ 2 - UPSC Prelims 2024, GS Paper I, Set A, Question 49
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+With reference to the rule/rules imposed by the Reserve Bank of India while treating foreign banks, consider the following statements:
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+1. There is no minimum capital requirement for wholly owned banking subsidiaries in India.
+2. For wholly owned banking subsidiaries in India, at least 50% of the board members should be Indian nationals.
 
-#### Recent PYQ Integration (2024-2025)
+Which of the statements given above is/are correct?
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-- **Years represented:** 2024
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 3
+**Official Set-A key: D.**
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | Prelims GS-I | 42 | NBFC access to LAF; FII holding G-Secs; exchange debt platforms | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2024 | Prelims GS-I | 49 | RBI rules for foreign banks - subsidiaries capital and board members | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2024 | Prelims GS-I | 52 | Syndicated lending - risk sharing across multiple lenders | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Solution:** Statement 1 is false because the WOS route carries a minimum local capital requirement. Statement 2 is also false in the exact wording tested: the applicable governance formulation was more qualified than a bare rule that at least half must be Indian nationals. The current 2025 WOS guidelines must be read separately and dated rather than projected backward into the 2024 item.
 
-##### What this owner must now support
+**Examiner caution:** Foreign-bank branch and WOS conditions are model- and vintage-specific.
 
-- NBFC access to LAF; FII holding G-Secs; exchange debt platforms
-- RBI rules for foreign banks - subsidiaries capital and board members
-- Syndicated lending - risk sharing across multiple lenders
+### PYQ 3 - UPSC Prelims 2024, GS Paper I, Set A, Question 52
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+Statement-I: Syndicated lending spreads the risk of borrower default across multiple lenders.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+Statement-II: The syndicated loan can be a fixed amount/lump sum of funds, but cannot be a credit line.
 
-#### Historical PYQ Integration (2018-2023)
+**Official Set-A key: Dropped question.**
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+**Concept solution:** Statement-I describes a central reason for syndication. Statement-II is overbroad because syndicated facilities can be structured in more than one form, including revolving or credit-line arrangements. Since UPSC dropped the item, no answer letter is supplied.
 
-- **Years represented:** 2018, 2019, 2020, 2021, 2022
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 7
+### 2026 ROUTED DEMANDS
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 96 | Public sector banking governance capital infusion and SBI merger | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 61 | Service Area Approach under Lead Bank Scheme | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 64 | Commercial bank assets classification in India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 73 | Selection process for public sector bank chairmen | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 50 | Demand deposit cash withdrawal effect on money supply | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 5 | Urban Cooperative Banks regulation and features | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 64 | Banks Board Bureau role and public sector bank appointments | Objective question; official key unavailable locally | Banking specialist plus executive-body classification; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+#### PYQ 4 - UPSC Prelims 2026, GS Paper I, Question 91
 
-##### What this owner must now support
+**Verified demand:** RBI Financial Inclusion Index and its Access, Usage and Quality sub-indices.
 
-- Public sector banking governance capital infusion and SBI merger
-- Service Area Approach under Lead Bank Scheme
-- Commercial bank assets classification in India
-- Selection process for public sector bank chairmen
-- Demand deposit cash withdrawal effect on money supply
-- Urban Cooperative Banks regulation and features
-- Banks Board Bureau role and public sector bank appointments
+**Answer withheld pending official UPSC key.**
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Concept route:** The FI-Index is multidimensional; branch or account count alone cannot represent usage or service quality.
 
-#### 10. PYQ-based analytical application
+#### PYQ 5 - UPSC Prelims 2026, GS Paper I, Question 96
 
-- ⚠️ 2024 Prelims combined NBFC access to LAF, FPI holdings of G-secs and exchange debt
-  platforms.
-- ⚠️ 2024 Prelims also tested precise foreign-bank subsidiary rules, showing UPSC's
-  preference for qualified statements.
+**Verified demand:** Aviation hull insurance and airline liability under the Montreal Convention.
 
-### ORIGINAL MAINS 1 — 10 MARKS
+**Answer withheld pending official UPSC key.**
 
-**Question:** Distinguish banks, differentiated banks and ordinary NBFCs. Answer in about 150 words.
+**Boundary route:** Hull insurance covers the aircraft asset; passenger-liability rules arise from a separate legal framework. Detailed aviation law is not re-owned by this banking topic.
 
-**Model thesis:** **Claim:** Commercial-bank function. **Named evidence/example:** Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** NBFC boundary. **Named evidence/example:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Differentiated licensing. **Named evidence/example:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+#### PYQ 6 - UPSC Prelims 2026, GS Paper I, Question 99
 
-**Claim → named evidence → analysis → qualification:**
+**Verified demand:** NBFC demand deposits, RBI registration, bank partnerships for cards/payment services and DICGC insurance.
 
-- Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments.
-- An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-- Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
+**Answer withheld pending official UPSC key.**
 
-**Qualified conclusion:** **Claim:** Commercial-bank function. **Named evidence/example:** Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** NBFC boundary. **Named evidence/example:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Differentiated licensing. **Named evidence/example:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Concept route:** Ordinary NBFCs cannot accept demand deposits, RBI registration does not create bank status, partnerships do not confer direct payment-system membership, and DICGC does not insure NBFC deposits.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish banks, differentiated banks and ordinary NBFCs. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+### HISTORICAL ROUTED OBJECTIVE DEMANDS
 
-**Detailed examiner-grade model answer:**
+| PYQ | Verified demand | Key discipline and answer route |
+|---|---|---|
+| 2018 Q96 | PSB governance, capital infusion and SBI associate-bank merger | Answer withheld pending official UPSC key. Separate owner capital, statutory governance and merger facts. |
+| 2019 Q61 | Service Area Approach under the Lead Bank Scheme | Answer withheld pending official UPSC key. Treat it as place-based credit planning, not a bank category. |
+| 2019 Q64 | Commercial-bank assets | Answer withheld pending official UPSC key. Loans, investments, cash and balances are assets; deposits are liabilities. |
+| 2019 Q73 | Selection of public-sector bank chairmen | Answer withheld pending official UPSC key. Separate Government appointment, board process and RBI regulation. |
+| 2020 Q50 | Cash withdrawal from a demand deposit and money supply | Answer withheld pending official UPSC key. It changes currency/deposit composition, not automatically total money. |
+| 2021 Q5 | Urban Co-operative Banks | Answer withheld pending official UPSC key. Use the banking-law and co-operative-law dual perimeter. |
+| 2022 Q64 | Banks Board Bureau and public-sector appointments | Answer withheld pending official UPSC key. Preserve the body's executive/advisory status and subsequent institutional evolution. |
 
-**Introduction and thesis:** **Claim:** Commercial-bank function. **Named evidence/example:** Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** NBFC boundary. **Named evidence/example:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Differentiated licensing. **Named evidence/example:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
 
-**Analytical body:**
+### ORIGINAL MAINS 1 - 10 MARKS
 
-1. **Claim and named evidence:** Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+**Question:** Distinguish a bank from an ordinary NBFC by tracing liabilities, payments, credit creation and safety nets. Answer in 150 words.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+#### Demand decoding
 
-**Qualified conclusion:** **Claim:** Commercial-bank function. **Named evidence/example:** Commercial banks accept deposits, provide payment services and allocate credit, transforming short-maturity withdrawable liabilities into longer-maturity loans and investments. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** NBFC boundary. **Named evidence/example:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Differentiated licensing. **Named evidence/example:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Define the institutional boundary, use named legal or regulatory evidence, trace the causal mechanism, and end with a qualification that answers the directive.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+#### Answer plan and validation
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+- **Plan:** concept -> institution/rule -> mechanism -> trade-off -> qualified verdict.
+- **Validated native-body count:** 142 alphanumeric words.
 
-**How to improve this answer:** For “Distinguish banks, differentiated banks and ordinary NBFCs. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+#### Model answer
 
-### ORIGINAL MAINS 2 — 10 MARKS
+<!-- MODEL-ANSWER-START:M1 -->
+A bank accepts public deposits for lending or investment and provides withdrawal facilities under section 5(b) of the Banking Regulation Act. Deposits are liabilities; loans and investments are assets. A bank loan normally creates a deposit, combining credit intermediation with money creation and settlement.
 
-**Question:** Why does activity-based financial regulation matter? Answer in about 150 words.
+An NBFC may lend, invest, lease or finance specialised assets, but RBI's FAQ updated 29 April 2026 states that ordinary NBFCs cannot accept demand deposits, do not form part of the payment and settlement system and cannot issue cheques drawn on themselves. DICGC insurance is unavailable even for deposits accepted by an authorised NBFC-D.
 
-**Model thesis:** **Claim:** Systemic regulation. **Named evidence/example:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Regulatory architecture. **Named evidence/example:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Both allocate credit, yet their failure channels differ: banks face runnable insured deposits and payment disruption; NBFCs often face wholesale rollover and market contagion. Narrow banks and systemically important NBFCs receive differentiated rules, so legal powers and actual risk must both be examined.
+<!-- MODEL-ANSWER-END:M1 -->
 
-**Claim → named evidence → analysis → qualification:**
+### ORIGINAL MAINS 2 - 10 MARKS
 
-- Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-- RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
+**Question:** Explain how PCA, bank resolution and DICGC perform different roles in depositor protection. Answer in 150 words.
 
-**Qualified conclusion:** **Claim:** Systemic regulation. **Named evidence/example:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Regulatory architecture. **Named evidence/example:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+#### Demand decoding
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why does activity-based financial regulation matter? Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Define the institutional boundary, use named legal or regulatory evidence, trace the causal mechanism, and end with a qualification that answers the directive.
 
-**Detailed examiner-grade model answer:**
+#### Answer plan and validation
 
-**Introduction and thesis:** **Claim:** Systemic regulation. **Named evidence/example:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Regulatory architecture. **Named evidence/example:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+- **Plan:** concept -> institution/rule -> mechanism -> trade-off -> qualified verdict.
+- **Validated native-body count:** 142 alphanumeric words.
 
-**Analytical body:**
+#### Model answer
 
-1. **Claim and named evidence:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+<!-- MODEL-ANSWER-START:M2 -->
+Prompt Corrective Action is preventive supervision. RBI's revised framework, effective 1 January 2022 for covered scheduled commercial banks, monitors capital, net NPA and leverage breaches and can restrict dividends, expansion, risk-taking or expenditure while requiring repair.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+Resolution begins when ordinary correction is inadequate. Under banking law, reconstruction, amalgamation, moratorium or liquidation can preserve critical functions and allocate losses. It is not the same as temporary central-bank liquidity, which addresses a payment-timing problem rather than missing capital.
 
-**Qualified conclusion:** **Claim:** Systemic regulation. **Named evidence/example:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Regulatory architecture. **Named evidence/example:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+DICGC is the depositor backstop. Since 4 February 2020 it insures eligible principal and interest up to Rs 5 lakh per depositor per bank, aggregating accounts across branches in the same right and capacity.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+These layers reduce panic but do not guarantee shareholders, bonds or NBFC deposits. A sound framework therefore sequences supervision, corrective action, orderly resolution and limited insurance while retaining owner and management accountability.
+<!-- MODEL-ANSWER-END:M2 -->
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+### ORIGINAL MAINS 3 - 15 MARKS
 
-**How to improve this answer:** For “Why does activity-based financial regulation matter? Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Question:** Analyse how India's differentiated banks and rural institutions combine inclusion with prudential limits. Answer in 250 words.
 
-### ORIGINAL MAINS 3 — 15 MARKS
+#### Demand decoding
 
-**Question:** Explain India's multi-tier banking architecture and its inclusion rationale. Answer in about 250 words.
+Define the institutional boundary, use named legal or regulatory evidence, trace the causal mechanism, and end with a qualification that answers the directive.
 
-**Model thesis:** **Claim:** Multi-tier banking structure. **Named evidence/example:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Differentiated licensing. **Named evidence/example:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Rural place-based architecture. **Named evidence/example:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Priority Sector Lending. **Named evidence/example:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+#### Answer plan and validation
 
-**Claim → named evidence → analysis → qualification:**
+- **Plan:** concept -> institution/rule -> mechanism -> trade-off -> qualified verdict.
+- **Validated native-body count:** 221 alphanumeric words.
 
-- India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-- Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-- RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-- RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
+#### Model answer
 
-**Qualified conclusion:** **Claim:** Multi-tier banking structure. **Named evidence/example:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Differentiated licensing. **Named evidence/example:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Rural place-based architecture. **Named evidence/example:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Priority Sector Lending. **Named evidence/example:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+<!-- MODEL-ANSWER-START:M3 -->
+India uses institutional diversity to address geography, ticket size and payment-access gaps. Regional Rural Banks combine a rural mandate with 50:35:15 ownership among the Union, sponsor bank and State. Co-operative banks add member ownership and local information, while their banking functions remain under RBI and their co-operative identity under the relevant registrar.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain India's multi-tier banking architecture and its inclusion rationale. Answer in about…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Local Area Banks restrict operations geographically. Small Finance Banks accept deposits and lend to smaller clients; RBI reduced their overall priority-sector target to 60 per cent of ANBC or CEOBE from FY 2025-26, while the Licensing Guidelines dated 28 November 2025 require at least half their loan portfolio to comprise advances up to Rs 25 lakh. Payments Banks accept demand deposits and provide payments but cannot lend from their own balance sheets; directions updated 1 April 2026 cap an individual's end-day balance at Rs 2 lakh.
 
-**Detailed examiner-grade model answer:**
+Business Correspondents extend the principal bank's last-mile interface, while priority-sector rules influence portfolio allocation. These arrangements lower distance, documentation and transaction-cost barriers and can build formal repayment histories.
 
-**Introduction and thesis:** **Claim:** Multi-tier banking structure. **Named evidence/example:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Differentiated licensing. **Named evidence/example:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Rural place-based architecture. **Named evidence/example:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Priority Sector Lending. **Named evidence/example:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+However, narrow mandates create viability risks, local concentration can magnify shocks, and target compliance may not ensure suitable or productive credit. RBI must therefore combine proportional prudential rules, bank responsibility for agents, consumer protection and credible supervision. Inclusion should be judged by sustained usage and welfare, not licences, outlets or account openings alone.
+<!-- MODEL-ANSWER-END:M3 -->
 
-**Analytical body:**
+### ORIGINAL MAINS 4 - 15 MARKS
 
-1. **Claim and named evidence:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+**Question:** Why can NBFC stress become systemic? Evaluate the scale-based regulatory response. Answer in 250 words.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+#### Demand decoding
 
-**Qualified conclusion:** **Claim:** Multi-tier banking structure. **Named evidence/example:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Differentiated licensing. **Named evidence/example:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Rural place-based architecture. **Named evidence/example:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Priority Sector Lending. **Named evidence/example:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Define the institutional boundary, use named legal or regulatory evidence, trace the causal mechanism, and end with a qualification that answers the directive.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+#### Answer plan and validation
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+- **Plan:** concept -> institution/rule -> mechanism -> trade-off -> qualified verdict.
+- **Validated native-body count:** 215 alphanumeric words.
 
-**How to improve this answer:** For “Explain India's multi-tier banking architecture and its inclusion rationale. Answer in about…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+#### Model answer
 
-### ORIGINAL MAINS 4 — 15 MARKS
+<!-- MODEL-ANSWER-START:M4 -->
+NBFCs complement banks through vehicle, housing, infrastructure, consumer and last-mile credit, but many fund long or illiquid assets with bank borrowing, debentures or short-term market paper. A confidence shock can stop rollover, force asset sales, depress prices and transmit losses to mutual funds, banks, bond investors and borrowers. IL&FS in 2018 and DHFL stress demonstrated this wholesale-run channel.
 
-**Question:** Assess depositor protection and preventive supervision through DICGC and PCA. Answer in about 250 words.
+RBI's Scale Based Regulation addresses heterogeneity through four layers. Directions updated 1 July 2026 place ordinary non-deposit-taking NBFCs below Rs 1,000 crore in Base Layer, while all deposit-taking NBFCs, larger non-deposit takers and specified activities occupy Middle Layer. The 24 June 2026 amendment sets Rs 1,00,000 crore of audited assets as the Upper-Layer threshold. Top Layer is intended for exceptional escalation.
 
-**Model thesis:** **Claim:** DICGC perimeter. **Named evidence/example:** DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Prompt Corrective Action. **Named evidence/example:** RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Public-sector banking reform. **Named evidence/example:** PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+The architecture is sensible because governance, capital, liquidity, disclosure and supervisory intensity increase with systemic footprint. Activity-based placement also prevents a large CIC, HFC or infrastructure financier from escaping stronger rules merely because it is not a bank.
 
-**Claim → named evidence → analysis → qualification:**
+Yet size is an imperfect proxy. Common lenders, guarantees, securitisation, group exposure, cyber dependence and correlated assets can make smaller entities important. Effective regulation therefore needs ALM surveillance, stress tests, consolidated group supervision and conduct rules alongside layer thresholds. Proportionality should preserve specialised finance without permitting equivalent risk to migrate to the lightest wrapper.
+<!-- MODEL-ANSWER-END:M4 -->
 
-- DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities.
-- RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout.
-- PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision.
+### ORIGINAL MAINS 5 - 20 MARKS
 
-**Qualified conclusion:** **Claim:** DICGC perimeter. **Named evidence/example:** DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Prompt Corrective Action. **Named evidence/example:** RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Public-sector banking reform. **Named evidence/example:** PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Question:** Design a regulatory architecture that separates ownership, management, prudential supervision, consumer protection and resolution in Indian banking. Answer in 250 words.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess depositor protection and preventive supervision through DICGC and PCA. Answer in about…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+#### Demand decoding
 
-**Detailed examiner-grade model answer:**
+Define the institutional boundary, use named legal or regulatory evidence, trace the causal mechanism, and end with a qualification that answers the directive.
 
-**Introduction and thesis:** **Claim:** DICGC perimeter. **Named evidence/example:** DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Prompt Corrective Action. **Named evidence/example:** RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Public-sector banking reform. **Named evidence/example:** PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+#### Answer plan and validation
 
-**Analytical body:**
+- **Plan:** concept -> institution/rule -> mechanism -> trade-off -> qualified verdict.
+- **Validated native-body count:** 216 alphanumeric words.
 
-1. **Claim and named evidence:** DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+#### Model answer
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+<!-- MODEL-ANSWER-START:M5 -->
+Banking governance should begin by assigning each function to the correct actor. Owners provide capital, appoint through the applicable statutory process and bear residual risk; they should not direct individual loans. Boards set strategy, risk appetite and controls. Management underwrites, monitors and recovers credit. RBI licenses under section 22 of the Banking Regulation Act, sets prudential and conduct rules, inspects and enforces. DICGC insures eligible deposits; it neither manages nor supervises banks.
 
-**Qualified conclusion:** **Claim:** DICGC perimeter. **Named evidence/example:** DICGC provides statutory insurance for eligible deposits in covered banks up to the owner's stated cap of five lakh rupees per depositor per bank, including principal and interest, but not shares, bonds, mutual funds or ordinary NBFC liabilities. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Prompt Corrective Action. **Named evidence/example:** RBI's PCA framework uses risk-based thresholds and graduated restrictions for weak banks before disorderly failure; PCA is not liquidation or a deposit-insurance payout. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Public-sector banking reform. **Named evidence/example:** PSB recapitalisation, the SBI associate-bank merger and appointment-governance reforms show that ownership, capital and structure matter alongside prudential supervision. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+The architecture needs five safeguards. First, fit-and-proper assessment, conflict disclosure, recusal and section 20 connected-lending restrictions should prevent promoter or director capture. Second, capital, liquidity, concentration and provisioning rules should match balance-sheet risk. Third, risk-based supervision and PCA should intervene before losses become unmanageable. Fourth, RBI's Digital Lending Directions dated 8 May 2025 should keep the regulated entity responsible for its app or lending-service provider, with KFS, APR disclosure, direct fund flows and need-based consent. Fifth, reconstruction, amalgamation or liquidation should preserve critical functions and allocate losses, while DICGC protects eligible deposits up to the dated statutory ceiling.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+Public ownership, private incentives and co-operative membership create different governance problems, but none replaces regulation. Conversely, regulatory intensity should remain proportionate to risk. The objective is a credible chain from entry to exit that protects depositors and borrowers without guaranteeing shareholders, connected borrowers or inefficient management.
+<!-- MODEL-ANSWER-END:M5 -->
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+### ORIGINAL MAINS 6 - 20 MARKS
 
-**How to improve this answer:** For “Assess depositor protection and preventive supervision through DICGC and PCA. Answer in about…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Question:** Compare development financial institutions with banks and NBFCs. How should India use NABARD, SIDBI and NaBFID without weakening credit discipline? Answer in 250 words.
 
-### ORIGINAL MAINS 5 — 20 MARKS
+#### Demand decoding
 
-**Question:** How can India preserve specialised NBFC credit without regulatory arbitrage and systemic risk? Answer in about 300 words.
+Define the institutional boundary, use named legal or regulatory evidence, trace the causal mechanism, and end with a qualification that answers the directive.
 
-**Model thesis:** **Claim:** NBFC boundary. **Named evidence/example:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Systemic regulation. **Named evidence/example:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** NBFC contagion risk. **Named evidence/example:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Regulatory architecture. **Named evidence/example:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Foreign banks and facility access. **Named evidence/example:** Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+#### Answer plan and validation
 
-**Claim → named evidence → analysis → qualification:**
+- **Plan:** concept -> institution/rule -> mechanism -> trade-off -> qualified verdict.
+- **Validated native-body count:** 229 alphanumeric words.
 
-- An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges.
-- Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules.
-- The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-- RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination.
-- Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks.
+#### Model answer
 
-**Qualified conclusion:** **Claim:** NBFC boundary. **Named evidence/example:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Systemic regulation. **Named evidence/example:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** NBFC contagion risk. **Named evidence/example:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Regulatory architecture. **Named evidence/example:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Foreign banks and facility access. **Named evidence/example:** Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+<!-- MODEL-ANSWER-START:M6 -->
+Banks transform deposits into credit and provide payments; NBFCs specialise in financial intermediation without ordinary bank demand-deposit and settlement powers. Development financial institutions add a purposive mandate: they supply patient finance, refinance, appraisal capacity and market development where long tenor, externalities or coordination failures deter normal lenders.
 
-**Demand decoding:** The directive **answer** requires a direct position on “How can India preserve specialised NBFC credit without regulatory arbitrage and systemic…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+NABARD, created under Act 61 of 1981 and established in 1982, is the apex development bank for agriculture and rural development. It refinances, develops and supports supervision in the rural credit system. SIDBI, established on 2 April 1990, is the principal financial institution for MSME promotion, financing and development, using direct finance and refinance. The NaBFID Act came into force on 19 April 2021 to create a specialised infrastructure DFI; RBI has regulated and supervised it as an AIFI since its 8 March 2022 advice, and it began commercial operations on 29 December 2022.
 
-**Detailed examiner-grade model answer:**
+These institutions can correct maturity gaps, pool sector expertise, crowd in investors and build bond or refinancing markets. They should not become channels for off-budget direction or evergreening. Governance must protect professional appraisal, price risk transparently, disclose contingent fiscal support and evaluate additionality: whether the project or borrower gained finance that markets would not provide on reasonable terms.
 
-**Introduction and thesis:** **Claim:** NBFC boundary. **Named evidence/example:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Systemic regulation. **Named evidence/example:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** NBFC contagion risk. **Named evidence/example:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Regulatory architecture. **Named evidence/example:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Foreign banks and facility access. **Named evidence/example:** Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** NBFC boundary. **Named evidence/example:** An NBFC is a company carrying specified financial activity without being a bank; RBI registration does not confer full bank-style demand-deposit, cheque-payment or DICGC privileges. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Systemic regulation. **Named evidence/example:** Systemic regulation addresses institutional safety and financial-system stability through entry, governance, prudential, conduct, reporting and interconnectedness rules. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** NBFC contagion risk. **Named evidence/example:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Regulatory architecture. **Named evidence/example:** RBI regulates banking and NBFC activity, DICGC insures eligible bank deposits, SEBI regulates securities, IRDAI insurance, PFRDA pensions, and FSDC supports cross-regulatory coordination. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Foreign banks and facility access. **Named evidence/example:** Foreign banks may use branch or wholly owned subsidiary modes under RBI rules, and ordinary NBFCs do not automatically receive the same routine LAF access as scheduled banks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “How can India preserve specialised NBFC credit without regulatory arbitrage and systemic…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Compare banks, RRBs, co-operatives, SFBs, Payments Banks and NBFCs in the inclusion-stability framework. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Co-operative-bank perimeter. **Named evidence/example:** Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Multi-tier banking structure. **Named evidence/example:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Differentiated licensing. **Named evidence/example:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Rural place-based architecture. **Named evidence/example:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Priority Sector Lending. **Named evidence/example:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** NBFC contagion risk. **Named evidence/example:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight.
-- India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions.
-- Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets.
-- RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning.
-- RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction.
-- The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets.
-
-**Qualified conclusion:** **Claim:** Co-operative-bank perimeter. **Named evidence/example:** Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Multi-tier banking structure. **Named evidence/example:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Differentiated licensing. **Named evidence/example:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Rural place-based architecture. **Named evidence/example:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Priority Sector Lending. **Named evidence/example:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** NBFC contagion risk. **Named evidence/example:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare banks, RRBs, co-operatives, SFBs, Payments Banks and NBFCs in the inclusion-stability…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Co-operative-bank perimeter. **Named evidence/example:** Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Multi-tier banking structure. **Named evidence/example:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Differentiated licensing. **Named evidence/example:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Rural place-based architecture. **Named evidence/example:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Priority Sector Lending. **Named evidence/example:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** NBFC contagion risk. **Named evidence/example:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Co-operative-bank perimeter. **Named evidence/example:** Co-operative banks are member-based institutions governed by co-operative law while their banking functions also attract RBI and banking-law oversight. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Multi-tier banking structure. **Named evidence/example:** India combines public, private and foreign banks, Regional Rural Banks, co-operative banks, Small Finance Banks and Payments Banks to serve different ownership, reach, credit and payment functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Differentiated licensing. **Named evidence/example:** Small Finance Banks undertake deposit mobilisation and lending, whereas Payments Banks focus on deposits and payments and cannot lend from their own balance sheets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Rural place-based architecture. **Named evidence/example:** RRBs, the Lead Bank Scheme and Service Area Approach linked branch expansion and formal rural credit with district and local-area planning. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Priority Sector Lending. **Named evidence/example:** RBI's owner record states a 40 per cent ANBC or credit-equivalent target for most domestic banks, 18 per cent for agriculture including 10 per cent for small and marginal farmers, and 12 per cent for weaker sections, with higher overall targets for RRBs and SFBs under the latest cited direction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** NBFC contagion risk. **Named evidence/example:** The IL&FS default in 2018 and DHFL-related stress showed how wholesale funding, maturity mismatch and interconnectedness can transmit NBFC stress to mutual funds, banks and credit markets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Compare banks, RRBs, co-operatives, SFBs, Payments Banks and NBFCs in the inclusion-stability…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+India therefore needs DFIs as catalysts, not substitutes for viable projects, competitive banks or disciplined capital markets. Mandate, funding horizon, risk allocation and measurable development outcome should govern their use.
+<!-- MODEL-ANSWER-END:M6 -->

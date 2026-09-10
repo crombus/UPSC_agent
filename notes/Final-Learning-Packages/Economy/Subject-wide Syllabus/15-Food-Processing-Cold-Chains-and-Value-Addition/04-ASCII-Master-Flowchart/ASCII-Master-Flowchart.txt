@@ -1,74 +1,145 @@
-ASCII MASTER FLOW — PANEL 1/12: Farm-to-value rail
-FARM OUTPUT
--> AGGREGATION + GRADING
--> COLD / AMBIENT LOGISTICS + PROCESSING
--> PACKAGING + MARKET -> DISTRIBUTED VALUE
-MUST REMEMBER: Food processing adds value through sorting, grading, storage,...
+======================================================================================
+ECONOMY TOPIC 15 | PANEL 01/12 | CHAIN THESIS
+======================================================================================
 
-ASCII MASTER FLOW — PANEL 2/12: Cold-chain continuity
-PACK HOUSE
--> PRE-COOLING
--> COLD STORAGE
--> REEFER -> PROCESSOR / RETAIL
+-> Farm -> aggregate -> condition -> process -> standards -> market.
 
-ASCII MASTER FLOW — PANEL 3/12: Capacity accounting fork
-INSTALLED CAPACITY -> stock
-OPERATIONAL CAPACITY -> available stock
-THROUGHPUT -> period flow
-VALUE ADDED -> output value minus inputs
+-> Plant construction alone does not create a value chain.
 
-ASCII MASTER FLOW — PANEL 4/12: PMKSY umbrella
-COMMON / CLUSTER INFRASTRUCTURE
-COLD CHAIN + VALUE ADDITION
-PROCESSING + QUALITY SUPPORT
-STATUS -> guideline and component vintage
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> qualification -> reform
 
-ASCII MASTER FLOW — PANEL 5/12: Scheme-stage ladder
-APPROVAL / SANCTION
--> INVESTMENT / CONSTRUCTION
--> OPERATION + CAPACITY USE
--> SALES / DISBURSAL / OUTCOME
+BOUNDARY:
+APMC/FPO/contract law Topic 13; manufacturing-wide PLI Topic 17; trade-law depth Topic 20.======================================================================================
+ECONOMY TOPIC 15 | PANEL 02/12 | PROCESSING LEVELS
+======================================================================================
 
-ASCII MASTER FLOW — PANEL 6/12: Operation Greens boundary
-PERISHABLE PRICE STRESS
-SPECIFIED COMMODITY / WINDOW
-STORAGE + PROCESSING LINK
-NOT universal farm-price insurance
-CLOSE DISTINCTION: Processing is not only manufacturing, cold storage is not an end-to-...
+-> Primary conditioning -> secondary manufacture -> tertiary convenience.
 
-ASCII MASTER FLOW — PANEL 7/12: Food Park cluster
-COLLECTION CENTRE
--> PRIMARY PROCESSING
--> COMMON CENTRAL FACILITIES
--> PROCESSOR + MARKET LINK
+-> Value added differs from sale value.
 
-ASCII MASTER FLOW — PANEL 8/12: Regulatory-export fork
-FSSAI -> food-safety regulation
-APEDA -> export development / market access
-SPS + TESTING -> compliance gate
-TRACEABILITY -> chain evidence
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> qualification -> reform
 
-ASCII MASTER FLOW — PANEL 9/12: Value-capture board
-FARMER / FPO -> raw material + aggregation
-PROCESSOR -> transformation + quality risk
-LOGISTICS / RETAIL -> access + shelf
-CONTRACT + COMPETITION -> margin split
+BOUNDARY:
+APMC/FPO/contract law Topic 13; manufacturing-wide PLI Topic 17; trade-law depth Topic 20.======================================================================================
+ECONOMY TOPIC 15 | PANEL 03/12 | VALUE CAPTURE
+======================================================================================
 
-ASCII MASTER FLOW — PANEL 10/12: Employment chain
-FARM-GATE SORTING
-COLD LOGISTICS + MAINTENANCE
-PROCESSING + PACKAGING + TESTING
-RETAIL / EXPORT; test formality + seasonality
+-> Longer shelf life + quality + demand may raise value.
 
-ASCII MASTER FLOW — PANEL 11/12: Small-processor constraint wheel
-WORKING CAPITAL
-POWER + TECHNOLOGY
-TESTING + FORMALISATION
-MARKET + BRAND + DISTRIBUTION
+-> Contracts and competition decide the farmer share.
 
-ASCII MASTER FLOW — PANEL 12/12: Processing answer spine
-DEFINE chain and accounting units
-MAP missing node and scheme stage
-TEST standards, jobs and bargaining
-CONCLUDE with throughput + fair value capture
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use commodity-specific chain,...
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> qualification -> reform
+
+BOUNDARY:
+APMC/FPO/contract law Topic 13; manufacturing-wide PLI Topic 17; trade-law depth Topic 20.======================================================================================
+ECONOMY TOPIC 15 | PANEL 04/12 | LOSS / WASTE / NUTRITION
+======================================================================================
+
+-> Food loss is mainly upstream; waste mainly retail/consumer.
+
+-> Processing has product-specific nutritional effects.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> qualification -> reform
+
+BOUNDARY:
+APMC/FPO/contract law Topic 13; manufacturing-wide PLI Topic 17; trade-law depth Topic 20.======================================================================================
+ECONOMY TOPIC 15 | PANEL 05/12 | COLD CONTINUITY
+======================================================================================
+
+-> Pre-cool -> packhouse -> storage -> reefer -> last mile.
+
+-> Cold storage alone is not a chain.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> qualification -> reform
+
+BOUNDARY:
+APMC/FPO/contract law Topic 13; manufacturing-wide PLI Topic 17; trade-law depth Topic 20.======================================================================================
+ECONOMY TOPIC 15 | PANEL 06/12 | TEMPERATURE CHAINS
+======================================================================================
+
+-> Chilled != frozen != CA/MA.
+
+-> Dairy, fish, fruit and frozen foods need different protocols.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> qualification -> reform
+
+BOUNDARY:
+APMC/FPO/contract law Topic 13; manufacturing-wide PLI Topic 17; trade-law depth Topic 20.======================================================================================
+ECONOMY TOPIC 15 | PANEL 07/12 | BOTTLENECKS
+======================================================================================
+
+-> Seasonality + small lots + working capital + power + skills.
+
+-> Sanctioned capacity != operating throughput.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> qualification -> reform
+
+BOUNDARY:
+APMC/FPO/contract law Topic 13; manufacturing-wide PLI Topic 17; trade-law depth Topic 20.======================================================================================
+ECONOMY TOPIC 15 | PANEL 08/12 | REGULATORS
+======================================================================================
+
+-> FSSAI: FSS Act 2006 domestic safety.
+
+-> APEDA: APEDA Act 1985 scheduled-product exports.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> qualification -> reform
+
+BOUNDARY:
+APMC/FPO/contract law Topic 13; manufacturing-wide PLI Topic 17; trade-law depth Topic 20.======================================================================================
+ECONOMY TOPIC 15 | PANEL 09/12 | PMKSY / PMFME
+======================================================================================
+
+-> PMKSY Rs 6,520 crore through 2025-26.
+
+-> PMFME Rs 10,000 crore through 2025-26.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> qualification -> reform
+
+BOUNDARY:
+APMC/FPO/contract law Topic 13; manufacturing-wide PLI Topic 17; trade-law depth Topic 20.======================================================================================
+ECONOMY TOPIC 15 | PANEL 10/12 | MFP / OPERATION GREENS
+======================================================================================
+
+-> Mega Food Parks: no new approvals from 1 April 2021.
+
+-> Operation Greens: TOP origin; notified expansion.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> qualification -> reform
+
+BOUNDARY:
+APMC/FPO/contract law Topic 13; manufacturing-wide PLI Topic 17; trade-law depth Topic 20.======================================================================================
+ECONOMY TOPIC 15 | PANEL 11/12 | PLI / AIF / FDI
+======================================================================================
+
+-> PLISFPI Rs 10,900 crore through 2026-27.
+
+-> AIF debt support; processing automatic-route FDI.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> qualification -> reform
+
+BOUNDARY:
+APMC/FPO/contract law Topic 13; manufacturing-wide PLI Topic 17; trade-law depth Topic 20.======================================================================================
+ECONOMY TOPIC 15 | PANEL 12/12 | REFORM VERDICT
+======================================================================================
+
+-> Infrastructure + institutions + standards + credit + skills + market.
+
+-> Audit throughput, farmer returns, jobs and safety.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> qualification -> reform
+
+BOUNDARY:
+APMC/FPO/contract law Topic 13; manufacturing-wide PLI Topic 17; trade-law depth Topic 20.

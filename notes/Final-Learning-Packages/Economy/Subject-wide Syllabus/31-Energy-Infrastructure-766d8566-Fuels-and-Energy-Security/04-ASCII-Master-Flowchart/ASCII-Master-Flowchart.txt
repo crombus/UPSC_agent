@@ -1,74 +1,69 @@
-ASCII MASTER FLOW — PANEL 1/12: Energy-service value rail
-PRIMARY RESOURCE / IMPORT
--> CONVERSION + NETWORK
--> DISTRIBUTION + END USE
--> RELIABLE AFFORDABLE SERVICE
-MUST REMEMBER: Energy infrastructure connects primary energy, conversion, generation,...
+ASCII MASTER FLOW — PANEL 1/12: Energy-service boundary
+PRIMARY RESOURCE / IMPORT -> CONVERSION -> NETWORK / STORAGE
+-> DISTRIBUTION -> FINAL ENERGY -> USEFUL SERVICE -> DEVELOPMENT
+TEST: delivered reliability and affordability, not capacity or connection alone
 
-ASCII MASTER FLOW — PANEL 2/12: Power-energy distinction
-MW / GW -> power capacity
-MWh / GWh -> energy flow
-CAPACITY SHARE != generation share
-ELECTRICITY != total energy
+ASCII MASTER FLOW — PANEL 2/12: Accounting and units
+PRIMARY != SECONDARY != FINAL != USEFUL ENERGY
+MW/GW = power | MWh/GWh/BU = energy | storage needs MW + MWh
+CAPACITY SHARE != GENERATION SHARE != TOTAL-ENERGY SHARE
+31 Dec 2025 non-fossil capacity 51.93%; Apr-Dec 2025 generation 30.41%
 
-ASCII MASTER FLOW — PANEL 3/12: Electricity-layer map
-GENERATION
-TRANSMISSION + SYSTEM OPERATION
-DISTRIBUTION + RETAIL
-MARKET + REGULATION
+ASCII MASTER FLOW — PANEL 3/12: Load and dispatch
+LOAD CURVE -> BASE + INTERMEDIATE + PEAK REQUIREMENTS
+ELIGIBLE CAPACITY -> security/technical constraints -> merit order -> dispatch
+PLF/capacity factor = utilisation, not efficiency
+FY25 energy deficit 0.1%; peak deficit 0.0%; local quality remains separate
 
-ASCII MASTER FLOW — PANEL 4/12: Real-time balance board
-GENERATION + IMPORT + DISCHARGE
-=
-DEMAND + EXPORT + CHARGE + LOSS
-RESERVE + FLEXIBILITY protect balance
+ASCII MASTER FLOW — PANEL 4/12: Electricity chain
+GENERATION -> CTU/STU -> GRID-INDIA/NLDC/RLDC/SLDC
+-> DISCOM / OPEN ACCESS -> METER -> CONSUMER
+REAL TIME: schedule -> deviation -> DSM -> ancillary response
 
-ASCII MASTER FLOW — PANEL 5/12: Institutional perimeter
-CEA -> technical planning
-CERC / SERC -> regulation
-GRID-INDIA / SLDC -> operation
-DISCOM -> retail service
+ASCII MASTER FLOW — PANEL 5/12: Law and institutions
+ELECTRICITY ACT, 2003 -> licensing + open access + tariff + consumer duties
+CEA technical | CERC inter-state/market | SERC state/retail | APTEL appeal
+DRAFT Electricity (Amendment) Bill, 2025 != enacted law at 10 Sep 2026
 
-ASCII MASTER FLOW — PANEL 6/12: Tariff-finance split
-EXPLICIT STATE SUBSIDY
-CROSS-SUBSIDY
-REGULATORY ASSET
-DISCOM DEBT / UNDER-RECOVERY
-CLOSE DISTINCTION: Capacity in MW is not generation in MWh, plant load factor is not...
+ASCII MASTER FLOW — PANEL 6/12: Tariff and DISCOM
+TARIFF = power + network/loss + O&M/finance + return
+SUBSIDY != CROSS-SUBSIDY != REGULATORY ASSET
+AT&C FY25 15.04% | ACS-ARR FY25 Rs 0.06/kWh
+UDAY debt reset (2015) != RDSS conditional reform (sunset 31 Mar 2028)
 
-ASCII MASTER FLOW — PANEL 7/12: DISCOM diagnostic
-AT&C -> energy recovery
-ACS-ARR -> revenue-cost gap
-PPA + SUBSIDY + COLLECTION
-ONE RATIO cannot diagnose all stress
+ASCII MASTER FLOW — PANEL 7/12: Coal system
+MINE -> GRADE -> EVACUATION -> STOCK -> GENERATION -> ASH/CLOSURE
+FY25 production 1,047.523 MT
+FY26 imports 246.37 MT = coking 66.33 + non-coking 180.04
+LINKAGE/SHAKTI != MINE AUCTION != E-AUCTION
 
-ASCII MASTER FLOW — PANEL 8/12: Petroleum perimeter
-UPSTREAM -> production
-MIDSTREAM -> pipeline + storage
-DOWNSTREAM -> refining + marketing
-PNGRB excludes crude + gas production
+ASCII MASTER FLOW — PANEL 8/12: Oil and gas
+UPSTREAM -> MIDSTREAM -> DOWNSTREAM; PNGRB excludes production
+PPAC FY26 provisional: crude dependence 88.7%; gas dependence 50.1%
+LNG -> regas -> pipe -> CGD/fertiliser/power/industry
+SPR Phase-I 5.33 MMT; approved Phase-II 6.5 MMT != operational stock
 
-ASCII MASTER FLOW — PANEL 9/12: Energy-security dimensions and resilience pentagon
-PHYSICAL AVAILABILITY
-INFRASTRUCTURE ACCESSIBILITY
-USER AFFORDABILITY
-SOCIAL ACCEPTABILITY + SYSTEM RESILIENCE
+ASCII MASTER FLOW — PANEL 9/12: Renewable portfolio
+SOLAR daytime variable | WIND seasonal | HYDRO flexible/hydrology bound
+BIOMASS feedstock bound | NUCLEAR firm and institutionally bounded
+AUCTION -> award -> finance -> grid -> commission -> generation
+LOW BID != delivered tariff; NO FUEL COST != zero system cost
 
-ASCII MASTER FLOW — PANEL 10/12: Renewable-integration chain
-VARIABLE CAPACITY
--> GRID + FORECAST
--> FLEXIBILITY + STORAGE
--> RELIABLE GENERATION VALUE
+ASCII MASTER FLOW — PANEL 10/12: Integration and storage
+FORECAST + TRANSMISSION/GEC + FLEXIBLE SUPPLY + DEMAND RESPONSE
++ BESS/PSP + RESERVES/MARKETS -> RELIABLE VARIABLE-RE SERVICE
+CEA need: 336 GWh by 2029-30; 411 GWh by 2031-32
+STATE MW + MWh + duration + cycles + efficiency
 
-ASCII MASTER FLOW — PANEL 11/12: Status and unit ladder
-ANNOUNCED / BILL
-APPROVED / SANCTIONED / OUTLAY
-INSTALLED CAPACITY
-GENERATION + SERVICE OUTCOME
+ASCII MASTER FLOW — PANEL 11/12: Instruments
+RPO/RCO = renewable obligation | ESO = storage obligation
+REC = 1 MWh renewable attribute | PAT ESCert = energy saving
+CCTS credit = GHG performance; NO automatic fungibility
+Green H2 target >=5 MMT/year by 2030; allocation != commissioning
 
-ASCII MASTER FLOW — PANEL 12/12: Energy-economics answer spine
-DEFINE carrier + unit + layer
-TRACE network + tariff + regulator
-TEST security + transition
-CONCLUDE service, not headline capacity
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State fuel/technology, stock or flow, unit,...
+ASCII MASTER FLOW — PANEL 12/12: Security and answer route
+AVAILABILITY + ACCESS + AFFORDABILITY + RELIABILITY + SUSTAINABILITY + RESILIENCE
+-> diversify source/route/contract + stocks + efficiency + finance + recovery
+ANSWER: define/date/unit -> trace chain/institutions -> diagnose economics
+-> test justice/environment/import risk -> verdict on delivered system cost
+CROSS-LINKS: Topic 18 infrastructure | Topic 25 climate economics

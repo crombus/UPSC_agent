@@ -1,74 +1,110 @@
-ASCII MASTER FLOW — PANEL 1/12: BoP accounting spine
-RESIDENT <-> NON-RESIDENT TRANSACTIONS
-CURRENT + CAPITAL + FINANCIAL ACCOUNTS
-DOUBLE ENTRY + ERRORS / OMISSIONS
-RESERVE-ASSET CHANGE closes recorded financing
-MUST REMEMBER: The balance of payments records resident–non-resident transactions across...
+ECONOMY TOPIC 19 - ASCII MASTER
+Current-source cutoff: 9 September 2026
 
-ASCII MASTER FLOW — PANEL 2/12: Current-account map
-GOODS
-SERVICES
-PRIMARY INCOME
-SECONDARY INCOME -> personal remittances
+PANEL 01: BOP ARCHITECTURE
++------------------------------------------------------------------------------+
+| Resident/non-resident                                                        |
+| Current + capital                                                            |
+| Financial account                                                            |
+| Errors/omissions                                                             |
+| Flow, not IIP stock                                                          |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Capital-financial fork
-CAPITAL -> capital transfers
-CAPITAL -> non-produced non-financial assets
-FINANCIAL -> FDI + portfolio + loans
-FINANCIAL -> derivatives + reserve assets
+PANEL 02: CURRENT ACCOUNT
++------------------------------------------------------------------------------+
+| Goods                                                                        |
+| Services                                                                     |
+| Primary income                                                               |
+| Secondary income                                                             |
+| Trade balance != CAD                                                         |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: CAD financing identity
-CURRENT-ACCOUNT DEFICIT
--> NET FINANCIAL INFLOWS
-OR -> RESERVE USE
-PLUS -> ERRORS / OMISSIONS; quality matters
+PANEL 03: CAPITAL/FINANCIAL
++------------------------------------------------------------------------------+
+| Capital transfers                                                            |
+| Non-produced assets                                                          |
+| FDI/FPI                                                                      |
+| Loans/deposits                                                               |
+| Reserve assets                                                               |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Trade-deficit offsets
-MERCHANDISE DEFICIT
-+ NET SERVICES
-+ PRIMARY INCOME
-+ SECONDARY INCOME -> CURRENT ACCOUNT
+PANEL 04: Q1 FY27 EVIDENCE
++------------------------------------------------------------------------------+
+| CAD USD 4.2 bn                                                               |
+| 0.5% GDP                                                                     |
+| Goods gap 86.1                                                               |
+| Services 51.6                                                                |
+| Transfers 42.9                                                               |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Currency quote board
-QUOTE -> RUPEES PER US DOLLAR
-NUMBER RISES -> dollar costs more
-RUPEE -> DEPRECIATES
-ALWAYS state quote before direction
-CLOSE DISTINCTION: Current-account deficit is not trade deficit, BOP accounting balance...
+PANEL 05: EXCHANGE QUOTE
++------------------------------------------------------------------------------+
+| INR per USD                                                                  |
+| Rise -> rupee weaker                                                         |
+| Market depreciation                                                          |
+| Parity devaluation                                                           |
+| State convention first                                                       |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Rate-change vocabulary
-MARKET -> depreciation / appreciation
-OFFICIAL PARITY -> devaluation / revaluation
-NOMINAL -> observed currency price
-REAL -> relative-price adjusted
+PANEL 06: NEER/REER
++------------------------------------------------------------------------------+
+| 40-currency basket                                                           |
+| Base 2015-16                                                                 |
+| NEER nominal                                                                 |
+| REER price-adjusted                                                          |
+| Indicator, not target                                                        |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Managed-float rail
-MARKET DEMAND + SUPPLY
--> RUPEE RATE MOVES
-RBI -> may smooth excessive volatility
-NO DECLARED FIXED TARGET LEVEL
+PANEL 07: INDIA REGIME
++------------------------------------------------------------------------------+
+| Market-determined                                                            |
+| RBI intervention                                                             |
+| Excess volatility                                                            |
+| No level or band                                                             |
+| 8 April 2026                                                                 |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Intervention-liquidity matrix
-RBI SELLS DOLLARS -> rupees absorbed
-RBI BUYS DOLLARS -> rupees injected
-STERILISATION -> offsets liquidity effect
-LIMIT -> costs + underlying pressure
+PANEL 08: INTERVENTION
++------------------------------------------------------------------------------+
+| Sell USD -> absorb INR                                                       |
+| Buy USD -> inject INR                                                        |
+| Sterilise liquidity                                                          |
+| Costs remain                                                                 |
+| No permanent override                                                        |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: NEER-REER ladder
-BILATERAL RATE
--> TRADE-WEIGHTED NEER
--> RELATIVE-PRICE ADJUSTED REER
-INTERPRET -> use RBI convention + base + weights
+PANEL 09: RESERVES
++------------------------------------------------------------------------------+
+| Total 740.803                                                                |
+| FCA + gold                                                                   |
+| SDR + IMF position                                                           |
+| 28 Aug provisional                                                           |
+| Stock != revenue                                                             |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: Reserve-adequacy dashboard
-IMPORT COVER
-SHORT-TERM DEBT
-BROAD MONEY / FINANCING NEED
-MATURITY + CURRENCY + HEDGING + STRESS
+PANEL 10: ADEQUACY/DEBT
++------------------------------------------------------------------------------+
+| Imports                                                                      |
+| Original maturity                                                            |
+| Residual maturity                                                            |
+| Currency + hedge                                                             |
+| Stress scenarios                                                             |
++------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: External-sector answer spine
-CLASSIFY transaction by account
-STATE sign / quote / stock-flow convention
-TRACE financing + intervention + liquidity
-JUDGE resilience through composition, not headline
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State period, currency/unit, stock or flow...
+PANEL 11: CONVERTIBILITY
++------------------------------------------------------------------------------+
+| Article VIII 1994                                                            |
+| FEMA from 2000                                                               |
+| Current broadly open                                                         |
+| Capital calibrated                                                           |
+| Tarapore sequenced                                                           |
++------------------------------------------------------------------------------+
+
+PANEL 12: ANSWER ENGINE
++------------------------------------------------------------------------------+
+| Classify                                                                     |
+| Date and sign                                                                |
+| Trace financing                                                              |
+| Test balance sheet                                                           |
+| Qualify conclusion                                                           |
++------------------------------------------------------------------------------+

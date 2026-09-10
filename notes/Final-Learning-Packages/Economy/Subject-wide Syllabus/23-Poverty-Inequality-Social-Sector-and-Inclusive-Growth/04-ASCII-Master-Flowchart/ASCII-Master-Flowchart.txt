@@ -1,74 +1,88 @@
-ASCII MASTER FLOW — PANEL 1/12: Poverty and inequality map
-POVERTY -> threshold shortfall
-INEQUALITY -> distributional dispersion
-BOTH can move differently
-STATE metric + data base
-MUST REMEMBER: Poverty, inequality and inclusion require distinct incidence, depth,...
-
-ASCII MASTER FLOW — PANEL 2/12: Poverty-measure ladder
-HEADCOUNT -> incidence
-POVERTY GAP -> depth
-SEVERITY -> distribution among poor
-MPI -> multiple deprivations
-
-ASCII MASTER FLOW — PANEL 3/12: Methodology clock
-LINE + BASKET
-PRICE BASIS + SURVEY
-REFERENCE PERIOD
-COMPARABILITY before trend
-
-ASCII MASTER FLOW — PANEL 4/12: Committee distinction
-TENDULKAR -> one methodology vintage
-RANGARAJAN -> revised basket + threshold
-NO TIMELESS current line
-ATTRIBUTE every estimate
-
-ASCII MASTER FLOW — PANEL 5/12: Lorenz and Gini map
-PERFECT-EQUALITY LINE
-LORENZ CURVE
-AREA -> GINI summary
-INCOME / CONSUMPTION / WEALTH differ
-
-ASCII MASTER FLOW — PANEL 6/12: MPI construction rail
-12 INDICATORS
--> deprivation score
--> H headcount + A intensity
--> MPI = H x A
-CLOSE DISTINCTION: Poverty headcount is not poverty gap, income is not consumption, Gini...
-
-ASCII MASTER FLOW — PANEL 7/12: MPI vintage boundary
-NFHS-5 2019-21 -> observed base
-2022-23 -> projected estimate
-NOT fresh survey
-COMPARE editions cautiously
-
-ASCII MASTER FLOW — PANEL 8/12: Inclusive-growth engine
-PRODUCTIVE JOBS + ASSETS
-QUALITY HEALTH + EDUCATION
-REDISTRIBUTION + PROTECTION
-CAPABILITY + MOBILITY
-
-ASCII MASTER FLOW — PANEL 9/12: Social-spending results chain
-ALLOCATION
--> RELEASE -> SPENDING
--> SERVICE ACCESS + QUALITY
--> HOUSEHOLD OUTCOME
-
-ASCII MASTER FLOW — PANEL 10/12: Protection architecture
-ASSISTANCE -> need/category
-INSURANCE -> pooled risk
-UNIVERSAL SERVICES -> broad access
-TARGETING -> exclusion risk
-
-ASCII MASTER FLOW — PANEL 11/12: Named instrument boundary
-MGNREGA -> work guarantee
-NFSA -> food entitlement
-HEALTH INSURANCE -> hospitalisation protection
-FINANCE -> access + usage + quality
-
-ASCII MASTER FLOW — PANEL 12/12: Inclusive-growth answer spine
-FIX metric + vintage
-TRACE jobs + services + transfers
-DISAGGREGATE groups + places
-CONCLUDE capability + resilience
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State survey, line/method, unit, price...
+ECONOMY TOPIC 23 | POVERTY, INEQUALITY, SOCIAL SECTOR AND INCLUSIVE GROWTH
+CURRENT-SOURCE CUTOFF: 10 September 2026
+READ TOP-TO-BOTTOM: DEFINE -> MEASURE -> COMPARE -> TRANSMIT -> DELIVER -> EVALUATE
+================================================================================================================
+[01 POVERTY TAXONOMY]
+  |- absolute -> fixed real minimum
+  |- relative -> position in current distribution
+  |- transient -> temporary shock
+  |- chronic -> persistent deprivation
+  `- poverty != inequality != vulnerability
+----------------------------------------------------------------------------------------------------------------
+[02 MONETARY MEASURES]
+  |- HCR -> incidence
+  |- gap -> depth
+  |- squared gap -> severity
+  |- same line + survey + year required
+  `- headcount alone can mislead
+----------------------------------------------------------------------------------------------------------------
+[03 INDIA METHOD CLOCK]
+  |- 1962 Working Group -> Alagh 1979
+  |- Lakdawala 1993 -> Tendulkar 2009
+  |- Rangarajan 2014 recommendation
+  |- no newly adopted timeless current line
+  `- attribute every estimate
+----------------------------------------------------------------------------------------------------------------
+[04 DATED DOMESTIC LINES]
+  |- Tendulkar 2011-12: Rs816 rural / Rs1000 urban
+  |- HCR 21.9%
+  |- Rangarajan 2011-12: Rs972 / Rs1407
+  |- HCR 29.5%
+  `- method change != welfare decline
+----------------------------------------------------------------------------------------------------------------
+[05 HCES CONTROL]
+  |- consumption / MPCE, not income or wealth
+  |- 2022-23 redesign -> comparability caution
+  |- 2023-24 no-imputation MPCE: Rs4122 / Rs6996
+  |- Gini: 0.237 rural / 0.284 urban
+  `- average != poverty threshold
+----------------------------------------------------------------------------------------------------------------
+[06 INTERNATIONAL + MPI]
+  |- World Bank June 2025 -> 2021 PPP
+  |- USD3.00 / 4.20 / 8.30
+  |- India 2022-23 -> 5.3% / 23.9%
+  |- NITI MPI -> 12 indicators; H x A
+  `- 14.96 observed; 11.28 estimated
+----------------------------------------------------------------------------------------------------------------
+[07 INEQUALITY TOOLKIT]
+  |- income flow / wealth stock / consumption
+  |- Lorenz -> cumulative shares
+  |- Gini -> whole distribution
+  |- Palma -> top10 / bottom40
+  `- Kuznets -> qualified hypothesis
+----------------------------------------------------------------------------------------------------------------
+[08 INCLUSIVE-GROWTH ENGINE]
+  |- growth + distribution -> poverty change
+  |- jobs + assets -> market income
+  |- services -> capability
+  |- taxes + transfers -> redistribution
+  `- risk protection -> resilience
+----------------------------------------------------------------------------------------------------------------
+[09 FISCAL + DELIVERY CHAIN]
+  |- predistribution before market outcome
+  |- fiscal incidence -> net distribution
+  |- allocation -> release -> spend
+  |- output -> quality -> outcome
+  `- disaggregate people and places
+----------------------------------------------------------------------------------------------------------------
+[10 TARGETING + JAM]
+  |- universal / targeted / self-selected
+  |- exclusion vs inclusion error
+  |- JAM = infrastructure; DBT = delivery
+  |- offline exception + correction + appeal
+  `- registration != benefit
+----------------------------------------------------------------------------------------------------------------
+[11 PROGRAMME BOUNDARIES]
+  |- MGNREGA -> rural household / 100 days / demand
+  |- NFSA -> PHH 5kg person; AAY 35kg household
+  |- free grain through Dec 2028
+  |- PM-JAY -> specified hospitalisation / Rs5 lakh
+  `- NSAP + scholarships -> distinct eligibility
+----------------------------------------------------------------------------------------------------------------
+[12 MAINS EVALUATION]
+  |- adequacy -> coverage -> incidence
+  |- quality -> portability -> grievance
+  |- fiscal + ecological sustainability
+  |- capability + voice + dignity
+  `- never infer outcome from outlay or enrolment
+----------------------------------------------------------------------------------------------------------------

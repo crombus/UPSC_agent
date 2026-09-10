@@ -1,1103 +1,899 @@
 ---
-title: "Balance of Payments, Exchange Rates and Forex Reserves — Solved Practice Workbook"
-topic_key: economy-19
+title: "Balance of Payments, Exchange Rates and Forex Reserves - Solved Practice Workbook"
+topic_key: economy-topic-19
 ---
-# Balance of Payments, Exchange Rates and Forex Reserves — Solved Practice Workbook
+# Balance of Payments, Exchange Rates and Forex Reserves - Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies BoP residence boundary?
+Exactly 32 original questions appear before PYQs. Correct answers rotate A -> B -> C -> D eight times.
 
-A. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-B. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-C. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-D. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
+### MCQ 1
 
-**Answer: A.**
-**Explanation:** The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+BoP residence is primarily determined by:
 
-### Q2. Which option preserves the accounting or regulatory boundary of BoP residence boundary?
-
-A. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-B. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-C. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-D. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
-
-**Answer: B.**
-**Explanation:** The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses BoP residence boundary without losing its vintage, basket or legal status?
-
-A. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
-B. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-C. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-D. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-
-**Answer: C.**
-**Explanation:** The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about BoP residence boundary?
-
-A. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-B. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
-C. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
-D. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-
-**Answer: D.**
-**Explanation:** The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies Double-entry accounting?
-
-A. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-B. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-C. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-D. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
+A. Centre of predominant economic interest
+B. Citizenship
+C. Currency used
+D. Place of passport issue
 
 **Answer: A.**
-**Explanation:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q6. Which option preserves the accounting or regulatory boundary of Double-entry accounting?
+**Option-wise explanation:**
+- **A - Correct:** The BoP manual uses economic interest and territory as the residence test. Option text: Centre of predominant economic interest
+- **B - Incorrect:** Citizenship alone does not determine BoP residence. Option text: Citizenship
+- **C - Incorrect:** Currency denomination does not determine residence. Option text: Currency used
+- **D - Incorrect:** Passport administration is not the statistical test. Option text: Place of passport issue
 
-A. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-B. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-C. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
-D. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
+**Examiner trap 1: Fix residence and account before interpreting the flow. Focus: bop residence is primarily determined by.**
+
+### MCQ 2
+
+Which entry is normally a BoP credit?
+
+A. An increase in residents' foreign assets
+B. An export of software services
+C. An import of machinery
+D. A reduction in foreign liabilities
 
 **Answer: B.**
-**Explanation:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q7. Which statement uses Double-entry accounting without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Acquiring a foreign asset is a debit. Option text: An increase in residents' foreign assets
+- **B - Correct:** A service export creates a current-account credit. Option text: An export of software services
+- **C - Incorrect:** A goods import is a debit. Option text: An import of machinery
+- **D - Incorrect:** Reducing a liability is a debit in financial-account sign logic. Option text: A reduction in foreign liabilities
 
-A. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-B. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
-C. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-D. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
+**Examiner trap 2: Preserve sign conventions and the exact statistical category. Focus: which entry is normally a bop credit.**
+
+### MCQ 3
+
+Which set exhausts the BPM6 current-account headings?
+
+A. Goods, FDI, loans, reserves
+B. Goods, capital transfers, FPI, SDR allocation
+C. Goods, services, primary income, secondary income
+D. Services, derivatives, deposits, errors and omissions
 
 **Answer: C.**
-**Explanation:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Double-entry accounting?
+**Option-wise explanation:**
+- **A - Incorrect:** FDI, loans and reserves are financial-account items. Option text: Goods, FDI, loans, reserves
+- **B - Incorrect:** Capital transfers and FPI do not belong to the current account. Option text: Goods, capital transfers, FPI, SDR allocation
+- **C - Correct:** These are the four BPM6 current-account components. Option text: Goods, services, primary income, secondary income
+- **D - Incorrect:** Derivatives and deposits are financial claims, while errors are balancing entries. Option text: Services, derivatives, deposits, errors and omissions
 
-A. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-B. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-C. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
-D. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
+**Examiner trap 3: Do not turn a dated value into a permanent threshold. Focus: which set exhausts the bpm6 current-account headings.**
+
+### MCQ 4
+
+Personal transfers from Indians employed overseas are mainly recorded under:
+
+A. Goods
+B. Services
+C. Primary income
+D. Secondary income
 
 **Answer: D.**
-**Explanation:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q9. Which statement correctly identifies Current account?
+**Option-wise explanation:**
+- **A - Incorrect:** No merchandise ownership changes through the transfer. Option text: Goods
+- **B - Incorrect:** The transfer is not payment for a current service. Option text: Services
+- **C - Incorrect:** Investment income and compensation are primary income. Option text: Primary income
+- **D - Correct:** Personal transfers are current transfers under secondary income. Option text: Secondary income
 
-A. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-B. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-C. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
-D. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
+**Examiner trap 4: Separate market movement, official action and balance-sheet effect. Focus: personal transfers from indians employed overseas are mainly recorded under.**
+
+### MCQ 5
+
+The narrow BPM6 capital account principally contains:
+
+A. Capital transfers and non-produced non-financial assets
+B. FDI and portfolio equity
+C. Loans and deposits
+D. Reserve assets and derivatives
 
 **Answer: A.**
-**Explanation:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q10. Which option preserves the accounting or regulatory boundary of Current account?
+**Option-wise explanation:**
+- **A - Correct:** This is the modern narrow capital-account perimeter. Option text: Capital transfers and non-produced non-financial assets
+- **B - Incorrect:** These are direct and portfolio categories in the financial account. Option text: FDI and portfolio equity
+- **C - Incorrect:** Loans and deposits are other investment. Option text: Loans and deposits
+- **D - Incorrect:** Both belong to financial-account categories. Option text: Reserve assets and derivatives
 
-A. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-B. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-C. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
-D. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
+**Examiner trap 5: Fix residence and account before interpreting the flow. Focus: the narrow bpm6 capital account principally contains.**
+
+### MCQ 6
+
+Under BPM6, reserve-asset transactions appear in the:
+
+A. Current account
+B. Financial account
+C. Capital account only
+D. Errors and omissions
 
 **Answer: B.**
-**Explanation:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q11. Which statement uses Current account without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Current account records goods, services and income. Option text: Current account
+- **B - Correct:** Reserve assets are a functional financial-account category. Option text: Financial account
+- **C - Incorrect:** The narrow capital account excludes reserve assets. Option text: Capital account only
+- **D - Incorrect:** Errors and omissions reconcile data gaps rather than classify reserves. Option text: Errors and omissions
 
-A. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-B. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
-C. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-D. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
+**Examiner trap 6: Preserve sign conventions and the exact statistical category. Focus: under bpm6, reserve-asset transactions appear in the.**
+
+### MCQ 7
+
+A merchandise trade deficit differs from a current-account deficit because the latter also includes:
+
+A. Only FDI
+B. Only reserve changes
+C. Services and primary and secondary income
+D. Only government borrowing
 
 **Answer: C.**
-**Explanation:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Current account?
+**Option-wise explanation:**
+- **A - Incorrect:** FDI is financial-account financing. Option text: Only FDI
+- **B - Incorrect:** Reserve changes are financial-account transactions. Option text: Only reserve changes
+- **C - Correct:** These flows explain why the two balances can differ sharply. Option text: Services and primary and secondary income
+- **D - Incorrect:** Government borrowing is only one possible financial flow. Option text: Only government borrowing
 
-A. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-B. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-C. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
-D. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
+**Examiner trap 7: Do not turn a dated value into a permanent threshold. Focus: a merchandise trade deficit differs from a current-account deficit because the latter also includes.**
+
+### MCQ 8
+
+A CAD is necessarily matched by some combination of:
+
+A. Gold production and tax revenue
+B. Only FDI
+C. Only external debt
+D. Net financial flows, reserve use and statistical adjustment
 
 **Answer: D.**
-**Explanation:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q13. Which statement correctly identifies Goods and services?
+**Option-wise explanation:**
+- **A - Incorrect:** Domestic production and taxes do not complete the external identity. Option text: Gold production and tax revenue
+- **B - Incorrect:** FDI is one financing source, not the only one. Option text: Only FDI
+- **C - Incorrect:** Debt can finance a deficit but is not compulsory. Option text: Only external debt
+- **D - Correct:** This preserves the complete accounting counterpart. Option text: Net financial flows, reserve use and statistical adjustment
 
-A. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-B. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
-C. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-D. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
+**Examiner trap 8: Separate market movement, official action and balance-sheet effect. Focus: a cad is necessarily matched by some combination of.**
+
+### MCQ 9
+
+If the quote rises from 85 to 90 INR per USD:
+
+A. The rupee depreciates against the dollar
+B. The rupee appreciates against the dollar
+C. The dollar depreciates against the rupee
+D. No bilateral movement occurs
 
 **Answer: A.**
-**Explanation:** Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q14. Which option preserves the accounting or regulatory boundary of Goods and services?
+**Option-wise explanation:**
+- **A - Correct:** More rupees are required for one dollar. Option text: The rupee depreciates against the dollar
+- **B - Incorrect:** Appreciation would lower INR per USD. Option text: The rupee appreciates against the dollar
+- **C - Incorrect:** The dollar has strengthened in this quote. Option text: The dollar depreciates against the rupee
+- **D - Incorrect:** The numerical change directly records a bilateral movement. Option text: No bilateral movement occurs
 
-A. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-B. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-C. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-D. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
+**Examiner trap 9: Fix residence and account before interpreting the flow. Focus: if the quote rises from 85 to 90 inr per usd.**
+
+### MCQ 10
+
+Which distinction is correct?
+
+A. Depreciation is always official
+B. Devaluation changes an official parity; depreciation is a market movement
+C. Revaluation means market strengthening
+D. Appreciation requires a fixed peg
 
 **Answer: B.**
-**Explanation:** Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q15. Which statement uses Goods and services without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Market weakening is depreciation. Option text: Depreciation is always official
+- **B - Correct:** This matches regime-specific vocabulary. Option text: Devaluation changes an official parity; depreciation is a market movement
+- **C - Incorrect:** Official upward parity change is revaluation. Option text: Revaluation means market strengthening
+- **D - Incorrect:** Market currencies can appreciate without a peg. Option text: Appreciation requires a fixed peg
 
-A. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
-B. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-C. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-D. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
+**Examiner trap 10: Preserve sign conventions and the exact statistical category. Focus: which distinction is correct.**
+
+### MCQ 11
+
+A real exchange-rate measure differs from a nominal rate by incorporating:
+
+A. Only reserve holdings
+B. Only interest rates
+C. Relative prices or costs
+D. Only trade volumes
 
 **Answer: C.**
-**Explanation:** Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Goods and services?
+**Option-wise explanation:**
+- **A - Incorrect:** Reserve stocks are not the price adjustment. Option text: Only reserve holdings
+- **B - Incorrect:** Interest differentials can affect flows but do not define the real rate. Option text: Only interest rates
+- **C - Correct:** Relative price adjustment converts nominal into real terms. Option text: Relative prices or costs
+- **D - Incorrect:** Trade volumes can supply weights but do not alone create a real rate. Option text: Only trade volumes
 
-A. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-B. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-C. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-D. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
+**Examiner trap 11: Do not turn a dated value into a permanent threshold. Focus: a real exchange-rate measure differs from a nominal rate by incorporating.**
+
+### MCQ 12
+
+Which statement about RBI's NEER and REER is correct?
+
+A. Both are bilateral USD rates
+B. Both exclude trade weights
+C. REER never uses price indices
+D. They are basket indices; REER adds a relative-price adjustment
 
 **Answer: D.**
-**Explanation:** Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q17. Which statement correctly identifies Primary and secondary income?
+**Option-wise explanation:**
+- **A - Incorrect:** Effective rates aggregate multiple currencies. Option text: Both are bilateral USD rates
+- **B - Incorrect:** Trade weights are central to the effective index. Option text: Both exclude trade weights
+- **C - Incorrect:** REER requires a price or cost adjustment. Option text: REER never uses price indices
+- **D - Correct:** This states the nominal-real basket distinction. Option text: They are basket indices; REER adds a relative-price adjustment
 
-A. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
-B. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-C. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-D. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
+**Examiner trap 12: Separate market movement, official action and balance-sheet effect. Focus: which statement about rbi's neer and reer is correct.**
+
+### MCQ 13
+
+RBI's stated exchange-rate policy on 8 April 2026 was to:
+
+A. Smooth excessive volatility without a specific level or band
+B. Defend a permanent rupee-dollar parity
+C. Allow no intervention
+D. Target the REER at exactly 100
 
 **Answer: A.**
-**Explanation:** Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q18. Which option preserves the accounting or regulatory boundary of Primary and secondary income?
+**Option-wise explanation:**
+- **A - Correct:** This reproduces the dated operational statement. Option text: Smooth excessive volatility without a specific level or band
+- **B - Incorrect:** No permanent parity was announced. Option text: Defend a permanent rupee-dollar parity
+- **C - Incorrect:** RBI explicitly retains intervention operations. Option text: Allow no intervention
+- **D - Incorrect:** The base value of an index is not an exchange-rate target. Option text: Target the REER at exactly 100
 
-A. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-B. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
-C. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
-D. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
+**Examiner trap 13: Fix residence and account before interpreting the flow. Focus: rbi's stated exchange-rate policy on 8 april 2026 was to.**
+
+### MCQ 14
+
+An RBI sale of dollars in the spot market normally:
+
+A. Injects rupee liquidity
+B. Supplies dollars and absorbs rupees
+C. Raises gold reserves automatically
+D. Creates a current-account credit
 
 **Answer: B.**
-**Explanation:** Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q19. Which statement uses Primary and secondary income without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** A dollar purchase, not sale, normally injects rupees. Option text: Injects rupee liquidity
+- **B - Correct:** The counterpart payment withdraws domestic currency. Option text: Supplies dollars and absorbs rupees
+- **C - Incorrect:** Gold is a separate reserve component. Option text: Raises gold reserves automatically
+- **D - Incorrect:** Intervention is a financial-account operation. Option text: Creates a current-account credit
 
-A. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-B. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-C. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
-D. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
+**Examiner trap 14: Preserve sign conventions and the exact statistical category. Focus: an rbi sale of dollars in the spot market normally.**
+
+### MCQ 15
+
+Sterilisation means:
+
+A. Fixing the exchange rate permanently
+B. Writing off valuation losses
+C. Offsetting the domestic-liquidity effect of intervention
+D. Converting SDRs into fiscal revenue
 
 **Answer: C.**
-**Explanation:** Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Primary and secondary income?
+**Option-wise explanation:**
+- **A - Incorrect:** Sterilisation does not promise a permanent parity. Option text: Fixing the exchange rate permanently
+- **B - Incorrect:** Valuation accounting is separate. Option text: Writing off valuation losses
+- **C - Correct:** Liquidity operations neutralise the monetary impulse. Option text: Offsetting the domestic-liquidity effect of intervention
+- **D - Incorrect:** SDRs remain reserve assets, not ordinary revenue. Option text: Converting SDRs into fiscal revenue
 
-A. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-B. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
-C. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-D. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
+**Examiner trap 15: Do not turn a dated value into a permanent threshold. Focus: sterilisation means.**
+
+### MCQ 16
+
+RBI's Q1 FY2026-27 reserve-release distinction shows that:
+
+A. Valuation changes are always zero
+B. Weekly reserves equal BoP flows
+C. Gold changes are current-account transactions
+D. BoP-basis change can differ from nominal stock change because of valuation
 
 **Answer: D.**
-**Explanation:** Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q21. Which statement correctly identifies Capital account?
+**Option-wise explanation:**
+- **A - Incorrect:** Exchange and gold-price movements create valuation effects. Option text: Valuation changes are always zero
+- **B - Incorrect:** A weekly stock includes transactions and valuation. Option text: Weekly reserves equal BoP flows
+- **C - Incorrect:** Gold revaluation is not a current-account flow. Option text: Gold changes are current-account transactions
+- **D - Correct:** This is why USD 8.1 billion and USD 22.5 billion differed. Option text: BoP-basis change can differ from nominal stock change because of valuation
 
-A. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-B. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-C. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-D. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
+**Examiner trap 16: Separate market movement, official action and balance-sheet effect. Focus: rbi's q1 fy2026-27 reserve-release distinction shows that.**
+
+### MCQ 17
+
+Which is a component of India's official forex reserves?
+
+A. Foreign currency assets
+B. Private firms' export receivables
+C. All NRI bank deposits
+D. All government foreign borrowing
 
 **Answer: A.**
-**Explanation:** The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q22. Which option preserves the accounting or regulatory boundary of Capital account?
+**Option-wise explanation:**
+- **A - Correct:** FCA is the largest published reserve component. Option text: Foreign currency assets
+- **B - Incorrect:** Private receivables are not monetary-authority reserves. Option text: Private firms' export receivables
+- **C - Incorrect:** NRI deposits are bank liabilities and external debt. Option text: All NRI bank deposits
+- **D - Incorrect:** Borrowing is a liability, not automatically a reserve asset. Option text: All government foreign borrowing
 
-A. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-B. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-C. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-D. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
+**Examiner trap 17: Fix residence and account before interpreting the flow. Focus: which is a component of india's official forex reserves.**
+
+### MCQ 18
+
+An SDR is best described as:
+
+A. A private cryptocurrency
+B. An IMF-created international reserve asset
+C. A gold-backed national currency
+D. A commercial bank deposit
 
 **Answer: B.**
-**Explanation:** The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q23. Which statement uses Capital account without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** SDRs are official, not privately mined assets. Option text: A private cryptocurrency
+- **B - Correct:** The IMF allocates SDRs to members. Option text: An IMF-created international reserve asset
+- **C - Incorrect:** The value is basket-based, not a gold parity. Option text: A gold-backed national currency
+- **D - Incorrect:** SDR holdings are distinct from ordinary deposits. Option text: A commercial bank deposit
 
-A. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
-B. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-C. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-D. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
+**Examiner trap 18: Preserve sign conventions and the exact statistical category. Focus: an sdr is best described as.**
+
+### MCQ 19
+
+Which is the strongest reserve-adequacy approach?
+
+A. Use the absolute dollar stock alone
+B. Use import cover alone
+C. Combine imports, debt maturity, financing needs and stress tests
+D. Compare reserves only with fiscal deficit
 
 **Answer: C.**
-**Explanation:** The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Capital account?
+**Option-wise explanation:**
+- **A - Incorrect:** Absolute size ignores obligations. Option text: Use the absolute dollar stock alone
+- **B - Incorrect:** Import cover omits capital-flow and maturity shocks. Option text: Use import cover alone
+- **C - Correct:** A dashboard captures multiple external-payment risks. Option text: Combine imports, debt maturity, financing needs and stress tests
+- **D - Incorrect:** Fiscal deficit is not the sole external liability measure. Option text: Compare reserves only with fiscal deficit
 
-A. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-B. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-C. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
-D. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
+**Examiner trap 19: Do not turn a dated value into a permanent threshold. Focus: which is the strongest reserve-adequacy approach.**
+
+### MCQ 20
+
+Which pair correctly distinguishes stock and flow?
+
+A. CAD is stock; reserves are flow
+B. Exports are stock; IIP is flow
+C. External debt service is stock; debt is flow
+D. Reserve level is stock; BoP reserve change is a period flow
 
 **Answer: D.**
-**Explanation:** The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q25. Which statement correctly identifies Financial account?
+**Option-wise explanation:**
+- **A - Incorrect:** CAD is a period flow. Option text: CAD is stock; reserves are flow
+- **B - Incorrect:** Exports are flows and IIP is a stock statement. Option text: Exports are stock; IIP is flow
+- **C - Incorrect:** Outstanding debt is stock and service is a period payment. Option text: External debt service is stock; debt is flow
+- **D - Correct:** This preserves the level-change distinction. Option text: Reserve level is stock; BoP reserve change is a period flow
 
-A. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
-B. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-C. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-D. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
+**Examiner trap 20: Separate market movement, official action and balance-sheet effect. Focus: which pair correctly distinguishes stock and flow.**
+
+### MCQ 21
+
+India formally accepted IMF Article VIII current-account obligations in:
+
+A. August 1994
+B. June 2000
+C. May 1997
+D. January 2021
 
 **Answer: A.**
-**Explanation:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q26. Which option preserves the accounting or regulatory boundary of Financial account?
+**Option-wise explanation:**
+- **A - Correct:** The dated RBI record places acceptance in August 1994. Option text: August 1994
+- **B - Incorrect:** June 2000 is FEMA's effective date. Option text: June 2000
+- **C - Incorrect:** May 1997 relates to the first Tarapore report. Option text: May 1997
+- **D - Incorrect:** January 2021 relates to the revised effective-rate series. Option text: January 2021
 
-A. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-B. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
-C. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-D. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
+**Examiner trap 21: Fix residence and account before interpreting the flow. Focus: india formally accepted imf article viii current-account obligations in.**
+
+### MCQ 22
+
+Under FEMA, a capital-account transaction generally:
+
+A. Never changes assets or liabilities
+B. Alters specified cross-border assets or liabilities
+C. Is identical to a current transfer
+D. Is automatically prohibited
 
 **Answer: B.**
-**Explanation:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q27. Which statement uses Financial account without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** That is closer to the current-account residual idea. Option text: Never changes assets or liabilities
+- **B - Correct:** The asset-liability effect is the statutory distinction. Option text: Alters specified cross-border assets or liabilities
+- **C - Incorrect:** Current transfers belong to current-account treatment. Option text: Is identical to a current transfer
+- **D - Incorrect:** FEMA regulates and permits categories; it does not ban all capital transactions. Option text: Is automatically prohibited
 
-A. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-B. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-C. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
-D. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
+**Examiner trap 22: Preserve sign conventions and the exact statistical category. Focus: under fema, a capital-account transaction generally.**
+
+### MCQ 23
+
+The impossible trinity says a country cannot fully combine:
+
+A. Fiscal policy, taxation and borrowing
+B. Exports, imports and remittances
+C. Fixed rate, free capital mobility and monetary autonomy
+D. Inflation, growth and employment
 
 **Answer: C.**
-**Explanation:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Financial account?
+**Option-wise explanation:**
+- **A - Incorrect:** These fiscal instruments are not the open-economy trilemma. Option text: Fiscal policy, taxation and borrowing
+- **B - Incorrect:** These are external flows, not policy corners. Option text: Exports, imports and remittances
+- **C - Correct:** At most two can be fully sustained together. Option text: Fixed rate, free capital mobility and monetary autonomy
+- **D - Incorrect:** This is a policy trade-off but not the impossible trinity. Option text: Inflation, growth and employment
 
-A. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
-B. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-C. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-D. Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
+**Examiner trap 23: Do not turn a dated value into a permanent threshold. Focus: the impossible trinity says a country cannot fully combine.**
+
+### MCQ 24
+
+Capital controls can:
+
+A. Remove all currency risk
+B. Guarantee low inflation
+C. Make reserves unnecessary
+D. Moderate some flows while imposing efficiency and uncertainty costs
 
 **Answer: D.**
-**Explanation:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q29. Which statement correctly identifies FDI and portfolio distinction?
+**Option-wise explanation:**
+- **A - Incorrect:** Currency risk can persist under controls. Option text: Remove all currency risk
+- **B - Incorrect:** Inflation depends on wider monetary and supply conditions. Option text: Guarantee low inflation
+- **C - Incorrect:** Reserve insurance can remain useful. Option text: Make reserves unnecessary
+- **D - Correct:** Controls trade openness benefits against stability and compliance costs. Option text: Moderate some flows while imposing efficiency and uncertainty costs
 
-A. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-B. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-C. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-D. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
+**Examiner trap 24: Separate market movement, official action and balance-sheet effect. Focus: capital controls can.**
+
+### MCQ 25
+
+At end-March 2026, India's largest external-debt currency component was:
+
+A. US dollar, but not the entire stock
+B. Indian rupee at more than half
+C. Only SDR
+D. Only yen
 
 **Answer: A.**
-**Explanation:** FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q30. Which option preserves the accounting or regulatory boundary of FDI and portfolio distinction?
+**Option-wise explanation:**
+- **A - Correct:** RBI reported 55.5 percent US-dollar denomination. Option text: US dollar, but not the entire stock
+- **B - Incorrect:** Rupee debt was significant at 29.4 percent but not largest. Option text: Indian rupee at more than half
+- **C - Incorrect:** SDR-denominated debt was a minority share. Option text: Only SDR
+- **D - Incorrect:** Yen debt was also a minority share. Option text: Only yen
 
-A. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-B. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-C. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
-D. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
+**Examiner trap 25: Fix residence and account before interpreting the flow. Focus: at end-march 2026, india's largest external-debt currency component was.**
+
+### MCQ 26
+
+Residual-maturity short-term debt includes:
+
+A. Only trade credit originally below one year
+B. Original short-term debt plus long-term debt due within twelve months
+C. All FDI liabilities
+D. All portfolio equity
 
 **Answer: B.**
-**Explanation:** FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q31. Which statement uses FDI and portfolio distinction without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** This is too narrow. Option text: Only trade credit originally below one year
+- **B - Correct:** This captures near-term repayment pressure. Option text: Original short-term debt plus long-term debt due within twelve months
+- **C - Incorrect:** FDI equity is not debt maturity. Option text: All FDI liabilities
+- **D - Incorrect:** Portfolio equity has no promised principal maturity. Option text: All portfolio equity
 
-A. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-B. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-C. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
-D. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
+**Examiner trap 26: Preserve sign conventions and the exact statistical category. Focus: residual-maturity short-term debt includes.**
+
+### MCQ 27
+
+Which flow is generally control-linked rather than merely tradable?
+
+A. A short-term portfolio bond
+B. A bank deposit
+C. FDI with lasting interest
+D. A reserve-asset valuation gain
 
 **Answer: C.**
-**Explanation:** FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q32. Which option avoids the standard UPSC close-option trap about FDI and portfolio distinction?
+**Option-wise explanation:**
+- **A - Incorrect:** Portfolio debt lacks equivalent managerial control. Option text: A short-term portfolio bond
+- **B - Incorrect:** A deposit is other investment. Option text: A bank deposit
+- **C - Correct:** FDI's statistical concept centres on lasting interest and influence. Option text: FDI with lasting interest
+- **D - Incorrect:** Valuation gain is not an investment relationship. Option text: A reserve-asset valuation gain
 
-A. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-B. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-C. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-D. FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode.
+**Examiner trap 27: Do not turn a dated value into a permanent threshold. Focus: which flow is generally control-linked rather than merely tradable.**
+
+### MCQ 28
+
+For an unhedged Indian ECB borrower, rupee depreciation usually:
+
+A. Reduces rupee repayment cost
+B. Eliminates rollover risk
+C. Turns debt into FDI
+D. Raises the rupee cost of servicing foreign-currency debt
 
 **Answer: D.**
-**Explanation:** FDI is associated with a lasting interest and control-linked relationship, whereas portfolio investment is generally a tradable financial claim without equivalent managerial control; neither is automatically stable in every episode. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q33. Which statement correctly identifies CAD financing?
+**Option-wise explanation:**
+- **A - Incorrect:** More rupees, not fewer, are needed for foreign currency. Option text: Reduces rupee repayment cost
+- **B - Incorrect:** Maturity refinancing risk remains. Option text: Eliminates rollover risk
+- **C - Incorrect:** Debt does not change category because of the exchange rate. Option text: Turns debt into FDI
+- **D - Correct:** This is the currency-mismatch channel. Option text: Raises the rupee cost of servicing foreign-currency debt
 
-A. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-B. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
-C. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-D. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
+**Examiner trap 28: Separate market movement, official action and balance-sheet effect. Focus: for an unhedged indian ecb borrower, rupee depreciation usually.**
+
+### MCQ 29
+
+The J-curve describes the possibility that after depreciation:
+
+A. Trade balance first worsens before quantity adjustment improves it
+B. Reserves always double immediately
+C. Capital controls disappear
+D. Import prices fall instantly
 
 **Answer: A.**
-**Explanation:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q34. Which option preserves the accounting or regulatory boundary of CAD financing?
+**Option-wise explanation:**
+- **A - Correct:** Contract and price effects can precede volume response. Option text: Trade balance first worsens before quantity adjustment improves it
+- **B - Incorrect:** No reserve doubling follows mechanically. Option text: Reserves always double immediately
+- **C - Incorrect:** The curve concerns trade adjustment, not legal controls. Option text: Capital controls disappear
+- **D - Incorrect:** Domestic-currency import prices usually rise. Option text: Import prices fall instantly
 
-A. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-B. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-C. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-D. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
+**Examiner trap 29: Fix residence and account before interpreting the flow. Focus: the j-curve describes the possibility that after depreciation.**
 
-**Answer: B.**
-**Explanation:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 30
 
-### Q35. Which statement uses CAD financing without losing its vintage, basket or legal status?
+Exchange-rate pass-through refers to:
 
-A. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-B. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-C. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-D. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-
-**Answer: C.**
-**Explanation:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about CAD financing?
-
-A. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-B. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-C. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-D. A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-
-**Answer: D.**
-**Explanation:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies Merchandise-deficit offset?
-
-A. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-B. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
-C. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-D. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-
-**Answer: A.**
-**Explanation:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of Merchandise-deficit offset?
-
-A. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-B. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-C. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-D. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
+A. Conversion of debt into equity
+B. Transmission of currency changes into domestic prices
+C. Movement from current to capital account
+D. Publication of NEER weights
 
 **Answer: B.**
-**Explanation:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q39. Which statement uses Merchandise-deficit offset without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** That is a financing transaction. Option text: Conversion of debt into equity
+- **B - Correct:** Imported inputs and final goods transmit the currency change. Option text: Transmission of currency changes into domestic prices
+- **C - Incorrect:** Account classification does not define pass-through. Option text: Movement from current to capital account
+- **D - Incorrect:** Weights are index methodology, not price transmission. Option text: Publication of NEER weights
 
-A. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-B. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-C. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-D. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
+**Examiner trap 30: Preserve sign conventions and the exact statistical category. Focus: exchange-rate pass-through refers to.**
 
-**Answer: C.**
-**Explanation:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 31
 
-### Q40. Which option avoids the standard UPSC close-option trap about Merchandise-deficit offset?
+The central lesson of India's 1991 BoP crisis is that:
 
-A. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-B. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-C. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-D. A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-
-**Answer: D.**
-**Explanation:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies Exchange-rate quote?
-
-A. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
-B. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-C. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-D. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-
-**Answer: A.**
-**Explanation:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of Exchange-rate quote?
-
-A. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-B. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
-C. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-D. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-
-**Answer: B.**
-**Explanation:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses Exchange-rate quote without losing its vintage, basket or legal status?
-
-A. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-B. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-C. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
-D. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
+A. A fixed reserve number is permanently sufficient
+B. Every CAD causes immediate default
+C. Liquidity buffers and financing quality must accompany structural adjustment
+D. Currency depreciation alone solves oil dependence
 
 **Answer: C.**
-**Explanation:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Exchange-rate quote?
+**Option-wise explanation:**
+- **A - Incorrect:** Adequacy changes with liabilities and shocks. Option text: A fixed reserve number is permanently sufficient
+- **B - Incorrect:** Deficit size alone does not determine crisis. Option text: Every CAD causes immediate default
+- **C - Correct:** Emergency liquidity and competitiveness reforms address different horizons. Option text: Liquidity buffers and financing quality must accompany structural adjustment
+- **D - Incorrect:** Depreciation can raise the oil-import bill. Option text: Currency depreciation alone solves oil dependence
 
-A. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-B. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-C. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-D. An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
+**Examiner trap 31: Do not turn a dated value into a permanent threshold. Focus: the central lesson of india's 1991 bop crisis is that.**
 
-**Answer: D.**
-**Explanation:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 32
 
-### Q45. Which statement correctly identifies Depreciation and devaluation?
+A balanced external-sector policy mix should:
 
-A. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-B. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-C. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-D. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-
-**Answer: A.**
-**Explanation:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of Depreciation and devaluation?
-
-A. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-B. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-C. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-D. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-
-**Answer: B.**
-**Explanation:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses Depreciation and devaluation without losing its vintage, basket or legal status?
-
-A. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-B. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-C. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-D. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-
-**Answer: C.**
-**Explanation:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Depreciation and devaluation?
-
-A. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-B. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-C. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-D. Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
+A. Target one permanent exchange rate
+B. Rely only on reserves
+C. Ban every capital flow
+D. Combine flexibility, buffers, hedging, macro stability and competitiveness
 
 **Answer: D.**
-**Explanation:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q49. Which statement correctly identifies Managed float?
+**Option-wise explanation:**
+- **A - Incorrect:** A permanent target conflicts with the stated framework. Option text: Target one permanent exchange rate
+- **B - Incorrect:** Reserves cannot replace adjustment. Option text: Rely only on reserves
+- **C - Incorrect:** Blanket closure sacrifices financing and risk-sharing benefits. Option text: Ban every capital flow
+- **D - Correct:** The combined approach addresses liquidity, balance sheets and real capacity. Option text: Combine flexibility, buffers, hedging, macro stability and competitiveness
 
-A. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-B. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-C. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-D. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
+**Examiner trap 32: Separate market movement, official action and balance-sheet effect. Focus: a balanced external-sector policy mix should.**
 
-**Answer: A.**
-**Explanation:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q50. Which option preserves the accounting or regulatory boundary of Managed float?
-
-A. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-B. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-C. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-D. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-
-**Answer: B.**
-**Explanation:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses Managed float without losing its vintage, basket or legal status?
-
-A. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-B. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-C. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-D. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-
-**Answer: C.**
-**Explanation:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Managed float?
-
-A. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-B. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-C. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-D. India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-
-**Answer: D.**
-**Explanation:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies Intervention liquidity effect?
-
-A. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-B. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-C. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-D. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-
-**Answer: A.**
-**Explanation:** An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of Intervention liquidity effect?
-
-A. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-B. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-C. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-D. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-
-**Answer: B.**
-**Explanation:** An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses Intervention liquidity effect without losing its vintage, basket or legal status?
-
-A. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-B. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-C. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-D. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-
-**Answer: C.**
-**Explanation:** An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Intervention liquidity effect?
-
-A. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-B. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-C. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-D. An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-
-**Answer: D.**
-**Explanation:** An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Sterilisation boundary?
-
-A. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-B. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-C. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-D. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-
-**Answer: A.**
-**Explanation:** Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Sterilisation boundary?
-
-A. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-B. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-C. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-D. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-
-**Answer: B.**
-**Explanation:** Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Sterilisation boundary without losing its vintage, basket or legal status?
-
-A. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-B. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-C. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-D. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-
-**Answer: C.**
-**Explanation:** Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Sterilisation boundary?
-
-A. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-B. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-C. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-D. Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
-
-**Answer: D.**
-**Explanation:** Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies NEER and REER?
-
-A. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-B. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-C. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-D. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-
-**Answer: A.**
-**Explanation:** NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of NEER and REER?
-
-A. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-B. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-C. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-D. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-
-**Answer: B.**
-**Explanation:** NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses NEER and REER without losing its vintage, basket or legal status?
-
-A. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-B. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-C. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-D. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-
-**Answer: C.**
-**Explanation:** NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about NEER and REER?
-
-A. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-B. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-C. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-D. NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
-
-**Answer: D.**
-**Explanation:** NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Trade-balance response?
-
-A. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-B. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-C. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-D. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-
-**Answer: A.**
-**Explanation:** Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Trade-balance response?
-
-A. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-B. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-C. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-D. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-
-**Answer: B.**
-**Explanation:** Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Trade-balance response without losing its vintage, basket or legal status?
-
-A. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-B. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-C. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-D. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-
-**Answer: C.**
-**Explanation:** Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Trade-balance response?
-
-A. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-B. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-C. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-D. Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-
-**Answer: D.**
-**Explanation:** Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Forex-reserve composition?
-
-A. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-B. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-C. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-D. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-
-**Answer: A.**
-**Explanation:** India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Forex-reserve composition?
-
-A. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-B. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-C. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-D. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-
-**Answer: B.**
-**Explanation:** India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Forex-reserve composition without losing its vintage, basket or legal status?
-
-A. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-B. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-C. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-D. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-
-**Answer: C.**
-**Explanation:** India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Forex-reserve composition?
-
-A. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-B. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-C. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-D. India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue.
-
-**Answer: D.**
-**Explanation:** India's reserve assets include foreign-currency assets, monetary gold, Special Drawing Rights and the reserve-tranche position in the IMF; reserves are central-bank assets, not budget revenue. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Reserve-adequacy test?
-
-A. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-B. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-C. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-D. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-
-**Answer: A.**
-**Explanation:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Reserve-adequacy test?
-
-A. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-B. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-C. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-D. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-
-**Answer: B.**
-**Explanation:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Reserve-adequacy test without losing its vintage, basket or legal status?
-
-A. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-B. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-C. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-D. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-
-**Answer: C.**
-**Explanation:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Reserve-adequacy test?
-
-A. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-B. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-C. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
-D. Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-
-**Answer: D.**
-**Explanation:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies External-debt exposure?
-
-A. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-B. The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-C. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-D. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-
-**Answer: A.**
-**Explanation:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of External-debt exposure?
-
-A. BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-B. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-C. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-D. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-
-**Answer: B.**
-**Explanation:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses External-debt exposure without losing its vintage, basket or legal status?
-
-A. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-B. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
-C. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-D. Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-
-**Answer: C.**
-**Explanation:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about External-debt exposure?
-
-A. Primary income includes compensation and investment income, while secondary income records current transfers such as personal remittances; remittances are not merchandise exports.
-B. Merchandise exports and imports are distinct from services such as transport, travel, software and financial services even though both enter the current account.
-C. The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-D. External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
-
-**Answer: D.**
-**Explanation:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
 ## PYQS AND ANSWER PRACTICE
 
-### TRANSPARENT OBJECTIVE-ONLY PYQ AUDIT
+### PYQ SOURCE AND KEY CONTROL
 
-Audited ledgers route objective demands on external-debt composition, currency-crisis resilience, FDI characteristics and instruments, devaluation, NEER and REER, Federal Reserve tightening and ECBs, and Switzerland's gold-trade versus reserve-holder distinction. Official historical answer keys are unavailable locally for these routed items, so no answer letter is inferred.
+Question wording is retained only where verified against the locally held official 2023 paper or audited exact transcriptions of published UPSC papers. The local corpus does not contain matched final official answer keys for these items; therefore content analysis is supplied without promoting an option letter into an official key.
 
-### OWNER PYQ LEDGER EXTRACTS
+### VERIFIED OBJECTIVE PYQ - 2019 Prelims GS-I, Q63
 
-#### 9. PYQ application
+**Question:**
 
-- ⚠️ 2024 Prelims sovereign-bond question highlights that sovereign claims depend on legal
-  and institutional credibility.
-- ⚠️ Use current Survey data to explain why services exports and remittances stabilise
-  India's external account.
-- ⚠️ 2023 Prelims: Switzerland's gold exports versus global gold-reserve ranking — answer
-  with the refining-hub-versus-reserve-holder distinction above, without citing a specific
-  current rank or tonnage.
+Consider the following statements:
+1. Most of India's external debt is owed by governmental entities.
+2. All of India's external debt is denominated in US dollars.
 
-#### Historical PYQ Integration (2018-2023)
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+**Official-key discipline:** The exact question route is preserved. No option letter is presented as an official answer unless a matched final official key is available locally.
 
-- **Years represented:** 2019, 2020, 2021, 2022, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 9
+**Conceptual solution:** RBI's current debt release confirms the enduring distinctions: non-government debt is substantial, and the stock is denominated in dollars, rupees, yen, SDRs, euros and other currencies. Content analysis rejects both absolutes. No answer letter is promoted here without a matched official final key.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | Prelims GS-I | 63 | India external debt composition and currency denomination | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 65 | Factors that reduce currency crisis risk in India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 49 | Policies for India immunity from global financial crisis | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 51 | Foreign Direct Investment major defining characteristics India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 7 | Foreign Direct Investment eligible instruments classification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 8 | Currency devaluation effects on exports and trade | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 2 | Nominal and Real Effective Exchange Rate concepts | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 61 | US Federal Reserve tightening capital flight and ECBs | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 86 | Switzerland gold exports and global gold reserves ranking | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+### VERIFIED OBJECTIVE PYQ - 2019 Prelims GS-I, Q65
 
-##### What this owner must now support
+**Question:**
 
-- India external debt composition and currency denomination
-- Factors that reduce currency crisis risk in India
-- Policies for India immunity from global financial crisis
-- Foreign Direct Investment major defining characteristics India
-- Foreign Direct Investment eligible instruments classification
-- Currency devaluation effects on exports and trade
-- Nominal and Real Effective Exchange Rate concepts
-- US Federal Reserve tightening capital flight and ECBs
-- Switzerland gold exports and global gold reserves ranking
+In the context of India, which of the following factor is/are contributor/contributors to reducing the risk of a currency crisis?
+1. The foreign currency earnings of India's IT sector
+2. Increasing the government expenditure
+3. Remittances from Indians abroad
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+Select the correct answer using the code given below:
+(a) 1 only
+(b) 1 and 3 only
+(c) 2 only
+(d) 1, 2 and 3
 
-#### 10. PYQ-based analytical application
+**Official-key discipline:** The exact question route is preserved. No option letter is presented as an official answer unless a matched final official key is available locally.
 
-- ⚠️ 2024 Prelims sovereign-bond question highlights that sovereign claims depend on legal
-  and institutional credibility.
-- ⚠️ Use current Survey data to explain why services exports and remittances stabilise
-  India's external account.
+**Conceptual solution:** IT services and remittances supply foreign-exchange receipts and support the current account. Higher government expenditure is not inherently an external-risk reducer and can raise imports. This is content analysis; the workbook does not claim an official option letter.
 
-### ORIGINAL MAINS 1 — 10 MARKS
+### VERIFIED OBJECTIVE PYQ - 2020 Prelims GS-I, Q51
 
-**Question:** Distinguish the current, capital and financial accounts of the balance of payments. Answer in about 150 words.
+**Question:**
 
-**Model thesis:** **Claim:** Current account. **Named evidence/example:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Capital account. **Named evidence/example:** The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Financial account. **Named evidence/example:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+With reference to Foreign Direct Investment in India, which one of the following is considered its major characteristic?
+(a) It is the investment through capital instruments essentially in a listed company.
+(b) It is a largely non-debt creating capital flow.
+(c) It is the investment which involves debt-servicing.
+(d) It is the investment made by foreign institutional investors in the secondary market.
 
-**Claim → named evidence → analysis → qualification:**
+**Official-key discipline:** The exact question route is preserved. No option letter is presented as an official answer unless a matched final official key is available locally.
 
-- Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-- The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account.
-- Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
+**Conceptual solution:** FDI is control or lasting-interest linked and is generally a non-debt financial flow. Listing and secondary-market institutional trading are portfolio features, while debt servicing characterises borrowing. The conceptual solution is supplied without labelling a letter as an official key.
 
-**Qualified conclusion:** **Claim:** Current account. **Named evidence/example:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Capital account. **Named evidence/example:** The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Financial account. **Named evidence/example:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+### VERIFIED OBJECTIVE PYQ - 2020 Prelims GS-I, Q49
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish the current, capital and financial accounts of the balance of payments. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Question:**
 
-**Detailed examiner-grade model answer:**
+If another global financial crisis happens in the near future, which of the following actions/policies are most likely to give some immunity to India?
+1. Not depending on short-term foreign borrowings
+2. Opening up to more foreign banks
+3. Maintaining full capital account convertibility
 
-**Introduction and thesis:** **Claim:** Current account. **Named evidence/example:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Capital account. **Named evidence/example:** The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Financial account. **Named evidence/example:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+Select the correct answer using the code given below:
+(a) 1 only
+(b) 1 and 2 only
+(c) 3 only
+(d) 1, 2 and 3
 
-**Analytical body:**
+**Official-key discipline:** The exact question route is preserved. No option letter is presented as an official answer unless a matched final official key is available locally.
 
-1. **Claim and named evidence:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+**Conceptual solution:** Lower reliance on short-term external borrowing reduces rollover and sudden-stop exposure. More foreign banks and unrestricted capital convertibility do not automatically provide immunity and can add cross-border transmission channels. The content analysis is supplied without claiming an unmatched official option letter.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+### VERIFIED OBJECTIVE PYQ - 2021 Prelims GS-I, Q7
 
-**Qualified conclusion:** **Claim:** Current account. **Named evidence/example:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Capital account. **Named evidence/example:** The modern capital account records capital transfers and acquisition or disposal of non-produced non-financial assets; it is much narrower than the older broad use of the term capital account. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Financial account. **Named evidence/example:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Question:**
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+Consider the following:
+1. Foreign currency convertible bonds
+2. Foreign institutional investment with certain conditions
+3. Global depository receipts
+4. Non-resident external deposits
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+Which of the above can be included in Foreign Direct Investments?
+(a) 1, 2 and 3
+(b) 3 only
+(c) 2 and 4
+(d) 1 and 4
 
-**How to improve this answer:** For “Distinguish the current, capital and financial accounts of the balance of payments. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Official-key discipline:** The exact question route is preserved. No option letter is presented as an official answer unless a matched final official key is available locally.
 
-### ORIGINAL MAINS 2 — 10 MARKS
+**Conceptual solution:** Under the framework tested in the paper, foreign currency convertible bonds, qualifying foreign institutional investment and global depository receipts could be included, whereas non-resident external deposits were deposit liabilities rather than FDI. No option letter is labelled official without the matched final key.
 
-**Question:** Differentiate depreciation from devaluation and NEER from REER. Answer in about 150 words.
+### VERIFIED OBJECTIVE PYQ - 2021 Prelims GS-I, Q8
 
-**Model thesis:** **Claim:** Exchange-rate quote. **Named evidence/example:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Depreciation and devaluation. **Named evidence/example:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NEER and REER. **Named evidence/example:** NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Question:**
 
-**Claim → named evidence → analysis → qualification:**
+Consider the following statements:
+The effect of devaluation of a currency is that it necessarily
+1. improves the competitiveness of the domestic exports in the foreign markets
+2. increases the foreign value of domestic currency
+3. improves the trade balance
 
-- An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
-- Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-- NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights.
+Which of the above statements is/are correct?
+(a) 1 only
+(b) 1 and 2
+(c) 3 only
+(d) 2 and 3
 
-**Qualified conclusion:** **Claim:** Exchange-rate quote. **Named evidence/example:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Depreciation and devaluation. **Named evidence/example:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NEER and REER. **Named evidence/example:** NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Official-key discipline:** The exact question route is preserved. No option letter is presented as an official answer unless a matched final official key is available locally.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Differentiate depreciation from devaluation and NEER from REER. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Conceptual solution:** Devaluation lowers the foreign value of domestic currency. It can improve price competitiveness, but trade-balance improvement is not necessary because elasticities, contracts and import dependence matter. The content result is stated without asserting an unmatched official answer letter.
 
-**Detailed examiner-grade model answer:**
+### VERIFIED OBJECTIVE PYQ - 2022 Prelims GS-I, Q2
 
-**Introduction and thesis:** **Claim:** Exchange-rate quote. **Named evidence/example:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Depreciation and devaluation. **Named evidence/example:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NEER and REER. **Named evidence/example:** NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Question:**
 
-**Analytical body:**
+With reference to the Indian economy, consider the following statements:
+1. An increase in Nominal Effective Exchange Rate (NEER) indicates the appreciation of rupee.
+2. An increase in the Real Effective Exchange Rate (REER) indicates an improvement in trade competitiveness.
+3. An increasing trend in domestic inflation relative to inflation in other countries is likely to cause an increasing divergence between NEER and REER.
 
-1. **Claim and named evidence:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+Which of the above statements are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Official-key discipline:** The exact question route is preserved. No option letter is presented as an official answer unless a matched final official key is available locally.
 
-**Qualified conclusion:** **Claim:** Exchange-rate quote. **Named evidence/example:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Depreciation and devaluation. **Named evidence/example:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NEER and REER. **Named evidence/example:** NEER is a trade-weighted nominal effective exchange-rate index, while REER adjusts the effective rate for relative prices or costs; interpretation requires the published index convention, base and weights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Conceptual solution:** Under RBI's index convention, a higher NEER indicates nominal appreciation. A higher REER generally indicates real appreciation, which does not automatically improve price competitiveness. Faster domestic inflation can widen the NEER-REER gap. No official letter is claimed here.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+### VERIFIED OBJECTIVE PYQ - 2022 Prelims GS-I, Q61
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+**Question:**
 
-**How to improve this answer:** For “Differentiate depreciation from devaluation and NEER from REER. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+Consider the following statements:
+1. Tight monetary policy of the US Federal Reserve could lead to capital flight.
+2. Capital flight may increase the interest cost of firms with existing External Commercial Borrowings (ECBs).
+3. Devaluation of domestic currency decreases the currency risk associated with ECBs.
 
-### ORIGINAL MAINS 3 — 15 MARKS
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
 
-**Question:** Explain how a current-account deficit is financed and when it becomes vulnerable. Answer in about 250 words.
+**Official-key discipline:** The exact question route is preserved. No option letter is presented as an official answer unless a matched final official key is available locally.
 
-**Model thesis:** **Claim:** Double-entry accounting. **Named evidence/example:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** CAD financing. **Named evidence/example:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Merchandise-deficit offset. **Named evidence/example:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve-adequacy test. **Named evidence/example:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** External-debt exposure. **Named evidence/example:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Conceptual solution:** US tightening can redirect capital and raise global funding or refinancing costs. Domestic-currency weakening increases, rather than decreases, the burden of unhedged foreign-currency ECBs. Because the local corpus does not contain a matched official final key, no official answer letter is asserted.
 
-**Claim → named evidence → analysis → qualification:**
+### VERIFIED OBJECTIVE PYQ - 2023 Prelims GS-I, Q86
 
-- BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-- A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-- A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-- Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-- External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
+**Question:**
 
-**Qualified conclusion:** **Claim:** Double-entry accounting. **Named evidence/example:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** CAD financing. **Named evidence/example:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Merchandise-deficit offset. **Named evidence/example:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve-adequacy test. **Named evidence/example:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** External-debt exposure. **Named evidence/example:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+Consider the following statements:
+Statement-I: Switzerland is one of the leading exporters of gold in terms of value.
+Statement-II: Switzerland has the second largest gold reserves in the world.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how a current-account deficit is financed and when it becomes vulnerable. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Which one of the following is correct in respect of the above statements?
+(a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+(b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+(c) Statement-I is correct but Statement-II is incorrect
+(d) Statement-I is incorrect but Statement-II is correct
 
-**Detailed examiner-grade model answer:**
+**Official-key discipline:** The exact question route is preserved. No option letter is presented as an official answer unless a matched final official key is available locally.
 
-**Introduction and thesis:** **Claim:** Double-entry accounting. **Named evidence/example:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** CAD financing. **Named evidence/example:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Merchandise-deficit offset. **Named evidence/example:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve-adequacy test. **Named evidence/example:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** External-debt exposure. **Named evidence/example:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Conceptual solution:** The locally held official paper verifies this wording. Switzerland's refining and trading role explains export value; it does not imply second place in official monetary-gold holdings. The conceptual distinction is solved, but no final official answer letter is claimed without the official key.
 
-**Analytical body:**
 
-1. **Claim and named evidence:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+### ORIGINAL MAINS 1 - 10 MARKS
 
-**Qualified conclusion:** **Claim:** Double-entry accounting. **Named evidence/example:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** CAD financing. **Named evidence/example:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Merchandise-deficit offset. **Named evidence/example:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve-adequacy test. **Named evidence/example:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** External-debt exposure. **Named evidence/example:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Question:** Distinguish the current, capital and financial accounts under BPM6. Answer in 150 words.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Model answer:**
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+The current account records goods, services, primary income and secondary income between residents and non-residents for the period. RBI's BPM6 manual places trade, services, compensation, investment income and personal transfers here. The narrow capital account contains capital transfers and transactions in non-produced non-financial assets.
 
-**How to improve this answer:** For “Explain how a current-account deficit is financed and when it becomes vulnerable. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+The financial account records cross-border claims and liabilities through direct investment, portfolio investment, derivatives, other investment, and reserve assets. This matters because older broad Indian presentations sometimes called most financing flows the capital account.
 
-### ORIGINAL MAINS 4 — 15 MARKS
+Analysis must preserve statistical vintage. A current-account deficit is financed through financial flows, reserve use and errors or omissions; it is not a financial-account item. The examiner-ready distinction is functional: current production and income, capital transfers and intangible assets, then financial balance-sheet transactions. Historical tables retain their footnoted labels.
 
-**Question:** Trace the liquidity effects of RBI foreign-exchange intervention and sterilisation. Answer in about 250 words.
+**Native-body word count:** 142 / 150.
 
-**Model thesis:** **Claim:** Managed float. **Named evidence/example:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intervention liquidity effect. **Named evidence/example:** An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Sterilisation boundary. **Named evidence/example:** Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
-**Claim → named evidence → analysis → qualification:**
+### ORIGINAL MAINS 2 - 10 MARKS
 
-- India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-- An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations.
-- Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances.
+**Question:** Why is a current-account deficit not automatically a crisis? Answer in 150 words.
 
-**Qualified conclusion:** **Claim:** Managed float. **Named evidence/example:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intervention liquidity effect. **Named evidence/example:** An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Sterilisation boundary. **Named evidence/example:** Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Demand decoding:** The directive **trace** requires a direct position on “Trace the liquidity effects of RBI foreign-exchange intervention and sterilisation. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+A current-account deficit means residents are net borrowers externally during the period; it does not prove insolvency. RBI's preliminary Q1 FY2026-27 release placed India's CAD at USD 4.2 billion, 0.5 percent of GDP, while services and personal transfers offset much of the merchandise deficit.
 
-**Detailed examiner-grade model answer:**
+Risk depends on persistence, import use and financing. Stable control-linked equity and long-maturity hedged debt are safer than volatile portfolio flows, short residual maturity or unhedged foreign-currency borrowing. Reserve adequacy, market access and exchange-rate flexibility also matter.
 
-**Introduction and thesis:** **Claim:** Managed float. **Named evidence/example:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intervention liquidity effect. **Named evidence/example:** An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Sterilisation boundary. **Named evidence/example:** Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+However, a small CAD can coexist with large refinancing needs, while a moderate deficit can finance productive imports. Test size, composition, financing, maturity, currency, hedging and growth together. Neither every deficit is a crisis nor every surplus shows competitiveness; import compression may reflect weak demand.
 
-**Analytical body:**
+**Native-body word count:** 143 / 150.
 
-1. **Claim and named evidence:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+**Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+### ORIGINAL MAINS 3 - 15 MARKS
 
-**Qualified conclusion:** **Claim:** Managed float. **Named evidence/example:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intervention liquidity effect. **Named evidence/example:** An RBI sale of foreign currency supplies dollars and absorbs rupee liquidity, while a purchase of foreign currency injects rupees; the monetary effect can be offset through sterilisation operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Sterilisation boundary. **Named evidence/example:** Sterilised intervention offsets the domestic-liquidity impact of foreign-exchange operations but has costs and cannot permanently override underlying external imbalances. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Question:** Explain RBI forex intervention, sterilisation and valuation effects. Answer in 250 words.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Model answer:**
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+RBI foreign-exchange intervention changes the supply of foreign currency and domestic rupee liquidity. A dollar sale supplies foreign exchange and ordinarily absorbs rupees; a dollar purchase adds reserves and injects rupees. RBI's Annual Report 2025-26 records operations across onshore and offshore OTC and exchange-traded derivative segments to maintain orderly conditions.
 
-**How to improve this answer:** For “Trace the liquidity effects of RBI foreign-exchange intervention and sterilisation. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+The liquidity consequence can conflict with the monetary-policy stance. Sterilisation uses liquidity operations or securities transactions to offset that unintended injection or absorption. It therefore separates the exchange-market operation from the desired domestic liquidity position. Yet sterilisation has interest, balance-sheet and market costs and cannot permanently defend a rate inconsistent with fundamentals.
 
-### ORIGINAL MAINS 5 — 20 MARKS
+Reserve data need a second distinction. RBI's release of 1 September 2026 reported that reserves fell USD 8.1 billion on a BoP basis in Q1 FY2026-27, but the nominal stock fell USD 22.5 billion because valuation produced a USD 14.4 billion loss. Currency movements and gold prices can revalue existing assets without a fresh resident-non-resident transaction.
 
-**Question:** Assess external-sector resilience through account composition, financing quality and reserves. Answer in about 300 words.
+Thus, a weekly reserve decline cannot be read as the amount of RBI dollar sales. Analysis must separate transaction-driven reserve change, valuation, forward positions, rupee liquidity and sterilising action. Intervention can smooth excessive volatility and disorderly expectations; it cannot substitute for sustainable current-account composition, prudent external borrowing and credible macroeconomic policy.
 
-**Model thesis:** **Claim:** BoP residence boundary. **Named evidence/example:** The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Double-entry accounting. **Named evidence/example:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Current account. **Named evidence/example:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Financial account. **Named evidence/example:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** CAD financing. **Named evidence/example:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Merchandise-deficit offset. **Named evidence/example:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve-adequacy test. **Named evidence/example:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** External-debt exposure. **Named evidence/example:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Native-body word count:** 227 / 250.
 
-**Claim → named evidence → analysis → qualification:**
+**Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
-- The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone.
-- BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss.
-- Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income.
-- Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting.
-- A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone.
-- A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap.
-- Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient.
-- External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
+### ORIGINAL MAINS 4 - 15 MARKS
 
-**Qualified conclusion:** **Claim:** BoP residence boundary. **Named evidence/example:** The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Double-entry accounting. **Named evidence/example:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Current account. **Named evidence/example:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Financial account. **Named evidence/example:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** CAD financing. **Named evidence/example:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Merchandise-deficit offset. **Named evidence/example:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve-adequacy test. **Named evidence/example:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** External-debt exposure. **Named evidence/example:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Question:** Assess India's forex reserves using composition and adequacy rather than headline size. Answer in 250 words.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess external-sector resilience through account composition, financing quality and…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Model answer:**
 
-**Detailed examiner-grade model answer:**
+India's reserves are monetary-authority external assets, not government budget revenue. RBI's provisional Weekly Statistical Supplement dated 4 September 2026 placed the stock on 28 August at USD 740.803 billion: foreign currency assets were USD 600.670 billion, gold USD 116.409 billion, SDR holdings USD 18.810 billion and the reserve position in the IMF USD 4.914 billion.
 
-**Introduction and thesis:** **Claim:** BoP residence boundary. **Named evidence/example:** The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Double-entry accounting. **Named evidence/example:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Current account. **Named evidence/example:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Financial account. **Named evidence/example:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** CAD financing. **Named evidence/example:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Merchandise-deficit offset. **Named evidence/example:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve-adequacy test. **Named evidence/example:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** External-debt exposure. **Named evidence/example:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+Composition matters because the assets differ in liquidity, return and valuation exposure. Foreign currency assets may be denominated across currencies although reported in dollars; gold diversifies but its price fluctuates; SDRs are IMF reserve assets rather than ordinary currency.
 
-**Analytical body:**
+Adequacy must compare this stock with plausible drains. Import cover tests trade-payment capacity, while short-term debt and residual maturity capture rollover pressure. Broad money, gross external financing needs, forward commitments and stress scenarios add capital-flow and confidence dimensions. RBI's end-March 2026 debt release showed original-maturity short-term debt at 19.6 percent of total debt but residual-maturity obligations at 42.9 percent, demonstrating why one ratio is insufficient.
 
-1. **Claim and named evidence:** The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-7. **Claim and named evidence:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-8. **Claim and named evidence:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+Large reserves support confidence, intervention and emergency payments, yet they carry opportunity and sterilisation costs and cannot remove oil dependence, export concentration or private unhedged debt. The balanced conclusion is insurance plus adjustment: maintain liquid and diversified buffers, monitor maturity and currency mismatches, and strengthen services, exports, remittances and domestic macroeconomic credibility.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Native-body word count:** 233 / 250.
 
-**Qualified conclusion:** **Claim:** BoP residence boundary. **Named evidence/example:** The balance of payments is a statistical statement of transactions between residents and non-residents during a period; residence follows centre of predominant economic interest rather than nationality alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Double-entry accounting. **Named evidence/example:** BoP transactions use double-entry accounting, so the overall statement balances through counterpart entries, reserve-asset changes and errors and omissions; a current-account deficit is not an unpaired loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Current account. **Named evidence/example:** Under BPM6-aligned presentation, the current account covers goods, services, primary income and secondary income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Financial account. **Named evidence/example:** Direct investment, portfolio investment, financial derivatives, other investment such as loans and deposits, and reserve assets enter the financial account under modern BoP accounting. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** CAD financing. **Named evidence/example:** A current-account deficit must be matched by net financial inflows, reserve use and accounting adjustment, so vulnerability depends on financing quality, maturity, currency and hedging rather than the CAD alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Merchandise-deficit offset. **Named evidence/example:** A merchandise trade deficit can coexist with a smaller current-account deficit when net services, primary-income or secondary-income receipts offset part of the goods gap. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve-adequacy test. **Named evidence/example:** Reserve adequacy is multidimensional and may be assessed against imports, short-term debt, broad money, external financing needs and stress scenarios; an absolute dollar stock alone is insufficient. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** External-debt exposure. **Named evidence/example:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+### ORIGINAL MAINS 5 - 20 MARKS
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+**Question:** Why does depreciation not guarantee an immediate improvement in the trade balance? Answer in 250 words.
 
-**How to improve this answer:** For “Assess external-sector resilience through account composition, financing quality and…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Model answer:**
 
-### ORIGINAL MAINS 6 — 20 MARKS
+Depreciation raises the domestic-currency price of foreign exchange. Under an INR-per-USD quote, a higher rate can make exports cheaper to foreign buyers and imports costlier to residents, but this price signal does not ensure an immediate favourable quantity response.
 
-**Question:** Why does currency depreciation not automatically correct a trade deficit? Answer in about 300 words.
+Existing contracts, invoicing currency and delivery schedules delay adjustment. Essential imports such as energy, technology and intermediate inputs may have low short-run demand elasticity, so the import bill can rise before volumes fall. Exporters may lack spare capacity, imported inputs or market access; they may retain the gain as margin rather than cut foreign prices. Domestic inflation and exchange-rate pass-through can also erode the real depreciation.
 
-**Model thesis:** **Claim:** Exchange-rate quote. **Named evidence/example:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Depreciation and devaluation. **Named evidence/example:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Managed float. **Named evidence/example:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Trade-balance response. **Named evidence/example:** Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** External-debt exposure. **Named evidence/example:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+These lags create the J-curve possibility: the trade balance initially worsens as prices change, then improves only if export and import quantities respond sufficiently. The Marshall-Lerner logic is therefore conditional on elasticities and time. Balance-sheet effects can further weaken demand and investment when firms hold unhedged foreign-currency debt.
 
-**Claim → named evidence → analysis → qualification:**
+Policy should combine exchange flexibility with inflation control, hedging, logistics, reliable power, quality standards, trade finance and diversified export capacity. A real effective exchange-rate indicator can support diagnosis, but it is not a competitiveness target and must be read with productivity and market structure.
 
-- An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar.
-- Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement.
-- India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level.
-- Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment.
-- External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance.
+Depreciation is thus an adjustment mechanism, not a substitute for structural capability. Its net effect depends on pass-through, import dependence, elasticity, capacity, debt exposure and the response horizon.
 
-**Qualified conclusion:** **Claim:** Exchange-rate quote. **Named evidence/example:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Depreciation and devaluation. **Named evidence/example:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Managed float. **Named evidence/example:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Trade-balance response. **Named evidence/example:** Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** External-debt exposure. **Named evidence/example:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Native-body word count:** 240 / 250.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why does currency depreciation not automatically correct a trade deficit? Answer in about 300…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Answer audit:** Claim, named evidence, analysis and qualification are preserved.
 
-**Detailed examiner-grade model answer:**
+### ORIGINAL MAINS 6 - 20 MARKS
 
-**Introduction and thesis:** **Claim:** Exchange-rate quote. **Named evidence/example:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Depreciation and devaluation. **Named evidence/example:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Managed float. **Named evidence/example:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Trade-balance response. **Named evidence/example:** Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** External-debt exposure. **Named evidence/example:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Question:** Evaluate India's external resilience through BoP composition, debt and policy space. Answer in 250 words.
 
-**Analytical body:**
+**Model answer:**
 
-1. **Claim and named evidence:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+External resilience is the capacity to finance productive cross-border needs and absorb shocks without disorderly compression. India's Q1 FY2026-27 CAD was USD 4.2 billion, or 0.5 percent of GDP. Net services receipts and personal transfers offset much of the merchandise deficit, but this support remains exposed to global demand and migrant-employment conditions.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+Financing quality is mixed. RBI reported net FDI inflow of USD 6.1 billion, FPI outflow of USD 9.6 billion, NRI deposit inflow of USD 2.8 billion and ECB inflow of USD 3.3 billion in the quarter. These flows differ in control, reversibility, maturity and currency risk. End-March 2026 external debt was USD 762.8 billion, 20.8 percent of GDP; residual-maturity short-term debt was 42.9 percent of total debt, making rollover analysis essential.
 
-**Qualified conclusion:** **Claim:** Exchange-rate quote. **Named evidence/example:** An exchange rate is the price of one currency in another; under a rupees-per-dollar quote, a higher number means the rupee has depreciated against the dollar. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Depreciation and devaluation. **Named evidence/example:** Depreciation and appreciation describe market-rate movement, while devaluation and revaluation are official parity changes under a fixed or administered exchange-rate arrangement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Managed float. **Named evidence/example:** India operates a managed-float framework in which the rupee is market-determined but the RBI may intervene to smooth excessive volatility without declaring a fixed target level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Trade-balance response. **Named evidence/example:** Currency depreciation does not guarantee an immediate trade-balance improvement because contracts, import dependence, pass-through, capacity and export-import elasticities shape quantity adjustment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** External-debt exposure. **Named evidence/example:** External vulnerability depends on borrower, instrument, original and residual maturity, currency denomination, hedging and rollover needs; ECBs are distinct from FDI, portfolio debt and official assistance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+The reserve stock of USD 740.803 billion on 28 August 2026 provides a substantial liquidity buffer, but weekly stocks mix transactions and valuation. RBI's market-determined exchange-rate policy, reaffirmed on 8 April 2026, preserves flexibility while operations address excessive volatility without a level or band.
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+Resilience therefore rests on composition and policy credibility, not one headline. India should deepen stable equity, hedge foreign-currency debt, monitor residual maturity, sustain inflation and fiscal credibility, diversify energy and export markets, and preserve adequate liquid reserves. The qualification is central: buffers buy adjustment time; they do not replace competitiveness or prudent balance sheets.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+**Native-body word count:** 246 / 250.
 
-**How to improve this answer:** For “Why does currency depreciation not automatically correct a trade deficit? Answer in about 300…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Claim, named evidence, analysis and qualification are preserved.

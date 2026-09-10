@@ -1,74 +1,95 @@
-ASCII MASTER FLOW — PANEL 1/12: Budget receipt fork
-REVENUE RECEIPT -> no liability / no asset reduction
-CAPITAL RECEIPT -> liability or asset reduction
-BORROWING -> debt capital receipt
-DISINVESTMENT / LOAN RECOVERY -> non-debt capital receipt
-MUST REMEMBER: The Union Budget records receipts and expenditure under revenue/capital...
++----------------------------------------------------------------------------+
+| 1. CONSTITUTIONAL GATE                                                     |
+|   Art 112: AFS                                                             |
+|   Art 113: grants and charged items                                        |
+|   Art 114: appropriation                                                   |
+|   Arts 115-117: adjustment and finance laws                                |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Expenditure classification
-REVENUE EXPENDITURE -> current service / transfer
-CAPITAL EXPENDITURE -> asset or liability reduction
-ACCOUNTING CLASS is not a moral verdict
-QUALITY depends on design and outcomes
++----------------------------------------------------------------------------+
+| 2. THREE FUNDS                                                             |
+|   CFI: revenue, borrowing, loan recovery                                   |
+|   Public Account: trust and repayable balances                             |
+|   Contingency Fund: urgent advance                                         |
+|   Classify ownership and withdrawal rule                                   |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Deficit identity board
-REVENUE DEFICIT = RE - RR
-FISCAL DEFICIT = TOTAL EXPENDITURE - NON-DEBT RECEIPTS
-PRIMARY DEFICIT = FD - INTEREST
-KEEP flow, period and government perimeter
++----------------------------------------------------------------------------+
+| 3. BUDGET CYCLE                                                            |
+|   prepare -> present -> discuss                                            |
+|   committee -> grants -> appropriation                                     |
+|   execute -> account -> audit                                              |
+|   Parliamentary follow-up closes loop                                      |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Effective measures
-ERD = REVENUE DEFICIT - CAPITAL-ASSET GRANTS
-EFFECTIVE CAPEX = CENTRE CAPEX + CAPITAL-ASSET GRANTS
-TRANSFER accounting is refined
-OUTCOME quality still needs verification
++----------------------------------------------------------------------------+
+| 4. RECEIPTS                                                                |
+|   Revenue: tax + non-tax                                                   |
+|   Capital: liability or asset reduction                                    |
+|   Debt vs non-debt capital receipt                                         |
+|   Gross tax != net tax to Centre                                           |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Estimate-vintage rail
-BUDGET ESTIMATE -> authorisation / projection
-REVISED ESTIMATE -> updated in-year expectation
-ACTUAL -> realised account
-NEVER compare without labels
++----------------------------------------------------------------------------+
+| 5. EXPENDITURE                                                             |
+|   Revenue account: current services                                        |
+|   Capital account: asset/liability change                                  |
+|   Effective capex adds asset grants                                        |
+|   Accounting label != social value                                         |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Constitutional document stack
-ARTICLE 112 -> Annual Financial Statement
-FRBM ACT -> medium-term fiscal discipline
-MEFS -> macro assumptions
-PARLIAMENT + CAG -> authorisation and scrutiny
-CLOSE DISTINCTION: Allocation is not release or expenditure, capital receipt is not...
++----------------------------------------------------------------------------+
+| 6. DEFICIT FORMULAS                                                        |
+|   RD = Rev Exp - Rev Receipts                                              |
+|   ERD = RD - asset grants                                                  |
+|   FD = Total Exp - non-debt receipts                                       |
+|   PD = FD - interest                                                       |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Debt-dynamics chain
-PRIMARY BALANCE + INTEREST
--> FISCAL DEFICIT
--> DEBT STOCK
--> FUTURE INTEREST FEEDBACK
++----------------------------------------------------------------------------+
+| 7. VINTAGE CONTROL                                                         |
+|   FY24-25 Actuals                                                          |
+|   FY25-26 Revised Estimates                                                |
+|   FY26-27 Budget Estimates                                                 |
+|   Publication date: 1 Feb 2026                                             |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Crowding fork
-BORROWING DURING TIGHT FINANCE
--> rates / savings pressure -> crowding out
-CAPEX REMOVES BOTTLENECKS
--> productivity / demand -> crowding in
++----------------------------------------------------------------------------+
+| 8. FRBM                                                                    |
+|   Section 3: four policy statements                                        |
+|   Section 4: targets and escape                                            |
+|   Section 5: RBI borrowing boundary                                        |
+|   Sections 6-7: transparency and compliance                                |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Hidden-risk perimeter
-HEADLINE DEFICIT
-+ GUARANTEES
-+ EXTRA-BUDGETARY BORROWING
-+ DELAYED PAYMENTS -> wider fiscal risk
++----------------------------------------------------------------------------+
+| 9. CURRENT PATH                                                            |
+|   FD: 4.4% RE -> 4.3% BE                                                   |
+|   Debt: 56.1% RE -> 55.6% BE                                               |
+|   Aim: 50 +/-1% by FY2030-31                                               |
+|   No next-two-year rolling targets in statement                            |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: State fiscal quality
-OWN-REVENUE MOBILISATION
-EXPENDITURE QUALITY
-FISCAL PRUDENCE
-DEBT SUSTAINABILITY
++----------------------------------------------------------------------------+
+| 10. HIDDEN RISK                                                            |
+|   EBR and fully serviced bonds                                             |
+|   Guarantee stock vs annual addition                                       |
+|   PSU debt needs case-specific perimeter                                   |
+|   CGA accounts + CAG audit                                                 |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: Budget 2026-27 status card
-2026-27 BE -> fiscal deficit 4.3% GDP
-2026-27 BE -> capex Rs 12.22 lakh crore
-2025-26 RE -> fiscal deficit 4.4% GDP
-STATUS -> BE / RE, not Actuals
++----------------------------------------------------------------------------+
+| 11. MACRO TRANSMISSION                                                     |
+|   automatic vs discretionary                                               |
+|   multiplier and leakages                                                  |
+|   crowding out vs crowding in                                              |
+|   r-g + primary balance -> debt dynamics                                   |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: Fiscal-policy answer spine
-DEFINE identities and coverage
-CHECK BE / RE / Actual vintage
-ASSESS composition and multiplier
-CONCLUDE on debt path and transparency
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use one Budget year and document stage—BE,...
++----------------------------------------------------------------------------+
+| 12. ANSWER SPINE                                                           |
+|   define and date                                                          |
+|   state formula and legal source                                           |
+|   trace composition and transmission                                       |
+|   qualify perimeter, vintage and risk                                      |
++----------------------------------------------------------------------------+

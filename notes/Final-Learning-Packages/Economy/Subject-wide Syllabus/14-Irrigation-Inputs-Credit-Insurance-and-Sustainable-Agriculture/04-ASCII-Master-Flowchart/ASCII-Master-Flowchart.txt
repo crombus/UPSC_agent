@@ -1,74 +1,148 @@
-ASCII MASTER FLOW — PANEL 1/12: Irrigation accounting ladder
-CREATED POTENTIAL
--> UTILISED POTENTIAL
--> RELIABLE FIELD DELIVERY
--> WATER PRODUCTIVITY / FARM OUTCOME
-MUST REMEMBER: Agricultural productivity and resilience depend on water, soil, seed,...
+======================================================================================
+ECONOMY TOPIC 14 | PANEL 01/12 | NEXUS
+======================================================================================
 
-ASCII MASTER FLOW — PANEL 2/12: PMKSY distinction board
-HAR KHET KO PANI -> access
-PER DROP MORE CROP -> application efficiency
-STATE PLAN -> decentralised project choice
-CONVERGENCE -> source to field
+-> Soil + water + seed + nutrients + machinery + knowledge + credit + insurance.
 
-ASCII MASTER FLOW — PANEL 3/12: Micro-irrigation rebound
-LESS WATER PER UNIT
--> LOWER PRIVATE COST / MORE AREA
--> WATER-INTENSIVE CROP MAY PERSIST
--> BASIN SAVING NOT AUTOMATIC
+-> Productivity, equity and sustainability must be assessed together.
 
-ASCII MASTER FLOW — PANEL 4/12: Water-energy-crop nexus
-CHEAP POWER
-PROCUREMENT INCENTIVE
-GROUNDWATER ACCESS
-JOINT EFFECT -> extraction + crop lock-in
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> externality / qualification -> reform
 
-ASCII MASTER FLOW — PANEL 5/12: Watershed rail
-RIDGE -> vegetation + contour treatment
-MID-SLOPE -> bunds + moisture retention
-DRAINAGE -> check / recharge structures
-VALLEY -> productive use + maintenance
+BOUNDARY:
+Cropping systems stay Topic 11; market institutions Topic 13; digital governance Topic 27.======================================================================================
+ECONOMY TOPIC 14 | PANEL 02/12 | IRRIGATION ACCOUNTING
+======================================================================================
 
-ASCII MASTER FLOW — PANEL 6/12: Groundwater governance
-PRIVATE PUMP
-SHARED AQUIFER
-LOCAL WATER BUDGET
-CROP + EXTRACTION RULES
-CLOSE DISTINCTION: Irrigation potential is not utilised irrigation, credit sanction is...
+-> Potential created != utilised != reliable delivery.
 
-ASCII MASTER FLOW — PANEL 7/12: Credit-insurance fork
-KCC -> pre-harvest liquidity
-INSURANCE -> covered-loss transfer
-NABARD / BANK -> finance architecture
-CLAIM -> trigger + assessment + settlement
+-> Gross/net irrigated area and intensity have distinct denominators.
 
-ASCII MASTER FLOW — PANEL 8/12: Insurance outcome chain
-ENROLMENT
--> PREMIUM + NOTIFIED SCOPE
--> LOSS ASSESSMENT
--> ADMISSIBLE CLAIM -> SETTLEMENT
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> externality / qualification -> reform
 
-ASCII MASTER FLOW — PANEL 9/12: Basis-risk board
-AREA YIELD -> lower verification cost
-FARM LOSS -> may diverge
-WEATHER INDEX -> proxy trigger
-DATA + TIMELINESS decide trust
+BOUNDARY:
+Cropping systems stay Topic 11; market institutions Topic 13; digital governance Topic 27.======================================================================================
+ECONOMY TOPIC 14 | PANEL 03/12 | SOURCES AND EXTERNALITIES
+======================================================================================
 
-ASCII MASTER FLOW — PANEL 10/12: Sustainable-practice map
-CONSERVATION -> minimum disturbance + residue + rotation
-PRECISION -> drip + fertigation + tensiometer
-DIVERSIFICATION -> integrated farming
-ORGANIC -> certification and transition context
+-> Canal, tank, lift, wells/tubewells, watershed and micro-irrigation.
 
-ASCII MASTER FLOW — PANEL 11/12: Tenant-access gate
-ACTUAL CULTIVATOR
--> RECORD / LEASE EVIDENCE
--> CREDIT / INSURANCE ELIGIBILITY
--> COVERAGE OR EXCLUSION
+-> Groundwater is flexible but common-pool; canals need drainage and equity.
 
-ASCII MASTER FLOW — PANEL 12/12: Resilience answer spine
-SEPARATE potential, use and efficiency
-LINK water, energy, crop and credit
-TRACE enrolment to claim settlement
-CONCLUDE with aquifer + tenant governance
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State unit, season, beneficiary denominator...
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> externality / qualification -> reform
+
+BOUNDARY:
+Cropping systems stay Topic 11; market institutions Topic 13; digital governance Topic 27.======================================================================================
+ECONOMY TOPIC 14 | PANEL 04/12 | PMKSY CURRENT MAP
+======================================================================================
+
+-> AIBP + HKKP + WDC in dated umbrella architecture.
+
+-> PDMC under RKVY from 2022-23; do not use stale placement.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> externality / qualification -> reform
+
+BOUNDARY:
+Cropping systems stay Topic 11; market institutions Topic 13; digital governance Topic 27.======================================================================================
+ECONOMY TOPIC 14 | PANEL 05/12 | SEEDS
+======================================================================================
+
+-> Nucleus -> breeder -> foundation -> certified.
+
+-> Seeds Act 1966 and Rules 1968 remain; draft Seeds Bill 2025 was not enacted by
+cutoff.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> externality / qualification -> reform
+
+BOUNDARY:
+Cropping systems stay Topic 11; market institutions Topic 13; digital governance Topic 27.======================================================================================
+ECONOMY TOPIC 14 | PANEL 06/12 | FERTILISERS
+======================================================================================
+
+-> N, P and K have distinct roles.
+
+-> Urea controlled; P&K under NBS; fertiliser DBT pays company after PoS sale.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> externality / qualification -> reform
+
+BOUNDARY:
+Cropping systems stay Topic 11; market institutions Topic 13; digital governance Topic 27.======================================================================================
+ECONOMY TOPIC 14 | PANEL 07/12 | SOIL / PEST / MACHINE
+======================================================================================
+
+-> Soil Health Card + INM; IPM uses surveillance and thresholds.
+
+-> Custom hiring can make mechanisation accessible to small farms.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> externality / qualification -> reform
+
+BOUNDARY:
+Cropping systems stay Topic 11; market institutions Topic 13; digital governance Topic 27.======================================================================================
+ECONOMY TOPIC 14 | PANEL 08/12 | CREDIT
+======================================================================================
+
+-> Commercial banks + RRBs + cooperatives; NABARD refinance/development.
+
+-> PSL 2025: agriculture 18%, NCF 14%, SMF 10% for applicable banks.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> externality / qualification -> reform
+
+BOUNDARY:
+Cropping systems stay Topic 11; market institutions Topic 13; digital governance Topic 27.======================================================================================
+ECONOMY TOPIC 14 | PANEL 09/12 | KCC / MISS
+======================================================================================
+
+-> Budget 2025-26 announced Rs 5 lakh overall KCC limit.
+
+-> FY2025-26 MISS concessional slab: Rs 3 lakh at 7%, 4% after prompt repayment.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> externality / qualification -> reform
+
+BOUNDARY:
+Cropping systems stay Topic 11; market institutions Topic 13; digital governance Topic 27.======================================================================================
+ECONOMY TOPIC 14 | PANEL 10/12 | INSURANCE
+======================================================================================
+
+-> PMFBY farmer premium shares: 2% / 1.5% / 5%; voluntary since Kharif 2020.
+
+-> Area-yield efficiency trades off against basis risk.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> externality / qualification -> reform
+
+BOUNDARY:
+Cropping systems stay Topic 11; market institutions Topic 13; digital governance Topic 27.======================================================================================
+ECONOMY TOPIC 14 | PANEL 11/12 | SUSTAINABILITY
+======================================================================================
+
+-> Conservation agriculture, INM/IPM, organic/natural distinctions, agroforestry and
+IFS.
+
+-> Climate-smart = productivity + adaptation + mitigation where feasible.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> externality / qualification -> reform
+
+BOUNDARY:
+Cropping systems stay Topic 11; market institutions Topic 13; digital governance Topic 27.======================================================================================
+ECONOMY TOPIC 14 | PANEL 12/12 | REFORM VERDICT
+======================================================================================
+
+-> Reliable water + balanced inputs + inclusive finance + credible insurance +
+extension.
+
+-> Cropping system -> Topic 11; digital agriculture -> Topic 27.
+
+ANSWER RAIL:
+Claim -> named evidence -> mechanism -> externality / qualification -> reform
+
+BOUNDARY:
+Cropping systems stay Topic 11; market institutions Topic 13; digital governance Topic 27.

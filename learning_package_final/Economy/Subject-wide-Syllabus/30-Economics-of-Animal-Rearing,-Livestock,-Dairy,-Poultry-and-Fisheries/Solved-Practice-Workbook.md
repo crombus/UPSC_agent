@@ -1,1290 +1,691 @@
-# Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries — Solved Practice Workbook
+# Economy Topic 30: Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-03. Uses the same source-bounded Economy distinctions and strict A-B-C-D rotation.
+**Status cutoff:** 10 September 2026.
+
+**Practice contract:** Exactly 32 original MCQs appear before PYQs. Correct answers rotate A -> B -> C -> D eight times. Every option has a question-specific explanation and every MCQ has a unique trap.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Scope and sector boundary?
+### Q1. Which classification is correct?
 
-A. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-B. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-C. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-D. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
+A. Animal husbandry covers managed terrestrial livestock and poultry, while capture fisheries harvest a natural stock.
+B. Aquaculture and capture fishing are identical because both occur in water.
+C. Milk processing is animal rearing because its raw material is biological.
+D. All allied-sector activities are secondary-sector activities.
 
-**Answer: A.**
-**Explanation:** Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: A**
 
-### Q2. Which option preserves the accounting or regulatory boundary of Scope and sector boundary?
+**Option explanations:**
+- **A is correct:** It preserves the biological and economic boundary.
+- **B is incorrect:** Aquaculture manages a cultivated stock; capture harvests a wild stock.
+- **C is incorrect:** Processing is downstream manufacturing/service activity, not rearing.
+- **D is incorrect:** Rearing and fishing are primary activities; downstream functions vary.
 
-A. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-B. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-C. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-D. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
+**UPSC trap:** Separate production system from downstream value chain.
 
-**Answer: B.**
-**Explanation:** Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q2. Which statement correctly distinguishes official animal-sector statistics?
 
-### Q3. Which statement uses Scope and sector boundary without losing its vintage, basket or legal status?
+A. BAHS is a point-in-time complete enumeration.
+B. Livestock Census measures stock, while ISS estimates annual product flows.
+C. ISS measures only export consignments.
+D. A census count is directly comparable with annual milk tonnage.
 
-A. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-B. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-C. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-D. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** BAHS is a publication drawing on census, ISS and administrative data.
+- **B is correct:** This is the DAHD stock-flow distinction.
+- **C is incorrect:** ISS estimates milk, egg, meat and wool output, not exports.
+- **D is incorrect:** Stock and flow use different units and reference periods.
 
-### Q4. Which option avoids the standard UPSC close-option trap about Scope and sector boundary?
+**UPSC trap:** Census, survey and publication are not synonyms.
 
-A. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-B. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-C. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-D. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
+### Q3. Why can livestock smooth rural income?
 
-**Answer: D.**
-**Explanation:** Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. It is immune to drought and disease.
+B. It always yields a higher return than crops.
+C. Recurring output and saleable asset value can diversify seasonal crop cash flow.
+D. It removes all household market risk.
 
-### Q5. Which statement correctly identifies Biological stock and annual flow?
+**Answer: C**
 
-A. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-B. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-C. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-D. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
+**Option explanations:**
+- **A is incorrect:** Fodder and water shocks can correlate with crop failure.
+- **B is incorrect:** Relative return is system- and price-specific.
+- **C is correct:** This identifies timing and asset channels without claiming immunity.
+- **D is incorrect:** Feed, disease and buyer shocks remain.
 
-**Answer: A.**
-**Explanation:** Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Diversification reduces some covariance; it is not guaranteed insurance.
 
-### Q6. Which option preserves the accounting or regulatory boundary of Biological stock and annual flow?
+### Q4. Which is the best measure of farm-level livestock profitability?
 
-A. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-B. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-C. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-D. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
+A. Total national milk output
+B. Number of animals owned
+C. Gross sale receipts only
+D. All revenues plus asset-value change minus paid and imputed costs and losses
 
-**Answer: B.**
-**Explanation:** Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: D**
 
-### Q7. Which statement uses Biological stock and annual flow without losing its vintage, basket or legal status?
+**Option explanations:**
+- **A is incorrect:** National output does not reveal household margin.
+- **B is incorrect:** Headcount omits productivity and cost.
+- **C is incorrect:** Gross receipts omit feed, labour, mortality and finance.
+- **D is correct:** This is the complete enterprise-income boundary.
 
-A. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-B. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-C. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-D. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
+**UPSC trap:** Gross production is not net producer income.
 
-**Answer: C.**
-**Explanation:** Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q5. At the 10 September 2026 cutoff, which statement is accurate?
 
-### Q8. Which option avoids the standard UPSC close-option trap about Biological stock and annual flow?
+A. The 20th Census (2019) remained the latest released population table; 21st Census results were not yet public.
+B. The 21st Census had published a new national livestock total.
+C. BAHS 2025 replaced the Livestock Census.
+D. The Economic Survey is the census authority.
 
-A. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-B. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-C. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-D. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is correct:** This preserves launch/enumeration and release status.
+- **B is incorrect:** No consolidated final 21st-round population table was located.
+- **C is incorrect:** BAHS publishes annual products; it does not replace stock enumeration.
+- **D is incorrect:** DAHD conducts the census through states.
 
-### Q9. Which statement correctly identifies Asset and production-unit character?
+**UPSC trap:** A newer round underway is not a released result.
 
-A. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-B. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-C. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-D. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
+### Q6. Which 2024-25 production pairing is correct?
 
-**Answer: A.**
-**Explanation:** An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Milk 239.30 MT and fish 18.393 MT
+B. Milk 247.87 MT and fish 19.775 MT
+C. Eggs 247.87 billion and meat 149.11 MT
+D. Livestock GVA 19.775% and fish 5.5 MT
 
-### Q10. Which option preserves the accounting or regulatory boundary of Asset and production-unit character?
+**Answer: B**
 
-A. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-B. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-C. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-D. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
+**Option explanations:**
+- **A is incorrect:** Those are 2023-24 production values.
+- **B is correct:** BAHS 2025 and Economic Survey 2025-26 Table 1.23 support these 2024-25 flows.
+- **C is incorrect:** The units and products are reversed and meat is far smaller.
+- **D is incorrect:** GVA shares and physical output are being mixed.
 
-**Answer: B.**
-**Explanation:** An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Always attach reference year, product and unit.
 
-### Q11. Which statement uses Asset and production-unit character without losing its vintage, basket or legal status?
+### Q7. Which statement best captures livestock productivity?
 
-A. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-B. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-C. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-D. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
+A. Peak daily yield is sufficient.
+B. Higher herd size always raises household margin.
+C. Lifetime output, fertility, survival and cost must be read with feed, health and environment.
+D. Only breed determines realised output.
 
-**Answer: C.**
-**Explanation:** An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: C**
 
-### Q12. Which option avoids the standard UPSC close-option trap about Asset and production-unit character?
+**Option explanations:**
+- **A is incorrect:** Peak yield can coexist with poor fertility or survival.
+- **B is incorrect:** More animals raise maintenance and ecological load.
+- **C is correct:** This is the complete lifetime-productivity test.
+- **D is incorrect:** Genetics requires complementary inputs.
 
-A. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-B. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-C. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-D. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
+**UPSC trap:** Productivity is not headcount or peak yield.
 
-**Answer: D.**
-**Explanation:** An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q8. Which feed-policy statement is most defensible?
 
-### Q13. Which statement correctly identifies Net enterprise income?
+A. Fodder has no land opportunity cost.
+B. Concentrate prices are unrelated to crop markets.
+C. Breed improvement removes the need for ration planning.
+D. Fodder seed, storage, residue treatment and commons management must fit local feed balances.
 
-A. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-B. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-C. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-D. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** Fodder competes for land and water.
+- **B is incorrect:** Maize and oilseed markets transmit price shocks.
+- **C is incorrect:** Genetic potential fails under poor nutrition.
+- **D is correct:** This combines supply, quality, seasonality and resource fit.
 
-### Q14. Which option preserves the accounting or regulatory boundary of Net enterprise income?
+**UPSC trap:** A feed intervention must solve quantity, quality and seasonality.
 
-A. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-B. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-C. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-D. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
+### Q9. What is the correct genetics-by-environment inference?
 
-**Answer: B.**
-**Explanation:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Indigenous and crossbred options must be assessed against feed, heat, disease and lifetime performance.
+B. Crossbred animals are always economically superior.
+C. Artificial insemination itself proves higher income.
+D. Conservation and productivity are mutually exclusive.
 
-### Q15. Which statement uses Net enterprise income without losing its vintage, basket or legal status?
+**Answer: A**
 
-A. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-B. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-C. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-D. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
+**Option explanations:**
+- **A is correct:** This fits breed choice to the production environment.
+- **B is incorrect:** Higher potential can carry higher management cost.
+- **C is incorrect:** AI is an input stage, not an income outcome.
+- **D is incorrect:** Locally adapted genetic resources can support resilient productivity.
 
-**Answer: C.**
-**Explanation:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Technology adoption is not realised lifetime performance.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Net enterprise income?
+### Q10. Why is vaccination a public-good concern?
 
-A. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-B. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-C. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-D. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
+A. It affects only the vaccinated owner.
+B. One owner's prevention can lower transmission risk for others.
+C. It removes the need for surveillance.
+D. It guarantees eradication after one round.
 
-**Answer: D.**
-**Explanation:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: B**
 
-### Q17. Which statement correctly identifies Productivity complementarity?
+**Option explanations:**
+- **A is incorrect:** Disease transmission creates external effects.
+- **B is correct:** This is the positive network externality.
+- **C is incorrect:** Surveillance verifies and guides vaccination.
+- **D is incorrect:** Coverage, immunity and eradication are separate.
 
-A. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-B. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-C. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-D. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
+**UPSC trap:** Count susceptible population and effective immunity, not doses alone.
 
-**Answer: A.**
-**Explanation:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q11. Which climate statement is correct?
 
-### Q18. Which option preserves the accounting or regulatory boundary of Productivity complementarity?
+A. Methane is a nitrogen compound.
+B. Lower emissions intensity always lowers total emissions.
+C. Productivity can reduce emissions per unit while total emissions still rise with expansion.
+D. Poultry litter creates no nitrogen externality.
 
-A. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-B. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-C. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-D. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** Methane is CH4 and contains carbon, not nitrogen.
+- **B is incorrect:** Absolute herd/output growth may dominate intensity gains.
+- **C is correct:** This preserves intensity versus absolute load.
+- **D is incorrect:** Litter can release ammonia and nitrous oxide.
 
-### Q19. Which statement uses Productivity complementarity without losing its vintage, basket or legal status?
+**UPSC trap:** Intensity and absolute emissions answer different questions.
 
-A. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-B. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-C. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-D. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
+### Q12. Which welfare proposition is strongest?
 
-**Answer: C.**
-**Explanation:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Welfare standards only raise costs.
+B. Welfare is irrelevant to market access.
+C. Productivity alone resolves ethical concerns.
+D. Good housing, handling and transport can improve welfare, survival, quality and compliance, though transition costs need support.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Productivity complementarity?
+**Answer: D**
 
-A. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-B. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-C. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
-D. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
+**Option explanations:**
+- **A is incorrect:** Poor welfare also causes stress, injury and loss.
+- **B is incorrect:** Standards and buyer requirements affect access.
+- **C is incorrect:** Intrinsic welfare obligations remain.
+- **D is correct:** This balances benefits with small-producer compliance cost.
 
-**Answer: D.**
-**Explanation:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Welfare is both intrinsic and economically consequential.
 
-### Q21. Which statement correctly identifies Feed and fodder economics?
+### Q13. Which sequence correctly represents the dairy value chain?
 
-A. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-B. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-C. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-D. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
+A. Production -> collection/testing -> chilling -> processing -> marketing
+B. Processing -> breeding -> collection -> feed
+C. Retail -> milking -> chilling -> testing
+D. Feed -> export -> veterinary diagnosis -> collection
 
-**Answer: A.**
-**Explanation:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: A**
 
-### Q22. Which option preserves the accounting or regulatory boundary of Feed and fodder economics?
+**Option explanations:**
+- **A is correct:** This follows product and information flow.
+- **B is incorrect:** It reverses the production chain.
+- **C is incorrect:** Retail cannot precede production.
+- **D is incorrect:** Export is not an input-stage substitute.
 
-A. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-B. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-C. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-D. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
+**UPSC trap:** Perishability makes sequence and time-temperature control central.
 
-**Answer: B.**
-**Explanation:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q14. Which Operation Flood statement is correct?
 
-### Q23. Which statement uses Feed and fodder economics without losing its vintage, basket or legal status?
+A. It began in 1991 as a private-dairy programme.
+B. It began in 1970 and used three phases to build producer cooperatives, services and a milk grid.
+C. It was limited to breed distribution.
+D. It eliminated all cooperative-governance risks.
 
-A. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-B. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-C. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-D. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** NDDB dates launch to 1970.
+- **B is correct:** This captures the institutional mechanism and chronology.
+- **C is incorrect:** Procurement, processing, marketing and services were central.
+- **D is incorrect:** Capture and weak management can persist.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Feed and fodder economics?
+**UPSC trap:** Operation Flood was institution building, not a cattle subsidy.
 
-A. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-B. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
-C. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-D. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
+### Q15. What defines the Anand pattern?
 
-**Answer: D.**
-**Explanation:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. One national private processor buying from all states
+B. A two-tier state bureaucracy
+C. Village societies, district unions and state federations owned by producers
+D. An informal trader network without testing
 
-### Q25. Which statement correctly identifies Disease and One Health?
+**Answer: C**
 
-A. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-B. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-C. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-D. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
+**Option explanations:**
+- **A is incorrect:** Private ownership is a different model.
+- **B is incorrect:** The producer institution is not a departmental hierarchy.
+- **C is correct:** This is the classic three-tier cooperative structure.
+- **D is incorrect:** Informal procurement lacks the stated federation.
 
-**Answer: A.**
-**Explanation:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Three tiers describe ownership and functions, not automatic performance.
 
-### Q26. Which option preserves the accounting or regulatory boundary of Disease and One Health?
+### Q16. Which comparison of dairy models is correct?
 
-A. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-B. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-C. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-D. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
+A. Private dairies cannot provide extension.
+B. Producer companies are government departments.
+C. Informal markets always offer traceability.
+D. Cooperative, producer-company, private and informal channels differ in ownership, capital, services and bargaining risk.
 
-**Answer: B.**
-**Explanation:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: D**
 
-### Q27. Which statement uses Disease and One Health without losing its vintage, basket or legal status?
+**Option explanations:**
+- **A is incorrect:** Private firms may bundle services.
+- **B is incorrect:** Producer companies are company-form producer institutions.
+- **C is incorrect:** Informal channels often have weak formal traceability.
+- **D is correct:** This avoids a false binary and identifies economic dimensions.
 
-A. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-B. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
-C. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-D. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
+**UPSC trap:** Judge governance and competition, not labels alone.
 
-**Answer: C.**
-**Explanation:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q17. Which is the accurate current-status description of RGM at the cutoff?
 
-### Q28. Which option avoids the standard UPSC close-option trap about Disease and One Health?
+A. It received temporary FY 2026-27 approval through 30 September 2026 or 16th FC approval, whichever earlier, with Rs 800 crore.
+B. Its only current component is creating new Gokul Grams.
+C. It is the umbrella for all sheep, goat and pig enterprises.
+D. Its insemination count equals milk-income impact.
 
-A. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
-B. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-C. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-D. Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is correct:** The April 2026 administrative approval supplies this bounded status.
+- **B is incorrect:** New Gokul Gram creation is not the current defining design.
+- **C is incorrect:** Those non-bovine enterprise components sit mainly under NLM.
+- **D is incorrect:** Outputs do not prove conception, productivity or income.
 
-### Q29. Which statement correctly identifies Dairy value chain?
+**UPSC trap:** Date RGM's temporary extension and preserve the genetics boundary.
 
-A. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-B. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-C. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-D. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
+### Q18. Which set correctly states NLM's current three-sub-mission design?
 
-**Answer: A.**
-**Explanation:** Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Milk procurement, marine fisheries and crop insurance
+B. Breed development; feed and fodder; innovation and extension
+C. Gokul Grams, FMD eradication and milk marketing
+D. Harbours, hatcheries and seafood exports
 
-### Q30. Which option preserves the accounting or regulatory boundary of Dairy value chain?
+**Answer: B**
 
-A. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-B. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-C. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
-D. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
+**Option explanations:**
+- **A is incorrect:** These belong to different schemes and sectors.
+- **B is correct:** The January 2025 NLM guidelines retain these three.
+- **C is incorrect:** RGM/LHDCP/dairy functions are being merged.
+- **D is incorrect:** These are fisheries functions.
 
-**Answer: B.**
-**Explanation:** Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** NLM is not a generic label for every animal-sector programme.
 
-### Q31. Which statement uses Dairy value chain without losing its vintage, basket or legal status?
+### Q19. Which component belongs within LHDCP?
 
-A. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
-B. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-C. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-D. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
+A. Milk powder marketing
+B. Breed multiplication farm finance
+C. NADCP vaccination plus critical/state disease control and veterinary delivery
+D. Fishing harbour construction
 
-**Answer: C.**
-**Explanation:** Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: C**
 
-### Q32. Which option avoids the standard UPSC close-option trap about Dairy value chain?
+**Option explanations:**
+- **A is incorrect:** Marketing belongs to dairy value chains.
+- **B is incorrect:** Breed multiplication is associated with RGM/NLM and infrastructure instruments.
+- **C is correct:** This captures the LHDCP umbrella.
+- **D is incorrect:** Harbours belong to fisheries infrastructure.
 
-A. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-B. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-C. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-D. Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
+**UPSC trap:** Disease-control architecture is distinct from breeding and processing.
 
-**Answer: D.**
-**Explanation:** Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q20. Which statement about AHIDF/IDF is correct?
 
-### Q33. Which statement correctly identifies Operation Flood boundary?
+A. The full fund size is annual cash expenditure.
+B. Only government departments are eligible.
+C. It finances crop MSP procurement.
+D. It supports animal-sector infrastructure; fund size, budget, sanctioned loan, completed asset and utilisation must be separated.
 
-A. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-B. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-C. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
-D. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** The fund is a multi-year financing envelope.
+- **B is incorrect:** Eligible entities include private, MSME, FPO, Section 8 and cooperatives.
+- **C is incorrect:** MSP procurement is outside its function.
+- **D is correct:** This preserves financing-stage discipline.
 
-### Q34. Which option preserves the accounting or regulatory boundary of Operation Flood boundary?
+**UPSC trap:** Infrastructure approval is not operating capacity or producer benefit.
 
-A. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
-B. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-C. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-D. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
+### Q21. Which poultry distinction is correct?
 
-**Answer: B.**
-**Explanation:** Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Layers produce eggs; broilers are raised mainly for meat.
+B. Layers and broilers differ only by ownership form.
+C. Backyard poultry always uses commercial integration.
+D. Commercial poultry has no biosecurity risk.
 
-### Q35. Which statement uses Operation Flood boundary without losing its vintage, basket or legal status?
+**Answer: A**
 
-A. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-B. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-C. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-D. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
+**Option explanations:**
+- **A is correct:** This is the biological-output distinction.
+- **B is incorrect:** Breed, cycle and output differ.
+- **C is incorrect:** Backyard systems can be independent and low-input.
+- **D is incorrect:** Density can amplify disease risk.
 
-**Answer: C.**
-**Explanation:** Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Start poultry analysis with output and production system.
 
-### Q36. Which option avoids the standard UPSC close-option trap about Operation Flood boundary?
+### Q22. What does poultry integration usually do?
 
-A. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-B. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-C. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-D. Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
+A. It makes the farmer owner of the integrator.
+B. It coordinates chicks, feed, veterinary inputs and marketing while reallocating contract risks.
+C. It eliminates mortality and quality disputes.
+D. It guarantees the spot-market price.
 
-**Answer: D.**
-**Explanation:** Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: B**
 
-### Q37. Which statement correctly identifies Poultry integration?
+**Option explanations:**
+- **A is incorrect:** Ownership does not automatically transfer.
+- **B is correct:** This states both coordination and risk allocation.
+- **C is incorrect:** Mortality attribution is a common dispute.
+- **D is incorrect:** Payment may be a growing charge, not spot price.
 
-A. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-B. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
-C. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-D. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
+**UPSC trap:** Integration reallocates risk; it does not abolish it.
 
-**Answer: A.**
-**Explanation:** In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q23. Why are sheep and goat systems important in drylands?
 
-### Q38. Which option preserves the accounting or regulatory boundary of Poultry integration?
+A. They require no health services.
+B. They cannot use commons.
+C. They can use dispersed browse and mobility while providing multiple outputs and liquid-asset value.
+D. They are always environmentally benign at any stocking rate.
 
-A. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-B. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-C. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-D. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** Disease control remains necessary.
+- **B is incorrect:** Commons and routes often underpin production.
+- **C is correct:** This captures their livelihood logic.
+- **D is incorrect:** Overstocking can degrade grazing resources.
 
-### Q39. Which statement uses Poultry integration without losing its vintage, basket or legal status?
+**UPSC trap:** Pastoral mobility is an adaptive production strategy.
 
-A. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-B. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-C. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-D. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
+### Q24. Which piggery statement is accurate?
 
-**Answer: C.**
-**Explanation:** In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Disease does not create correlated losses.
+B. Markets are identical across India.
+C. Waste management is irrelevant.
+D. Fast reproduction can support enterprise growth but raises the importance of feed, biosecurity, reporting and regional demand.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Poultry integration?
+**Answer: D**
 
-A. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-B. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-C. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-D. In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
+**Option explanations:**
+- **A is incorrect:** Outbreaks can destroy many herds.
+- **B is incorrect:** Cultural and regional demand differs.
+- **C is incorrect:** Waste and sanitation affect disease and externalities.
+- **D is correct:** This balances potential with constraints.
 
-**Answer: D.**
-**Explanation:** In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Do not recommend piggery without market and disease context.
 
-### Q41. Which statement correctly identifies Small ruminants and pastoral systems?
+### Q25. Which distinction is correct?
 
-A. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
-B. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-C. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-D. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
+A. Capture fisheries harvest wild stocks; aquaculture farms managed stocks.
+B. Aquaculture is always marine.
+C. Capture fisheries have no common-pool problem.
+D. All fish production is measured by Livestock Census.
 
-**Answer: A.**
-**Explanation:** Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: A**
 
-### Q42. Which option preserves the accounting or regulatory boundary of Small ruminants and pastoral systems?
+**Option explanations:**
+- **A is correct:** This is the core production-system distinction.
+- **B is incorrect:** Aquaculture can be inland, marine or brackish.
+- **C is incorrect:** Open access can cause a race to fish.
+- **D is incorrect:** Fish output comes from fisheries statistics, not livestock stock enumeration.
 
-A. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-B. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
-C. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-D. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
+**UPSC trap:** Total fish output can combine very different systems.
 
-**Answer: B.**
-**Explanation:** Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q26. Which federal statement is correct?
 
-### Q43. Which statement uses Small ruminants and pastoral systems without losing its vintage, basket or legal status?
+A. States regulate the entire EEZ exclusively.
+B. States regulate fisheries within territorial waters, while Union competence covers fishing beyond territorial waters.
+C. CAA regulates all inland livestock farms.
+D. Territorial waters extend to 200 nautical miles.
 
-A. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-B. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-C. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
-D. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** Beyond-territorial-water fishing is a Union competence.
+- **B is correct:** This preserves the constitutional and maritime boundary.
+- **C is incorrect:** CAA regulates coastal aquaculture.
+- **D is incorrect:** Territorial waters extend 12 nautical miles; the EEZ extends farther.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Small ruminants and pastoral systems?
+**UPSC trap:** Do not merge territorial waters and the EEZ.
 
-A. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-B. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-C. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-D. Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance.
+### Q27. Why can MEY occur at lower effort than MSY?
 
-**Answer: D.**
-**Explanation:** Sheep, goats and related systems can suit drylands and land-poor households, but depend on grazing access, mobility, health, breeding, fibre or meat markets and common-property governance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. MEY ignores harvesting cost.
+B. MSY maximises profit by definition.
+C. As stock falls, harvesting cost rises, so profit may peak before biological catch does.
+D. MEY is an equity rule.
 
-### Q45. Which statement correctly identifies Fisheries production systems?
+**Answer: C**
 
-A. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-B. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-C. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-D. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
+**Option explanations:**
+- **A is incorrect:** MEY explicitly includes revenue and cost.
+- **B is incorrect:** MSY is a biological yield benchmark.
+- **C is correct:** This is the standard bioeconomic mechanism.
+- **D is incorrect:** Distribution is a separate policy objective.
 
-**Answer: A.**
-**Explanation:** Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** MSY, MEY, equity and ecosystem safety are distinct.
 
-### Q46. Which option preserves the accounting or regulatory boundary of Fisheries production systems?
+### Q28. What is the correct RAS treatment statement?
 
-A. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-B. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-C. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-D. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
+A. Biofilters mechanically remove all solids.
+B. Biofilters eliminate every pathogen and nitrate.
+C. Biofilters increase phosphorus for fish.
+D. Mechanical filtration removes solids, while microbes in biofilters nitrify ammonia within a wider treatment system.
 
-**Answer: B.**
-**Explanation:** Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: D**
 
-### Q47. Which statement uses Fisheries production systems without losing its vintage, basket or legal status?
+**Option explanations:**
+- **A is incorrect:** Solids removal is principally mechanical.
+- **B is incorrect:** Disinfection and nitrate management remain.
+- **C is incorrect:** Excess phosphorus is a pollution concern.
+- **D is correct:** This assigns the correct function to each stage.
 
-A. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-B. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-C. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-D. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
+**UPSC trap:** A biofilter is not a complete water purifier.
 
-**Answer: C.**
-**Explanation:** Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q29. Which PMMSY status statement is correct at the cutoff?
 
-### Q48. Which option avoids the standard UPSC close-option trap about Fisheries production systems?
+A. Original approval covered 2020-21 to 2024-25; FY 2026-27 BE provides Rs 2,500 crore, but that budget line is not a newly verified long-term tenure.
+B. The scheme ended with no later budget provision.
+C. It began before Blue Revolution.
+D. Its allocation proves export and income targets were achieved.
 
-A. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-B. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-C. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-D. Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is correct:** This reconciles original approval and current budget evidence.
+- **B is incorrect:** Demand No. 43 carries FY 2026-27 provision.
+- **C is incorrect:** Blue Revolution preceded PMMSY.
+- **D is incorrect:** Allocation is not outcome evidence.
 
-### Q49. Which statement correctly identifies MSY and economic yield?
+**UPSC trap:** Separate original tenure, current budget and measured outcomes.
 
-A. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-B. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-C. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-D. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
+### Q30. Which statement describes FIDF accurately?
 
-**Answer: A.**
-**Explanation:** Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. It is a grant-only crop scheme.
+B. It used a Rs 7,522.48 crore fund and was extended through 2025-26 for concessional fisheries infrastructure finance.
+C. It permanently guarantees every fisheries loan.
+D. Its approved fund size equals completed harbour value.
 
-### Q50. Which option preserves the accounting or regulatory boundary of MSY and economic yield?
+**Answer: B**
 
-A. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-B. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-C. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-D. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
+**Option explanations:**
+- **A is incorrect:** FIDF is infrastructure finance, not a crop grant.
+- **B is correct:** This matches the Department of Fisheries annual report.
+- **C is incorrect:** Credit guarantee and eligibility are conditional.
+- **D is incorrect:** Fund, sanction, disbursement and completed asset differ.
 
-**Answer: B.**
-**Explanation:** Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** No post-2025-26 extension should be invented.
 
-### Q51. Which statement uses MSY and economic yield without losing its vintage, basket or legal status?
+### Q31. Which KCC statement is correct?
 
-A. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-B. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-C. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-D. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
+A. KCC covers only crop inputs.
+B. The entire Rs 5 lakh limit automatically receives interest subvention.
+C. KCC was extended to animal husbandry and fisheries for working capital; limit and interest-benefit ceiling must be separated.
+D. KCC is a livestock insurance policy.
 
-**Answer: C.**
-**Explanation:** Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: C**
 
-### Q52. Which option avoids the standard UPSC close-option trap about MSY and economic yield?
+**Option explanations:**
+- **A is incorrect:** The 2018 extension covers allied sectors.
+- **B is incorrect:** The Fisheries Annual Report distinguishes the broader limit from the fisheries IS/PRI ceiling.
+- **C is correct:** This is the correct dated design principle.
+- **D is incorrect:** Credit and insurance are separate instruments.
 
-A. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-B. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-C. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-D. Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
+**UPSC trap:** Card limit, subsidised-interest amount and actual borrowing are not the same.
 
-**Answer: D.**
-**Explanation:** Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q32. Which policy package best fits animal-rearing economics?
 
-### Q53. Which statement correctly identifies Aquaculture biofilter boundary?
+A. Maximise animal numbers and relax all standards.
+B. Fund only processing plants.
+C. Rely only on superior germplasm.
+D. Combine feed, preventive health, suitable genetics, finance/insurance, infrastructure, competitive markets and sustainability safeguards.
 
-A. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-B. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-C. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-D. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** Headcount can worsen cost and externalities.
+- **B is incorrect:** Plants fail without supply, utilisation and markets.
+- **C is incorrect:** Genetics is one complement.
+- **D is correct:** This is the complete complementary policy framework.
 
-### Q54. Which option preserves the accounting or regulatory boundary of Aquaculture biofilter boundary?
-
-A. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-B. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-C. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-D. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-
-**Answer: B.**
-**Explanation:** A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses Aquaculture biofilter boundary without losing its vintage, basket or legal status?
-
-A. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-B. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-C. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-D. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-
-**Answer: C.**
-**Explanation:** A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Aquaculture biofilter boundary?
-
-A. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-B. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-C. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-D. A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-
-**Answer: D.**
-**Explanation:** A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Integrated Farming System?
-
-A. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-B. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-C. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-D. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-
-**Answer: A.**
-**Explanation:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Integrated Farming System?
-
-A. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-B. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-C. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-D. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-
-**Answer: B.**
-**Explanation:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Integrated Farming System without losing its vintage, basket or legal status?
-
-A. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-B. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-C. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-D. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-
-**Answer: C.**
-**Explanation:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Integrated Farming System?
-
-A. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-B. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-C. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-D. IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-
-**Answer: D.**
-**Explanation:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies Employment classification?
-
-A. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-B. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-C. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-D. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-
-**Answer: A.**
-**Explanation:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of Employment classification?
-
-A. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-B. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-C. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-D. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-
-**Answer: B.**
-**Explanation:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses Employment classification without losing its vintage, basket or legal status?
-
-A. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-B. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-C. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-D. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-
-**Answer: C.**
-**Explanation:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Employment classification?
-
-A. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-B. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-C. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-D. Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-
-**Answer: D.**
-**Explanation:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Gender and control?
-
-A. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-B. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-C. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-D. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-
-**Answer: A.**
-**Explanation:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Gender and control?
-
-A. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-B. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-C. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-D. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-
-**Answer: B.**
-**Explanation:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Gender and control without losing its vintage, basket or legal status?
-
-A. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-B. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-C. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-D. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-
-**Answer: C.**
-**Explanation:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Gender and control?
-
-A. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-B. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-C. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-D. Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-
-**Answer: D.**
-**Explanation:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Institutions and scheme mechanisms?
-
-A. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-B. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-C. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-D. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-
-**Answer: A.**
-**Explanation:** DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Institutions and scheme mechanisms?
-
-A. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-B. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-C. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-D. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-
-**Answer: B.**
-**Explanation:** DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Institutions and scheme mechanisms without losing its vintage, basket or legal status?
-
-A. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-B. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-C. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-D. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-
-**Answer: C.**
-**Explanation:** DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Institutions and scheme mechanisms?
-
-A. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-B. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-C. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-D. DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-
-**Answer: D.**
-**Explanation:** DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Rashtriya Gokul Mission boundary?
-
-A. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-B. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-C. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-D. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-
-**Answer: A.**
-**Explanation:** Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Rashtriya Gokul Mission boundary?
-
-A. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-B. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-C. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-D. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-
-**Answer: B.**
-**Explanation:** Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Rashtriya Gokul Mission boundary without losing its vintage, basket or legal status?
-
-A. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-B. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-C. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-D. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-
-**Answer: C.**
-**Explanation:** Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Rashtriya Gokul Mission boundary?
-
-A. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-B. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-C. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-D. Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-
-**Answer: D.**
-**Explanation:** Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Environment and biosecurity?
-
-A. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-B. Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-C. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-D. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-
-**Answer: A.**
-**Explanation:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Environment and biosecurity?
-
-A. Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-B. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-C. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-D. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-
-**Answer: B.**
-**Explanation:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Environment and biosecurity without losing its vintage, basket or legal status?
-
-A. An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-B. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-C. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-D. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-
-**Answer: C.**
-**Explanation:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Environment and biosecurity?
-
-A. Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-B. Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-C. Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-D. Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-
-**Answer: D.**
-**Explanation:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** A scheme list is not a systems policy.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### Verified PYQ 1 — GS-III 2015 — 10 marks, 150 words
 
-Audited ledgers route the 2019 and 2022 Integrated Farming System demands and objective concepts on livestock emissions, aquaculture biofilters, sector classification, Rashtriya Gokul Mission and FAO Blue Transformation. The Basic/practice firewall carries them without inferring objective answer letters.
+> Livestock rearing has a big potential for providing non-farm employment and income in rural areas. Discuss suggesting suitable measures to promote this sector in India.
 
-### OWNER PYQ LEDGER EXTRACTS
+**Demand:** Establish employment and income channels, identify binding constraints and suggest matched measures.
 
-#### 21. PYQ closure
+**Model answer:**
 
-##### 21.1 2015 GS-III — direct syllabus question
+Livestock rearing is an allied primary activity, but it generates extensive non-farm work in feed supply, veterinary care, collection, transport, processing and retail. Milk, eggs and short-cycle poultry provide cash between crop harvests; goats and cattle also serve as assets. It can include land-poor households and women, use crop residues, improve diets and diversify weather and crop-price risk.
 
-> “Livestock rearing has a big potential for providing non-farm employment and income in
-> rural areas. Discuss suggesting suitable measures to promote this sector in India.”
+Potential is constrained by fodder scarcity, low lifetime productivity, weak veterinary reach, disease, costly credit, poor insurance, fragmented surplus, buyer power and inadequate chilling or processing. Women may supply labour without controlling animals, cooperative membership or payments.
 
-###### 150-word answer engine
+Policy should sequence local fodder plans, preventive health and suitable genetics; align KCC and insurance with biological cycles; strengthen cooperatives/FPOs and fair contracts; invest in chilling, testing, processing and traceability; and enforce One Health, welfare and manure safeguards. The objective should be value and net income per healthy animal, not herd expansion.
 
-**Introduction:** Livestock is an allied primary-sector activity that creates recurring
-non-crop income and extensive upstream/downstream rural non-farm employment.
+**Why this earns marks:** It distinguishes rearing from downstream jobs, balances potential and constraints, and links each reform to a diagnosed mechanism.
 
-**Potential**
+### Verified PYQ 2 — GS-III 2019 — 10 marks, 150 words
 
-- daily/short-cycle milk, egg and poultry income;
-- asset and risk-buffer role;
-- access for landless, small farmers and women;
-- use of residues, manure and integrated farming;
-- jobs in feed, breeding, veterinary care, collection, transport, processing and retail;
-- nutrition, exports and diversification.
+> How far is Integrated Farming System helpful in sustaining agricultural production?
 
-**Constraints**
+**Demand:** Explain the mechanism, assess the extent of help and qualify the verdict.
 
-- low productivity, feed/fodder and veterinary gaps;
-- disease and weak insurance;
-- credit, quality and cold-chain constraints;
-- fragmented producers, buyer power and price volatility;
-- gender, welfare and environmental costs.
+**Model answer:**
 
-**Measures**
+Integrated Farming System deliberately combines crops with livestock, poultry, fisheries or horticulture so that material, labour and income flows complement one another. Crop residues become feed; manure or biogas slurry returns nutrients to soil; pond water or silt can support crops; and multiple products spread labour and cash flow across seasons.
 
-- nutrition-health-breed package;
-- KCC/insurance and One Health;
-- cooperatives/FPOs and transparent contracts;
-- chilling, processing, traceability and waste-to-value;
-- women’s ownership/payment rights;
-- climate- and resource-suitable systems.
+IFS can sustain production by reducing purchased-input dependence, improving soil organic matter, recycling water and nutrients, diversifying climatic and price risk, and supplying household milk, eggs or fish. It is especially useful where small farms can intensify output per unit land without monocrop dependence.
 
-**Conclusion:** Promote value per healthy animal and producer share, not livestock numbers
-alone.
+However, mere co-location is not integration. Excess manure or pond nutrients can become pollution; disease can move across enterprises; capital, labour, water, skill and market needs may exceed household capacity. Thus IFS is substantially helpful when location-specific design, veterinary and extension support, credit, sanitation and collective marketing keep recycling within ecological absorptive limits.
 
-##### 21.2 2019 and 2022 GS-III — Integrated Farming Systems
+**Why this earns marks:** It answers 'how far' with mechanism, benefits, constraints and a conditional verdict.
 
-**Question demands**
+### Verified PYQ 3 — GS-III 2022 — 15 marks, 250 words
 
-- role of IFS in sustaining agricultural production;
-- benefits of IFS for small and marginal farmers.
+> What is Integrated Farming System? How is it helpful to small and marginal farmers in India?
 
-**Answer route**
+**Demand:** Define IFS, centre the smallholder mechanism and include implementation limits.
 
-1. define planned crop-allied complementarity;
-2. show residue-feed-manure-pond/biogas circularity;
-3. explain diversified income, labour, nutrition and risk;
-4. connect smallholder resource intensity and lower purchased inputs;
-5. qualify with knowledge, labour, disease, capital, market and ecological limits;
-6. propose location-specific design, extension, credit and producer aggregation.
+**Model answer:**
 
-##### 21.3 Prelims/application closure
+Integrated Farming System is the planned combination of crop and allied enterprises so that the output or waste of one becomes an input for another and the household receives diversified food, work and cash flow.
 
-- **2019 nitrogen compounds:** manure/urine and poultry litter can release ammonia and
-  nitrous oxide; methane is not a nitrogen compound.
-- **2023 aquaculture biofilters:** microbial nitrification supports ammonia treatment in
-  recirculating systems but is not complete water purification.
-- **2024 sector classification:** dairy farming is a primary activity.
-- **2025 taxation:** poultry/dairy/wool income is not automatically exempt agricultural
-  income; qualifying rural agricultural land’s capital-asset treatment is a separate rule.
+For small and marginal farmers, it improves resource productivity: crop residues feed cattle or goats; manure and biogas slurry support soil fertility; pond water and silt can complement crops; and poultry, eggs, milk, fish or vegetables add frequent returns to seasonal crop income. Enterprise diversity spreads production and price risk, uses family labour through the year, reduces some purchased-input costs and improves access to protein and micronutrients. Livestock also provides a saleable asset during emergencies. Producer groups can aggregate milk, fish or eggs and share chilling, feed and veterinary services.
 
-**Demand decoding:** The directive **answer** requires a direct position on “21. PYQ closure”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+The benefits are conditional. Small plots, insecure tenancy, fodder and water scarcity, high start-up cost, women's unpaid workload, disease transmission, weak veterinary support and thin markets can make a complex system unviable. Nutrient recycling becomes pollution when manure or aquaculture loads exceed absorptive capacity.
 
-**Detailed examiner-grade model answer:**
+Therefore, extension should design agro-climate-specific combinations, sequence feed and health support, align KCC and insurance with biological cycles, secure commons and water access, strengthen women’s asset and payment control, and connect FPO/cooperative aggregation to cold chains and markets. IFS sustains smallholders when integration is functional, not when enterprises are merely placed together.
 
-**Introduction and thesis:** The answer must resolve the Economy demand in “21. PYQ closure”.
+**Why this earns marks:** The answer defines, explains smallholder channels, recognises gender and ecological constraints, and supplies implementable measures.
 
-**Analytical body:**
+### Objective PYQ official-key discipline
 
-1. **Claim and named evidence:** “Livestock rearing has a big potential for providing non-farm employment and income in **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** rural areas. Discuss suggesting suitable measures to promote this sector in India.” **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Introduction: Livestock is an allied primary-sector activity that creates recurring **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** non-crop income and extensive upstream/downstream rural non-farm employment. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** daily/short-cycle milk, egg and poultry income **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** use of residues, manure and integrated farming **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+- **2019 Prelims — nitrogen compounds from agriculture/livestock:** concept route covers ammonia and nitrous oxide from manure/litter; methane is not a nitrogen compound. **Answer withheld pending official UPSC key.**
+- **2023 Prelims — biofilters in recirculating aquaculture:** concept route separates microbial nitrification from mechanical solids removal and complete purification. **Answer withheld pending official UPSC key.**
+- **2024 Prelims — primary activities:** dairy farming is primary production; processing is secondary. The audited route did not carry a matched question-option-key bundle into this package, so no letter is inferred.
+- **2025 Prelims — Rashtriya Gokul Mission and indigenous cattle:** the official Set-A key exists locally, but this owner does not contain an authenticated question-option mapping. No answer letter is inferred.
+- **2026 Prelims — FAO Blue Transformation:** the locally held Set-A key is provisional. **Answer withheld because the locally held key is provisional.**
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+### ORIGINAL MAINS 1 — 10 MARKS — 150 words
 
-**Qualified conclusion:** The answer must resolve the Economy demand in “21. PYQ closure”.
+**Question:** Explain how animal husbandry diversifies income and risk for small rural households.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Model answer:**
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+Animal husbandry diversifies rural livelihoods through timing, assets and joint products. Milk and eggs generate frequent cash between crop harvests; goats, sheep or cattle provide saleable asset value; manure, offspring and household food add returns not captured by one product price. Crop residues can become feed, linking livestock to mixed farming, while veterinary, collection and processing create non-farm jobs.
 
-**How to improve this answer:** For “21. PYQ closure”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+The effect is strongest for smallholders and land-poor households when entry scale is modest and women control animals, membership and payments. Yet it is not automatic insurance. Drought raises fodder and water cost; disease creates correlated losses; feed inflation and a single buyer can compress margins; distress sale sacrifices future output.
 
-#### 2026 PYQ Integration
+Hence diversification policy should combine feed reserves, preventive health, suitable breeds, KCC, responsive insurance, producer aggregation and transparent markets. Success should be measured by stable net household income and control over proceeds, not by enterprise count.
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+### ORIGINAL MAINS 2 — 10 MARKS — 150 words
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+**Question:** Compare cooperative, producer-company and private dairy models from the producer's perspective.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 38 | FAO Blue Transformation and sustainable fisheries and aquaculture framework | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Model answer:**
 
-##### What this owner must now support
+Dairy organisation determines who owns procurement, bears risk and receives value. The Anand cooperative model federates village societies, district unions and state marketing bodies; it can return residual value and bundle feed, breeding and veterinary services. Its weaknesses are political capture, weak professional management and delayed payment.
 
-- FAO Blue Transformation and sustainable fisheries and aquaculture framework
+A producer company retains producer shareholding within a company form, potentially combining collective ownership with managerial flexibility. It still needs capital, credible boards and member accountability. A private dairy can mobilise investment, technology, brands and procurement competition, but investor control may leave small suppliers with weak bargaining power or selective collection.
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+No form is automatically superior. Producers benefit where testing is transparent, payments are timely, services are reliable, multiple buyers contest the milk shed and members can audit or exit. Regulation should protect contracts and quality without suppressing investment. The test is producer share and control, not legal label.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+### ORIGINAL MAINS 3 — 15 MARKS — 250 words
 
-#### Recent PYQ Integration (2024-2025)
+**Question:** Why should livestock policy prioritise productivity over herd expansion? Discuss the climate trade-off.
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+**Model answer:**
 
-- **Years represented:** 2025
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+Herd expansion raises total output only if additional animals receive adequate feed, water, health care and market access. Where these are scarce, more animals can lower per-animal nutrition, fertility and lifetime yield while increasing household maintenance cost, disease exposure and pressure on commons.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | Prelims GS-I | 30 | Rashtriya Gokul Mission - indigenous cattle | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+Productivity policy instead targets value per healthy animal through suitable genetics, balanced ration, preventive vaccination, reproductive management, heat-resilient housing and lower mortality. Higher lifetime output spreads maintenance emissions and costs over more milk or meat and may reduce methane intensity per unit. Better fertility can also reduce the number of non-productive animals needed for a given output.
 
-##### What this owner must now support
+The climate gain is conditional. Total methane can still rise if herd or aggregate output expands faster than intensity falls. Concentrate feed may shift land, water and emissions elsewhere; manure-to-biogas systems can leak; high-yield breeds can be heat- and disease-sensitive. Welfare and indigenous genetic diversity must not be sacrificed for peak yield.
 
-- Rashtriya Gokul Mission - indigenous cattle
+Policy should therefore track per-animal and lifetime productivity, net margin, absolute herd and emissions, feed footprint, manure management and heat resilience together. RGM genetics must be paired with NLM fodder and LHDCP health; producer prices and processing must absorb quality output. The objective is fewer unproductive losses and higher sustainable value, not a headcount race.
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+### ORIGINAL MAINS 4 — 15 MARKS — 250 words
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Question:** Evaluate the contract-integration model in Indian poultry.
 
-#### Historical PYQ Integration (2018-2023)
+**Model answer:**
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+Poultry integration emerges because chick quality, feed formulation, veterinary protocol, batch timing and marketing are tightly interdependent. The integrator commonly supplies chicks, feed, medicine, technical advice and market access; the farmer supplies the shed, utilities and labour and receives a growing charge.
 
-- **Years represented:** 2019, 2022, 2023
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 4
+The model can lower input-search costs, standardise biosecurity, spread technical knowledge and shield growers from part of the spot output-price risk. Coordinated placement and processing also reduce market mismatch in a short-cycle industry. These gains are valuable where independent farmers lack working capital or assured buyers.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | GS-III | 3 | Integrated Farming System role in sustaining agricultural production | Discuss · 10 marks · 150 words | Cross-routed to sustainable-input and crop-livestock integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | Prelims GS-I | 41 | Nitrogen compounds released from agricultural and livestock activities | Objective question; official key unavailable locally | Cross-routed to nitrogen-cycle and animal-production externality owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | GS-III | 14 | Integrated Farming System benefits for small and marginal farmers | Explain · 15 marks · 250 words | Cross-routed to sustainable-input and smallholder animal-integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | Prelims GS-I | 55 | Biofilters role in recirculating aquaculture water treatment | Objective question; official key unavailable locally | Cross-routed to biofilter functioning and aquaculture-production economics; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+However, risk is reallocated, not removed. Farmers may borrow for asset-specific sheds, while contracts permit quality deductions or assign mortality and utility risks asymmetrically. Dependence on one integrator weakens exit and bargaining. Feed and disease shocks may change placement volumes, and performance standards can be opaque. Concentrated production also raises regional biosecurity and waste externalities.
 
-##### What this owner must now support
+Fair integration requires plain-language written contracts, independent weighing and quality records, disclosed mortality formulas, time-bound payment, accessible dispute resolution, minimum biosecurity and welfare standards, and alternative buyers or producer organisations. Credit assessment should test contract durability rather than only shed collateral. Integration is efficient when coordination gains are shared; it becomes exploitative when the integrator controls information, standards and exit without accountability.
 
-- Integrated Farming System role in sustaining agricultural production
-- Nitrogen compounds released from agricultural and livestock activities
-- Integrated Farming System benefits for small and marginal farmers
-- Biofilters role in recirculating aquaculture water treatment
+### ORIGINAL MAINS 5 — 20 MARKS — 250 words
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Question:** Analyse the economic and ecological challenges of expanding India's fisheries sector.
 
-#### Historical PYQ Integration (2018-2023)
+**Model answer:**
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+India's fisheries economy combines inland and marine systems, capture of wild common-pool stocks and managed aquaculture. Economic Survey 2025-26 records 19.775 million tonnes of fish production in 2024-25, but aggregate growth can conceal local stock depletion, disease or weak first-sale margins.
 
-- **Years represented:** 2019, 2022
-- **Paper(s):** GS-III
-- **Routed question demands:** 2
+Capture fisheries face a race-to-fish problem: individual effort reduces the stock available to others, encouraging overcapacity, juvenile catch and profit dissipation. MSY is only a biological benchmark; MEY, ecosystem safety and equitable access may require lower effort. Seasonal closures and gear rules therefore need science, enforcement and livelihood support. Governance is federal: states regulate within territorial waters, while Union competence covers fishing beyond them.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | GS-III | 3 | Integrated Farming System role in sustaining agricultural production | Discuss · 10 marks · 150 words | Cross-routed to sustainable-input and crop-livestock integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 14 | Integrated Farming System benefits for small and marginal farmers | Explain · 15 marks · 250 words | Cross-routed to sustainable-input and smallholder animal-integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+Aquaculture raises output through seed, feed, water control and density, but intensification increases disease correlation, energy use, effluent, salinity and tenure conflict. RAS biofilters manage ammonia within a wider treatment chain; they are not complete purification. Both systems need ice, cold chain, hygienic landing, processing, traceability and SPS compliance.
 
-##### What this owner must now support
+PMMSY's original 2020-21–2024-25 approval and FY 2026-27 budget provision must be distinguished; FIDF's approved extension ended in 2025-26. Reform should strengthen stock assessment and co-management, certified seed and aquatic health, climate-resilient infrastructure, FFPOs, KCC and insurance, transparent auctions, habitat protection and export diversification. The objective is durable value per unit of ecosystem, not output alone.
 
-- Integrated Farming System role in sustaining agricultural production
-- Integrated Farming System benefits for small and marginal farmers
+### ORIGINAL MAINS 6 — 20 MARKS — 250 words
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Question:** Design an integrated policy framework for India's livestock, dairy, poultry and fisheries economy.
 
-### PYQ DEMAND CARD 1 — 2019 GS-III
+**Model answer:**
 
-**Demand:** Role of Integrated Farming Systems in sustaining agricultural production.
+India's allied-sector policy should begin with the household enterprise margin and the biological resource, not a headcount target. DAHD reports livestock at 30.87% of agriculture GVA in 2023-24; 2024-25 production reached 247.87 million tonnes of milk, 149.11 billion eggs and 10.50 million tonnes of meat, while fish output was 19.775 million tonnes. These figures establish scale, not producer welfare.
 
-**Status:** Official-paper demand cross-routed in the audited 2018-2023 GS-III ledger.
+First, secure feed, fodder, water and suitable genetics; RGM must pass a genetics-by-environment test and NLM must close fodder and non-bovine enterprise gaps. Second, treat vaccination, surveillance, diagnostics, compensation and One Health as public goods through LHDCP and strong state veterinary capacity. Third, align KCC, term finance and insurance with biological cycles. Fourth, build producer-controlled or competitive aggregation, transparent testing, chilling, landing, processing and traceability through dairy institutions, IDF/AHIDF, PMMSY and appropriate infrastructure finance.
 
-**Model solution:** **Asset and production-unit character:** An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity. **Productivity complementarity:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Integrated Farming System:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. **Employment classification:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. **Environment and biosecurity:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+Fifth, regulate market power and contracts: cooperatives, producer companies, private dairies, poultry integrators and exporters must disclose quality, rejection and payment rules. Sixth, internalise methane, manure, AMR, welfare, aquaculture effluent and capture-fishery stock costs. Women’s ownership, payment control, pastoral access and small-fisher rights should be outcome indicators.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2019 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Asset and production-unit character:** An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity. **Productivity complementarity:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Integrated Farming System:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. **Employment classification:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. **Environment and biosecurity:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Role of Integrated Farming Systems in sustaining agricultural production. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand cross-routed in the audited 2018-2023 GS-III ledger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Asset and production-unit character:** An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity. **Productivity complementarity:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Integrated Farming System:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. **Employment classification:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. **Environment and biosecurity:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2019 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 2 — 2022 GS-III
-
-**Demand:** Benefits of Integrated Farming Systems for small and marginal farmers.
-
-**Status:** Official-paper demand cross-routed in the audited 2018-2023 GS-III ledger.
-
-**Model solution:** **Net enterprise income:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Feed and fodder economics:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Integrated Farming System:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. **Employment classification:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. **Gender and control:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2022 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Net enterprise income:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Feed and fodder economics:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Integrated Farming System:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. **Employment classification:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. **Gender and control:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Benefits of Integrated Farming Systems for small and marginal farmers. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand cross-routed in the audited 2018-2023 GS-III ledger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Net enterprise income:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Feed and fodder economics:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Integrated Farming System:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. **Employment classification:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. **Gender and control:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2022 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Why must animal-rearing performance be measured through lifetime net return rather than headcount? Answer in about 150 words.
-
-**Model thesis:** **Claim:** Asset and production-unit character. **Named evidence/example:** An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Net enterprise income. **Named evidence/example:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Productivity complementarity. **Named evidence/example:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity.
-- Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-- Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-
-**Qualified conclusion:** **Claim:** Asset and production-unit character. **Named evidence/example:** An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Net enterprise income. **Named evidence/example:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Productivity complementarity. **Named evidence/example:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why must animal-rearing performance be measured through lifetime net return rather than…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Asset and production-unit character. **Named evidence/example:** An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Net enterprise income. **Named evidence/example:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Productivity complementarity. **Named evidence/example:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Asset and production-unit character. **Named evidence/example:** An animal is both a productive asset and a source of recurring output, offspring, manure and terminal value, so disease or distress sale can destroy current income and future earning capacity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Net enterprise income. **Named evidence/example:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Productivity complementarity. **Named evidence/example:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Why must animal-rearing performance be measured through lifetime net return rather than…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Distinguish livestock stock statistics from annual production-flow statistics. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Scope and sector boundary. **Named evidence/example:** Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Biological stock and annual flow. **Named evidence/example:** Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing.
-- Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable.
-
-**Qualified conclusion:** **Claim:** Scope and sector boundary. **Named evidence/example:** Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Biological stock and annual flow. **Named evidence/example:** Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish livestock stock statistics from annual production-flow statistics. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Scope and sector boundary. **Named evidence/example:** Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Biological stock and annual flow. **Named evidence/example:** Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Scope and sector boundary. **Named evidence/example:** Animal rearing covers terrestrial livestock and poultry, while aquaculture is managed aquatic farming and capture fishing harvests a natural stock; processing and retail are downstream activities rather than rearing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Biological stock and annual flow. **Named evidence/example:** Livestock Census measures a point-in-time biological stock, the Integrated Sample Survey estimates annual product flows, and Basic Animal Husbandry Statistics consolidates official sector data; their vintages are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish livestock stock statistics from annual production-flow statistics. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Analyse the economics of dairy collection and cooperative organisation. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Feed and fodder economics. **Named evidence/example:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Dairy value chain. **Named evidence/example:** Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Operation Flood boundary. **Named evidence/example:** Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Gender and control. **Named evidence/example:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-- Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation.
-- Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk.
-- Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-
-**Qualified conclusion:** **Claim:** Feed and fodder economics. **Named evidence/example:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Dairy value chain. **Named evidence/example:** Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Operation Flood boundary. **Named evidence/example:** Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Gender and control. **Named evidence/example:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse the economics of dairy collection and cooperative organisation. Answer in about 250…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Feed and fodder economics. **Named evidence/example:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Dairy value chain. **Named evidence/example:** Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Operation Flood boundary. **Named evidence/example:** Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Gender and control. **Named evidence/example:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Feed and fodder economics. **Named evidence/example:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Dairy value chain. **Named evidence/example:** Milk's daily production and perishability make collection, transparent fat or SNF testing, chilling, transport, processing and producer payment central to value realisation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Operation Flood boundary. **Named evidence/example:** Operation Flood was launched in 1970 and implemented in three phases through producer cooperatives, market links and input services; cooperative form improves aggregation but does not eliminate governance or local monopsony risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Gender and control. **Named evidence/example:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Analyse the economics of dairy collection and cooperative organisation. Answer in about 250…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Examine risk allocation in poultry integration and animal-disease control. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Disease and One Health. **Named evidence/example:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Poultry integration. **Named evidence/example:** In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Environment and biosecurity. **Named evidence/example:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-- In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed.
-- Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-
-**Qualified conclusion:** **Claim:** Disease and One Health. **Named evidence/example:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Poultry integration. **Named evidence/example:** In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Environment and biosecurity. **Named evidence/example:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine risk allocation in poultry integration and animal-disease control. Answer in about…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Disease and One Health. **Named evidence/example:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Poultry integration. **Named evidence/example:** In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Environment and biosecurity. **Named evidence/example:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Disease and One Health. **Named evidence/example:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Poultry integration. **Named evidence/example:** In an integrator model the firm may supply chicks, feed, medicine, technical protocol and market access while the farmer supplies shed, utilities, labour and management; risk is reallocated, not removed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Environment and biosecurity. **Named evidence/example:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Examine risk allocation in poultry integration and animal-disease control. Answer in about…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate fisheries and aquaculture through biological, economic and ecological boundaries. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Fisheries production systems. **Named evidence/example:** Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MSY and economic yield. **Named evidence/example:** Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Aquaculture biofilter boundary. **Named evidence/example:** A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Environment and biosecurity. **Named evidence/example:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control.
-- Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights.
-- A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant.
-- Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-
-**Qualified conclusion:** **Claim:** Fisheries production systems. **Named evidence/example:** Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MSY and economic yield. **Named evidence/example:** Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Aquaculture biofilter boundary. **Named evidence/example:** A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Environment and biosecurity. **Named evidence/example:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate fisheries and aquaculture through biological, economic and ecological boundaries.…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Fisheries production systems. **Named evidence/example:** Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MSY and economic yield. **Named evidence/example:** Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Aquaculture biofilter boundary. **Named evidence/example:** A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Environment and biosecurity. **Named evidence/example:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Fisheries production systems. **Named evidence/example:** Capture fisheries face common-pool stock and excessive-effort risks, whereas aquaculture depends on managed seed, feed, water quality, stocking, biosecurity and effluent control. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MSY and economic yield. **Named evidence/example:** Maximum Sustainable Yield is a biological stock-yield concept, while Maximum Economic Yield concerns economic rent; neither alone settles equity, ecosystem or small-fisher rights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Aquaculture biofilter boundary. **Named evidence/example:** A recirculating-aquaculture biofilter supports microbial treatment of ammonia within a larger water-treatment system; it is not complete removal of every solid, pathogen, nutrient or chemical contaminant. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Environment and biosecurity. **Named evidence/example:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Evaluate fisheries and aquaculture through biological, economic and ecological boundaries.…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Design an inclusive One-Health-compatible strategy for India's animal economy. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Net enterprise income. **Named evidence/example:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Productivity complementarity. **Named evidence/example:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Feed and fodder economics. **Named evidence/example:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Disease and One Health. **Named evidence/example:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Integrated Farming System. **Named evidence/example:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Employment classification. **Named evidence/example:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Gender and control. **Named evidence/example:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Institutions and scheme mechanisms. **Named evidence/example:** DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Rashtriya Gokul Mission boundary. **Named evidence/example:** Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Environment and biosecurity. **Named evidence/example:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income.
-- Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints.
-- Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin.
-- Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health.
-- IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity.
-- Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment.
-- Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds.
-- DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms.
-- Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes.
-- Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries.
-
-**Qualified conclusion:** **Claim:** Net enterprise income. **Named evidence/example:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Productivity complementarity. **Named evidence/example:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Feed and fodder economics. **Named evidence/example:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Disease and One Health. **Named evidence/example:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Integrated Farming System. **Named evidence/example:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Employment classification. **Named evidence/example:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Gender and control. **Named evidence/example:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Institutions and scheme mechanisms. **Named evidence/example:** DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Rashtriya Gokul Mission boundary. **Named evidence/example:** Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Environment and biosecurity. **Named evidence/example:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design an inclusive One-Health-compatible strategy for India's animal economy. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Net enterprise income. **Named evidence/example:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Productivity complementarity. **Named evidence/example:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Feed and fodder economics. **Named evidence/example:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Disease and One Health. **Named evidence/example:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Integrated Farming System. **Named evidence/example:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Employment classification. **Named evidence/example:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Gender and control. **Named evidence/example:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Institutions and scheme mechanisms. **Named evidence/example:** DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Rashtriya Gokul Mission boundary. **Named evidence/example:** Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Environment and biosecurity. **Named evidence/example:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-7. **Claim and named evidence:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-8. **Claim and named evidence:** DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-9. **Claim and named evidence:** Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-10. **Claim and named evidence:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Net enterprise income. **Named evidence/example:** Animal-enterprise profitability equals product and by-product revenue plus asset-value change minus feed, labour, health, breeding, housing, finance, mortality, spoilage, transport and market costs; gross production is not net income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Productivity complementarity. **Named evidence/example:** Realised output reflects genetics, nutrition, health, reproduction, management, climate adaptation and market access; breed improvement alone cannot overcome feed or veterinary constraints. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Feed and fodder economics. **Named evidence/example:** Feed and fodder are major recurring costs in many systems, and scarcity, quality, competing land use and concentrate-price volatility affect lifetime productivity, fertility and margin. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Disease and One Health. **Named evidence/example:** Vaccination, surveillance, diagnostics and biosecurity generate network benefits because one producer's prevention reduces disease risk for others, while zoonoses and antimicrobial resistance connect animal, human and environmental health. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Integrated Farming System. **Named evidence/example:** IFS intentionally links crops and allied enterprises through residue, feed, manure, pond, nutrient and income flows, but integration becomes pollution transfer when disease or nutrient loads exceed absorptive capacity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Employment classification. **Named evidence/example:** Animal rearing is an allied primary-sector activity that creates non-crop rural work, while feed services, veterinary care, transport, testing, processing, retail and equipment generate upstream and downstream non-farm employment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Gender and control. **Named evidence/example:** Women's labour participation in feeding, cleaning, milking or backyard poultry does not prove ownership, cooperative voice, decision-making or control over sale proceeds. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Institutions and scheme mechanisms. **Named evidence/example:** DAHD, the Department of Fisheries, ICAR systems, NDDB, states, producer organisations, FSSAI and export bodies have distinct roles; scheme names must be tied to health, genetics, infrastructure, finance or value-chain mechanisms. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Rashtriya Gokul Mission boundary. **Named evidence/example:** Rashtriya Gokul Mission concerns bovine genetic improvement and breeding infrastructure, including indigenous cattle; it does not by itself supply feed, health, chilling, income or market outcomes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Environment and biosecurity. **Named evidence/example:** Emissions intensity per unit of output can fall while absolute emissions rise with herd or output expansion, so policy must track methane, manure, nutrient load, AMR, welfare, aquatic carrying capacity and disease boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Design an inclusive One-Health-compatible strategy for India's animal economy. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+Finally, evaluate net margin, lifetime productivity, survival, producer share, disease incidence and ecological load rather than allocations or assets. Topic 14 supplies input-credit depth and Topic 15 processing economics. A complete framework joins feed, health, genetics, infrastructure, markets and sustainability.

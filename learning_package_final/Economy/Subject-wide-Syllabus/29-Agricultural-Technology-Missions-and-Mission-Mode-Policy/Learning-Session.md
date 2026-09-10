@@ -1,3776 +1,1997 @@
-# Agricultural Technology Missions and Mission-Mode Policy — Learner-v2 Complete Learning Session
+# Economy Topic 29: Agricultural Technology Missions and Mission-Mode Policy
 
-> **Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.
+## Source and Status Control
 
-### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
+**Current-status cutoff:** 10 September 2026. Every mission is labelled historical, current, subsumed, restructured, completed, announced or approval-qualified.
 
-- **Generation date:** 2026-09-03.
-- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
-- **OCR evidence:** Repository Markdown was primary. OCR-searchable local official General Studies papers were used only to confirm printed routed demands. No answer key, marking scheme, unsupported page precision or current macroeconomic statistic was inferred from them.
-- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
-- **PYQ integrity:** Audited ledgers route the 2018 GS-III National Horticulture Mission demand and the 2021 objective palm-oil concept. The Basic/practice firewall preserves origin, mesocarp, kernel, mission-system and income distinctions without inferring an unavailable objective key.
-- **Live-link boundary:** The oilseeds page substantively confirmed distinct mission architectures. The cotton release was inaccessible, so the package relies on the audited owners and imports no live outlay, target, launch, approval, expenditure, adoption or production claim.
-- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
+**Repository sources checked first**
+- `upsc-ai-kit\knowledge\Economy\basic\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`
+- `upsc-ai-kit\knowledge\Economy\advanced\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`
+- Economy agriculture cross-links for Topics 11, 13, 14, 15, 27, 28 and 30.
+- Audited 2018 GS-III and 2021 Prelims routing ledgers.
 
-### LIVE OFFICIAL-SOURCE ATTEMPT LOG
+**OCR and official evidence**
+- Ramesh Singh, *Indian Economy* OCR: technology-mission and agricultural-policy context.
+- *Economic Survey 2025-26*, Agriculture and Food Management chapter, p. 277 of the local PDF.
+- Union Budget 2026-27 Output-Outcome Monitoring Framework and Expenditure Profile.
+- DA&FW operational guidelines: NFSNM; NMEO-OS dated 3 June 2025; PM-RKVY dated 14 November 2024; revised ATMA 2025; MIDH dated 7 May 2026; NBM 2025.
+- Official Cabinet/PIB records for TMO, TMC, JTM, NMEO-OP, NMEO-OS, NMNF, pulses, Digital Agriculture Mission and the 2026 cotton mission.
+- ICAR material on KVKs, on-farm testing and frontline demonstrations.
 
-The checks below were made on 2026-09-03. Substantive official text is used only for the proposition it actually supports; binary files, dynamic shells, stubs and undated dashboard snippets are recorded but not converted into current claims.
+**Evidence rule:** an approved outlay is not expenditure; a target is not achievement; an output is not an outcome; a national trend is not mission-attributable without a counterfactual.
 
-- https://agriwelfare.gov.in/en/Oilseeds — substantive Agriculture Ministry page fetched 2026-09-03; confirms separate NMEO-OS and NMEO-OP value-chain architectures. Displayed outlays, areas and targets were not imported.
-- https://pib.gov.in/PressReleasePage.aspx?PRID=2258111&reg=3&lang=1 — direct fetch returned HTTP 403 on 2026-09-03; no cotton-mission status, mini-mission, outlay, period or target claim was imported from the failed request.
+## Learning Roadmap
 
-## BASIC LEARNING SESSION
+1. Define mission-mode policy, results chains, convergence and gaming risks.
+2. Follow technology from ICAR research through KVK/ATMA diffusion to markets.
+3. Build dated predecessor-successor maps for food, edible oils, sustainability, horticulture, extension, cotton and jute.
+4. Separate current, subsumed, restructured, completed and announced programmes.
+5. Evaluate adoption, additionality, outcomes, regional equity, convergence and sunset.
 
-### DEEP-REVIEW LEARNING CONTRACT
+## Core Learning Sessions
 
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Economy Basic/Core is answer-complete before optional Advanced depth. |
-| Formula boundary | Formula, numerator, denominator, unit, stock/flow, nominal/real, base year, level/rate and accounting identity are explicit. |
-| Institutional boundary | Constitution, statute, delegated rule, regulator mandate, policy, recommendation, scheme and implementation outcome remain distinct. |
-| Transmission method | Shock or instrument → prices/quantities/balance sheets/incentives → institution and market response → output, employment, distribution, stability and external effect → lag and trade-off. |
-| Current-data method | Source → release date → reference period → unit/denominator → provisional/revised/final status; incompatible Budget, Survey or statistical vintages are never mixed. |
-| Programme-status method | Announced → approved → notified/guidelines issued → funded → operational → utilised → output → outcome are separate stages. |
-| External/WTO method | Agreement text, member category, box, limit, notification, consultation, dispute and ruling are qualified without invented thresholds. |
-| Causal method | Accounting identity, chronology and correlation are not promoted into behavioural or causal claims without mechanism, counterfactual and alternatives. |
-| Answer balance | Model answers balance growth, distribution, stability, sustainability and federal dimensions with India-centric evidence. |
-| Practice contract | Every solved item has demand decoding, a detailed examiner-grade model, executable timed/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Economy\basic\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`  
-**Substantive canonical provenance owner:** `upsc-ai-kit\knowledge\Economy\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy_Learner-V2-Complete-Topic-Package.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Economy\advanced\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Economy\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- Every data-heavy table states unit, denominator, geography, reference period and source/status.
-- GDP/GVA, gross/net, domestic/national, nominal/real and level/rate distinctions remain exact.
-- Monetary, fiscal and external chains state intermediaries, balance-sheet channels, lags, leakages and trade-offs.
-- Budget and Economic Survey editions are never mixed; BE, RE, Actual, advance/provisional/revised/final estimates remain labelled.
-- Scheme and programme claims distinguish announcement, approval, notification, operation, coverage, utilisation and measured outcome.
-- WTO boxes, limits, de minimis, special treatment, notifications and disputes are qualified from authoritative rules.
-- PYQ wording is preserved only where verified; reconstructed or routed demands remain labelled.
-- **Current-status note, rechecked 2026-09-06:** volatile rates, estimates, scheme status, trade rules and institutional claims retain official source, release date, reference period and revision status.
-
-**Generation-local live/current sources:**
-- `https://agriwelfare.gov.in/en/Oilseeds — substantive Agriculture Ministry page fetched 2026-09-03; confirms separate NMEO-OS and NMEO-OP value-chain architectures. Displayed outlays, areas and targets were not imported.`
-- `https://pib.gov.in/PressReleasePage.aspx?PRID=2258111&reg=3&lang=1 — direct fetch returned HTTP 403 on 2026-09-03; no cotton-mission status, mini-mission, outlay, period or target claim was imported from the failed request.`
-
-### SESSION 1 — FOUNDATION — Mission-mode definition and design test
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Mission-mode definition and design test explains how Mission-mode definition and Mission versus scheme label fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Mission-mode definition and design test separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Mission-mode definition and design test must be read through Mission-mode definition and Mission versus scheme label, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Mission-mode**
-- **definition**
-- **design**
-- **test**
-- **Mission**
-- **versus**
-
-**How to use them:** Define Mission-mode, definition, design; attach test to its named source, period and status; then qualify the answer with this limit: Do not treat every programme bearing Mission in its name as mission-mode policy.
-
-#### VISUAL FIRST
+### Core Session 01: Mission-mode policy: definition and boundary
 
 ```text
-MISSION-MODE DEFINITION AND DESIGN TEST
-01. Mission-mode definition
-    |
-    v
-02. Mission versus scheme label
-BOUNDARY -> Do not treat every programme bearing Mission in its name as mission-mode policy.
+DEFINED BOTTLENECK -> COORDINATED CHAIN -> TIME-BOUND OUTCOME -> REVIEW
 ```
+*Visual first:* The rail fixes the operating mechanism before the prose.
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+**Definition:** Mission-mode policy is a governance method that organises multiple instruments and institutions around a specified public problem, measurable outcomes, a timetable and feedback.
 
-#### CORE EXPLANATION
+**Answer line:** Mission mode is an outcome-and-coordination architecture, not a decorative word in a scheme title.
 
-An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
+**Keywords:** mission-mode; bottleneck; convergence; outcome; feedback
 
-#### NAMED EVIDENCE AND MECHANISM
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Mission mode is an outcome-and-coordination architecture, not a decorative word in a scheme title.
+- **Named evidence:** The 2025-26 Economic Survey describes Krishonnati Yojana as a science-based umbrella linking production, productivity and value realisation.
+- **Analysis:** A mission can align research, seed, extension, finance, infrastructure and markets that would otherwise optimise separate departmental outputs.
+- **Qualification:** A mission label alone does not prove a time-bound target, dedicated coordination, additional funding or measurable additionality.
 
-- An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-- A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
+**Evidence:** The 2025-26 Economic Survey describes Krishonnati Yojana as a science-based umbrella linking production, productivity and value realisation.
 
-#### EXAMINER CAUTION
+**UPSC trap:** Do not classify every programme containing the word Mission as a technology mission.
 
-- Do not treat every programme bearing Mission in its name as mission-mode policy.
+**Mains use:** Define the bottleneck and institutional chain before listing schemes.
 
-#### EXAM LINK
+**Recap:** Mission mode joins a public problem, coordinated delivery, measurable outcomes and review.
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Mission-mode definition -> Mission versus scheme label
-- **Qualified use:** Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Mission-mode definition and design test
-EXACT TERMS: Mission-mode | definition | design | test | Mission | versus
-MECHANISM / ARGUMENT: connect Mission-mode definition and Mission versus scheme label through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-UPSC TRAP / ANSWER-USE: Do not treat every programme bearing Mission in its name as mission-mode policy.
-ANSWER-GRABBING FORMULATION: Mission-mode definition and design test converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 2 — FOUNDATION — Mission name versus mission mechanism
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Mission name versus mission mechanism explains how Research-to-market chain fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Mission name versus mission mechanism separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Mission name versus mission mechanism must be read through Research-to-market chain, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Mission**
-- **name**
-- **versus**
-- **mechanism**
-- **Research-to-market**
-- **chain**
-
-**How to use them:** Define Mission, name, versus; attach mechanism to its named source, period and status; then qualify the answer with this limit: Do not reduce agricultural technology to machines, drones or laboratory research.
-
-#### VISUAL FIRST
+### Core Session 02: Mission, scheme and programme
 
 ```text
-MISSION NAME VERSUS MISSION MECHANISM
-01. Research-to-market chain
-BOUNDARY -> Do not reduce agricultural technology to machines, drones or laboratory research.
+MISSION = outcome architecture | SCHEME = financing/design instrument | PROGRAMME = activity bundle
 ```
+*Visual first:* The rail fixes the operating mechanism before the prose.
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+**Definition:** A mission supplies direction and convergence; a scheme specifies eligibility, finance and assistance; a programme is a broader set of activities and may contain several schemes.
 
-#### CORE EXPLANATION
+**Answer line:** Mission, scheme and programme are overlapping administrative forms, not synonyms.
 
-Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
+**Keywords:** mission; scheme; programme; instrument; architecture
 
-#### NAMED EVIDENCE AND MECHANISM
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Mission, scheme and programme are overlapping administrative forms, not synonyms.
+- **Named evidence:** NFSNM is a mission with seven components, while PM-RKVY is a cafeteria-style umbrella containing several scheme components.
+- **Analysis:** Separating the forms prevents a budget line, component guideline and national objective from being treated as the same legal or administrative object.
+- **Qualification:** Government usage is not perfectly uniform, so the operative guideline and dated budget document control the classification.
 
-- Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
+**Evidence:** NFSNM is a mission with seven components, while PM-RKVY is a cafeteria-style umbrella containing several scheme components.
 
-#### EXAMINER CAUTION
+**UPSC trap:** Do not infer current legal or budget status from an old name.
 
-- Do not reduce agricultural technology to machines, drones or laboratory research.
+**Mains use:** Use a three-part distinction: objective, instrument and activity bundle.
 
-#### EXAM LINK
+**Recap:** Ask what the label does: directs outcomes, finances assistance or groups activities.
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Research-to-market chain
-- **Qualified use:** Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Mission name versus mission mechanism
-EXACT TERMS: Mission | name | versus | mechanism | Research-to-market | chain
-MECHANISM / ARGUMENT: connect Research-to-market chain through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-UPSC TRAP / ANSWER-USE: Do not reduce agricultural technology to machines, drones or laboratory research.
-ANSWER-GRABBING FORMULATION: Mission name versus mission mechanism converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 3 — FOUNDATION — Research-to-market innovation chain
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Research-to-market innovation chain explains how Technology breadth fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Research-to-market innovation chain separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Research-to-market innovation chain must be read through Technology breadth, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Research-to-market**
-- **innovation**
-- **chain**
-- **Technology**
-- **breadth**
-- **Agricultural**
-
-**How to use them:** Define Research-to-market, innovation, chain; attach Technology to its named source, period and status; then qualify the answer with this limit: Do not equate distribution, demonstration, registration or availability with adoption.
-
-#### VISUAL FIRST
-
-```text
-RESEARCH-TO-MARKET INNOVATION CHAIN
-01. Technology breadth
-BOUNDARY -> Do not equate distribution, demonstration, registration or availability with adoption.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-
-#### EXAMINER CAUTION
-
-- Do not equate distribution, demonstration, registration or availability with adoption.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Technology breadth
-- **Qualified use:** Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Research-to-market innovation chain
-EXACT TERMS: Research-to-market | innovation | chain | Technology | breadth | Agricultural
-MECHANISM / ARGUMENT: connect Technology breadth through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-UPSC TRAP / ANSWER-USE: Do not equate distribution, demonstration, registration or availability with adoption.
-ANSWER-GRABBING FORMULATION: Research-to-market innovation chain converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 4 — CORE — Technology families beyond machinery
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Technology families beyond machinery explains how Adoption threshold fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Technology families beyond machinery separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Technology families beyond machinery must be read through Adoption threshold, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Technology**
-- **families**
-- **beyond**
-- **machinery**
-- **Adoption**
-- **threshold**
-
-**How to use them:** Define Technology, families, beyond; attach machinery to its named source, period and status; then qualify the answer with this limit: Do not merge historical and current mission names or mini-mission structures.
-
-#### VISUAL FIRST
-
-```text
-TECHNOLOGY FAMILIES BEYOND MACHINERY
-01. Adoption threshold
-BOUNDARY -> Do not merge historical and current mission names or mini-mission structures.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-
-#### EXAMINER CAUTION
-
-- Do not merge historical and current mission names or mini-mission structures.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Adoption threshold
-- **Qualified use:** Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Technology families beyond machinery
-EXACT TERMS: Technology | families | beyond | machinery | Adoption | threshold
-MECHANISM / ARGUMENT: connect Adoption threshold through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-UPSC TRAP / ANSWER-USE: Do not merge historical and current mission names or mini-mission structures.
-ANSWER-GRABBING FORMULATION: Technology families beyond machinery converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 5 — CORE — Farmer adoption threshold
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Farmer adoption threshold explains how Technology Mission on Oilseeds fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Farmer adoption threshold separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Farmer adoption threshold must be read through Technology Mission on Oilseeds, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Farmer**
-- **adoption**
-- **threshold**
-- **Technology**
-- **Mission**
-- **Oilseeds**
-
-**How to use them:** Define Farmer, adoption, threshold; attach Technology to its named source, period and status; then qualify the answer with this limit: Do not treat NMEO-OS and NMEO-OP as one crop system.
-
-#### VISUAL FIRST
-
-```text
-FARMER ADOPTION THRESHOLD
-01. Technology Mission on Oilseeds
-BOUNDARY -> Do not treat NMEO-OS and NMEO-OP as one crop system.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-
-#### EXAMINER CAUTION
-
-- Do not treat NMEO-OS and NMEO-OP as one crop system.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Technology Mission on Oilseeds
-- **Qualified use:** Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Farmer adoption threshold
-EXACT TERMS: Farmer | adoption | threshold | Technology | Mission | Oilseeds
-MECHANISM / ARGUMENT: connect Technology Mission on Oilseeds through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-UPSC TRAP / ANSWER-USE: Do not treat NMEO-OS and NMEO-OP as one crop system.
-ANSWER-GRABBING FORMULATION: Farmer adoption threshold converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 6 — CORE — Oilseed-mission chronology
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Oilseed-mission chronology explains how Oilseed and oil-palm missions and Horticulture mission evolution fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Oilseed-mission chronology separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Oilseed-mission chronology must be read through Oilseed and oil-palm missions and Horticulture mission evolution, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Oilseed-mission**
-- **chronology**
-- **Oilseed**
-- **oil-palm**
-- **missions**
-- **Horticulture**
-
-**How to use them:** Define Oilseed-mission, chronology, Oilseed; attach oil-palm to its named source, period and status; then qualify the answer with this limit: Do not convert an approved outlay or target into expenditure, reach or achievement.
-
-#### VISUAL FIRST
-
-```text
-OILSEED-MISSION CHRONOLOGY
-01. Oilseed and oil-palm missions
-    |
-    v
-02. Horticulture mission evolution
-BOUNDARY -> Do not convert an approved outlay or target into expenditure, reach or achievement.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-- The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-
-#### EXAMINER CAUTION
-
-- Do not convert an approved outlay or target into expenditure, reach or achievement.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Oilseed and oil-palm missions -> Horticulture mission evolution
-- **Qualified use:** Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Oilseed-mission chronology
-EXACT TERMS: Oilseed-mission | chronology | Oilseed | oil-palm | missions | Horticulture
-MECHANISM / ARGUMENT: connect Oilseed and oil-palm missions and Horticulture mission evolution through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-UPSC TRAP / ANSWER-USE: Do not convert an approved outlay or target into expenditure, reach or achievement.
-ANSWER-GRABBING FORMULATION: Oilseed-mission chronology converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 7 — CORE — Oilseed and oil-palm system boundary
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Oilseed and oil-palm system boundary explains how Food-security mission evolution fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Oilseed and oil-palm system boundary separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Oilseed and oil-palm system boundary must be read through Food-security mission evolution, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Oilseed**
-- **oil-palm**
-- **system**
-- **boundary**
-- **Food-security**
-- **mission**
-
-**How to use them:** Define Oilseed, oil-palm, system; attach boundary to its named source, period and status; then qualify the answer with this limit: Do not use area or production growth as proof of farmer net-income gain.
-
-#### VISUAL FIRST
-
-```text
-OILSEED AND OIL-PALM SYSTEM BOUNDARY
-01. Food-security mission evolution
-BOUNDARY -> Do not use area or production growth as proof of farmer net-income gain.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-
-#### EXAMINER CAUTION
-
-- Do not use area or production growth as proof of farmer net-income gain.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Food-security mission evolution
-- **Qualified use:** Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Oilseed and oil-palm system boundary
-EXACT TERMS: Oilseed | oil-palm | system | boundary | Food-security | mission
-MECHANISM / ARGUMENT: connect Food-security mission evolution through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-UPSC TRAP / ANSWER-USE: Do not use area or production growth as proof of farmer net-income gain.
-ANSWER-GRABBING FORMULATION: Oilseed and oil-palm system boundary converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 8 — CORE — NHM to MIDH evolution
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** NHM to MIDH evolution explains how Cotton mission boundary fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, NHM to MIDH evolution separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> NHM to MIDH evolution must be read through Cotton mission boundary, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **MIDH**
-- **evolution**
-- **Cotton**
-- **mission**
-- **boundary**
-- **historical**
-
-**How to use them:** Define MIDH, evolution, Cotton; attach mission to its named source, period and status; then qualify the answer with this limit: Do not ignore state, district, extension, repair and market complements.
-
-#### VISUAL FIRST
-
-```text
-NHM TO MIDH EVOLUTION
-01. Cotton mission boundary
-BOUNDARY -> Do not ignore state, district, extension, repair and market complements.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-
-#### EXAMINER CAUTION
-
-- Do not ignore state, district, extension, repair and market complements.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Cotton mission boundary
-- **Qualified use:** Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: NHM to MIDH evolution
-EXACT TERMS: MIDH | evolution | Cotton | mission | boundary | historical
-MECHANISM / ARGUMENT: connect Cotton mission boundary through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-UPSC TRAP / ANSWER-USE: Do not ignore state, district, extension, repair and market complements.
-ANSWER-GRABBING FORMULATION: NHM to MIDH evolution converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 9 — CORE — NFSM and nutrition architecture
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** NFSM and nutrition architecture explains how Extension-system functions fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, NFSM and nutrition architecture separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> NFSM and nutrition architecture must be read through Extension-system functions, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **NFSM**
-- **nutrition**
-- **architecture**
-- **Extension-system**
-- **functions**
-- **classic**
-
-**How to use them:** Define NFSM, nutrition, architecture; attach Extension-system to its named source, period and status; then qualify the answer with this limit: Do not attribute national change solely to a mission without a counterfactual.
-
-#### VISUAL FIRST
-
-```text
-NFSM AND NUTRITION ARCHITECTURE
-01. Extension-system functions
-BOUNDARY -> Do not attribute national change solely to a mission without a counterfactual.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-
-#### EXAMINER CAUTION
-
-- Do not attribute national change solely to a mission without a counterfactual.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Extension-system functions
-- **Qualified use:** Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: NFSM and nutrition architecture
-EXACT TERMS: NFSM | nutrition | architecture | Extension-system | functions | classic
-MECHANISM / ARGUMENT: connect Extension-system functions through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-UPSC TRAP / ANSWER-USE: Do not attribute national change solely to a mission without a counterfactual.
-ANSWER-GRABBING FORMULATION: NFSM and nutrition architecture converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 10 — CORE — Cotton mission and value-chain design
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Cotton mission and value-chain design explains how Sustainability missions fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Cotton mission and value-chain design separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Cotton mission and value-chain design must be read through Sustainability missions, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Cotton**
-- **mission**
-- **value-chain**
-- **design**
-- **Sustainability**
-- **missions**
-
-**How to use them:** Define Cotton, mission, value-chain; attach design to its named source, period and status; then qualify the answer with this limit: Do not scale a locally successful technology without ecological and inclusion tests.
-
-#### VISUAL FIRST
-
-```text
-COTTON MISSION AND VALUE-CHAIN DESIGN
-01. Sustainability missions
-BOUNDARY -> Do not scale a locally successful technology without ecological and inclusion tests.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-
-#### EXAMINER CAUTION
-
-- Do not scale a locally successful technology without ecological and inclusion tests.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Sustainability missions
-- **Qualified use:** Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Cotton mission and value-chain design
-EXACT TERMS: Cotton | mission | value-chain | design | Sustainability | missions
-MECHANISM / ARGUMENT: connect Sustainability missions through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-UPSC TRAP / ANSWER-USE: Do not scale a locally successful technology without ecological and inclusion tests.
-ANSWER-GRABBING FORMULATION: Cotton mission and value-chain design converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 11 — CORE — Extension-system functions
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Extension-system functions explains how Institutional federalism and Complementarity and weakest link fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Extension-system functions separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Extension-system functions must be read through Institutional federalism and Complementarity and weakest link, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Extension-system**
-- **functions**
-- **Institutional**
-- **federalism**
-- **Complementarity**
-- **weakest**
-
-**How to use them:** Define Extension-system, functions, Institutional; attach federalism to its named source, period and status; then qualify the answer with this limit: Do not treat every programme bearing Mission in its name as mission-mode policy.
-
-#### VISUAL FIRST
-
-```text
-EXTENSION-SYSTEM FUNCTIONS
-01. Institutional federalism
-    |
-    v
-02. Complementarity and weakest link
-BOUNDARY -> Do not treat every programme bearing Mission in its name as mission-mode policy.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-- Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-
-#### EXAMINER CAUTION
-
-- Do not treat every programme bearing Mission in its name as mission-mode policy.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Institutional federalism -> Complementarity and weakest link
-- **Qualified use:** Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Extension-system functions
-EXACT TERMS: Extension-system | functions | Institutional | federalism | Complementarity | weakest
-MECHANISM / ARGUMENT: connect Institutional federalism and Complementarity and weakest link through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-UPSC TRAP / ANSWER-USE: Do not treat every programme bearing Mission in its name as mission-mode policy.
-ANSWER-GRABBING FORMULATION: Extension-system functions converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 12 — CORE — Sustainability and location specificity
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Sustainability and location specificity explains how Output and outcome ladder fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Sustainability and location specificity separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Sustainability and location specificity must be read through Output and outcome ladder, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Sustainability**
-- **location**
-- **specificity**
-- **Output**
-- **outcome**
-- **ladder**
-
-**How to use them:** Define Sustainability, location, specificity; attach Output to its named source, period and status; then qualify the answer with this limit: Do not reduce agricultural technology to machines, drones or laboratory research.
-
-#### VISUAL FIRST
-
-```text
-SUSTAINABILITY AND LOCATION SPECIFICITY
-01. Output and outcome ladder
-BOUNDARY -> Do not reduce agricultural technology to machines, drones or laboratory research.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-
-#### EXAMINER CAUTION
-
-- Do not reduce agricultural technology to machines, drones or laboratory research.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Output and outcome ladder
-- **Qualified use:** Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Sustainability and location specificity
-EXACT TERMS: Sustainability | location | specificity | Output | outcome | ladder
-MECHANISM / ARGUMENT: connect Output and outcome ladder through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-UPSC TRAP / ANSWER-USE: Do not reduce agricultural technology to machines, drones or laboratory research.
-ANSWER-GRABBING FORMULATION: Sustainability and location specificity converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 13 — CORE SYNTHESIS — Federal delivery architecture
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Federal delivery architecture explains how National Horticulture Mission PYQ fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Federal delivery architecture separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Federal delivery architecture must be read through National Horticulture Mission PYQ, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Federal**
-- **delivery**
-- **architecture**
-- **National**
-- **Horticulture**
-- **Mission**
-
-**How to use them:** Define Federal, delivery, architecture; attach National to its named source, period and status; then qualify the answer with this limit: Do not equate distribution, demonstration, registration or availability with adoption.
-
-#### VISUAL FIRST
-
-```text
-FEDERAL DELIVERY ARCHITECTURE
-01. National Horticulture Mission PYQ
-BOUNDARY -> Do not equate distribution, demonstration, registration or availability with adoption.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-
-#### EXAMINER CAUTION
-
-- Do not equate distribution, demonstration, registration or availability with adoption.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-
-#### MINI RECAP
-
-- **Mechanism chain:** National Horticulture Mission PYQ
-- **Qualified use:** Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Federal delivery architecture
-EXACT TERMS: Federal | delivery | architecture | National | Horticulture | Mission
-MECHANISM / ARGUMENT: connect National Horticulture Mission PYQ through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Start with the bottleneck and the complete research-to-market chain, not a scheme list.
-UPSC TRAP / ANSWER-USE: Do not equate distribution, demonstration, registration or availability with adoption.
-ANSWER-GRABBING FORMULATION: Federal delivery architecture converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 14 — CORE SYNTHESIS — Weakest-link and cluster economics
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Weakest-link and cluster economics explains how Palm-oil distinctions and Cluster and smallholder inclusion fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Weakest-link and cluster economics separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Weakest-link and cluster economics must be read through Palm-oil distinctions and Cluster and smallholder inclusion, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Weakest-link**
-- **cluster**
-- **economics**
-- **Palm-oil**
-- **distinctions**
-- **smallholder**
-
-**How to use them:** Define Weakest-link, cluster, economics; attach Palm-oil to its named source, period and status; then qualify the answer with this limit: Do not merge historical and current mission names or mini-mission structures.
-
-#### VISUAL FIRST
-
-```text
-WEAKEST-LINK AND CLUSTER ECONOMICS
-01. Palm-oil distinctions
-    |
-    v
-02. Cluster and smallholder inclusion
-BOUNDARY -> Do not merge historical and current mission names or mini-mission structures.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-- Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-
-#### EXAMINER CAUTION
-
-- Do not merge historical and current mission names or mini-mission structures.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Palm-oil distinctions -> Cluster and smallholder inclusion
-- **Qualified use:** Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Weakest-link and cluster economics
-EXACT TERMS: Weakest-link | cluster | economics | Palm-oil | distinctions | smallholder
-MECHANISM / ARGUMENT: connect Palm-oil distinctions and Cluster and smallholder inclusion through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate approval, outlay, activity, reach, adoption, output and farmer-income outcome.
-UPSC TRAP / ANSWER-USE: Do not merge historical and current mission names or mini-mission structures.
-ANSWER-GRABBING FORMULATION: Weakest-link and cluster economics converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 15 — CORE SYNTHESIS — Evaluation, attribution and redesign
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Evaluation, attribution and redesign explains how Evaluation and attribution and Mission redesign rule fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Evaluation, attribution and redesign separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Evaluation, attribution and redesign must be read through Evaluation and attribution and Mission redesign rule, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Evaluation**
-- **attribution**
-- **redesign**
-- **Mission**
-- **rule**
-- **National**
-
-**How to use them:** Define Evaluation, attribution, redesign; attach Mission to its named source, period and status; then qualify the answer with this limit: Do not treat NMEO-OS and NMEO-OP as one crop system.
-
-#### VISUAL FIRST
-
-```text
-EVALUATION, ATTRIBUTION AND REDESIGN
-01. Evaluation and attribution
-    |
-    v
-02. Mission redesign rule
-BOUNDARY -> Do not treat NMEO-OS and NMEO-OP as one crop system.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-- Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-
-#### EXAMINER CAUTION
-
-- Do not treat NMEO-OS and NMEO-OP as one crop system.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Evaluation and attribution -> Mission redesign rule
-- **Qualified use:** Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Evaluation, attribution and redesign
-EXACT TERMS: Evaluation | attribution | redesign | Mission | rule | National
-MECHANISM / ARGUMENT: connect Evaluation and attribution and Mission redesign rule through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Judge a mission by additionality, inclusion, ecology and the credibility of its evaluation.
-UPSC TRAP / ANSWER-USE: Do not treat NMEO-OS and NMEO-OP as one crop system.
-ANSWER-GRABBING FORMULATION: Evaluation, attribution and redesign converts a precise economic distinction into a qualified conclusion
-```
-
-#### COMPLETE BASIC OWNER EVIDENCE BANK
-
-> **Subject:** Economy | **Tier:** Must-Do (exam-complete Core) | **GS Paper:** GS-III + Prelims.
-> **Official clause:** “Technology missions” within the GS-III agriculture syllabus.
-> **Core rule:** This file independently covers the meaning, evolution, major agricultural
-> mission families, institutions, outcomes, limitations, traps and PYQ answer architecture.
-> **Grounded in:** Department of Agriculture and Farmers Welfare; PIB; Economic Survey
-> 2025-26; Ramesh Singh; audited UPSC PYQs.
-> ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated/current policy hook.
-> *Optional depth companion: `../advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`.*
-
-##### 1. Scope boundary
-
-In this syllabus location, **technology missions primarily means agricultural mission-mode
-programmes**, not every national science mission such as space, quantum or semiconductor
-missions.
-
-- This file owns agricultural mission design, evolution, implementation and economic
-  effects.
-- Topic 27 owns digital-agriculture technologies and data governance.
-- Science and Technology owns how biotechnology, drones, AI, sensors and machinery work.
-- Topics 11-15 own cropping, procurement, markets, inputs and processing in detail.
-
-> 🔑 **UPSC rule:** The official clause is plural and generic. Preparation must therefore
-> cover both the **mission-mode policy model** and the major crop, capability,
-> sustainability and value-chain missions through which it operates.
-
-##### 2. Visual foundation
-
-```text
-IDENTIFIED NATIONAL BOTTLENECK
-low yield · import dependence · poor quality · climate risk · weak value chain
-                              |
-                              v
-RESEARCH AND TECHNOLOGY GENERATION
-variety · agronomy · machinery · plant protection · processing · digital tools
-                              |
-                              v
-MULTIPLICATION AND DELIVERY
-seed/planting material · demonstrations · extension · credit · custom hiring
-                              |
-                              v
-ADOPTION COMPLEMENTS
-water · input access · skills · institutions · FPOs · risk cover
-                              |
-                              v
-POST-HARVEST AND MARKET SYSTEM
-aggregation · grading · storage · processing · procurement · market linkage
-                              |
-                              v
-MEASURABLE OUTCOME
-yield · quality · income · resilience · import reduction · nutrition
-                              |
-                              v
-FEEDBACK AND REDESIGN
-district data · farmer experience · evaluation · ecological/resource effects
-```
-
-**Core proposition:** A technology mission succeeds only when it connects laboratory,
-seed/material multiplication, extension, farm adoption, infrastructure, markets and feedback.
-A demonstration or subsidy alone is not a complete mission.
-
-##### 3. Essential definitions
-
-| Term | Exam-ready meaning |
-|---|---|
-| ✅ **Technology mission** | Focused, coordinated mission-mode intervention using technology and complementary institutions to solve a defined production, quality, sustainability or value-chain problem. |
-| ✅ **Mission-mode policy** | Governance approach with a specified problem, outcome objectives, dedicated coordination, convergence, monitoring and a defined implementation architecture. |
-| ✅ **Technology generation** | Research that creates a variety, process, machine, biological input, advisory or post-harvest technique. |
-| ✅ **Technology transfer** | Adaptation, demonstration, extension, training and delivery that move usable knowledge from research institutions to adopters. |
-| ✅ **Diffusion** | Spread of a proven technology across farmers, regions and time. |
-| ✅ **Adoption** | Farmer or enterprise begins and continues using the technology under real production conditions. |
-| ✅ **Mission convergence** | Coordination of research, extension, inputs, infrastructure, finance, market and state-level schemes around the same outcome. |
-| ✅ **Value-chain mission** | Mission covering production plus aggregation, quality, processing, logistics and marketing. |
-
-###### Mission versus ordinary scheme
-
-| Mission-mode ideal | Routine fragmented scheme risk |
-|---|---|
-| Problem/outcome defined | Expenditure/activity defined |
-| Multiple links coordinated | One department or input operates alone |
-| Time-bound milestones and review | Indefinite continuation |
-| Research-to-market chain | Asset/input distribution only |
-| Monitoring and feedback | Beneficiary or spending count only |
-
-> ⚠️ A programme does not acquire these qualities merely because “Mission” appears in its
-> title. Examine its actual design.
-
-##### 4. Why agricultural technology missions are needed
-
-1. **Fragmented innovation chain:** research, seed multiplication, extension and markets are
-   handled by different institutions.
-2. **Complementarity:** a new variety fails without water, agronomy, pest management,
-   finance or buyers.
-3. **Scale and spillovers:** research, disease surveillance and standards generate public
-   benefits beyond one farm.
-4. **Import dependence:** oilseeds, pulses or quality fibre may require coordinated
-   productivity and value-chain action.
-5. **Regional adaptation:** technology must be matched to agro-climate and local resources.
-6. **Smallholder transaction costs:** farmers may not individually access machinery,
-   quality material, testing or markets.
-7. **Long gestation and risk:** perennial crops, seed systems and new practices require
-   credible multi-year support.
-8. **Post-harvest bottlenecks:** higher output without storage, processing and demand can
-   depress prices.
-
-##### 5. Technology is broader than a machine
-
-| Technology family | Agricultural examples |
-|---|---|
-| **Biological** | Improved and climate-resilient varieties, quality seed, clean planting material, tissue culture |
-| **Agronomic/process** | Integrated nutrient/pest management, crop geometry, conservation agriculture, protected cultivation |
-| **Mechanical** | Seed drills, harvesters, planters, custom-hiring equipment |
-| **Water/resource** | Micro-irrigation, water harvesting, soil testing and advisories |
-| **Digital/information** | Weather advice, crop surveys, decision support, traceability and market information |
-| **Post-harvest** | Grading, ginning, cold chain, storage, processing and quality testing |
-| **Institutional** | FPO aggregation, seed villages, clusters, extension platforms and procurement arrangements |
-
-> 🔑 **Trap:** Technology missions are not restricted to frontier gadgets. A seed
-> multiplication system, extension method, quality protocol or market institution can be as
-> decisive as laboratory innovation.
-
-##### 6. Historical evolution and major mission families
-
-###### 6.1 Safe chronology
-
-```text
-1986
-Technology Mission on Oilseeds
-        |
-        v
-expanded/restructured across oilseeds, pulses, maize and oil palm
-        |
-        v
-ISOPOM -> NMOOP -> NFSM-linked components/current edible-oil missions
-
-2000
-Technology Mission on Cotton
-        |
-        v
-research -> extension -> market infrastructure -> ginning/pressing
-        |
-        v
-current Mission for Cotton Productivity (2026-27 onward)
-
-2005-06                 2007-08
-National Horticulture   National Food Security Mission
-Mission                 |
-        |                v
-        v                NFSNM from FY25
-MIDH from 2014-15
-```
-
-Scheme names and umbrellas change. UPSC preparation must retain:
-
-1. the original problem;
-2. the research-to-market mechanism;
-3. the predecessor-successor relationship;
-4. current name/status where officially established.
-
-###### 6.2 Commodity and food-security missions
-
-| Mission/evolution | Core problem | Main mission logic | Key caution |
-|---|---|---|---|
-| ✅ **Technology Mission on Oilseeds (TMO), 1986** and later successor arrangements | Low oilseed productivity and edible-oil dependence | Research, quality seed, demonstrations, inputs, processing and market support | Early gains can reverse if productivity, prices and competing crops change |
-| ✅ **TMOP/TMOPM and ISOPOM** — historical restructuring | Broader oilseed, pulse, maize and oil-palm needs | Integration and state-flexible crop interventions | Historical names must not be presented as current umbrella schemes |
-| ✅ **National Mission on Oilseeds and Oil Palm (NMOOP), 2014-15** | Oilseed/oil-palm productivity and supply | Mini-mission architecture for oilseeds, oil palm and tree-borne oilseeds | Components and umbrellas were subsequently reorganised |
-| ✅ **NMEO-OP** | Domestic oil-palm supply | Planting material, area expansion, intercropping/support, irrigation, processing and price-related assurance | Perennial gestation, ecological suitability, water and nearby processing matter |
-| ✅ **NMEO-OS** | Domestic oilseed production and edible-oil security | Quality seed, clusters, demonstrations, good practices, processing and market/procurement linkage | Area growth without yield and profitability is insufficient |
-| ✅ **NFSM, launched 2007-08; renamed NFSNM in FY25** | Foodgrain production/productivity and later nutrition emphasis | Cluster demonstrations, improved varieties, integrated crop management, water-saving devices and capacity building | National output can rise while regional yield gaps or farmer margins persist |
-| 📰 **Mission for Atmanirbharta in Pulses, approved 2025** | Pulse import dependence and unstable domestic supply | Research/seed, productivity, area, procurement and value-chain convergence | Procurement promise, crop competition and rainfed risk must align |
-
-###### Palm-oil Prelims anchor
-
-- ✅ The commonly cultivated African oil palm, *Elaeis guineensis*, originated in tropical
-  West/Central Africa, not South-East Asia; South-East Asia later became a major production
-  region.
-- ✅ Palm oil is obtained mainly from the fruit’s fleshy mesocarp, while palm-kernel oil is
-  obtained from the kernel.
-- ✅ Palm oil and its derivatives are used in foods and non-food products and can serve as a
-  biodiesel feedstock.
-- ⚠️ High oil yield per hectare does not remove concerns about ecological siting, perennial
-  gestation, water, processing proximity or land-use change.
-
-###### 6.3 Horticulture missions
-
-| Mission | Evolution and role |
-|---|---|
-| ✅ **National Horticulture Mission (NHM), 2005-06** | Promoted holistic horticulture development through regionally differentiated strategies, planting material, productivity, technology, post-harvest management, processing and marketing. |
-| ✅ **Mission for Integrated Development of Horticulture (MIDH), from 2014-15** | Umbrella integrating NHM with other horticulture-related components/agencies, supporting production-to-market horticulture development. |
-| ✅ **HMNEH** | Horticulture mission support adapted to North-Eastern and Himalayan conditions; now situated within the MIDH architecture. |
-| ✅ **National Bamboo Mission** | Bamboo planting material, cultivation and value-chain development; current administrative placement and guidelines should be read by date. |
-
-**Why horticulture needs mission mode**
-
-- diverse crops and agro-climates;
-- perishable output;
-- clean/quality planting material;
-- protected cultivation, pollination and precision practices;
-- cold chain, pack houses, processing and standards;
-- volatile prices and strong quality differentiation.
-
-###### 6.4 Cotton and jute technology missions
-
-###### Historical Technology Mission on Cotton
-
-The Technology Mission on Cotton, launched in 2000, used four linked mini-missions:
-
-1. research and technology generation;
-2. transfer of technology and farm-level development;
-3. market-infrastructure improvement;
-4. modernisation of ginning and pressing.
-
-This structure is an ideal UPSC example because it joined **farm productivity, fibre
-quality, markets and processing** rather than treating seed alone as the mission.
-
-###### 📰 Mission for Cotton Productivity
-
-As of August 2026, the Cabinet-approved mission for 2026-27 to 2030-31 uses three distinct
-mini-missions:
-
-- **Kapas Kranti:** productivity and sustainability;
-- **Kapas Kanti:** quality enhancement;
-- **Navya Fibre:** allied natural fibres and diversification.
-
-DARE is the nodal implementation department, with the Ministry of Textiles as a partner,
-reflecting the farm-to-fibre value-chain boundary.
-
-> 🔑 Do not mix the **four historical TMC mini-missions** with the **three current successor
-> mini-missions**.
-
-###### Historical Jute Technology Mission
-
-The Jute Technology Mission linked:
-
-- agricultural research;
-- technology transfer and post-harvest improvement;
-- raw-jute market linkage;
-- industry modernisation, skills and market promotion.
-
-It illustrates how a crop mission may cross the Agriculture-Textiles boundary.
-
-###### 6.5 Horizontal technology-diffusion missions
-
-The National Mission on Agricultural Extension and Technology (NMAET) was organised through
-four sub-missions:
-
-| Sub-mission | Function |
-|---|---|
-| ✅ **Agricultural Extension (SMAE/SAME usage appears in official documents)** | Extension institutions, farmer training, advisories and technology dissemination |
-| ✅ **Seeds and Planting Material (SMSP)** | Quality seed/planting-material production, processing, certification and availability |
-| ✅ **Agricultural Mechanisation (SMAM)** | Machinery access, demonstrations, custom hiring and support for small/marginal farmers |
-| ✅ **Plant Protection and Plant Quarantine (SMPP/SMPPQ usage appears across documents)** | Integrated pest management, plant protection and quarantine capacity |
-
-> **Vintage discipline:** Umbrella structures are periodically rationalised. Remember the
-> four-function architecture; verify the operative administrative umbrella for a current-
-> affairs question.
-
-###### 6.6 Sustainability and natural-resource missions
-
-- ✅ **National Mission for Sustainable Agriculture (NMSA)** is an agriculture mission
-  under the National Action Plan on Climate Change.
-- its mission logic includes climate resilience, rainfed-area development, integrated
-  farming, resource conservation and location-specific sustainable practices.
-- ✅ Rainfed Area Development emphasises integrated farming systems rather than a single-
-  crop input package.
-- ✅ **National Mission on Natural Farming (NMNF)** was approved as a standalone mission in
-  2024 to develop location-specific natural-farming systems, farmer knowledge, bio-input
-  capacity, standards/certification and market support.
-
-###### 6.7 Allied/value-chain and cross-cutting missions
-
-- ✅ **National Beekeeping and Honey Mission:** scientific beekeeping, pollination, training,
-  processing, testing, traceability, research and markets.
-- ✅ **Digital Agriculture Mission:** digital public infrastructure, crop estimation and
-  digital tools; detailed ownership remains with Topic 27.
-- 📰 **National Mission on High-Yielding Seeds:** announced in Union Budget 2025-26 to
-  strengthen research, climate-resilient/high-yielding seed development and propagation.
-
-##### 7. Current architecture snapshot — dated, not timeless
-
-The Economic Survey 2025-26 describes **Krishonnati Yojana** as an umbrella containing eight
-schemes at that date:
-
-1. MIDH;
-2. National Food Security and Nutrition Mission;
-3. Sub-Mission on Agriculture Extension;
-4. Integrated Scheme on Agricultural Marketing;
-5. Digital Agriculture Mission;
-6. NMEO-OS;
-7. NMEO-OP;
-8. Mission Organic Value Chain Development for North Eastern Region.
-
-> 🔑 **Prelims caution:** Mission names and umbrella placement can change through
-> rationalisation. Use the date in the question; do not merge historical and current lists.
-
-##### 8. Complete institutional chain
-
-| Level/institution | Mission role |
-|---|---|
-| **Department of Agriculture and Farmers Welfare** | Policy, guidelines, funding architecture and national monitoring |
-| **DARE/ICAR and institutes** | Research, varieties, production technology and technical validation |
-| **State agriculture/horticulture departments and State missions** | Agro-climatic planning, implementation and convergence |
-| **State Agricultural Universities, KVKs and ATMA/extension institutions** | Trials, demonstrations, training and local adaptation |
-| **Seed/planting-material institutions and nurseries** | Multiplication, quality assurance and timely availability |
-| **FPOs, co-operatives and custom-hiring centres** | Aggregation, shared machinery, input/output services and market linkage |
-| **Commodity/sector agencies** | Crop-specific infrastructure, quality, procurement, processing or promotion |
-| **Private firms and start-ups** | Inputs, machinery, processing, digital services and market channels |
-| **Banks, insurers and infrastructure agencies** | Adoption finance, risk transfer and complementary assets |
-| **Farmers, tenants and labourers** | Adoption, local knowledge, feedback and distributional outcomes |
-
-###### Federalism
-
-- agriculture and local implementation depend heavily on states;
-- central guidelines and funding cannot substitute for district planning and extension;
-- uniform physical targets can misfit agro-climate, water and local markets;
-- state flexibility needs transparent outcomes and safeguards against fund diversion.
-
-##### 9. How a technology reaches the farmer
-
-```text
-Research result
-   -> adaptive trial
-   -> quality standard/certification
-   -> multiplication or manufacturing
-   -> demonstration
-   -> trusted extension
-   -> affordable finance/service
-   -> complementary water/input/market
-   -> repeated profitable use
-   -> peer diffusion
-```
-
-###### Adoption test
-
-A farmer adopts when:
-
-```text
-Expected additional return
-- purchase/finance cost
-- learning and transition cost
-- failure and market risk
-> return from the existing practice
-```
-
-Adoption therefore depends on:
-
-- suitability to soil, water, crop and farm size;
-- timely availability and repair/service;
-- tenure security;
-- credit and insurance;
-- trusted local demonstration;
-- labour implications, including women’s workload;
-- market demand and price;
-- interoperability and freedom from vendor lock-in.
-
-##### 10. Benefits of mission-mode intervention
-
-| Dimension | Potential contribution |
-|---|---|
-| Production | Area expansion, yield improvement and reduced crop loss |
-| Productivity | Better seed, agronomy, machinery and water/input efficiency |
-| Quality | Fibre, planting material, residue, grading and processing improvement |
-| Income | Lower cost, greater output, diversification and value realisation |
-| Food/nutrition security | More staples, pulses, oilseeds, horticulture and nutri-cereals |
-| Import dependence | Domestic edible oils, pulses, fibre or seed capability |
-| Risk/resilience | Climate-resilient varieties, integrated farming and surveillance |
-| Employment | Nurseries, machinery services, processing, logistics and extension |
-| Regional development | Crop/cluster strategies adapted to agro-climate |
-| Innovation system | Links research institutions, states, farmers and enterprises |
-
-##### 11. Why missions underperform
-
-###### 11.1 Technology and extension failures
-
-- laboratory result is not adapted to local conditions;
-- insufficient breeder/foundation/certified seed or clean planting material;
-- demonstration is treated as diffusion;
-- extension is thin, generic or input-seller dominated;
-- machinery is unsuitable to small plots or lacks repair/service.
-
-###### 11.2 Economic failures
-
-- output price or buyer demand does not reward higher production/quality;
-- credit and insurance do not cover transition risk;
-- post-harvest infrastructure lags production;
-- subsidised asset is supplied without utilisation demand;
-- import/trade policy sends a conflicting price signal.
-
-###### 11.3 Governance failures
-
-- overlapping missions and repeated renaming obscure accountability;
-- ministries, states and research bodies work in silos;
-- spending, kit distribution and area covered substitute for outcome measurement;
-- targets encourage inflated reporting or unsuitable area expansion;
-- delayed releases disrupt seasonal implementation;
-- monitoring lacks farmer feedback and counterfactual evaluation.
-
-###### 11.4 Distributional failures
-
-- landowners and larger irrigated farmers adopt first;
-- tenants, sharecroppers, tribal/rainfed farmers and women cultivators are missed;
-- digital/document requirements create exclusion;
-- mechanisation can alter labour demand without reskilling or alternative work;
-- clusters can favour already connected regions.
-
-###### 11.5 Ecological failures
-
-- yield target ignores water budget, soil or pesticide load;
-- area expansion displaces food crops, forests or biodiversity;
-- one successful variety increases genetic uniformity;
-- efficient technology triggers expansion and greater total resource use;
-- perennial or processing-intensive crop is promoted outside suitable zones.
-
-##### 12. Evaluation framework
-
-| Level | What to measure | Common false claim |
-|---|---|---|
-| **Input** | Funds, staff, seed, machines, labs | Allocation equals achievement |
-| **Activity** | Demonstrations, training, distribution | Attendance equals adoption |
-| **Output** | Area reached, material supplied, infrastructure created | Asset exists, therefore works |
-| **Outcome** | Yield, quality, cost, adoption continuity, price realisation | Output growth was caused only by mission |
-| **Impact** | Income, nutrition, imports, resilience, ecology and equity | National average proves every region benefited |
-
-###### Eight-question mission audit
-
-1. What exact bottleneck is being solved?
-2. What technology or institutional change addresses it?
-3. What complements are necessary?
-4. Who can and cannot adopt?
-5. Is the output market/value chain ready?
-6. What resource and ecological effects follow?
-7. What outcome and counterfactual are measured?
-8. What happens after mission funding or subsidy changes?
-
-##### 13. National Horticulture Mission — complete 2018 PYQ closure
-
-###### Exact demand
-
-> Assess the role of the National Horticulture Mission in boosting the production,
-> productivity and income of horticulture farms. How far has it succeeded in increasing the
-> income of farmers?
-
-###### Contribution chain
-
-```text
-region-specific planning
- -> quality planting material and new gardens
- -> rejuvenation/protected cultivation/INM-IPM
- -> higher production and quality
- -> post-harvest, cold-chain and market support
- -> lower loss + higher value realisation
- -> potential farm-income gain
-```
-
-###### Balanced assessment
-
-**How it helped**
-
-- promoted regionally differentiated horticulture;
-- expanded access to planting material and production technology;
-- supported productivity, protected cultivation and rejuvenation;
-- encouraged post-harvest management, processing and market infrastructure;
-- enabled diversification toward high-value crops and rural employment;
-- created the foundation later integrated into MIDH.
-
-**Why income impact can lag production**
-
-- price collapses during gluts;
-- perishability and weak cold-chain/processing linkage;
-- small farmers lack aggregation, finance and bargaining;
-- uneven regional and crop coverage;
-- planting-material quality and extension gaps;
-- higher production may raise gross revenue but not net income after cost and risk;
-- water use, climate shocks and market standards affect sustainability.
-
-**Way forward**
-
-- clean and accredited planting material;
-- agro-climatic cluster planning with water budgets;
-- FPO aggregation and professional market linkage;
-- pack houses, pre-cooling, cold logistics, processing and traceability;
-- price/market intelligence and risk instruments;
-- evaluate net income, loss reduction, quality and smallholder inclusion—not area alone.
-
-###### 250-word structure
-
-**Introduction:** Define NHM as a production-to-market horticulture mission, now within MIDH.
-
-**Body 1:** Planting material, area/productivity, technology, protected cultivation,
-post-harvest and skills.
-
-**Body 2:** Production/diversification gains versus income constraints from perishability,
-price volatility, fragmented holdings, infrastructure and unequal access.
-
-**Way forward:** cluster + FPO + clean plant + water + cold chain + processing + market.
-
-**Conclusion:** NHM strengthened horticultural capability, but farm income rises only when
-productivity is converted into stable net value realisation.
-
-##### 14. Prelims facts and traps
-
-- ✅ Technology Mission on Oilseeds began in 1986; its successor architecture changed over
-  time.
-- ✅ NHM began in 2005-06 and is now within MIDH.
-- ✅ NFSM began in 2007-08 and was renamed NFSNM in FY25.
-- ✅ NMEO-OS and NMEO-OP are distinct missions.
-- ✅ Oil palm is a perennial crop; planting material, gestation, ecological suitability and
-  nearby processing are central.
-- ✅ African oil palm originated in tropical Africa; cultivation prominence in South-East
-  Asia must not be confused with botanical origin.
-- ✅ Palm oil from the fruit mesocarp and palm-kernel oil from the kernel are distinct.
-- ✅ NMAET’s classic architecture covered extension, seeds/planting material,
-  mechanisation and plant protection/quarantine.
-- ✅ NMSA is linked to the National Action Plan on Climate Change.
-- ✅ Rainfed Area Development promotes integrated farming systems.
-- ✅ Digital Agriculture Mission is an agricultural mission, but its digital architecture is
-  owned in Topic 27.
-- ✅ Historical TMC had four mini-missions; the current Mission for Cotton Productivity has
-  three differently named mini-missions.
-- ❌ Every programme named Mission is necessarily a technology mission.  
-  → Name and policy mechanism are different.
-- ❌ Technology mission means only R&D.  
-  → Transfer, adoption, infrastructure and markets are integral.
-- ❌ Technology transfer means publishing a new variety.  
-  → Multiplication, demonstration, extension, finance and service matter.
-- ❌ Higher production proves higher farmer income.  
-  → Net cost, price, quality, loss and market power determine income.
-- ❌ Area expansion proves productivity improvement.  
-  → Yield is output per unit area; the two must be separated.
-- ❌ NHM and MIDH are interchangeable historical names.  
-  → NHM preceded and became a component of the wider MIDH umbrella.
-- ❌ Current umbrella lists can be applied to all years.  
-  → Scheme rationalisation requires vintage discipline.
-
-##### 15. Mains answer engine
-
-###### Generic question
-
-**“Evaluate the role of technology missions in Indian agriculture.”**
-
-**Introduction**
-
-Technology missions are focused research-to-market interventions designed to solve a
-defined agricultural production, quality, sustainability or value-chain bottleneck.
-
-**Contributions**
-
-- converted research into seed, agronomy, machinery and extension;
-- improved productivity, quality and diversification;
-- addressed edible-oil, pulse and food-security objectives;
-- supported horticulture, cotton, sustainability and digital transformation;
-- coordinated states, ICAR, extension, infrastructure and markets.
-
-**Limitations**
-
-- mission proliferation and fragmented accountability;
-- weak extension, multiplication, repair and last-mile services;
-- output targets without price, processing or ecological alignment;
-- unequal smallholder/tenant/women access;
-- activity counts rather than income, resilience and impact evaluation.
-
-**Reforms**
-
-- one theory of change from bottleneck to impact;
-- agro-climatic district planning;
-- FPO/custom-hiring and inclusive extension;
-- production-to-market convergence;
-- outcome, equity and resource indicators;
-- independent evaluation and redesign/sunset rules.
-
-**Conclusion**
-
-Mission mode should mean coordinated capability-building, not renamed subsidy distribution.
-
-###### Answer framework: **M-I-S-S-I-O-N**
-
-```text
-M  Market/national problem
-I  Innovation and institutions
-S  Seed/skill/service diffusion
-S  State and stakeholder convergence
-I  Inclusion and income incidence
-O  Outcome and ecological measurement
-N  Next-generation redesign
-```
-
-##### 16. Revision notes
-
-- Syllabus ownership is agricultural mission-mode policy.
-- Technology = biological + mechanical + process + digital + post-harvest + institutional.
-- Full chain: research -> multiplication -> extension -> adoption -> market -> feedback.
-- TMO 1986 is the classic historical agricultural technology mission.
-- Preserve predecessor-successor chronology; do not call old umbrellas current.
-- NHM 2005-06 is now within MIDH.
-- NFSM 2007-08 became NFSNM in FY25.
-- NMEO-OS and NMEO-OP address different oilseed/oil-palm systems.
-- Historical TMC: four mini-missions; 2026 cotton mission: three new mini-missions.
-- NMAET’s four functions: extension, seed, mechanisation, protection/quarantine.
-- NMSA connects agriculture with climate resilience.
-- Production and farm income are not synonyms.
-- Mission assessment must include net income, equity, imports, ecology and resilience.
-- Current scheme umbrella questions require date/vintage discipline.
-
-##### 17. Sources and study links
-
-**First-party/current sources**
-
-- [Department of Agriculture and Farmers Welfare — Oilseeds](https://agriwelfare.gov.in/en/Oilseeds)
-- [NMOOP operational guidelines](https://agriwelfare.gov.in/Documents/NMOOP20114.pdf)
-- [NMEO-OS operational guidelines](https://agriwelfare.gov.in/Documents/NMEO_OS_GUIEDELINES_En_030625.pdf)
-- [MIDH operational guidelines](https://agriwelfare.gov.in/Documents/midh_Guidelines.pdf)
-- [NMSA operational guidelines](https://agriwelfare.gov.in/sites/default/files/NMSA_Guidelines_English_1.pdf)
-- [Digital Agriculture Mission official release](https://agriwelfare.gov.in/Documents/pib_%20DigitalAgricultureMission.pdf)
-- [National Beekeeping and Honey Mission](https://pib.gov.in/Pressreleaseshare.aspx?PRID=1697113)
-- [Jute Technology Mission](https://pib.gov.in/newsite/PrintRelease.aspx?relid=83734)
-- [Mission for Cotton Productivity — current official release](https://pib.gov.in/PressReleasePage.aspx?PRID=2258111&reg=3&lang=1)
-
-**Knowledge-base links**
-
-- ✅ `11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md`.
-- ✅ `13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md`.
-- ✅ `14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`.
-- ✅ `15_Food-Processing-Cold-Chains-and-Value-Addition.md`.
-- ✅ `27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md`.
-- ✅ `28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md`.
-- ✅ `30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md` — livestock,
-  dairy, poultry and fisheries missions/application.
-- ✅ `../advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`.
-
-##### 18. Dated anchor — output versus outcome for a named mission (verify vintage before reuse)
-
-- 📰 **NFSM/oilseed-mission output anchor:** In a June 2025 presentation to the Parliamentary
-  Standing Committee on Agriculture, the Agriculture Ministry stated that India's **oilseeds
-  production rose by about 55% between 2014-15 and 2024-25** (third advance estimate for
-  2024-25: **426.09 lakh tonnes**), against a 13% rise in the preceding decade (2004-05 to
-  2014-15); **pulses production rose by about 47%** over the same 2014-15 to 2024-25 window,
-  against 31% in the preceding decade. The ministry attributed this to mission-linked
-  measures under NFSM/NMOOP/NMEO-type interventions (§6.2) among other factors.
-- ⚠️ **Output-versus-outcome caution (mandatory framing):** This is a **production/output**
-  figure — more tonnes grown — not an **outcome** figure for farmer net income, price
-  realisation or import-dependence reduction. The same 2025 presentation noted edible-oil
-  imports still met about **56% of domestic demand in 2023-24** (15.66 million tonnes) and
-  cost about Rs 80,000 crore annually — i.e., rising output has not yet converted into import
-  self-sufficiency. An answer that cites the 47%/55% figure as proof of "mission success" on
-  farmer income or import security, without this qualifier, is answering an unasked question.
-- ⚠️ Treat both percentages as **government-reported to Parliament**, not as an independently
-  audited productivity study; the multi-decade comparison also mixes years of favourable and
-  unfavourable weather, price and area-expansion effects, so mission-mode policy is a
-  contributing cause, not the sole explanation.
-
-##### 19. Evidence bank: claim → named evidence → significance → limitation/status-caution
-
-**19.1 Claim: A technology mission's value lies in connecting research to market, not in one
-research breakthrough.**
-- **Named evidence:** The historical Technology Mission on Cotton (2000) used four linked
-  mini-missions — research, technology transfer/farm development, market infrastructure and
-  ginning/pressing modernisation (§6.4).
-- **Significance:** Supplies the textbook example for "what makes mission-mode policy
-  different from a routine scheme" (§3 mission-versus-scheme table).
-- **Limitation/status-caution:** The historical four-mini-mission structure must not be
-  merged with the current three-mini-mission Mission for Cotton Productivity (2026-27 to
-  2030-31) — vintage discipline is itself an examinable trap (§6.4, §14).
-
-**19.2 Claim: Mission renaming and restructuring is normal, not evidence of failure or
-success by itself.**
-- **Named evidence:** TMO (1986) → ISOPOM → NMOOP → NMEO-OS/NMEO-OP chronology (§6.1-6.2);
-  NHM (2005-06) folded into MIDH (2014-15) (§6.3); NFSM (2007-08) renamed NFSNM in FY25.
-- **Significance:** Prevents the common Prelims/Mains error of citing an obsolete umbrella
-  name as current, and supplies ready predecessor-successor chains for any mission question.
-- **Limitation/status-caution:** A name change alone proves nothing about performance; the
-  underlying research-to-market mechanism, not the label, must be evaluated (§3).
-
-**19.3 Claim: Output growth (the anchor at §18) demonstrates mission activity but not
-completed mission success.**
-- **Named evidence:** The 47%/55% pulses/oilseeds production-growth figures (§18) alongside
-  continuing edible-oil import dependence of about 56% (2023-24).
-- **Significance:** Gives a live, dated, quotable evidence-outcome pair for the evaluation
-  framework at §12 (input/activity/output/outcome/impact).
-- **Limitation/status-caution:** Without net-income, price-realisation or import-substitution
-  data, the production figure alone cannot support a "mission succeeded" verdict.
-
-**19.4 Claim: National Horticulture Mission raised production capability faster than farmer
-income, because income depends on post-production factors the mission only partly addressed.**
-- **Named evidence:** NHM's production-side gains (planting material, protected cultivation,
-  post-harvest support) versus income lag from perishability, price volatility and weak
-  aggregation (§13, 2018 PYQ closure).
-- **Significance:** Directly closes the 2018 GS-III question and is reusable evidence for any
-  "production versus income" mission-evaluation demand.
-- **Limitation/status-caution:** The 2018 answer must retain the "how far has it succeeded"
-  qualifier in the original question — a purely positive account fails the directive.
-
-**19.5 Claim: NMAET shows technology diffusion requires four distinct, coordinated
-functions, not one department acting alone.**
-- **Named evidence:** Extension (SMAE), seeds/planting material (SMSP), mechanisation (SMAM)
-  and plant protection/quarantine (SMPP/SMPPQ) sub-missions (§6.5).
-- **Significance:** Supplies the structural evidence for "technology transfer means more than
-  publishing a variety" (§14 trap) in any mission-mode evaluation.
-- **Limitation/status-caution:** Umbrella names are periodically rationalised; verify the
-  current administrative placement for a live current-affairs question (§6.5 vintage note).
-
-**19.6 Claim: The Krishonnati Yojana umbrella snapshot is a dated administrative fact, not a
-timeless list.**
-- **Named evidence:** Economic Survey 2025-26 lists eight schemes under Krishonnati Yojana at
-  that date, including MIDH, NFSNM, Digital Agriculture Mission and NMEO-OS/OP (§7).
-- **Significance:** Gives an explicitly dated, citable "current architecture" fact for any
-  "present government approach" question.
-- **Limitation/status-caution:** This is a snapshot valid as of the cited Survey; scheme
-  rationalisation can change the umbrella list in a later year.
-
-##### 20. Core limitations and trade-offs
-
-| # | Trade-off | Why it is genuinely double-edged |
-|---|---|---|
-| 1 | **Output growth versus income/outcome proof** | Production growth (§18-19.3) is easy to measure and report, but net farmer income depends on price, cost and market power that the same mission rarely tracks — output data can substitute for outcome proof in public messaging. |
-| 2 | **National-average success versus regional/distributional reality** | A mission can show a strong all-India growth number while yield gaps, rainfed disadvantage and tenant/tribal exclusion persist regionally — aggregate success can mask uneven reach. |
-| 3 | **Coordination ideal versus institutional silos** | Mission-mode design demands convergence across ICAR, states, extension and markets, but ministries/departments/states often work in silos in practice, undermining the very feature that defines "mission mode." |
-| 4 | **Rebranding versus reform** | Renaming a scheme (TMO→NMOOP→NMEO-OS/OP; NHM→MIDH) can signal genuine redesign or merely repackage the same fragmented delivery — the two are observationally similar without evaluation data. |
-| 5 | **Target-based monitoring versus real diffusion** | Area/beneficiary/kit-distribution targets are administratively convenient to track but reward activity counts over adoption continuity, price realisation or resilience — the metric that is easiest to report is not the metric that matters most. |
-| 6 | **Yield intensification versus ecological/resource limits** | Missions that raise per-hectare output (seed, water, nutrient-responsive technology) can simultaneously raise water/pesticide load or displace food crops/forests if resource governance is not integrated into the same mission design. |
-
-##### 21. Answer architecture (10/15/20-mark support)
-
-###### 21.1 Directive decoder
-
-| Directive word | What the examiner is actually asking for |
-|---|---|
-| Assess / Evaluate | Explicit reasoned verdict on how far the mission achieved its stated goal — mandatory qualifier, not just achievements. |
-| Discuss / Explain | Balanced coverage of mechanism, achievement and constraint with reasoned linkage. |
-| Examine / Analyse | Dissect the mission's theory of change stage by stage (research → adoption → market). |
-| Comment | Short judgement backed by one or two named facts. |
-
-###### 21.2 Evidence selection by mark value
-
-- **10 marks/150 words:** 1 mission example + its output anchor (§18-19.3) + 1 limitation
-  from §20 + a one-line verdict.
-- **15 marks/250 words:** 2-3 mission examples from §19, the dated output/outcome anchor at
-  §18, 2 limitations/trade-offs from §20, and a "how far succeeded" verdict.
-- **20 marks:** add the eight-question mission audit (§12) explicitly, a second mission
-  example, and the evaluation-framework input/activity/output/outcome/impact ladder (§12)
-  before the verdict.
-
-###### 21.3 Counter-evidence integration rule
-
-Whenever a mission's contribution is claimed (production, productivity, diversification), it
-must be paired with the corresponding limitation from §19-20 (income lag, regional
-unevenness, ecological load) in the same paragraph — this operationalises the "how far has it
-succeeded" qualifier that recurs across NHM/IFS/oilseed PYQs.
-
-###### 21.4 10/15/20 mark-scaling template
-
-```text
-10 MARKS (150 words)
-Intro: define technology mission (1 line)
-One mission example + output anchor (4 lines)
-One limitation (2 lines)
-Verdict (1 line)
-
-15 MARKS (250 words)
-Intro (1 line)
-2-3 mission examples across research/extension/market stages (6 lines)
-Dated output/outcome anchor with explicit output≠outcome qualifier (3 lines)
-Two limitations/trade-offs (3 lines)
-"How far succeeded" verdict (2 lines)
-
-20 MARKS (250-300 words)
-Intro (1 line)
-Historical chronology + 2-3 current missions (6 lines)
-Eight-question mission audit applied briefly (4 lines)
-Dated output/outcome anchor (2 lines)
-Two-three trade-offs from §20 (4 lines)
-Reasoned verdict + reform/redesign path (3 lines)
-```
-
-###### 21.5 Reasoned-verdict template
-
-> "[Mission name] achieved [named output evidence from §18-19], demonstrating [research-to-
-> market/coordination] capability; however, [limitation/trade-off from §20] means output
-> growth has not yet converted into [income/import-security/equity] outcomes. Mission-mode
-> policy should therefore [reform direction from §15/§21], measured by outcome and impact
-> indicators, not activity or output counts alone."
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-##### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2018, 2021
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 13 | National Horticulture Mission role in horticulture production and income | Assess · 15 marks · 250 words | Routed to dedicated agricultural technology-missions owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | Prelims GS-I | 52 | Palm oil origin uses and biodiesel production | Objective question; official key unavailable locally | Cross-routed to palm-oil value-chain fundamentals and the NMEO-OP mission owner; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-###### What this owner must now support
-
-- National Horticulture Mission role in horticulture production and income
-- Palm oil origin uses and biodiesel production
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-###### Semantic-completeness ownership and PYQ control
-
-- **Official syllabus/index and owned core:** Mission-mode agricultural policy coordinates a defined commodity or technology chain through targets, finance, research, extension, inputs, infrastructure, markets and monitoring across Union, states and implementing agencies.
-- **Indispensable distinction and prerequisite taxonomy:** Technology Mission is not every scheme, Cabinet approval is not notification, notification is not fund release, component launch is not field adoption, and production change is not mission-attributable without a counterfactual.
-- **Mechanism, implementation and evidence control:** Name mission, ministry, legal/executive status, period and component; trace input-output-outcome chain with units/denominators and test convergence, state capacity, farmer incentives, ecology and continuation status.
-- **✅ Verified current fact (official sources rechecked 5 September 2026):**
-  Rechecked 6 September 2026 against the listed official publisher or regulator source. The oilseeds page substantively confirmed distinct mission architectures. The cotton release was inaccessible, so the package relies on the audited owners and imports no live outlay, target, launch, approval, expenditure, adoption or production claim. Sources: https://agriwelfare.gov.in/en/Oilseeds; https://pib.gov.in/PressReleasePage.aspx?PRID=2258111&reg=3&lang=1
-- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
-  registration, a report, a training completion, a disposal count or a ranking
-  can support a causal argument only after authority, capacity, incentives,
-  distribution, implementation, grievance, outcome and alternative explanations
-  are tested.
-- **Canonical and cross-owner boundary:** this Economy owner teaches the
-  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
-  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
-  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
-  evidence may be routed but is not silently duplicated or re-owned.
-- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
-  standard public-administration/economy taxonomy and complete verified PYQ
-  demands were checked for absent concepts, institutions, mechanisms,
-  classifications, exceptions, comparisons, criticisms, current status,
-  answer architecture and dependent artifacts.
-- **Verified PYQ ownership, 2018-2026:** Audited ledgers route the 2018 GS-III National Horticulture Mission demand and the 2021 objective palm-oil concept. The Basic/practice firewall preserves origin, mesocarp, kernel, mission-system and income distinctions without inferring an unavailable objective key.
-
-### ECONOMY DEEP-REVIEW CORE CONTROL
-
-- **Must remember:** Mission-mode agricultural policy coordinates a defined commodity or technology chain through targets, finance, research, extension, inputs, infrastructure, markets and monitoring across Union, states and implementing agencies.
-- **Close distinction:** Technology Mission is not every scheme, Cabinet approval is not notification, notification is not fund release, component launch is not field adoption, and production change is not mission-attributable without a counterfactual.
-- **Formula / status / evidence / causal limit:** Name mission, ministry, legal/executive status, period and component; trace input-output-outcome chain with units/denominators and test convergence, state capacity, farmer incentives, ecology and continuation status.
-
-## BASIC MCQS / REMEDIATION
-
-### Q1. Which statement correctly identifies Mission-mode definition?
-
-A. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-B. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-C. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-D. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-
-**Answer: A.**
-**Explanation:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q2. Which option preserves the accounting or regulatory boundary of Mission-mode definition?
-
-A. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-B. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-C. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-D. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-
-**Answer: B.**
-**Explanation:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses Mission-mode definition without losing its vintage, basket or legal status?
-
-A. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-B. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-C. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-D. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-
-**Answer: C.**
-**Explanation:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Mission-mode definition?
-
-A. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-B. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-C. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-D. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-
-**Answer: D.**
-**Explanation:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies Mission versus scheme label?
-
-A. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-B. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-C. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-D. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-
-**Answer: A.**
-**Explanation:** A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q6. Which option preserves the accounting or regulatory boundary of Mission versus scheme label?
-
-A. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-B. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-C. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-D. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-
-**Answer: B.**
-**Explanation:** A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q7. Which statement uses Mission versus scheme label without losing its vintage, basket or legal status?
-
-A. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-B. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-C. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-D. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-
-**Answer: C.**
-**Explanation:** A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q8. Which option avoids the standard UPSC close-option trap about Mission versus scheme label?
-
-A. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-B. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-C. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-D. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-
-**Answer: D.**
-**Explanation:** A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q9. Which statement correctly identifies Research-to-market chain?
-
-A. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-B. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-C. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-D. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-
-**Answer: A.**
-**Explanation:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q10. Which option preserves the accounting or regulatory boundary of Research-to-market chain?
-
-A. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-B. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-C. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-D. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-
-**Answer: B.**
-**Explanation:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q11. Which statement uses Research-to-market chain without losing its vintage, basket or legal status?
-
-A. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-B. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-C. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-D. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-
-**Answer: C.**
-**Explanation:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q12. Which option avoids the standard UPSC close-option trap about Research-to-market chain?
-
-A. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-B. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-C. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-D. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-
-**Answer: D.**
-**Explanation:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q13. Which statement correctly identifies Technology breadth?
-
-A. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-B. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-C. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-D. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-
-**Answer: A.**
-**Explanation:** Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q14. Which option preserves the accounting or regulatory boundary of Technology breadth?
-
-A. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-B. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-C. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-D. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-
-**Answer: B.**
-**Explanation:** Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q15. Which statement uses Technology breadth without losing its vintage, basket or legal status?
-
-A. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-B. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-C. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-D. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-
-**Answer: C.**
-**Explanation:** Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q16. Which option avoids the standard UPSC close-option trap about Technology breadth?
-
-A. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-B. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-C. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-D. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-
-**Answer: D.**
-**Explanation:** Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q17. Which statement correctly identifies Adoption threshold?
-
-A. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-B. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-C. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-D. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-
-**Answer: A.**
-**Explanation:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q18. Which option preserves the accounting or regulatory boundary of Adoption threshold?
-
-A. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-B. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-C. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-D. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-
-**Answer: B.**
-**Explanation:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q19. Which statement uses Adoption threshold without losing its vintage, basket or legal status?
-
-A. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-B. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-C. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-D. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-
-**Answer: C.**
-**Explanation:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q20. Which option avoids the standard UPSC close-option trap about Adoption threshold?
-
-A. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-B. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-C. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-D. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-
-**Answer: D.**
-**Explanation:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q21. Which statement correctly identifies Technology Mission on Oilseeds?
-
-A. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-B. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-C. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-D. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-
-**Answer: A.**
-**Explanation:** The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q22. Which option preserves the accounting or regulatory boundary of Technology Mission on Oilseeds?
-
-A. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-B. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-C. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-D. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-
-**Answer: B.**
-**Explanation:** The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q23. Which statement uses Technology Mission on Oilseeds without losing its vintage, basket or legal status?
-
-A. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-B. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-C. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-D. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-
-**Answer: C.**
-**Explanation:** The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q24. Which option avoids the standard UPSC close-option trap about Technology Mission on Oilseeds?
-
-A. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-B. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-C. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-D. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-
-**Answer: D.**
-**Explanation:** The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q25. Which statement correctly identifies Oilseed and oil-palm missions?
-
-A. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-B. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-C. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-D. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-
-**Answer: A.**
-**Explanation:** NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q26. Which option preserves the accounting or regulatory boundary of Oilseed and oil-palm missions?
-
-A. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-B. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-C. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-D. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-
-**Answer: B.**
-**Explanation:** NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q27. Which statement uses Oilseed and oil-palm missions without losing its vintage, basket or legal status?
-
-A. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-B. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-C. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-D. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-
-**Answer: C.**
-**Explanation:** NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q28. Which option avoids the standard UPSC close-option trap about Oilseed and oil-palm missions?
-
-A. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-B. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-C. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-D. NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-
-**Answer: D.**
-**Explanation:** NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q29. Which statement correctly identifies Horticulture mission evolution?
-
-A. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-B. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-C. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-D. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-
-**Answer: A.**
-**Explanation:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q30. Which option preserves the accounting or regulatory boundary of Horticulture mission evolution?
-
-A. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-B. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-C. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-D. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-
-**Answer: B.**
-**Explanation:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q31. Which statement uses Horticulture mission evolution without losing its vintage, basket or legal status?
-
-A. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-B. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-C. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-D. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-
-**Answer: C.**
-**Explanation:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q32. Which option avoids the standard UPSC close-option trap about Horticulture mission evolution?
-
-A. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-B. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-C. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-D. The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-
-**Answer: D.**
-**Explanation:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q33. Which statement correctly identifies Food-security mission evolution?
-
-A. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-B. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-C. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-D. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-
-**Answer: A.**
-**Explanation:** The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q34. Which option preserves the accounting or regulatory boundary of Food-security mission evolution?
-
-A. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-B. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-C. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-D. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-
-**Answer: B.**
-**Explanation:** The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q35. Which statement uses Food-security mission evolution without losing its vintage, basket or legal status?
-
-A. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-B. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-C. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-D. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-
-**Answer: C.**
-**Explanation:** The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Food-security mission evolution?
-
-A. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-B. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-C. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-D. The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-
-**Answer: D.**
-**Explanation:** The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies Cotton mission boundary?
-
-A. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-B. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-C. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-D. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-
-**Answer: A.**
-**Explanation:** The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of Cotton mission boundary?
-
-A. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-B. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-C. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-D. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-
-**Answer: B.**
-**Explanation:** The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q39. Which statement uses Cotton mission boundary without losing its vintage, basket or legal status?
-
-A. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-B. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-C. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-D. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-
-**Answer: C.**
-**Explanation:** The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q40. Which option avoids the standard UPSC close-option trap about Cotton mission boundary?
-
-A. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-B. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-C. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-D. The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-
-**Answer: D.**
-**Explanation:** The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies Extension-system functions?
-
-A. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-B. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-C. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-D. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-
-**Answer: A.**
-**Explanation:** The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of Extension-system functions?
-
-A. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-B. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-C. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-D. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-
-**Answer: B.**
-**Explanation:** The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses Extension-system functions without losing its vintage, basket or legal status?
-
-A. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-B. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-C. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-D. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-
-**Answer: C.**
-**Explanation:** The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q44. Which option avoids the standard UPSC close-option trap about Extension-system functions?
-
-A. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-B. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-C. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-D. The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-
-**Answer: D.**
-**Explanation:** The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q45. Which statement correctly identifies Sustainability missions?
-
-A. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-B. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-C. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-D. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-
-**Answer: A.**
-**Explanation:** NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of Sustainability missions?
-
-A. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-B. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-C. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-D. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-
-**Answer: B.**
-**Explanation:** NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses Sustainability missions without losing its vintage, basket or legal status?
-
-A. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-B. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-C. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-D. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-
-**Answer: C.**
-**Explanation:** NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Sustainability missions?
-
-A. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-B. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-C. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-D. NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-
-**Answer: D.**
-**Explanation:** NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q49. Which statement correctly identifies Institutional federalism?
-
-A. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-B. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-C. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-D. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-
-**Answer: A.**
-**Explanation:** Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q50. Which option preserves the accounting or regulatory boundary of Institutional federalism?
-
-A. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-B. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-C. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-D. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-
-**Answer: B.**
-**Explanation:** Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses Institutional federalism without losing its vintage, basket or legal status?
-
-A. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-B. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-C. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-D. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-
-**Answer: C.**
-**Explanation:** Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Institutional federalism?
-
-A. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-B. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-C. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-D. Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-
-**Answer: D.**
-**Explanation:** Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies Complementarity and weakest link?
-
-A. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-B. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-C. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-D. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-
-**Answer: A.**
-**Explanation:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of Complementarity and weakest link?
-
-A. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-B. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-C. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-D. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-
-**Answer: B.**
-**Explanation:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses Complementarity and weakest link without losing its vintage, basket or legal status?
-
-A. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-B. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-C. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-D. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-
-**Answer: C.**
-**Explanation:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Complementarity and weakest link?
-
-A. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-B. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-C. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-D. Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-
-**Answer: D.**
-**Explanation:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Output and outcome ladder?
-
-A. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-B. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-C. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-D. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-
-**Answer: A.**
-**Explanation:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Output and outcome ladder?
-
-A. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-B. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-C. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-D. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-
-**Answer: B.**
-**Explanation:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Output and outcome ladder without losing its vintage, basket or legal status?
-
-A. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-B. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-C. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-D. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-
-**Answer: C.**
-**Explanation:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Output and outcome ladder?
-
-A. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-B. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-C. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-D. Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-
-**Answer: D.**
-**Explanation:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies National Horticulture Mission PYQ?
-
-A. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-B. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-C. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-D. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-
-**Answer: A.**
-**Explanation:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q61. Which statement correctly identifies National Horticulture Mission PYQ?”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Economy demand in “Q61. Which statement correctly identifies National Horticulture Mission PYQ?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q61. Which statement correctly identifies National Horticulture Mission PYQ? **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** A. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** B. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** C. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** D. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** The answer must resolve the Economy demand in “Q61. Which statement correctly identifies National Horticulture Mission PYQ?”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Q61. Which statement correctly identifies National Horticulture Mission PYQ?”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### Q62. Which option preserves the accounting or regulatory boundary of National Horticulture Mission PYQ?
-
-A. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-B. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-C. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-D. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-
-**Answer: B.**
-**Explanation:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-**Demand decoding:** Treat “Q62. Which option preserves the accounting or regulatory boundary of National Horticulture…” as a formula, classification, institution, status, unit, denominator, chronology and source-date-reference-period problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Economy demand in “Q62. Which option preserves the accounting or regulatory boundary of National Horticulture Mission PYQ?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q62. Which option preserves the accounting or regulatory boundary of National Horticulture Mission PYQ? **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** A. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** B. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** C. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** D. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** The answer must resolve the Economy demand in “Q62. Which option preserves the accounting or regulatory boundary of National Horticulture Mission PYQ?”.
-
-**Executable exam-length answer / compression plan:** Write the exact identity or definition; mark stock/flow, nominal/real and level/rate; identify authority and operative status; test each statement against unit, denominator, mechanism and closest exception.
-
-**Why this earns marks:** It prevents familiar economic terms, institutions, programmes or data from being confused through denominator, mandate, vintage or status error.
-
-**How to improve this answer:** For “Q62. Which option preserves the accounting or regulatory boundary of National Horticulture…”, explain why the closest distractor fails on formula, stock-flow class, unit, mandate, revision, WTO qualification or causation.
-
-### Q63. Which statement uses National Horticulture Mission PYQ without losing its vintage, basket or legal status?
-
-A. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-B. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-C. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-D. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-
-**Answer: C.**
-**Explanation:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q63. Which statement uses National Horticulture Mission PYQ without losing its vintage,…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Economy demand in “Q63. Which statement uses National Horticulture Mission PYQ without losing its vintage, basket or legal status?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q63. Which statement uses National Horticulture Mission PYQ without losing its vintage, basket or legal status? **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** A. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** B. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** C. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** D. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** The answer must resolve the Economy demand in “Q63. Which statement uses National Horticulture Mission PYQ without losing its vintage, basket or legal status?”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Q63. Which statement uses National Horticulture Mission PYQ without losing its vintage,…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### Q64. Which option avoids the standard UPSC close-option trap about National Horticulture Mission PYQ?
-
-A. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-B. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-C. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-D. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-
-**Answer: D.**
-**Explanation:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Palm-oil distinctions?
-
-A. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-B. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-C. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-D. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-
-**Answer: A.**
-**Explanation:** African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Palm-oil distinctions?
-
-A. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-B. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-C. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-D. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-
-**Answer: B.**
-**Explanation:** African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Palm-oil distinctions without losing its vintage, basket or legal status?
-
-A. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-B. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-C. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-D. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-
-**Answer: C.**
-**Explanation:** African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Palm-oil distinctions?
-
-A. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-B. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-C. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-D. African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-
-**Answer: D.**
-**Explanation:** African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Cluster and smallholder inclusion?
-
-A. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-B. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-C. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-D. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-
-**Answer: A.**
-**Explanation:** Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Cluster and smallholder inclusion?
-
-A. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-B. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-C. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-D. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-
-**Answer: B.**
-**Explanation:** Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Cluster and smallholder inclusion without losing its vintage, basket or legal status?
-
-A. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-B. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-C. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-D. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-
-**Answer: C.**
-**Explanation:** Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Cluster and smallholder inclusion?
-
-A. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-B. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-C. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-D. Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-
-**Answer: D.**
-**Explanation:** Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Evaluation and attribution?
-
-A. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-B. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-C. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-D. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-
-**Answer: A.**
-**Explanation:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Evaluation and attribution?
-
-A. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-B. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-C. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-D. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-
-**Answer: B.**
-**Explanation:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Evaluation and attribution without losing its vintage, basket or legal status?
-
-A. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-B. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-C. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-D. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-
-**Answer: C.**
-**Explanation:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Evaluation and attribution?
-
-A. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-B. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-C. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-D. National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-
-**Answer: D.**
-**Explanation:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Mission redesign rule?
-
-A. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-B. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-C. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-D. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-
-**Answer: A.**
-**Explanation:** Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Mission redesign rule?
-
-A. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-B. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-C. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-D. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-
-**Answer: B.**
-**Explanation:** Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Mission redesign rule without losing its vintage, basket or legal status?
-
-A. Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-B. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-C. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-D. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-
-**Answer: C.**
-**Explanation:** Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Mission redesign rule?
-
-A. Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-B. A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-C. The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-D. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-
-**Answer: D.**
-**Explanation:** Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-## PYQS AND ANSWER PRACTICE
-
-**Demand decoding:** Treat “Q64. Which option avoids the standard UPSC close-option trap about National Horticulture…” as a formula, classification, institution, status, unit, denominator, chronology and source-date-reference-period problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Economy demand in “Q64. Which option avoids the standard UPSC close-option trap about National Horticulture Mission PYQ?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q64. Which option avoids the standard UPSC close-option trap about National Horticulture Mission PYQ? **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** A. Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** B. An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** C. A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** D. The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Q65. Which statement correctly identifies Palm-oil distinctions? **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** The answer must resolve the Economy demand in “Q64. Which option avoids the standard UPSC close-option trap about National Horticulture Mission PYQ?”.
-
-**Executable exam-length answer / compression plan:** Write the exact identity or definition; mark stock/flow, nominal/real and level/rate; identify authority and operative status; test each statement against unit, denominator, mechanism and closest exception.
-
-**Why this earns marks:** It prevents familiar economic terms, institutions, programmes or data from being confused through denominator, mandate, vintage or status error.
-
-**How to improve this answer:** For “Q64. Which option avoids the standard UPSC close-option trap about National Horticulture…”, explain why the closest distractor fails on formula, stock-flow class, unit, mandate, revision, WTO qualification or causation.
-
-### VERIFIED PYQ OWNERSHIP AUDIT
-
-Audited ledgers route the 2018 GS-III National Horticulture Mission demand and the 2021 objective palm-oil concept. The Basic/practice firewall preserves origin, mesocarp, kernel, mission-system and income distinctions without inferring an unavailable objective key.
-
-### OWNER PYQ LEDGER EXTRACTS
-
-#### 13. National Horticulture Mission — complete 2018 PYQ closure
-
-##### Exact demand
-
-> Assess the role of the National Horticulture Mission in boosting the production,
-> productivity and income of horticulture farms. How far has it succeeded in increasing the
-> income of farmers?
-
-##### Contribution chain
-
-```text
-region-specific planning
- -> quality planting material and new gardens
- -> rejuvenation/protected cultivation/INM-IPM
- -> higher production and quality
- -> post-harvest, cold-chain and market support
- -> lower loss + higher value realisation
- -> potential farm-income gain
-```
-
-##### Balanced assessment
-
-**How it helped**
-
-- promoted regionally differentiated horticulture;
-- expanded access to planting material and production technology;
-- supported productivity, protected cultivation and rejuvenation;
-- encouraged post-harvest management, processing and market infrastructure;
-- enabled diversification toward high-value crops and rural employment;
-- created the foundation later integrated into MIDH.
-
-**Why income impact can lag production**
-
-- price collapses during gluts;
-- perishability and weak cold-chain/processing linkage;
-- small farmers lack aggregation, finance and bargaining;
-- uneven regional and crop coverage;
-- planting-material quality and extension gaps;
-- higher production may raise gross revenue but not net income after cost and risk;
-- water use, climate shocks and market standards affect sustainability.
-
-**Way forward**
-
-- clean and accredited planting material;
-- agro-climatic cluster planning with water budgets;
-- FPO aggregation and professional market linkage;
-- pack houses, pre-cooling, cold logistics, processing and traceability;
-- price/market intelligence and risk instruments;
-- evaluate net income, loss reduction, quality and smallholder inclusion—not area alone.
-
-##### 250-word structure
-
-**Introduction:** Define NHM as a production-to-market horticulture mission, now within MIDH.
-
-**Body 1:** Planting material, area/productivity, technology, protected cultivation,
-post-harvest and skills.
-
-**Body 2:** Production/diversification gains versus income constraints from perishability,
-price volatility, fragmented holdings, infrastructure and unequal access.
-
-**Way forward:** cluster + FPO + clean plant + water + cold chain + processing + market.
-
-**Conclusion:** NHM strengthened horticultural capability, but farm income rises only when
-productivity is converted into stable net value realisation.
-
-**Demand decoding:** The directive **answer** requires a direct position on “13. National Horticulture Mission — complete 2018 PYQ closure”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Economy demand in “13. National Horticulture Mission — complete 2018 PYQ closure”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** National Horticulture Mission — complete 2018 PYQ closure **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Assess the role of the National Horticulture Mission in boosting the production, **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** productivity and income of horticulture farms. How far has it succeeded in increasing the **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** promoted regionally differentiated horticulture **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** expanded access to planting material and production technology **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** supported productivity, protected cultivation and rejuvenation **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** The answer must resolve the Economy demand in “13. National Horticulture Mission — complete 2018 PYQ closure”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “13. National Horticulture Mission — complete 2018 PYQ closure”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2018, 2021
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 13 | National Horticulture Mission role in horticulture production and income | Assess · 15 marks · 250 words | Routed to dedicated agricultural technology-missions owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | Prelims GS-I | 52 | Palm oil origin uses and biodiesel production | Objective question; official key unavailable locally | Cross-routed to palm-oil value-chain fundamentals and the NMEO-OP mission owner; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- National Horticulture Mission role in horticulture production and income
-- Palm oil origin uses and biodiesel production
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2018
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 13 | National Horticulture Mission role in horticulture production and income | Assess · 15 marks · 250 words | Routed to dedicated agricultural technology-missions owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- National Horticulture Mission role in horticulture production and income
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### PYQ DEMAND CARD 1 — 2018 GS-III
-
-**Demand:** Role of the National Horticulture Mission in production, productivity and farmer income.
-
-**Status:** Official-paper demand routed in the audited 2018-2023 GS-III ledger.
-
-**Model solution:** **Mission-mode definition:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Research-to-market chain:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Horticulture mission evolution:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Output and outcome ladder:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **National Horticulture Mission PYQ:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. **Evaluation and attribution:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2018 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Mission-mode definition:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Research-to-market chain:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Horticulture mission evolution:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Output and outcome ladder:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **National Horticulture Mission PYQ:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. **Evaluation and attribution:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Role of the National Horticulture Mission in production, productivity and farmer income. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand routed in the audited 2018-2023 GS-III ledger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Mission-mode definition:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Research-to-market chain:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Horticulture mission evolution:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Output and outcome ladder:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **National Horticulture Mission PYQ:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. **Evaluation and attribution:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2018 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish a technology mission from a routine agricultural scheme. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Mission-mode definition. **Named evidence/example:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Mission versus scheme label. **Named evidence/example:** A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Research-to-market chain. **Named evidence/example:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-- A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-- Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-
-**Qualified conclusion:** **Claim:** Mission-mode definition. **Named evidence/example:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Mission versus scheme label. **Named evidence/example:** A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Research-to-market chain. **Named evidence/example:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish a technology mission from a routine agricultural scheme. Answer in about 150…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Mission-mode definition. **Named evidence/example:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Mission versus scheme label. **Named evidence/example:** A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Research-to-market chain. **Named evidence/example:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Mission-mode definition. **Named evidence/example:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Mission versus scheme label. **Named evidence/example:** A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Research-to-market chain. **Named evidence/example:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish a technology mission from a routine agricultural scheme. Answer in about 150…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Explain why demonstration and platform availability do not prove technology adoption. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Adoption threshold. **Named evidence/example:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Complementarity and weakest link. **Named evidence/example:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-- Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-
-**Qualified conclusion:** **Claim:** Adoption threshold. **Named evidence/example:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Complementarity and weakest link. **Named evidence/example:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why demonstration and platform availability do not prove technology adoption. Answer…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Adoption threshold. **Named evidence/example:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Complementarity and weakest link. **Named evidence/example:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Adoption threshold. **Named evidence/example:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Complementarity and weakest link. **Named evidence/example:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Explain why demonstration and platform availability do not prove technology adoption. Answer…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Trace the historical evolution of India's major agricultural technology missions. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Technology Mission on Oilseeds. **Named evidence/example:** The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Oilseed and oil-palm missions. **Named evidence/example:** NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Horticulture mission evolution. **Named evidence/example:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Food-security mission evolution. **Named evidence/example:** The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cotton mission boundary. **Named evidence/example:** The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-- NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-- The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-- The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-- The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-
-**Qualified conclusion:** **Claim:** Technology Mission on Oilseeds. **Named evidence/example:** The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Oilseed and oil-palm missions. **Named evidence/example:** NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Horticulture mission evolution. **Named evidence/example:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Food-security mission evolution. **Named evidence/example:** The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cotton mission boundary. **Named evidence/example:** The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **trace** requires a direct position on “Trace the historical evolution of India's major agricultural technology missions. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Technology Mission on Oilseeds. **Named evidence/example:** The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Oilseed and oil-palm missions. **Named evidence/example:** NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Horticulture mission evolution. **Named evidence/example:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Food-security mission evolution. **Named evidence/example:** The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cotton mission boundary. **Named evidence/example:** The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Technology Mission on Oilseeds. **Named evidence/example:** The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Oilseed and oil-palm missions. **Named evidence/example:** NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Horticulture mission evolution. **Named evidence/example:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Food-security mission evolution. **Named evidence/example:** The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cotton mission boundary. **Named evidence/example:** The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Trace the historical evolution of India's major agricultural technology missions. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Assess the National Horticulture Mission's effect on farmer income. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Horticulture mission evolution. **Named evidence/example:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Output and outcome ladder. **Named evidence/example:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** National Horticulture Mission PYQ. **Named evidence/example:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Evaluation and attribution. **Named evidence/example:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-- Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-- The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-- National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-
-**Qualified conclusion:** **Claim:** Horticulture mission evolution. **Named evidence/example:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Output and outcome ladder. **Named evidence/example:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** National Horticulture Mission PYQ. **Named evidence/example:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Evaluation and attribution. **Named evidence/example:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the National Horticulture Mission's effect on farmer income. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Horticulture mission evolution. **Named evidence/example:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Output and outcome ladder. **Named evidence/example:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** National Horticulture Mission PYQ. **Named evidence/example:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Evaluation and attribution. **Named evidence/example:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Horticulture mission evolution. **Named evidence/example:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Output and outcome ladder. **Named evidence/example:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** National Horticulture Mission PYQ. **Named evidence/example:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Evaluation and attribution. **Named evidence/example:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Assess the National Horticulture Mission's effect on farmer income. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate agricultural mission-mode policy through federalism, diffusion, inclusion and ecology. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Extension-system functions. **Named evidence/example:** The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Sustainability missions. **Named evidence/example:** NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Institutional federalism. **Named evidence/example:** Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Complementarity and weakest link. **Named evidence/example:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cluster and smallholder inclusion. **Named evidence/example:** Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Evaluation and attribution. **Named evidence/example:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-- NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-- Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-- Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-- Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-- National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-
-**Qualified conclusion:** **Claim:** Extension-system functions. **Named evidence/example:** The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Sustainability missions. **Named evidence/example:** NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Institutional federalism. **Named evidence/example:** Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Complementarity and weakest link. **Named evidence/example:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cluster and smallholder inclusion. **Named evidence/example:** Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Evaluation and attribution. **Named evidence/example:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate agricultural mission-mode policy through federalism, diffusion, inclusion and…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Extension-system functions. **Named evidence/example:** The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Sustainability missions. **Named evidence/example:** NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Institutional federalism. **Named evidence/example:** Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Complementarity and weakest link. **Named evidence/example:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cluster and smallholder inclusion. **Named evidence/example:** Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Evaluation and attribution. **Named evidence/example:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Extension-system functions. **Named evidence/example:** The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Sustainability missions. **Named evidence/example:** NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Institutional federalism. **Named evidence/example:** Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Complementarity and weakest link. **Named evidence/example:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cluster and smallholder inclusion. **Named evidence/example:** Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Evaluation and attribution. **Named evidence/example:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Evaluate agricultural mission-mode policy through federalism, diffusion, inclusion and…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Design an outcome-oriented next generation agricultural technology mission. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Mission-mode definition. **Named evidence/example:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Research-to-market chain. **Named evidence/example:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Technology breadth. **Named evidence/example:** Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Adoption threshold. **Named evidence/example:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Output and outcome ladder. **Named evidence/example:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Evaluation and attribution. **Named evidence/example:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Mission redesign rule. **Named evidence/example:** Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-- Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-- Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-- A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-- Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-- National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-- Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-
-**Qualified conclusion:** **Claim:** Mission-mode definition. **Named evidence/example:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Research-to-market chain. **Named evidence/example:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Technology breadth. **Named evidence/example:** Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Adoption threshold. **Named evidence/example:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Output and outcome ladder. **Named evidence/example:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Evaluation and attribution. **Named evidence/example:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Mission redesign rule. **Named evidence/example:** Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design an outcome-oriented next generation agricultural technology mission. Answer in about…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Mission-mode definition. **Named evidence/example:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Research-to-market chain. **Named evidence/example:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Technology breadth. **Named evidence/example:** Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Adoption threshold. **Named evidence/example:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Output and outcome ladder. **Named evidence/example:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Evaluation and attribution. **Named evidence/example:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Mission redesign rule. **Named evidence/example:** Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-7. **Claim and named evidence:** Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Mission-mode definition. **Named evidence/example:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Research-to-market chain. **Named evidence/example:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Technology breadth. **Named evidence/example:** Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Adoption threshold. **Named evidence/example:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Output and outcome ladder. **Named evidence/example:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Evaluation and attribution. **Named evidence/example:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Mission redesign rule. **Named evidence/example:** Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Design an outcome-oriented next generation agricultural technology mission. Answer in about…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
-
-> **Subject:** Economy | **Tier:** Advanced optional enrichment | **GS Paper:** GS-III.
-> **Firewall:** All indispensable mission history, current distinctions, institutions,
-> Prelims traps and PYQ answer architecture are contained in Core.
-> *Core owner: `../basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`.*
-
-#### 1. Mission-oriented innovation model
-
-```text
-SOCIETAL CHALLENGE
-food/nutrition security · imports · climate risk · low income · poor quality
-                         |
-                         v
-DIRECTION OF INNOVATION
-What outcome should research and investment pursue?
-                         |
-                         v
-PORTFOLIO OF SOLUTIONS
-seed · agronomy · machinery · digital · institutions · processing · market
-                         |
-                         v
-CAPABILITY AND DIFFUSION
-research system · state capacity · extension · firms · FPOs · finance
-                         |
-                         v
-MEASURED PUBLIC VALUE
-income · resilience · quality · nutrition · resources · strategic autonomy
-```
-
-⚠️ A mission differs from a technology-push project because the public problem, adoption
-system and measurable social outcome—not the invention alone—organise the intervention.
-
-#### 2. Complementarity and the weakest-link problem
-
-Let mission outcome depend on research `R`, material supply `S`, extension `E`, farm
-complements `C` and market/value-chain readiness `M`.
-
-```text
-Outcome = f(R, S, E, C, M)
-```
-
-Where links are strongly complementary, a near-zero value in one link can sharply reduce the
-whole outcome:
-
-```text
-excellent variety
-x unavailable certified seed
-x weak extension
-x no buyer
-= little durable adoption
-```
-
-**Policy implication:** Do not maximise each department’s output separately. Diagnose and
-fund the binding constraint in the complete chain.
-
-#### 3. Adoption and diffusion
-
-##### 3.1 Adoption threshold
-
-A farmer adopts if:
-
-```text
-Expected discounted benefit
-> purchase + learning + switching + finance + risk + irreversibility cost
-```
-
-Smallholders may rationally delay even a high-average-return technology because:
-
-- one failed season threatens consumption and debt repayment;
-- resale or repair markets are absent;
-- tenancy reduces the horizon for soil/water investment;
-- the technology is indivisible at farm scale;
-- output price is uncertain;
-- demonstration results are not trusted locally.
-
-##### 3.2 Diffusion curve
-
-```text
-Adoption share
-100% |                         ______
-     |                    ____/
-     |                ___/
-     |            ___/
-     |        ___/
-  0% |_______/________________________ time
-       pioneers  early majority  late adopters
-```
-
-Early adoption by large/irrigated farmers does not prove universal suitability. Mission
-design must explain who remains below the threshold and why.
-
-#### 4. Mission portfolio versus single solution
-
-| Strategy | Strength | Failure risk |
-|---|---|---|
-| One flagship technology | Focus and visibility | Lock-in; unsuitable regions; neglected complements |
-| Technology portfolio | Adaptation and experimentation | Coordination and evaluation complexity |
-| Uniform national package | Scale and procurement simplicity | Agro-climatic mismatch |
-| District/cluster portfolio | Local fit and learning | Variable state capacity and comparability |
-
-**Advanced position:** Central government should set public outcomes, standards and learning
-systems; states/districts should adapt technology portfolios within ecological and fiscal
-guardrails.
-
-#### 5. Principal-agent chain
-
-```text
-Union -> State -> District -> Implementing agency -> Vendor/extension worker -> Farmer
-```
-
-At every link:
-
-- information becomes noisier;
-- incentives can shift from outcome to fund utilisation;
-- monitoring may privilege easily counted activities;
-- local knowledge may be filtered out;
-- blame can be passed between agencies.
-
-##### Control design
-
-- publish role and outcome responsibility at each level;
-- combine administrative data with farmer verification;
-- separate vendor selection, quality testing and outcome certification;
-- retain grievance and correction within the crop season;
-- compare districts/states after adjusting for agro-climate and baseline.
-
-#### 6. Goodhart’s law and target distortion
-
-> When a measure becomes the target, it can cease to be a good measure.
-
-| Target | Gaming/distortion risk | Better companion metric |
-|---|---|---|
-| Area covered | Unsuitable or nominal enrolment | Continued adoption and agro-climatic fit |
-| Kits distributed | Non-use/resale | Correct use and yield/cost response |
-| Machines purchased | Idle assets | Hours used, users served and repair uptime |
-| Demonstrations held | Repeated attendance count | Independent adoption outside demo plots |
-| Production | Area-driven or price-depressing growth | Yield, net income and loss reduction |
-| Import share | Demand/trade-price effects confused with mission | Domestic productivity and cost competitiveness |
-
-#### 7. Import substitution under missions
-
-Oilseed, pulse or fibre missions pursue strategic autonomy, but three tests are needed:
-
-1. **Productivity test:** Can domestic yield and quality improve sustainably?
-2. **Resource-cost test:** What land, water, fertiliser and ecosystem cost is incurred?
-3. **Value-chain test:** Are processing, logistics, standards and stable demand aligned?
-
-⚠️ Import reduction is not automatically welfare-improving if domestic support creates a
-larger resource cost or consumer-price burden. Conversely, relying entirely on volatile
-imports can create food, nutrition and balance-of-payments risk.
-
-##### Balanced objective
-
-```text
-resilient domestic capability
-+ diversified import sources
-+ strategic stocks where justified
-+ productivity/quality improvement
-- ecologically unsuitable area expansion
-```
-
-#### 8. Cluster economics
-
-Clusters can lower:
-
-- extension cost per farmer;
-- machinery and service cost;
-- aggregation and assaying cost;
-- processor procurement cost;
-- traceability and certification cost.
-
-But cluster design can:
-
-- exclude isolated/tribal farmers;
-- concentrate ecological risk;
-- strengthen one buyer’s monopsony;
-- create political selection of locations;
-- lock regions into a promoted crop.
-
-**Design safeguard:** open entry criteria, FPO bargaining, buyer competition, crop rotation,
-resource budgets and transparent location selection.
-
-#### 9. Technology neutrality versus directionality
-
-Government cannot be fully neutral because mission objectives direct innovation toward a
-crop or outcome. Directionality is justified where:
-
-- private investment underprovides public goods;
-- food/nutrition or climate objectives are not priced;
-- strategic import dependence creates systemic risk;
-- coordination failure blocks a viable value chain.
-
-Directionality becomes dangerous when:
-
-- one firm/technology receives permanent protection;
-- evidence contrary to the mission is suppressed;
-- target crop conflicts with water/ecology;
-- exit and redesign are politically impossible.
-
-#### 10. Path dependence and lock-in
-
-```text
-initial subsidy/infrastructure
- -> farmer learning and specialised assets
- -> processor location
- -> procurement and political constituency
- -> higher switching cost
- -> mission persists after conditions change
-```
-
-Examples of possible lock-in:
-
-- one seed platform or machinery vendor;
-- water-intensive crop around procurement;
-- processing plant dependent on assured local crop supply;
-- database or advisory system without interoperability.
-
-Reform therefore needs transition compensation, open standards, alternative markets and
-planned asset reuse.
-
-#### 11. Environmental rebound
-
-An efficient technology may reduce resource use per unit but increase total use:
-
-```text
-lower water/energy cost per hectare
- -> higher profitability
- -> expanded area/intensity
- -> total basin/aquifer use may rise
-```
-
-Mission evaluation must measure:
-
-- total water withdrawal, not only water per crop;
-- land-use change, not only promoted area;
-- pesticide/fertiliser load, not only yield;
-- biodiversity and genetic concentration;
-- lifecycle processing and logistics effects.
-
-#### 12. Distribution and labour
-
-##### Mechanisation
-
-- can reduce drudgery, improve timeliness and address labour scarcity;
-- may displace tasks unevenly by gender/caste/season;
-- ownership subsidy may favour larger farmers;
-- custom hiring can convert indivisible machinery into a service accessible to small farms.
-
-##### Seed and digital systems
-
-- intellectual-property/licensing or vendor concentration can affect seed autonomy;
-- digital records can improve targeting but exclude tenants or digitally constrained users;
-- algorithmic advisories can scale errors if local validation is weak.
-
-##### Distributional dashboard
-
-Disaggregate outcomes by:
-
-- farm size;
-- ownership versus tenancy;
-- irrigated versus rainfed;
-- gender;
-- social group/tribal region;
-- state/district;
-- crop and value-chain position.
-
-#### 13. Evaluation design
-
-##### Theory of change
+### Core Session 03: Results chain and theory of change
 
 ```text
 INPUT -> ACTIVITY -> OUTPUT -> ADOPTION -> OUTCOME -> IMPACT
 ```
+*Visual first:* The rail fixes the operating mechanism before the prose.
 
-Every arrow needs an assumption:
+**Definition:** A results chain states how money, staff and materials are expected to generate activities, outputs, behavioural adoption, outcomes and long-term public value.
 
-- material is timely and quality-assured;
-- training changes practice;
-- technology is profitable;
-- market absorbs output;
-- observed income change is attributable to mission;
-- resource effects remain sustainable.
+**Answer line:** Every arrow in a mission results chain is an assumption that must be tested.
 
-##### Methods
+**Keywords:** input; output; adoption; outcome; impact; assumption
 
-| Question | Suitable approach |
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Every arrow in a mission results chain is an assumption that must be tested.
+- **Named evidence:** The FY 2026-27 Output-Outcome Monitoring Framework separately records cluster area, seed distribution, productivity and production for agricultural missions.
+- **Analysis:** The separation reveals why expenditure or kits cannot by themselves establish yield, income, resilience or import substitution.
+- **Qualification:** Attribution still requires a counterfactual because rainfall, prices, trade and unrelated technologies change simultaneously.
+
+**Evidence:** The FY 2026-27 Output-Outcome Monitoring Framework separately records cluster area, seed distribution, productivity and production for agricultural missions.
+
+**UPSC trap:** Do not call an allocation, training count or covered area an impact.
+
+**Mains use:** Draw the ladder and identify the weakest unverified arrow.
+
+**Recap:** A mission is credible only when outputs lead to sustained adoption and attributable outcomes.
+
+### Core Session 04: Convergence and time-bound targets
+
+```text
+COMMON OUTCOME -> ROLE MATRIX -> SHARED CALENDAR -> JOINT METRICS -> CORRECTION
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Convergence is coordinated responsibility, timing and measurement across agencies for the same outcome, rather than several schemes merely operating in one district.
+
+**Answer line:** Co-location is not convergence; shared outcomes and accountable sequencing are.
+
+**Keywords:** convergence; role matrix; milestone; calendar; accountability
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Co-location is not convergence; shared outcomes and accountable sequencing are.
+- **Named evidence:** NMEO-OS guidelines create national, state and district missions and require convergence with crop insurance, micro-irrigation and agricultural credit.
+- **Analysis:** A common calendar can align seed availability, demonstrations, credit, irrigation and processor demand before the crop season.
+- **Qualification:** Time-bound targets can distort choices if the target is unsuitable to agro-climate or disconnected from net income.
+
+**Evidence:** NMEO-OS guidelines create national, state and district missions and require convergence with crop insurance, micro-irrigation and agricultural credit.
+
+**UPSC trap:** Do not add separate departmental activity totals and call the sum mission success.
+
+**Mains use:** Name responsible institutions and the sequence in which their actions must occur.
+
+**Recap:** Strong convergence coordinates roles, timing, data and correction around one bottleneck.
+
+### Core Session 05: Fragmentation risk
+
+```text
+RESEARCH SILO + SEED SILO + EXTENSION SILO + MARKET SILO = BROKEN DIFFUSION
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Fragmentation occurs when connected stages of innovation are funded, managed and measured separately without responsibility for the final farmer outcome.
+
+**Answer line:** A strong technology can fail when no institution owns the whole research-to-market chain.
+
+**Keywords:** fragmentation; silos; ownership; coordination failure; weakest link
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** A strong technology can fail when no institution owns the whole research-to-market chain.
+- **Named evidence:** The historical Cotton Technology Mission used separate but linked mini-missions for research, transfer, marketing and ginning or pressing.
+- **Analysis:** Its design recognised that quality seed cannot raise fibre value if extension, market yards and processing remain weak.
+- **Qualification:** Multiple mini-missions can themselves fragment unless one authority reconciles targets and timing.
+
+**Evidence:** The historical Cotton Technology Mission used separate but linked mini-missions for research, transfer, marketing and ginning or pressing.
+
+**UPSC trap:** Do not assume organisational multiplication automatically creates convergence.
+
+**Mains use:** Use cotton to show why farm and post-farm stages require one results chain.
+
+**Recap:** Fragmentation is a governance failure in which no actor is accountable for conversion of technology into value.
+
+### Core Session 06: Target gaming and Goodhart risk
+
+```text
+TARGET: AREA/KITS/ASSETS -> GAMING RISK -> COMPANION OUTCOME METRIC
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Target gaming occurs when implementing agents maximise a reported indicator rather than the underlying public outcome.
+
+**Answer line:** When area, kits or demonstrations become the goal, reported achievement can rise while use and welfare stagnate.
+
+**Keywords:** Goodhart; target gaming; perverse incentive; companion metric; verification
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** When area, kits or demonstrations become the goal, reported achievement can rise while use and welfare stagnate.
+- **Named evidence:** The FY 2026-27 framework itself separates mission outputs from outcome indicators, illustrating the need for paired measures.
+- **Analysis:** Area coverage should be paired with continued adoption and agro-climatic fit; machine purchase with utilisation and uptime; demonstrations with independent diffusion.
+- **Qualification:** No metric is manipulation-proof, so administrative data need farmer verification and periodic redesign.
+
+**Evidence:** The FY 2026-27 framework itself separates mission outputs from outcome indicators, illustrating the need for paired measures.
+
+**UPSC trap:** Do not reward unsuitable area expansion merely because it is easily counted.
+
+**Mains use:** Pair each physical target with an income, adoption, quality, equity or ecology measure.
+
+**Recap:** Targets guide delivery only when companion metrics protect the real objective.
+
+### Core Session 07: Agricultural technology is broader than machinery
+
+```text
+BIOLOGICAL | AGRONOMIC | MECHANICAL | WATER | DIGITAL | POST-HARVEST | INSTITUTIONAL
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Agricultural technology includes varieties, agronomy, machines, resource management, information systems, processing methods and organisational innovations.
+
+**Answer line:** A seed system, extension protocol or FPO arrangement can be as technological as a machine.
+
+**Keywords:** biological; agronomic; mechanical; digital; post-harvest; institutional
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** A seed system, extension protocol or FPO arrangement can be as technological as a machine.
+- **Named evidence:** NFSNM supports seeds, INM, IPM, resource-conservation technologies and capacity building, while MIDH combines planting material, protected cultivation and cold-chain infrastructure.
+- **Analysis:** Technology changes both the production function and the institutions through which knowledge, inputs and output move.
+- **Qualification:** Detailed digital architecture belongs to Topic 27 and sustainable-input design to Topic 14.
+
+**Evidence:** NFSNM supports seeds, INM, IPM, resource-conservation technologies and capacity building, while MIDH combines planting material, protected cultivation and cold-chain infrastructure.
+
+**UPSC trap:** Do not reduce technology missions to drones, tractors or laboratory inventions.
+
+**Mains use:** Classify the technology family and identify its required complements.
+
+**Recap:** Technology is a usable production or coordination method, not only a physical device.
+
+### Core Session 08: Lab-to-land-to-market chain
+
+```text
+RESEARCH -> ADAPTIVE TRIAL -> QUALITY MATERIAL -> DEMO -> ADOPTION -> MARKET -> FEEDBACK
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Lab-to-land is the conversion of research into locally validated, available, affordable and repeatedly used farm practice.
+
+**Answer line:** Publication is not transfer; adoption requires multiplication, trust, finance, service and a remunerative outlet.
+
+**Keywords:** lab-to-land; adaptive trial; multiplication; diffusion; feedback
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Publication is not transfer; adoption requires multiplication, trust, finance, service and a remunerative outlet.
+- **Named evidence:** NMEO-OS combines ICAR frontline demonstrations, seed hubs, specialised storage, value-chain clusters and processor linkage.
+- **Analysis:** The chain reduces the gap between varietal potential and realised farm returns by coordinating both upstream and downstream conditions.
+- **Qualification:** Even a successful demonstration is selected evidence and may not represent risk faced by tenants, rainfed farms or late adopters.
+
+**Evidence:** NMEO-OS combines ICAR frontline demonstrations, seed hubs, specialised storage, value-chain clusters and processor linkage.
+
+**UPSC trap:** Do not equate a released variety or demonstration plot with population-wide diffusion.
+
+**Mains use:** Trace one technology through every stage from research to repeated profitable use.
+
+**Recap:** Lab-to-land succeeds only when technology survives local adaptation, supply and market tests.
+
+### Core Session 09: ICAR and DARE
+
+```text
+DARE/ICAR: RESEARCH + VARIETIES + STANDARDS + TECHNICAL VALIDATION
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** The Department of Agricultural Research and Education and ICAR organise national agricultural research, coordinate institutes and provide technical evidence for mission design.
+
+**Answer line:** ICAR creates and validates options; it does not replace state implementation or farmer choice.
+
+**Keywords:** DARE; ICAR; research system; validation; breeder seed
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** ICAR creates and validates options; it does not replace state implementation or farmer choice.
+- **Named evidence:** NFSNM's national committees include Secretary DARE and DG ICAR; NMEO-OS assigns frontline demonstrations and seed-system roles to ICAR institutions.
+- **Analysis:** Research institutions supply varieties, protocols and technical review that missions can scale through state and district systems.
+- **Qualification:** Varietal release or trial performance does not prove timely seed supply, affordability or local profitability.
+
+**Evidence:** NFSNM's national committees include Secretary DARE and DG ICAR; NMEO-OS assigns frontline demonstrations and seed-system roles to ICAR institutions.
+
+**UPSC trap:** Do not describe ICAR as the sole implementing agency for centrally sponsored farm missions.
+
+**Mains use:** Place ICAR at research, breeder material, validation and frontline demonstration stages.
+
+**Recap:** ICAR anchors technical credibility; delivery remains a federal and market process.
+
+### Core Session 10: Krishi Vigyan Kendras
+
+```text
+OFT -> FRONTLINE DEMONSTRATION -> TRAINING -> DIAGNOSTIC SUPPORT -> FARMER FEEDBACK
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** KVKs are district-level frontline extension institutions that test location specificity, demonstrate technologies and build farmer and extension-worker capacity.
+
+**Answer line:** KVKs translate research into local evidence and send field feedback back to the research system.
+
+**Keywords:** KVK; on-farm testing; frontline demonstration; capacity development; feedback
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** KVKs translate research into local evidence and send field feedback back to the research system.
+- **Named evidence:** ICAR's KVK mandate includes on-farm testing and frontline demonstrations; NMEO-OS permits KVKs to serve as technical support agencies.
+- **Analysis:** On-farm testing asks what works locally, while frontline demonstrations show production potential under supervised field conditions.
+- **Qualification:** A KVK demonstration remains an output; independent adoption and multi-season performance are separate outcomes.
+
+**Evidence:** ICAR's KVK mandate includes on-farm testing and frontline demonstrations; NMEO-OS permits KVKs to serve as technical support agencies.
+
+**UPSC trap:** Do not confuse KVK frontline extension with the district coordination role of ATMA.
+
+**Mains use:** Use KVKs as the bridge between research validation and farmer-level learning.
+
+**Recap:** KVKs test, demonstrate, train and diagnose; they do not guarantee diffusion.
+
+### Core Session 11: ATMA and district extension
+
+```text
+SREP -> DISTRICT ACTION PLAN -> BLOCK TEAM -> FARMER GROUP -> FEEDBACK
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** ATMA is the district-level autonomous institution for managing and coordinating agricultural extension under the extension-reform architecture.
+
+**Answer line:** ATMA converts district needs and farmer feedback into coordinated extension plans.
+
+**Keywords:** ATMA; SREP; district extension; farmer advisory committee; convergence
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** ATMA converts district needs and farmer feedback into coordinated extension plans.
+- **Named evidence:** The revised 2025 ATMA guidelines call ATMA the district nodal agency, require Strategic Research and Extension Plans, and link it with KVKs through joint visits and farmer-scientist interaction.
+- **Analysis:** Its governing board, management committee, block teams and farmer advisory bodies can align line departments and locally demanded technologies.
+- **Qualification:** Administrative autonomy is bounded by staffing, fund release, data quality and state capacity.
+
+**Evidence:** The revised 2025 ATMA guidelines call ATMA the district nodal agency, require Strategic Research and Extension Plans, and link it with KVKs through joint visits and farmer-scientist interaction.
+
+**UPSC trap:** Do not treat ATMA as an ICAR research institute or a seed-certification body.
+
+**Mains use:** Use ATMA for decentralised planning, interdepartmental coordination and last-mile feedback.
+
+**Recap:** ATMA coordinates extension; KVK supplies frontline technical validation.
+
+### Core Session 12: Demonstrations and diffusion
+
+```text
+DEMO PLOT -> OBSERVED ADVANTAGE -> TRIAL BY FARMER -> REPEAT USE -> PEER DIFFUSION
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** A demonstration is a supervised field display of a technology; diffusion is its wider voluntary spread and continued use.
+
+**Answer line:** The policy objective is durable adoption, not the number of demonstration events.
+
+**Keywords:** FLD; CFLD; demonstration; adoption; diffusion
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** The policy objective is durable adoption, not the number of demonstration events.
+- **Named evidence:** NMEO-OS provides for FLDs, cluster frontline demonstrations and state block demonstrations over 2.8 lakh hectares annually.
+- **Analysis:** Demonstrations reduce information and trust barriers by making yield, cost and management requirements observable.
+- **Qualification:** Selection, supervision and free inputs can make demonstration performance higher than ordinary farm performance.
+
+**Evidence:** NMEO-OS provides for FLDs, cluster frontline demonstrations and state block demonstrations over 2.8 lakh hectares annually.
+
+**UPSC trap:** Do not use demonstration yield as an unbiased estimate of mission impact.
+
+**Mains use:** Compare demo results with independent adoption, repeated use and net-return evidence.
+
+**Recap:** Demonstration is an information instrument; diffusion is a behavioural outcome.
+
+### Core Session 13: Seed chain, SRR and VRR
+
+```text
+NUCLEUS -> BREEDER -> FOUNDATION -> CERTIFIED/QUALITY SEED -> FARMER
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Seed Replacement Rate tracks replacement of farm-saved seed with certified or quality seed, while Varietal Replacement Rate concerns movement toward newer varieties.
+
+**Answer line:** A mission needs both sufficient seed volume and timely varietal renewal.
+
+**Keywords:** seed chain; SRR; VRR; breeder seed; certified seed
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** A mission needs both sufficient seed volume and timely varietal renewal.
+- **Named evidence:** NFSNM lists enhancement of SRR and VRR among its objectives; NMEO-OS requires five-year seed rolling plans, seed hubs, storage and SATHI tracking.
+- **Analysis:** Seed multiplication and storage convert research output into timely planting material at scale.
+- **Qualification:** A higher replacement rate does not by itself prove varietal suitability, affordability or yield under local risk.
+
+**Evidence:** NFSNM lists enhancement of SRR and VRR among its objectives; NMEO-OS requires five-year seed rolling plans, seed hubs, storage and SATHI tracking.
+
+**UPSC trap:** Do not use SRR and VRR as interchangeable measures.
+
+**Mains use:** Explain both quantity replacement and quality or varietal renewal.
+
+**Recap:** Seed-system success combines multiplication, quality assurance, timing and local fit.
+
+### Core Session 14: Farmer adoption threshold
+
+```text
+EXPECTED NET BENEFIT - COST - LEARNING - RISK - IRREVERSIBILITY > STATUS QUO
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** A farmer adopts when the expected risk-adjusted return from a technology exceeds the return from the existing practice and all switching costs.
+
+**Answer line:** Non-adoption can be rational when downside risk threatens consumption or debt repayment.
+
+**Keywords:** adoption threshold; switching cost; risk; irreversibility; expected return
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Non-adoption can be rational when downside risk threatens consumption or debt repayment.
+- **Named evidence:** Oil palm has a perennial gestation period and needs nearby processing, while machinery requires repair services and sufficient utilisation.
+- **Analysis:** Credit, insurance, tenure, labour, market demand and demonstration quality change the threshold even when average experimental yield is high.
+- **Qualification:** Average profitability can hide distribution of failure risk and different planning horizons for owners and tenants.
+
+**Evidence:** Oil palm has a perennial gestation period and needs nearby processing, while machinery requires repair services and sufficient utilisation.
+
+**UPSC trap:** Do not label cautious smallholders as resistant to technology without measuring risk and complements.
+
+**Mains use:** Write adoption as an economic decision, not an awareness deficit alone.
+
+**Recap:** Adoption depends on risk-adjusted net value and feasible complements.
+
+### Core Session 15: Cluster approach
+
+```text
+CONTIGUOUS AREA -> LOWER DELIVERY COST -> AGGREGATION -> BUYER LINK -> SCALE
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** A cluster concentrates production and services so extension, machinery, aggregation, testing and procurement can operate at lower unit cost.
+
+**Answer line:** Clusters create economies of coordination but can also create exclusion and crop lock-in.
+
+**Keywords:** cluster; economies of scale; aggregation; selection; monopsony
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Clusters create economies of coordination but can also create exclusion and crop lock-in.
+- **Named evidence:** NMEO-OS plans over 600 value-chain clusters covering about 10 lakh hectares annually; MIDH requires crop-specific cluster planning.
+- **Analysis:** Contiguity can support common demonstrations, seed logistics, assaying and processor procurement.
+- **Qualification:** Politically selected clusters may exclude isolated, tribal, tenant or rainfed farmers and strengthen a single buyer.
+
+**Evidence:** NMEO-OS plans over 600 value-chain clusters covering about 10 lakh hectares annually; MIDH requires crop-specific cluster planning.
+
+**UPSC trap:** Do not assume a cluster is equitable merely because it is efficient.
+
+**Mains use:** Pair cluster scale with transparent entry, FPO bargaining and ecological safeguards.
+
+**Recap:** Clusters reduce coordination cost only when access and buyer competition are protected.
+
+### Core Session 16: Value-chain complementarity
+
+```text
+PRODUCTIVITY -> QUALITY -> AGGREGATION -> PROCESSING -> MARKET -> PRICE REALISATION
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** A value-chain mission connects farm technology with grading, storage, processing, logistics and demand.
+
+**Answer line:** Production becomes income only when quality and market links convert output into net value.
+
+**Keywords:** value chain; quality; processing; aggregation; price realisation
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Production becomes income only when quality and market links convert output into net value.
+- **Named evidence:** MIDH's 2026 guidelines require an end-to-end approach, while the historical cotton and jute missions linked farm technology with marketing and processing.
+- **Analysis:** Downstream capacity prevents gluts, loss and quality discounts from neutralising production gains.
+- **Qualification:** Processor proximity can create monopsony, and infrastructure can remain idle if crop volumes or standards are misjudged.
+
+**Evidence:** MIDH's 2026 guidelines require an end-to-end approach, while the historical cotton and jute missions linked farm technology with marketing and processing.
+
+**UPSC trap:** Do not treat production growth as automatic farm-income growth.
+
+**Mains use:** After every production claim, test cost, loss, quality, bargaining and price.
+
+**Recap:** Mission value is realised when farm output reaches a competitive market in usable form.
+
+### Core Session 17: Monitoring architecture
+
+```text
+BASELINE -> MILESTONE -> DASHBOARD -> FARMER CHECK -> MID-COURSE CORRECTION
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Monitoring tracks implementation against a baseline and timetable; evaluation asks whether the mission caused worthwhile outcomes.
+
+**Answer line:** Dashboards support control, but farmer verification and independent evaluation protect truth.
+
+**Keywords:** baseline; dashboard; milestone; verification; correction
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Dashboards support control, but farmer verification and independent evaluation protect truth.
+- **Named evidence:** NMEO-OS creates governing and steering bodies with digital tracking; MIDH uses the SURAKSHA portal and monthly state reporting.
+- **Analysis:** Timely monitoring can identify delayed seed supply, unspent funds, missing processors or regional underperformance within the crop cycle.
+- **Qualification:** Portal completeness can improve while field quality, exclusion or data incentives remain weak.
+
+**Evidence:** NMEO-OS creates governing and steering bodies with digital tracking; MIDH uses the SURAKSHA portal and monthly state reporting.
+
+**UPSC trap:** Do not mistake real-time reporting for real-time welfare.
+
+**Mains use:** Separate implementation monitoring from causal impact evaluation.
+
+**Recap:** Monitoring asks whether delivery happened; evaluation asks what difference it made.
+
+### Core Session 18: Additionality and counterfactual
+
+```text
+OBSERVED CHANGE - PLAUSIBLE CHANGE WITHOUT MISSION = ADDITIONALITY
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Additionality is the outcome attributable to the mission beyond what would have occurred without it.
+
+**Answer line:** Before-after growth is not attribution because weather, prices, area and other policies also move.
+
+**Keywords:** additionality; counterfactual; attribution; baseline; comparison
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Before-after growth is not attribution because weather, prices, area and other policies also move.
+- **Named evidence:** Official reports show major oilseed and pulse production growth over long periods, but the same periods include price, rainfall, trade and technology changes.
+- **Analysis:** Matched comparison, phased rollout, credible quasi-experiments and multi-season panels improve causal inference.
+- **Qualification:** Randomised designs are not always feasible for national programmes, so triangulation and transparent assumptions are necessary.
+
+**Evidence:** Official reports show major oilseed and pulse production growth over long periods, but the same periods include price, rainfall, trade and technology changes.
+
+**UPSC trap:** Do not credit the entire national production change to one mission.
+
+**Mains use:** State the observed result, alternative causes and the evaluation design needed.
+
+**Recap:** Mission success is incremental, not identical to the national trend.
+
+### Core Session 19: Regional equity
+
+```text
+NATIONAL AVERAGE -> STATE/DISTRICT/FARM-TYPE DISTRIBUTION -> EQUITY VERDICT
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Regional equity asks whether mission benefits reach low-productivity, rainfed, tribal and weak-capacity regions rather than only already connected clusters.
+
+**Answer line:** A rising national average can coexist with widening regional gaps.
+
+**Keywords:** regional equity; rainfed; tribal; baseline; state capacity
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** A rising national average can coexist with widening regional gaps.
+- **Named evidence:** NFSNM prioritises low-productivity high-potential districts and rainfed foodgrain areas; MIDH uses regionally differentiated strategies and higher support patterns for North-East and Himalayan states.
+- **Analysis:** Targeting lagging regions can raise additionality but requires stronger extension, logistics and local adaptation.
+- **Qualification:** Uniform national physical targets may penalise ecologically unsuitable or institutionally weaker regions.
+
+**Evidence:** NFSNM prioritises low-productivity high-potential districts and rainfed foodgrain areas; MIDH uses regionally differentiated strategies and higher support patterns for North-East and Himalayan states.
+
+**UPSC trap:** Do not infer equitable success from all-India production alone.
+
+**Mains use:** Disaggregate outcomes by state, farm size, irrigation, gender, tenancy and social group.
+
+**Recap:** Equity is distribution of durable outcomes, not equal activity counts.
+
+### Core Session 20: Sunset, mainstreaming and successor rules
+
+```text
+MISSION END -> SCALE | MAINSTREAM | REDESIGN | CLOSE
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** A sunset rule specifies when temporary mission support ends, becomes routine administration, is redesigned or is closed.
+
+**Answer line:** Mission mode loses discipline when every temporary intervention continues indefinitely without a fresh problem test.
+
+**Keywords:** sunset; mainstreaming; successor; redesign; closure
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Mission mode loses discipline when every temporary intervention continues indefinitely without a fresh problem test.
+- **Named evidence:** Oilseed programmes moved from TMO to ISOPOM, NMOOP and current NMEO missions; SMSP moved from NMAET into NFSNM.
+- **Analysis:** Successor design can retain useful capability while replacing obsolete targets and fragmented structures.
+- **Qualification:** Renaming alone does not prove reform, and closure can destroy useful public capacity if transition is unmanaged.
+
+**Evidence:** Oilseed programmes moved from TMO to ISOPOM, NMOOP and current NMEO missions; SMSP moved from NMAET into NFSNM.
+
+**UPSC trap:** Do not present a predecessor and successor as simultaneously current.
+
+**Mains use:** End evaluations with an explicit scale, mainstream, redesign or close decision.
+
+**Recap:** A mission should have an exit logic as clear as its launch logic.
+
+### Core Session 21: Technology Mission on Oilseeds: origin
+
+```text
+MAY 1986 TMO -> RESEARCH + SEED + EXTENSION + PRICE/MARKET SUPPORT
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** The Technology Mission on Oilseeds was launched in May 1986 to address low productivity, edible-oil dependence and fragmented support.
+
+**Answer line:** TMO is the classic Indian example of a commodity problem organised as a coordinated mission.
+
+**Keywords:** TMO; 1986; oilseeds; Yellow Revolution; import dependence
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** TMO is the classic Indian example of a commodity problem organised as a coordinated mission.
+- **Named evidence:** Official Agriculture Ministry history dates TMO to May 1986; PIB reported oilseed output of 112.70 lakh tonnes in 1986-87.
+- **Analysis:** The mission aligned technology generation, input delivery, extension and supportive market policy rather than relying on one seed or subsidy.
+- **Qualification:** Later production growth cannot be attributed solely to TMO, and temporary self-sufficiency did not eliminate structural import dependence.
+
+**Evidence:** Official Agriculture Ministry history dates TMO to May 1986; PIB reported oilseed output of 112.70 lakh tonnes in 1986-87.
+
+**UPSC trap:** Do not call TMO or its original umbrella a current scheme.
+
+**Mains use:** Use TMO to introduce mission-mode coordination and then trace successor architecture.
+
+**Recap:** TMO began the oilseed mission lineage but belongs to a dated historical phase.
+
+### Core Session 22: TMO results and qualification
+
+```text
+OUTPUT GROWTH -> TEMPORARY SELF-SUFFICIENCY -> COMPETING CROPS/IMPORTS -> RENEWED GAP
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** TMO contributed to higher oilseed capability, but sustained edible-oil security depends on productivity, prices, demand and trade.
+
+**Answer line:** Historical success must be judged as additional capability, not permanent closure of the problem.
+
+**Keywords:** production; self-sufficiency; productivity; trade; durability
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Historical success must be judged as additional capability, not permanent closure of the problem.
+- **Named evidence:** PIB reported oilseed production rising from 112.70 lakh tonnes in 1986-87 to 324.80 lakh tonnes in 2010-11.
+- **Analysis:** The long-run increase shows capability expansion but also spans changing area, prices, weather, varieties and successor programmes.
+- **Qualification:** A production series does not measure farmer income, oil recovery, consumer cost or mission-only causation.
+
+**Evidence:** PIB reported oilseed production rising from 112.70 lakh tonnes in 1986-87 to 324.80 lakh tonnes in 2010-11.
+
+**UPSC trap:** Do not convert a historical production rise into proof of current edible-oil self-reliance.
+
+**Mains use:** Pair the achievement with continuing import dependence and a causal caveat.
+
+**Recap:** TMO produced capability gains, but durable security requires continuing yield and value-chain reform.
+
+### Core Session 23: Oilseed successor chronology
+
+```text
+TMO 1986 -> ISOPOM 2004 -> NMOOP 2014-15 -> NFSM-OS -> NMEO-OP/NMEO-OS
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** India's edible-oil policy repeatedly reorganised crop coverage and administrative umbrellas as bottlenecks changed.
+
+**Answer line:** Chronology prevents a historical mission name from being mistaken for a current programme.
+
+**Keywords:** ISOPOM; NMOOP; NFSM-OS; predecessor; successor
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Chronology prevents a historical mission name from being mistaken for a current programme.
+- **Named evidence:** Official guidelines record TMO's subsumption into ISOPOM in 2004, NMOOP from 2014-15, later NFSM oilseed components and current NMEO missions.
+- **Analysis:** Restructuring moved from a broad integrated crop scheme to separate annual-oilseed and perennial-oil-palm architectures.
+- **Qualification:** The sequence is not a clean causal experiment; overlaps, liabilities and administrative transitions can persist.
+
+**Evidence:** Official guidelines record TMO's subsumption into ISOPOM in 2004, NMOOP from 2014-15, later NFSM oilseed components and current NMEO missions.
+
+**UPSC trap:** Do not merge TMO, NMOOP, NFSM-OS, NMEO-OS and NMEO-OP into one timeless mission.
+
+**Mains use:** Write the predecessor-successor arrow with dates before describing current components.
+
+**Recap:** Oilseed policy evolved through changing umbrellas; only the dated current mission should carry current targets.
+
+### Core Session 24: NMEO-OS: current approved mission
+
+```text
+2024-25--2030-31 | OUTLAY RS 10,103.38 CR | NFSM-OS SUBSUMED
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** NMEO-OS is the current centrally sponsored annual-oilseed mission under Krishonnati Yojana, sanctioned for 2024-25 to 2030-31.
+
+**Answer line:** NMEO-OS is distinct from oil palm and expressly subsumes the former NFSM-Oilseeds component.
+
+**Keywords:** NMEO-OS; annual oilseeds; Centrally Sponsored Scheme; outlay; subsumption
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** NMEO-OS is distinct from oil palm and expressly subsumes the former NFSM-Oilseeds component.
+- **Named evidence:** The 3 June 2025 operational guidelines state an outlay of Rs 10,103.38 crore, including a central share of Rs 7,481.67 crore.
+- **Analysis:** Its focus on rapeseed-mustard, groundnut and soybean, with secondary and tree-borne oils, combines seed, demonstrations, clusters and processing.
+- **Qualification:** Approved outlay is neither expenditure nor achievement, and the mission period extends beyond the current cutoff.
+
+**Evidence:** The 3 June 2025 operational guidelines state an outlay of Rs 10,103.38 crore, including a central share of Rs 7,481.67 crore.
+
+**UPSC trap:** Do not write NMEO-OS as a renamed oil-palm scheme.
+
+**Mains use:** State period, legal form, crops and predecessor before quoting targets.
+
+**Recap:** NMEO-OS is the current annual-oilseed mission; approval and outcome remain separate facts.
+
+### Core Session 25: NMEO-OS: targets and delivery
+
+```text
+600+ VCCs | 10 LAKH HA/YR | 2.8 LAKH HA DEMOS/YR | 65 HUBS | 50 STORES
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** NMEO-OS uses value-chain clusters, seed-system expansion, demonstrations, fallow-area targeting and processor linkage to reduce yield and market gaps.
+
+**Answer line:** Its design combines technology diffusion with seed logistics and downstream demand.
+
+**Keywords:** value-chain cluster; seed hub; SATHI; fallow area; processor linkage
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Its design combines technology diffusion with seed logistics and downstream demand.
+- **Named evidence:** Official guidelines specify over 600 clusters covering about 10 lakh hectares annually, demonstrations over 2.8 lakh hectares annually, 65 seed hubs and 50 specialised storage units.
+- **Analysis:** Five-year rolling seed plans and SATHI tracking aim to make recent varieties available at the correct place and season.
+- **Qualification:** The Cabinet target of 69.7 million tonnes of primary oilseeds by 2030-31 is a target, not a forecast or achieved output.
+
+**Evidence:** Official guidelines specify over 600 clusters covering about 10 lakh hectares annually, demonstrations over 2.8 lakh hectares annually, 65 seed hubs and 50 specialised storage units.
+
+**UPSC trap:** Do not add cluster area and demonstration area as if they were distinct farmers or net additional land.
+
+**Mains use:** Use the targets to explain mechanism, then test yield, net returns and import outcomes.
+
+**Recap:** NMEO-OS links seed renewal, local diffusion and value-chain coordination at scale.
+
+### Core Session 26: NMEO-OP: approved phase and 2026-27 status
+
+```text
+2021-22--2025-26 PHASE -> FY 2026-27 OOMF TARGETS -> EXTENSION ORDER NOT LOCATED
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** NMEO-OP is the oil-palm mission whose original Cabinet-approved funding phase ran from 2021-22 to 2025-26.
+
+**Answer line:** Administrative tenure, later budget targets and a formal extension order must be reported separately.
+
+**Keywords:** NMEO-OP; oil palm; approved phase; OOMF; status caution
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Administrative tenure, later budget targets and a formal extension order must be reported separately.
+- **Named evidence:** The 2021 approval carried Rs 11,040 crore and aimed at 6.5 lakh hectares of additional area; the FY 2026-27 Outcome Budget still sets one lakh hectare annual expansion and 23.30 lakh tonnes CPO production as targets.
+- **Analysis:** The 2026-27 target table evidences budgeted monitoring beyond the original phase.
+- **Qualification:** No separate post-2025-26 extension or successor approval was located by 10 September 2026, so the OOMF must not be described as that order.
+
+**Evidence:** The 2021 approval carried Rs 11,040 crore and aimed at 6.5 lakh hectares of additional area; the FY 2026-27 Outcome Budget still sets one lakh hectare annual expansion and 23.30 lakh tonnes CPO production as targets.
+
+**UPSC trap:** Do not confuse a 2029-30 production aspiration with formal mission tenure.
+
+**Mains use:** Write both the ended approved phase and the dated 2026-27 budget target.
+
+**Recap:** NMEO-OP has continuing budget targets, but its formal post-phase authority needs the missing extension document.
+
+### Core Session 27: Oil-palm technology and ecology
+
+```text
+QUALITY SEEDLING -> 4-YEAR GESTATION -> HARVEST -> NEARBY MILL -> CPO
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Oil palm is a perennial plantation crop whose economics depend on planting material, gestation support, frequent harvest and rapid processing.
+
+**Answer line:** High oil yield per hectare does not remove location, water, biodiversity and processor-dependence risks.
+
+**Keywords:** perennial; gestation; FFB; processing radius; ecological suitability
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** High oil yield per hectare does not remove location, water, biodiversity and processor-dependence risks.
+- **Named evidence:** NMEO-OP assistance includes planting material, gestation-period support, irrigation and price-related viability arrangements.
+- **Analysis:** Fresh fruit bunches require timely processing, so farm adoption and mill location are mutually dependent investments.
+- **Qualification:** National yield comparisons can conceal basin water stress, land-use change and smallholder bargaining risk.
+
+**Evidence:** NMEO-OP assistance includes planting material, gestation-period support, irrigation and price-related viability arrangements.
+
+**UPSC trap:** Do not infer ecological suitability from high biological oil yield alone.
+
+**Mains use:** Evaluate oil palm with water budget, land-use baseline, processor competition and long-term price risk.
+
+**Recap:** Oil-palm success is a location-specific farm-and-processing system, not simple area expansion.
+
+### Core Session 28: NFSM origin and original targets
+
+```text
+OCT 2007: RICE +10 MT | WHEAT +8 MT | PULSES +2 MT BY 2011-12
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** NFSM began in October 2007 as a centrally sponsored mission for additional rice, wheat and pulse production by the end of the Eleventh Plan.
+
+**Answer line:** Its origin illustrates a time-bound crop-production mission with explicit national targets.
+
+**Keywords:** NFSM; October 2007; rice; wheat; pulses
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Its origin illustrates a time-bound crop-production mission with explicit national targets.
+- **Named evidence:** Current NFSNM guidelines reproduce the original targets of 10 million tonnes rice, 8 million tonnes wheat and 2 million tonnes pulses.
+- **Analysis:** Cluster demonstrations, improved varieties, integrated crop management and capacity building sought to close yield gaps.
+- **Qualification:** The original targets belong to 2011-12 and must not be quoted as current objectives.
+
+**Evidence:** Current NFSNM guidelines reproduce the original targets of 10 million tonnes rice, 8 million tonnes wheat and 2 million tonnes pulses.
+
+**UPSC trap:** Do not apply the 2007 crop basket or targets to FY 2026-27.
+
+**Mains use:** Use origin targets only to explain the initial mission problem and design.
+
+**Recap:** NFSM began with three crops and dated Eleventh Plan production targets.
+
+### Core Session 29: NFSNM: current components and status
+
+```text
+RICE | WHEAT | PULSES | MAIZE/BARLEY | SHREE ANNA | COMMERCIAL CROPS | SEEDS
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** NFSM was renamed National Food Security and Nutrition Mission and now integrates seven crop and seed components.
+
+**Answer line:** The current basket is wider than the 2007 mission and includes the former seed sub-mission.
+
+**Keywords:** NFSNM; seven components; nutrition; commercial crops; seed component
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** The current basket is wider than the 2007 mission and includes the former seed sub-mission.
+- **Named evidence:** Official guidelines list rice, wheat, pulses, coarse cereals, Sub-Mission on Nutri-Cereals, commercial crops and seed components; FY 2026-27 OOMF retains NFSNM under Krishonnati Yojana.
+- **Analysis:** The mission now links sustainable productivity, soil fertility, farmer income, farm-gate value addition, SRR and VRR.
+- **Qualification:** The guideline's earlier continuation approval ended 31 March 2026, but the later FY 2026-27 OOMF supplies the current budget-status evidence.
+
+**Evidence:** Official guidelines list rice, wheat, pulses, coarse cereals, Sub-Mission on Nutri-Cereals, commercial crops and seed components; FY 2026-27 OOMF retains NFSNM under Krishonnati Yojana.
+
+**UPSC trap:** Do not call oilseeds or oil palm current NFSNM components after their subsumption under NMEO missions.
+
+**Mains use:** Date the seven-component list and distinguish guideline tenure from 2026-27 budget continuation.
+
+**Recap:** NFSNM is current in FY 2026-27 with a seven-component crop-and-seed architecture.
+
+### Core Session 30: NFSNM technology focus and targets
+
+```text
+LOW-PRODUCTIVITY DISTRICT -> CLUSTER DEMO -> NEW SEED -> INM/IPM -> WATER SAVING
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** NFSNM raises sustainable crop productivity through agro-climatic planning, cropping-system interventions, seed renewal and integrated management.
+
+**Answer line:** Its technology focus is a package, not a single high-yielding variety.
+
+**Keywords:** cluster demonstration; INM; IPM; resource conservation; biofortification
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Its technology focus is a package, not a single high-yielding variety.
+- **Named evidence:** The FY 2026-27 OOMF targets cereal productivity of 3,123 kg/ha, nutri-cereal productivity of 1,494 kg/ha and coarse-cereal productivity of 3,797 kg/ha.
+- **Analysis:** Newly released climate-resilient, biofortified and pest-resistant seed enters the mission alongside nutrient, pest and water-use practices.
+- **Qualification:** Outcome-budget targets are planned values and do not establish realised yield or mission causation.
+
+**Evidence:** The FY 2026-27 OOMF targets cereal productivity of 3,123 kg/ha, nutri-cereal productivity of 1,494 kg/ha and coarse-cereal productivity of 3,797 kg/ha.
+
+**UPSC trap:** Do not confuse aggregate cereal productivity with every crop or district.
+
+**Mains use:** Quote one dated target and then explain package technology and regional variation.
+
+**Recap:** NFSNM combines seed, agronomy and capacity building around dated productivity outcomes.
+
+### Core Session 31: Mission for Aatmanirbharta in Pulses
+
+```text
+2025-26--2030-31 | RS 11,440 CR | SEED + AREA + PRODUCTIVITY + PROCUREMENT
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** The current pulses mission is a six-year mission approved in 2025 to raise domestic pulse capability and reduce import vulnerability.
+
+**Answer line:** It is distinct from the pulses component of NFSNM even though the two policy systems must converge.
+
+**Keywords:** pulses; self-reliance; procurement; seed; 2030-31
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** It is distinct from the pulses component of NFSNM even though the two policy systems must converge.
+- **Named evidence:** The Cabinet-approved mission carries Rs 11,440 crore for 2025-26 to 2030-31 and targets 350 lakh tonnes production, 310 lakh hectares area and 1,130 kg/ha productivity by 2030-31.
+- **Analysis:** The design combines climate-resilient seed, area expansion, productivity, processing and procurement support for tur, urad and masoor.
+- **Qualification:** Targets are not achievements, and assured procurement remains subject to registration, quality, operational rules and market implementation.
+
+**Evidence:** The Cabinet-approved mission carries Rs 11,440 crore for 2025-26 to 2030-31 and targets 350 lakh tonnes production, 310 lakh hectares area and 1,130 kg/ha productivity by 2030-31.
+
+**UPSC trap:** Do not merge the standalone 2025 pulses mission with the historical NFSM pulses component.
+
+**Mains use:** Explain convergence but retain separate approval, outlay, period and targets.
+
+**Recap:** The pulses mission adds a dedicated value-chain and procurement push to the continuing NFSNM crop platform.
+
+### Core Session 32: Millets and Nutri-Cereals status
+
+```text
+INSIMP 2011-14 -> NFSM COARSE CEREALS 2014-18 -> NFSNM SUB-MISSION ON SHREE ANNA
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Millet support currently operates as the Sub-Mission on Nutri-Cereals within NFSNM rather than a separately verified current National Millet Mission.
+
+**Answer line:** Use the official current component name, not a generic mission label.
+
+**Keywords:** Shree Anna; nutri-cereals; INSIMP; sub-mission; status
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Use the official current component name, not a generic mission label.
+- **Named evidence:** NFSNM guidelines trace INSIMP under RKVY, merger into NFSM-Coarse Cereals and a separate nutri-cereal sub-mission from 2018-19.
+- **Analysis:** The current component supports traditionally grown and consumed jowar, bajra, ragi and small millets through seed and production interventions.
+- **Qualification:** International Year of Millets publicity or a state millet mission does not establish a current standalone Union mission.
+
+**Evidence:** NFSNM guidelines trace INSIMP under RKVY, merger into NFSM-Coarse Cereals and a separate nutri-cereal sub-mission from 2018-19.
+
+**UPSC trap:** Do not invent a current National Millet Mission without an operative Union guideline.
+
+**Mains use:** State that millets are mission-labelled through the NFSNM sub-mission.
+
+**Recap:** Current Union millet support sits inside NFSNM's Sub-Mission on Nutri-Cereals.
+
+### Core Session 33: NMSA origin and climate-policy role
+
+```text
+NAPCC -> NMSA 2014-15 -> RESILIENCE + RAINFED SYSTEMS + RESOURCE CONSERVATION
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** National Mission for Sustainable Agriculture is the agricultural mission under the National Action Plan on Climate Change.
+
+**Answer line:** NMSA makes resilience and resource conservation explicit mission outcomes.
+
+**Keywords:** NMSA; NAPCC; resilience; rainfed; integrated farming
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** NMSA makes resilience and resource conservation explicit mission outcomes.
+- **Named evidence:** Official NMSA materials identify Rainfed Area Development, On-Farm Water Management and Soil Health Management as original components.
+- **Analysis:** RAD promotes integrated farming systems to diversify income and risk in rainfed areas.
+- **Qualification:** The original component bundle has since been redistributed across newer umbrellas, so old lists are historical snapshots.
+
+**Evidence:** Official NMSA materials identify Rainfed Area Development, On-Farm Water Management and Soil Health Management as original components.
+
+**UPSC trap:** Do not present every original NMSA component as still administered under one unchanged mission.
+
+**Mains use:** Use NMSA for the climate-resilience logic, then give the current delivery placement.
+
+**Recap:** NMSA supplies the climate mission; current implementation is spread across rationalised components.
+
+### Core Session 34: NMSA restructuring under PM-RKVY
+
+```text
+NMSA FUNCTIONS -> RAD + PDMC + SH&F + PKVY + AGROFORESTRY IN PM-RKVY
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** The 2024 PM-RKVY restructuring placed major sustainability and mechanisation components in a state-flexible cafeteria scheme.
+
+**Answer line:** Mission purpose can continue even when its administrative components move.
+
+**Keywords:** PM-RKVY; cafeteria; RAD; PDMC; soil health; agroforestry
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Mission purpose can continue even when its administrative components move.
+- **Named evidence:** PM-RKVY guidelines dated 14 November 2024 list PDMC, SMAM, Soil Health and Fertility, PKVY, RAD, Agroforestry and Crop Diversification among current components.
+- **Analysis:** State flexibility can align portfolios with local agro-climate and farmer needs while reducing duplicate schemes.
+- **Qualification:** Flexibility can also weaken comparability or divert funds unless outcome guardrails and ring-fenced functions remain.
+
+**Evidence:** PM-RKVY guidelines dated 14 November 2024 list PDMC, SMAM, Soil Health and Fertility, PKVY, RAD, Agroforestry and Crop Diversification among current components.
+
+**UPSC trap:** Do not equate NMSA's conceptual mission with the current PM-RKVY budget umbrella.
+
+**Mains use:** Distinguish climate-policy ownership from present implementation location.
+
+**Recap:** NMSA's objectives persist through a rationalised PM-RKVY delivery architecture.
+
+### Core Session 35: National Mission on Natural Farming
+
+```text
+25 NOV 2024 APPROVAL -> RS 2,481 CR TO MAR 2026 -> PROPOSED NEXT PHASE
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** NMNF was approved in November 2024 as a standalone centrally sponsored mission for location-specific natural-farming systems.
+
+**Answer line:** Its first approved phase and its proposed post-March-2026 phase must not be merged.
+
+**Keywords:** NMNF; natural farming; BRC; cluster; approval status
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Its first approved phase and its proposed post-March-2026 phase must not be merged.
+- **Named evidence:** The first phase had Rs 2,481 crore, 15,000 clusters, 7.5 lakh hectares, one crore farmers, 10,000 bio-input centres and 2,000 model farms through March 2026.
+- **Analysis:** The FY 2026-27 OOMF provides Rs 750 crore and proposed targets, but expressly says the 2026-27 to 2030-31 targets are tentative and subject to approval; the draft EFC proposes 65,000 clusters over 32.5 lakh hectares.
+- **Qualification:** A budget provision and draft EFC are not the competent authority's final extension approval.
+
+**Evidence:** The first phase had Rs 2,481 crore, 15,000 clusters, 7.5 lakh hectares, one crore farmers, 10,000 bio-input centres and 2,000 model farms through March 2026.
+
+**UPSC trap:** Do not state the proposed second phase as finally approved.
+
+**Mains use:** Write first-phase achievement separately from the conditional FY 2026-27 proposal.
+
+**Recap:** NMNF is mission-labelled, but its post-March-2026 scale-up remained approval-qualified at the cutoff.
+
+### Core Session 36: NHM to MIDH evolution
+
+```text
+NHM 2005-06 -> MIDH 2014-15 -> 2026 UPDATED GUIDELINES
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** National Horticulture Mission began in 2005-06 and became a sub-scheme within the broader MIDH architecture from 2014-15.
+
+**Answer line:** NHM and MIDH are not interchangeable names across all years.
+
+**Keywords:** NHM; MIDH; horticulture; predecessor; umbrella
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** NHM and MIDH are not interchangeable names across all years.
+- **Named evidence:** MIDH's operational guidelines updated on 7 May 2026 retain NHM as one of six sub-schemes.
+- **Analysis:** The wider umbrella joins region-specific production, quality planting material, protected cultivation, post-harvest management and marketing.
+- **Qualification:** A successor umbrella does not prove that every income bottleneck or regional gap has been solved.
+
+**Evidence:** MIDH's operational guidelines updated on 7 May 2026 retain NHM as one of six sub-schemes.
+
+**UPSC trap:** Do not describe NHM as abolished merely because it became a MIDH component.
+
+**Mains use:** Use the arrow NHM to MIDH and then state NHM's current component status.
+
+**Recap:** NHM survives as a MIDH sub-scheme inside a broader production-to-market mission.
+
+### Core Session 37: MIDH current architecture
+
+```text
+NHM | HMNEH | NHB | CDB | NBM | CIH
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** MIDH is the current centrally sponsored horticulture mission covering production, post-harvest, processing and marketing through six sub-schemes.
+
+**Answer line:** The 2026 component list is a dated administrative fact.
+
+**Keywords:** MIDH; NHM; HMNEH; NHB; CDB; CIH
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** The 2026 component list is a dated administrative fact.
+- **Named evidence:** The 7 May 2026 guidelines list NHM, HMNEH, National Horticulture Board, Coconut Development Board, National Bamboo Mission and Central Institute for Horticulture.
+- **Analysis:** Its funding pattern is generally 60:40, 90:10 for North-East and Himalayan states, and 100% Union funding for specified boards, agencies and UTs without legislature.
+- **Qualification:** Funding ratios do not measure state absorption, project quality or farmer incidence.
+
+**Evidence:** The 7 May 2026 guidelines list NHM, HMNEH, National Horticulture Board, Coconut Development Board, National Bamboo Mission and Central Institute for Horticulture.
+
+**UPSC trap:** Do not omit the boards and CIH when asked for the current MIDH architecture.
+
+**Mains use:** Present the six-part structure and the production-to-market logic.
+
+**Recap:** MIDH combines regional missions, national boards and technical support under one horticulture umbrella.
+
+### Core Session 38: MIDH targets and farmer income
+
+```text
+PLANTING MATERIAL -> PRODUCTIVITY -> LOSS REDUCTION -> MARKET -> NET INCOME
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** MIDH can raise horticulture output and quality, but farmer income depends on cost, perishability, processing, bargaining and price.
+
+**Answer line:** Horticulture mission success is value realisation, not tonnes alone.
+
+**Keywords:** planting material; protected cultivation; cold chain; perishability; net income
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Horticulture mission success is value realisation, not tonnes alone.
+- **Named evidence:** FY 2026-27 OOMF targets include 50 new nurseries, 80,000 hectares of new gardens, 15,000 hectares protected cultivation and 1.7 lakh tonnes additional cold-storage capacity.
+- **Analysis:** These outputs can support the mission's 365 million tonne horticulture-production outcome target by easing biological and post-harvest constraints.
+- **Qualification:** All are targets; gluts, quality standards, energy cost and unequal aggregation can still reduce net returns.
+
+**Evidence:** FY 2026-27 OOMF targets include 50 new nurseries, 80,000 hectares of new gardens, 15,000 hectares protected cultivation and 1.7 lakh tonnes additional cold-storage capacity.
+
+**UPSC trap:** Do not answer the 2018 NHM PYQ with production statistics alone.
+
+**Mains use:** Connect each intervention to net price realisation and name the remaining bottleneck.
+
+**Recap:** MIDH raises capability; income rises only when technology and markets convert output into stable net value.
+
+### Core Session 39: National Bamboo Mission
+
+```text
+2006-07 LAUNCH -> MIDH 2014-15 -> RESTRUCTURED 2018 -> 2025 GUIDELINES
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** National Bamboo Mission is a current MIDH sub-scheme for quality planting material, cultivation and bamboo value-chain development.
+
+**Answer line:** Bamboo is mission-labelled and current, but its administrative form changed over time.
+
+**Keywords:** NBM; bamboo; restructured; MIDH; value chain
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Bamboo is mission-labelled and current, but its administrative form changed over time.
+- **Named evidence:** The 2025 NBM guidelines cover nurseries, non-forest plantations, primary processing, aggregation, markets, skills and technology support.
+- **Analysis:** The mission links a long-gestation biological resource with processing, design and market demand.
+- **Qualification:** Plantation targets can create delayed supply or ecological and market mismatch if species, tenure and industry demand are weak.
+
+**Evidence:** The 2025 NBM guidelines cover nurseries, non-forest plantations, primary processing, aggregation, markets, skills and technology support.
+
+**UPSC trap:** Do not treat bamboo plantation area as immediate industrial output or farmer income.
+
+**Mains use:** Trace planting material to harvest, processing, product demand and payment.
+
+**Recap:** Current NBM is a MIDH value-chain mission, not merely a plantation subsidy.
+
+### Core Session 40: National Beekeeping and Honey Mission status
+
+```text
+2020-21--2022-23 -> EXTENDED TO 2025-26 -> NO LATER EXTENSION LOCATED
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** NBHM was a central-sector mission for scientific beekeeping, pollination, processing, testing, traceability and markets.
+
+**Answer line:** At the cutoff, it is a recently completed approved phase, not safely a current post-2025-26 mission.
+
+**Keywords:** NBHM; pollination; honey; traceability; completed phase
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** At the cutoff, it is a recently completed approved phase, not safely a current post-2025-26 mission.
+- **Named evidence:** The original Rs 500 crore mission was extended through 2025-26 using the remaining Rs 370 crore; official releases located no extension beyond that year by 10 September 2026.
+- **Analysis:** Its three-mini-mission architecture linked production, post-harvest or markets, and research or technology.
+- **Qualification:** Ongoing assets, portals or projects after the funding period do not by themselves extend the scheme.
+
+**Evidence:** The original Rs 500 crore mission was extended through 2025-26 using the remaining Rs 370 crore; official releases located no extension beyond that year by 10 September 2026.
+
+**UPSC trap:** Do not call NBHM current in FY 2026-27 without a fresh approval.
+
+**Mains use:** Label it 'approved phase ended 2025-26; successor or extension not located'.
+
+**Recap:** NBHM remains an important model, but its current administrative continuation is unverified.
+
+### Core Session 41: NMAET: classic four-sub-mission architecture
+
+```text
+SMAE + SMSP + SMAM + SMPPQ
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** NMAET was approved in 2014 to integrate extension, seed, mechanisation and plant protection or quarantine.
+
+**Answer line:** Its four functions remain essential even though the old umbrella is no longer the current administrative map.
+
+**Keywords:** NMAET; SMAE; SMSP; SMAM; SMPPQ
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Its four functions remain essential even though the old umbrella is no longer the current administrative map.
+- **Named evidence:** The 2014 Cabinet approval and PIB materials identify the four sub-missions.
+- **Analysis:** Together they cover knowledge dissemination, planting material, equipment access and biological risk management.
+- **Qualification:** Remembering only the historical acronym obscures the later redistribution of its functions.
+
+**Evidence:** The 2014 Cabinet approval and PIB materials identify the four sub-missions.
+
+**UPSC trap:** Do not list all four as unchanged current NMAET sub-missions.
+
+**Mains use:** First give the classic architecture, then map each function to its current home.
+
+**Recap:** NMAET is historically important; its functions now travel through different current schemes.
+
+### Core Session 42: NMAET successor map
+
+```text
+SMAE/SAME -> KRISHONNATI | SMSP -> NFSNM | SMAM -> PM-RKVY | SMPPQ -> PPQ SYSTEM
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** The former NMAET functions have been rationalised into different current administrative arrangements.
+
+**Answer line:** Current status must be stated sub-mission by sub-mission.
+
+**Keywords:** successor map; rationalisation; extension; seed; mechanisation; quarantine
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Current status must be stated sub-mission by sub-mission.
+- **Named evidence:** Economic Survey 2025-26 and FY 2026-27 OOMF retain Agriculture Extension under Krishonnati; NFSNM guidelines merge SMSP into Seed Components; PM-RKVY contains SMAM including crop-residue management.
+- **Analysis:** Plant protection and quarantine continue through the plant-protection regulatory and programme system rather than a clearly reconstituted NMAET umbrella.
+- **Qualification:** A continuing function is not proof that the old umbrella remains current.
+
+**Evidence:** Economic Survey 2025-26 and FY 2026-27 OOMF retain Agriculture Extension under Krishonnati; NFSNM guidelines merge SMSP into Seed Components; PM-RKVY contains SMAM including crop-residue management.
+
+**UPSC trap:** Do not answer a current-status question with the 2014 organisational chart alone.
+
+**Mains use:** Use a four-arrow successor map with dated official documents.
+
+**Recap:** NMAET's functions continue, but the original umbrella has fragmented into current successors.
+
+### Core Session 43: Current Agriculture Extension
+
+```text
+MANAGE/EEI + ATMA + KISAN CALL CENTRE + AC&ABC
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Current agricultural extension under Krishonnati combines central capacity building with state ATMA delivery and farmer outreach.
+
+**Answer line:** Extension is a system of learning and feedback, not a one-way message service.
+
+**Keywords:** SAME; ATMA; MANAGE; EEI; advisory
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Extension is a system of learning and feedback, not a one-way message service.
+- **Named evidence:** FY 2026-27 OOMF targets 15,91,088 ATMA training beneficiaries, 22 Kisan Call Centres and 50 lakh advisories, while explicitly treating adoption as not instantly measurable.
+- **Analysis:** The framework recognises the difference between training output and later technology adoption.
+- **Qualification:** Large advisory counts may include repeated recipients and say little about relevance, comprehension or action.
+
+**Evidence:** FY 2026-27 OOMF targets 15,91,088 ATMA training beneficiaries, 22 Kisan Call Centres and 50 lakh advisories, while explicitly treating adoption as not instantly measurable.
+
+**UPSC trap:** Do not count messages sent as technologies adopted.
+
+**Mains use:** Evaluate reach, local fit, feedback, adoption and outcome separately.
+
+**Recap:** Extension creates informed capability only when advice is trusted, feasible and acted upon.
+
+### Core Session 44: Current agricultural mechanisation
+
+```text
+SMAM IN PM-RKVY -> CHC/FMB -> SMALLHOLDER ACCESS -> UTILISATION
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** SMAM is currently a PM-RKVY component that promotes machinery access, custom hiring, training, testing and crop-residue management.
+
+**Answer line:** Service access can be more inclusive than ownership subsidy for small farms.
+
+**Keywords:** SMAM; custom hiring; farm machinery bank; testing; utilisation
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Service access can be more inclusive than ownership subsidy for small farms.
+- **Named evidence:** FY 2026-27 OOMF targets assistance to 1.5 lakh beneficiaries, 5,000 custom-hiring or hi-tech hubs and 10,000 trained stakeholders.
+- **Analysis:** Custom hiring spreads fixed cost across users and offsets smallholding diseconomies.
+- **Qualification:** Machine purchase or centre creation does not prove uptime, affordable hire, timely access or labour-sensitive gains.
+
+**Evidence:** FY 2026-27 OOMF targets assistance to 1.5 lakh beneficiaries, 5,000 custom-hiring or hi-tech hubs and 10,000 trained stakeholders.
+
+**UPSC trap:** Do not measure mechanisation by asset count alone.
+
+**Mains use:** Use hours, users, timeliness, repair uptime and net cost as companion indicators.
+
+**Recap:** Mechanisation succeeds when a reliable service improves timeliness and net returns.
+
+### Core Session 45: Plant protection and quarantine
+
+```text
+SURVEILLANCE -> IPM -> QUALITY CONTROL -> QUARANTINE -> RAPID RESPONSE
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Plant protection and quarantine technology combines surveillance, integrated pest management, pesticide regulation and border biosecurity.
+
+**Answer line:** It is a public-risk function that continues beyond the old NMAET label.
+
+**Keywords:** IPM; quarantine; surveillance; pesticide quality; biosecurity
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** It is a public-risk function that continues beyond the old NMAET label.
+- **Named evidence:** DA&FW's current plant-protection system operates CIPMCs, laboratories, statutory registration and Plant Quarantine Order implementation.
+- **Analysis:** Early detection and coordinated response protect many farms, creating spillovers that private individual action underprovides.
+- **Qualification:** Regulatory activity and mission expenditure are distinct; not every current function has a separately evidenced current mission outlay.
+
+**Evidence:** DA&FW's current plant-protection system operates CIPMCs, laboratories, statutory registration and Plant Quarantine Order implementation.
+
+**UPSC trap:** Do not describe plant quarantine as only an extension activity.
+
+**Mains use:** Classify it as regulation, surveillance and technology dissemination together.
+
+**Recap:** Plant protection is a continuing public system even after NMAET restructuring.
+
+### Core Session 46: Technology Mission on Cotton: historical model
+
+```text
+2000 TMC: MM-I RESEARCH | MM-II TRANSFER | MM-III MARKETS | MM-IV GINNING
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** The historical Technology Mission on Cotton was launched in February 2000 with four linked mini-missions.
+
+**Answer line:** It is the clearest farm-to-fibre illustration of mission-mode complementarity.
+
+**Keywords:** TMC; cotton; four mini-missions; market yard; ginning
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** It is the clearest farm-to-fibre illustration of mission-mode complementarity.
+- **Named evidence:** PIB records research and technology generation, transfer and farm development, market-infrastructure improvement, and ginning or pressing modernisation.
+- **Analysis:** The structure addressed yield, fibre quality, contamination, marketing and processing as one chain.
+- **Qualification:** It belongs to a historical programme and must not be merged with the 2026 successor mission.
+
+**Evidence:** PIB records research and technology generation, transfer and farm development, market-infrastructure improvement, and ginning or pressing modernisation.
+
+**UPSC trap:** Do not assign the old four mini-missions to the current cotton mission.
+
+**Mains use:** Use TMC to demonstrate why post-harvest quality is part of agricultural technology policy.
+
+**Recap:** Historical TMC joined research, farm transfer, markets and processing in one value-chain mission.
+
+### Core Session 47: Mission for Cotton Productivity: current
+
+```text
+2026-27--2030-31 | RS 5,659.22 CR | 3 NEW MINI-MISSIONS
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** The Cabinet-approved Mission for Cotton Productivity is the current five-year cotton mission beginning in 2026-27.
+
+**Answer line:** It is a successor policy, not a revival of the old four-mini-mission TMC structure.
+
+**Keywords:** cotton productivity; 2026; Kapas Kranti; Kapas Kanti; Navya Fibre
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** It is a successor policy, not a revival of the old four-mini-mission TMC structure.
+- **Named evidence:** The May 2026 approval provides Rs 5,659.22 crore and three mini-missions: Kapas Kranti, Kapas Kanti and Navya Fibre.
+- **Analysis:** The mission links productivity and sustainability, quality enhancement and allied natural-fibre diversification with DARE, ICAR and the Textiles Ministry.
+- **Qualification:** Targets of 755 kg lint/ha and 498 lakh bales by 2030-31 are approved targets, not current performance.
+
+**Evidence:** The May 2026 approval provides Rs 5,659.22 crore and three mini-missions: Kapas Kranti, Kapas Kanti and Navya Fibre.
+
+**UPSC trap:** Do not mix the current three names with the historical four functions.
+
+**Mains use:** Date the successor and connect the agriculture-textiles institutional boundary.
+
+**Recap:** Current cotton policy retains value-chain logic through a new three-part mission.
+
+### Core Session 48: Jute Technology Mission: historical
+
+```text
+2006 APPROVAL -> RESEARCH -> TRANSFER/RETTING -> RAW-JUTE MARKET -> INDUSTRY
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Jute Technology Mission was a historical Agriculture-Textiles value-chain mission linked to the National Jute Policy 2005.
+
+**Answer line:** Its mission period is closed; current jute programmes should not be called JTM without a successor order.
+
+**Keywords:** JTM; retting; raw jute; industry modernisation; historical
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Its mission period is closed; current jute programmes should not be called JTM without a successor order.
+- **Named evidence:** The 2006 mission had a proposed Rs 355.55 crore and four mini-missions spanning research, technology transfer, raw-jute marketing and industry modernisation or promotion.
+- **Analysis:** The design recognised that fibre quality depends on farm practices, retting, market grading and industrial processing.
+- **Qualification:** Official reporting extended or completed activities into the early 2010s, but no current JTM phase was located.
+
+**Evidence:** The 2006 mission had a proposed Rs 355.55 crore and four mini-missions spanning research, technology transfer, raw-jute marketing and industry modernisation or promotion.
+
+**UPSC trap:** Do not present JTM as an operating FY 2026-27 mission.
+
+**Mains use:** Use it as a historical value-chain example and label the closure.
+
+**Recap:** JTM's analytical value survives, but its mission status is historical.
+
+### Core Session 49: Digital Agriculture Mission: cross-link
+
+```text
+AGRISTACK + DIGITAL CROP SURVEY + DECISION SUPPORT -> TOPIC 27
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Digital Agriculture Mission is a current agricultural mission that builds digital public infrastructure and data-enabled services.
+
+**Answer line:** Topic 29 owns its place in mission architecture; Topic 27 owns technical and data-governance depth.
+
+**Keywords:** Digital Agriculture Mission; AgriStack; registry; crop survey; cross-link
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Topic 29 owns its place in mission architecture; Topic 27 owns technical and data-governance depth.
+- **Named evidence:** The 2 September 2024 Cabinet approval carried Rs 2,817 crore; FY 2026-27 OOMF retains farmer-ID and digital crop-survey outputs.
+- **Analysis:** Digital infrastructure can improve verification, targeting and feedback across other missions.
+- **Qualification:** Registries and dashboards do not prove inclusion, advisory quality, consent or farmer welfare.
+
+**Evidence:** The 2 September 2024 Cabinet approval carried Rs 2,817 crore; FY 2026-27 OOMF retains farmer-ID and digital crop-survey outputs.
+
+**UPSC trap:** Do not duplicate Topic 27's detailed platform architecture here.
+
+**Mains use:** Use DAM as an enabling horizontal mission and state the boundary.
+
+**Recap:** Digital systems support mission delivery; they are not the agricultural outcome themselves.
+
+### Core Session 50: National Mission on High-Yielding Seeds: status caution
+
+```text
+BUDGET 2025-26 ANNOUNCEMENT -> NO STANDALONE APPROVAL/GUIDELINE LOCATED
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** The National Mission on High-Yielding Seeds was announced in Union Budget 2025-26 to strengthen research and propagation of high-yielding and climate-resilient varieties.
+
+**Answer line:** Announcement must not be upgraded into a fully operational standalone mission without approval and guidelines.
+
+**Keywords:** high-yielding seeds; announcement; approval; propagation; status
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Announcement must not be upgraded into a fully operational standalone mission without approval and guidelines.
+- **Named evidence:** Current NFSNM already contains seed components, newly released varieties, SRR, VRR and infrastructure interventions.
+- **Analysis:** The announced mission direction could strengthen research-to-seed-chain coordination if separately approved and funded.
+- **Qualification:** No standalone Cabinet approval, operational guideline, outlay or current target was located by 10 September 2026.
+
+**Evidence:** Current NFSNM already contains seed components, newly released varieties, SRR, VRR and infrastructure interventions.
+
+**UPSC trap:** Do not invent an outlay, launch date or implementation coverage.
+
+**Mains use:** Label it 'announced; standalone operational status not established'.
+
+**Recap:** Seed-mission intent is official, but current standalone implementation remains unverified.
+
+### Core Session 51: Krishonnati Yojana current umbrella
+
+```text
+FY 2025-26 SURVEY: 8 SCHEMES -> FY 2026-27 OUTLAY RS 11,200 CR
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Krishonnati Yojana is the current science-based umbrella for production, extension, digital, market and edible-oil missions.
+
+**Answer line:** Its component list is date-specific and should not be projected backwards.
+
+**Keywords:** Krishonnati; umbrella; NFSNM; MIDH; NMEO
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Its component list is date-specific and should not be projected backwards.
+- **Named evidence:** Economic Survey 2025-26 lists MIDH, NFSNM, Agriculture Extension, ISAM, DAM, NMEO-OS, NMEO-OP and MOVCDNER; Union Budget 2026-27 provides Rs 11,200 crore BE for the umbrella.
+- **Analysis:** The umbrella can reduce duplication and permit coordinated annual action planning.
+- **Qualification:** An aggregate umbrella outlay cannot be assigned to each component without a scheme-wise allocation table.
+
+**Evidence:** Economic Survey 2025-26 lists MIDH, NFSNM, Agriculture Extension, ISAM, DAM, NMEO-OS, NMEO-OP and MOVCDNER; Union Budget 2026-27 provides Rs 11,200 crore BE for the umbrella.
+
+**UPSC trap:** Do not quote Rs 11,200 crore as the budget of MIDH, NFSNM or NMEO individually.
+
+**Mains use:** Use the umbrella only to explain current administrative placement.
+
+**Recap:** Krishonnati is a dated umbrella; component missions retain distinct designs and targets.
+
+### Core Session 52: PM-RKVY current cafeteria
+
+```text
+STATE FLEXIBILITY -> NINE COMPONENTS -> LOCAL PORTFOLIO -> OUTCOME GUARDRAILS
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** PM-RKVY is a current centrally sponsored cafeteria scheme that lets states combine approved components around local agricultural priorities.
+
+**Answer line:** Flexibility supports adaptation but requires protection against substitution and weak accountability.
+
+**Keywords:** PM-RKVY; cafeteria; state flexibility; annual action plan; convergence
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Flexibility supports adaptation but requires protection against substitution and weak accountability.
+- **Named evidence:** The 14 November 2024 guidelines list DPR, PDMC, SMAM including CRM, SH&F, PKVY, RAD, Agroforestry, Crop Diversification and the agri-start-up fund.
+- **Analysis:** States can select portfolios suited to agro-climate rather than follow one uniform physical package.
+- **Qualification:** Flexible reallocation can underfund less visible public goods unless outcomes and minimum functions are monitored.
+
+**Evidence:** The 14 November 2024 guidelines list DPR, PDMC, SMAM including CRM, SH&F, PKVY, RAD, Agroforestry, Crop Diversification and the agri-start-up fund.
+
+**UPSC trap:** Do not call every PM-RKVY component a separate technology mission.
+
+**Mains use:** Contrast a flexible umbrella scheme with a tightly targeted mission.
+
+**Recap:** PM-RKVY enables local portfolios; mission discipline still requires common outcomes.
+
+### Core Session 53: Funding architecture and federalism
+
+```text
+UNION GUIDELINE + STATE SHARE + DISTRICT PLAN + IMPLEMENTER + FARMER
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Most agricultural missions combine Union policy and finance with state planning and district implementation.
+
+**Answer line:** Funding ratio is only one part of federal capacity; timing, staffing and local discretion determine delivery.
+
+**Keywords:** Centrally Sponsored Scheme; central sector; state share; SLSC; annual action plan
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Funding ratio is only one part of federal capacity; timing, staffing and local discretion determine delivery.
+- **Named evidence:** MIDH uses 60:40 and 90:10 patterns with specified 100% Union-funded institutions; NMEO-OS is a centrally sponsored scheme under Krishonnati.
+- **Analysis:** State co-financing can create ownership and adaptation, while national committees preserve standards and strategic goals.
+- **Qualification:** Matching requirements and delayed releases can disadvantage fiscally or administratively weaker states.
+
+**Evidence:** MIDH uses 60:40 and 90:10 patterns with specified 100% Union-funded institutions; NMEO-OS is a centrally sponsored scheme under Krishonnati.
+
+**UPSC trap:** Do not infer equal implementation from a common national guideline.
+
+**Mains use:** Add state capacity, seasonal timing and district planning to any funding analysis.
+
+**Recap:** Federal mission performance depends on money, authority, capability and timing together.
+
+### Core Session 54: Adoption constraints: smallholders and tenancy
+
+```text
+INDIVISIBLE ASSET + SHORT TENURE + CREDIT RISK + MARKET RISK -> HIGH THRESHOLD
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Small scale, insecure tenancy and liquidity constraints can make a socially useful technology privately infeasible.
+
+**Answer line:** Inclusive mission design must change access conditions, not merely advertise benefits.
+
+**Keywords:** smallholder; tenancy; liquidity; indivisibility; custom hiring
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Inclusive mission design must change access conditions, not merely advertise benefits.
+- **Named evidence:** Custom-hiring centres under SMAM, FPO aggregation under cluster missions and gestation support under NMEO-OP are institutional responses to adoption constraints.
+- **Analysis:** Shared services lower fixed cost, aggregation improves bargaining and transition support bridges delayed returns.
+- **Qualification:** Land-record targeting can exclude tenants, while group models can be captured by larger members.
+
+**Evidence:** Custom-hiring centres under SMAM, FPO aggregation under cluster missions and gestation support under NMEO-OP are institutional responses to adoption constraints.
+
+**UPSC trap:** Do not treat asset subsidy as a universal smallholder solution.
+
+**Mains use:** Specify the constraint and match it to service, finance, tenure or market reform.
+
+**Recap:** Inclusion requires lowering the actual adoption threshold for the intended farmer.
+
+### Core Session 55: Gender, labour and social distribution
+
+```text
+TECHNOLOGY -> TASK CHANGE -> TIME/DRUDGERY/EMPLOYMENT -> DISTRIBUTIONAL EFFECT
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Technology changes who performs work, controls assets and receives income, not only aggregate productivity.
+
+**Answer line:** A mission outcome is incomplete without gender and labour incidence.
+
+**Keywords:** gender; drudgery; labour displacement; asset control; social inclusion
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** A mission outcome is incomplete without gender and labour incidence.
+- **Named evidence:** Mechanisation can reduce drudgery and improve timeliness, while training and beneficiary design determine whether women and marginal groups control the service or asset.
+- **Analysis:** Distributional indicators reveal whether gains accrue to landowners, tenants, labourers, women or processor-linked clusters.
+- **Qualification:** Time savings can coexist with task displacement or loss of wage work, requiring local analysis and reskilling.
+
+**Evidence:** Mechanisation can reduce drudgery and improve timeliness, while training and beneficiary design determine whether women and marginal groups control the service or asset.
+
+**UPSC trap:** Do not use household benefit as a substitute for women's control over technology and income.
+
+**Mains use:** Add one sentence on task, ownership, access and compensation.
+
+**Recap:** Technology missions redistribute work and power as well as output.
+
+### Core Session 56: Ecological fit and rebound
+
+```text
+EFFICIENCY PER HECTARE -> LOWER UNIT COST -> AREA EXPANSION -> TOTAL RESOURCE USE?
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Ecological fit asks whether the promoted crop and technology match water, soil, biodiversity and landscape limits.
+
+**Answer line:** Efficiency per unit does not guarantee lower total resource use.
+
+**Keywords:** ecological fit; rebound; water budget; land use; genetic diversity
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Efficiency per unit does not guarantee lower total resource use.
+- **Named evidence:** Oil palm, protected cultivation, irrigation and high-response varieties illustrate why resource budgets must accompany productivity targets.
+- **Analysis:** A water-saving technology can raise profitability and expand area, offsetting per-hectare savings.
+- **Qualification:** Mission dashboards often measure promoted area more readily than basin withdrawal, pesticide load or land-use change.
+
+**Evidence:** Oil palm, protected cultivation, irrigation and high-response varieties illustrate why resource budgets must accompany productivity targets.
+
+**UPSC trap:** Do not call a technology sustainable solely because it is input-efficient per unit.
+
+**Mains use:** Measure total resource use, land conversion and resilience alongside yield.
+
+**Recap:** Sustainability is a system outcome, not an efficiency label.
+
+### Core Session 57: Markets, procurement and conflicting signals
+
+```text
+MISSION SUPPLY PUSH + PRICE/TRADE POLICY + BUYER CAPACITY = FARM RETURN
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Technology missions interact with MSP, procurement, imports, exports and processor demand.
+
+**Answer line:** A production mission can fail economically when market policy sends a conflicting price signal.
+
+**Keywords:** procurement; trade policy; market signal; processor demand; price risk
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** A production mission can fail economically when market policy sends a conflicting price signal.
+- **Named evidence:** The pulses mission adds procurement support, NMEO clusters link processors, and MIDH funds post-harvest capacity.
+- **Analysis:** Stable demand and transparent quality standards encourage adoption by reducing output-price risk.
+- **Qualification:** Permanent protection can raise consumer cost or lock resources into an inefficient crop; imports may still be needed for resilience.
+
+**Evidence:** The pulses mission adds procurement support, NMEO clusters link processors, and MIDH funds post-harvest capacity.
+
+**UPSC trap:** Do not evaluate production technology independently of output-market incentives.
+
+**Mains use:** Trace the price and buyer channel after the farm gate.
+
+**Recap:** Mission supply must be matched by competitive demand and coherent trade policy.
+
+### Core Session 58: Mission proliferation and rebranding
+
+```text
+NEW LABEL -> OVERLAP? -> CLEAR OWNER? -> ADDITIONAL CAPABILITY? -> SUNSET OLD FORM
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Mission proliferation occurs when new labels accumulate without retiring or integrating old responsibilities.
+
+**Answer line:** A successor is justified by additional capability, not publicity.
+
+**Keywords:** proliferation; rebranding; overlap; accountability; additional capability
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** A successor is justified by additional capability, not publicity.
+- **Named evidence:** Oilseed, extension and sustainability architectures have repeatedly shifted across TMO, ISOPOM, NMOOP, NFSM, NMEO, NMAET, Krishonnati and PM-RKVY.
+- **Analysis:** Rationalisation can reduce duplication and align current bottlenecks with specialist missions.
+- **Qualification:** Renaming can also obscure time-series comparison, liabilities and responsibility for past outcomes.
+
+**Evidence:** Oilseed, extension and sustainability architectures have repeatedly shifted across TMO, ISOPOM, NMOOP, NFSM, NMEO, NMAET, Krishonnati and PM-RKVY.
+
+**UPSC trap:** Do not treat administrative renaming as evidence of success or failure.
+
+**Mains use:** Ask what function, funding, target and accountability changed.
+
+**Recap:** Rebranding matters only when the theory of change and capability genuinely improve.
+
+### Core Session 59: Evaluation by additionality
+
+```text
+MISSION AREA - COMPARABLE NON-MISSION TREND -> INCREMENTAL EFFECT
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** An additionality evaluation estimates whether mission-supported areas improved more than a credible comparison after controlling for baseline differences.
+
+**Answer line:** The correct question is 'what changed because of the mission?'
+
+**Keywords:** difference; comparison; baseline; spillover; selection bias
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** The correct question is 'what changed because of the mission?'
+- **Named evidence:** Cluster and phased mission rollout can sometimes support matched district or difference-in-differences analysis.
+- **Analysis:** A credible comparison separates mission influence from national rainfall, price and technology trends.
+- **Qualification:** Political selection of high-potential clusters and spillovers into comparison areas can bias estimates.
+
+**Evidence:** Cluster and phased mission rollout can sometimes support matched district or difference-in-differences analysis.
+
+**UPSC trap:** Do not rely only on beneficiary self-report or before-after national averages.
+
+**Mains use:** State the counterfactual and the most important selection problem.
+
+**Recap:** Additionality converts monitoring evidence into a causal policy judgement.
+
+### Core Session 60: Evaluation by outcomes and cost
+
+```text
+NET INCOME + QUALITY + RESILIENCE + IMPORT EFFECT + ECOLOGY / PUBLIC COST
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** Cost-effectiveness asks how much public cost produced a specified outcome; cost-benefit analysis values a wider set of gains and losses.
+
+**Answer line:** A mission should be judged on net public value, not only physical achievement.
+
+**Keywords:** cost-effectiveness; cost-benefit; net income; public value; lifecycle
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** A mission should be judged on net public value, not only physical achievement.
+- **Named evidence:** A complete oilseed evaluation would compare public cost with yield, oil recovery, farmer margins, import exposure and ecological change.
+- **Analysis:** The framework reveals whether cheaper alternatives or public goods could deliver the same outcome.
+- **Qualification:** Monetising resilience, biodiversity and distribution is difficult, so quantified results need a transparent qualitative ledger.
+
+**Evidence:** A complete oilseed evaluation would compare public cost with yield, oil recovery, farmer margins, import exposure and ecological change.
+
+**UPSC trap:** Do not divide outlay by beneficiaries and call the result economic efficiency.
+
+**Mains use:** Specify outcome, time horizon, counterfactual and distribution before judging value for money.
+
+**Recap:** Mission efficiency is cost per durable outcome, not cost per activity.
+
+### Core Session 61: Evaluation by regional equity and convergence
+
+```text
+WHO GAINED? | WHERE? | WHICH LINK FAILED? | DID AGENCIES ACT TOGETHER?
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** An equity-convergence audit disaggregates outcomes and tests whether required agencies delivered their linked responsibilities.
+
+**Answer line:** Average success can hide excluded groups and failed links.
+
+**Keywords:** equity audit; convergence audit; disaggregation; responsibility; bottleneck
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Average success can hide excluded groups and failed links.
+- **Named evidence:** ATMA plans, KVK evidence, state action plans, seed supply, finance and market infrastructure can be mapped against the same district outcome.
+- **Analysis:** The audit identifies whether low adoption reflects unsuitable technology, missing finance, weak extension or absent buyers.
+- **Qualification:** Administrative datasets may use incompatible beneficiary identifiers or reporting periods.
+
+**Evidence:** ATMA plans, KVK evidence, state action plans, seed supply, finance and market infrastructure can be mapped against the same district outcome.
+
+**UPSC trap:** Do not blame farmers for non-adoption before auditing the delivery chain.
+
+**Mains use:** Join distributional data with a responsibility matrix.
+
+**Recap:** Equity and convergence evaluation explains both who was missed and why.
+
+### Core Session 62: Evaluation by sunset and institutional learning
+
+```text
+EVIDENCE -> CONTINUE | SCALE | REDESIGN | MAINSTREAM | CLOSE
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** A sunset evaluation determines whether temporary mission instruments should continue, change form or end.
+
+**Answer line:** Failure reporting is an input to learning, not an embarrassment to be suppressed.
+
+**Keywords:** sunset evaluation; institutional learning; scale; redesign; closure
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Failure reporting is an input to learning, not an embarrassment to be suppressed.
+- **Named evidence:** Mission succession in oilseeds and the redistribution of NMAET functions show that administrative evolution is normal.
+- **Analysis:** Explicit decision rules prevent permanent subsidies, obsolete metrics and stranded assets.
+- **Qualification:** Premature closure can interrupt perennial crops, seed multiplication and local service networks with long gestation.
+
+**Evidence:** Mission succession in oilseeds and the redistribution of NMAET functions show that administrative evolution is normal.
+
+**UPSC trap:** Do not apply one sunset date to assets and outcomes with different time horizons.
+
+**Mains use:** Set stage-specific review dates and transition plans.
+
+**Recap:** A learning mission changes or ends when evidence shows the original instrument is no longer best.
+
+### Core Session 63: National Horticulture Mission: 2018 PYQ demand
+
+```text
+PRODUCTION + PRODUCTIVITY + INCOME -> ASSESS HOW FAR
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** The 2018 GS-III question requires a graded assessment of NHM's contribution to output, productivity and farm income.
+
+**Answer line:** The directive 'assess' demands both contribution and limits to income conversion.
+
+**Keywords:** NHM; 2018 PYQ; productivity; income; assessment
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** The directive 'assess' demands both contribution and limits to income conversion.
+- **Named evidence:** NHM promoted region-specific planting material, production technology and post-harvest support and later became a MIDH component.
+- **Analysis:** Higher quality and lower loss can raise value, but perishability, gluts, fragmented holdings and weak bargaining can keep net income gains uneven.
+- **Qualification:** National horticulture growth is not a mission-only causal estimate.
+
+**Evidence:** NHM promoted region-specific planting material, production technology and post-harvest support and later became a MIDH component.
+
+**UPSC trap:** Do not answer only with a list of MIDH components.
+
+**Mains use:** Use mechanism, evidence, income constraints and a graded verdict.
+
+**Recap:** NHM strengthened capability; income success depends on post-harvest and market conversion.
+
+### Core Session 64: Palm-oil 2021 Prelims distinctions
+
+```text
+ORIGIN: TROPICAL AFRICA | MESOCARP: PALM OIL | KERNEL: PALM-KERNEL OIL
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** The oil-palm PYQ tests botanical origin and product uses, not the administrative details of NMEO-OP.
+
+**Answer line:** Keep biological facts separate from mission status.
+
+**Keywords:** Elaeis guineensis; mesocarp; kernel; biodiesel; origin
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Keep biological facts separate from mission status.
+- **Named evidence:** African oil palm is native to tropical West and Central Africa; palm oil is used in food and non-food industries and can be a biodiesel feedstock.
+- **Analysis:** South-East Asia's production dominance does not change botanical origin.
+- **Qualification:** Commercial uses vary by derivative and formulation; the official option letter is withheld without a matched final key.
+
+**Evidence:** African oil palm is native to tropical West and Central Africa; palm oil is used in food and non-food industries and can be a biodiesel feedstock.
+
+**UPSC trap:** Do not confuse current production geography with species origin.
+
+**Mains use:** Evaluate each statement independently and withhold the answer letter absent the official key.
+
+**Recap:** Origin, mesocarp product, kernel product and uses are distinct prelims facts.
+
+### Core Session 65: Answer architecture: M-I-S-S-I-O-N
+
+```text
+M PROBLEM | I INNOVATION | S SEED/SKILL | S STATE CONVERGENCE | I INCLUSION | O OUTCOME | N NEXT STEP
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** A technology-mission answer should move from the diagnosed bottleneck to technology, delivery, adoption, outcomes and redesign.
+
+**Answer line:** A scheme catalogue without causal links earns little analytical value.
+
+**Keywords:** problem; innovation; diffusion; convergence; inclusion; outcome; redesign
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** A scheme catalogue without causal links earns little analytical value.
+- **Named evidence:** Named evidence can come from TMO, NFSNM, NMEO-OS, MIDH, NMSA, NMAET successors or the cotton missions, with dates and status.
+- **Analysis:** The framework forces the answer to connect instruments with farmers, markets, ecology and evaluation.
+- **Qualification:** One or two named missions are stronger than many unqualified acronyms.
+
+**Evidence:** Named evidence can come from TMO, NFSNM, NMEO-OS, MIDH, NMSA, NMAET successors or the cotton missions, with dates and status.
+
+**UPSC trap:** Do not conclude with 'better implementation is needed' without specifying the failed link.
+
+**Mains use:** Use one mission as evidence, one limitation and one redesign rule.
+
+**Recap:** High-scoring answers explain the chain and deliver a qualified verdict.
+
+### Core Session 66: Final mission scorecard
+
+```text
+PROBLEM | TARGET | CONVERGENCE | ADOPTION | VALUE CHAIN | EQUITY | ECOLOGY | ADDITIONALITY | SUNSET
+```
+*Visual first:* The rail fixes the operating mechanism before the prose.
+
+**Definition:** A mission scorecard is a disciplined set of questions for judging design, implementation and public value.
+
+**Answer line:** Mission success is durable inclusive additionality without unacceptable ecological or fiscal lock-in.
+
+**Keywords:** scorecard; additionality; regional equity; convergence; sunset
+
+**Claim -> named evidence -> analysis -> qualification**
+- **Claim:** Mission success is durable inclusive additionality without unacceptable ecological or fiscal lock-in.
+- **Named evidence:** Current official documents provide dated targets and output-outcome tables, while historical missions provide predecessor and design evidence.
+- **Analysis:** The scorecard prevents target achievement from crowding out causation, distribution and sustainability.
+- **Qualification:** Some dimensions require qualitative judgement because data and counterfactuals are incomplete.
+
+**Evidence:** Current official documents provide dated targets and output-outcome tables, while historical missions provide predecessor and design evidence.
+
+**UPSC trap:** Do not give a binary success or failure verdict from one national statistic.
+
+**Mains use:** Conclude with continue, scale, redesign, mainstream or close.
+
+**Recap:** The best mission is not the loudest label but the most credible conversion of public effort into durable public value.
+
+## Optional Advanced
+
+### A. Mission-oriented innovation
+Directionality is justified when food security, climate resilience, disease surveillance or strategic import exposure creates a public problem that private innovation will underprovide. It becomes dangerous when one vendor, variety or crop is protected after contrary evidence emerges.
+
+### B. Weakest-link production function
+When research `R`, seed supply `S`, extension `E`, complements `C` and market readiness `M` are strong complements, mission outcome behaves like `f(R,S,E,C,M)`: a near-zero value in one link sharply reduces the whole result.
+
+### C. Principal-agent chain
+Union -> State -> District -> Implementer -> Vendor/extension worker -> Farmer. Information loss and shifted incentives grow at each step. Independent verification, separated procurement and outcome certification, and within-season grievance correction reduce the risk.
+
+### D. Diffusion and selection
+Early adopters are often larger, irrigated or better connected. Their success cannot establish universal suitability. Diffusion analysis must identify farmers remaining below the adoption threshold and test whether the cause is risk, tenure, scale, labour, service or market access.
+
+### E. Path dependence
+Subsidised assets, specialised processing and procurement can create a constituency and high switching cost. Redesign therefore needs open standards, alternative buyers, transition support and an asset-reuse plan.
+
+### F. Environmental rebound
+Lower resource use per hectare can raise profitability and expand area, increasing total basin or landscape use. Evaluate total withdrawals, land-use change, pesticide load, biodiversity and lifecycle processing effects.
+
+### G. Evaluation design
+Use process audits for delivery, matched baseline-endline comparisons for adoption, credible quasi-experiments where feasible for attribution, cost-effectiveness for value, distributional incidence for equity, and multi-season panels for persistence.
+
+### H. D-I-F-F-U-S-E answer lens
+Diagnosed problem -> Innovation portfolio -> Federal convergence -> Farmer adoption -> Upstream/downstream value chain -> Sustainability and social inclusion -> Evaluation, exit and evolution.
+
+## Consolidated Register Notes
+
+### Mission-mode core
+- Mission = defined bottleneck + time-bound outcome + dedicated coordination + convergence + monitoring + feedback + exit rule.
+- Scheme = financing and eligibility instrument; programme = activity bundle. Labels overlap, so use the operative dated document.
+- Results chain: input -> activity -> output -> adoption -> outcome -> impact.
+- Mission versus routine scheme: outcome and research-to-market accountability versus isolated activity and indefinite continuation.
+
+### Timeline and status rail
+| Mission/programme | Dated status at 10 September 2026 |
 |---|---|
-| Was implementation delivered? | Administrative/process audit |
-| Did adoption rise? | Baseline/endline and matched comparison |
-| Did mission cause yield/income change? | Experimental or credible quasi-experimental design where feasible |
-| Was it worth the cost? | Cost-effectiveness/cost-benefit analysis |
-| Who gained or lost? | Distributional incidence analysis |
-| Will gains persist? | Multi-season panel and maintenance/adoption tracking |
-| Did ecology worsen? | Resource and landscape indicators |
+| Technology Mission on Oilseeds | Historical; launched May 1986; later subsumed through ISOPOM and successor umbrellas. |
+| ISOPOM / NMOOP / NFSM-Oilseeds | Historical or subsumed predecessor stages; do not call current. |
+| NMEO-OS | Current CSS, 2024-25 to 2030-31; Rs 10,103.38 crore approved outlay. |
+| NMEO-OP | Original approved phase 2021-22 to 2025-26, Rs 11,040 crore; FY 2026-27 OOMF retains targets, but a separate extension order was not located. |
+| NFSM / NFSNM | NFSM launched October 2007; current FY 2026-27 mission is NFSNM with seven components. |
+| Mission for Aatmanirbharta in Pulses | Current, 2025-26 to 2030-31; Rs 11,440 crore. |
+| Millets | Current Union mission label is NFSNM Sub-Mission on Nutri-Cereals; no separate current National Millet Mission was established. |
+| NMSA | Continuing climate-policy mission; major delivery functions rationalised through PM-RKVY components. |
+| NMNF | First approved phase ended March 2026; FY 2026-27 targets and 2026-31 expansion were approval-qualified in the OOMF. |
+| NHM / MIDH | NHM launched 2005-06 and remains a sub-scheme of current MIDH; current guidelines dated 7 May 2026. |
+| National Bamboo Mission | Current MIDH sub-scheme under 2025 guidelines; restructured from 2018. |
+| National Beekeeping and Honey Mission | Approved extension ended 2025-26; no later extension located. |
+| NMAET | Historical umbrella approved in 2014; its four functions now sit in different current arrangements. |
+| Technology Mission on Cotton | Historical mission launched February 2000 with four mini-missions. |
+| Mission for Cotton Productivity | Current, 2026-27 to 2030-31; Rs 5,659.22 crore; three new mini-missions. |
+| Jute Technology Mission | Historical/closed value-chain mission approved in 2006. |
+| Digital Agriculture Mission | Current horizontal mission; detailed architecture belongs to Topic 27. |
+| National Mission on High-Yielding Seeds | Budget 2025-26 announcement; standalone approval, outlay and guideline not located by cutoff. |
 
-> ⚠️ National before-after production growth alone cannot identify mission impact because
-> rainfall, prices, trade, unrelated technology and area also change.
+### Current mission facts
+- NFSNM components: rice, wheat, pulses, coarse cereals, Sub-Mission on Nutri-Cereals, commercial crops and seed components.
+- NMEO-OS: over 600 value-chain clusters covering about 10 lakh hectares annually; 2.8 lakh hectares of demonstrations annually; 65 seed hubs; 50 specialised stores.
+- MIDH 2026: NHM, HMNEH, NHB, CDB, NBM and CIH.
+- Classic NMAET: SMAE, SMSP, SMAM and SMPPQ. Current map: extension under Krishonnati; SMSP merged into NFSNM; SMAM in PM-RKVY; plant protection/quarantine continues through its regulatory-programme system.
+- Current cotton mission: Kapas Kranti, Kapas Kanti and Navya Fibre; never mix these with historical TMC's four mini-missions.
 
-#### 14. Mission governance scorecard
+### Institution map
+- DARE/ICAR: research, varieties, breeder material, protocols and technical validation.
+- KVK: on-farm testing, frontline demonstrations, capacity development and diagnostics.
+- ATMA: autonomous district extension coordination, SREP, action plans and farmer feedback.
+- State departments and missions: annual plans, implementation, convergence and monitoring.
+- FPOs/co-operatives/custom-hiring centres: aggregation, shared services and bargaining.
+- Private firms/processors: inputs, repair, processing and buyer channels, subject to competition and quality safeguards.
 
-| Dimension | Strong design question |
-|---|---|
-| Problem | Is the bottleneck precise and evidence-based? |
-| Direction | Is the public outcome clear without prescribing one permanent vendor/technology? |
-| Portfolio | Are alternative technologies tested? |
-| Complements | Are seed, extension, finance, water, market and processing aligned? |
-| Federalism | Can states adapt within outcome guardrails? |
-| Inclusion | Can tenants, women, small and rainfed farmers adopt? |
-| Learning | Are failures published and used to redesign? |
-| Ecology | Are total resource and land-use effects measured? |
-| Competition | Are open standards and multiple suppliers protected? |
-| Exit | Is there a sunset, scaling or redesign rule? |
+### Mechanism and evaluation
+- Lab-to-land-to-market: research -> adaptive trial -> quality material -> demonstration -> trusted extension -> finance/service -> adoption -> aggregation/processing -> market -> feedback.
+- Adoption threshold: expected risk-adjusted net benefit must exceed purchase, finance, learning, transition, failure and market risks.
+- Evaluation tests: additionality, outcomes, cost, regional equity, convergence, ecology, persistence and sunset.
+- Goodhart safeguards: area with sustained adoption; kits with correct use; assets with uptime; demonstrations with independent diffusion; production with net income and loss reduction.
 
-#### 15. Reform architecture
+### UPSC traps
+- Mission title != mission-mode design.
+- Allocation != expenditure; target != achievement; output != outcome; trend != attribution.
+- TMO, NMOOP, NFSM-OS, NMEO-OS and NMEO-OP are not timeless synonyms.
+- Oil palm is perennial and processor-dependent; high oil yield does not prove ecological fit.
+- NHM remains within MIDH; the two names are not historically interchangeable.
+- Current NFSNM seed component is the successor to SMSP.
+- NBHM's approved period ended in 2025-26; NMNF's proposed next phase was not finally approved in the cited OOMF.
+- Digital agriculture is a cross-link to Topic 27; sustainable input design is a cross-link to Topic 14.
 
-##### From scheme convergence to outcome convergence
-
-Weak convergence:
-
+### Answer spine
 ```text
-Several schemes operate in the same district.
+DEFINE mission and exact bottleneck
+-> DATE status, period, outlay and target
+-> TRACE research-to-market mechanism
+-> IDENTIFY ICAR/KVK/ATMA/state/market roles
+-> TEST adoption, distribution and ecological fit
+-> EVALUATE additionality, outcomes, regional equity and convergence
+-> VERDICT: continue | scale | redesign | mainstream | sunset/close
 ```
 
-Strong convergence:
-
+### ASCII master
 ```text
-One diagnosed crop/value-chain bottleneck
- -> coordinated responsibilities and calendar
- -> common outcome indicators
- -> shared farmer feedback
- -> adaptive budget and redesign
+ECONOMY TOPIC 29 - AGRICULTURAL TECHNOLOGY MISSIONS AND MISSION-MODE POLICY
+CURRENT-STATUS CUTOFF: 10 SEPTEMBER 2026
+============================================================================
+PANEL 1 MISSION TEST
+----------------------------------------------------------------------------
+defined bottleneck -> time-bound target -> coordinated institutions
+technology + complements -> adoption -> outcome -> feedback/sunset
+mission title alone does not satisfy this test
+
+PANEL 2 RESULTS CHAIN
+----------------------------------------------------------------------------
+input -> activity -> output -> adoption -> outcome -> impact
+allocation != expenditure != reach != sustained use != welfare
+every arrow requires evidence and a counterfactual
+
+PANEL 3 LAB-TO-LAND-TO-MARKET
+----------------------------------------------------------------------------
+ICAR/SAU research -> adaptive trial -> quality seed/material
+-> KVK demonstration -> ATMA/state extension -> finance/service
+-> farmer adoption -> FPO/processor/market -> feedback
+
+PANEL 4 DIFFUSION MECHANISMS
+----------------------------------------------------------------------------
+FLD/CFLD | seed hubs | SRR/VRR | cluster | custom hiring
+trusted advice | repair | water/input access | market demand
+one near-zero complement can defeat a strong technology
+
+PANEL 5 OILSEED AND OIL-PALM TIMELINE
+----------------------------------------------------------------------------
+TMO May 1986 -> ISOPOM 2004 -> NMOOP 2014-15 -> NFSM-OS
+-> NMEO-OS 2024-25--2030-31
+NMEO-OP approved 2021-22--2025-26; FY 2026-27 targets retained
+
+PANEL 6 FOOD, PULSES AND MILLETS
+----------------------------------------------------------------------------
+NFSM Oct 2007 -> NFSNM: 7 current components in FY 2026-27
+Pulses mission: 2025-26--2030-31, separate approval
+millets: current NFSNM Sub-Mission on Nutri-Cereals, not invented standalone
+
+PANEL 7 SUSTAINABILITY STATUS
+----------------------------------------------------------------------------
+NMSA under NAPCC -> current functions spread through PM-RKVY
+RAD | PDMC | SH&F | PKVY | agroforestry
+NMNF first phase ended Mar 2026; proposed next phase approval-qualified
+
+PANEL 8 HORTICULTURE AND ALLIED MISSIONS
+----------------------------------------------------------------------------
+NHM 2005-06 -> MIDH 2014-15
+2026 MIDH: NHM | HMNEH | NHB | CDB | NBM | CIH
+NBHM approved phase ended 2025-26; no later extension located
+
+PANEL 9 EXTENSION AND NMAET SUCCESSORS
+----------------------------------------------------------------------------
+classic NMAET: SMAE | SMSP | SMAM | SMPPQ
+current: Extension/Krishonnati | Seeds/NFSNM | SMAM/PM-RKVY
+plant protection/quarantine continues as regulatory-programme system
+
+PANEL 10 COTTON AND JUTE
+----------------------------------------------------------------------------
+historical TMC 2000: research | transfer | market | ginning/pressing
+current cotton mission 2026-27--2030-31: three new mini-missions
+Jute Technology Mission: historical/closed value-chain example
+
+PANEL 11 FAILURE AND EVALUATION
+----------------------------------------------------------------------------
+fragmentation | target gaming | exclusion | market mismatch | ecological rebound
+evaluate additionality | outcomes | regional equity | convergence | public cost
+administrative dashboard must be checked against farmer and field evidence
+
+PANEL 12 ANSWER SPINE
+----------------------------------------------------------------------------
+define mission -> date status/outlay/target -> trace research-to-market
+-> test adoption/equity/ecology -> assess additionality and convergence
+-> verdict: continue | scale | redesign | mainstream | sunset/close
+
 ```
 
-##### Mission 2.0 principles
-
-1. diagnose the binding constraint before selecting technology;
-2. fund portfolios and local adaptation;
-3. build multiplication, repair and service ecosystems;
-4. align output markets before production expansion;
-5. use FPO/custom-hiring models for scale;
-6. publish distributional and ecological results;
-7. permit independent evaluation and failure reporting;
-8. maintain open standards and data portability;
-9. define sunset, mainstreaming or successor conditions.
-
-#### 16. Advanced Mains structure
-
-##### **D-I-F-F-U-S-E**
-
-```text
-D  Diagnosed national/local problem
-I  Innovation portfolio
-F  Federal and institutional convergence
-F  Farmer adoption and finance
-U  Upstream-downstream value chain
-S  Sustainability and social inclusion
-E  Evaluation, exit and evolution
-```
-
-##### Advanced thesis
-
-> Agricultural technology missions should be judged not by the novelty distributed or area
-> covered, but by whether an inclusive innovation system converts research into durable net
-> income, quality, resilience and public value without ecological lock-in.
-
-#### 17. Study links
-
-- ✅ Exam-complete Core:
-  `../basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`.
-- ✅ `11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md`.
-- ✅ `13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md`.
-- ✅ `14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`.
-- ✅ `15_Food-Processing-Cold-Chains-and-Value-Addition.md`.
-- ✅ `27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md`.
-- ✅ `28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md`.
-- ✅ `30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md` — allied-
-  sector technology diffusion and value-chain economics.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2018
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 13 | National Horticulture Mission role in horticulture production and income | Assess · 15 marks · 250 words | Routed to dedicated agricultural technology-missions owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- National Horticulture Mission role in horticulture production and income
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-## CONSOLIDATED REGISTER NOTES
-
-### Agricultural Technology Missions and Mission-Mode Policy: RAPID CONCEPT, INSTITUTION AND STATUS MAP
-
-1. **Mission-mode definition:** An agricultural technology mission is a coordinated intervention organised around a defined production, quality, sustainability or value-chain problem, with outcome objectives, institutions, monitoring and feedback.
-2. **Mission versus scheme label:** A programme is mission-mode only when its design links the problem, technology, complementary delivery and measurable outcome; the word Mission in its title does not establish those properties.
-3. **Research-to-market chain:** Durable mission performance requires research, adaptive trials, quality material, multiplication or manufacturing, demonstration, extension, finance, complementary inputs, repeated adoption and market feedback.
-4. **Technology breadth:** Agricultural technology includes biological, agronomic, mechanical, water-resource, digital, post-harvest and institutional innovations; it is not confined to machinery or frontier gadgets.
-5. **Adoption threshold:** A farmer adopts when expected additional return exceeds purchase, finance, learning, transition, failure and market risk relative to the existing practice; availability or demonstration alone is not adoption.
-6. **Technology Mission on Oilseeds:** The Technology Mission on Oilseeds began in 1986 and its successor architecture changed through later umbrellas; historical names, current schemes and measured results must retain their date.
-7. **Oilseed and oil-palm missions:** NMEO-OS and NMEO-OP address distinct oilseed and perennial oil-palm systems through value-chain measures; approval, outlay, operational reach, area, production and import outcome are separate facts.
-8. **Horticulture mission evolution:** The National Horticulture Mission began in 2005-06 and later became a component of the wider MIDH architecture; NHM and MIDH are not interchangeable names for every year.
-9. **Food-security mission evolution:** The National Food Security Mission began in 2007-08 and later acquired a nutrition emphasis and renamed architecture; vintage must be stated before listing components.
-10. **Cotton mission boundary:** The historical Technology Mission on Cotton used four linked mini-missions across research, transfer, market infrastructure and ginning or pressing; later cotton-mission architecture must not be merged with it.
-11. **Extension-system functions:** The classic NMAET architecture separated agricultural extension, seeds and planting material, mechanisation, and plant protection or quarantine; these diffusion functions remain distinct even when umbrellas change.
-12. **Sustainability missions:** NMSA links agricultural resilience and resource conservation with the climate-policy framework, while natural-farming or rainfed programmes require location-specific systems rather than a universal input package.
-13. **Institutional federalism:** Union departments and ICAR can set guidelines, research and standards, but states, districts, universities, KVKs, extension systems, FPOs and local service networks determine adaptation and implementation.
-14. **Complementarity and weakest link:** Mission outcome depends jointly on research, quality supply, extension, water and input complements, finance, market readiness and repair or service; one near-zero link can defeat a strong technology.
-15. **Output and outcome ladder:** Funds, training, demonstrations, kits, assets or area are inputs, activities and outputs; continued adoption, yield, quality, net income, resilience, ecology and equity are outcomes or impacts.
-16. **National Horticulture Mission PYQ:** The 2018 GS-III demand requires assessment of production, productivity and farmer income; higher horticulture output does not prove higher net income when perishability, price, cost and market power intervene.
-17. **Palm-oil distinctions:** African oil palm originated in tropical Africa; palm oil comes mainly from the fruit mesocarp and palm-kernel oil from the kernel, while mission evaluation separately tests ecology, gestation and processing proximity.
-18. **Cluster and smallholder inclusion:** Clusters can lower extension, machinery, aggregation and certification costs, but can exclude isolated, tribal, tenant, women or rainfed farmers and strengthen a single buyer without safeguards.
-19. **Evaluation and attribution:** National before-after production growth cannot establish mission causation because rainfall, prices, area, trade and unrelated technology also change; credible evaluation needs a theory of change and comparison.
-20. **Mission redesign rule:** Mission 2.0 should diagnose the binding constraint, fund a portfolio, align markets, publish distributional and ecological results, preserve open standards and define scaling, sunset or redesign conditions.
-
-### Agricultural Technology Missions and Mission-Mode Policy: SCOPE, ELIGIBILITY, STOCK-FLOW AND IMPLEMENTATION TRAPS
-
-- Do not treat every programme bearing Mission in its name as mission-mode policy.
-- Do not reduce agricultural technology to machines, drones or laboratory research.
-- Do not equate distribution, demonstration, registration or availability with adoption.
-- Do not merge historical and current mission names or mini-mission structures.
-- Do not treat NMEO-OS and NMEO-OP as one crop system.
-- Do not convert an approved outlay or target into expenditure, reach or achievement.
-- Do not use area or production growth as proof of farmer net-income gain.
-- Do not ignore state, district, extension, repair and market complements.
-- Do not attribute national change solely to a mission without a counterfactual.
-- Do not scale a locally successful technology without ecological and inclusion tests.
-
-### Agricultural Technology Missions and Mission-Mode Policy: ANSWER-WRITING SPINE
-
-```text
-DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE
--> STATE FORMULA, CROP, GEOGRAPHY, ELIGIBILITY OR LEGAL POWER
--> NAME THE PERIOD, ESTIMATE VINTAGE AND ISSUING BODY
--> SEPARATE ANNOUNCEMENT, IMPLEMENTATION, STOCK AND FLOW OUTCOMES
--> ADD ONE INDIA-SPECIFIC EVIDENCE UNIT AND ITS LIMIT
--> TEST DISTRIBUTION, OUTPUT, PRICE OR FINANCIAL-STABILITY EFFECTS
--> CONCLUDE WITH A GRADED VERDICT, NOT A TIMELESS NUMBER
-```
-
-### Agricultural Technology Missions and Mission-Mode Policy: LIVE-SOURCE, VINTAGE AND EVIDENCE BOUNDARY
-
-The oilseeds page substantively confirmed distinct mission architectures. The cotton release was inaccessible, so the package relies on the audited owners and imports no live outlay, target, launch, approval, expenditure, adoption or production claim.
-
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
-
-#### ASCII MASTER FLOW — PANEL 1/12: Mission-mode policy rail
-
-```ascii-master
-DEFINED BOTTLENECK
--> TECHNOLOGY PORTFOLIO
--> DELIVERY + ADOPTION
--> OUTCOME + FEEDBACK
-MUST REMEMBER: Mission-mode agricultural policy coordinates a defined commodity or...
-```
-
-#### ASCII MASTER FLOW — PANEL 2/12: Mission-versus-scheme test
-
-```ascii-master
-MISSION -> outcome + convergence
-ROUTINE SCHEME -> activity risk
-TITLE != design
-TEST theory of change
-```
-
-#### ASCII MASTER FLOW — PANEL 3/12: Research-to-market chain
-
-```ascii-master
-RESEARCH -> TRIAL
--> MULTIPLICATION + EXTENSION
--> FINANCE + COMPLEMENTS
--> MARKET + REPEATED USE
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: Technology family map
-
-```ascii-master
-BIOLOGICAL + AGRONOMIC
-MECHANICAL + WATER
-DIGITAL + POST-HARVEST
-INSTITUTIONAL innovation
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Adoption threshold
-
-```ascii-master
-EXPECTED RETURN
-- PURCHASE + LEARNING
-- FAILURE + MARKET RISK
-> EXISTING PRACTICE
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: Mission chronology spine
-
-```ascii-master
-1986 -> OILSEEDS
-2000 -> COTTON
-2005-06 -> NHM
-2007-08 -> NFSM
-CLOSE DISTINCTION: Technology Mission is not every scheme, Cabinet approval is not...
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Oilseed system split
-
-```ascii-master
-NMEO-OS -> annual oilseeds
-NMEO-OP -> perennial oil palm
-APPROVAL != reach
-TARGET != outcome
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: Horticulture income chain
-
-```ascii-master
-PLANTING MATERIAL
--> PRODUCTION + QUALITY
--> COLD CHAIN + MARKET
--> NET INCOME only after cost + price
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Diffusion institution map
-
-```ascii-master
-UNION + ICAR
-STATE + DISTRICT
-KVK + EXTENSION + FPO
-FARMER FEEDBACK closes loop
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Mission complementarity and weakest-link diagnostic
-
-```ascii-master
-QUALITY SEED
-TRUSTED EXTENSION
-FINANCE + WATER ACCESS
-MARKET + REPAIR SERVICE
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Mission evaluation and attribution ladder
-
-```ascii-master
-BUDGET INPUT
--> DELIVERY ACTIVITY
--> MEASURABLE OUTPUT
--> OUTCOME -> LONG-TERM IMPACT
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Technology-mission answer spine
-
-```ascii-master
-DEFINE problem + mission
-TRACE research to market
-TEST inclusion + ecology
-EVALUATE outcome + redesign
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name mission, ministry, legal/executive...
-```
+### Source register
+- Economic Survey 2025-26, Agriculture and Food Management.
+- Union Budget 2026-27, Output-Outcome Monitoring Framework and Expenditure Profile.
+- DA&FW NFSNM, NMEO-OS, PM-RKVY, ATMA, MIDH and NBM guidelines.
+- PIB/Cabinet records for TMO, cotton, jute, edible-oil, pulses, natural-farming, beekeeping and digital missions.
+- ICAR KVK and agricultural-extension materials.

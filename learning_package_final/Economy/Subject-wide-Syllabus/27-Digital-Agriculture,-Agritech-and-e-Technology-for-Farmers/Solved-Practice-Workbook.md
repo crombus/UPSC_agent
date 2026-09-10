@@ -1,1225 +1,930 @@
-# Digital Agriculture, Agritech and e-Technology for Farmers — Solved Practice Workbook
+# Economy Topic 27 - Digital Agriculture, Agritech and e-Technology for Farmers - Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-03. Uses the same source-bounded Economy distinctions and strict A-B-C-D rotation.
+**Current-source cutoff:** 10 September 2026.
 
-## BASIC MCQS / REMEDIATION
+All 32 MCQs precede PYQs. Correct answers rotate A-B-C-D exactly eight times. Every option has a question-specific explanation and each item records a unique trap.
 
-### Q1. Which statement correctly identifies e-Technology boundary?
+## 32 SOLVED MCQS
 
-A. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-B. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-C. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-D. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
+### MCQ 01
 
-**Answer: A.**
-**Explanation:** e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Question:** Which statement best distinguishes digital agriculture from agritech?
 
-### Q2. Which option preserves the accounting or regulatory boundary of e-Technology boundary?
+A. Digital agriculture is data-enabled farm-cycle management, while agritech is the wider technology and enterprise ecosystem
 
-A. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-B. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-C. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-D. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
+B. Agritech means only government portals
 
-**Answer: B.**
-**Explanation:** e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+C. Digital agriculture means mechanisation without data
 
-### Q3. Which statement uses e-Technology boundary without losing its vintage, basket or legal status?
+D. Both terms mean precision irrigation alone
 
-A. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-B. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-C. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-D. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
 
-**Answer: C.**
-**Explanation:** e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Correct answer:** A
 
-### Q4. Which option avoids the standard UPSC close-option trap about e-Technology boundary?
+- **Option A:** The first option preserves the narrower data-management concept and wider ecosystem boundary.
 
-A. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-B. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-C. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
-D. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
+- **Option B:** Private firms, devices and business models also belong to agritech.
 
-**Answer: D.**
-**Explanation:** e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option C:** Mechanisation may be non-digital and digital agriculture extends beyond machines.
 
-### Q5. Which statement correctly identifies Digital agriculture and agritech?
+- **Option D:** Precision irrigation is one application, not the entire field.
 
-A. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-B. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-C. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-D. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
 
-**Answer: A.**
-**Explanation:** Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Unique trap:** Do not reduce the topic to one portal or device.
 
-### Q6. Which option preserves the accounting or regulatory boundary of Digital agriculture and agritech?
+### MCQ 02
 
-A. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-B. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-C. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-D. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
+**Question:** Which sequence correctly represents the welfare transmission chain?
 
-**Answer: B.**
-**Explanation:** Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. App download to registration to welfare
 
-### Q7. Which statement uses Digital agriculture and agritech without losing its vintage, basket or legal status?
+B. Reliable data to validated advice to feasible action to measured outcome
 
-A. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-B. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-C. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-D. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
+C. Satellite image directly to higher income
 
-**Answer: C.**
-**Explanation:** Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+D. Farmer ID directly to land title
 
-### Q8. Which option avoids the standard UPSC close-option trap about Digital agriculture and agritech?
 
-A. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-B. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
-C. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-D. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
+**Correct answer:** B
 
-**Answer: D.**
-**Explanation:** Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option A:** Activity counts omit decision quality and implementation.
 
-### Q9. Which statement correctly identifies Data-to-outcome chain?
+- **Option B:** The complete chain includes validation, action and outcome feedback.
 
-A. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-B. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-C. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-D. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
+- **Option C:** Imagery supplies evidence, not an automatic causal result.
 
-**Answer: A.**
-**Explanation:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option D:** A service identifier does not confer property rights.
 
-### Q10. Which option preserves the accounting or regulatory boundary of Data-to-outcome chain?
 
-A. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-B. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-C. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-D. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
+**Unique trap:** Data availability is not farmer welfare.
 
-**Answer: B.**
-**Explanation:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 03
 
-### Q11. Which statement uses Data-to-outcome chain without losing its vintage, basket or legal status?
+**Question:** Precision agriculture is best understood as:
 
-A. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-B. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
-C. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-D. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
+A. Any agricultural DBT
 
-**Answer: C.**
-**Explanation:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+B. Any use of a smartphone
 
-### Q12. Which option avoids the standard UPSC close-option trap about Data-to-outcome chain?
+C. Spatially or temporally variable treatment based on measured need
 
-A. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
-B. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-C. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-D. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
+D. Universal ownership of advanced machinery
 
-**Answer: D.**
-**Explanation:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q13. Which statement correctly identifies Precision-agriculture boundary?
+**Correct answer:** C
 
-A. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-B. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-C. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-D. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
+- **Option A:** A transfer can be digital but is not precision management.
 
-**Answer: A.**
-**Explanation:** Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option B:** A device does not establish variable treatment.
 
-### Q14. Which option preserves the accounting or regulatory boundary of Precision-agriculture boundary?
+- **Option C:** This is the defining management logic.
 
-A. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-B. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-C. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
-D. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
+- **Option D:** Shared services may be more economical than ownership.
 
-**Answer: B.**
-**Explanation:** Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q15. Which statement uses Precision-agriculture boundary without losing its vintage, basket or legal status?
+**Unique trap:** Precision is a treatment logic, not generic digitisation.
 
-A. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
-B. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-C. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-D. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
+### MCQ 04
 
-**Answer: C.**
-**Explanation:** Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Question:** Which limitation most directly applies to remote sensing?
 
-### Q16. Which option avoids the standard UPSC close-option trap about Precision-agriculture boundary?
+A. It can never observe crop condition
 
-A. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-B. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-C. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-D. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
+B. It is identical to field inspection
 
-**Answer: D.**
-**Explanation:** Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+C. It provides land title
 
-### Q17. Which statement correctly identifies Remote sensing and ground truth?
+D. Cloud, resolution and crop similarity require ground truth
 
-A. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-B. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-C. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
-D. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
 
-**Answer: A.**
-**Explanation:** Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Correct answer:** D
 
-### Q18. Which option preserves the accounting or regulatory boundary of Remote sensing and ground truth?
+- **Option A:** Remote sensing is widely used for crop observation.
 
-A. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
-B. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-C. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-D. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
+- **Option B:** Field inspection and remote inference are complementary.
 
-**Answer: B.**
-**Explanation:** Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option C:** Imagery does not determine legal title.
 
-### Q19. Which statement uses Remote sensing and ground truth without losing its vintage, basket or legal status?
+- **Option D:** These physical and classification limits justify validation.
 
-A. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-B. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-C. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-D. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
 
-**Answer: C.**
-**Explanation:** Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Unique trap:** A scalable signal is not automatic ground truth.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Remote sensing and ground truth?
+### MCQ 05
 
-A. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-B. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-C. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-D. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
+**Question:** Which pairing is correct?
 
-**Answer: D.**
-**Explanation:** Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. GIS analyses spatial layers; GNSS/NavIC supplies positioning signals
 
-### Q21. Which statement correctly identifies GIS and GNSS?
+B. GIS is an Indian navigation constellation
 
-A. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-B. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
-C. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-D. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
+C. NavIC is a crop-classification algorithm
 
-**Answer: A.**
-**Explanation:** GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+D. GPS is a cadastral land record
 
-### Q22. Which option preserves the accounting or regulatory boundary of GIS and GNSS?
 
-A. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-B. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-C. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-D. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
+**Correct answer:** A
 
-**Answer: B.**
-**Explanation:** GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option A:** The pair separates analysis from positioning.
 
-### Q23. Which statement uses GIS and GNSS without losing its vintage, basket or legal status?
+- **Option B:** NavIC, not GIS, is the Indian regional navigation system.
 
-A. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-B. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-C. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-D. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
+- **Option C:** Navigation signals do not themselves classify crops.
 
-**Answer: C.**
-**Explanation:** GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option D:** GPS is a positioning system, not a legal record.
 
-### Q24. Which option avoids the standard UPSC close-option trap about GIS and GNSS?
 
-A. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-B. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-C. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-D. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
+**Unique trap:** GIS, GNSS and remote sensing have distinct functions.
 
-**Answer: D.**
-**Explanation:** GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 06
 
-### Q25. Which statement correctly identifies IoT, AI and automated control?
+**Question:** An agricultural drone's task depends primarily on:
 
-A. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
-B. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-C. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-D. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
+A. Airframe colour
 
-**Answer: A.**
-**Explanation:** IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+B. Payload, configuration, software and trained operation
 
-### Q26. Which option preserves the accounting or regulatory boundary of IoT, AI and automated control?
+C. Farmer ID count
 
-A. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-B. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
-C. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-D. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
+D. The e-NAM commodity list
 
-**Answer: B.**
-**Explanation:** IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q27. Which statement uses IoT, AI and automated control without losing its vintage, basket or legal status?
+**Correct answer:** B
 
-A. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-B. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-C. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
-D. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
+- **Option A:** Colour does not determine capability.
 
-**Answer: C.**
-**Explanation:** IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option B:** Mapping, sensing or spraying requires the relevant complete system.
 
-### Q28. Which option avoids the standard UPSC close-option trap about IoT, AI and automated control?
+- **Option C:** A registry count is unrelated to aircraft function.
 
-A. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-B. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-C. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-D. IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
+- **Option D:** Market listings do not configure drones.
 
-**Answer: D.**
-**Explanation:** IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q29. Which statement correctly identifies DPI, platform and physical market?
+**Unique trap:** The platform alone does not supply every capability.
 
-A. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-B. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-C. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-D. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
+### MCQ 07
 
-**Answer: A.**
-**Explanation:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Question:** Which statement correctly separates IoT and AI?
 
-### Q30. Which option preserves the accounting or regulatory boundary of DPI, platform and physical market?
+A. AI is a soil sensor
 
-A. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-B. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-C. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-D. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
+B. IoT always makes autonomous decisions
 
-**Answer: B.**
-**Explanation:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+C. IoT captures/exchanges data while AI infers or predicts from data
 
-### Q31. Which statement uses DPI, platform and physical market without losing its vintage, basket or legal status?
+D. They are legally identical
 
-A. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-B. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-C. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-D. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
 
-**Answer: C.**
-**Explanation:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Correct answer:** C
 
-### Q32. Which option avoids the standard UPSC close-option trap about DPI, platform and physical market?
+- **Option A:** A sensor is a data-capture device.
 
-A. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-B. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-C. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-D. Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
+- **Option B:** Connected devices need not automate action.
 
-**Answer: D.**
-**Explanation:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option C:** This preserves sensing and inference layers.
 
-### Q33. Which statement correctly identifies Digital Agriculture Mission status?
+- **Option D:** The technologies and accountability roles differ.
 
-A. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-B. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-C. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-D. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
 
-**Answer: A.**
-**Explanation:** The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Unique trap:** Sensing, inference and control are separate layers.
 
-### Q34. Which option preserves the accounting or regulatory boundary of Digital Agriculture Mission status?
+### MCQ 08
 
-A. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-B. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-C. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-D. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
+**Question:** A high aggregate AI accuracy rate is insufficient because:
 
-**Answer: B.**
-**Explanation:** The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Agriculture has no data
 
-### Q35. Which statement uses Digital Agriculture Mission status without losing its vintage, basket or legal status?
+B. All models are prohibited
 
-A. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-B. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-C. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-D. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
+C. Only hardware matters
 
-**Answer: C.**
-**Explanation:** The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+D. Subgroup bias, drift and rare-event failure may remain
 
-### Q36. Which option avoids the standard UPSC close-option trap about Digital Agriculture Mission status?
 
-A. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-B. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-C. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-D. The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
+**Correct answer:** D
 
-**Answer: D.**
-**Explanation:** The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option A:** Agriculture produces abundant but uneven data.
 
-### Q37. Which statement correctly identifies AgriStack federal architecture?
+- **Option B:** Models are not generally prohibited; their use needs safeguards.
 
-A. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-B. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-C. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-D. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
+- **Option C:** Data and decision design matter alongside hardware.
 
-**Answer: A.**
-**Explanation:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option D:** Distributional and temporal performance can differ from the average.
 
-### Q38. Which option preserves the accounting or regulatory boundary of AgriStack federal architecture?
 
-A. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-B. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-C. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-D. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
+**Unique trap:** Accuracy does not equal fairness or robustness.
 
-**Answer: B.**
-**Explanation:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 09
 
-### Q39. Which statement uses AgriStack federal architecture without losing its vintage, basket or legal status?
+**Question:** Which official fact is correctly stated?
 
-A. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-B. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-C. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-D. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
+A. Cabinet approved the Digital Agriculture Mission on 3 September 2024 with Rs 2,817 crore outlay
 
-**Answer: C.**
-**Explanation:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+B. The Mission was completed nationwide in 2021
 
-### Q40. Which option avoids the standard UPSC close-option trap about AgriStack federal architecture?
+C. Its outlay equals certified expenditure
 
-A. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-B. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-C. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-D. AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
+D. It is one mobile application
 
-**Answer: D.**
-**Explanation:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q41. Which statement correctly identifies AgriStack building blocks?
+**Correct answer:** A
 
-A. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-B. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-C. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-D. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
+- **Option A:** The dated official release records the approval and outlay.
 
-**Answer: A.**
-**Explanation:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option B:** IDEA was a 2021 blueprint, not nationwide completion.
 
-### Q42. Which option preserves the accounting or regulatory boundary of AgriStack building blocks?
+- **Option C:** Sanctioned outlay is not realised spending.
 
-A. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-B. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-C. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-D. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
+- **Option D:** The Mission is an umbrella architecture.
 
-**Answer: B.**
-**Explanation:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q43. Which statement uses AgriStack building blocks without losing its vintage, basket or legal status?
+**Unique trap:** Approved, spent and achieved are different stages.
 
-A. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-B. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-C. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-D. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
+### MCQ 10
 
-**Answer: C.**
-**Explanation:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Question:** IDEA 2021 is best described as:
 
-### Q44. Which option avoids the standard UPSC close-option trap about AgriStack building blocks?
+A. A final crop survey count
 
-A. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-B. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-C. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-D. Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
+B. A digital-ecosystem design framework preceding the 2024 Mission
 
-**Answer: D.**
-**Explanation:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+C. An insurance claim formula
 
-### Q45. Which statement correctly identifies Krishi-DSS boundary?
+D. An e-NAM settlement rule
 
-A. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-B. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-C. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-D. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
 
-**Answer: A.**
-**Explanation:** Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Correct answer:** B
 
-### Q46. Which option preserves the accounting or regulatory boundary of Krishi-DSS boundary?
+- **Option A:** Coverage is a later implementation metric.
 
-A. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-B. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-C. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-D. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
+- **Option B:** The chronology places blueprint before funded mission.
 
-**Answer: B.**
-**Explanation:** Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option C:** PMFBY rules govern insurance claims.
 
-### Q47. Which statement uses Krishi-DSS boundary without losing its vintage, basket or legal status?
+- **Option D:** Market settlement has a separate architecture.
 
-A. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-B. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-C. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-D. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
 
-**Answer: C.**
-**Explanation:** Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Unique trap:** A blueprint is not an operational outcome.
 
-### Q48. Which option avoids the standard UPSC close-option trap about Krishi-DSS boundary?
+### MCQ 11
 
-A. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-B. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-C. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-D. Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
+**Question:** AgriStack's official architecture is:
 
-**Answer: D.**
-**Explanation:** Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. A private input marketplace
 
-### Q49. Which statement correctly identifies e-NAM market completion?
+B. One central file controlled by e-NAM
 
-A. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-B. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-C. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-D. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
+C. A federated Centre-state DPI built around farmer, map and crop registries
 
-**Answer: A.**
-**Explanation:** e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+D. A satellite constellation
 
-### Q50. Which option preserves the accounting or regulatory boundary of e-NAM market completion?
 
-A. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-B. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-C. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-D. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
+**Correct answer:** C
 
-**Answer: B.**
-**Explanation:** e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option A:** It is public digital infrastructure, not an input seller.
 
-### Q51. Which statement uses e-NAM market completion without losing its vintage, basket or legal status?
+- **Option B:** e-NAM and AgriStack have distinct functions.
 
-A. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-B. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-C. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-D. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
+- **Option C:** This captures the official federated design.
 
-**Answer: C.**
-**Explanation:** e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option D:** It uses geospatial data but is not a space system.
 
-### Q52. Which option avoids the standard UPSC close-option trap about e-NAM market completion?
 
-A. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-B. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-C. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
-D. e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
+**Unique trap:** Federated does not automatically mean accurate or inclusive.
 
-**Answer: D.**
-**Explanation:** e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 12
 
-### Q53. Which statement correctly identifies Drone platform and payload?
+**Question:** Farmer ID should not be treated as:
 
-A. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-B. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-C. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-D. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
+A. A reusable service identifier
 
-**Answer: A.**
-**Explanation:** A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+B. A state-maintained registry key
 
-### Q54. Which option preserves the accounting or regulatory boundary of Drone platform and payload?
+C. A route to authorised verification
 
-A. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-B. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-C. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-D. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
+D. Conclusive land title and guaranteed entitlement
 
-**Answer: B.**
-**Explanation:** A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q55. Which statement uses Drone platform and payload without losing its vintage, basket or legal status?
+**Correct answer:** D
 
-A. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-B. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-C. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-D. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
+- **Option A:** Reusable verification is an intended function.
 
-**Answer: C.**
-**Explanation:** A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option B:** States and UTs maintain the registry.
 
-### Q56. Which option avoids the standard UPSC close-option trap about Drone platform and payload?
+- **Option C:** Services may request authorised verification.
 
-A. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-B. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
-C. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
-D. A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
+- **Option D:** Identity, title, cultivation and eligibility are distinct.
 
-**Answer: D.**
-**Explanation:** A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q57. Which statement correctly identifies Shared-service economics?
+**Unique trap:** Identity is not substantive eligibility.
 
-A. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-B. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-C. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-D. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
+### MCQ 13
 
-**Answer: A.**
-**Explanation:** High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Question:** The Digital Crop Survey primarily records:
 
-### Q58. Which option preserves the accounting or regulatory boundary of Shared-service economics?
+A. Plot-level crop-sown information for a season
 
-A. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-B. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-C. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-D. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
+B. Only bank transactions
 
-**Answer: B.**
-**Explanation:** High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+C. Only satellite images without field capture
 
-### Q59. Which statement uses Shared-service economics without losing its vintage, basket or legal status?
+D. Legal title transfers
 
-A. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-B. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
-C. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-D. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
 
-**Answer: C.**
-**Explanation:** High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Correct answer:** A
 
-### Q60. Which option avoids the standard UPSC close-option trap about Shared-service economics?
+- **Option A:** The mobile field workflow links parcel, crop and season.
 
-A. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
-B. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
-C. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-D. High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
+- **Option B:** Financial transactions are a different data class.
 
-**Answer: D.**
-**Explanation:** High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option C:** Remote sensing may complement field survey.
 
-### Q61. Which statement correctly identifies Digital risk assessment?
+- **Option D:** Revenue authorities and legal processes govern title.
 
-A. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-B. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-C. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-D. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
 
-**Answer: A.**
-**Explanation:** Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Unique trap:** Surveyed plots are not automatically benefited farmers.
 
-### Q62. Which option preserves the accounting or regulatory boundary of Digital risk assessment?
+### MCQ 14
 
-A. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-B. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-C. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
-D. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
+**Question:** Krishi-DSS is best classified as:
 
-**Answer: B.**
-**Explanation:** Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. An autonomous authority
 
-### Q63. Which statement uses Digital risk assessment without losing its vintage, basket or legal status?
+B. A geospatial decision-support platform combining multiple datasets
 
-A. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
-B. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
-C. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-D. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
+C. A drone licence
 
-**Answer: C.**
-**Explanation:** Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+D. A direct-income transfer
 
-### Q64. Which option avoids the standard UPSC close-option trap about Digital risk assessment?
 
-A. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
-B. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-C. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-D. Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
+**Correct answer:** B
 
-**Answer: D.**
-**Explanation:** Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option A:** Accountable institutions retain decision authority.
 
-### Q65. Which statement correctly identifies Adoption and outcome?
+- **Option B:** The platform integrates satellite, weather, soil, crop and water layers.
 
-A. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-B. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-C. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
-D. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
+- **Option C:** DGCA and aviation rules govern drone permissions.
 
-**Answer: A.**
-**Explanation:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option D:** PM-KISAN is a separate DBT scheme.
 
-### Q66. Which option preserves the accounting or regulatory boundary of Adoption and outcome?
 
-A. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
-B. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-C. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
-D. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
+**Unique trap:** Decision support is not automated legal authority.
 
-**Answer: B.**
-**Explanation:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 15
 
-### Q67. Which statement uses Adoption and outcome without losing its vintage, basket or legal status?
+**Question:** Open standards in agricultural DPI mean:
 
-A. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
-B. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-C. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-D. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
+A. All personal data must be public
 
-**Answer: C.**
-**Explanation:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+B. One vendor owns every interface
 
-### Q68. Which option avoids the standard UPSC close-option trap about Adoption and outcome?
+C. Systems can interoperate under governed access rules
 
-A. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-B. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-C. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-D. Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
+D. Consent and security are unnecessary
 
-**Answer: D.**
-**Explanation:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q69. Which statement correctly identifies Cultivator-inclusion boundary?
+**Correct answer:** C
 
-A. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-B. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
-C. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
-D. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
+- **Option A:** Openness of standards differs from public disclosure.
 
-**Answer: A.**
-**Explanation:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option B:** Open interfaces should reduce vendor dependence.
 
-### Q70. Which option preserves the accounting or regulatory boundary of Cultivator-inclusion boundary?
+- **Option C:** Technical compatibility operates with legal controls.
 
-A. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
-B. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-C. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-D. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
+- **Option D:** Privacy and security remain mandatory design questions.
 
-**Answer: B.**
-**Explanation:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q71. Which statement uses Cultivator-inclusion boundary without losing its vintage, basket or legal status?
+**Unique trap:** Interoperability is not unrestricted access.
 
-A. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-B. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-C. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-D. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
+### MCQ 16
 
-**Answer: C.**
-**Explanation:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Question:** What is the correct DPDP status by 10 September 2026?
 
-### Q72. Which option avoids the standard UPSC close-option trap about Cultivator-inclusion boundary?
+A. Only a draft Act exists
 
-A. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-B. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-C. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-D. Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
+B. All provisions commenced in August 2023
 
-**Answer: D.**
-**Explanation:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+C. Agriculture is entirely exempt
 
-### Q73. Which statement correctly identifies Agricultural platform power?
+D. Rules were notified 13 November 2025 with phased commencement
 
-A. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
-B. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
-C. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-D. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
 
-**Answer: A.**
-**Explanation:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Correct answer:** D
 
-### Q74. Which option preserves the accounting or regulatory boundary of Agricultural platform power?
+- **Option A:** The Act was enacted in 2023.
 
-A. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-B. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
-C. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-D. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
+- **Option B:** Enactment and operative commencement differ.
 
-**Answer: B.**
-**Explanation:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option C:** No blanket agriculture exemption follows.
 
-### Q75. Which statement uses Agricultural platform power without losing its vintage, basket or legal status?
+- **Option D:** The Gazette notifications use immediate, one-year and eighteen-month groups.
 
-A. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-B. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-C. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
-D. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
 
-**Answer: C.**
-**Explanation:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Unique trap:** Never merge enactment, notification and commencement.
 
-### Q76. Which option avoids the standard UPSC close-option trap about Agricultural platform power?
+### MCQ 17
 
-A. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-B. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-C. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-D. Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
+**Question:** Aadhaar authentication establishes:
 
-**Answer: D.**
-**Explanation:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Identity credential verification, not title, cultivation or eligibility
 
-### Q77. Which statement correctly identifies 100 Million Farmers status?
+B. Ownership of every linked parcel
 
-A. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
-B. e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-C. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-D. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
+C. Correct crop classification
 
-**Answer: A.**
-**Explanation:** The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+D. Automatic PM-KISAN payment
 
-### Q78. Which option preserves the accounting or regulatory boundary of 100 Million Farmers status?
 
-A. Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-B. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
-C. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-D. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
+**Correct answer:** A
 
-**Answer: B.**
-**Explanation:** The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option A:** The authentication perimeter is identity.
 
-### Q79. Which statement uses 100 Million Farmers status without losing its vintage, basket or legal status?
+- **Option B:** Land rights require revenue and legal evidence.
 
-A. Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-B. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-C. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
-D. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
+- **Option C:** Crop survey and remote sensing establish crop information.
 
-**Answer: C.**
-**Explanation:** The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option D:** Scheme conditions and bank validation still apply.
 
-### Q80. Which option avoids the standard UPSC close-option trap about 100 Million Farmers status?
 
-A. Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-B. Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-C. GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-D. The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved.
+**Unique trap:** Authentication is only one verification layer.
 
-**Answer: D.**
-**Explanation:** The World Economic Forum's 100 Million Farmers initiative is a multistakeholder platform with a stated 2030 support ambition, not a Government of India scheme or evidence that the target has been achieved. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 18
 
-### Semantic-completeness coverage drills — Topic 27
+**Question:** The PM-KISAN portal's physical-verification warning shows that:
 
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | How should conquest inscriptions be used? | claim/date/target → rival/material evidence → duration limit | audited empire map |
-| B | Was the Chola state centralized? | royal command/survey → intermediaries/local bodies → three models → graded verdict | bureaucracy versus autonomy binary |
-| C | What does Uttaramerur prove? | brahmadeya scope → eligibility/disqualification → kudavolai/variyam → exclusion | universal democracy |
-| D | Explain the agrarian base. | Kaveri/tanks/canals → land rights/survey/tax/labour → hierarchy | ecological determinism |
-| E | Reconstruct social dependence. | inscriptional term/settlement → labour and legal context → slavery caution | modern chattel equivalence |
-| F | Explain temple power. | ritual + land + labour + redistribution + craft + education/archive → variation | temple command economy |
-| G | Assess merchant and naval power. | guild/port/commodity → state interaction → Sri Lanka/Srivijaya distinction | colonization |
-| H | Build the culture answer. | three temples → bronzes/Nataraja → Tamil/Sanskrit → labour/patronage limit | monuments equal universal prosperity |
+A. Digital records are never used
 
-**PYQ self-check:** 2020 Q24, 2022 GS-I Q12, 2024 GS-I Q11 and 2025 Q16
-must all be executable from chronology, culture and maritime evidence.
+B. Digital checks require corrective field verification for suspected cases
 
-## PYQS AND ANSWER PRACTICE
+C. Every beneficiary is a tenant
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+D. DBT itself determines eligibility
 
-Audited ledgers route the 2023 GS-III e-Technology demand and objective concepts on drone applications and the WEF 100 Million Farmers platform. The Basic session and practice preserve these concepts without inferring unavailable objective keys or platform achievement.
 
-### OWNER PYQ LEDGER EXTRACTS
+**Correct answer:** B
 
-#### 11. PYQ closure
+- **Option A:** The scheme uses extensive digital verification.
 
-| PYQ demand | What a complete answer must cover |
-|---|---|
-| **2020 Prelims:** drone applications including agriculture | Platform/payload distinction; mapping, monitoring and spraying; applications are not universal capabilities |
-| **2023 GS-III:** how e-technology helps farmers in production and marketing | Stage-wise production uses + market uses + constraints + institutional complements |
-| **2025 GS-III:** nanotechnology advancements in agriculture and farmer welfare | Input/sensor/delivery applications + productivity/cost/risk channels + safety, access and regulation |
-| **Official syllabus:** e-technology in aid of farmers | Full data-to-decision-to-action chain, public architecture, inclusion, governance and outcomes |
+- **Option B:** The portal explicitly withholds suspected cases pending verification.
 
-##### 2023 GS-III answer engine — 10 marks / 150 words
+- **Option C:** Tenancy status varies and is not implied.
 
-**Introduction:** Define e-technology as digital and electronic systems supporting farm
-decisions, services and markets.
+- **Option D:** Entitlement rules precede payment execution.
 
-**Production**
 
-1. GIS/remote sensing for acreage, crop health, drought and planning.
-2. Weather, soil and pest advisories for crop/input decisions.
-3. Sensors, precision irrigation/fertigation and drones for targeted action.
-4. Digital credit, insurance and loss assessment for risk management.
+**Unique trap:** Digital delivery needs an exception-and-correction path.
 
-**Marketing**
+### MCQ 19
 
-1. price/arrival information and e-NAM discovery;
-2. digital assaying, warehouse records and traceability;
-3. FPO aggregation, logistics matching and digital settlement.
+**Question:** Digital KCC processing should be understood as:
 
-**Critical line:** technology requires connectivity, extension, finance, physical
-infrastructure, data rights and grievance redress.
+A. Automatic grant finance
 
-**Conclusion:** move from app-centric digitisation to inclusive, interoperable and
-outcome-accountable digital agriculture.
+B. A substitute for all bank underwriting
 
-##### 2025 nanotechnology answer engine — 15 marks / 250 words
+C. A bank-credit workflow made more efficient by verified data
 
-1. Define nano-scale applications without claiming automatic superiority.
-2. Cover nano-fertilisers/formulations, sensors, diagnostics, targeted delivery and
-   post-harvest uses.
-3. Trace welfare through yield/quality, input efficiency, lower loss and resilience.
-4. Add affordability, field evidence, toxicity, regulation, labelling and extension.
-5. Conclude with farmer-centric evaluation based on net income and ecological safety.
+D. A crop-insurance claim
 
-**Demand decoding:** The directive **answer** requires a direct position on “11. PYQ closure”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
+**Correct answer:** C
 
-**Introduction and thesis:** The answer must resolve the Economy demand in “11. PYQ closure”.
+- **Option A:** KCC is repayable credit.
 
-**Analytical body:**
+- **Option B:** Banks retain appraisal and borrower-protection duties.
 
-1. **Claim and named evidence:** 2020 Prelims: drone applications including agriculture Platform/payload distinction; mapping, monitoring and spraying; applications are not universal capabilities **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** 2023 GS-III: how e-technology helps farmers in production and marketing Stage-wise production uses + market uses + constraints + institutional complements **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** 2025 GS-III: nanotechnology advancements in agriculture and farmer welfare Input/sensor/delivery applications + productivity/cost/risk channels + safety, access and regulation **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Official syllabus: e-technology in aid of farmers Full data-to-decision-to-action chain, public architecture, inclusion, governance and outcomes **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Introduction: Define e-technology as digital and electronic systems supporting farm **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** GIS/remote sensing for acreage, crop health, drought and planning. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+- **Option C:** This preserves digital efficiency and credit discipline.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+- **Option D:** Insurance is a separate risk-transfer product.
 
-**Qualified conclusion:** The answer must resolve the Economy demand in “11. PYQ closure”.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Unique trap:** Farmer ID does not guarantee sanction.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+### MCQ 20
 
-**How to improve this answer:** For “11. PYQ closure”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Question:** The central risk of alternative-data scoring is:
 
-#### Recent PYQ Integration (2024-2025)
+A. It cannot use any data
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+B. It eliminates information asymmetry completely
 
-- **Years represented:** 2024
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+C. It always lowers interest rates
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | Prelims GS-I | 26 | '100 Million Farmers' platform description | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+D. Proxy bias may cause exclusion or excessive lending
 
-##### What this owner must now support
 
-- '100 Million Farmers' platform description
+**Correct answer:** D
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+- **Option A:** Alternative data uses non-traditional signals.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+- **Option B:** Uncertainty and asymmetry remain.
 
-#### Historical PYQ Integration (2018-2023)
+- **Option C:** Pricing depends on risk, competition and costs.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+- **Option D:** Biased proxies and aggressive offers can harm borrowers.
 
-- **Years represented:** 2020, 2023
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 2
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | Prelims GS-I | 42 | Drone applications in agriculture volcano and wildlife research | Objective question; official key unavailable locally | Cross-routed to technical and farmer-economy owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | GS-III | 3 | e-Technology helping farmers in agricultural production and marketing | Explain · 10 marks · 150 words | Routed to dedicated e-technology owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**Unique trap:** Richer data can create new discrimination.
 
-##### What this owner must now support
+### MCQ 21
 
-- Drone applications in agriculture volcano and wildlife research
-- e-Technology helping farmers in agricultural production and marketing
+**Question:** YES-TECH and WINDS belong to:
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+A. Technology-enabled PMFBY yield/weather architecture
 
-#### Historical PYQ Integration (2018-2023)
+B. e-NAM trading rules
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+C. DGCA pilot licensing
 
-- **Years represented:** 2023
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
+D. PM-KISAN land mutation
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2023 | GS-III | 3 | e-Technology helping farmers in agricultural production and marketing | Explain · 10 marks · 150 words | Routed to dedicated e-technology owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
-##### What this owner must now support
+**Correct answer:** A
 
-- e-Technology helping farmers in agricultural production and marketing
+- **Option A:** The PMFBY framework uses technology for yield and weather evidence.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+- **Option B:** e-NAM concerns agricultural marketing.
 
-### PYQ DEMAND CARD 1 — 2023 GS-III
+- **Option C:** DGCA governs aviation safety.
 
-**Demand:** How e-Technology helps farmers in agricultural production and marketing.
+- **Option D:** Revenue records and PM-KISAN verification are separate.
 
-**Status:** Official-paper demand routed in the audited 2018-2023 GS-III ledger.
 
-**Model solution:** **Data-to-outcome chain:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Remote sensing and ground truth:** Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions. **DPI, platform and physical market:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **e-NAM market completion:** e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution. **Shared-service economics:** High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary. **Adoption and outcome:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Cultivator-inclusion boundary:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Unique trap:** Insurance technology does not eliminate basis risk.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2023 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+### MCQ 22
 
-**Detailed examiner-grade model answer:**
+**Question:** Basis risk means:
 
-**Introduction and thesis:** **Data-to-outcome chain:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Remote sensing and ground truth:** Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions. **DPI, platform and physical market:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **e-NAM market completion:** e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution. **Shared-service economics:** High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary. **Adoption and outcome:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Cultivator-inclusion boundary:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+A. The insurer has no database
 
-**Analytical body:**
+B. Measured/index loss differs from the farmer's actual loss
 
-1. **Claim and named evidence:** Demand: How e-Technology helps farmers in agricultural production and marketing. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand routed in the audited 2018-2023 GS-III ledger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+C. Every claim is fraudulent
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+D. The premium is a land title
 
-**Qualified conclusion:** **Data-to-outcome chain:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Remote sensing and ground truth:** Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions. **DPI, platform and physical market:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **e-NAM market completion:** e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution. **Shared-service economics:** High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary. **Adoption and outcome:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Cultivator-inclusion boundary:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Correct answer:** B
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+- **Option A:** Database quality is one operational issue.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2023 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+- **Option B:** This is the defining mismatch.
 
-### ORIGINAL MAINS 1 — 10 MARKS
+- **Option C:** Disagreement may arise without fraud.
 
-**Question:** Explain the data-to-decision-to-action chain in digital agriculture. Answer in about 150 words.
+- **Option D:** Premium and title are unrelated concepts.
 
-**Model thesis:** **Claim:** e-Technology boundary. **Named evidence/example:** e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Digital agriculture and agritech. **Named evidence/example:** Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Data-to-outcome chain. **Named evidence/example:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
 
-**Claim → named evidence → analysis → qualification:**
+**Unique trap:** A faster model can still mismatch individual loss.
 
-- e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material.
-- Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal.
-- Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
+### MCQ 23
 
-**Qualified conclusion:** **Claim:** e-Technology boundary. **Named evidence/example:** e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Digital agriculture and agritech. **Named evidence/example:** Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Data-to-outcome chain. **Named evidence/example:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Question:** Which statement about e-NAM is correct?
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the data-to-decision-to-action chain in digital agriculture. Answer in about 150…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+A. It abolishes state APMC law
 
-**Detailed examiner-grade model answer:**
+B. It physically transports every lot
 
-**Introduction and thesis:** **Claim:** e-Technology boundary. **Named evidence/example:** e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Digital agriculture and agritech. **Named evidence/example:** Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Data-to-outcome chain. **Named evidence/example:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+C. It is an SFAC-operated electronic market layer needing assaying, logistics and settlement
 
-**Analytical body:**
+D. It guarantees a higher price
 
-1. **Claim and named evidence:** e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Correct answer:** C
 
-**Qualified conclusion:** **Claim:** e-Technology boundary. **Named evidence/example:** e-Technology in agriculture uses electronic, digital, communication and information systems to support farm decisions, services and markets; the Core firewall keeps this Basic route exam-complete without relying on optional Advanced material. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Digital agriculture and agritech. **Named evidence/example:** Digital agriculture is data-enabled management across the farm cycle, while agritech also includes firms, devices, mechanisation, biotechnology, nanotechnology and business models; neither is one portal. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Data-to-outcome chain. **Named evidence/example:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option A:** State market frameworks continue.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+- **Option B:** Physical logistics remain separate.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+- **Option C:** This captures the digital-plus-physical model.
 
-**How to improve this answer:** For “Explain the data-to-decision-to-action chain in digital agriculture. Answer in about 150…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+- **Option D:** Price outcomes depend on competition, quality and execution.
 
-### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Distinguish remote sensing, GIS, GNSS, IoT and AI. Answer in about 150 words.
+**Unique trap:** Online bidding alone is not a completed trade.
 
-**Model thesis:** **Claim:** Remote sensing and ground truth. **Named evidence/example:** Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** GIS and GNSS. **Named evidence/example:** GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IoT, AI and automated control. **Named evidence/example:** IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+### MCQ 24
 
-**Claim → named evidence → analysis → qualification:**
+**Question:** FPO digitalisation can raise bargaining power only when:
 
-- Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions.
-- GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct.
-- IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others.
+A. The app replaces members
 
-**Qualified conclusion:** **Claim:** Remote sensing and ground truth. **Named evidence/example:** Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** GIS and GNSS. **Named evidence/example:** GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IoT, AI and automated control. **Named evidence/example:** IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+B. It avoids books and governance
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish remote sensing, GIS, GNSS, IoT and AI. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+C. Every member owns a drone
 
-**Detailed examiner-grade model answer:**
+D. Aggregation, working capital, transparent governance and buyers function together
 
-**Introduction and thesis:** **Claim:** Remote sensing and ground truth. **Named evidence/example:** Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** GIS and GNSS. **Named evidence/example:** GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IoT, AI and automated control. **Named evidence/example:** IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
 
-**Analytical body:**
+**Correct answer:** D
 
-1. **Claim and named evidence:** Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+- **Option A:** Member agency remains essential.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+- **Option B:** Records and accountability support collective action.
 
-**Qualified conclusion:** **Claim:** Remote sensing and ground truth. **Named evidence/example:** Remote sensing observes land or crops without direct contact and can signal condition, but cloud, resolution, revisit and crop-similarity limits require ground truth and appeal when used for consequential decisions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** GIS and GNSS. **Named evidence/example:** GIS stores, combines and analyses geographically referenced data, while GNSS or NavIC supplies positioning and navigation signals; mapping analysis and location signals are related but distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IoT, AI and automated control. **Named evidence/example:** IoT sensors collect or exchange data, AI or machine learning infers or predicts, and automated control acts; a system may combine them but capability in one layer does not prove the others. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option C:** Shared service may be preferable.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+- **Option D:** Digital tools need institutional and market complements.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
 
-**How to improve this answer:** For “Distinguish remote sensing, GIS, GNSS, IoT and AI. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Unique trap:** FPO registration is not active collective trade.
 
-### ORIGINAL MAINS 3 — 15 MARKS
+### MCQ 25
 
-**Question:** Assess AgriStack and Krishi-DSS as agricultural digital public infrastructure. Answer in about 250 words.
+**Question:** Why can drone-as-a-service outperform individual ownership?
 
-**Model thesis:** **Claim:** Digital Agriculture Mission status. **Named evidence/example:** The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack federal architecture. **Named evidence/example:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack building blocks. **Named evidence/example:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Krishi-DSS boundary. **Named evidence/example:** Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cultivator-inclusion boundary. **Named evidence/example:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+A. It spreads fixed cost across clustered demand
 
-**Claim → named evidence → analysis → qualification:**
+B. It removes all regulation
 
-- The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome.
-- AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-- Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-- Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority.
-- Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
+C. It makes maintenance unnecessary
 
-**Qualified conclusion:** **Claim:** Digital Agriculture Mission status. **Named evidence/example:** The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack federal architecture. **Named evidence/example:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack building blocks. **Named evidence/example:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Krishi-DSS boundary. **Named evidence/example:** Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cultivator-inclusion boundary. **Named evidence/example:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+D. It guarantees year-round use
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess AgriStack and Krishi-DSS as agricultural digital public infrastructure. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
+**Correct answer:** A
 
-**Introduction and thesis:** **Claim:** Digital Agriculture Mission status. **Named evidence/example:** The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack federal architecture. **Named evidence/example:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack building blocks. **Named evidence/example:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Krishi-DSS boundary. **Named evidence/example:** Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cultivator-inclusion boundary. **Named evidence/example:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option A:** Higher utilisation lowers cost per operation.
 
-**Analytical body:**
+- **Option B:** Aviation and application rules still apply.
 
-1. **Claim and named evidence:** The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+- **Option C:** Maintenance becomes a provider responsibility, not unnecessary.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+- **Option D:** Agricultural demand remains seasonal.
 
-**Qualified conclusion:** **Claim:** Digital Agriculture Mission status. **Named evidence/example:** The Union Cabinet approved the Digital Agriculture Mission in September 2024 as an umbrella architecture; approval and sanctioned outlay are not expenditure, farmer adoption or measured outcome. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack federal architecture. **Named evidence/example:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack building blocks. **Named evidence/example:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Krishi-DSS boundary. **Named evidence/example:** Krishi Decision Support System combines geospatial and administrative information for mapping, monitoring and planning. Decision support remains an input to field agronomy and accountable official judgment rather than an autonomous farm-management authority. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cultivator-inclusion boundary. **Named evidence/example:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Unique trap:** Asset distribution and service utilisation differ.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+### MCQ 26
 
-**How to improve this answer:** For “Assess AgriStack and Krishi-DSS as agricultural digital public infrastructure. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Question:** Platform network effects may create which trade-off?
 
-### ORIGINAL MAINS 4 — 15 MARKS
+A. No users benefit
 
-**Question:** Why does e-NAM require physical market complements? Answer in about 250 words.
+B. Better matching alongside concentration and lock-in risk
 
-**Model thesis:** **Claim:** DPI, platform and physical market. **Named evidence/example:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** e-NAM market completion. **Named evidence/example:** e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Agricultural platform power. **Named evidence/example:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+C. All intermediaries disappear
 
-**Claim → named evidence → analysis → qualification:**
+D. Competition law becomes irrelevant
 
-- Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-- e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution.
-- Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
 
-**Qualified conclusion:** **Claim:** DPI, platform and physical market. **Named evidence/example:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** e-NAM market completion. **Named evidence/example:** e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Agricultural platform power. **Named evidence/example:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Correct answer:** B
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why does e-NAM require physical market complements? Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+- **Option A:** Users may gain from broader networks.
 
-**Detailed examiner-grade model answer:**
+- **Option B:** The same scale can improve service and gatekeeping power.
 
-**Introduction and thesis:** **Claim:** DPI, platform and physical market. **Named evidence/example:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** e-NAM market completion. **Named evidence/example:** e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Agricultural platform power. **Named evidence/example:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option C:** New digital intermediaries can emerge.
 
-**Analytical body:**
+- **Option D:** Competition remains relevant.
 
-1. **Claim and named evidence:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Unique trap:** Digital disintermediation can create a new intermediary.
 
-**Qualified conclusion:** **Claim:** DPI, platform and physical market. **Named evidence/example:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** e-NAM market completion. **Named evidence/example:** e-NAM is operated by SFAC under the agriculture ministry and digitises discovery and transaction functions, but completed trade still needs assaying, aggregation, logistics, settlement and dispute resolution. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Agricultural platform power. **Named evidence/example:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+### MCQ 27
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Question:** Which cyber design is most farmer-protective?
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+A. Online-only service with no recovery
 
-**How to improve this answer:** For “Why does e-NAM require physical market complements? Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+B. Shared passwords for convenience
 
-### ORIGINAL MAINS 5 — 20 MARKS
+C. Strong authentication, logs, backups, incident response and offline continuity
 
-**Question:** Evaluate agritech through adoption, shared-service economics and farmer welfare. Answer in about 300 words.
+D. Permanent storage of every field
 
-**Model thesis:** **Claim:** Data-to-outcome chain. **Named evidence/example:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Precision-agriculture boundary. **Named evidence/example:** Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Drone platform and payload. **Named evidence/example:** A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Shared-service economics. **Named evidence/example:** High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Adoption and outcome. **Named evidence/example:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cultivator-inclusion boundary. **Named evidence/example:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
 
-**Claim → named evidence → analysis → qualification:**
+**Correct answer:** C
 
-- Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare.
-- Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction.
-- A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules.
-- High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary.
-- Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-- Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
+- **Option A:** Outages would cause exclusion.
 
-**Qualified conclusion:** **Claim:** Data-to-outcome chain. **Named evidence/example:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Precision-agriculture boundary. **Named evidence/example:** Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Drone platform and payload. **Named evidence/example:** A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Shared-service economics. **Named evidence/example:** High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Adoption and outcome. **Named evidence/example:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cultivator-inclusion boundary. **Named evidence/example:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option B:** Shared credentials undermine accountability.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate agritech through adoption, shared-service economics and farmer welfare. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+- **Option C:** Layered resilience addresses prevention and recovery.
 
-**Detailed examiner-grade model answer:**
+- **Option D:** Data minimisation and retention limits remain important.
 
-**Introduction and thesis:** **Claim:** Data-to-outcome chain. **Named evidence/example:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Precision-agriculture boundary. **Named evidence/example:** Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Drone platform and payload. **Named evidence/example:** A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Shared-service economics. **Named evidence/example:** High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Adoption and outcome. **Named evidence/example:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cultivator-inclusion boundary. **Named evidence/example:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
 
-**Analytical body:**
+**Unique trap:** Backend security must be joined to usable recovery.
 
-1. **Claim and named evidence:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+### MCQ 28
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Question:** The strongest evaluation metric is:
 
-**Qualified conclusion:** **Claim:** Data-to-outcome chain. **Named evidence/example:** Farm and farmer data must be sensed, analysed, converted into advice, implemented through complementary inputs or services and evaluated through outcomes; data availability alone is not farmer welfare. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Precision-agriculture boundary. **Named evidence/example:** Precision agriculture varies treatment by measured spatial or temporal need; it does not mean zero-input farming or guarantee lower total resource extraction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Drone platform and payload. **Named evidence/example:** A drone is an unmanned aircraft platform whose mapping, monitoring or spraying capability depends on its payload, configuration, calibration, trained operation and applicable rules. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Shared-service economics. **Named evidence/example:** High fixed-cost equipment can be more viable through FPO, SHG, cooperative or custom-hiring services than universal individual ownership, but recurring demand, scheduling, maintenance and working capital remain necessary. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Adoption and outcome. **Named evidence/example:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cultivator-inclusion boundary. **Named evidence/example:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+A. Number of app downloads
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+B. Number of messages sent
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+C. Number of IDs created
 
-**How to improve this answer:** For “Evaluate agritech through adoption, shared-service economics and farmer welfare. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+D. Verified change in net income, risk or resource use with distribution and cost
 
-### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Design inclusive and accountable digital agriculture for India. Answer in about 300 words.
+**Correct answer:** D
 
-**Model thesis:** **Claim:** DPI, platform and physical market. **Named evidence/example:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack federal architecture. **Named evidence/example:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack building blocks. **Named evidence/example:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Digital risk assessment. **Named evidence/example:** Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Adoption and outcome. **Named evidence/example:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cultivator-inclusion boundary. **Named evidence/example:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Agricultural platform power. **Named evidence/example:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option A:** Downloads do not prove use.
 
-**Claim → named evidence → analysis → qualification:**
+- **Option B:** Delivery does not prove action.
 
-- Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement.
-- AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together.
-- Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes.
-- Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route.
-- Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence.
-- Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system.
-- Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards.
+- **Option C:** IDs are infrastructure outputs.
 
-**Qualified conclusion:** **Claim:** DPI, platform and physical market. **Named evidence/example:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack federal architecture. **Named evidence/example:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack building blocks. **Named evidence/example:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Digital risk assessment. **Named evidence/example:** Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Adoption and outcome. **Named evidence/example:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cultivator-inclusion boundary. **Named evidence/example:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Agricultural platform power. **Named evidence/example:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option D:** Outcome, cost and distribution test welfare.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Design inclusive and accountable digital agriculture for India. Answer in about 300 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
+**Unique trap:** Activity metrics are not impact metrics.
 
-**Introduction and thesis:** **Claim:** DPI, platform and physical market. **Named evidence/example:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack federal architecture. **Named evidence/example:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack building blocks. **Named evidence/example:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Digital risk assessment. **Named evidence/example:** Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Adoption and outcome. **Named evidence/example:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cultivator-inclusion boundary. **Named evidence/example:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Agricultural platform power. **Named evidence/example:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+### MCQ 29
 
-**Analytical body:**
+**Question:** Why can precision irrigation fail to reduce total groundwater extraction?
 
-1. **Claim and named evidence:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-7. **Claim and named evidence:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+A. Lower unit cost may induce area or crop expansion
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+B. Sensors legally require more pumping
 
-**Qualified conclusion:** **Claim:** DPI, platform and physical market. **Named evidence/example:** Agricultural DPI supplies interoperable shared rails and a platform coordinates participants, but neither replaces physical assaying, storage, logistics, finance, settlement, extension or enforcement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack federal architecture. **Named evidence/example:** AgriStack is designed as federated Centre-state digital infrastructure rather than one undifferentiated central database, so standards, state operation, data quality and correction must be analysed together. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AgriStack building blocks. **Named evidence/example:** Farmer Registry, geo-referenced village maps and crop-sown information or Digital Crop Survey are distinct building blocks; an identity record, parcel map and seasonal crop observation are not substitutes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Digital risk assessment. **Named evidence/example:** Remote sensing and digital records can support credit, insurance and loss assessment, but model error, basis risk, stale records and parcel mismatch require disclosure, field checks and an appeal route. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Adoption and outcome. **Named evidence/example:** Registrations, app downloads, IDs, connected mandis or distributed devices measure activity or availability; adoption, correct use, net income, resilience and resource outcomes require separate evidence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Cultivator-inclusion boundary. **Named evidence/example:** Land ownership is not a perfect proxy for cultivation, so tenants, sharecroppers and women cultivators may be excluded unless alternative evidence, assisted access and correction are built into the system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Agricultural platform power. **Named evidence/example:** Digital platforms can reduce search costs and old intermediation while data, ranking, tying and switching costs create new gatekeeping; interoperability and portability are economic safeguards. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+C. GIS creates water
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+D. Every farmer abandons irrigation
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
 
-**How to improve this answer:** For “Design inclusive and accountable digital agriculture for India. Answer in about 300 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Correct answer:** A
+
+- **Option A:** This is the rebound mechanism.
+
+- **Option B:** No such general legal requirement exists.
+
+- **Option C:** Spatial analysis does not create resources.
+
+- **Option D:** Behaviour varies.
+
+
+**Unique trap:** Per-hectare efficiency is not basin-level conservation.
+
+### MCQ 30
+
+**Question:** Why is state capacity central to AgriStack?
+
+A. The Union alone maintains all land records
+
+B. States maintain key registries and field surveys within common standards
+
+C. e-NAM updates every cadastral map
+
+D. Private apps confer title
+
+
+**Correct answer:** B
+
+- **Option A:** Land and implementation roles are federal and state-linked.
+
+- **Option B:** This reflects the official federated architecture.
+
+- **Option C:** e-NAM is a market platform.
+
+- **Option D:** Private applications cannot create legal title.
+
+
+**Unique trap:** National launch is not uniform state implementation.
+
+### MCQ 31
+
+**Question:** Agricultural drone use requires:
+
+A. Only a smartphone
+
+B. Only an e-NAM account
+
+C. Aviation compliance plus trained operation and task/input-specific safety rules
+
+D. Only Farmer ID
+
+
+**Correct answer:** C
+
+- **Option A:** A phone is insufficient.
+
+- **Option B:** Market registration is unrelated.
+
+- **Option C:** The regulatory perimeters are cumulative.
+
+- **Option D:** Identity does not authorise flight or spraying.
+
+
+**Unique trap:** One certification does not replace another perimeter.
+
+### MCQ 32
+
+**Question:** The best final test of digital agriculture is whether it:
+
+A. Maximises databases
+
+B. Eliminates human extension
+
+C. Centralises every service
+
+D. Expands farmer capability, income and resilience with control and remedy
+
+
+**Correct answer:** D
+
+- **Option A:** Database growth is an input.
+
+- **Option B:** Human interpretation remains important.
+
+- **Option C:** Federation and competition may be preferable.
+
+- **Option D:** This balances outcomes and agency.
+
+
+**Unique trap:** Digitisation is a means, not the objective.
+
+## PYQS AND OFFICIAL-KEY DISCIPLINE
+
+### VERIFIED MAINS PYQ - 2023 GS-III - 10 MARKS
+
+**Question:** How does e-Technology help farmers in production and marketing of agricultural produce? Explain it. Answer in 150 words.
+
+**Model solution:** e-Technology converts farm, weather and market data into decisions and services. In production, remote sensing and GIS support acreage, crop-health and drought assessment; IMD-linked advisories improve sowing and harvest timing; sensors, precision irrigation and drones can target water or crop protection; and digital credit, insurance and crop surveys reduce verification cost. In marketing, price information, e-NAM bidding, digital assaying, FPO aggregation, warehouse records, logistics matching and electronic settlement can widen discovery and reduce transaction cost. These benefits require physical complements: connectivity, local-language extension, suitable inputs, assaying, storage, transport, working capital and dispute resolution. Land-linked records may exclude tenants or women cultivators, while model error and platform power require correction, appeal, interoperability and competition. Therefore, e-Technology aids farmers when reliable data becomes an affordable action and improves net income or risk, not merely when an app is launched.
+
+### VERIFIED PRELIMS PYQ - 2020 GS-I Q42 - KEY NEUTRAL
+
+**Question:** Consider the following activities: (1) Spraying pesticides on a crop field; (2) Inspecting the craters of active volcanoes; (3) Collecting breath samples from spouting whales for DNA analysis. At the present level of technology, which of the above activities can be successfully carried out by using drones?
+
+**Answer withheld pending official UPSC key.**
+
+**Concept solution:** All three are technically plausible drone applications with appropriate payloads and operating conditions. The package does not infer an official option letter because the matched final official key is not held in the verified local set.
+
+### ROUTED 2024 OBJECTIVE DEMAND
+
+The 2024 GS-I paper tested the World Economic Forum's **100 Million Farmers** platform. The routed concept is a multistakeholder platform concerned with transition towards net-zero, nature-positive food and water systems and farmer resilience. It is not an Indian government AgriStack or e-NAM programme. Exact options and an official answer letter are not reproduced here without the matched paper-key mapping.
+
+
+## ORIGINAL MAINS PRACTICE
+
+### MAINS 1 - 10 MARKS
+
+**Question:** Explain the data-to-decision-to-action chain through which digital agriculture can improve farmer welfare. Answer in 150 words.
+
+**Native-body ceiling:** 150 words under the required alphanumeric regex.
+
+**Model answer:**
+
+Digital agriculture begins with reliable data on farmer, parcel, crop, soil, weather, prices and risk. Satellites, surveys, sensors or administrative records capture signals; validation and interoperable systems convert them into usable information. Decision tools and human extension then translate information into local advice. Welfare rises only if the farmer can act through affordable inputs, credit, machinery, insurance, logistics and a competitive market. Outcomes must be measured through net income, loss reduction, resource use, resilience and farmer control, not messages or registrations. Remote sensing still needs ground truth; AI requires local validation; and a registry error needs assisted correction and appeal. Feedback from realised yield, loss and price must improve the next recommendation. Thus, the decisive link is not data abundance but an accurate, affordable and contestable action supported by physical institutions.
+
+### MAINS 2 - 10 MARKS
+
+**Question:** Why must AgriStack be governed as a federated and contestable public infrastructure? Answer in 150 words.
+
+**Native-body ceiling:** 150 words under the required alphanumeric regex.
+
+**Model answer:**
+
+AgriStack links state-maintained Farmer Registry, geo-referenced village maps and crop-sown information through common standards. Federation fits India's allocation of land and agricultural administration and avoids describing the system as one central database. Common rails can reduce repeated verification and support credit, insurance, procurement or advisory. Yet federation alone does not ensure legitimacy. Land records may omit tenants, sharecroppers and women cultivators; seasonal crop entries may be wrong; and linked services can spread error quickly. Governance therefore requires clear purpose, minimum data, controlled access, security logs, portability, local-language assistance, time-bound correction and human appeal before denial. Independent audits should publish error, correction and exclusion patterns across states. Farmer ID must remain a service identifier, not title or guaranteed entitlement. AgriStack succeeds when reusable verification expands farmer capability without making an inaccurate record an automated gatekeeper.
+
+### MAINS 3 - 15 MARKS
+
+**Question:** Assess the potential and limitations of precision agriculture for Indian smallholders. Answer in 250 words.
+
+**Native-body ceiling:** 250 words under the required alphanumeric regex.
+
+**Model answer:**
+
+Precision agriculture varies water, seed, nutrients or crop protection by measured spatial or temporal need. Soil-moisture sensors, GPS-guided equipment, remote imagery, drones and decision tools can improve timing, reduce avoidable input use, identify stress early and raise quality. The gains can lower cost and risk, especially when combined with weather advice and extension. Indian smallholders, however, face fragmented plots, seasonal demand, weak connectivity, limited capital, uncertain repair and sparse local validation. Individual ownership of drones or specialised machinery may produce low utilisation and debt; FPO, cooperative, SHG or custom-hiring services can spread fixed cost and provide trained operators. Precision also creates ecological and governance risks. Miscalibration can damage crops, opaque models can misdiagnose local conditions, and lower water cost per hectare may induce crop or area expansion, offsetting aquifer savings. Procurement should measure uptime, calibrated service, per-acre cost and farmer retention rather than assets purchased. Policy should support shared services, open standards, local agronomy, transparent pricing, maintenance networks, farmer feedback and resource governance. Success is net income, resilience and total resource outcome, not equipment distributed.
+
+### MAINS 4 - 15 MARKS
+
+**Question:** Examine how digital technology can improve agricultural credit and crop insurance without creating new exclusion. Answer in 250 words.
+
+**Native-body ceiling:** 250 words under the required alphanumeric regex.
+
+**Model answer:**
+
+Digital registries, crop surveys, bank records, weather stations and remote sensing can lower verification cost in agricultural finance. For KCC, reusable borrower and crop information may shorten processing and align limits with seasonal cash flow, while the bank retains underwriting responsibility. Under PMFBY, digital enrolment, CCE recording, YES-TECH and WINDS can improve auditability, yield evidence and claim settlement. These gains are conditional. Farmer ID is not title or loan entitlement. Alternative-data scores may penalise tenants, minor crops or regions absent from training data, and platform-linked credit can encourage over-indebtedness. Insurance models retain basis risk because area yield, weather index or remote estimate may differ from parcel loss. Regulators should monitor rejection, pricing, delinquency, claim reversal and grievance patterns across farm groups. A farmer-centric system needs explicit consent or other lawful basis, purpose limitation, affordability assessment, reasons for adverse decisions, ground verification and human appeal. Offline and assisted routes must cover connectivity and literacy gaps. Technology should supplement prudent banking and transparent insurance, not replace judgment with an unchallengeable score.
+
+### MAINS 5 - 20 MARKS
+
+**Question:** Critically analyse the role of digital platforms and agritech business models in agricultural markets. Answer in 250 words.
+
+**Native-body ceiling:** 250 words under the required alphanumeric regex.
+
+**Model answer:**
+
+Digital platforms can reduce search and coordination costs by matching farmers, FPOs, input suppliers, machinery providers, warehouses, transporters, lenders and buyers. e-NAM illustrates the digital-plus-physical model: online discovery and bidding require trusted assaying, aggregation, logistics, settlement and dispute resolution. Agritech firms may use subscriptions, transaction commissions, service fees, input margins or enterprise contracts. Network effects can deepen matching and data-driven services, while shared-service models spread drone or machinery fixed costs across small farms. Yet scale can create new gatekeepers. Opaque ranking, tied credit and inputs, exclusive data access, switching costs and weak bargaining may transfer rents from farmers to platforms. App downloads, registered users or cumulative trade cannot establish price realisation or viable unit economics. Evaluation should compare realised prices, fees, repeat use, service cost, complaints and farmer switching. Policy should preserve open standards, portability, multi-homing, transparent commissions and ranking, competition enforcement and accountable grievance. FPOs can aggregate demand and supply but need working capital and internal governance. The objective is contestable coordination that improves farmer net returns, not digital intermediation as an end in itself.
+
+### MAINS 6 - 20 MARKS
+
+**Question:** Design an inclusive and accountable digital-agriculture strategy for India. Answer in 250 words.
+
+**Native-body ceiling:** 250 words under the required alphanumeric regex.
+
+**Model answer:**
+
+India should adopt a problem-first architecture. Public rails such as AgriStack can provide federated, interoperable identity, map and crop records, while Krishi-DSS supports geospatial planning. Applications should then solve named production, risk, logistics or market failures. Inclusion requires separating recorded owner from actual cultivator, recognising state tenancy arrangements, and offering assisted, offline, voice and local-language channels through field staff, CSCs, FPOs and SHGs. Data governance should specify purpose, minimum collection, access controls, retention, security, correction and audit under the phased DPDP framework and sector rules. Consequential AI, credit and insurance decisions need local validation, confidence disclosure, human review and appeal. Public procurement should avoid vendor lock-in through open standards, portability and exit rights. Shared services should replace indiscriminate gadget distribution where fixed costs are high. States need staff, cadastral quality, seasonal survey capacity and published correction timelines. Evaluation must move from outlay, IDs, surveys and downloads to active adoption, accuracy, net income, risk reduction, resource effects, complaints, reversals and distribution by gender, tenancy, farm size and region. Digital agriculture should expand farmer capability and resilience without automating existing inequalities.
+
+## FINAL PRACTICE CHECKLIST
+
+- Did the answer distinguish the technology, data layer, authority and programme stage?
+- Did it trace a farmer decision through an implementable action?
+- Did it name the weakest physical or institutional complement?
+- Did it include exclusion, model, cyber or platform risk and a usable remedy?
+- Did it evaluate net income, risk, resources and farmer control rather than app counts?

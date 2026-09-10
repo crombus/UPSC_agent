@@ -1,3179 +1,2799 @@
 ---
-title: "Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture — Learner-v2 Refreshed"
-topic_key: economy-14
-cover_image: assets/economy-14_Teaching-Navigation_2026-09-03.png
+title: "Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture — Complete Learning Session"
+topic_key: economy-topic-14
 ---
-# Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture — Learner-v2 Complete Learning Session
+# Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture — Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.
+### SOURCE, STATUS AND DATE CONTROL
 
-### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
+- **Current-source cutoff:** 9 September 2026.
+- **Source order:** canonical Economy/Agriculture/Environment Basic/Core and Optional Advanced Markdown; OCR-derived Ramesh Singh and *Economic Survey 2025-26* notes; official Agriculture, Jal Shakti, Land Resources and Fertilizers ministries, RBI, NABARD, PMKSY, PMFBY, Soil Health, ICAR and PIB material.
+- **Scheme rule:** launch, approval period, component location, budget announcement, operating guideline, enrolment, claim and outcome remain separate.
+- **Threshold rule:** every premium, credit limit, priority-sector target and subsidy architecture carries its date, denominator and qualification.
+- **Boundary:** cropping-pattern detail belongs to Topic 11; market architecture to Topic 13; digital-agriculture governance to Topic 27.
 
-- **Generation date:** 2026-09-03.
-- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
-- **OCR evidence:** Repository Markdown was primary. OCR-searchable local official General Studies papers were used only to confirm printed routed demands. No answer key, marking scheme, unsupported page precision or current macroeconomic statistic was inferred from them.
-- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
-- **PYQ integrity:** Audited ledgers route Mains demands on organic transition, integrated farming, watershed development, Jal Shakti Abhiyan, water storage, micro-irrigation, irrigation-system challenges and groundwater depletion. Objective demands cover conservation agriculture, DCCBs, KCC, biochar, zero tillage, fertigation, crop-protection chemicals and the provisionally keyed 2026 Rainfed Area Development question; no answer letter is inferred.
-- **Live-link boundary:** The PMKSY objectives were substantively retrievable and support the convergence and efficiency anchors. The PMFBY portal was a title-only shell, so insurance amounts, enrolment and claim-performance figures are excluded.
-- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
+### OFFICIAL LINKS CHECKED
 
-### LIVE OFFICIAL-SOURCE ATTEMPT LOG
+- PMKSY official objectives: `https://www.pmksy.gov.in/AboutPMKSY.aspx`
+- PIB PMKSY 2026 backgrounder: `https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jun/doc2026630906701.pdf`
+- Agriculture Ministry Seeds Act/Rules and draft Seeds Bill, 2025: `https://agriwelfare.gov.in/en/SeedsDiv`
+- Department of Fertilizers subsidy architecture: `https://fert.gov.in/en/department/our-wings/fertilizer-subsidy`
+- Soil Health Card resources: `https://soilhealth.dac.gov.in/GeneralResources`
+- RBI PSL Directions, 2025, updated 7 August 2026: `https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12799`
+- PIB/RBI MISS FY2025-26: `https://pib.gov.in/PressReleasePage.aspx?PRID=2131989`
+- PMFBY official portal and PIB August 2026 backgrounder: `https://pmfby.gov.in/`
+- ICAR crop, soil and IPM research: `https://icar.gov.in/`
 
-The checks below were made on 2026-09-03. Substantive official text is used only for the proposition it actually supports; binary files, dynamic shells, stubs and undated dashboard snippets are recorded but not converted into current claims.
+### ORIGIN AND TIMELINE
 
-- https://www.pmksy.gov.in/AboutPMKSY.aspx — retrieved 2026-09-03; the official page substantively described convergence, assured irrigation, on-farm efficiency, aquifer recharge, precision irrigation and decentralised state planning. No dashboard quantity was imported.
-- https://pmfby.gov.in/ — retrieved 2026-09-03; the official homepage returned only the PMFBY title in the live fetcher, so no premium rate, enrolment, insured area, claim or state-participation figure was imported.
+| Date | Development | Current-status qualification |
+|---|---|---|
+| 1966 / 1968 | Seeds Act / Seeds Rules | Core seed-quality law remains in force at cutoff |
+| 1968 / 1971 | Insecticides Act / Rules | Core pesticide-control framework |
+| 1982 | NABARD established | Apex rural development finance institution |
+| 1998 | Kisan Credit Card introduced | Credit product; interest support follows separate scheme |
+| 2015 | PMKSY and Soil Health Card launched | Component locations have since changed |
+| 2016 | PMFBY launched | Farmer enrolment voluntary since Kharif 2020 |
+| 2021-26 | Approved PMKSY continuation window | Official 2026 material continues umbrella context |
+| 2022-23 | PDMC and Soil Health/Fertility placed under RKVY | Current administrative location |
+| 25 November 2024 | National Mission on Natural Farming approved | Approved through 2025-26; later status needs fresh authority |
+| March 2025 / 7 August 2026 | RBI PSL Directions issued / updated | Agriculture 18%; NCF 14%; SMF 10% for applicable banks |
+| November-December 2025 | Draft Seeds Bill, 2025 consultation | Draft, not enacted by cutoff |
+| August 2026 | PMFBY official update | 2% / 1.5% / 5% farmer premium structure retained |
+
+### CURRENT OFFICIAL DASHBOARD
+
+| Item | Dated status | Qualification |
+|---|---|---|
+| PMKSY | 2021-26 approved umbrella; official June 2026 backgrounder continues programme context | PDMC is under RKVY from 2022-23 |
+| Seeds | Seeds Act 1966/Rules 1968 remain; 2025 Bill was a consultation draft | Draft != enacted Act |
+| Fertiliser | Urea controlled; eligible P&K under NBS; DBT pays companies after PoS sale | Seasonal NBS rates are not frozen here |
+| PSL | RBI 2025 Directions updated **7 August 2026** | 18% agriculture; nested 14% NCF and 10% SMF for applicable banks |
+| KCC/MISS | Budget 2025-26 announced Rs 5 lakh overall KCC limit; FY2025-26 MISS retained concessional slab up to Rs 3 lakh | 4% effective rate requires prompt repayment |
+| PMFBY | August 2026 official terms retain farmer shares **2% Kharif / 1.5% Rabi food-oilseed / 5% annual commercial-horticultural** | Voluntary for farmers since Kharif 2020; specified risks only |
 
 ## BASIC LEARNING SESSION
 
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Economy Basic/Core is answer-complete before optional Advanced depth. |
-| Formula boundary | Formula, numerator, denominator, unit, stock/flow, nominal/real, base year, level/rate and accounting identity are explicit. |
-| Institutional boundary | Constitution, statute, delegated rule, regulator mandate, policy, recommendation, scheme and implementation outcome remain distinct. |
-| Transmission method | Shock or instrument → prices/quantities/balance sheets/incentives → institution and market response → output, employment, distribution, stability and external effect → lag and trade-off. |
-| Current-data method | Source → release date → reference period → unit/denominator → provisional/revised/final status; incompatible Budget, Survey or statistical vintages are never mixed. |
-| Programme-status method | Announced → approved → notified/guidelines issued → funded → operational → utilised → output → outcome are separate stages. |
-| External/WTO method | Agreement text, member category, box, limit, notification, consultation, dispute and ruling are qualified without invented thresholds. |
-| Causal method | Accounting identity, chronology and correlation are not promoted into behavioural or causal claims without mechanism, counterfactual and alternatives. |
-| Answer balance | Model answers balance growth, distribution, stability, sustainability and federal dimensions with India-centric evidence. |
-| Practice contract | Every solved item has demand decoding, a detailed examiner-grade model, executable timed/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Economy\basic\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`  
-**Substantive canonical provenance owner:** `upsc-ai-kit\knowledge\Economy\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture_Learner-V2-Complete-Topic-Package.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Economy\advanced\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Economy\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- Every data-heavy table states unit, denominator, geography, reference period and source/status.
-- GDP/GVA, gross/net, domestic/national, nominal/real and level/rate distinctions remain exact.
-- Monetary, fiscal and external chains state intermediaries, balance-sheet channels, lags, leakages and trade-offs.
-- Budget and Economic Survey editions are never mixed; BE, RE, Actual, advance/provisional/revised/final estimates remain labelled.
-- Scheme and programme claims distinguish announcement, approval, notification, operation, coverage, utilisation and measured outcome.
-- WTO boxes, limits, de minimis, special treatment, notifications and disputes are qualified from authoritative rules.
-- PYQ wording is preserved only where verified; reconstructed or routed demands remain labelled.
-- **Current-status note, rechecked 2026-09-06:** volatile rates, estimates, scheme status, trade rules and institutional claims retain official source, release date, reference period and revision status.
-
-**Generation-local live/current sources:**
-- `https://www.pmksy.gov.in/AboutPMKSY.aspx — retrieved 2026-09-03; the official page substantively described convergence, assured irrigation, on-farm efficiency, aquifer recharge, precision irrigation and decentralised state planning. No dashboard quantity was imported.`
-- `https://pmfby.gov.in/ — retrieved 2026-09-03; the official homepage returned only the PMFBY title in the live fetcher, so no premium rate, enrolment, insured area, claim or state-participation figure was imported.`
-
-![Refreshed teaching navigation](assets/economy-14_Teaching-Navigation_2026-09-03.png)
-
-*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
-
-### SESSION 1 — FOUNDATION — Irrigation potential and utilisation
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Irrigation potential and utilisation explains how Potential and utilisation and PMKSY convergence fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Irrigation potential and utilisation separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Irrigation potential and utilisation must be read through Potential and utilisation and PMKSY convergence, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Irrigation**
-- **potential**
-- **utilisation**
-- **PMKSY**
-- **convergence**
-- **Created**
-
-**How to use them:** Define Irrigation, potential, utilisation; attach PMKSY to its named source, period and status; then qualify the answer with this limit: Do not equate irrigation potential with utilisation, reliability or water productivity.
+### CORE SESSION 1 — Water-input-credit-insurance nexus
 
 #### VISUAL FIRST
 
 ```text
-IRRIGATION POTENTIAL AND UTILISATION
-01. Potential and utilisation
-    |
-    v
-02. PMKSY convergence
-BOUNDARY -> Do not equate irrigation potential with utilisation, reliability or water productivity.
+SOIL + WATER + SEED + NUTRIENTS + KNOWLEDGE
+ -> CREDIT-FINANCED CULTIVATION -> RISK -> INSURANCE / ADAPTATION
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
+Farm productivity is produced by a linked system of natural resources, inputs, finance, knowledge and risk management.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Isolated subsidies can relax one farm constraint while worsening another resource or fiscal constraint.
 
-- Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-- The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
+**MUST-WRITE KEYWORDS:** water-input-credit-insurance, nexus, isolated, subsidies, relax, farm, constraint, while, worsening, another, resource.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not equate irrigation potential with utilisation, reliability or water productivity.
+- **Claim:** Isolated subsidies can relax one farm constraint while worsening another resource or fiscal constraint.
+- **Named evidence:** The canonical Economy and Agriculture owners organise this topic through the water-energy-input-credit-insurance nexus.
+- **Analysis:** Reliable water raises the return to seed and fertiliser, while timely credit determines whether those inputs can be purchased.
+- **Qualification / demand link:** Market access and cropping pattern remain separate but interacting topics.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate infrastructure capacity, delivered water, farm use and basin outcomes.
+- **Fact/evidence:** The canonical Economy and Agriculture owners organise this topic through the water-energy-input-credit-insurance nexus.
+- **Analytical inference:** Reliable water raises the return to seed and fertiliser, while timely credit determines whether those inputs can be purchased.
+- **Qualification:** Market access and cropping pattern remain separate but interacting topics.
+
+#### PRELIMS TRAP
+
+Do not attribute productivity to one input without the complementary-input chain.
+
+#### MAINS USE
+
+Use the nexus to frame productivity, equity and sustainability together.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Potential and utilisation -> PMKSY convergence
-- **Qualified use:** Separate infrastructure capacity, delivered water, farm use and basin outcomes.
+- Definition: Farm productivity is produced by a linked system of natural resources, inputs, finance, knowledge and risk management.
+- Evidence anchor: The canonical Economy and Agriculture owners organise this topic through the water-energy-input-credit-insurance nexus.
+- Limitation: Market access and cropping pattern remain separate but interacting topics.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Irrigation potential and utilisation
-EXACT TERMS: Irrigation | potential | utilisation | PMKSY | convergence | Created
-MECHANISM / ARGUMENT: connect Potential and utilisation and PMKSY convergence through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate infrastructure capacity, delivered water, farm use and basin outcomes.
-UPSC TRAP / ANSWER-USE: Do not equate irrigation potential with utilisation, reliability or water productivity.
-ANSWER-GRABBING FORMULATION: Irrigation potential and utilisation converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 2 — FOUNDATION — PMKSY convergence
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** PMKSY convergence explains how Access and efficiency fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, PMKSY convergence separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> PMKSY convergence must be read through Access and efficiency, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **PMKSY**
-- **convergence**
-- **Access**
-- **efficiency**
-- **Khet**
-- **Pani**
-
-**How to use them:** Define PMKSY, convergence, Access; attach efficiency to its named source, period and status; then qualify the answer with this limit: Do not merge irrigation access with application efficiency.
+### CORE SESSION 2 — Irrigation potential and utilisation
 
 #### VISUAL FIRST
 
 ```text
-PMKSY CONVERGENCE
-01. Access and efficiency
-BOUNDARY -> Do not merge irrigation access with application efficiency.
+ULTIMATE POTENTIAL -> POTENTIAL CREATED -> POTENTIAL UTILISED
+ -> RELIABLE FIELD DELIVERY -> CROP OUTPUT
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
+Irrigation potential measures designed capacity, while utilisation measures the area actually served under the relevant system.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Created capacity is not evidence of reliable, equitable or productive field delivery.
 
-- Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
+**MUST-WRITE KEYWORDS:** irrigation, potential, utilisation, created, capacity, evidence, reliable, equitable, productive, field, delivery.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not merge irrigation access with application efficiency.
+- **Claim:** Created capacity is not evidence of reliable, equitable or productive field delivery.
+- **Named evidence:** PMKSY and command-area programmes distinguish project creation from completion and utilisation.
+- **Analysis:** Maintenance, field channels, scheduling and tail-end access determine whether created potential becomes farm water.
+- **Qualification / demand link:** Area served still does not measure water-use efficiency.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
+- **Fact/evidence:** PMKSY and command-area programmes distinguish project creation from completion and utilisation.
+- **Analytical inference:** Maintenance, field channels, scheduling and tail-end access determine whether created potential becomes farm water.
+- **Qualification:** Area served still does not measure water-use efficiency.
+
+#### PRELIMS TRAP
+
+Do not merge potential created, potential utilised and irrigated area.
+
+#### MAINS USE
+
+Separate infrastructure stock from service flow and outcome.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Access and efficiency
-- **Qualified use:** Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
+- Definition: Irrigation potential measures designed capacity, while utilisation measures the area actually served under the relevant system.
+- Evidence anchor: PMKSY and command-area programmes distinguish project creation from completion and utilisation.
+- Limitation: Area served still does not measure water-use efficiency.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: PMKSY convergence
-EXACT TERMS: PMKSY | convergence | Access | efficiency | Khet | Pani
-MECHANISM / ARGUMENT: connect Access and efficiency through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
-UPSC TRAP / ANSWER-USE: Do not merge irrigation access with application efficiency.
-ANSWER-GRABBING FORMULATION: PMKSY convergence converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 3 — FOUNDATION — Access versus efficiency
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Access versus efficiency explains how Micro-irrigation rebound fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Access versus efficiency separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Access versus efficiency must be read through Micro-irrigation rebound, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Access**
-- **versus**
-- **efficiency**
-- **Micro-irrigation**
-- **rebound**
-- **Drip**
-
-**How to use them:** Define Access, versus, efficiency; attach Micro-irrigation to its named source, period and status; then qualify the answer with this limit: Do not assume micro-irrigation automatically reduces basin-level extraction.
+### CORE SESSION 3 — Net, gross irrigated area and intensity
 
 #### VISUAL FIRST
 
 ```text
-ACCESS VERSUS EFFICIENCY
-01. Micro-irrigation rebound
-BOUNDARY -> Do not assume micro-irrigation automatically reduces basin-level extraction.
+NET IRRIGATED AREA = LAND IRRIGATED AT LEAST ONCE
+GROSS IRRIGATED AREA = ALL IRRIGATED CROP INSTANCES
+IRRIGATION INTENSITY = GROSS / NET x 100
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
+Net irrigated area counts land; gross irrigated area counts repeated irrigated crop use over the year.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Irrigation intensity captures multiple irrigated cropping, not efficiency per unit of water.
 
-- Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
+**MUST-WRITE KEYWORDS:** gross, irrigated, area, intensity, irrigation, captures, multiple, cropping, efficiency, unit, water.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not assume micro-irrigation automatically reduces basin-level extraction.
+- **Claim:** Irrigation intensity captures multiple irrigated cropping, not efficiency per unit of water.
+- **Named evidence:** Official agricultural statistics distinguish net and gross areas before calculating intensity.
+- **Analysis:** Multiple seasons can raise gross area without expanding the physical land base.
+- **Qualification / demand link:** A high ratio can coexist with groundwater stress or low application efficiency.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
+- **Fact/evidence:** Official agricultural statistics distinguish net and gross areas before calculating intensity.
+- **Analytical inference:** Multiple seasons can raise gross area without expanding the physical land base.
+- **Qualification:** A high ratio can coexist with groundwater stress or low application efficiency.
+
+#### PRELIMS TRAP
+
+Do not use irrigation intensity as a water-productivity measure.
+
+#### MAINS USE
+
+State numerator, denominator and unit in Prelims and Mains.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Micro-irrigation rebound
-- **Qualified use:** Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
+- Definition: Net irrigated area counts land; gross irrigated area counts repeated irrigated crop use over the year.
+- Evidence anchor: Official agricultural statistics distinguish net and gross areas before calculating intensity.
+- Limitation: A high ratio can coexist with groundwater stress or low application efficiency.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Access versus efficiency
-EXACT TERMS: Access | versus | efficiency | Micro-irrigation | rebound | Drip
-MECHANISM / ARGUMENT: connect Micro-irrigation rebound through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
-UPSC TRAP / ANSWER-USE: Do not assume micro-irrigation automatically reduces basin-level extraction.
-ANSWER-GRABBING FORMULATION: Access versus efficiency converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 4 — CORE — Micro-irrigation rebound
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Micro-irrigation rebound explains how Groundwater common pool fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Micro-irrigation rebound separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Micro-irrigation rebound must be read through Groundwater common pool, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Micro-irrigation**
-- **rebound**
-- **Groundwater**
-- **common**
-- **pool**
-- **individual**
-
-**How to use them:** Define Micro-irrigation, rebound, Groundwater; attach common to its named source, period and status; then qualify the answer with this limit: Do not treat free power as only a transfer without crop and groundwater effects.
+### CORE SESSION 4 — Canal irrigation
 
 #### VISUAL FIRST
 
 ```text
-MICRO-IRRIGATION REBOUND
-01. Groundwater common pool
-BOUNDARY -> Do not treat free power as only a transfer without crop and groundwater effects.
+RESERVOIR / BARRAGE -> MAIN CANAL -> DISTRIBUTARY
+ -> MINOR / FIELD CHANNEL -> HEAD / MIDDLE / TAIL FARM
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
+Canal irrigation conveys surface water through a network to a command area.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Canals spread fixed infrastructure benefits but create distribution, maintenance and ecological externalities.
 
-- An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
+**MUST-WRITE KEYWORDS:** canal, irrigation, canals, spread, fixed, infrastructure, benefits, create, distribution, maintenance, ecological.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not treat free power as only a transfer without crop and groundwater effects.
+- **Claim:** Canals spread fixed infrastructure benefits but create distribution, maintenance and ecological externalities.
+- **Named evidence:** AIBP and command-area programmes are the principal Union support anchors for major and medium systems.
+- **Analysis:** Gravity delivery can serve many farms and reduce individual pumping dependence.
+- **Qualification / demand link:** Seepage, siltation, waterlogging, salinity and head-tail inequity vary by system.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate infrastructure capacity, delivered water, farm use and basin outcomes.
+- **Fact/evidence:** AIBP and command-area programmes are the principal Union support anchors for major and medium systems.
+- **Analytical inference:** Gravity delivery can serve many farms and reduce individual pumping dependence.
+- **Qualification:** Seepage, siltation, waterlogging, salinity and head-tail inequity vary by system.
+
+#### PRELIMS TRAP
+
+Do not treat seepage as only loss; it may also recharge aquifers.
+
+#### MAINS USE
+
+Use conveyance, distribution and drainage as separate reform layers.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Groundwater common pool
-- **Qualified use:** Separate infrastructure capacity, delivered water, farm use and basin outcomes.
+- Definition: Canal irrigation conveys surface water through a network to a command area.
+- Evidence anchor: AIBP and command-area programmes are the principal Union support anchors for major and medium systems.
+- Limitation: Seepage, siltation, waterlogging, salinity and head-tail inequity vary by system.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Micro-irrigation rebound
-EXACT TERMS: Micro-irrigation | rebound | Groundwater | common | pool | individual
-MECHANISM / ARGUMENT: connect Groundwater common pool through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate infrastructure capacity, delivered water, farm use and basin outcomes.
-UPSC TRAP / ANSWER-USE: Do not treat free power as only a transfer without crop and groundwater effects.
-ANSWER-GRABBING FORMULATION: Micro-irrigation rebound converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 5 — CORE — Groundwater common-pool problem
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Groundwater common-pool problem explains how Water-energy-crop nexus fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Groundwater common-pool problem separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Groundwater common-pool problem must be read through Water-energy-crop nexus, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Groundwater**
-- **common-pool**
-- **problem**
-- **Water-energy-crop**
-- **nexus**
-- **Cheap**
-
-**How to use them:** Define Groundwater, common-pool, problem; attach Water-energy-crop to its named source, period and status; then qualify the answer with this limit: Do not reduce watershed development to a pond or check dam.
+### CORE SESSION 5 — Groundwater irrigation
 
 #### VISUAL FIRST
 
 ```text
-GROUNDWATER COMMON-POOL PROBLEM
-01. Water-energy-crop nexus
-BOUNDARY -> Do not reduce watershed development to a pond or check dam.
+RECHARGE -> AQUIFER STOCK -> WELL / TUBEWELL PUMPING
+ -> PRIVATE FLEXIBILITY -> CUMULATIVE DEPLETION RISK
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
+Groundwater irrigation draws stored subsurface water through wells and tubewells.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Private control over pumping creates flexibility, but the aquifer is a shared common-pool resource.
 
-- Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
+**MUST-WRITE KEYWORDS:** groundwater, irrigation, private, control, over, pumping, creates, flexibility, aquifer, shared, common-pool.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not reduce watershed development to a pond or check dam.
+- **Claim:** Private control over pumping creates flexibility, but the aquifer is a shared common-pool resource.
+- **Named evidence:** Central Ground Water Board assessments and Atal Bhujal Yojana anchor aquifer-status and community-management analysis.
+- **Analysis:** On-demand pumping supports crop timing and reduces canal-schedule dependence.
+- **Qualification / demand link:** Cheap power, water-intensive crops and weak measurement can exceed recharge.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
+- **Fact/evidence:** Central Ground Water Board assessments and Atal Bhujal Yojana anchor aquifer-status and community-management analysis.
+- **Analytical inference:** On-demand pumping supports crop timing and reduces canal-schedule dependence.
+- **Qualification:** Cheap power, water-intensive crops and weak measurement can exceed recharge.
+
+#### PRELIMS TRAP
+
+Do not infer sustainable supply from the existence of a functioning borewell.
+
+#### MAINS USE
+
+Link individual incentives to aquifer-level water budgets.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Water-energy-crop nexus
-- **Qualified use:** Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
+- Definition: Groundwater irrigation draws stored subsurface water through wells and tubewells.
+- Evidence anchor: Central Ground Water Board assessments and Atal Bhujal Yojana anchor aquifer-status and community-management analysis.
+- Limitation: Cheap power, water-intensive crops and weak measurement can exceed recharge.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Groundwater common-pool problem
-EXACT TERMS: Groundwater | common-pool | problem | Water-energy-crop | nexus | Cheap
-MECHANISM / ARGUMENT: connect Water-energy-crop nexus through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
-UPSC TRAP / ANSWER-USE: Do not reduce watershed development to a pond or check dam.
-ANSWER-GRABBING FORMULATION: Groundwater common-pool problem converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 6 — CORE — Water-energy-crop nexus
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Water-energy-crop nexus explains how Watershed method and Jal Shakti campaign fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Water-energy-crop nexus separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Water-energy-crop nexus must be read through Watershed method and Jal Shakti campaign, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Water-energy-crop**
-- **nexus**
-- **Watershed**
-- **method**
-- **Shakti**
-- **campaign**
-
-**How to use them:** Define Water-energy-crop, nexus, Watershed; attach method to its named source, period and status; then qualify the answer with this limit: Do not equate KCC liquidity with crop-insurance compensation.
+### CORE SESSION 6 — Tank and lift irrigation
 
 #### VISUAL FIRST
 
 ```text
-WATER-ENERGY-CROP NEXUS
-01. Watershed method
-    |
-    v
-02. Jal Shakti campaign
-BOUNDARY -> Do not equate KCC liquidity with crop-insurance compensation.
+LOCAL STORAGE / RIVER -> TANK OR PUMPED LIFT
+ -> DISTRIBUTION -> FARM
+ENERGY + MAINTENANCE CONDITION RELIABILITY
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
+Tank irrigation stores local runoff, while lift irrigation uses energy to raise water from a lower source.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Decentralised sources can suit local terrain but require catchment, energy and maintenance governance.
 
-- Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-- The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
+**MUST-WRITE KEYWORDS:** tank, lift, irrigation, decentralised, sources, suit, local, terrain, require, catchment, energy.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not equate KCC liquidity with crop-insurance compensation.
+- **Claim:** Decentralised sources can suit local terrain but require catchment, energy and maintenance governance.
+- **Named evidence:** HKKP includes surface minor irrigation and repair, renovation and restoration of water bodies.
+- **Analysis:** Local systems can reduce long conveyance and support supplementary irrigation.
+- **Qualification / demand link:** Encroachment, siltation, pump cost and source depletion can reduce service.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
+- **Fact/evidence:** HKKP includes surface minor irrigation and repair, renovation and restoration of water bodies.
+- **Analytical inference:** Local systems can reduce long conveyance and support supplementary irrigation.
+- **Qualification:** Encroachment, siltation, pump cost and source depletion can reduce service.
+
+#### PRELIMS TRAP
+
+Do not classify every pumped well as a public lift-irrigation project.
+
+#### MAINS USE
+
+Match source, terrain, energy and institution.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Watershed method -> Jal Shakti campaign
-- **Qualified use:** Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
+- Definition: Tank irrigation stores local runoff, while lift irrigation uses energy to raise water from a lower source.
+- Evidence anchor: HKKP includes surface minor irrigation and repair, renovation and restoration of water bodies.
+- Limitation: Encroachment, siltation, pump cost and source depletion can reduce service.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Water-energy-crop nexus
-EXACT TERMS: Water-energy-crop | nexus | Watershed | method | Shakti | campaign
-MECHANISM / ARGUMENT: connect Watershed method and Jal Shakti campaign through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
-UPSC TRAP / ANSWER-USE: Do not equate KCC liquidity with crop-insurance compensation.
-ANSWER-GRABBING FORMULATION: Water-energy-crop nexus converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 7 — CORE — Watershed development
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Watershed development explains how Atal Bhujal Yojana fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Watershed development separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Watershed development must be read through Atal Bhujal Yojana, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Watershed**
-- **development**
-- **Atal**
-- **Bhujal**
-- **Yojana**
-- **groundwater-management**
-
-**How to use them:** Define Watershed, development, Atal; attach Bhujal to its named source, period and status; then qualify the answer with this limit: Do not equate insurance enrolment with claim settlement.
+### CORE SESSION 7 — Command area and CADWM
 
 #### VISUAL FIRST
 
 ```text
-WATERSHED DEVELOPMENT
-01. Atal Bhujal Yojana
-BOUNDARY -> Do not equate insurance enrolment with claim settlement.
+PROJECT OUTLET -> COMMAND AREA -> FIELD CHANNEL
+ -> ON-FARM DEVELOPMENT -> ROTATIONAL / MEASURED DELIVERY
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
+A command area is the land designed to receive irrigation from a project; CADWM improves last-mile distribution and field use.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Project completion without command-area works can leave a gap between potential and utilisation.
 
-- Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
+**MUST-WRITE KEYWORDS:** command, area, cadwm, project, completion, without, command-area, works, leave, between, potential.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not equate insurance enrolment with claim settlement.
+- **Claim:** Project completion without command-area works can leave a gap between potential and utilisation.
+- **Named evidence:** Command Area Development and Water Management is linked with AIBP/HKKP architecture.
+- **Analysis:** Lined channels, field drains, measurement and scheduling can improve equity and utilisation.
+- **Qualification / demand link:** Engineering upgrades fail without maintenance and farmer coordination.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate infrastructure capacity, delivered water, farm use and basin outcomes.
+- **Fact/evidence:** Command Area Development and Water Management is linked with AIBP/HKKP architecture.
+- **Analytical inference:** Lined channels, field drains, measurement and scheduling can improve equity and utilisation.
+- **Qualification:** Engineering upgrades fail without maintenance and farmer coordination.
+
+#### PRELIMS TRAP
+
+Do not confuse command area with watershed catchment.
+
+#### MAINS USE
+
+Use CADWM to connect dam or canal assets with field outcomes.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Atal Bhujal Yojana
-- **Qualified use:** Separate infrastructure capacity, delivered water, farm use and basin outcomes.
+- Definition: A command area is the land designed to receive irrigation from a project; CADWM improves last-mile distribution and field use.
+- Evidence anchor: Command Area Development and Water Management is linked with AIBP/HKKP architecture.
+- Limitation: Engineering upgrades fail without maintenance and farmer coordination.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Watershed development
-EXACT TERMS: Watershed | development | Atal | Bhujal | Yojana | groundwater-management
-MECHANISM / ARGUMENT: connect Atal Bhujal Yojana through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate infrastructure capacity, delivered water, farm use and basin outcomes.
-UPSC TRAP / ANSWER-USE: Do not equate insurance enrolment with claim settlement.
-ANSWER-GRABBING FORMULATION: Watershed development converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 8 — CORE — Jal Shakti and Atal Bhujal
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Jal Shakti and Atal Bhujal explains how KCC liquidity role fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Jal Shakti and Atal Bhujal separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Jal Shakti and Atal Bhujal must be read through KCC liquidity role, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Shakti**
-- **Atal**
-- **Bhujal**
-- **liquidity**
-- **role**
-- **Kisan**
-
-**How to use them:** Define Shakti, Atal, Bhujal; attach liquidity to its named source, period and status; then qualify the answer with this limit: Do not quote PMFBY premiums, coverage or state participation without scheme vintage.
+### CORE SESSION 8 — Watershed development
 
 #### VISUAL FIRST
 
 ```text
-JAL SHAKTI AND ATAL BHUJAL
-01. KCC liquidity role
-BOUNDARY -> Do not quote PMFBY premiums, coverage or state participation without scheme vintage.
+RIDGE -> CONTOUR / VEGETATION -> CHECK STRUCTURES
+ -> RECHARGE / MOISTURE -> VALLEY LIVELIHOODS
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
+A watershed is a geo-hydrological area draining to a common outlet and treated from ridge to valley.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Watershed development manages runoff, soil moisture, recharge and livelihoods across a catchment rather than one plot.
 
-- Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
+**MUST-WRITE KEYWORDS:** watershed, development, manages, runoff, soil, moisture, recharge, livelihoods, across, catchment, rather.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not quote PMFBY premiums, coverage or state participation without scheme vintage.
+- **Claim:** Watershed development manages runoff, soil moisture, recharge and livelihoods across a catchment rather than one plot.
+- **Named evidence:** WDC-PMKSY under the Department of Land Resources carries forward the earlier IWMP approach.
+- **Analysis:** Sequenced treatment reduces erosion and improves protective water in rainfed areas.
+- **Qualification / demand link:** Benefits depend on tenure, participation, maintenance and downstream effects.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
+- **Fact/evidence:** WDC-PMKSY under the Department of Land Resources carries forward the earlier IWMP approach.
+- **Analytical inference:** Sequenced treatment reduces erosion and improves protective water in rainfed areas.
+- **Qualification:** Benefits depend on tenure, participation, maintenance and downstream effects.
+
+#### PRELIMS TRAP
+
+Do not reduce watershed development to building one check dam.
+
+#### MAINS USE
+
+Use catchment unit, ridge-to-valley sequence and user institutions.
 
 #### MINI RECAP
 
-- **Mechanism chain:** KCC liquidity role
-- **Qualified use:** Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
+- Definition: A watershed is a geo-hydrological area draining to a common outlet and treated from ridge to valley.
+- Evidence anchor: WDC-PMKSY under the Department of Land Resources carries forward the earlier IWMP approach.
+- Limitation: Benefits depend on tenure, participation, maintenance and downstream effects.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Jal Shakti and Atal Bhujal
-EXACT TERMS: Shakti | Atal | Bhujal | liquidity | role | Kisan
-MECHANISM / ARGUMENT: connect KCC liquidity role through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
-UPSC TRAP / ANSWER-USE: Do not quote PMFBY premiums, coverage or state participation without scheme vintage.
-ANSWER-GRABBING FORMULATION: Jal Shakti and Atal Bhujal converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 9 — CORE — KCC liquidity
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** KCC liquidity explains how NABARD and co-operatives fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, KCC liquidity separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> KCC liquidity must be read through NABARD and co-operatives, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **liquidity**
-- **NABARD**
-- **co-operatives**
-- **rural**
-- **agricultural**
-- **refinance**
-
-**How to use them:** Define liquidity, NABARD, co-operatives; attach rural to its named source, period and status; then qualify the answer with this limit: Do not treat Sikkim's organic transition as universally replicable.
+### CORE SESSION 9 — Micro-irrigation
 
 #### VISUAL FIRST
 
 ```text
-KCC LIQUIDITY
-01. NABARD and co-operatives
-BOUNDARY -> Do not treat Sikkim's organic transition as universally replicable.
+SOURCE -> FILTER / PRESSURE -> DRIP LINE OR SPRINKLER
+ -> PRECISE ROOT-ZONE / CROP APPLICATION
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
+Micro-irrigation applies water through drip or sprinkler systems with greater spatial and temporal control than uncontrolled flooding.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Precision can improve field application and fertigation, but adoption and maintenance determine realised gains.
 
-- NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
+**MUST-WRITE KEYWORDS:** micro-irrigation, precision, improve, field, application, fertigation, adoption, maintenance, determine, realised, gains.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not treat Sikkim's organic transition as universally replicable.
+- **Claim:** Precision can improve field application and fertigation, but adoption and maintenance determine realised gains.
+- **Named evidence:** Per Drop More Crop supports micro-irrigation; from 2022-23 it is implemented under RKVY rather than the core PMKSY umbrella.
+- **Analysis:** Lower conveyance and evaporation losses can improve output per unit applied.
+- **Qualification / demand link:** Capital cost, clogging, energy, water quality and crop suitability limit adoption.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
+- **Fact/evidence:** Per Drop More Crop supports micro-irrigation; from 2022-23 it is implemented under RKVY rather than the core PMKSY umbrella.
+- **Analytical inference:** Lower conveyance and evaporation losses can improve output per unit applied.
+- **Qualification:** Capital cost, clogging, energy, water quality and crop suitability limit adoption.
+
+#### PRELIMS TRAP
+
+Do not say every sprinkler delivers water only at the root zone.
+
+#### MAINS USE
+
+Distinguish drip, sprinkler and their suitable contexts.
 
 #### MINI RECAP
 
-- **Mechanism chain:** NABARD and co-operatives
-- **Qualified use:** Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
+- Definition: Micro-irrigation applies water through drip or sprinkler systems with greater spatial and temporal control than uncontrolled flooding.
+- Evidence anchor: Per Drop More Crop supports micro-irrigation; from 2022-23 it is implemented under RKVY rather than the core PMKSY umbrella.
+- Limitation: Capital cost, clogging, energy, water quality and crop suitability limit adoption.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: KCC liquidity
-EXACT TERMS: liquidity | NABARD | co-operatives | rural | agricultural | refinance
-MECHANISM / ARGUMENT: connect NABARD and co-operatives through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
-UPSC TRAP / ANSWER-USE: Do not treat Sikkim's organic transition as universally replicable.
-ANSWER-GRABBING FORMULATION: KCC liquidity converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 10 — CORE — NABARD and cooperative credit
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** NABARD and cooperative credit explains how Insurance boundary fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, NABARD and cooperative credit separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> NABARD and cooperative credit must be read through Insurance boundary, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **NABARD**
-- **cooperative**
-- **credit**
-- **Insurance**
-- **boundary**
-- **Crop**
-
-**How to use them:** Define NABARD, cooperative, credit; attach Insurance to its named source, period and status; then qualify the answer with this limit: Do not infer provisional 2026 objective answer letters.
+### CORE SESSION 10 — Irrigation-efficiency layers
 
 #### VISUAL FIRST
 
 ```text
-NABARD AND COOPERATIVE CREDIT
-01. Insurance boundary
-BOUNDARY -> Do not infer provisional 2026 objective answer letters.
+CONVEYANCE EFFICIENCY -> DISTRIBUTION EFFICIENCY
+ -> APPLICATION EFFICIENCY -> CROP WATER PRODUCTIVITY
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
+Irrigation efficiency can refer to useful delivery relative to withdrawal, useful application relative to field supply, or output per unit water.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** The denominator must be specified before comparing technologies or regions.
 
-- Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
+**MUST-WRITE KEYWORDS:** irrigation-efficiency, layers, denominator, must, specified, before, comparing, technologies, regions.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not infer provisional 2026 objective answer letters.
+- **Claim:** The denominator must be specified before comparing technologies or regions.
+- **Named evidence:** PMKSY's efficiency objective and micro-irrigation programmes focus on on-farm use, while basin accounting asks a wider question.
+- **Analysis:** Reducing non-beneficial evaporation can generate real saving.
+- **Qualification / demand link:** Return flows counted as field loss may recharge or serve downstream users.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate infrastructure capacity, delivered water, farm use and basin outcomes.
+- **Fact/evidence:** PMKSY's efficiency objective and micro-irrigation programmes focus on on-farm use, while basin accounting asks a wider question.
+- **Analytical inference:** Reducing non-beneficial evaporation can generate real saving.
+- **Qualification:** Return flows counted as field loss may recharge or serve downstream users.
+
+#### PRELIMS TRAP
+
+Do not use 'efficiency' without specifying scale and denominator.
+
+#### MAINS USE
+
+Write conveyance, application, consumptive use and productivity separately.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Insurance boundary
-- **Qualified use:** Separate infrastructure capacity, delivered water, farm use and basin outcomes.
+- Definition: Irrigation efficiency can refer to useful delivery relative to withdrawal, useful application relative to field supply, or output per unit water.
+- Evidence anchor: PMKSY's efficiency objective and micro-irrigation programmes focus on on-farm use, while basin accounting asks a wider question.
+- Limitation: Return flows counted as field loss may recharge or serve downstream users.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: NABARD and cooperative credit
-EXACT TERMS: NABARD | cooperative | credit | Insurance | boundary | Crop
-MECHANISM / ARGUMENT: connect Insurance boundary through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate infrastructure capacity, delivered water, farm use and basin outcomes.
-UPSC TRAP / ANSWER-USE: Do not infer provisional 2026 objective answer letters.
-ANSWER-GRABBING FORMULATION: NABARD and cooperative credit converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 11 — CORE — Crop-insurance boundary
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Crop-insurance boundary explains how PMFBY scope and Enrolment and claims fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Crop-insurance boundary separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Crop-insurance boundary must be read through PMFBY scope and Enrolment and claims, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Crop-insurance**
-- **boundary**
-- **PMFBY**
-- **scope**
-- **Enrolment**
-- **claims**
-
-**How to use them:** Define Crop-insurance, boundary, PMFBY; attach scope to its named source, period and status; then qualify the answer with this limit: Do not equate irrigation potential with utilisation, reliability or water productivity.
+### CORE SESSION 11 — Tensiometer and irrigation scheduling
 
 #### VISUAL FIRST
 
 ```text
-CROP-INSURANCE BOUNDARY
-01. PMFBY scope
-    |
-    v
-02. Enrolment and claims
-BOUNDARY -> Do not equate irrigation potential with utilisation, reliability or water productivity.
+SOIL-MOISTURE TENSION -> THRESHOLD -> IRRIGATE
+ -> AVOID TOO EARLY / TOO LATE APPLICATION
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
+A tensiometer measures soil-water tension and helps schedule irrigation in its suitable measurement range.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Scheduling can save water only when the farmer can control delivery timing and quantity.
 
-- PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-- Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
+**MUST-WRITE KEYWORDS:** tensiometer, irrigation, scheduling, save, water, only, when, farmer, control, delivery, timing.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not equate irrigation potential with utilisation, reliability or water productivity.
+- **Claim:** Scheduling can save water only when the farmer can control delivery timing and quantity.
+- **Named evidence:** The 2020 Prelims route uses tensiometer as an eco-friendly farm-water-management concept.
+- **Analysis:** Measurement aligns irrigation with crop need rather than a fixed calendar.
+- **Qualification / demand link:** Soil type, rooting depth, placement and instrument range affect interpretation.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
+- **Fact/evidence:** The 2020 Prelims route uses tensiometer as an eco-friendly farm-water-management concept.
+- **Analytical inference:** Measurement aligns irrigation with crop need rather than a fixed calendar.
+- **Qualification:** Soil type, rooting depth, placement and instrument range affect interpretation.
+
+#### PRELIMS TRAP
+
+Do not call a tensiometer a rainfall gauge or water pump.
+
+#### MAINS USE
+
+Use it as a precision-decision tool, not a supply source.
 
 #### MINI RECAP
 
-- **Mechanism chain:** PMFBY scope -> Enrolment and claims
-- **Qualified use:** Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
+- Definition: A tensiometer measures soil-water tension and helps schedule irrigation in its suitable measurement range.
+- Evidence anchor: The 2020 Prelims route uses tensiometer as an eco-friendly farm-water-management concept.
+- Limitation: Soil type, rooting depth, placement and instrument range affect interpretation.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Crop-insurance boundary
-EXACT TERMS: Crop-insurance | boundary | PMFBY | scope | Enrolment | claims
-MECHANISM / ARGUMENT: connect PMFBY scope and Enrolment and claims through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
-UPSC TRAP / ANSWER-USE: Do not equate irrigation potential with utilisation, reliability or water productivity.
-ANSWER-GRABBING FORMULATION: Crop-insurance boundary converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 12 — CORE — PMFBY notified scope
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** PMFBY notified scope explains how Basis risk fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, PMFBY notified scope separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> PMFBY notified scope must be read through Basis risk, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **PMFBY**
-- **notified**
-- **scope**
-- **Basis**
-- **risk**
-- **Area-yield**
-
-**How to use them:** Define PMFBY, notified, scope; attach Basis to its named source, period and status; then qualify the answer with this limit: Do not merge irrigation access with application efficiency.
+### CORE SESSION 12 — Rebound effect in water use
 
 #### VISUAL FIRST
 
 ```text
-PMFBY NOTIFIED SCOPE
-01. Basis risk
-BOUNDARY -> Do not merge irrigation access with application efficiency.
+LESS WATER PER HECTARE -> LOWER PRIVATE COST
+ -> MORE AREA / THIRSTIER CROP -> TOTAL EXTRACTION MAY RISE
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
+The rebound effect occurs when efficiency lowers unit water cost and induces expansion that offsets expected total saving.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Plot-level micro-irrigation success does not automatically prove aquifer or basin conservation.
 
-- Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
+**MUST-WRITE KEYWORDS:** rebound, effect, water, plot-level, micro-irrigation, success, does, automatically, prove, aquifer, basin.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not merge irrigation access with application efficiency.
+- **Claim:** Plot-level micro-irrigation success does not automatically prove aquifer or basin conservation.
+- **Named evidence:** The advanced canonical owner explicitly distinguishes field saving from basin extraction.
+- **Analysis:** Farmers may irrigate more area or intensify cropping after adopting drip.
+- **Qualification / demand link:** Caps, metering, crop incentives and collective aquifer rules determine total use.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
+- **Fact/evidence:** The advanced canonical owner explicitly distinguishes field saving from basin extraction.
+- **Analytical inference:** Farmers may irrigate more area or intensify cropping after adopting drip.
+- **Qualification:** Caps, metering, crop incentives and collective aquifer rules determine total use.
+
+#### PRELIMS TRAP
+
+Do not equate litres saved per hectare with groundwater recovered.
+
+#### MAINS USE
+
+Pair efficiency subsidy with a resource-governance condition.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Basis risk
-- **Qualified use:** Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
+- Definition: The rebound effect occurs when efficiency lowers unit water cost and induces expansion that offsets expected total saving.
+- Evidence anchor: The advanced canonical owner explicitly distinguishes field saving from basin extraction.
+- Limitation: Caps, metering, crop incentives and collective aquifer rules determine total use.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: PMFBY notified scope
-EXACT TERMS: PMFBY | notified | scope | Basis | risk | Area-yield
-MECHANISM / ARGUMENT: connect Basis risk through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
-UPSC TRAP / ANSWER-USE: Do not merge irrigation access with application efficiency.
-ANSWER-GRABBING FORMULATION: PMFBY notified scope converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 13 — CORE SYNTHESIS — Enrolment, claims and basis risk
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Enrolment, claims and basis risk explains how Rainfed Area Development fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Enrolment, claims and basis risk separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Enrolment, claims and basis risk must be read through Rainfed Area Development, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Enrolment**
-- **claims**
-- **basis**
-- **risk**
-- **Rainfed**
-- **Area**
-
-**How to use them:** Define Enrolment, claims, basis; attach risk to its named source, period and status; then qualify the answer with this limit: Do not assume micro-irrigation automatically reduces basin-level extraction.
+### CORE SESSION 13 — Groundwater-energy-crop nexus
 
 #### VISUAL FIRST
 
 ```text
-ENROLMENT, CLAIMS AND BASIS RISK
-01. Rainfed Area Development
-BOUNDARY -> Do not assume micro-irrigation automatically reduces basin-level extraction.
+CHEAP POWER -> LOW MARGINAL PUMPING COST
+ -> WATER-INTENSIVE CROP / DEEPER PUMPING -> AQUifer STRESS
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
+The groundwater-energy-crop nexus links electricity pricing, pumping incentives, crop returns and aquifer depletion.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** An electricity subsidy is simultaneously an income support and a resource-use signal.
 
-- Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
+**MUST-WRITE KEYWORDS:** groundwater-energy-crop, nexus, electricity, subsidy, simultaneously, income, support, resource-use, signal.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not assume micro-irrigation automatically reduces basin-level extraction.
+- **Claim:** An electricity subsidy is simultaneously an income support and a resource-use signal.
+- **Named evidence:** Groundwater depletion PYQ routes and Atal Jal make behavioural governance central.
+- **Analysis:** Metering, feeder reform and crop diversification can change incentives.
+- **Qualification / demand link:** Poorly designed pricing can hurt small farmers without creating alternatives.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate infrastructure capacity, delivered water, farm use and basin outcomes.
+- **Fact/evidence:** Groundwater depletion PYQ routes and Atal Jal make behavioural governance central.
+- **Analytical inference:** Metering, feeder reform and crop diversification can change incentives.
+- **Qualification:** Poorly designed pricing can hurt small farmers without creating alternatives.
+
+#### PRELIMS TRAP
+
+Do not treat free power as environmentally neutral or pricing as sufficient alone.
+
+#### MAINS USE
+
+Balance lifeline access, measurement, crop support and aquifer budgets.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Rainfed Area Development
-- **Qualified use:** Separate infrastructure capacity, delivered water, farm use and basin outcomes.
+- Definition: The groundwater-energy-crop nexus links electricity pricing, pumping incentives, crop returns and aquifer depletion.
+- Evidence anchor: Groundwater depletion PYQ routes and Atal Jal make behavioural governance central.
+- Limitation: Poorly designed pricing can hurt small farmers without creating alternatives.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Enrolment, claims and basis risk
-EXACT TERMS: Enrolment | claims | basis | risk | Rainfed | Area
-MECHANISM / ARGUMENT: connect Rainfed Area Development through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate infrastructure capacity, delivered water, farm use and basin outcomes.
-UPSC TRAP / ANSWER-USE: Do not assume micro-irrigation automatically reduces basin-level extraction.
-ANSWER-GRABBING FORMULATION: Enrolment, claims and basis risk converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 14 — CORE SYNTHESIS — Rainfed development and conservation agriculture
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Rainfed development and conservation agriculture explains how Conservation agriculture and Precision input tools fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Rainfed development and conservation agriculture separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Rainfed development and conservation agriculture must be read through Conservation agriculture and Precision input tools, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Rainfed**
-- **development**
-- **conservation**
-- **agriculture**
-- **Precision**
-- **input**
-
-**How to use them:** Define Rainfed, development, conservation; attach agriculture to its named source, period and status; then qualify the answer with this limit: Do not treat free power as only a transfer without crop and groundwater effects.
+### CORE SESSION 14 — Canal externalities and drainage
 
 #### VISUAL FIRST
 
 ```text
-RAINFED DEVELOPMENT AND CONSERVATION AGRICULTURE
-01. Conservation agriculture
-    |
-    v
-02. Precision input tools
-BOUNDARY -> Do not treat free power as only a transfer without crop and groundwater effects.
+EXCESS / UNEVEN WATER -> WATERLOGGING -> SALINITY
+TAIL SCARCITY -> INEQUITY | SEEPAGE -> LOSS OR RECHARGE
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
+Canal externalities include waterlogging, salinity, seepage, drainage burdens and unequal delivery.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Irrigation expansion must be judged by land and water quality, not only command-area hectares.
 
-- Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-- Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
+**MUST-WRITE KEYWORDS:** canal, externalities, drainage, irrigation, expansion, must, judged, land, water, quality, only.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not treat free power as only a transfer without crop and groundwater effects.
+- **Claim:** Irrigation expansion must be judged by land and water quality, not only command-area hectares.
+- **Named evidence:** CADWM and drainage works address field distribution and excess-water management.
+- **Analysis:** Pricing and scheduling can reduce over-application at the head and improve tail supply.
+- **Qualification / demand link:** Seepage effects differ across geology and may support recharge.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
+- **Fact/evidence:** CADWM and drainage works address field distribution and excess-water management.
+- **Analytical inference:** Pricing and scheduling can reduce over-application at the head and improve tail supply.
+- **Qualification:** Seepage effects differ across geology and may support recharge.
+
+#### PRELIMS TRAP
+
+Do not label every seepage flow a social loss.
+
+#### MAINS USE
+
+Use positive and negative externalities in project evaluation.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Conservation agriculture -> Precision input tools
-- **Qualified use:** Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
+- Definition: Canal externalities include waterlogging, salinity, seepage, drainage burdens and unequal delivery.
+- Evidence anchor: CADWM and drainage works address field distribution and excess-water management.
+- Limitation: Seepage effects differ across geology and may support recharge.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Rainfed development and conservation agriculture
-EXACT TERMS: Rainfed | development | conservation | agriculture | Precision | input
-MECHANISM / ARGUMENT: connect Conservation agriculture and Precision input tools through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Distinguish liquidity support, risk pooling, enrolment, assessment and settlement.
-UPSC TRAP / ANSWER-USE: Do not treat free power as only a transfer without crop and groundwater effects.
-ANSWER-GRABBING FORMULATION: Rainfed development and conservation agriculture converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 15 — CORE SYNTHESIS — Precision tools, organic transition and tenant inclusion
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Precision tools, organic transition and tenant inclusion explains how Sikkim organic transition and Tenant inclusion fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Precision tools, organic transition and tenant inclusion separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Precision tools, organic transition and tenant inclusion must be read through Sikkim organic transition and Tenant inclusion, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Precision**
-- **tools**
-- **organic**
-- **transition**
-- **tenant**
-- **inclusion**
-
-**How to use them:** Define Precision, tools, organic; attach transition to its named source, period and status; then qualify the answer with this limit: Do not reduce watershed development to a pond or check dam.
+### CORE SESSION 15 — Water pricing
 
 #### VISUAL FIRST
 
 ```text
-PRECISION TOOLS, ORGANIC TRANSITION AND TENANT INCLUSION
-01. Sikkim organic transition
-    |
-    v
-02. Tenant inclusion
-BOUNDARY -> Do not reduce watershed development to a pond or check dam.
+VOLUMETRIC / AREA / CROP CHARGE -> O&M FUNDING
+ + DEMAND SIGNAL -> EQUITY / MEASUREMENT TRADE-OFF
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
+Irrigation pricing recovers some service cost and can signal scarcity, but its effect depends on measurement and alternatives.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** A price is incentive-compatible only when supply is reliable and users can adjust demand.
 
-- Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-- Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
+**MUST-WRITE KEYWORDS:** water, pricing, price, incentive-compatible, only, when, supply, reliable, users, adjust, demand.
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not reduce watershed development to a pond or check dam.
+- **Claim:** A price is incentive-compatible only when supply is reliable and users can adjust demand.
+- **Named evidence:** State irrigation charges and electricity tariffs shape the private cost of water.
+- **Analysis:** Volumetric measurement can reward conservation better than flat acreage charges.
+- **Qualification / demand link:** High charges without reliable service or safeguards can exclude small and tail-end farmers.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
+- **Fact/evidence:** State irrigation charges and electricity tariffs shape the private cost of water.
+- **Analytical inference:** Volumetric measurement can reward conservation better than flat acreage charges.
+- **Qualification:** High charges without reliable service or safeguards can exclude small and tail-end farmers.
+
+#### PRELIMS TRAP
+
+Do not equate full-cost pricing with good water governance.
+
+#### MAINS USE
+
+Combine transparent tariff, service standard, lifeline protection and accountability.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Sikkim organic transition -> Tenant inclusion
-- **Qualified use:** Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
+- Definition: Irrigation pricing recovers some service cost and can signal scarcity, but its effect depends on measurement and alternatives.
+- Evidence anchor: State irrigation charges and electricity tariffs shape the private cost of water.
+- Limitation: High charges without reliable service or safeguards can exclude small and tail-end farmers.
 
-#### CLOSING RECALL FLOW
+### CORE SESSION 16 — Participatory irrigation management
 
-```closure-flow
-START / CONCEPT: Precision tools, organic transition and tenant inclusion
-EXACT TERMS: Precision | tools | organic | transition | tenant | inclusion
-MECHANISM / ARGUMENT: connect Sikkim organic transition and Tenant inclusion through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Integrate aquifer governance, crop incentives, tenant eligibility and resilient agronomy.
-UPSC TRAP / ANSWER-USE: Do not reduce watershed development to a pond or check dam.
-ANSWER-GRABBING FORMULATION: Precision tools, organic transition and tenant inclusion converts a precise economic distinction into a qualified conclusion
-```
-
-#### COMPLETE BASIC OWNER EVIDENCE BANK
-
-> **Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims.
-> **Core area:** Agricultural inputs and resilience.
-> **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `../advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`.*
-
-##### 1. Visual foundation
+#### VISUAL FIRST
 
 ```text
-1. SOIL, WATER, SEED AND KNOWLEDGE
-   |
-   v
-2. CREDIT-FINANCED CULTIVATION
-   |
-   v
-3. WEATHER AND MARKET RISK
-   |
-   v
-4. INSURANCE AND DIVERSIFICATION
-   |
-   v
-5. STABLE PRODUCTIVITY AND INCOME
+WATER USERS ASSOCIATION -> ALLOCATION / SCHEDULE / FEE
+ -> MAINTENANCE -> LOCAL ACCOUNTABILITY
 ```
 
-**Core proposition:** Read farm productivity through the water-energy-input-credit-insurance
-nexus; isolated subsidies often shift rather than solve risk.
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-##### 2. Essential definitions
+#### DEFINITION
 
-| Concept | Exam-ready meaning |
-|---|---|
-| ✅ **Irrigation efficiency** | Crop output or useful water delivered relative to water withdrawn or applied. |
-| ✅ **Micro-irrigation** | Drip or sprinkler systems applying water more precisely. |
-| ✅ **KCC** | Institutional credit channel designed around farm and allied working-capital needs. |
-| ✅ **Crop insurance** | Risk-pooling arrangement compensating covered loss under specified terms. |
-| ✅ **Sustainable agriculture** | Productivity with soil, water, biodiversity, climate and livelihood resilience. |
+Participatory irrigation management gives organised users roles in distribution, maintenance and sometimes fee collection.
 
-##### 3. Topic mechanism
+> **ANSWER-GRABBING LINE:** Local participation can improve information and ownership but does not erase power asymmetry.
 
-1. Water availability, soil condition and seed choice establish the farm's attainable yield.
-2. Credit finances seasonal inputs before harvest revenue arrives.
-3. Electricity and fertiliser prices influence crop and input intensity, often beyond their
-   immediate subsidy effect.
-4. Insurance, diversification and advisories spread or reduce weather and production risk.
-5. Aquifer governance, micro-irrigation and integrated farming determine whether
-   productivity can be sustained.
+**MUST-WRITE KEYWORDS:** participatory, irrigation, management, local, participation, improve, information, ownership, does, erase, power.
 
-##### 4. Institutions and policy tools
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- ✅ **Pradhan Mantri Krishi Sinchayee Yojana (PMKSY):** the umbrella irrigation-efficiency framework, including **Har Khet Ko Pani** for irrigation access and **Per Drop More Crop** for micro-irrigation efficiency.
-- ✅ **Kisan Credit Card (KCC), commercial banks, co-operatives and District Central Cooperative Banks (DCCBs):** provide the working-capital architecture for crop and allied activity credit.
-- ✅ **NABARD:** refinances agricultural and rural credit and supports the broader rural-finance architecture.
-- ✅ **Pradhan Mantri Fasal Bima Yojana (PMFBY) and implementing insurers:** are the main named anchors for crop-insurance policy.
-- ✅ **Atal Bhujal Yojana (Atal Jal), groundwater agencies and local water-governance institutions:** anchor the groundwater-management side of sustainable agriculture.
-- ✅ **National Mission for Sustainable Agriculture (NMSA), including Rainfed Area Development, plus ICAR/KVK extension systems:** connect irrigation, resilience and farm-system sustainability.
-- ✅ **Watershed Development Component of PMKSY (formerly IWMP) and the Department of Land Resources:** treat rainfed/degraded catchments on a ridge-to-valley basis to raise water availability, cropping intensity and rural livelihoods.
-- ✅ **Ministry of Jal Shakti (created 2019 by merging the Ministry of Water Resources and the Ministry of Drinking Water and Sanitation) and the Jal Shakti Abhiyan campaign:** anchor India's national water-conservation campaign architecture.
-- ✅ **Sikkim's organic-farming policy (2003 Assembly resolution) and the Sikkim Organic Mission (implemented under NPOP/APEDA-linked certification):** anchor India's most-cited state-level organic-transition model.
+- **Claim:** Local participation can improve information and ownership but does not erase power asymmetry.
+- **Named evidence:** Water Users Associations are a named institutional route in command-area reform.
+- **Analysis:** Collective scheduling can reduce conflict and improve tail-end transparency.
+- **Qualification / demand link:** Elite capture, unclear authority and insufficient finance can weaken associations.
 
-##### 5. Indian applications and examples
+#### EVIDENCE AND INFERENCE
 
-- ⚠️ **Claim:** Irrigation reform must expand access, not just announce projects. **Named evidence:** ✅ **PMKSY's Har Khet Ko Pani** is the named component focused on taking irrigation water to uncovered fields. **Why it supports the claim:** ⚠️ It helps answers distinguish irrigation-access expansion from efficiency measures and shows that spatial coverage remains a central policy problem. **Limit/status caution:** ⚠️ Creating potential does not automatically ensure reliable last-mile delivery, equitable command-area distribution or efficient water use.
-- ⚠️ **Claim:** Water productivity requires a shift from flood-style application to precision use. **Named evidence:** ✅ **PMKSY's Per Drop More Crop** and the wider push for **drip and sprinkler irrigation** are the standard examples. **Why it supports the claim:** ⚠️ They support answers on micro-irrigation as a water-saving and input-use-efficiency strategy. **Limit/status caution:** ⚠️ Plot-level efficiency gains do not automatically reduce aquifer stress if farmers expand irrigated area or persist with water-intensive crops.
-- ⚠️ **Claim:** Watershed development is India's core named strategy for raising water availability and productivity in rainfed/degraded catchments without new canal irrigation. **Named evidence:** ✅ A **watershed** is the geo-hydrological unit draining to a common outlet; the **Watershed Development Component of PMKSY** (built on the earlier Integrated Watershed Management Programme) treats it on a **ridge-to-valley basis** — soil and moisture conservation, contour/field bunding, check dams and afforestation starting at the highest point and working down to the valley — implemented through participatory watershed committees/user groups, with a 60:40 Centre-State funding pattern (higher Central share for hill/tribal/North-Eastern states). **Why it supports the claim:** ⚠️ Ridge-to-valley treatment shows why watershed projects are sequenced (not scattered), and participatory institutions show why the programme is designed to build local ownership of a shared catchment resource rather than a single farmer's plot. **Limit/status caution:** ⚠️ Documented outcomes include better groundwater recharge, cropping intensity and rural livelihoods, but coverage gaps versus the vast rainfed/degraded area, uneven institutional capacity, weak inter-scheme convergence and fragile post-project maintenance/community ownership remain real limitations — do not present it as a solved problem.
-- ⚠️ **Claim:** India's water-conservation strategy shifted from scheme-level irrigation projects to a time-bound, campaign-mode national mobilisation covering both rural and urban water stress. **Named evidence:** ✅ The **Jal Shakti Abhiyan (JSA)**, launched in **2019** by the newly created **Ministry of Jal Shakti**, initially covered **256 identified water-stressed districts** and rested on **five interventions**: water conservation and rainwater harvesting; renovation of traditional water bodies; reuse and recharge of structures; watershed development; and intensive afforestation. From 2021 it evolved into **"Jal Shakti Abhiyan: Catch the Rain"**, extended to all blocks of all districts (rural and urban), adding de-silting, geo-tagging of water bodies and rejuvenation of small rivers/springs. **Why it supports the claim:** ⚠️ The shift from a district-targeted 2019 campaign to an all-India annual "Catch the Rain" mobilisation shows the government treating water conservation as a recurring people's movement (*Jan Andolan*) rather than a one-time infrastructure scheme. **Limit/status caution:** ⚠️ A campaign can raise awareness and build structures quickly, but its impact depends on follow-through maintenance, genuine community participation and integration with watershed/groundwater governance rather than one-season activity.
-- ⚠️ **Claim:** Chemical-input elimination at state scale is achievable but requires a long, phased transition, not an abrupt ban. **Named evidence:** ✅ **Sikkim** began its organic transition with a **2003 Legislative Assembly resolution**, phased out government subsidy/procurement of chemical fertilisers and pesticides from 2004, banned their sale from 2014, and — through the **Sikkim Organic Mission** (from 2010) certifying roughly 75,000 hectares — was declared India's (and is widely cited as the world's) **first fully organic state in January 2016**, later winning the **UN FAO Future Policy Gold Award (2018)**. **Why it supports the claim:** ⚠️ The decade-plus phased sequence (resolution → subsidy withdrawal → sales ban → certification → declaration) shows why Sikkim avoided the sharp production collapse seen in economies that switched abruptly, and its ecological gains (soil health, water conservation) plus branding-led market access illustrate the ecological-economic benefits UPSC asks about. **Limit/status caution:** ⚠️ Farmers faced an initial yield dip and market-access uncertainty during transition, certification/documentation across small mountainous plots was resource-intensive, and Sikkim's hill agro-ecology, small cultivated area and strong state administrative push limit mechanical generalisation of the model to large, plains-based, intensively cropped states.
-- ⚠️ **Claim:** Crop insurance is meant to reduce production-risk shocks, not to guarantee farm income in every contingency. **Named evidence:** ✅ **Pradhan Mantri Fasal Bima Yojana (PMFBY)** is the principal national crop-insurance scheme; the farmer pays only a small flat premium share — **2% of sum insured for Kharif crops, 1.5% for Rabi crops and 5% for commercial/horticultural crops** — with the balance premium subsidy shared between the Centre and States (90:10 for North-Eastern/Himalayan states, otherwise generally 50:50), while yield loss is assessed mainly through **Crop Cutting Experiments (CCEs)**, increasingly supplemented by satellite/drone-based technology. **Why it supports the claim:** ⚠️ Naming the exact premium shares shows PMFBY is a heavily subsidised risk-pooling instrument, not an actuarially priced market product, which is why participation and claim outcomes are politically and fiscally sensitive. **Limit/status caution:** ⚠️ Since the 2020 revamp, enrolment is **voluntary even for loanee farmers**, and several states (including Bihar, West Bengal, Andhra Pradesh at different points, Telangana, Jharkhand and Punjab) have wholly or partly opted out over premium-subsidy or claims disputes; claim settlement can be delayed when states delay releasing their premium share, and area-based CCE assessment can diverge from an individual farmer's actual loss — reforms such as escrow-based state premium deposits and de-linking the Central subsidy from state payment are recent responses to these delays.
-- ⚠️ **Claim:** Institutional credit matters most before harvest cash arrives. **Named evidence:** ✅ **Kisan Credit Card (KCC)** backed by the banking and co-operative credit system, with **NABARD** as a key refinance anchor, is the classic instrument. **Why it supports the claim:** ⚠️ KCC shows how seasonal input finance can reduce dependence on informal credit. **Limit/status caution:** ⚠️ Formal credit, insurance and subsidy access still often depend on land-title records, so many tenant farmers and sharecroppers remain weakly covered.
-- ⚠️ **Claim:** Groundwater sustainability requires community and aquifer governance, not only engineering supply. **Named evidence:** ✅ **Atal Bhujal Yojana (Atal Jal)** is the named programme for groundwater management in water-stressed areas. **Why it supports the claim:** ⚠️ It allows answers to move from canal-building to behavioural and local water-budget governance. **Limit/status caution:** ⚠️ Community water management works only when local incentives, monitoring and crop choices actually change.
-- ⚠️ **Claim:** Sustainable agriculture in rainfed India depends on diversification and integrated risk management rather than on irrigation alone. **Named evidence:** ✅ **Rainfed Area Development** under **NMSA** is tied to **Integrated Farming Systems**. **Why it supports the claim:** ⚠️ This provides a named answer anchor for combining crops with horticulture, livestock or other activities in risky rainfed settings. **Limit/status caution:** ⚠️ Integrated systems are knowledge-intensive and market-dependent; they cannot be copied mechanically across regions.
+- **Fact/evidence:** Water Users Associations are a named institutional route in command-area reform.
+- **Analytical inference:** Collective scheduling can reduce conflict and improve tail-end transparency.
+- **Qualification:** Elite capture, unclear authority and insufficient finance can weaken associations.
 
-##### 6A. Limitations and trade-offs
+#### PRELIMS TRAP
 
-- ⚠️ Canal expansion can raise irrigation potential, but tail-end inequity, seepage, waterlogging and delayed maintenance reduce effective use.
-- ⚠️ Micro-irrigation improves plot-level efficiency, yet basin-level extraction may still rise if irrigated area or water-intensive cropping expands.
-- ⚠️ Free or subsidised electricity lowers private pumping cost but strengthens the groundwater-energy-crop nexus that encourages water-intensive cultivation and aquifer depletion.
-- ⚠️ Title-linked scheme access often excludes tenant farmers and sharecroppers from formal credit, insurance and subsidy channels.
-- ⚠️ PMFBY can improve risk pooling, but trust falls when claim settlement is slow or the farmer's loss experience differs from area-based assessment.
-- ⚠️ Voluntary PMFBY enrolment protects farmer choice, but it has let several states exit or reduce participation, narrowing risk-pooling and leaving gaps in national crop-insurance coverage.
-- ⚠️ Watershed and Jal Shakti-style campaigns build structures and awareness quickly, but without sustained community ownership and maintenance funding, physical assets can silt up or fall into disrepair after the campaign/project period ends.
-- ⚠️ Sikkim's phased, subsidy-withdrawal-led organic transition avoided a production collapse, but its small scale, hill agro-ecology and strong administrative push limit direct replication in large, intensively cropped plains states.
-- ⚠️ Fertiliser and irrigation subsidies help short-run cultivation, yet they can distort nutrient balance, crop choice and long-run sustainability.
+Do not assume creation of a WUA proves participation.
 
-##### 6. Must-Know Facts for Prelims
+#### MAINS USE
 
-- ✅ **PMKSY** should be remembered with its named components: **Har Khet Ko Pani** for irrigation access and **Per Drop More Crop** for micro-irrigation efficiency.
-- ✅ **PMFBY** covers notified crops, notified areas and specified risks under scheme rules; it is not a universal guarantee against every price or household-income loss. Farmer premium share is a flat **2% (Kharif) / 1.5% (Rabi) / 5% (commercial-horticultural)** of sum insured; enrolment has been **voluntary since the 2020 revamp**, and yield loss is assessed mainly through Crop Cutting Experiments.
-- ✅ A **watershed** is a geo-hydrological catchment draining to one outlet; watershed development follows a **ridge-to-valley** treatment sequence and is delivered through the **Watershed Development Component of PMKSY** (successor to IWMP).
-- ✅ The **Jal Shakti Abhiyan (2019)**, run by the **Ministry of Jal Shakti**, used **five interventions** (rainwater harvesting, traditional water-body renovation, reuse/recharge, watershed development, afforestation) in water-stressed districts, and evolved into the annual **"Catch the Rain"** campaign (2021 onward) covering all blocks.
-- ✅ **Sikkim** was declared India's/the world's **first fully organic state in January 2016**, following a **2003 Assembly resolution** and the **Sikkim Organic Mission**; do not confuse this with every low-chemical or natural-farming initiative elsewhere.
-- ✅ **KCC** is a short-term institutional-credit instrument for crop and allied working-capital needs; it is broader than seed or fertiliser purchase alone.
-- ✅ **NABARD** is a key agricultural and rural credit-refinance institution; **DCCBs** are part of the short-term co-operative credit architecture linking local credit channels with higher-tier institutions.
-- ✅ **Atal Bhujal Yojana** is a named groundwater-management programme anchored in water-stressed areas and community participation.
-- ✅ **Conservation agriculture** is identified with minimum soil disturbance, residue management and crop rotation rather than with a single-input package.
-- ✅ **Zero tillage** is used especially in wheat-after-paddy contexts because it can reduce turnaround time, fuel use and soil disturbance, though weed and residue management still matter.
-- ✅ **Biochar** is discussed as a soil amendment linked with soil microorganisms, water retention and carbon-related benefits, but outcomes remain soil- and context-specific.
-- ✅ A **tensiometer** is an irrigation-management device used to gauge soil moisture tension for scheduling water application.
-- ✅ **Fertigation** means applying fertilisers through irrigation water; it is especially relevant in micro-irrigation systems because it can improve nutrient-use efficiency and reduce leaching in suitable conditions.
-- ✅ **Carbofuran, phorate and triazophos** belong to the crop-protection chemical debate and should not be confused with fertilisers or ecological farming inputs.
-- ✅ **Sugarcane bud chip settlings** and **tissue culture** are planting-propagation techniques, not irrigation methods.
-- ✅ **Urea** is a nitrogenous fertiliser manufactured from ammonia; sulphur supply comes through other fertiliser products, and fertiliser pricing or subsidy differs across nutrient categories.
-- ✅ **Permaculture** emphasises ecological design, diversity and recycling and should not be treated as identical to every form of conventional input-intensive farming.
-- ✅ **Climate-Smart Agriculture** is an umbrella approach; **CCAFS** was a CGIAR research programme, and **ICRISAT** is a major dryland-agriculture research institution in India linked with this wider knowledge ecosystem.
-- ✅ Integrated Farming Systems combine crops with horticulture, livestock, fisheries or agroforestry to diversify income and risk, especially in rainfed systems.
+Assess membership, authority, finance, inclusion and performance.
 
-##### 7. UPSC traps
+#### MINI RECAP
 
-- ❌ More irrigation automatically means sustainable agriculture. -> Water source, crop choice, energy pricing and governance determine sustainability.
-- ❌ Micro-irrigation always reduces total groundwater extraction. -> Plot efficiency gains can be offset by area expansion or water-intensive cropping.
-- ❌ Crop insurance guarantees farm income. -> It covers specified production or weather risks, not every price or household loss.
-- ❌ PMFBY premium is the same across all crop seasons. -> The farmer's share is a flat 2%/1.5%/5% depending on Kharif, Rabi or commercial-horticultural crops, with government subsidising the remainder.
-- ❌ PMFBY enrolment is compulsory for every loanee farmer. -> Since the 2020 revamp it is voluntary, and several states have exited or scaled back participation.
-- ❌ Watershed development means only digging a pond or a check dam. -> It is a ridge-to-valley, catchment-wide treatment plus participatory institutions, not an isolated structure.
-- ❌ Jal Shakti Abhiyan is a permanent single scheme unchanged since 2019. -> It began as a district-targeted 2019 campaign and evolved into the annual all-India "Catch the Rain" campaign from 2021.
-- ❌ Sikkim's organic model can be mechanically replicated in any state. -> Its small scale, hill agro-ecology and administrative push are distinguishing conditions.
-- ❌ Institutional credit reaches all cultivators equally. -> Tenancy documentation and land-title dependence remain major barriers.
-- ❌ Sustainable agriculture means rejecting all technology. -> It usually combines agronomy, irrigation efficiency, soil management, diversification and better institutions.
-- ❌ Free power is only a welfare transfer. -> It also changes crop choice and groundwater extraction incentives.
+- Definition: Participatory irrigation management gives organised users roles in distribution, maintenance and sometimes fee collection.
+- Evidence anchor: Water Users Associations are a named institutional route in command-area reform.
+- Limitation: Elite capture, unclear authority and insufficient finance can weaken associations.
 
-##### 8. 📰 Economic Survey 2025-26 / current anchor
+### CORE SESSION 17 — PMKSY current architecture
 
-- 📰 The 2026 provisional key identifies **Integrated Farming Systems** as the objective of **Rainfed Area Development** under **NMSA**.
-- 📰 Agriculture GVA averaged 4.7% growth during FY20-FY24, with allied sectors growing faster than crops.
-- 📰 The 2024 GS-III PYQ examined irrigation challenges and efficient-management measures, and the 2025 GS-III PYQ examined groundwater depletion and government steps.
+#### VISUAL FIRST
 
-⚠️ **Interpretation caution:** Technology adoption is not neutral; farm size, tenancy, extension support, maintenance capacity and market access determine who actually benefits from irrigation, credit and insurance reforms.
+```text
+PMKSY: AIBP + HKKP + WDC
+PDMC -> RKVY FROM 2022-23
+2021-26 APPROVAL WINDOW -> 2026 OFFICIAL CONTINUATION CONTEXT
+```
 
-##### 9. PYQ application
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-- ⚠️ 2024 GS-III: Challenges of Indian irrigation and government measures for efficiency.
-- ⚠️ 2025 GS-III: Factors for depleting groundwater and government steps.
-- ⚠️ 2026 Prelims provisional key: Rainfed Area Development and Integrated Farming Systems.
-- ⚠️ 2018 GS-III: Sikkim Organic State's ecological and economic benefits.
-- ⚠️ 2019 GS-III: National Watershed Project's impact on water-stressed-area agriculture.
-- ⚠️ 2020 GS-III: Jal Shakti Abhiyan's features for water conservation and security.
-- ⚠️ **Irrigation answer route:** diagnose source depletion, groundwater dependence, uneven canal delivery, field-level inefficiency and distorted water-energy incentives; then deploy PMKSY, micro-irrigation, canal repair, aquifer management and crop alignment as coordinated responses.
-- ⚠️ **Groundwater answer route:** connect free or subsidised power, paddy-sugarcane style water intensity, weak aquifer governance and limited crop diversification; then add Atal Jal, metering or budgeting logic, micro-irrigation and procurement reform.
-- ⚠️ **Watershed/Jal Shakti answer route:** define the watershed unit, explain ridge-to-valley treatment and participatory institutions, then connect to Jal Shakti Abhiyan's five interventions and its 2021 "Catch the Rain" evolution as the campaign-mode complement to the standing watershed programme.
-- ⚠️ **Sikkim organic-state answer route:** trace the phased 2003-2016 transition (resolution, subsidy withdrawal, sales ban, certification, declaration), then weigh ecological/economic benefits against replication limits for larger, plains-based states.
-- ⚠️ **Unfamiliar-question route:** if asked on sustainable farming practices, connect conservation agriculture, zero tillage, fertigation, biochar, Integrated Farming Systems and climate-smart agriculture instead of writing a generic environment answer.
+#### DEFINITION
 
-##### 10. Mains angles
+PMKSY is a convergence framework for irrigation access, project completion, command management and watershed development.
 
-- ⚠️ Use a resource nexus: water -> energy -> crop choice -> credit -> insurance -> sustainability.
-- ⚠️ Distinguish irrigation access, irrigation efficiency, risk transfer and groundwater governance; they solve different problems.
-- ⚠️ Bring tenant exclusion into credit and insurance answers because formal access is often tied to title records.
-- ⚠️ Recommend micro-irrigation, aquifer governance, diversified cropping, better credit design and timely insurance settlement as a package rather than stand-alone schemes.
+> **ANSWER-GRABBING LINE:** Component ownership and programme period must be dated because the architecture has changed.
 
-> **Answer thesis:** Read farm productivity through the water-energy-input-credit-insurance nexus; isolated subsidies often shift rather than solve risk.
+**MUST-WRITE KEYWORDS:** pmksy, current, architecture, component, ownership, programme, period, must, dated, because, changed.
 
-##### 11. Probable questions
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- ⚠️ **Prelims:** Distinguish PMKSY, Har Khet Ko Pani, Per Drop More Crop, KCC, PMFBY and Atal Bhujal Yojana.
-- ⚠️ **Mains (10 marks):** Why can farm-level water-use efficiency fail to reduce basin-level extraction?
-- ⚠️ **Mains (10 marks):** Discuss the ecological and economic benefits of Sikkim's organic-state transition, noting the limits to replicating it elsewhere.
-- ⚠️ **Mains (10 marks):** What are the features of the Jal Shakti Abhiyan, and how does watershed development fit within it?
-- ⚠️ **Mains (15 marks):** Examine the groundwater-energy-crop nexus in Indian agriculture.
-- ⚠️ **Mains (15 marks):** Why do formal credit and insurance systems still fail many tenant cultivators?
+- **Claim:** Component ownership and programme period must be dated because the architecture has changed.
+- **Named evidence:** The 2021-26 approval covered AIBP, HKKP and WDC; official June 2026 material continues the umbrella context, while PDMC has operated under RKVY since 2022-23.
+- **Analysis:** Distinct departments address major systems, minor works, watershed treatment and on-farm micro-irrigation.
+- **Qualification / demand link:** An umbrella label does not make funding rules or implementing ministries identical.
 
-##### 11A. Answer architecture (10/15/20-mark support)
+#### EVIDENCE AND INFERENCE
 
-- ⚠️ **Directive decoder — Discuss:** separate irrigation access, irrigation efficiency, credit and insurance before listing schemes; otherwise the answer becomes a catalogue.
-- ⚠️ **Directive decoder — Examine / Analyse:** trace the causal chain from water source and power pricing to crop choice, groundwater depletion, credit stress and insurance need.
-- ⚠️ **Directive decoder — Critically examine / Evaluate:** weigh scheme expansion against exclusion, claim-settlement delays, subsidy distortion and ecological rebound effects.
-- ⚠️ **Directive decoder — Compare / Justify:** compare canal expansion with micro-irrigation, or compare subsidy-heavy support with aquifer-governance and resilience-oriented reform.
-- ⚠️ **Evidence chain:** PMKSY/Har Khet Ko Pani -> Per Drop More Crop -> watershed development (ridge-to-valley) -> Jal Shakti Abhiyan/Catch the Rain -> PMFBY (premium shares and claim settlement) -> KCC/NABARD/co-operative credit -> Atal Bhujal Yojana -> Sikkim organic model -> Rainfed Area Development/Integrated Farming Systems.
-- ⚠️ **Counter-evidence:** use Section 6A for groundwater rebound, tenant exclusion, distorted power incentives and insurance-trust deficits.
-- ⚠️ **10-mark scaling:** use one thesis plus 2-3 named schemes or institutions.
-- ⚠️ **15-mark scaling:** use 4-5 evidence units and add one counter-dimension such as groundwater depletion or tenant exclusion.
-- ⚠️ **20-mark scaling:** use 5-6 evidence units, integrate irrigation, credit and insurance together, and close with a sustainability-oriented verdict.
-- ⚠️ **Reasoned verdict template:** Sustainable agricultural support in India requires irrigation access, efficient water use, inclusive credit, credible insurance and groundwater governance to move together; otherwise each subsidy solves one constraint while deepening another.
+- **Fact/evidence:** The 2021-26 approval covered AIBP, HKKP and WDC; official June 2026 material continues the umbrella context, while PDMC has operated under RKVY since 2022-23.
+- **Analytical inference:** Distinct departments address major systems, minor works, watershed treatment and on-farm micro-irrigation.
+- **Qualification:** An umbrella label does not make funding rules or implementing ministries identical.
 
-##### 12. Study links
+#### PRELIMS TRAP
 
-- ✅ Advanced companion: `../advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`.
-- ✅ `11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md` — crop and regional path
-  dependence.
-- ✅ `12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` — price incentives affecting
-  water use.
-- ✅ `25_Climate-Economics-Green-Finance-and-Circular-Economy.md` — adaptation and climate
-  risk.
-- ✅ `27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md` — sensors, precision
-  systems, digital insurance support and agritech adoption.
-- ✅ `28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` — fertiliser, electricity,
-  irrigation, credit and insurance subsidy incidence/reform.
-- ✅ `29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md` — NMSA, extension,
-  seed, mechanisation and mission-mode adoption.
-- ✅ `30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md` — complete
-  livestock, dairy, poultry, fisheries and IFS economics.
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
+Do not continue to list PDMC as an unchanged PMKSY component after its shift.
 
-##### 2026 PYQ Integration
+#### MAINS USE
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+Date both the approval period and current component location.
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+#### MINI RECAP
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 28 | Rainfed Area Development objectives under sustainable agriculture mission | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+- Definition: PMKSY is a convergence framework for irrigation access, project completion, command management and watershed development.
+- Evidence anchor: The 2021-26 approval covered AIBP, HKKP and WDC; official June 2026 material continues the umbrella context, while PDMC has operated under RKVY since 2022-23.
+- Limitation: An umbrella label does not make funding rules or implementing ministries identical.
 
-###### What this owner must now support
+### CORE SESSION 18 — AIBP and Har Khet Ko Pani
 
-- Rainfed Area Development objectives under sustainable agriculture mission
+#### VISUAL FIRST
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+```text
+AIBP -> COMPLETE MAJOR / MEDIUM PROJECTS
+HKKP -> CADWM + SMI + RRR + BOUNDED GW WORKS
+```
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-##### Recent PYQ Integration (2024-2025)
+#### DEFINITION
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+AIBP supports completion of major and medium irrigation projects; HKKP expands and improves field access through specified sub-components.
 
-- **Years represented:** 2024, 2025
-- **Paper(s):** GS-III
-- **Routed question demands:** 2
+> **ANSWER-GRABBING LINE:** Project funding and last-mile access solve different gaps.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-III | 13 | Challenges of the Indian irrigation system and government measures | State measures · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2025 | GS-III | 13 | Factors for depleting groundwater and government steps | Examine · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**MUST-WRITE KEYWORDS:** aibp, khet, pani, project, funding, last-mile, access, solve, different, gaps.
 
-###### What this owner must now support
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Challenges of the Indian irrigation system and government measures
-- Factors for depleting groundwater and government steps
+- **Claim:** Project funding and last-mile access solve different gaps.
+- **Named evidence:** Official 2021-26 PMKSY design lists CADWM, surface minor irrigation and repair, renovation and restoration under HKKP, with groundwater work bounded by approvals.
+- **Analysis:** Completion reduces sunk-project delay while HKKP addresses distribution and local systems.
+- **Qualification / demand link:** New groundwater supply is inappropriate in over-exploited aquifers.
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+#### EVIDENCE AND INFERENCE
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+- **Fact/evidence:** Official 2021-26 PMKSY design lists CADWM, surface minor irrigation and repair, renovation and restoration under HKKP, with groundwater work bounded by approvals.
+- **Analytical inference:** Completion reduces sunk-project delay while HKKP addresses distribution and local systems.
+- **Qualification:** New groundwater supply is inappropriate in over-exploited aquifers.
 
-##### Historical PYQ Integration (2018-2023)
+#### PRELIMS TRAP
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+Do not merge AIBP with micro-irrigation subsidy.
 
-- **Years represented:** 2018, 2019, 2020, 2021, 2022
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 19
+#### MAINS USE
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 8 | Sikkim Organic State ecological and economic benefits | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2018 | Prelims GS-I | 59 | Conservation Agriculture practices minimum tillage and crop rotations | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | GS-III | 3 | Integrated Farming System role in sustaining agricultural production | Discuss · 10 marks · 150 words | Cross-routed to sustainable-input and crop-livestock integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-III | 4 | National Watershed Project impact on water-stressed area agriculture | Elaborate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | Prelims GS-I | 39 | Carbofuran phorate triazophos chemical use in agriculture | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | GS-III | 8 | Jal Shakti Abhiyan features for water conservation and security | What are · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 14 | Measures to improve water storage and irrigation under depletion | Suggest · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | Prelims GS-I | 59 | District Central Cooperative Banks agricultural credit delivery | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 66 | Kisan Credit Card scheme short-term credit eligible purposes | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 80 | Biochar uses in farming soil microorganisms and water retention | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 83 | Zero tillage benefits for wheat paddy and carbon sequestration | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 89 | Sugarcane cultivation bud chip settlings and tissue culture | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 90 | Eco-friendly agriculture practices crop diversification tensiometer | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 91 | Fertigation advantages alkalinity nutrient availability leaching reduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 94 | Chemical fertilizers ammonia source sulphur input and pricing | Objective question; official key unavailable locally | Cross-routed to input fundamentals and fertiliser pricing/subsidy owner; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | GS-III | 4 | Micro-irrigation role and extent in solving India's water crisis | How · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | Prelims GS-I | 51 | Permaculture farming versus conventional chemical farming | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 59 | Climate-Smart Agriculture CCAFS CGIAR ICRISAT India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | GS-III | 14 | Integrated Farming System benefits for small and marginal farmers | Explain · 15 marks · 250 words | Cross-routed to sustainable-input and smallholder animal-integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+Map each component to its scale and implementing department.
 
-###### What this owner must now support
+#### MINI RECAP
 
-- Sikkim Organic State ecological and economic benefits
-- Conservation Agriculture practices minimum tillage and crop rotations
-- Integrated Farming System role in sustaining agricultural production
-- National Watershed Project impact on water-stressed area agriculture
-- Carbofuran phorate triazophos chemical use in agriculture
-- Jal Shakti Abhiyan features for water conservation and security
-- Measures to improve water storage and irrigation under depletion
-- District Central Cooperative Banks agricultural credit delivery
-- Kisan Credit Card scheme short-term credit eligible purposes
-- Biochar uses in farming soil microorganisms and water retention
-- Zero tillage benefits for wheat paddy and carbon sequestration
-- Sugarcane cultivation bud chip settlings and tissue culture
-- Eco-friendly agriculture practices crop diversification tensiometer
-- Fertigation advantages alkalinity nutrient availability leaching reduction
-- Chemical fertilizers ammonia source sulphur input and pricing
-- Micro-irrigation role and extent in solving India's water crisis
-- Permaculture farming versus conventional chemical farming
-- Climate-Smart Agriculture CCAFS CGIAR ICRISAT India
-- Integrated Farming System benefits for small and marginal farmers
+- Definition: AIBP supports completion of major and medium irrigation projects; HKKP expands and improves field access through specified sub-components.
+- Evidence anchor: Official 2021-26 PMKSY design lists CADWM, surface minor irrigation and repair, renovation and restoration under HKKP, with groundwater work bounded by approvals.
+- Limitation: New groundwater supply is inappropriate in over-exploited aquifers.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+### CORE SESSION 19 — Per Drop More Crop current location
 
-###### Semantic-completeness ownership and PYQ control
+#### VISUAL FIRST
 
-- **Official syllabus/index and owned core:** Agricultural productivity and resilience depend on water, soil, seed, nutrients, power, machinery, extension, institutional credit, insurance and risk management under agro-climatic constraints.
-- **Indispensable distinction and prerequisite taxonomy:** Irrigation potential is not utilised irrigation, credit sanction is not disbursement, insurance enrolment is not claim settlement, subsidy is not resource-use efficiency, and sustainability is not low output by definition.
-- **Mechanism, implementation and evidence control:** State unit, season, beneficiary denominator and scheme status; trace input price, access, adoption, yield, income, externality and risk-sharing while separating Union design, state implementation and local water governance.
-- **✅ Verified current fact (official sources rechecked 5 September 2026):**
-  Rechecked 6 September 2026 against the listed official publisher or regulator source. The PMKSY objectives were substantively retrievable and support the convergence and efficiency anchors. The PMFBY portal was a title-only shell, so insurance amounts, enrolment and claim-performance figures are excluded. Sources: https://www.pmksy.gov.in/AboutPMKSY.aspx; https://pmfby.gov.in/
-- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
-  registration, a report, a training completion, a disposal count or a ranking
-  can support a causal argument only after authority, capacity, incentives,
-  distribution, implementation, grievance, outcome and alternative explanations
-  are tested.
-- **Canonical and cross-owner boundary:** this Economy owner teaches the
-  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
-  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
-  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
-  evidence may be routed but is not silently duplicated or re-owned.
-- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
-  standard public-administration/economy taxonomy and complete verified PYQ
-  demands were checked for absent concepts, institutions, mechanisms,
-  classifications, exceptions, comparisons, criticisms, current status,
-  answer architecture and dependent artifacts.
-- **Verified PYQ ownership, 2018-2026:** Audited ledgers route Mains demands on organic transition, integrated farming, watershed development, Jal Shakti Abhiyan, water storage, micro-irrigation, irrigation-system challenges and groundwater depletion. Objective demands cover conservation agriculture, DCCBs, KCC, biochar, zero tillage, fertigation, crop-protection chemicals and the provisionally keyed 2026 Rainfed Area Development question; no answer letter is inferred.
+```text
+MICRO-IRRIGATION SUPPORT -> PDMC
+PMKSY UNTIL 2021 -> RKVY FROM 2022-23
+```
 
-### ECONOMY DEEP-REVIEW CORE CONTROL
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
 
-- **Must remember:** Agricultural productivity and resilience depend on water, soil, seed, nutrients, power, machinery, extension, institutional credit, insurance and risk management under agro-climatic constraints.
-- **Close distinction:** Irrigation potential is not utilised irrigation, credit sanction is not disbursement, insurance enrolment is not claim settlement, subsidy is not resource-use efficiency, and sustainability is not low output by definition.
-- **Formula / status / evidence / causal limit:** State unit, season, beneficiary denominator and scheme status; trace input price, access, adoption, yield, income, externality and risk-sharing while separating Union design, state implementation and local water governance.
+#### DEFINITION
+
+Per Drop More Crop is the named micro-irrigation support component now implemented under Rashtriya Krishi Vikas Yojana.
+
+> **ANSWER-GRABBING LINE:** The policy objective continues, but the administrative umbrella changed.
+
+**MUST-WRITE KEYWORDS:** drop, more, crop, current, location, policy, objective, continues, administrative, umbrella, changed.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** The policy objective continues, but the administrative umbrella changed.
+- **Named evidence:** Official Agriculture Ministry material places PDMC under RKVY from 2022-23.
+- **Analysis:** State plans support drip, sprinkler and associated on-farm systems subject to guidelines.
+- **Qualification / demand link:** Subsidised installation does not guarantee maintenance or basin saving.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Official Agriculture Ministry material places PDMC under RKVY from 2022-23.
+- **Analytical inference:** State plans support drip, sprinkler and associated on-farm systems subject to guidelines.
+- **Qualification:** Subsidised installation does not guarantee maintenance or basin saving.
+
+#### PRELIMS TRAP
+
+Do not use old PMKSY placement as the current administrative fact.
+
+#### MAINS USE
+
+State both the objective and dated scheme location.
+
+#### MINI RECAP
+
+- Definition: Per Drop More Crop is the named micro-irrigation support component now implemented under Rashtriya Krishi Vikas Yojana.
+- Evidence anchor: Official Agriculture Ministry material places PDMC under RKVY from 2022-23.
+- Limitation: Subsidised installation does not guarantee maintenance or basin saving.
+
+### CORE SESSION 20 — Seed multiplication chain
+
+#### VISUAL FIRST
+
+```text
+NUCLEUS -> BREEDER (GOLDEN YELLOW)
+ -> FOUNDATION (WHITE) -> CERTIFIED (BLUE) -> FARMER
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+The formal seed chain multiplies genetically identified material through breeder, foundation and certified classes.
+
+> **ANSWER-GRABBING LINE:** Each class preserves identity and quality while expanding volume for cultivation.
+
+**MUST-WRITE KEYWORDS:** seed, multiplication, chain, each, class, preserves, identity, quality, while, expanding, volume.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Each class preserves identity and quality while expanding volume for cultivation.
+- **Named evidence:** Seeds Rules, 1968 define foundation and certified seed; official certification practice uses golden-yellow, white and blue tags respectively.
+- **Analysis:** A controlled multiplication chain supports varietal purity and traceability.
+- **Qualification / demand link:** Quality can deteriorate through admixture, poor storage or unauthorised multiplication.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Seeds Rules, 1968 define foundation and certified seed; official certification practice uses golden-yellow, white and blue tags respectively.
+- **Analytical inference:** A controlled multiplication chain supports varietal purity and traceability.
+- **Qualification:** Quality can deteriorate through admixture, poor storage or unauthorised multiplication.
+
+#### PRELIMS TRAP
+
+Do not call certified seed the direct progeny of nucleus seed in the normal chain.
+
+#### MAINS USE
+
+Use pedigree, supervising institution and tag colour carefully.
+
+#### MINI RECAP
+
+- Definition: The formal seed chain multiplies genetically identified material through breeder, foundation and certified classes.
+- Evidence anchor: Seeds Rules, 1968 define foundation and certified seed; official certification practice uses golden-yellow, white and blue tags respectively.
+- Limitation: Quality can deteriorate through admixture, poor storage or unauthorised multiplication.
+
+### CORE SESSION 21 — Formal and informal seed systems
+
+#### VISUAL FIRST
+
+```text
+FORMAL: BREEDING -> CERTIFICATION / LABEL -> SALE
+INFORMAL: FARM-SAVED -> EXCHANGE / LOCAL MARKET
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Formal systems use recognised varieties, quality control and labelled sale; informal systems rely on farm saving, exchange and local adaptation.
+
+> **ANSWER-GRABBING LINE:** Seed security depends on both quality assurance and access to diverse, locally suitable material.
+
+**MUST-WRITE KEYWORDS:** formal, informal, seed, systems, security, depends, both, quality, assurance, access, diverse.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Seed security depends on both quality assurance and access to diverse, locally suitable material.
+- **Named evidence:** Public institutions, private companies, cooperatives and farmer networks supply different seed channels.
+- **Analysis:** Formal seed can spread improved traits, while local systems preserve access and adaptation.
+- **Qualification / demand link:** Informal seed may lack verified germination, while formal markets may be costly or narrow diversity.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Public institutions, private companies, cooperatives and farmer networks supply different seed channels.
+- **Analytical inference:** Formal seed can spread improved traits, while local systems preserve access and adaptation.
+- **Qualification:** Informal seed may lack verified germination, while formal markets may be costly or narrow diversity.
+
+#### PRELIMS TRAP
+
+Do not equate informal seed with illegal or necessarily inferior seed.
+
+#### MAINS USE
+
+Balance quality, affordability, diversity and farmer choice.
+
+#### MINI RECAP
+
+- Definition: Formal systems use recognised varieties, quality control and labelled sale; informal systems rely on farm saving, exchange and local adaptation.
+- Evidence anchor: Public institutions, private companies, cooperatives and farmer networks supply different seed channels.
+- Limitation: Informal seed may lack verified germination, while formal markets may be costly or narrow diversity.
+
+### CORE SESSION 22 — Seed law and current Bill status
+
+#### VISUAL FIRST
+
+```text
+SEEDS ACT 1966 + SEEDS RULES 1968
+ + SEEDS CONTROL ORDER 1983
+DRAFT SEEDS BILL 2025 -> CONSULTATION, NOT ENACTED BY CUTOFF
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+The Seeds Act, 1966 and Seeds Rules, 1968 remain the core quality-regulation framework for notified seed sale.
+
+> **ANSWER-GRABBING LINE:** A draft Bill has no legal force until enacted and commenced.
+
+**MUST-WRITE KEYWORDS:** seed, current, bill, status, draft, legal, force, until, enacted, commenced.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** A draft Bill has no legal force until enacted and commenced.
+- **Named evidence:** The Agriculture Ministry circulated a draft Seeds Bill, 2025 for comments in November-December 2025; no replacement Act was identified by the 9 September 2026 cutoff.
+- **Analysis:** The draft sought updated registration, quality and accountability architecture.
+- **Qualification / demand link:** Stakeholder concerns and legislative processing can change final provisions.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The Agriculture Ministry circulated a draft Seeds Bill, 2025 for comments in November-December 2025; no replacement Act was identified by the 9 September 2026 cutoff.
+- **Analytical inference:** The draft sought updated registration, quality and accountability architecture.
+- **Qualification:** Stakeholder concerns and legislative processing can change final provisions.
+
+#### PRELIMS TRAP
+
+Do not present the 2019 or 2025 draft as current enacted law.
+
+#### MAINS USE
+
+State Act, Rules, Control Order and draft status separately.
+
+#### MINI RECAP
+
+- Definition: The Seeds Act, 1966 and Seeds Rules, 1968 remain the core quality-regulation framework for notified seed sale.
+- Evidence anchor: The Agriculture Ministry circulated a draft Seeds Bill, 2025 for comments in November-December 2025; no replacement Act was identified by the 9 September 2026 cutoff.
+- Limitation: Stakeholder concerns and legislative processing can change final provisions.
+
+### CORE SESSION 23 — Seed and planting-material diversity
+
+#### VISUAL FIRST
+
+```text
+HYBRID / VARIETY / FARM-SAVED SEED
+TISSUE CULTURE / BUD-CHIP = PROPAGATION MATERIAL ROUTES
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Seed choice includes genetic traits, duration, stress tolerance, quality and suitability, while some crops use vegetative planting material.
+
+> **ANSWER-GRABBING LINE:** Improved planting material raises attainable yield only with matching water, nutrients and management.
+
+**MUST-WRITE KEYWORDS:** seed, planting-material, diversity, improved, planting, material, raises, attainable, yield, only, with.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Improved planting material raises attainable yield only with matching water, nutrients and management.
+- **Named evidence:** Sugarcane bud-chip settlings and tissue culture are propagation techniques highlighted by the 2020 Prelims route.
+- **Analysis:** Rapid multiplication can spread uniform, disease-screened material where protocols work.
+- **Qualification / demand link:** Narrow genetic dependence and poor-quality material increase systemic vulnerability.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Sugarcane bud-chip settlings and tissue culture are propagation techniques highlighted by the 2020 Prelims route.
+- **Analytical inference:** Rapid multiplication can spread uniform, disease-screened material where protocols work.
+- **Qualification:** Narrow genetic dependence and poor-quality material increase systemic vulnerability.
+
+#### PRELIMS TRAP
+
+Do not classify tissue culture or bud chips as irrigation methods.
+
+#### MAINS USE
+
+Link seed technology to agro-climate, biosecurity and farmer cost.
+
+#### MINI RECAP
+
+- Definition: Seed choice includes genetic traits, duration, stress tolerance, quality and suitability, while some crops use vegetative planting material.
+- Evidence anchor: Sugarcane bud-chip settlings and tissue culture are propagation techniques highlighted by the 2020 Prelims route.
+- Limitation: Narrow genetic dependence and poor-quality material increase systemic vulnerability.
+
+### CORE SESSION 24 — N, P and K functions
+
+#### VISUAL FIRST
+
+```text
+N -> VEGETATIVE GROWTH / PROTEIN
+P -> ROOTS / ENERGY TRANSFER
+K -> WATER REGULATION / STRESS AND QUALITY
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Nitrogen, phosphorus and potassium are primary plant nutrients with distinct physiological roles.
+
+> **ANSWER-GRABBING LINE:** Balanced fertilisation follows crop need and soil supply rather than a fixed national ratio.
+
+**MUST-WRITE KEYWORDS:** functions, balanced, fertilisation, follows, crop, need, soil, supply, rather, than, fixed.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Balanced fertilisation follows crop need and soil supply rather than a fixed national ratio.
+- **Named evidence:** Soil testing and agronomic recommendations connect nutrient status to dose.
+- **Analysis:** Balanced inputs can raise nutrient-use efficiency and yield stability.
+- **Qualification / demand link:** Deficiency, excess and nutrient interaction vary by soil, crop and timing.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Soil testing and agronomic recommendations connect nutrient status to dose.
+- **Analytical inference:** Balanced inputs can raise nutrient-use efficiency and yield stability.
+- **Qualification:** Deficiency, excess and nutrient interaction vary by soil, crop and timing.
+
+#### PRELIMS TRAP
+
+Do not say NPK are interchangeable or that urea supplies all three.
+
+#### MAINS USE
+
+Use nutrient function before discussing subsidy distortion.
+
+#### MINI RECAP
+
+- Definition: Nitrogen, phosphorus and potassium are primary plant nutrients with distinct physiological roles.
+- Evidence anchor: Soil testing and agronomic recommendations connect nutrient status to dose.
+- Limitation: Deficiency, excess and nutrient interaction vary by soil, crop and timing.
+
+### CORE SESSION 25 — Nutrient imbalance
+
+#### VISUAL FIRST
+
+```text
+CHEAP N RELATIVE TO P/K/MICRONUTRIENTS
+ -> EXCESS N + DEFICIENCIES -> LOWER RESPONSE / POLLUTION
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Nutrient imbalance is a mismatch between crop-soil requirement and the quantity, proportion, timing or placement of nutrients applied.
+
+> **ANSWER-GRABBING LINE:** Subsidy incidence changes relative prices and therefore fertiliser choice.
+
+**MUST-WRITE KEYWORDS:** nutrient, imbalance, subsidy, incidence, changes, relative, prices, therefore, fertiliser, choice.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Subsidy incidence changes relative prices and therefore fertiliser choice.
+- **Named evidence:** The Economic Survey and fertiliser-policy analysis repeatedly flag imbalanced use and declining response.
+- **Analysis:** Site-specific nutrient management can reduce waste and correct hidden deficiencies.
+- **Qualification / demand link:** A national N:P:K ratio cannot prescribe every field.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The Economic Survey and fertiliser-policy analysis repeatedly flag imbalanced use and declining response.
+- **Analytical inference:** Site-specific nutrient management can reduce waste and correct hidden deficiencies.
+- **Qualification:** A national N:P:K ratio cannot prescribe every field.
+
+#### PRELIMS TRAP
+
+Do not treat more fertiliser as automatically more fertility.
+
+#### MAINS USE
+
+Connect relative prices, soil tests and application practice.
+
+#### MINI RECAP
+
+- Definition: Nutrient imbalance is a mismatch between crop-soil requirement and the quantity, proportion, timing or placement of nutrients applied.
+- Evidence anchor: The Economic Survey and fertiliser-policy analysis repeatedly flag imbalanced use and declining response.
+- Limitation: A national N:P:K ratio cannot prescribe every field.
+
+### CORE SESSION 26 — Urea control and NBS
+
+#### VISUAL FIRST
+
+```text
+UREA: GOVERNMENT-CONTROLLED MRP + SEPARATE SUBSIDY
+P&K: DECONTROLLED MRP + NBS PER KG N/P/K/S
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Urea pricing remains controlled, while phosphatic and potassic fertilisers receive nutrient-based subsidy under a separate policy.
+
+> **ANSWER-GRABBING LINE:** Different price regimes can distort the relative cost of nitrogen and other nutrients.
+
+**MUST-WRITE KEYWORDS:** urea, control, different, price, regimes, distort, relative, cost, nitrogen, other, nutrients.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Different price regimes can distort the relative cost of nitrogen and other nutrients.
+- **Named evidence:** NBS has applied to eligible P&K fertilisers since 2010; seasonal nutrient rates change and are not frozen here.
+- **Analysis:** Nutrient-linked support gives flexibility across product grades.
+- **Qualification / demand link:** Decontrolled P&K prices remain exposed to international input costs and affordability concerns.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** NBS has applied to eligible P&K fertilisers since 2010; seasonal nutrient rates change and are not frozen here.
+- **Analytical inference:** Nutrient-linked support gives flexibility across product grades.
+- **Qualification:** Decontrolled P&K prices remain exposed to international input costs and affordability concerns.
+
+#### PRELIMS TRAP
+
+Do not say urea is covered by NBS.
+
+#### MAINS USE
+
+Distinguish product MRP, nutrient subsidy and seasonal notification.
+
+#### MINI RECAP
+
+- Definition: Urea pricing remains controlled, while phosphatic and potassic fertilisers receive nutrient-based subsidy under a separate policy.
+- Evidence anchor: NBS has applied to eligible P&K fertilisers since 2010; seasonal nutrient rates change and are not frozen here.
+- Limitation: Decontrolled P&K prices remain exposed to international input costs and affordability concerns.
+
+### CORE SESSION 27 — Fertiliser DBT
+
+#### VISUAL FIRST
+
+```text
+RETAIL PoS SALE TO FARMER -> TRANSACTION RECORD
+ -> GOVERNMENT SUBSIDY RELEASE TO COMPANY
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Fertiliser DBT links subsidy payment to authenticated retail sale but pays the subsidy to manufacturers or importers, not as cash to the farmer.
+
+> **ANSWER-GRABBING LINE:** The beneficiary receives a subsidised retail price rather than a bank transfer.
+
+**MUST-WRITE KEYWORDS:** fertiliser, beneficiary, receives, subsidised, retail, price, rather, than, bank, transfer.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** The beneficiary receives a subsidised retail price rather than a bank transfer.
+- **Named evidence:** Department of Fertilizers and PIB material describe PoS-based sale validation before company reimbursement.
+- **Analysis:** Transaction data can reduce ghost movement and improve supply monitoring.
+- **Qualification / demand link:** Identity, connectivity, device and dealer-stock problems can still affect access.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Department of Fertilizers and PIB material describe PoS-based sale validation before company reimbursement.
+- **Analytical inference:** Transaction data can reduce ghost movement and improve supply monitoring.
+- **Qualification:** Identity, connectivity, device and dealer-stock problems can still affect access.
+
+#### PRELIMS TRAP
+
+Do not confuse fertiliser DBT with PM-KISAN cash transfer.
+
+#### MAINS USE
+
+Follow the money from retail sale to company subsidy.
+
+#### MINI RECAP
+
+- Definition: Fertiliser DBT links subsidy payment to authenticated retail sale but pays the subsidy to manufacturers or importers, not as cash to the farmer.
+- Evidence anchor: Department of Fertilizers and PIB material describe PoS-based sale validation before company reimbursement.
+- Limitation: Identity, connectivity, device and dealer-stock problems can still affect access.
+
+### CORE SESSION 28 — Soil Health Card and INM
+
+#### VISUAL FIRST
+
+```text
+SOIL SAMPLE -> TEST -> CARD / RECOMMENDATION
+ -> MINERAL + ORGANIC + BIOLOGICAL SOURCES -> MONITOR
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+A Soil Health Card reports measured soil parameters and crop-oriented nutrient recommendations; integrated nutrient management combines appropriate nutrient sources.
+
+> **ANSWER-GRABBING LINE:** Information improves decisions only when tests are reliable and recommended inputs are accessible.
+
+**MUST-WRITE KEYWORDS:** soil, health, card, information, improves, decisions, only, when, tests, reliable, recommended.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Information improves decisions only when tests are reliable and recommended inputs are accessible.
+- **Named evidence:** The Soil Health Card programme operates under the Soil Health and Fertility component of RKVY from 2022-23.
+- **Analysis:** Targeted application can improve nutrient balance and reduce avoidable cost.
+- **Qualification / demand link:** Sampling density, laboratory quality and farmer interpretation limit precision.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The Soil Health Card programme operates under the Soil Health and Fertility component of RKVY from 2022-23.
+- **Analytical inference:** Targeted application can improve nutrient balance and reduce avoidable cost.
+- **Qualification:** Sampling density, laboratory quality and farmer interpretation limit precision.
+
+#### PRELIMS TRAP
+
+Do not treat one card as a permanent soil diagnosis.
+
+#### MAINS USE
+
+Date the sample and combine tests with local agronomy.
+
+#### MINI RECAP
+
+- Definition: A Soil Health Card reports measured soil parameters and crop-oriented nutrient recommendations; integrated nutrient management combines appropriate nutrient sources.
+- Evidence anchor: The Soil Health Card programme operates under the Soil Health and Fertility component of RKVY from 2022-23.
+- Limitation: Sampling density, laboratory quality and farmer interpretation limit precision.
+
+### CORE SESSION 29 — Biochar and soil amendments
+
+#### VISUAL FIRST
+
+```text
+BIOMASS -> CONTROLLED PYROLYSIS -> BIOCHAR
+ -> SOIL PHYSICAL / CHEMICAL / BIOLOGICAL EFFECTS
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Biochar is carbon-rich material produced by heating biomass under limited oxygen and used as a soil amendment in suitable contexts.
+
+> **ANSWER-GRABBING LINE:** Its agronomic and carbon effects depend on feedstock, process, soil, crop and dose.
+
+**MUST-WRITE KEYWORDS:** biochar, soil, amendments, agronomic, carbon, effects, depend, feedstock, process, crop, dose.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Its agronomic and carbon effects depend on feedstock, process, soil, crop and dose.
+- **Named evidence:** The 2020 Prelims route links biochar with soil microorganisms and water-retention questions.
+- **Analysis:** Stable carbon and porosity can alter water and nutrient dynamics.
+- **Qualification / demand link:** Poor-quality feedstock, contaminants or unsuitable dose can harm soils.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The 2020 Prelims route links biochar with soil microorganisms and water-retention questions.
+- **Analytical inference:** Stable carbon and porosity can alter water and nutrient dynamics.
+- **Qualification:** Poor-quality feedstock, contaminants or unsuitable dose can harm soils.
+
+#### PRELIMS TRAP
+
+Do not call all burnt residue biochar or promise universal yield gain.
+
+#### MAINS USE
+
+Present biochar as context-specific amendment and carbon option.
+
+#### MINI RECAP
+
+- Definition: Biochar is carbon-rich material produced by heating biomass under limited oxygen and used as a soil amendment in suitable contexts.
+- Evidence anchor: The 2020 Prelims route links biochar with soil microorganisms and water-retention questions.
+- Limitation: Poor-quality feedstock, contaminants or unsuitable dose can harm soils.
+
+### CORE SESSION 30 — Nano-fertiliser evidence discipline
+
+#### VISUAL FIRST
+
+```text
+REGULATORY NOTIFICATION / MARKETED PRODUCT
+ != UNIVERSAL AGRONOMIC REPLACEMENT
+USE -> CROP / SOIL / DOSE / TRIAL EVIDENCE
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Nano-fertilisers deliver nutrients in nano-scale formulations, often through foliar application.
+
+> **ANSWER-GRABBING LINE:** Product notification and sale do not prove universal replacement of conventional fertiliser.
+
+**MUST-WRITE KEYWORDS:** nano-fertiliser, evidence, discipline, product, notification, sale, prove, universal, replacement, conventional, fertiliser.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Product notification and sale do not prove universal replacement of conventional fertiliser.
+- **Named evidence:** Official 2025-26 parliamentary and ICAR material supports crop- and protocol-specific use and rejects blanket replacement claims for nano urea.
+- **Analysis:** Targeted foliar supplementation may improve efficiency in some contexts.
+- **Qualification / demand link:** Multi-location evidence includes inconsistent yield and quality outcomes when conventional nitrogen is sharply reduced.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Official 2025-26 parliamentary and ICAR material supports crop- and protocol-specific use and rejects blanket replacement claims for nano urea.
+- **Analytical inference:** Targeted foliar supplementation may improve efficiency in some contexts.
+- **Qualification:** Multi-location evidence includes inconsistent yield and quality outcomes when conventional nitrogen is sharply reduced.
+
+#### PRELIMS TRAP
+
+Do not claim one bottle universally replaces a fixed bag quantity.
+
+#### MAINS USE
+
+Use approved recommendation and independent crop-soil evidence.
+
+#### MINI RECAP
+
+- Definition: Nano-fertilisers deliver nutrients in nano-scale formulations, often through foliar application.
+- Evidence anchor: Official 2025-26 parliamentary and ICAR material supports crop- and protocol-specific use and rejects blanket replacement claims for nano urea.
+- Limitation: Multi-location evidence includes inconsistent yield and quality outcomes when conventional nitrogen is sharply reduced.
+
+### CORE SESSION 31 — Pesticides and IPM
+
+#### VISUAL FIRST
+
+```text
+PREVENTION -> SURVEILLANCE -> THRESHOLD
+ -> BIOLOGICAL / CULTURAL / MECHANICAL
+ -> SELECTIVE CHEMICAL LAST RESORT
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Integrated Pest Management combines compatible methods and uses pesticides judiciously according to surveillance and economic thresholds.
+
+> **ANSWER-GRABBING LINE:** Pest control should minimise total crop, health and ecological damage rather than maximise chemical use.
+
+**MUST-WRITE KEYWORDS:** pesticides, pest, control, should, minimise, total, crop, health, ecological, damage, rather.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Pest control should minimise total crop, health and ecological damage rather than maximise chemical use.
+- **Named evidence:** ICAR-NCIPM guidance and the Insecticides Act, 1968 framework anchor pest-management analysis.
+- **Analysis:** Rotation, resistant varieties, natural enemies and precise application can slow resistance.
+- **Qualification / demand link:** Weak diagnosis or counterfeit products can worsen residues and pest resurgence.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** ICAR-NCIPM guidance and the Insecticides Act, 1968 framework anchor pest-management analysis.
+- **Analytical inference:** Rotation, resistant varieties, natural enemies and precise application can slow resistance.
+- **Qualification:** Weak diagnosis or counterfeit products can worsen residues and pest resurgence.
+
+#### PRELIMS TRAP
+
+Carbofuran, phorate and triazophos are crop-protection chemicals, not fertilisers.
+
+#### MAINS USE
+
+Use prevention, monitoring, threshold and targeted control sequence.
+
+#### MINI RECAP
+
+- Definition: Integrated Pest Management combines compatible methods and uses pesticides judiciously according to surveillance and economic thresholds.
+- Evidence anchor: ICAR-NCIPM guidance and the Insecticides Act, 1968 framework anchor pest-management analysis.
+- Limitation: Weak diagnosis or counterfeit products can worsen residues and pest resurgence.
+
+### CORE SESSION 32 — Mechanisation
+
+#### VISUAL FIRST
+
+```text
+POWER SOURCE + MACHINE + OPERATOR + TIMING
+ -> LABOUR / SPEED / PRECISION / COST EFFECT
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Farm mechanisation substitutes or complements labour and animal power through machinery and equipment.
+
+> **ANSWER-GRABBING LINE:** The appropriate machine depends on farm size, operation, timing, terrain and utilisation.
+
+**MUST-WRITE KEYWORDS:** mechanisation, appropriate, machine, depends, farm, size, operation, timing, terrain, utilisation.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** The appropriate machine depends on farm size, operation, timing, terrain and utilisation.
+- **Named evidence:** Sub-Mission on Agricultural Mechanization and State programmes support equipment access and demonstrations.
+- **Analysis:** Timely sowing, precision and reduced drudgery can raise productivity.
+- **Qualification / demand link:** High capital cost, fragmented land and idle capacity can make ownership inefficient.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Sub-Mission on Agricultural Mechanization and State programmes support equipment access and demonstrations.
+- **Analytical inference:** Timely sowing, precision and reduced drudgery can raise productivity.
+- **Qualification:** High capital cost, fragmented land and idle capacity can make ownership inefficient.
+
+#### PRELIMS TRAP
+
+Do not equate mechanisation with tractors alone or inevitable labour displacement.
+
+#### MAINS USE
+
+Assess operation-specific cost and employment effects.
+
+#### MINI RECAP
+
+- Definition: Farm mechanisation substitutes or complements labour and animal power through machinery and equipment.
+- Evidence anchor: Sub-Mission on Agricultural Mechanization and State programmes support equipment access and demonstrations.
+- Limitation: High capital cost, fragmented land and idle capacity can make ownership inefficient.
+
+### CORE SESSION 33 — Custom hiring centres
+
+#### VISUAL FIRST
+
+```text
+SHARED MACHINE POOL -> RENTAL BY HOUR / ACRE
+ -> SMALL FARM ACCESS -> HIGHER UTILISATION
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+A Custom Hiring Centre provides machinery services without requiring each farmer to own the asset.
+
+> **ANSWER-GRABBING LINE:** Service models can make mechanisation scale-neutral when scheduling and maintenance work.
+
+**MUST-WRITE KEYWORDS:** custom, hiring, centres, service, models, make, mechanisation, scale-neutral, when, scheduling, maintenance.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Service models can make mechanisation scale-neutral when scheduling and maintenance work.
+- **Named evidence:** Agriculture Ministry mechanisation programmes promote CHCs and farm-machinery banks.
+- **Analysis:** Shared ownership or rental spreads fixed cost across users.
+- **Qualification / demand link:** Peak-season congestion, distance and operator shortages may exclude small farmers.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Agriculture Ministry mechanisation programmes promote CHCs and farm-machinery banks.
+- **Analytical inference:** Shared ownership or rental spreads fixed cost across users.
+- **Qualification:** Peak-season congestion, distance and operator shortages may exclude small farmers.
+
+#### PRELIMS TRAP
+
+Do not count a sanctioned centre as timely service delivery.
+
+#### MAINS USE
+
+Measure utilisation, downtime, pricing and access.
+
+#### MINI RECAP
+
+- Definition: A Custom Hiring Centre provides machinery services without requiring each farmer to own the asset.
+- Evidence anchor: Agriculture Ministry mechanisation programmes promote CHCs and farm-machinery banks.
+- Limitation: Peak-season congestion, distance and operator shortages may exclude small farmers.
+
+### CORE SESSION 34 — Credit need and sources
+
+#### VISUAL FIRST
+
+```text
+PRE-SOWING COST -> CREDIT -> INPUT PURCHASE
+ -> HARVEST / SALE -> REPAYMENT
+SHOCK -> ROLLOVER / DISTRESS RISK
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Farm credit bridges the timing gap between cultivation expenditure and uncertain harvest revenue.
+
+> **ANSWER-GRABBING LINE:** Credit solves liquidity, not production risk or profitability by itself.
+
+**MUST-WRITE KEYWORDS:** credit, need, sources, solves, liquidity, production, risk, profitability, itself.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Credit solves liquidity, not production risk or profitability by itself.
+- **Named evidence:** Institutional sources include banks, RRBs and cooperatives; non-institutional sources include moneylenders, traders, landlords and relatives.
+- **Analysis:** Timely formal credit can reduce tied sale and high-cost borrowing.
+- **Qualification / demand link:** Documentation, tenancy and transaction costs can exclude vulnerable cultivators.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Institutional sources include banks, RRBs and cooperatives; non-institutional sources include moneylenders, traders, landlords and relatives.
+- **Analytical inference:** Timely formal credit can reduce tied sale and high-cost borrowing.
+- **Qualification:** Documentation, tenancy and transaction costs can exclude vulnerable cultivators.
+
+#### PRELIMS TRAP
+
+Do not treat loan sanction as disbursement or productive use.
+
+#### MAINS USE
+
+Trace amount, timing, purpose, cost and repayment source.
+
+#### MINI RECAP
+
+- Definition: Farm credit bridges the timing gap between cultivation expenditure and uncertain harvest revenue.
+- Evidence anchor: Institutional sources include banks, RRBs and cooperatives; non-institutional sources include moneylenders, traders, landlords and relatives.
+- Limitation: Documentation, tenancy and transaction costs can exclude vulnerable cultivators.
+
+### CORE SESSION 35 — Commercial banks, RRBs and cooperatives
+
+#### VISUAL FIRST
+
+```text
+COMMERCIAL BANK / RRB / COOPERATIVE NETWORK
+ -> BRANCH / PACS-DCCB-StCB CHANNEL -> FARM BORROWER
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+India's agricultural-credit architecture combines commercial banks, Regional Rural Banks and short-term cooperative institutions.
+
+> **ANSWER-GRABBING LINE:** Institutional diversity expands reach but creates differences in governance, technology and balance-sheet strength.
+
+**MUST-WRITE KEYWORDS:** commercial, banks, rrbs, cooperatives, institutional, diversity, expands, reach, creates, differences, governance.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Institutional diversity expands reach but creates differences in governance, technology and balance-sheet strength.
+- **Named evidence:** PACS, District Central Cooperative Banks and State Cooperative Banks form the traditional short-term cooperative chain; RRBs focus on rural priority sectors.
+- **Analysis:** Local knowledge can improve borrower access and monitoring.
+- **Qualification / demand link:** Weak governance, regional imbalance and land-record dependence persist.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** PACS, District Central Cooperative Banks and State Cooperative Banks form the traditional short-term cooperative chain; RRBs focus on rural priority sectors.
+- **Analytical inference:** Local knowledge can improve borrower access and monitoring.
+- **Qualification:** Weak governance, regional imbalance and land-record dependence persist.
+
+#### PRELIMS TRAP
+
+Do not call DCCBs RBI subsidiaries or PACS commercial banks.
+
+#### MAINS USE
+
+Map legal form, funding, regulation and customer interface.
+
+#### MINI RECAP
+
+- Definition: India's agricultural-credit architecture combines commercial banks, Regional Rural Banks and short-term cooperative institutions.
+- Evidence anchor: PACS, District Central Cooperative Banks and State Cooperative Banks form the traditional short-term cooperative chain; RRBs focus on rural priority sectors.
+- Limitation: Weak governance, regional imbalance and land-record dependence persist.
+
+### CORE SESSION 36 — NABARD role
+
+#### VISUAL FIRST
+
+```text
+RBI / GOVERNMENT POLICY -> NABARD REFINANCE / DEVELOPMENT
+ -> RRB / COOPERATIVE / BANK CHANNEL -> RURAL ASSET
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+NABARD is the apex development financial institution for agriculture and rural development, providing refinance, development support and specified supervisory functions.
+
+> **ANSWER-GRABBING LINE:** NABARD strengthens rural finance architecture but is not the universal retail KCC lender.
+
+**MUST-WRITE KEYWORDS:** nabard, role, strengthens, rural, finance, architecture, universal, retail, lender.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** NABARD strengthens rural finance architecture but is not the universal retail KCC lender.
+- **Named evidence:** NABARD Act, refinance operations and rural infrastructure funds provide the institutional anchor.
+- **Analysis:** Refinance can lengthen resources and support underserved sectors.
+- **Qualification / demand link:** Ultimate credit quality depends on lending institutions and borrower projects.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** NABARD Act, refinance operations and rural infrastructure funds provide the institutional anchor.
+- **Analytical inference:** Refinance can lengthen resources and support underserved sectors.
+- **Qualification:** Ultimate credit quality depends on lending institutions and borrower projects.
+
+#### PRELIMS TRAP
+
+Do not confuse NABARD, RBI regulation and bank ownership.
+
+#### MAINS USE
+
+Separate refinance, supervision, development and direct lending.
+
+#### MINI RECAP
+
+- Definition: NABARD is the apex development financial institution for agriculture and rural development, providing refinance, development support and specified supervisory functions.
+- Evidence anchor: NABARD Act, refinance operations and rural infrastructure funds provide the institutional anchor.
+- Limitation: Ultimate credit quality depends on lending institutions and borrower projects.
+
+### CORE SESSION 37 — Priority-sector agriculture target
+
+#### VISUAL FIRST
+
+```text
+BANK ANBC / CEOBSE BASE -> AGRICULTURE 18%
+ -> NON-CORPORATE FARMERS 14% -> SMF 10%
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Priority-sector targets require specified banks to direct a share of adjusted credit exposure to eligible sectors.
+
+> **ANSWER-GRABBING LINE:** A target governs portfolio classification, not an individual farmer's entitlement to a loan.
+
+**MUST-WRITE KEYWORDS:** priority-sector, agriculture, target, governs, portfolio, classification, individual, farmer's, entitlement, loan.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** A target governs portfolio classification, not an individual farmer's entitlement to a loan.
+- **Named evidence:** RBI's 2025 PSL Directions, updated 7 August 2026, prescribe 18% for agriculture, within it 14% for non-corporate farmers and 10% for small and marginal farmers for applicable banks.
+- **Analysis:** Sub-targets can focus credit on underserved producers.
+- **Qualification / demand link:** Classification incentives may encourage target-chasing without resolving appraisal or access barriers.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** RBI's 2025 PSL Directions, updated 7 August 2026, prescribe 18% for agriculture, within it 14% for non-corporate farmers and 10% for small and marginal farmers for applicable banks.
+- **Analytical inference:** Sub-targets can focus credit on underserved producers.
+- **Qualification:** Classification incentives may encourage target-chasing without resolving appraisal or access barriers.
+
+#### PRELIMS TRAP
+
+Do not apply one bank-category target blindly to every institution.
+
+#### MAINS USE
+
+Date the Direction and state ANBC/CEOBSE denominator.
+
+#### MINI RECAP
+
+- Definition: Priority-sector targets require specified banks to direct a share of adjusted credit exposure to eligible sectors.
+- Evidence anchor: RBI's 2025 PSL Directions, updated 7 August 2026, prescribe 18% for agriculture, within it 14% for non-corporate farmers and 10% for small and marginal farmers for applicable banks.
+- Limitation: Classification incentives may encourage target-chasing without resolving appraisal or access barriers.
+
+### CORE SESSION 38 — Kisan Credit Card
+
+#### VISUAL FIRST
+
+```text
+CROP / ALLIED WORKING-CAPITAL ASSESSMENT
+ -> REVOLVING KCC LIMIT -> DRAWAL -> HARVEST REPAYMENT
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Kisan Credit Card is a flexible institutional-credit mechanism for crop production and eligible allied working-capital needs.
+
+> **ANSWER-GRABBING LINE:** KCC is a delivery product; concessional interest depends on the separate MISS terms.
+
+**MUST-WRITE KEYWORDS:** kisan, credit, card, delivery, product, concessional, interest, depends, separate, miss, terms.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** KCC is a delivery product; concessional interest depends on the separate MISS terms.
+- **Named evidence:** Introduced in 1998, KCC is issued through commercial banks, RRBs and cooperatives and can cover eligible farmers, including group arrangements subject to bank rules.
+- **Analysis:** Revolving access reduces repeated seasonal applications.
+- **Qualification / demand link:** Land records, tenancy proof, bank access and repayment stress can exclude cultivators.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Introduced in 1998, KCC is issued through commercial banks, RRBs and cooperatives and can cover eligible farmers, including group arrangements subject to bank rules.
+- **Analytical inference:** Revolving access reduces repeated seasonal applications.
+- **Qualification:** Land records, tenancy proof, bank access and repayment stress can exclude cultivators.
+
+#### PRELIMS TRAP
+
+Do not describe KCC as a grant or insurance policy.
+
+#### MAINS USE
+
+Separate sanctioned limit, drawal, interest benefit and repayment.
+
+#### MINI RECAP
+
+- Definition: Kisan Credit Card is a flexible institutional-credit mechanism for crop production and eligible allied working-capital needs.
+- Evidence anchor: Introduced in 1998, KCC is issued through commercial banks, RRBs and cooperatives and can cover eligible farmers, including group arrangements subject to bank rules.
+- Limitation: Land records, tenancy proof, bank access and repayment stress can exclude cultivators.
+
+### CORE SESSION 39 — MISS and current KCC limits
+
+#### VISUAL FIRST
+
+```text
+BUDGET 2025-26: OVERALL KCC LIMIT ANNOUNCED Rs 5 LAKH
+MISS 2025-26: 7% UP TO Rs 3 LAKH -> 3% PRI -> 4% EFFECTIVE
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Modified Interest Subvention Scheme lowers eligible short-term KCC borrowing cost through bank subvention and prompt-repayment incentive.
+
+> **ANSWER-GRABBING LINE:** The overall KCC ceiling announcement and the dated concessional MISS slab are not the same threshold.
+
+**MUST-WRITE KEYWORDS:** miss, current, limits, overall, ceiling, announcement, dated, concessional, slab, same, threshold.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** The overall KCC ceiling announcement and the dated concessional MISS slab are not the same threshold.
+- **Named evidence:** The Cabinet's FY2025-26 continuation retained 7% short-term loans up to Rs 3 lakh and 3% prompt-repayment incentive; Budget 2025-26 announced an overall KCC limit increase to Rs 5 lakh.
+- **Analysis:** Prompt repayment aligns subsidy with credit discipline.
+- **Qualification / demand link:** A borrower above the concessional slab or in default does not automatically receive the 4% rate.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The Cabinet's FY2025-26 continuation retained 7% short-term loans up to Rs 3 lakh and 3% prompt-repayment incentive; Budget 2025-26 announced an overall KCC limit increase to Rs 5 lakh.
+- **Analytical inference:** Prompt repayment aligns subsidy with credit discipline.
+- **Qualification:** A borrower above the concessional slab or in default does not automatically receive the 4% rate.
+
+#### PRELIMS TRAP
+
+Do not apply the Rs 5 lakh announcement to every rupee as a 4% MISS loan.
+
+#### MAINS USE
+
+Quote year, product ceiling, subsidised slab and repayment condition.
+
+#### MINI RECAP
+
+- Definition: Modified Interest Subvention Scheme lowers eligible short-term KCC borrowing cost through bank subvention and prompt-repayment incentive.
+- Evidence anchor: The Cabinet's FY2025-26 continuation retained 7% short-term loans up to Rs 3 lakh and 3% prompt-repayment incentive; Budget 2025-26 announced an overall KCC limit increase to Rs 5 lakh.
+- Limitation: A borrower above the concessional slab or in default does not automatically receive the 4% rate.
+
+### CORE SESSION 40 — Tenant, JLG and SHG inclusion
+
+#### VISUAL FIRST
+
+```text
+TENANT / SHARECROPPER WITHOUT CLEAR TITLE
+ -> GROUP GUARANTEE / ALTERNATIVE RECORD
+ -> CREDIT ACCESS OR EXCLUSION
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Joint Liability Groups and Self-Help Groups can support group-based credit where individual collateral or title is weak.
+
+> **ANSWER-GRABBING LINE:** Inclusive product design cannot substitute for credible cultivation evidence and bank incentives.
+
+**MUST-WRITE KEYWORDS:** tenant, inclusion, inclusive, product, design, cannot, substitute, credible, cultivation, evidence, bank.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Inclusive product design cannot substitute for credible cultivation evidence and bank incentives.
+- **Named evidence:** RBI PSL definitions recognise SHGs and JLGs of individual farmers within non-corporate-farmer lending when data conditions are met.
+- **Analysis:** Peer support and group liability can lower information and collateral barriers.
+- **Qualification / demand link:** Informal tenancy, gendered land records and group failure can still exclude actual cultivators.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** RBI PSL definitions recognise SHGs and JLGs of individual farmers within non-corporate-farmer lending when data conditions are met.
+- **Analytical inference:** Peer support and group liability can lower information and collateral barriers.
+- **Qualification:** Informal tenancy, gendered land records and group failure can still exclude actual cultivators.
+
+#### PRELIMS TRAP
+
+Do not say institutional credit is legally confined to landowners.
+
+#### MAINS USE
+
+Use tenancy documentation and group models as inclusion tests.
+
+#### MINI RECAP
+
+- Definition: Joint Liability Groups and Self-Help Groups can support group-based credit where individual collateral or title is weak.
+- Evidence anchor: RBI PSL definitions recognise SHGs and JLGs of individual farmers within non-corporate-farmer lending when data conditions are met.
+- Limitation: Informal tenancy, gendered land records and group failure can still exclude actual cultivators.
+
+### CORE SESSION 41 — Insurance principles
+
+#### VISUAL FIRST
+
+```text
+PREMIUM + RISK POOL + INSURED EVENT
+ -> LOSS ASSESSMENT -> CLAIM -> INDEMNITY
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Insurance pools specified uncertain losses across insured units in return for premium.
+
+> **ANSWER-GRABBING LINE:** Insurance transfers covered risk; it does not prevent loss or guarantee income.
+
+**MUST-WRITE KEYWORDS:** insurance, principles, transfers, covered, risk, does, prevent, loss, guarantee, income.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Insurance transfers covered risk; it does not prevent loss or guarantee income.
+- **Named evidence:** PMFBY and RWBCIS are subsidised public-policy insurance schemes with defined triggers and terms.
+- **Analysis:** Pooling can protect working capital and credit continuity after a shock.
+- **Qualification / demand link:** Adverse selection, moral hazard, correlated weather and data delay complicate design.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** PMFBY and RWBCIS are subsidised public-policy insurance schemes with defined triggers and terms.
+- **Analytical inference:** Pooling can protect working capital and credit continuity after a shock.
+- **Qualification:** Adverse selection, moral hazard, correlated weather and data delay complicate design.
+
+#### PRELIMS TRAP
+
+Do not call disaster relief, credit waiver and insurance the same instrument.
+
+#### MAINS USE
+
+Define peril, unit, sum insured, trigger and indemnity.
+
+#### MINI RECAP
+
+- Definition: Insurance pools specified uncertain losses across insured units in return for premium.
+- Evidence anchor: PMFBY and RWBCIS are subsidised public-policy insurance schemes with defined triggers and terms.
+- Limitation: Adverse selection, moral hazard, correlated weather and data delay complicate design.
+
+### CORE SESSION 42 — Indemnity, yield and weather index
+
+#### VISUAL FIRST
+
+```text
+INDIVIDUAL INDEMNITY -> MEASURE FARM LOSS
+AREA-YIELD INDEX -> UNIT YIELD TRIGGER
+WEATHER INDEX -> STATION PARAMETER TRIGGER
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Indemnity insurance compensates assessed loss, while index insurance pays from an observable area or weather trigger.
+
+> **ANSWER-GRABBING LINE:** Index design reduces individual verification but creates basis risk.
+
+**MUST-WRITE KEYWORDS:** indemnity, yield, weather, index, design, reduces, individual, verification, creates, basis, risk.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Index design reduces individual verification but creates basis risk.
+- **Named evidence:** PMFBY mainly uses area-yield assessment for widespread loss; RWBCIS uses weather parameters.
+- **Analysis:** Objective triggers can speed and standardise claims.
+- **Qualification / demand link:** An individual may suffer loss when the area or weather index does not trigger.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** PMFBY mainly uses area-yield assessment for widespread loss; RWBCIS uses weather parameters.
+- **Analytical inference:** Objective triggers can speed and standardise claims.
+- **Qualification:** An individual may suffer loss when the area or weather index does not trigger.
+
+#### PRELIMS TRAP
+
+Do not treat weather insurance as insurance of actual farm yield.
+
+#### MAINS USE
+
+Compare verification cost, moral hazard and basis risk.
+
+#### MINI RECAP
+
+- Definition: Indemnity insurance compensates assessed loss, while index insurance pays from an observable area or weather trigger.
+- Evidence anchor: PMFBY mainly uses area-yield assessment for widespread loss; RWBCIS uses weather parameters.
+- Limitation: An individual may suffer loss when the area or weather index does not trigger.
+
+### CORE SESSION 43 — Area approach and basis risk
+
+#### VISUAL FIRST
+
+```text
+INSURANCE UNIT ACTUAL YIELD < THRESHOLD
+ -> AREA CLAIM
+INDIVIDUAL LOSS != AREA RESULT -> BASIS RISK
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+The area approach assesses widespread yield loss for a defined insurance unit rather than every farm separately.
+
+> **ANSWER-GRABBING LINE:** It makes mass crop insurance feasible but can mismatch individual experience.
+
+**MUST-WRITE KEYWORDS:** area, approach, basis, risk, makes, mass, crop, insurance, feasible, mismatch, individual.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** It makes mass crop insurance feasible but can mismatch individual experience.
+- **Named evidence:** PMFBY relies on Crop Cutting Experiments and notified insurance units for widespread yield claims.
+- **Analysis:** Pooling local yield reduces individual-loss verification cost.
+- **Qualification / demand link:** Sparse, delayed or noisy CCEs weaken credibility and timing.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** PMFBY relies on Crop Cutting Experiments and notified insurance units for widespread yield claims.
+- **Analytical inference:** Pooling local yield reduces individual-loss verification cost.
+- **Qualification:** Sparse, delayed or noisy CCEs weaken credibility and timing.
+
+#### PRELIMS TRAP
+
+Do not assume every damaged farm receives a claim under an area trigger.
+
+#### MAINS USE
+
+Use basis risk to explain trust and technology reform.
+
+#### MINI RECAP
+
+- Definition: The area approach assesses widespread yield loss for a defined insurance unit rather than every farm separately.
+- Evidence anchor: PMFBY relies on Crop Cutting Experiments and notified insurance units for widespread yield claims.
+- Limitation: Sparse, delayed or noisy CCEs weaken credibility and timing.
+
+### CORE SESSION 44 — PMFBY current architecture
+
+#### VISUAL FIRST
+
+```text
+NOTIFIED CROP + AREA + SEASON + ENROLMENT
+ -> FARMER PREMIUM 2% / 1.5% / 5%
+ -> SUBSIDISED BALANCE -> SPECIFIED-RISK CLAIM
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+PMFBY is a subsidised crop-insurance scheme for notified crops, areas, seasons and risks.
+
+> **ANSWER-GRABBING LINE:** Low farmer premium shares do not mean every loss or price fall is covered.
+
+**MUST-WRITE KEYWORDS:** pmfby, current, architecture, farmer, premium, shares, mean, every, loss, price, fall.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Low farmer premium shares do not mean every loss or price fall is covered.
+- **Named evidence:** Official August 2026 material retains maximum farmer shares of 2% for Kharif, 1.5% for Rabi food/oilseed and 5% for annual commercial/horticultural crops; enrolment has been voluntary for farmers since Kharif 2020.
+- **Analysis:** Government subsidy makes actuarial cover affordable.
+- **Qualification / demand link:** State participation, premium release, data and notification choices affect delivery.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Official August 2026 material retains maximum farmer shares of 2% for Kharif, 1.5% for Rabi food/oilseed and 5% for annual commercial/horticultural crops; enrolment has been voluntary for farmers since Kharif 2020.
+- **Analytical inference:** Government subsidy makes actuarial cover affordable.
+- **Qualification:** State participation, premium release, data and notification choices affect delivery.
+
+#### PRELIMS TRAP
+
+Do not call the 2/1.5/5 percentages claim rates or government shares.
+
+#### MAINS USE
+
+State crop-season, sum insured, peril and voluntary status.
+
+#### MINI RECAP
+
+- Definition: PMFBY is a subsidised crop-insurance scheme for notified crops, areas, seasons and risks.
+- Evidence anchor: Official August 2026 material retains maximum farmer shares of 2% for Kharif, 1.5% for Rabi food/oilseed and 5% for annual commercial/horticultural crops; enrolment has been voluntary for farmers since Kharif 2020.
+- Limitation: State participation, premium release, data and notification choices affect delivery.
+
+### CORE SESSION 45 — PMFBY loss stages and technology
+
+#### VISUAL FIRST
+
+```text
+PREVENTED SOWING -> STANDING CROP -> LOCALISED CALAMITY
+ -> POST-HARVEST WINDOW -> CLAIM METHOD
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+PMFBY uses different assessment routes for widespread yield loss and specified local or post-harvest events.
+
+> **ANSWER-GRABBING LINE:** Coverage depends on notified perils and reporting or assessment rules, not any event after sowing.
+
+**MUST-WRITE KEYWORDS:** pmfby, loss, stages, technology, coverage, depends, notified, perils, reporting, assessment, rules.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Coverage depends on notified perils and reporting or assessment rules, not any event after sowing.
+- **Named evidence:** Official scheme material uses CCE-based yield assessment and newer YES-TECH, WINDS and CROPIC technology initiatives.
+- **Analysis:** Remote sensing, weather stations and geotagged evidence can improve timeliness and audit.
+- **Qualification / demand link:** Technology cannot correct late State subsidy, poor notification or inaccessible grievance by itself.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Official scheme material uses CCE-based yield assessment and newer YES-TECH, WINDS and CROPIC technology initiatives.
+- **Analytical inference:** Remote sensing, weather stations and geotagged evidence can improve timeliness and audit.
+- **Qualification:** Technology cannot correct late State subsidy, poor notification or inaccessible grievance by itself.
+
+#### PRELIMS TRAP
+
+Do not merge prevented sowing, local loss and area-yield claims.
+
+#### MAINS USE
+
+Match loss stage to trigger, unit and evidence.
+
+#### MINI RECAP
+
+- Definition: PMFBY uses different assessment routes for widespread yield loss and specified local or post-harvest events.
+- Evidence anchor: Official scheme material uses CCE-based yield assessment and newer YES-TECH, WINDS and CROPIC technology initiatives.
+- Limitation: Technology cannot correct late State subsidy, poor notification or inaccessible grievance by itself.
+
+### CORE SESSION 46 — Risk layering
+
+#### VISUAL FIRST
+
+```text
+FREQUENT SMALL LOSS -> FARM PRACTICE / SAVINGS
+MEDIUM LOSS -> CREDIT / INSURANCE
+CATASTROPHIC LOSS -> PUBLIC RELIEF / SOCIAL PROTECTION
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Risk layering assigns different frequencies and severities to prevention, retention, insurance and public support.
+
+> **ANSWER-GRABBING LINE:** Insurance is efficient for some uncertain losses, not every recurring or systemic farm problem.
+
+**MUST-WRITE KEYWORDS:** risk, layering, insurance, efficient, some, uncertain, losses, every, recurring, systemic, farm.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Insurance is efficient for some uncertain losses, not every recurring or systemic farm problem.
+- **Named evidence:** Diversification, irrigation, advisories, KCC, PMFBY and disaster relief occupy different layers.
+- **Analysis:** Layering reduces overloading one scheme with incompatible objectives.
+- **Qualification / demand link:** Highly correlated climate shocks can strain insurers and public budgets.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Diversification, irrigation, advisories, KCC, PMFBY and disaster relief occupy different layers.
+- **Analytical inference:** Layering reduces overloading one scheme with incompatible objectives.
+- **Qualification:** Highly correlated climate shocks can strain insurers and public budgets.
+
+#### PRELIMS TRAP
+
+Do not use loan waiver as a substitute for ex ante risk design.
+
+#### MAINS USE
+
+Match tool to frequency, severity and insurability.
+
+#### MINI RECAP
+
+- Definition: Risk layering assigns different frequencies and severities to prevention, retention, insurance and public support.
+- Evidence anchor: Diversification, irrigation, advisories, KCC, PMFBY and disaster relief occupy different layers.
+- Limitation: Highly correlated climate shocks can strain insurers and public budgets.
+
+### CORE SESSION 47 — Conservation agriculture
+
+#### VISUAL FIRST
+
+```text
+MINIMUM SOIL DISTURBANCE + PERMANENT SOIL COVER
+ + CROP DIVERSITY / ROTATION
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Conservation agriculture combines minimum disturbance, soil cover and crop diversification or rotation.
+
+> **ANSWER-GRABBING LINE:** It is a systems approach, not simply zero tillage.
+
+**MUST-WRITE KEYWORDS:** conservation, agriculture, systems, approach, simply, zero, tillage.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** It is a systems approach, not simply zero tillage.
+- **Named evidence:** The 2018 Prelims route and ICAR agronomy support these three principles.
+- **Analysis:** Residue cover and timely zero-till sowing can reduce erosion, fuel and turnaround time.
+- **Qualification / demand link:** Weed management, residue equipment and local soil conditions affect results.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The 2018 Prelims route and ICAR agronomy support these three principles.
+- **Analytical inference:** Residue cover and timely zero-till sowing can reduce erosion, fuel and turnaround time.
+- **Qualification:** Weed management, residue equipment and local soil conditions affect results.
+
+#### PRELIMS TRAP
+
+Do not claim zero tillage always increases carbon or yield.
+
+#### MAINS USE
+
+Present principles, context and transition costs.
+
+#### MINI RECAP
+
+- Definition: Conservation agriculture combines minimum disturbance, soil cover and crop diversification or rotation.
+- Evidence anchor: The 2018 Prelims route and ICAR agronomy support these three principles.
+- Limitation: Weed management, residue equipment and local soil conditions affect results.
+
+### CORE SESSION 48 — Integrated nutrient and pest management
+
+#### VISUAL FIRST
+
+```text
+SOIL TEST + ORGANIC / BIOLOGICAL + MINERAL NUTRIENTS
+PEST SURVEILLANCE + THRESHOLD + MULTIPLE CONTROLS
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+INM balances nutrient sources; IPM integrates preventive, biological, cultural, mechanical and selective chemical controls.
+
+> **ANSWER-GRABBING LINE:** Integration seeks adequate productivity with lower waste and ecological damage.
+
+**MUST-WRITE KEYWORDS:** integrated, nutrient, pest, management, integration, seeks, adequate, productivity, with, lower, waste.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Integration seeks adequate productivity with lower waste and ecological damage.
+- **Named evidence:** Soil Health Card, ICAR extension and NCIPM guidance are named institutional anchors.
+- **Analysis:** Multiple tools reduce dependence on one input and slow resistance or soil decline.
+- **Qualification / demand link:** Knowledge, labour, timely diagnosis and input quality constrain adoption.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Soil Health Card, ICAR extension and NCIPM guidance are named institutional anchors.
+- **Analytical inference:** Multiple tools reduce dependence on one input and slow resistance or soil decline.
+- **Qualification:** Knowledge, labour, timely diagnosis and input quality constrain adoption.
+
+#### PRELIMS TRAP
+
+Do not equate integrated management with zero external input.
+
+#### MAINS USE
+
+Use site-specific diagnosis and threshold-based action.
+
+#### MINI RECAP
+
+- Definition: INM balances nutrient sources; IPM integrates preventive, biological, cultural, mechanical and selective chemical controls.
+- Evidence anchor: Soil Health Card, ICAR extension and NCIPM guidance are named institutional anchors.
+- Limitation: Knowledge, labour, timely diagnosis and input quality constrain adoption.
+
+### CORE SESSION 49 — Organic, natural and permaculture
+
+#### VISUAL FIRST
+
+```text
+ORGANIC = STANDARD / CERTIFICATION-BASED SYSTEM
+NATURAL = LOW EXTERNAL INPUT / ON-FARM BIOLOGICAL PRACTICE
+PERMACULTURE = ECOLOGICAL DESIGN FRAMEWORK
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Organic farming follows defined production and certification standards; natural farming and permaculture are related but distinct approaches.
+
+> **ANSWER-GRABBING LINE:** Labels must not be merged because evidence, inputs, certification and markets differ.
+
+**MUST-WRITE KEYWORDS:** organic, natural, permaculture, labels, must, merged, because, evidence, inputs, certification, markets.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Labels must not be merged because evidence, inputs, certification and markets differ.
+- **Named evidence:** NPOP and PGS-India anchor organic certification; natural farming policy promotes locally prepared biological inputs and reduced purchased chemicals.
+- **Analysis:** Reduced synthetic-input dependence may improve ecological outcomes and cost resilience.
+- **Qualification / demand link:** Transition yield, labour, nutrient balance, certification and market premium vary.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** NPOP and PGS-India anchor organic certification; natural farming policy promotes locally prepared biological inputs and reduced purchased chemicals.
+- **Analytical inference:** Reduced synthetic-input dependence may improve ecological outcomes and cost resilience.
+- **Qualification:** Transition yield, labour, nutrient balance, certification and market premium vary.
+
+#### PRELIMS TRAP
+
+Do not call every non-certified low-chemical farm organic.
+
+#### MAINS USE
+
+Define standard, input rule, verification and transition.
+
+#### MINI RECAP
+
+- Definition: Organic farming follows defined production and certification standards; natural farming and permaculture are related but distinct approaches.
+- Evidence anchor: NPOP and PGS-India anchor organic certification; natural farming policy promotes locally prepared biological inputs and reduced purchased chemicals.
+- Limitation: Transition yield, labour, nutrient balance, certification and market premium vary.
+
+### CORE SESSION 50 — Natural Farming Mission current status
+
+#### VISUAL FIRST
+
+```text
+CABINET APPROVAL 25 NOV 2024
+ -> STANDALONE NMNF THROUGH 2025-26
+ -> POST-MARCH 2026 STATUS REQUIRES FRESH AUTHORITY
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+The National Mission on Natural Farming was approved as a standalone Centrally Sponsored Scheme for the Fifteenth Finance Commission period.
+
+> **ANSWER-GRABBING LINE:** A dated approval window must not be silently extended beyond its authorised period.
+
+**MUST-WRITE KEYWORDS:** natural, farming, mission, current, status, dated, approval, window, must, silently, extended.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** A dated approval window must not be silently extended beyond its authorised period.
+- **Named evidence:** The 25 November 2024 approval carried Rs 2,481 crore outlay through 2025-26 and cluster, farmer and bio-input support targets.
+- **Analysis:** Mission design can fund training, model farms and transition support.
+- **Qualification / demand link:** Long-term continuation and outcomes require post-period official evidence.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The 25 November 2024 approval carried Rs 2,481 crore outlay through 2025-26 and cluster, farmer and bio-input support targets.
+- **Analytical inference:** Mission design can fund training, model farms and transition support.
+- **Qualification:** Long-term continuation and outcomes require post-period official evidence.
+
+#### PRELIMS TRAP
+
+Do not present launch targets as achieved outcomes or assume automatic 2026-27 extension.
+
+#### MAINS USE
+
+Use it as a dated design and flag the current-status caveat.
+
+#### MINI RECAP
+
+- Definition: The National Mission on Natural Farming was approved as a standalone Centrally Sponsored Scheme for the Fifteenth Finance Commission period.
+- Evidence anchor: The 25 November 2024 approval carried Rs 2,481 crore outlay through 2025-26 and cluster, farmer and bio-input support targets.
+- Limitation: Long-term continuation and outcomes require post-period official evidence.
+
+### CORE SESSION 51 — Sikkim organic transition
+
+#### VISUAL FIRST
+
+```text
+2003 RESOLUTION -> INPUT PHASE-OUT -> CERTIFICATION
+ -> JANUARY 2016 FULL-ORGANIC DECLARATION
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Sikkim's organic transition was a phased State policy combining input withdrawal, extension and certification.
+
+> **ANSWER-GRABBING LINE:** Its ecological and branding gains are evidence of possibility, not a universal replication formula.
+
+**MUST-WRITE KEYWORDS:** sikkim, organic, transition, ecological, branding, gains, evidence, possibility, universal, replication, formula.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Its ecological and branding gains are evidence of possibility, not a universal replication formula.
+- **Named evidence:** The State's 2003 resolution and January 2016 declaration provide the verified chronology.
+- **Analysis:** Phasing allowed institutions and farmers time to adjust.
+- **Qualification / demand link:** Small area, hill ecology, market access and transition costs limit comparison with intensive plains.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The State's 2003 resolution and January 2016 declaration provide the verified chronology.
+- **Analytical inference:** Phasing allowed institutions and farmers time to adjust.
+- **Qualification:** Small area, hill ecology, market access and transition costs limit comparison with intensive plains.
+
+#### PRELIMS TRAP
+
+Do not say an abrupt national chemical ban would reproduce Sikkim.
+
+#### MAINS USE
+
+Use chronology, benefits and transferability limits.
+
+#### MINI RECAP
+
+- Definition: Sikkim's organic transition was a phased State policy combining input withdrawal, extension and certification.
+- Evidence anchor: The State's 2003 resolution and January 2016 declaration provide the verified chronology.
+- Limitation: Small area, hill ecology, market access and transition costs limit comparison with intensive plains.
+
+### CORE SESSION 52 — Agroforestry, millets and integrated farming
+
+#### VISUAL FIRST
+
+```text
+TREES + CROPS / LIVESTOCK | MILLETS + DRYLAND
+IFS = CROPS + ALLIED ENTERPRISES + RESOURCE RECYCLING
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Agroforestry integrates woody perennials with crops or livestock; integrated farming links enterprises and resource flows; millets can support suitable dryland systems.
+
+> **ANSWER-GRABBING LINE:** Diversification reduces risk only when enterprises are agronomically and commercially compatible.
+
+**MUST-WRITE KEYWORDS:** agroforestry, millets, integrated, farming, diversification, reduces, risk, only, when, enterprises, agronomically.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Diversification reduces risk only when enterprises are agronomically and commercially compatible.
+- **Named evidence:** Rainfed Area Development under NMSA promotes Integrated Farming Systems; the 2026 objective route tests this link.
+- **Analysis:** Multiple outputs, recycling and staggered income can stabilise small farms.
+- **Qualification / demand link:** Management complexity, labour and markets can create new risk.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Rainfed Area Development under NMSA promotes Integrated Farming Systems; the 2026 objective route tests this link.
+- **Analytical inference:** Multiple outputs, recycling and staggered income can stabilise small farms.
+- **Qualification:** Management complexity, labour and markets can create new risk.
+
+#### PRELIMS TRAP
+
+Do not equate crop diversification, rotation and integrated farming.
+
+#### MAINS USE
+
+Use complementarities, cash-flow timing and resource recycling.
+
+#### MINI RECAP
+
+- Definition: Agroforestry integrates woody perennials with crops or livestock; integrated farming links enterprises and resource flows; millets can support suitable dryland systems.
+- Evidence anchor: Rainfed Area Development under NMSA promotes Integrated Farming Systems; the 2026 objective route tests this link.
+- Limitation: Management complexity, labour and markets can create new risk.
+
+### CORE SESSION 53 — Climate-smart and climate-resilient agriculture
+
+#### VISUAL FIRST
+
+```text
+PRODUCTIVITY + ADAPTATION + MITIGATION WHERE POSSIBLE
+ -> LOCATION-SPECIFIC CLIMATE-SMART PACKAGE
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Climate-smart agriculture seeks productivity, adaptation and mitigation benefits where feasible; climate-resilient agriculture emphasises capacity to withstand and recover from shocks.
+
+> **ANSWER-GRABBING LINE:** The approach is an objective framework, not a universal technology list.
+
+**MUST-WRITE KEYWORDS:** climate-smart, climate-resilient, agriculture, approach, objective, framework, universal, technology, list.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** The approach is an objective framework, not a universal technology list.
+- **Named evidence:** ICAR, ICRISAT and the former CGIAR CCAFS programme are knowledge anchors for dryland and climate-risk research.
+- **Analysis:** Stress-tolerant seed, water management, advisories and diversification can reduce vulnerability.
+- **Qualification / demand link:** Trade-offs arise where mitigation options lower short-run returns or shift risk.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** ICAR, ICRISAT and the former CGIAR CCAFS programme are knowledge anchors for dryland and climate-risk research.
+- **Analytical inference:** Stress-tolerant seed, water management, advisories and diversification can reduce vulnerability.
+- **Qualification:** Trade-offs arise where mitigation options lower short-run returns or shift risk.
+
+#### PRELIMS TRAP
+
+Do not call CCAFS an Indian government scheme or every technology climate-smart.
+
+#### MAINS USE
+
+State climate hazard, farm system and distributional effect.
+
+#### MINI RECAP
+
+- Definition: Climate-smart agriculture seeks productivity, adaptation and mitigation benefits where feasible; climate-resilient agriculture emphasises capacity to withstand and recover from shocks.
+- Evidence anchor: ICAR, ICRISAT and the former CGIAR CCAFS programme are knowledge anchors for dryland and climate-risk research.
+- Limitation: Trade-offs arise where mitigation options lower short-run returns or shift risk.
+
+### CORE SESSION 54 — Precision and digital agriculture boundary
+
+#### VISUAL FIRST
+
+```text
+SENSOR / SATELLITE / DRONE / MODEL -> DECISION
+ -> VARIABLE WATER / NUTRIENT / PEST ACTION
+FULL DIGITAL GOVERNANCE -> TOPIC 27
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Precision agriculture uses measured spatial or temporal variability to target farm decisions and inputs.
+
+> **ANSWER-GRABBING LINE:** Precision can improve efficiency but is not automatically affordable, accurate or inclusive.
+
+**MUST-WRITE KEYWORDS:** precision, digital, agriculture, boundary, improve, efficiency, automatically, affordable, accurate, inclusive.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Precision can improve efficiency but is not automatically affordable, accurate or inclusive.
+- **Named evidence:** Tensiometers, remote sensing, weather networks and PMFBY technology tools are bounded examples.
+- **Analysis:** Targeted application can reduce excess water, nutrient or pesticide use.
+- **Qualification / demand link:** Data quality, connectivity, service models and vendor lock-in shape benefit.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Tensiometers, remote sensing, weather networks and PMFBY technology tools are bounded examples.
+- **Analytical inference:** Targeted application can reduce excess water, nutrient or pesticide use.
+- **Qualification:** Data quality, connectivity, service models and vendor lock-in shape benefit.
+
+#### PRELIMS TRAP
+
+Do not confuse digitisation with agronomic validity.
+
+#### MAINS USE
+
+Teach the farm-use mechanism here and cross-link governance to Topic 27.
+
+#### MINI RECAP
+
+- Definition: Precision agriculture uses measured spatial or temporal variability to target farm decisions and inputs.
+- Evidence anchor: Tensiometers, remote sensing, weather networks and PMFBY technology tools are bounded examples.
+- Limitation: Data quality, connectivity, service models and vendor lock-in shape benefit.
+
+### CORE SESSION 55 — Input-subsidy externalities
+
+#### VISUAL FIRST
+
+```text
+LOWER PRIVATE INPUT PRICE -> HIGHER USE / CROP SHIFT
+ -> PRODUCTIVITY + FISCAL COST + SOIL / WATER EXTERNALITY
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+An input subsidy lowers private cost but can alter technology, crop choice and resource use beyond the transfer itself.
+
+> **ANSWER-GRABBING LINE:** Short-run equity and food-security objectives must be weighed against long-run externalities and opportunity cost.
+
+**MUST-WRITE KEYWORDS:** input-subsidy, externalities, short-run, equity, food-security, objectives, must, weighed, against, long-run, opportunity.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Short-run equity and food-security objectives must be weighed against long-run externalities and opportunity cost.
+- **Named evidence:** Urea pricing, electricity subsidy, irrigation charges, interest subvention and insurance subsidy illustrate different channels.
+- **Analysis:** Targeted support can overcome liquidity and adoption barriers.
+- **Qualification / demand link:** Poor relative prices can encourage nitrogen imbalance, pumping or fiscally costly lock-in.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Urea pricing, electricity subsidy, irrigation charges, interest subvention and insurance subsidy illustrate different channels.
+- **Analytical inference:** Targeted support can overcome liquidity and adoption barriers.
+- **Qualification:** Poor relative prices can encourage nitrogen imbalance, pumping or fiscally costly lock-in.
+
+#### PRELIMS TRAP
+
+Do not add all subsidies as if their incidence and externality were identical.
+
+#### MAINS USE
+
+Analyse beneficiary, behavioural margin, externality and reform compensation.
+
+#### MINI RECAP
+
+- Definition: An input subsidy lowers private cost but can alter technology, crop choice and resource use beyond the transfer itself.
+- Evidence anchor: Urea pricing, electricity subsidy, irrigation charges, interest subvention and insurance subsidy illustrate different channels.
+- Limitation: Poor relative prices can encourage nitrogen imbalance, pumping or fiscally costly lock-in.
+
+### CORE SESSION 56 — Integrated productivity-equity-sustainability reform
+
+#### VISUAL FIRST
+
+```text
+RELIABLE WATER + BALANCED INPUTS + INCLUSIVE CREDIT
+ + CREDIBLE INSURANCE + EXTENSION + RESOURCE GOVERNANCE
+ -> RESILIENT PRODUCTIVITY
+```
+
+*Visual reading:* Identify the physical resource, price signal, institution and risk boundary before drawing the conclusion.
+
+#### DEFINITION
+
+Sustainable agricultural policy maintains productive capacity while distributing access and managing environmental and climate risk.
+
+> **ANSWER-GRABBING LINE:** No single input or scheme can optimise productivity, equity and sustainability.
+
+**MUST-WRITE KEYWORDS:** integrated, productivity-equity-sustainability, reform, single, input, scheme, optimise, productivity, equity, sustainability.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** No single input or scheme can optimise productivity, equity and sustainability.
+- **Named evidence:** PMKSY/RKVY, seed law, fertiliser policy, KCC/PSL, PMFBY, ICAR extension and natural-resource institutions address different constraints.
+- **Analysis:** Convergence reduces gaps between asset, adoption, finance and risk protection.
+- **Qualification / demand link:** Trade-offs require local evidence, farmer participation and transition support.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** PMKSY/RKVY, seed law, fertiliser policy, KCC/PSL, PMFBY, ICAR extension and natural-resource institutions address different constraints.
+- **Analytical inference:** Convergence reduces gaps between asset, adoption, finance and risk protection.
+- **Qualification:** Trade-offs require local evidence, farmer participation and transition support.
+
+#### PRELIMS TRAP
+
+Cropping-system detail stays Topic 11 and digital-governance detail Topic 27.
+
+#### MAINS USE
+
+Conclude with risk-layered, resource-accountable and inclusion-sensitive reform.
+
+#### MINI RECAP
+
+- Definition: Sustainable agricultural policy maintains productive capacity while distributing access and managing environmental and climate risk.
+- Evidence anchor: PMKSY/RKVY, seed law, fertiliser policy, KCC/PSL, PMFBY, ICAR extension and natural-resource institutions address different constraints.
+- Limitation: Trade-offs require local evidence, farmer participation and transition support.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Potential and utilisation?
-
-A. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-B. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-C. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-D. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-
-**Answer: A.**
-**Explanation:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q2. Which option preserves the accounting or regulatory boundary of Potential and utilisation?
-
-A. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-B. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-C. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-D. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-
-**Answer: B.**
-**Explanation:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses Potential and utilisation without losing its vintage, basket or legal status?
-
-A. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-B. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-C. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-D. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-
-**Answer: C.**
-**Explanation:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Potential and utilisation?
-
-A. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-B. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-C. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-D. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-
-**Answer: D.**
-**Explanation:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies PMKSY convergence?
-
-A. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-B. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-C. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-D. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-
-**Answer: A.**
-**Explanation:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q6. Which option preserves the accounting or regulatory boundary of PMKSY convergence?
-
-A. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-B. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-C. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-D. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-
-**Answer: B.**
-**Explanation:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q7. Which statement uses PMKSY convergence without losing its vintage, basket or legal status?
-
-A. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-B. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-C. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-D. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-
-**Answer: C.**
-**Explanation:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q8. Which option avoids the standard UPSC close-option trap about PMKSY convergence?
-
-A. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-B. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-C. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-D. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-
-**Answer: D.**
-**Explanation:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q9. Which statement correctly identifies Access and efficiency?
-
-A. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-B. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-C. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-D. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-
-**Answer: A.**
-**Explanation:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q10. Which option preserves the accounting or regulatory boundary of Access and efficiency?
-
-A. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-B. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-C. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-D. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-
-**Answer: B.**
-**Explanation:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q11. Which statement uses Access and efficiency without losing its vintage, basket or legal status?
-
-A. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-B. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-C. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-D. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-
-**Answer: C.**
-**Explanation:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q12. Which option avoids the standard UPSC close-option trap about Access and efficiency?
-
-A. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-B. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-C. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-D. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-
-**Answer: D.**
-**Explanation:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q13. Which statement correctly identifies Micro-irrigation rebound?
-
-A. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-B. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-C. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-D. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-
-**Answer: A.**
-**Explanation:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q14. Which option preserves the accounting or regulatory boundary of Micro-irrigation rebound?
-
-A. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-B. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-C. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-D. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-
-**Answer: B.**
-**Explanation:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q15. Which statement uses Micro-irrigation rebound without losing its vintage, basket or legal status?
-
-A. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-B. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-C. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-D. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-
-**Answer: C.**
-**Explanation:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q16. Which option avoids the standard UPSC close-option trap about Micro-irrigation rebound?
-
-A. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-B. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-C. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-D. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-
-**Answer: D.**
-**Explanation:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q17. Which statement correctly identifies Groundwater common pool?
-
-A. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-B. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-C. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-D. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-
-**Answer: A.**
-**Explanation:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q18. Which option preserves the accounting or regulatory boundary of Groundwater common pool?
-
-A. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-B. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-C. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-D. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-
-**Answer: B.**
-**Explanation:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q19. Which statement uses Groundwater common pool without losing its vintage, basket or legal status?
-
-A. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-B. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-C. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-D. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-
-**Answer: C.**
-**Explanation:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q20. Which option avoids the standard UPSC close-option trap about Groundwater common pool?
-
-A. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-B. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-C. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-D. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-
-**Answer: D.**
-**Explanation:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q21. Which statement correctly identifies Water-energy-crop nexus?
-
-A. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-B. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-C. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-D. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-
-**Answer: A.**
-**Explanation:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q22. Which option preserves the accounting or regulatory boundary of Water-energy-crop nexus?
-
-A. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-B. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-C. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-D. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-
-**Answer: B.**
-**Explanation:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q23. Which statement uses Water-energy-crop nexus without losing its vintage, basket or legal status?
-
-A. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-B. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-C. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-D. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-
-**Answer: C.**
-**Explanation:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q24. Which option avoids the standard UPSC close-option trap about Water-energy-crop nexus?
-
-A. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-B. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-C. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-D. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-
-**Answer: D.**
-**Explanation:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q25. Which statement correctly identifies Watershed method?
-
-A. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-B. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-C. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-D. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-
-**Answer: A.**
-**Explanation:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q26. Which option preserves the accounting or regulatory boundary of Watershed method?
-
-A. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-B. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-C. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-D. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-
-**Answer: B.**
-**Explanation:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q27. Which statement uses Watershed method without losing its vintage, basket or legal status?
-
-A. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-B. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-C. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-D. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-
-**Answer: C.**
-**Explanation:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q28. Which option avoids the standard UPSC close-option trap about Watershed method?
-
-A. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-B. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-C. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-D. Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-
-**Answer: D.**
-**Explanation:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q29. Which statement correctly identifies Jal Shakti campaign?
-
-A. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-B. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-C. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-D. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-
-**Answer: A.**
-**Explanation:** The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q30. Which option preserves the accounting or regulatory boundary of Jal Shakti campaign?
-
-A. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-B. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-C. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-D. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-
-**Answer: B.**
-**Explanation:** The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q31. Which statement uses Jal Shakti campaign without losing its vintage, basket or legal status?
-
-A. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-B. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-C. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-D. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-
-**Answer: C.**
-**Explanation:** The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q32. Which option avoids the standard UPSC close-option trap about Jal Shakti campaign?
-
-A. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-B. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-C. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-D. The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-
-**Answer: D.**
-**Explanation:** The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q33. Which statement correctly identifies Atal Bhujal Yojana?
-
-A. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-B. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-C. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-D. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-
-**Answer: A.**
-**Explanation:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q34. Which option preserves the accounting or regulatory boundary of Atal Bhujal Yojana?
-
-A. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-B. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-C. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-D. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-
-**Answer: B.**
-**Explanation:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q35. Which statement uses Atal Bhujal Yojana without losing its vintage, basket or legal status?
-
-A. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-B. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-C. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-D. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-
-**Answer: C.**
-**Explanation:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Atal Bhujal Yojana?
-
-A. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-B. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-C. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-D. Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-
-**Answer: D.**
-**Explanation:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies KCC liquidity role?
-
-A. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-B. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-C. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-D. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-
-**Answer: A.**
-**Explanation:** Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of KCC liquidity role?
-
-A. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-B. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-C. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-D. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-
-**Answer: B.**
-**Explanation:** Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q39. Which statement uses KCC liquidity role without losing its vintage, basket or legal status?
-
-A. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-B. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-C. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-D. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-
-**Answer: C.**
-**Explanation:** Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q40. Which option avoids the standard UPSC close-option trap about KCC liquidity role?
-
-A. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-B. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-C. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-D. Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-
-**Answer: D.**
-**Explanation:** Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies NABARD and co-operatives?
-
-A. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-B. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-C. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-D. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-
-**Answer: A.**
-**Explanation:** NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of NABARD and co-operatives?
-
-A. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-B. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-C. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-D. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-
-**Answer: B.**
-**Explanation:** NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses NABARD and co-operatives without losing its vintage, basket or legal status?
-
-A. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-B. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-C. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-D. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-
-**Answer: C.**
-**Explanation:** NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q44. Which option avoids the standard UPSC close-option trap about NABARD and co-operatives?
-
-A. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-B. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-C. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-D. NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-
-**Answer: D.**
-**Explanation:** NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q45. Which statement correctly identifies Insurance boundary?
-
-A. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-B. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-C. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-D. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-
-**Answer: A.**
-**Explanation:** Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of Insurance boundary?
-
-A. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-B. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-C. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-D. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-
-**Answer: B.**
-**Explanation:** Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses Insurance boundary without losing its vintage, basket or legal status?
-
-A. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-B. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-C. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-D. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-
-**Answer: C.**
-**Explanation:** Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Insurance boundary?
-
-A. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-B. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-C. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-D. Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-
-**Answer: D.**
-**Explanation:** Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q49. Which statement correctly identifies PMFBY scope?
-
-A. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-B. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-C. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-D. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-
-**Answer: A.**
-**Explanation:** PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q50. Which option preserves the accounting or regulatory boundary of PMFBY scope?
-
-A. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-B. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-C. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-D. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-
-**Answer: B.**
-**Explanation:** PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses PMFBY scope without losing its vintage, basket or legal status?
-
-A. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-B. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-C. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-D. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-
-**Answer: C.**
-**Explanation:** PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about PMFBY scope?
-
-A. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-B. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-C. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-D. PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-
-**Answer: D.**
-**Explanation:** PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies Enrolment and claims?
-
-A. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-B. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-C. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-D. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-
-**Answer: A.**
-**Explanation:** Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of Enrolment and claims?
-
-A. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-B. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-C. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-D. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-
-**Answer: B.**
-**Explanation:** Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses Enrolment and claims without losing its vintage, basket or legal status?
-
-A. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-B. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-C. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-D. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-
-**Answer: C.**
-**Explanation:** Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Enrolment and claims?
-
-A. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-B. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-C. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-D. Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-
-**Answer: D.**
-**Explanation:** Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Basis risk?
-
-A. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-B. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-C. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-D. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-
-**Answer: A.**
-**Explanation:** Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Basis risk?
-
-A. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-B. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-C. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-D. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-
-**Answer: B.**
-**Explanation:** Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Basis risk without losing its vintage, basket or legal status?
-
-A. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-B. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-C. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-D. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-
-**Answer: C.**
-**Explanation:** Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Basis risk?
-
-A. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-B. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-C. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-D. Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-
-**Answer: D.**
-**Explanation:** Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies Rainfed Area Development?
-
-A. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-B. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-C. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-D. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-
-**Answer: A.**
-**Explanation:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of Rainfed Area Development?
-
-A. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-B. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-C. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-D. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-
-**Answer: B.**
-**Explanation:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses Rainfed Area Development without losing its vintage, basket or legal status?
-
-A. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-B. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-C. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-D. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-
-**Answer: C.**
-**Explanation:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Rainfed Area Development?
-
-A. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-B. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-C. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-D. Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-
-**Answer: D.**
-**Explanation:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Conservation agriculture?
-
-A. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-B. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-C. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-D. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-
-**Answer: A.**
-**Explanation:** Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Conservation agriculture?
-
-A. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-B. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-C. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-D. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-
-**Answer: B.**
-**Explanation:** Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Conservation agriculture without losing its vintage, basket or legal status?
-
-A. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-B. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-C. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-D. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-
-**Answer: C.**
-**Explanation:** Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Conservation agriculture?
-
-A. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-B. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-C. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-D. Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-
-**Answer: D.**
-**Explanation:** Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Precision input tools?
-
-A. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-B. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-C. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-D. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-
-**Answer: A.**
-**Explanation:** Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Precision input tools?
-
-A. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-B. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-C. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-D. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-
-**Answer: B.**
-**Explanation:** Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Precision input tools without losing its vintage, basket or legal status?
-
-A. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-B. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-C. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-D. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-
-**Answer: C.**
-**Explanation:** Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Precision input tools?
-
-A. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-B. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-C. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-D. Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-
-**Answer: D.**
-**Explanation:** Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Sikkim organic transition?
-
-A. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-B. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-C. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-D. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-
-**Answer: A.**
-**Explanation:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Sikkim organic transition?
-
-A. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-B. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-C. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-D. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-
-**Answer: B.**
-**Explanation:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Sikkim organic transition without losing its vintage, basket or legal status?
-
-A. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-B. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-C. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-D. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-
-**Answer: C.**
-**Explanation:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Sikkim organic transition?
-
-A. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-B. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-C. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-D. Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-
-**Answer: D.**
-**Explanation:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Tenant inclusion?
-
-A. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-B. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-C. Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-D. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-
-**Answer: A.**
-**Explanation:** Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Tenant inclusion?
-
-A. The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-B. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-C. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-D. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-
-**Answer: B.**
-**Explanation:** Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Tenant inclusion without losing its vintage, basket or legal status?
-
-A. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-B. Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-C. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-D. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-
-**Answer: C.**
-**Explanation:** Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Tenant inclusion?
-
-A. Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-B. An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-C. Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-D. Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-
-**Answer: D.**
-**Explanation:** Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+Practice is maintained in the standalone workbook.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
-
-Audited ledgers route Mains demands on organic transition, integrated farming, watershed development, Jal Shakti Abhiyan, water storage, micro-irrigation, irrigation-system challenges and groundwater depletion. Objective demands cover conservation agriculture, DCCBs, KCC, biochar, zero tillage, fertigation, crop-protection chemicals and the provisionally keyed 2026 Rainfed Area Development question; no answer letter is inferred.
-
-### OWNER PYQ LEDGER EXTRACTS
-
-#### 9. PYQ application
-
-- ⚠️ 2024 GS-III: Challenges of Indian irrigation and government measures for efficiency.
-- ⚠️ 2025 GS-III: Factors for depleting groundwater and government steps.
-- ⚠️ 2026 Prelims provisional key: Rainfed Area Development and Integrated Farming Systems.
-- ⚠️ 2018 GS-III: Sikkim Organic State's ecological and economic benefits.
-- ⚠️ 2019 GS-III: National Watershed Project's impact on water-stressed-area agriculture.
-- ⚠️ 2020 GS-III: Jal Shakti Abhiyan's features for water conservation and security.
-- ⚠️ **Irrigation answer route:** diagnose source depletion, groundwater dependence, uneven canal delivery, field-level inefficiency and distorted water-energy incentives; then deploy PMKSY, micro-irrigation, canal repair, aquifer management and crop alignment as coordinated responses.
-- ⚠️ **Groundwater answer route:** connect free or subsidised power, paddy-sugarcane style water intensity, weak aquifer governance and limited crop diversification; then add Atal Jal, metering or budgeting logic, micro-irrigation and procurement reform.
-- ⚠️ **Watershed/Jal Shakti answer route:** define the watershed unit, explain ridge-to-valley treatment and participatory institutions, then connect to Jal Shakti Abhiyan's five interventions and its 2021 "Catch the Rain" evolution as the campaign-mode complement to the standing watershed programme.
-- ⚠️ **Sikkim organic-state answer route:** trace the phased 2003-2016 transition (resolution, subsidy withdrawal, sales ban, certification, declaration), then weigh ecological/economic benefits against replication limits for larger, plains-based states.
-- ⚠️ **Unfamiliar-question route:** if asked on sustainable farming practices, connect conservation agriculture, zero tillage, fertigation, biochar, Integrated Farming Systems and climate-smart agriculture instead of writing a generic environment answer.
-
-**Demand decoding:** The directive **answer** requires a direct position on “9. PYQ application”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Economy demand in “9. PYQ application”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ⚠️ 2024 GS-III: Challenges of Indian irrigation and government measures for efficiency. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** ⚠️ 2025 GS-III: Factors for depleting groundwater and government steps. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** ⚠️ 2026 Prelims provisional key: Rainfed Area Development and Integrated Farming Systems. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** ⚠️ 2018 GS-III: Sikkim Organic State's ecological and economic benefits. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** ⚠️ 2019 GS-III: National Watershed Project's impact on water-stressed-area agriculture. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** ⚠️ 2020 GS-III: Jal Shakti Abhiyan's features for water conservation and security. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** The answer must resolve the Economy demand in “9. PYQ application”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “9. PYQ application”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-#### 2026 PYQ Integration
-
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
-
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 28 | Rainfed Area Development objectives under sustainable agriculture mission | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Rainfed Area Development objectives under sustainable agriculture mission
-
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-#### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
-
-- **Years represented:** 2024, 2025
-- **Paper(s):** GS-III
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-III | 13 | Challenges of the Indian irrigation system and government measures | State measures · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2025 | GS-III | 13 | Factors for depleting groundwater and government steps | Examine · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Challenges of the Indian irrigation system and government measures
-- Factors for depleting groundwater and government steps
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2018, 2019, 2020, 2021, 2022
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 19
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 8 | Sikkim Organic State ecological and economic benefits | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2018 | Prelims GS-I | 59 | Conservation Agriculture practices minimum tillage and crop rotations | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | GS-III | 3 | Integrated Farming System role in sustaining agricultural production | Discuss · 10 marks · 150 words | Cross-routed to sustainable-input and crop-livestock integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-III | 4 | National Watershed Project impact on water-stressed area agriculture | Elaborate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | Prelims GS-I | 39 | Carbofuran phorate triazophos chemical use in agriculture | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | GS-III | 8 | Jal Shakti Abhiyan features for water conservation and security | What are · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 14 | Measures to improve water storage and irrigation under depletion | Suggest · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | Prelims GS-I | 59 | District Central Cooperative Banks agricultural credit delivery | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 66 | Kisan Credit Card scheme short-term credit eligible purposes | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 80 | Biochar uses in farming soil microorganisms and water retention | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 83 | Zero tillage benefits for wheat paddy and carbon sequestration | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 89 | Sugarcane cultivation bud chip settlings and tissue culture | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 90 | Eco-friendly agriculture practices crop diversification tensiometer | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 91 | Fertigation advantages alkalinity nutrient availability leaching reduction | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 94 | Chemical fertilizers ammonia source sulphur input and pricing | Objective question; official key unavailable locally | Cross-routed to input fundamentals and fertiliser pricing/subsidy owner; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | GS-III | 4 | Micro-irrigation role and extent in solving India's water crisis | How · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | Prelims GS-I | 51 | Permaculture farming versus conventional chemical farming | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 59 | Climate-Smart Agriculture CCAFS CGIAR ICRISAT India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | GS-III | 14 | Integrated Farming System benefits for small and marginal farmers | Explain · 15 marks · 250 words | Cross-routed to sustainable-input and smallholder animal-integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Sikkim Organic State ecological and economic benefits
-- Conservation Agriculture practices minimum tillage and crop rotations
-- Integrated Farming System role in sustaining agricultural production
-- National Watershed Project impact on water-stressed area agriculture
-- Carbofuran phorate triazophos chemical use in agriculture
-- Jal Shakti Abhiyan features for water conservation and security
-- Measures to improve water storage and irrigation under depletion
-- District Central Cooperative Banks agricultural credit delivery
-- Kisan Credit Card scheme short-term credit eligible purposes
-- Biochar uses in farming soil microorganisms and water retention
-- Zero tillage benefits for wheat paddy and carbon sequestration
-- Sugarcane cultivation bud chip settlings and tissue culture
-- Eco-friendly agriculture practices crop diversification tensiometer
-- Fertigation advantages alkalinity nutrient availability leaching reduction
-- Chemical fertilizers ammonia source sulphur input and pricing
-- Micro-irrigation role and extent in solving India's water crisis
-- Permaculture farming versus conventional chemical farming
-- Climate-Smart Agriculture CCAFS CGIAR ICRISAT India
-- Integrated Farming System benefits for small and marginal farmers
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ 2024 GS-III: Challenges of Indian irrigation and government measures for efficiency.
-- ⚠️ 2026 Prelims provisional key: Rainfed Area Development and Integrated Farming Systems.
-- ⚠️ **Irrigation answer engine:** source sustainability and aquifer governance; conveyance
-  and field efficiency; waterlogging/salinity; crop-water incentives and power pricing;
-  then micro-irrigation, canal modernisation, watershed work, measurement, extension and
-  locally credible user institutions.
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2018, 2019, 2020, 2021, 2022
-- **Paper(s):** GS-III
-- **Routed question demands:** 7
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 8 | Sikkim Organic State ecological and economic benefits | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-III | 3 | Integrated Farming System role in sustaining agricultural production | Discuss · 10 marks · 150 words | Cross-routed to sustainable-input and crop-livestock integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-III | 4 | National Watershed Project impact on water-stressed area agriculture | Elaborate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 8 | Jal Shakti Abhiyan features for water conservation and security | What are · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 14 | Measures to improve water storage and irrigation under depletion | Suggest · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-III | 4 | Micro-irrigation role and extent in solving India's water crisis | How · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 14 | Integrated Farming System benefits for small and marginal farmers | Explain · 15 marks · 250 words | Cross-routed to sustainable-input and smallholder animal-integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Sikkim Organic State ecological and economic benefits
-- Integrated Farming System role in sustaining agricultural production
-- National Watershed Project impact on water-stressed area agriculture
-- Jal Shakti Abhiyan features for water conservation and security
-- Measures to improve water storage and irrigation under depletion
-- Micro-irrigation role and extent in solving India's water crisis
-- Integrated Farming System benefits for small and marginal farmers
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### PYQ DEMAND CARD 1 — 2018 GS-III
-
-**Demand:** Discuss the ecological and economic benefits and limits of Sikkim's organic transition.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **Sikkim organic transition:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2018 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Sikkim organic transition:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Discuss the ecological and economic benefits and limits of Sikkim's organic transition. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Sikkim organic transition:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2018 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 2 — 2019 GS-III
-
-**Demand:** Elaborate the impact of watershed development on water-stressed agriculture.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **Watershed method:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Rainfed Area Development:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2019 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Watershed method:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Rainfed Area Development:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Elaborate the impact of watershed development on water-stressed agriculture. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Watershed method:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Rainfed Area Development:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2019 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 3 — 2020 GS-III
-
-**Demand:** Suggest measures for water storage and irrigation under groundwater depletion.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **Potential and utilisation:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. **Access and efficiency:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Watershed method:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Atal Bhujal Yojana:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2020 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Potential and utilisation:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. **Access and efficiency:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Watershed method:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Atal Bhujal Yojana:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Suggest measures for water storage and irrigation under groundwater depletion. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Potential and utilisation:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. **Access and efficiency:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Watershed method:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Atal Bhujal Yojana:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2020 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 4 — 2021 GS-III
-
-**Demand:** Assess the role and limits of micro-irrigation in addressing India's water crisis.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **Access and efficiency:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Water-energy-crop nexus:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 4 — 2021 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Access and efficiency:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Water-energy-crop nexus:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Assess the role and limits of micro-irrigation in addressing India's water crisis. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Access and efficiency:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Water-energy-crop nexus:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 4 — 2021 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 5 — 2024 GS-III
-
-**Demand:** State the challenges of India's irrigation system and government measures.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **Potential and utilisation:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. **PMKSY convergence:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning. **Access and efficiency:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Watershed method:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 5 — 2024 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Potential and utilisation:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. **PMKSY convergence:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning. **Access and efficiency:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Watershed method:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: State the challenges of India's irrigation system and government measures. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Potential and utilisation:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. **PMKSY convergence:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning. **Access and efficiency:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Watershed method:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 5 — 2024 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 6 — 2025 GS-III
-
-**Demand:** Examine groundwater depletion and evaluate government responses.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Water-energy-crop nexus:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. **Atal Bhujal Yojana:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Rainfed Area Development:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 6 — 2025 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Water-energy-crop nexus:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. **Atal Bhujal Yojana:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Rainfed Area Development:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Examine groundwater depletion and evaluate government responses. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Water-energy-crop nexus:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. **Atal Bhujal Yojana:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Rainfed Area Development:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 6 — 2025 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish irrigation potential, utilisation and water-use efficiency. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Potential and utilisation. **Named evidence/example:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-
-**Qualified conclusion:** **Claim:** Potential and utilisation. **Named evidence/example:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish irrigation potential, utilisation and water-use efficiency. Answer in about 150…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Potential and utilisation. **Named evidence/example:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Potential and utilisation. **Named evidence/example:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish irrigation potential, utilisation and water-use efficiency. Answer in about 150…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Separate irrigation access from precision application under PMKSY. Answer in about 150 words.
-
-**Model thesis:** **Claim:** PMKSY convergence. **Named evidence/example:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Access and efficiency. **Named evidence/example:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-- Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-
-**Qualified conclusion:** **Claim:** PMKSY convergence. **Named evidence/example:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Access and efficiency. **Named evidence/example:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Separate irrigation access from precision application under PMKSY. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** PMKSY convergence. **Named evidence/example:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Access and efficiency. **Named evidence/example:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** PMKSY convergence. **Named evidence/example:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Access and efficiency. **Named evidence/example:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Separate irrigation access from precision application under PMKSY. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain the groundwater-energy-crop nexus and micro-irrigation rebound. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Micro-irrigation rebound. **Named evidence/example:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Groundwater common pool. **Named evidence/example:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Water-energy-crop nexus. **Named evidence/example:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-- An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-- Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-
-**Qualified conclusion:** **Claim:** Micro-irrigation rebound. **Named evidence/example:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Groundwater common pool. **Named evidence/example:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Water-energy-crop nexus. **Named evidence/example:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the groundwater-energy-crop nexus and micro-irrigation rebound. Answer in about 250…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Micro-irrigation rebound. **Named evidence/example:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Groundwater common pool. **Named evidence/example:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Water-energy-crop nexus. **Named evidence/example:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Micro-irrigation rebound. **Named evidence/example:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Groundwater common pool. **Named evidence/example:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Water-energy-crop nexus. **Named evidence/example:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Explain the groundwater-energy-crop nexus and micro-irrigation rebound. Answer in about 250…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** How does watershed development differ from isolated water structures? Answer in about 250 words.
-
-**Model thesis:** **Claim:** Watershed method. **Named evidence/example:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Jal Shakti campaign. **Named evidence/example:** The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Atal Bhujal Yojana. **Named evidence/example:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-- The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-- Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-
-**Qualified conclusion:** **Claim:** Watershed method. **Named evidence/example:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Jal Shakti campaign. **Named evidence/example:** The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Atal Bhujal Yojana. **Named evidence/example:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How does watershed development differ from isolated water structures? Answer in about 250…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Watershed method. **Named evidence/example:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Jal Shakti campaign. **Named evidence/example:** The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Atal Bhujal Yojana. **Named evidence/example:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Watershed method. **Named evidence/example:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Jal Shakti campaign. **Named evidence/example:** The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Atal Bhujal Yojana. **Named evidence/example:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “How does watershed development differ from isolated water structures? Answer in about 250…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate farm credit and crop insurance through liquidity, eligibility, basis risk and claims. Answer in about 300 words.
-
-**Model thesis:** **Claim:** KCC liquidity role. **Named evidence/example:** Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NABARD and co-operatives. **Named evidence/example:** NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Insurance boundary. **Named evidence/example:** Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PMFBY scope. **Named evidence/example:** PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Enrolment and claims. **Named evidence/example:** Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Basis risk. **Named evidence/example:** Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Tenant inclusion. **Named evidence/example:** Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-- NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-- Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-- PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-- Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-- Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-- Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
-
-**Qualified conclusion:** **Claim:** KCC liquidity role. **Named evidence/example:** Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NABARD and co-operatives. **Named evidence/example:** NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Insurance boundary. **Named evidence/example:** Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PMFBY scope. **Named evidence/example:** PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Enrolment and claims. **Named evidence/example:** Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Basis risk. **Named evidence/example:** Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Tenant inclusion. **Named evidence/example:** Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate farm credit and crop insurance through liquidity, eligibility, basis risk and…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** KCC liquidity role. **Named evidence/example:** Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NABARD and co-operatives. **Named evidence/example:** NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Insurance boundary. **Named evidence/example:** Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PMFBY scope. **Named evidence/example:** PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Enrolment and claims. **Named evidence/example:** Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Basis risk. **Named evidence/example:** Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Tenant inclusion. **Named evidence/example:** Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-7. **Claim and named evidence:** Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** KCC liquidity role. **Named evidence/example:** Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NABARD and co-operatives. **Named evidence/example:** NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Insurance boundary. **Named evidence/example:** Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PMFBY scope. **Named evidence/example:** PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Enrolment and claims. **Named evidence/example:** Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Basis risk. **Named evidence/example:** Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Tenant inclusion. **Named evidence/example:** Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Evaluate farm credit and crop insurance through liquidity, eligibility, basis risk and…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Design a sustainable agriculture strategy for rainfed and groundwater-stressed India. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Micro-irrigation rebound. **Named evidence/example:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Groundwater common pool. **Named evidence/example:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Watershed method. **Named evidence/example:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Atal Bhujal Yojana. **Named evidence/example:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Rainfed Area Development. **Named evidence/example:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Conservation agriculture. **Named evidence/example:** Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Precision input tools. **Named evidence/example:** Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Sikkim organic transition. **Named evidence/example:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-- An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-- Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-- Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-- Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-- Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-- Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-- Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-
-**Qualified conclusion:** **Claim:** Micro-irrigation rebound. **Named evidence/example:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Groundwater common pool. **Named evidence/example:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Watershed method. **Named evidence/example:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Atal Bhujal Yojana. **Named evidence/example:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Rainfed Area Development. **Named evidence/example:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Conservation agriculture. **Named evidence/example:** Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Precision input tools. **Named evidence/example:** Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Sikkim organic transition. **Named evidence/example:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design a sustainable agriculture strategy for rainfed and groundwater-stressed India. Answer…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Micro-irrigation rebound. **Named evidence/example:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Groundwater common pool. **Named evidence/example:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Watershed method. **Named evidence/example:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Atal Bhujal Yojana. **Named evidence/example:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Rainfed Area Development. **Named evidence/example:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Conservation agriculture. **Named evidence/example:** Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Precision input tools. **Named evidence/example:** Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Sikkim organic transition. **Named evidence/example:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-7. **Claim and named evidence:** Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-8. **Claim and named evidence:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Micro-irrigation rebound. **Named evidence/example:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Groundwater common pool. **Named evidence/example:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Watershed method. **Named evidence/example:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Atal Bhujal Yojana. **Named evidence/example:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Rainfed Area Development. **Named evidence/example:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Conservation agriculture. **Named evidence/example:** Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Precision input tools. **Named evidence/example:** Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Sikkim organic transition. **Named evidence/example:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Design a sustainable agriculture strategy for rainfed and groundwater-stressed India. Answer…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+Verified routed demands, objective-key discipline and original models are maintained in the standalone workbook.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims.
-> **Core area:** Agricultural inputs and resilience.
-> **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `../basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`.*
-
-#### 1. Architecture
+### ADVANCED 1 — Common-pool groundwater
 
 ```text
-1. soil, water, seed and knowledge
-   |
-   v
-  2. credit-financed cultivation
-     |
-     v
-    3. weather and market risk
-       |
-       v
-      4. insurance and diversification
-         |
-         v
-        5. stable productivity and income
+CORE MECHANISM -> DEEPER MODEL -> EMPIRICAL LIMIT -> QUALIFIED POLICY
 ```
 
-**Analytical claim:** Read farm productivity through the water-energy-input-credit-insurance
-nexus; isolated subsidies often shift rather than solve risk.
+Open access to a shared aquifer makes each pumper ignore part of the depletion cost imposed on others; measurement and collective limits complement efficient technology.
 
-#### 2. Concepts and distinctions
+> **Advanced answer line:** Open access to a shared aquifer makes each pumper ignore part of the depletion cost imposed on others; measurement and collective limits complement efficient technology.
 
-| Concept | Precise meaning |
-|---|---|
-| ✅ **Irrigation efficiency** | Crop output or useful water delivered relative to water withdrawn or applied. |
-| ✅ **Micro-irrigation** | Drip or sprinkler systems applying water more precisely. |
-| ✅ **KCC** | Institutional credit channel designed around farm and allied working-capital needs. |
-| ✅ **Crop insurance** | Risk-pooling arrangement compensating covered loss under specified terms. |
-| ✅ **Sustainable agriculture** | Productivity with soil, water, biodiversity, climate and livelihood resilience. |
+### ADVANCED 2 — Jevons-style irrigation rebound
 
-#### 3. Detailed transmission
+```text
+CORE MECHANISM -> DEEPER MODEL -> EMPIRICAL LIMIT -> QUALIFIED POLICY
+```
 
-1. Water availability, soil condition and seed choice establish the farm's attainable yield.
-2. Credit finances seasonal inputs before harvest revenue arrives.
-3. Electricity and fertiliser prices influence crop and input intensity, often beyond their
-   immediate subsidy effect.
-4. Insurance, diversification and advisories spread or reduce weather and production risk.
-5. Aquifer governance, micro-irrigation and integrated farming determine whether
-   productivity can be sustained.
+Lower water required per hectare can expand irrigated area or induce thirstier crops, so basin withdrawal may not fall.
 
-##### Deeper analytical layers
+> **Advanced answer line:** Lower water required per hectare can expand irrigated area or induce thirstier crops, so basin withdrawal may not fall.
 
-- ⚠️ Water pricing, electricity pricing, procurement incentives and crop choice form one
-  political-economy system.
-- ⚠️ Micro-irrigation saves water at plot level, but basin-level savings require limits on
-  total extraction.
-- ⚠️ Formal tenants may gain credit and insurance access, yet insecure records create
-  exclusion.
-- ⚠️ Area-yield insurance reduces individual verification costs but introduces basis risk.
-- ⚠️ Climate adaptation requires stress-tolerant seeds, advisories, water management,
-  diversification and social protection.
-- ⚠️ Public extension is a knowledge infrastructure connecting research with local decision-
-  making.
+### ADVANCED 3 — Credit rationing
 
-#### 4. Institutional architecture
+```text
+CORE MECHANISM -> DEEPER MODEL -> EMPIRICAL LIMIT -> QUALIFIED POLICY
+```
 
-- ✅ **Central and state irrigation departments:** build and manage major, medium and minor
-  systems.
-- ✅ **NABARD, banks and co-operatives:** finance agricultural investment and seasonal
-  credit.
-- ✅ **Agricultural Insurance Company and empanelled insurers:** implement crop-insurance
-  operations under policy rules.
-- ✅ **ICAR, KVKs and state extension systems:** provide research, advisories and farm-level
-  knowledge.
+Banks may ration credit rather than charge a sufficiently high rate when collateral, information and enforcement are weak.
 
-#### 5. Indian applications and boundary cases
+> **Advanced answer line:** Banks may ration credit rather than charge a sufficiently high rate when collateral, information and enforcement are weak.
 
-- ⚠️ Drip irrigation can reduce water applied per crop, but total aquifer extraction may
-  still rise if irrigated area expands.
-- ⚠️ Free power lowers the pumping cost seen by an individual farmer while accelerating
-  collective groundwater depletion.
-- ⚠️ Area-yield insurance reduces individual loss verification but can leave a farmer
-  uncompensated when personal loss differs from the area's result.
+### ADVANCED 4 — Basis-risk optimisation
 
-#### 6. Limitations and trade-offs
+```text
+CORE MECHANISM -> DEEPER MODEL -> EMPIRICAL LIMIT -> QUALIFIED POLICY
+```
 
-- ⚠️ Free or cheap power supports farmers but encourages groundwater over-extraction.
-- ⚠️ Input subsidy lowers current cost while crowding out irrigation, research and extension
-  spending.
-- ⚠️ Insurance premium support expands coverage but weak data and delays can undermine
-  trust.
-- ⚠️ Technology increases precision yet smallholders need shared services, finance and
-  training.
-- ⚠️ Export-oriented high-value farming raises returns but increases quality, price and
-  perishability risk.
+A finer insurance unit can reduce basis risk but raises measurement cost and susceptibility to noise or manipulation.
 
-⚠️ **Boundary condition:** Technology adoption is not neutral: farm size, tenancy,
-extension, maintenance and market access determine who benefits.
+> **Advanced answer line:** A finer insurance unit can reduce basis risk but raises measurement cost and susceptibility to noise or manipulation.
 
-#### 7. Must-Know Facts for Advanced Prelims
+### ADVANCED 5 — Subsidy incidence
 
-- ✅ Irrigation potential and actual water-use efficiency are different measures.
-- ✅ Groundwater is individually accessible but cumulatively depleted, creating a common-pool
-  problem.
-- ✅ Input subsidies alter crop choices, technology and resource use, not only farm costs.
-- ✅ Credit and insurance address different constraints: liquidity versus covered risk.
-- ✅ Insurance requires clear triggers, credible yield or weather data and timely settlement.
-- ✅ Crop-insurance coverage turns on notified crop, area, season and specified peril; it
-  does not insure every price loss or substitute for irrigation and risk-reduction policy.
-- ✅ Integrated farming systems combine crops with horticulture, livestock, fisheries or
-  agroforestry to diversify risk.
+```text
+CORE MECHANISM -> DEEPER MODEL -> EMPIRICAL LIMIT -> QUALIFIED POLICY
+```
 
-#### 8. Advanced Prelims traps
+The legal recipient of fertiliser, electricity, credit or insurance support need not capture the full economic benefit when prices and rents adjust.
 
-- ❌ More irrigation always saves water. -> Efficiency gains can expand irrigated area and
-  total extraction without governance.
-- ❌ Crop insurance guarantees farm income. -> It covers specified losses, not every price or
-  production risk.
-- ❌ Institutional credit reaches only landowners by design. -> Products can cover allied
-  activities, though tenancy documentation remains a barrier.
-- ❌ Fertiliser subsidy is environmentally neutral. -> Relative prices can distort nutrient
-  balance and soil health.
-- ❌ Sustainable agriculture means reverting to one technique. -> It is location-specific and
-  combines agronomy, technology and institutions.
+> **Advanced answer line:** The legal recipient of fertiliser, electricity, credit or insurance support need not capture the full economic benefit when prices and rents adjust.
 
-#### 9. 📰 Survey 2025-26 analytical application
+### ADVANCED 6 — Adaptation portfolios
 
-| Verified current anchor | Topic-specific analytical use |
-|---|---|
-| 📰 The 2026 provisional key identifies Integrated Farming Systems as the objective of Rainfed Area Development under NMSA. | The provisional-key item confirms diversification through Integrated Farming Systems, not monoculture. |
-| 📰 Agriculture GVA averaged 4.7% growth during FY20-FY24, with allied sectors growing faster than crops. | Use the sectoral growth comparison to support resilient allied activities alongside crops. |
-| 📰 The 2024 GS-III PYQ examined irrigation challenges and efficient-management measures. | Answer irrigation reform through source sustainability, distribution efficiency and incentive correction. |
+```text
+CORE MECHANISM -> DEEPER MODEL -> EMPIRICAL LIMIT -> QUALIFIED POLICY
+```
 
-#### 10. PYQ-based analytical application
+Robust climate adaptation combines water, seed, soil, information, diversification, finance and social protection instead of betting on one forecast or technology.
 
-- ⚠️ 2024 GS-III: Challenges of Indian irrigation and government measures for efficiency.
-- ⚠️ 2026 Prelims provisional key: Rainfed Area Development and Integrated Farming Systems.
-- ⚠️ **Irrigation answer engine:** source sustainability and aquifer governance; conveyance
-  and field efficiency; waterlogging/salinity; crop-water incentives and power pricing;
-  then micro-irrigation, canal modernisation, watershed work, measurement, extension and
-  locally credible user institutions.
+> **Advanced answer line:** Robust climate adaptation combines water, seed, soil, information, diversification, finance and social protection instead of betting on one forecast or technology.
 
-#### 11. Mains-ready framework
-
-**Central thesis:** Read farm productivity through the water-energy-input-credit-insurance nexus; isolated subsidies often shift rather than solve risk.
-
-1. Define **Irrigation efficiency** and distinguish it from **Micro-irrigation**.
-2. Credit finances seasonal inputs before harvest revenue arrives.
-3. Central and state irrigation departments: build and manage major, medium and minor
-   systems.
-4. Free or cheap power supports farmers but encourages groundwater over-extraction.
-5. Recommend aquifer governance, micro-irrigation with caps, better data, extension and
-   diversified risk tools.
-
-#### 12. Probable questions
-
-- ⚠️ **Prelims:** Distinguish irrigation potential, micro-irrigation, crop insurance, KCC
-  and Integrated Farming Systems.
-- ⚠️ **Mains (10 marks):** Why can farm-level water-use efficiency fail to reduce basin-
-  level extraction?
-- ⚠️ **Mains (15 marks):** Design an incentive-compatible water-energy-crop policy for
-  sustainable agriculture.
-
-#### 13. Study links
-
-- ✅ Foundation companion: `../basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`.
-- ✅ `11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md` — crop and regional path
-  dependence.
-- ✅ `12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` — price incentives affecting
-  water use.
-- ✅ `25_Climate-Economics-Green-Finance-and-Circular-Economy.md` — adaptation and climate
-  risk.
-- ✅ `28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` — integrated input-subsidy,
-  incidence and reform analysis.
-- ✅ `29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md` — technology
-  diffusion, sustainability missions and evaluation.
-- ✅ `30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md` — animal-
-  enterprise risk, biological cycles, IFS and One Health.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2018, 2019, 2020, 2021, 2022
-- **Paper(s):** GS-III
-- **Routed question demands:** 7
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 8 | Sikkim Organic State ecological and economic benefits | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-III | 3 | Integrated Farming System role in sustaining agricultural production | Discuss · 10 marks · 150 words | Cross-routed to sustainable-input and crop-livestock integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-III | 4 | National Watershed Project impact on water-stressed area agriculture | Elaborate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 8 | Jal Shakti Abhiyan features for water conservation and security | What are · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 14 | Measures to improve water storage and irrigation under depletion | Suggest · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-III | 4 | Micro-irrigation role and extent in solving India's water crisis | How · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 14 | Integrated Farming System benefits for small and marginal farmers | Explain · 15 marks · 250 words | Cross-routed to sustainable-input and smallholder animal-integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Sikkim Organic State ecological and economic benefits
-- Integrated Farming System role in sustaining agricultural production
-- National Watershed Project impact on water-stressed area agriculture
-- Jal Shakti Abhiyan features for water conservation and security
-- Measures to improve water storage and irrigation under depletion
-- Micro-irrigation role and extent in solving India's water crisis
-- Integrated Farming System benefits for small and marginal farmers
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
 ## CONSOLIDATED REGISTER NOTES
 
-### Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture: RAPID CONCEPT, INSTITUTION AND STATUS MAP
+### 1. Irrigation accounting and types
 
-1. **Potential and utilisation:** Created irrigation potential, utilised potential, reliable field delivery and water-use efficiency are different measures; project capacity does not prove equitable or productive use.
-2. **PMKSY convergence:** The official PMKSY page describes convergence of field-level irrigation investment, assured irrigation expansion, on-farm efficiency, aquifer recharge and decentralised state planning.
-3. **Access and efficiency:** Har Khet Ko Pani addresses irrigation access, while Per Drop More Crop addresses precise application and on-farm efficiency; access and efficiency must not be merged.
-4. **Micro-irrigation rebound:** Drip and sprinkler systems can reduce water applied per unit at plot level, but basin extraction may not fall if irrigated area expands or crop choice remains water-intensive.
-5. **Groundwater common pool:** An individual pumper captures private benefit while cumulative extraction lowers a shared aquifer, making groundwater a common-pool governance problem.
-6. **Water-energy-crop nexus:** Cheap or free pumping power lowers private extraction cost and can reinforce water-intensive crops where procurement and other incentives point in the same direction.
-7. **Watershed method:** Watershed development treats a geo-hydrological catchment from ridge to valley through soil, moisture, recharge, vegetation and participatory maintenance rather than isolated structures.
-8. **Jal Shakti campaign:** The owner records Jal Shakti Abhiyan as a 2019 campaign that later evolved into Catch the Rain; dated coverage and asset claims require the relevant campaign record.
-9. **Atal Bhujal Yojana:** Atal Bhujal Yojana is a groundwater-management programme for water-stressed areas that emphasises community participation, water budgeting and behavioural change.
-10. **KCC liquidity role:** Kisan Credit Card is an institutional working-capital channel for crop and eligible allied needs; it addresses seasonal liquidity rather than compensating a realised insured loss.
-11. **NABARD and co-operatives:** NABARD is a rural and agricultural refinance and development institution, while District Central Cooperative Banks occupy a distinct tier in the cooperative credit architecture.
-12. **Insurance boundary:** Crop insurance pools specified production or weather risk under scheme terms; it is not a universal guarantee of price, income, debt repayment or every individual loss.
-13. **PMFBY scope:** PMFBY operates through notified crops, areas, seasons and perils under the applicable scheme rules; current premium, enrolment and state-participation claims require the governing notification.
-14. **Enrolment and claims:** Insurance enrolment or premium collection does not prove claim admissibility, assessment, settlement amount or timeliness; these are separate implementation outcomes.
-15. **Basis risk:** Area-yield assessment reduces individual verification cost but can create basis risk when the reference-area loss differs from a particular farmer's field loss.
-16. **Rainfed Area Development:** Rainfed Area Development under the National Mission for Sustainable Agriculture promotes integrated farming systems and diversification suited to rainfed risk.
-17. **Conservation agriculture:** Conservation agriculture combines minimum soil disturbance, residue cover and crop rotation; zero tillage is one practice rather than the whole system.
-18. **Precision input tools:** Fertigation applies nutrients through irrigation water, while a tensiometer measures soil-water tension for irrigation scheduling; neither is itself a crop-insurance instrument.
-19. **Sikkim organic transition:** Sikkim's organic transition was phased through policy, input withdrawal, mission support and certification; its scale and hill ecology limit mechanical replication.
-20. **Tenant inclusion:** Title-linked credit, insurance and subsidy administration can exclude tenants and sharecroppers even when they are the actual cultivators, so records and eligibility design matter.
+- Potential created != potential utilised != reliable field delivery != water productivity.
+- Net irrigated area counts land irrigated at least once; gross area counts repeated irrigated crop instances.
+- Irrigation intensity = gross irrigated area / net irrigated area x 100.
+- Canals need conveyance, distribution, drainage and tail-end equity; groundwater is flexible but common-pool.
+- Tanks and lift systems depend on catchment, energy and maintenance.
+- Command area is served by an irrigation project; watershed is a catchment draining to one outlet.
+- Drip and sprinkler improve application control but may create rebound in total extraction.
 
-### Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture: SCOPE, ELIGIBILITY, STOCK-FLOW AND IMPLEMENTATION TRAPS
+### 2. PMKSY and governance
 
-- Do not equate irrigation potential with utilisation, reliability or water productivity.
-- Do not merge irrigation access with application efficiency.
-- Do not assume micro-irrigation automatically reduces basin-level extraction.
-- Do not treat free power as only a transfer without crop and groundwater effects.
-- Do not reduce watershed development to a pond or check dam.
-- Do not equate KCC liquidity with crop-insurance compensation.
-- Do not equate insurance enrolment with claim settlement.
-- Do not quote PMFBY premiums, coverage or state participation without scheme vintage.
-- Do not treat Sikkim's organic transition as universally replicable.
-- Do not infer provisional 2026 objective answer letters.
+- PMKSY's dated 2021-26 architecture: AIBP, HKKP and WDC; official June 2026 material retains programme context.
+- HKKP covers CADWM, surface minor irrigation, RRR of water bodies and bounded groundwater works.
+- PDMC supports micro-irrigation under RKVY from 2022-23.
+- WDC uses ridge-to-valley catchment treatment and participatory institutions.
+- Water pricing must combine measurement, service reliability, equity and O&M.
+- WUAs need authority, inclusion, finance and accountability.
 
-### Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture: ANSWER-WRITING SPINE
+### 3. Seeds
+
+- Nucleus -> breeder -> foundation -> certified seed.
+- Tags: breeder golden yellow; foundation white; certified blue.
+- Formal systems use quality control and labels; informal systems include farm saving and exchange.
+- Seeds Act 1966 and Rules 1968 remain; draft Seeds Bill 2025 was not enacted by cutoff.
+- Tissue culture and sugarcane bud-chip settlings are propagation methods, not irrigation.
+
+### 4. Fertilisers, soil and pests
+
+- N supports vegetative/protein functions; P roots/energy; K water regulation/stress/quality.
+- Urea has controlled MRP and separate subsidy; eligible P&K fertilisers use NBS.
+- Fertiliser DBT pays company after authenticated PoS sale; farmer receives subsidised price.
+- Soil Health Card under RKVY Soil Health and Fertility guides dated, site-specific recommendations.
+- INM combines mineral, organic and biological sources; IPM uses surveillance and thresholds.
+- Nano-product approval != universal replacement evidence.
+
+### 5. Machinery and credit
+
+- Mechanisation is operation-specific; CHCs spread fixed cost and improve small-farm access.
+- Institutional sources: commercial banks, RRBs and cooperatives; informal sources include moneylenders and traders.
+- Cooperative short-term chain: PACS -> DCCB -> State Cooperative Bank.
+- NABARD provides refinance, development support and specified supervision; RBI regulates banks.
+- RBI PSL 2025 Directions, updated 7 August 2026: agriculture 18%, NCF 14%, SMF 10% for applicable banks.
+- KCC is the credit product; MISS is interest support.
+- Budget 2025-26: Rs 5 lakh overall KCC announcement. FY2025-26 MISS: concessional 7% up to Rs 3 lakh and 3% prompt-repayment incentive.
+
+### 6. Insurance
+
+- Insurance requires premium, insured peril/unit, sum insured, trigger, assessment and claim.
+- PMFBY farmer shares: 2% Kharif; 1.5% Rabi food/oilseed; 5% annual commercial/horticultural.
+- Farmer enrolment voluntary since Kharif 2020.
+- Widespread yield loss uses area approach/CCEs; specified local and post-harvest risks use separate routes.
+- Basis risk = individual loss differs from area-yield or weather-index result.
+- YES-TECH, WINDS and CROPIC improve evidence but do not replace timely funding and grievance.
+
+### 7. Sustainable agriculture
+
+- Conservation agriculture = minimum disturbance + permanent cover + crop diversity/rotation.
+- Organic, natural and permaculture are distinct.
+- NMNF approved 25 November 2024 through 2025-26; later continuation needs fresh authority.
+- Sikkim: 2003 resolution -> phased transition -> January 2016 full-organic declaration.
+- Agroforestry integrates trees; IFS integrates enterprises and resource recycling.
+- Climate-smart agriculture balances productivity, adaptation and mitigation where feasible.
+- Precision tools require data quality, service access and agronomic validity; full digital governance belongs to Topic 27.
+
+### 8. Reform architecture
 
 ```text
-DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE
--> STATE FORMULA, CROP, GEOGRAPHY, ELIGIBILITY OR LEGAL POWER
--> NAME THE PERIOD, ESTIMATE VINTAGE AND ISSUING BODY
--> SEPARATE ANNOUNCEMENT, IMPLEMENTATION, STOCK AND FLOW OUTCOMES
--> ADD ONE INDIA-SPECIFIC EVIDENCE UNIT AND ITS LIMIT
--> TEST DISTRIBUTION, OUTPUT, PRICE OR FINANCIAL-STABILITY EFFECTS
--> CONCLUDE WITH A GRADED VERDICT, NOT A TIMELESS NUMBER
+WATER BUDGET + RELIABLE DELIVERY + BALANCED INPUTS
+ -> INCLUSIVE CREDIT + RISK LAYERING + EXTENSION
+ -> PRODUCTIVITY + EQUITY + SOIL / WATER / CLIMATE RESILIENCE
 ```
 
-### Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture: LIVE-SOURCE, VINTAGE AND EVIDENCE BOUNDARY
+- Input subsidy analysis must identify beneficiary, behavioural response, externality and transition compensation.
+- Cropping-pattern detail belongs to Topic 11; market architecture Topic 13; digital agriculture Topic 27.
 
-The PMKSY objectives were substantively retrievable and support the convergence and efficiency anchors. The PMFBY portal was a title-only shell, so insurance amounts, enrolment and claim-performance figures are excluded.
-
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
-
-#### ASCII MASTER FLOW — PANEL 1/12: Irrigation accounting ladder
-
-```ascii-master
-CREATED POTENTIAL
--> UTILISED POTENTIAL
--> RELIABLE FIELD DELIVERY
--> WATER PRODUCTIVITY / FARM OUTCOME
-MUST REMEMBER: Agricultural productivity and resilience depend on water, soil, seed,...
-```
-
-#### ASCII MASTER FLOW — PANEL 2/12: PMKSY distinction board
-
-```ascii-master
-HAR KHET KO PANI -> access
-PER DROP MORE CROP -> application efficiency
-STATE PLAN -> decentralised project choice
-CONVERGENCE -> source to field
-```
-
-#### ASCII MASTER FLOW — PANEL 3/12: Micro-irrigation rebound
-
-```ascii-master
-LESS WATER PER UNIT
--> LOWER PRIVATE COST / MORE AREA
--> WATER-INTENSIVE CROP MAY PERSIST
--> BASIN SAVING NOT AUTOMATIC
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: Water-energy-crop nexus
-
-```ascii-master
-CHEAP POWER
-PROCUREMENT INCENTIVE
-GROUNDWATER ACCESS
-JOINT EFFECT -> extraction + crop lock-in
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Watershed rail
-
-```ascii-master
-RIDGE -> vegetation + contour treatment
-MID-SLOPE -> bunds + moisture retention
-DRAINAGE -> check / recharge structures
-VALLEY -> productive use + maintenance
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: Groundwater governance
-
-```ascii-master
-PRIVATE PUMP
-SHARED AQUIFER
-LOCAL WATER BUDGET
-CROP + EXTRACTION RULES
-CLOSE DISTINCTION: Irrigation potential is not utilised irrigation, credit sanction is...
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Credit-insurance fork
-
-```ascii-master
-KCC -> pre-harvest liquidity
-INSURANCE -> covered-loss transfer
-NABARD / BANK -> finance architecture
-CLAIM -> trigger + assessment + settlement
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: Insurance outcome chain
-
-```ascii-master
-ENROLMENT
--> PREMIUM + NOTIFIED SCOPE
--> LOSS ASSESSMENT
--> ADMISSIBLE CLAIM -> SETTLEMENT
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Basis-risk board
-
-```ascii-master
-AREA YIELD -> lower verification cost
-FARM LOSS -> may diverge
-WEATHER INDEX -> proxy trigger
-DATA + TIMELINESS decide trust
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Sustainable-practice map
-
-```ascii-master
-CONSERVATION -> minimum disturbance + residue + rotation
-PRECISION -> drip + fertigation + tensiometer
-DIVERSIFICATION -> integrated farming
-ORGANIC -> certification and transition context
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Tenant-access gate
-
-```ascii-master
-ACTUAL CULTIVATOR
--> RECORD / LEASE EVIDENCE
--> CREDIT / INSURANCE ELIGIBILITY
--> COVERAGE OR EXCLUSION
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Resilience answer spine
-
-```ascii-master
-SEPARATE potential, use and efficiency
-LINK water, energy, crop and credit
-TRACE enrolment to claim settlement
-CONCLUDE with aquifer + tenant governance
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State unit, season, beneficiary denominator...
-```
+**Final answer line:** Sustainable farm productivity requires reliable water, balanced and evidence-based inputs, inclusive finance, credible risk protection and resource governance to move together.

@@ -1,1346 +1,781 @@
 ---
 title: "MSP, Procurement, Buffer Stocks, PDS and Food Security — Solved Practice Workbook"
-topic_key: economy-12
+topic_key: economy-topic-12
 ---
 # MSP, Procurement, Buffer Stocks, PDS and Food Security — Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies MSP announcement?
+Exactly 32 original questions appear before PYQs. Correct answers rotate A -> B -> C -> D eight times.
 
-A. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-B. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-C. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-D. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
+### MCQ 1
 
-**Answer: A.**
-**Explanation:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+Which statement best defines MSP?
 
-### Q2. Which option preserves the accounting or regulatory boundary of MSP announcement?
-
-A. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-B. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-C. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-D. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-
-**Answer: B.**
-**Explanation:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses MSP announcement without losing its vintage, basket or legal status?
-
-A. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-B. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-C. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-D. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-
-**Answer: C.**
-**Explanation:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about MSP announcement?
-
-A. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-B. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-C. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-D. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-
-**Answer: D.**
-**Explanation:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies CACP and CCEA?
-
-A. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-B. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-C. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-D. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
+A. It is a pre-season administered price signal for specified crops, not automatic universal purchase.
+B. It is a statutory monthly income paid to every farmer.
+C. It is FCI's total economic cost.
+D. It is the retail price charged at every fair-price shop.
 
 **Answer: A.**
-**Explanation:** The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q6. Which option preserves the accounting or regulatory boundary of CACP and CCEA?
+**Option-wise explanation:**
+- **A - Correct:** The definition preserves crop, season and procurement boundaries. The option states: It is a pre-season administered price signal for specified crops, not automatic universal purchase.
+- **B - Incorrect:** Income support is a different instrument. The option states: It is a statutory monthly income paid to every farmer.
+- **C - Incorrect:** Economic cost includes acquisition and distribution components. The option states: It is FCI's total economic cost.
+- **D - Incorrect:** PDS issue policy is separate from farm price policy. The option states: It is the retail price charged at every fair-price shop.
 
-A. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-B. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-C. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-D. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
+**Examiner trap 1:** Announcement does not prove procurement.
+
+### MCQ 2
+
+What is CACP's institutional role?
+
+A. It takes the final Cabinet decision.
+B. It recommends MSPs after examining costs and wider market-policy factors.
+C. It procures all notified crops.
+D. It administers NFSA ration cards.
 
 **Answer: B.**
-**Explanation:** The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q7. Which statement uses CACP and CCEA without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** CCEA takes the final Union decision. The option states: It takes the final Cabinet decision.
+- **B - Correct:** CACP is the expert advisory stage. The option states: It recommends MSPs after examining costs and wider market-policy factors.
+- **C - Incorrect:** Designated agencies procure. The option states: It procures all notified crops.
+- **D - Incorrect:** States manage beneficiary identification and cards. The option states: It administers NFSA ration cards.
 
-A. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-B. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-C. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-D. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
+**Examiner trap 2:** Recommendation is not decision.
+
+### MCQ 3
+
+Which statement correctly identifies the MSP crop basket?
+
+A. MSP is legally fixed for every crop grown in India.
+B. Sugarcane is one of the 22 crops under the same MSP mechanism.
+C. MSP covers 22 mandated crops, with derived prices for toria and de-husked coconut; sugarcane uses FRP.
+D. Only wheat and paddy receive any announced support price.
 
 **Answer: C.**
-**Explanation:** The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q8. Which option avoids the standard UPSC close-option trap about CACP and CCEA?
+**Option-wise explanation:**
+- **A - Incorrect:** Coverage is a specified list. The option states: MSP is legally fixed for every crop grown in India.
+- **B - Incorrect:** Sugarcane pricing follows a separate FRP route. The option states: Sugarcane is one of the 22 crops under the same MSP mechanism.
+- **C - Correct:** The answer matches the official crop and FRP distinction. The option states: MSP covers 22 mandated crops, with derived prices for toria and de-husked coconut; sugarcane uses FRP.
+- **D - Incorrect:** The announced list is broader than two cereals. The option states: Only wheat and paddy receive any announced support price.
 
-A. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-B. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-C. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-D. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
+**Examiner trap 3:** Price-policy coverage is not procurement coverage.
+
+### MCQ 4
+
+A2 cost primarily includes:
+
+A. Only imputed family labour.
+B. Owned-land rent and fixed-capital interest but no paid expenses.
+C. FCI storage and transport costs.
+D. Actual paid-out cultivation expenses in cash or kind under the CACP method.
 
 **Answer: D.**
-**Explanation:** The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q9. Which statement correctly identifies Cost concepts?
+**Option-wise explanation:**
+- **A - Incorrect:** Family labour is added in A2+FL. The option states: Only imputed family labour.
+- **B - Incorrect:** Those imputed items enter C2. The option states: Owned-land rent and fixed-capital interest but no paid expenses.
+- **C - Incorrect:** FCI logistics are not farm production cost. The option states: FCI storage and transport costs.
+- **D - Correct:** A2 is the explicit paid-out cost concept. The option states: Actual paid-out cultivation expenses in cash or kind under the CACP method.
 
-A. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-B. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-C. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-D. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
+**Examiner trap 4:** A2 is narrower than A2+FL.
+
+### MCQ 5
+
+A2+FL equals:
+
+A. A2 plus the imputed value of unpaid family labour.
+B. C2 minus every paid-out expense.
+C. MSP plus procurement incidentals.
+D. A2 plus FCI carrying cost.
 
 **Answer: A.**
-**Explanation:** A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q10. Which option preserves the accounting or regulatory boundary of Cost concepts?
+**Option-wise explanation:**
+- **A - Correct:** The formula recognises family labour's opportunity cost. The option states: A2 plus the imputed value of unpaid family labour.
+- **B - Incorrect:** C2 contains A2 rather than removing it. The option states: C2 minus every paid-out expense.
+- **C - Incorrect:** This defines acquisition elements, not farm cost. The option states: MSP plus procurement incidentals.
+- **D - Incorrect:** Public stock cost is unrelated to FL. The option states: A2 plus FCI carrying cost.
 
-A. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-B. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-C. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-D. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
+**Examiner trap 5:** FL means family labour, not freight.
+
+### MCQ 6
+
+C2 adds which items to A2+FL?
+
+A. Only marketable surplus.
+B. Imputed rent on owned land and interest on owned fixed capital.
+C. Only hired labour already included in A2.
+D. Food-subsidy reimbursement.
 
 **Answer: B.**
-**Explanation:** A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q11. Which statement uses Cost concepts without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Marketed output is not a cost item. The option states: Only marketable surplus.
+- **B - Correct:** C2 broadens the opportunity-cost base. The option states: Imputed rent on owned land and interest on owned fixed capital.
+- **C - Incorrect:** Hired labour is a paid-out cost. The option states: Only hired labour already included in A2.
+- **D - Incorrect:** Subsidy reimbursement belongs to public accounts. The option states: Food-subsidy reimbursement.
 
-A. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-B. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-C. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-D. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
+**Examiner trap 6:** C2 is not the official 1.5-times base.
+
+### MCQ 7
+
+What is the official 1.5-times MSP policy benchmark?
+
+A. Exactly C2 plus 50 per cent for every farm.
+B. One and a half times FCI economic cost.
+C. At least 1.5 times the all-India weighted average A2+FL cost.
+D. A State-specific legal profit guarantee.
 
 **Answer: C.**
-**Explanation:** A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Cost concepts?
+**Option-wise explanation:**
+- **A - Incorrect:** C2-plus-50 is a separate demand. The option states: Exactly C2 plus 50 per cent for every farm.
+- **B - Incorrect:** FCI cost is downstream. The option states: One and a half times FCI economic cost.
+- **C - Correct:** Official seasonal tables use the A2+FL average. The option states: At least 1.5 times the all-India weighted average A2+FL cost.
+- **D - Incorrect:** Farm costs and procurement vary. The option states: A State-specific legal profit guarantee.
 
-A. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-B. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-C. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-D. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
+**Examiner trap 7:** Name the denominator.
+
+### MCQ 8
+
+Which comparison of price and income support is correct?
+
+A. Both necessarily require physical procurement.
+B. Income support always raises one crop's market price.
+C. Price support has no production effect.
+D. Price support changes the commodity-price incentive; income support transfers purchasing power.
 
 **Answer: D.**
-**Explanation:** A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q13. Which statement correctly identifies Procurement?
+**Option-wise explanation:**
+- **A - Incorrect:** Transfers need not purchase output. The option states: Both necessarily require physical procurement.
+- **B - Incorrect:** Income support can be crop-neutral. The option states: Income support always raises one crop's market price.
+- **C - Incorrect:** Expected prices influence sowing. The option states: Price support has no production effect.
+- **D - Correct:** The mechanisms and incidence differ. The option states: Price support changes the commodity-price incentive; income support transfers purchasing power.
 
-A. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-B. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-C. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-D. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
+**Examiner trap 8:** Do not merge transfer and price instruments.
+
+### MCQ 9
+
+Procurement occurs when:
+
+A. A designated agency actually purchases eligible produce under specified operational conditions.
+B. CACP publishes a recommendation.
+C. A crop appears in the MSP list.
+D. A household receives an NFSA ration card.
 
 **Answer: A.**
-**Explanation:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q14. Which option preserves the accounting or regulatory boundary of Procurement?
+**Option-wise explanation:**
+- **A - Correct:** Physical purchase creates payment and stock obligations. The option states: A designated agency actually purchases eligible produce under specified operational conditions.
+- **B - Incorrect:** Advice is not purchase. The option states: CACP publishes a recommendation.
+- **C - Incorrect:** Announcement is not purchase. The option states: A crop appears in the MSP list.
+- **D - Incorrect:** Ration entitlement is consumer-side. The option states: A household receives an NFSA ration card.
 
-A. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-B. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-C. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-D. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
+**Examiner trap 9:** Procurement is a transaction.
+
+### MCQ 10
+
+Open-ended procurement correctly means:
+
+A. Every crop is purchased everywhere without conditions.
+B. Conforming paddy or wheat offered within an operating procurement system is bought without a preset aggregate cap.
+C. Oilseeds are legally unlimited in every State.
+D. Quality standards cannot be applied.
 
 **Answer: B.**
-**Explanation:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q15. Which statement uses Procurement without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Coverage is not universal. The option states: Every crop is purchased everywhere without conditions.
+- **B - Correct:** The term is bounded by crop, quality, place and period. The option states: Conforming paddy or wheat offered within an operating procurement system is bought without a preset aggregate cap.
+- **C - Incorrect:** PSS operations are conditional. The option states: Oilseeds are legally unlimited in every State.
+- **D - Incorrect:** FAQ remains relevant. The option states: Quality standards cannot be applied.
 
-A. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-B. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-C. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-D. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
+**Examiner trap 10:** Always state the operating boundary.
+
+### MCQ 11
+
+Why is procurement support uneven?
+
+A. All States procure identical shares.
+B. MSP mechanically equalises every farm price.
+C. Agency presence, crop, quality, market arrivals and State infrastructure differ.
+D. Only soil quality matters.
 
 **Answer: C.**
-**Explanation:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Procurement?
+**Option-wise explanation:**
+- **A - Incorrect:** Procurement is concentrated. The option states: All States procure identical shares.
+- **B - Incorrect:** Market outcomes vary. The option states: MSP mechanically equalises every farm price.
+- **C - Correct:** Operational access determines realised support. The option states: Agency presence, crop, quality, market arrivals and State infrastructure differ.
+- **D - Incorrect:** Institutions matter with agro-climate. The option states: Only soil quality matters.
 
-A. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-B. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-C. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-D. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
+**Examiner trap 11:** Announced support is not realised support.
+
+### MCQ 12
+
+Under decentralised procurement, participating States generally:
+
+A. Abolish the central pool.
+B. Set WTO support rules.
+C. Replace NFSA with APMC trading.
+D. Procure, store and distribute their NFSA requirement with central-pool adjustment and approved reimbursement.
 
 **Answer: D.**
-**Explanation:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q17. Which statement correctly identifies Uneven procurement access?
+**Option-wise explanation:**
+- **A - Incorrect:** The central pool remains. The option states: Abolish the central pool.
+- **B - Incorrect:** WTO rules are multilateral. The option states: Set WTO support rules.
+- **C - Incorrect:** Market regulation is Topic 13. The option states: Replace NFSA with APMC trading.
+- **D - Correct:** DCP reallocates operations within a national framework. The option states: Procure, store and distribute their NFSA requirement with central-pool adjustment and approved reimbursement.
 
-A. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-B. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-C. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-D. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
+**Examiner trap 12:** Decentralisation is not withdrawal of Union support.
+
+### MCQ 13
+
+The central pool is best described as:
+
+A. Public foodgrain stock procured for NFSA, welfare, buffer, emergency and market-management uses.
+B. Only grain physically inside an FCI-owned godown.
+C. Private trader inventory.
+D. An accounting name for MSP recommendations.
 
 **Answer: A.**
-**Explanation:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q18. Which option preserves the accounting or regulatory boundary of Uneven procurement access?
+**Option-wise explanation:**
+- **A - Correct:** Ownership and public purpose define the pool. The option states: Public foodgrain stock procured for NFSA, welfare, buffer, emergency and market-management uses.
+- **B - Incorrect:** State-procured grain can enter it. The option states: Only grain physically inside an FCI-owned godown.
+- **C - Incorrect:** Private stocks are separate. The option states: Private trader inventory.
+- **D - Incorrect:** Recommendations create no grain. The option states: An accounting name for MSP recommendations.
 
-A. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-B. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-C. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-D. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
+**Examiner trap 13:** Storage location alone does not define ownership.
+
+### MCQ 14
+
+FCI's mandate includes:
+
+A. Fixing State beneficiary lists.
+B. Procurement support, storage, movement, distribution and buffer management.
+C. Adjudicating WTO disputes.
+D. Regulating APMC licences.
 
 **Answer: B.**
-**Explanation:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q19. Which statement uses Uneven procurement access without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** States identify beneficiaries. The option states: Fixing State beneficiary lists.
+- **B - Correct:** FCI is the central logistics and stock institution. The option states: Procurement support, storage, movement, distribution and buffer management.
+- **C - Incorrect:** WTO bodies handle disputes. The option states: Adjudicating WTO disputes.
+- **D - Incorrect:** APMC regulation is State marketing law. The option states: Regulating APMC licences.
 
-A. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-B. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-C. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-D. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
+**Examiner trap 14:** FCI does not perform every food-policy function.
+
+### MCQ 15
+
+FCI economic cost equals:
+
+A. MSP alone.
+B. MSP minus procurement incidentals.
+C. Acquisition cost plus distribution cost.
+D. NFSA entitlement multiplied by coverage.
 
 **Answer: C.**
-**Explanation:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Uneven procurement access?
+**Option-wise explanation:**
+- **A - Incorrect:** MSP omits incidentals and distribution. The option states: MSP alone.
+- **B - Incorrect:** Incidentals add to acquisition. The option states: MSP minus procurement incidentals.
+- **C - Correct:** Economic cost includes purchase and logistics. The option states: Acquisition cost plus distribution cost.
+- **D - Incorrect:** Entitlement arithmetic is not cost accounting. The option states: NFSA entitlement multiplied by coverage.
 
-A. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-B. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-C. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-D. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
+**Examiner trap 15:** Use the two-step formula.
+
+### MCQ 16
+
+Carrying cost rises principally with:
+
+A. Only the number of MSP crops.
+B. Only NFSA's rural coverage ceiling.
+C. Only the CACP recommendation date.
+D. The quantity and duration of stock plus financing, storage, handling and preservation costs.
 
 **Answer: D.**
-**Explanation:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q21. Which statement correctly identifies FCI economic cost?
+**Option-wise explanation:**
+- **A - Incorrect:** Crop count does not measure storage burden. The option states: Only the number of MSP crops.
+- **B - Incorrect:** Coverage is consumer-side. The option states: Only NFSA's rural coverage ceiling.
+- **C - Incorrect:** Advice date is not a carrying-cost input. The option states: Only the CACP recommendation date.
+- **D - Correct:** Stocks create time-dependent fiscal and quality costs. The option states: The quantity and duration of stock plus financing, storage, handling and preservation costs.
 
-A. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-B. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-C. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-D. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
+**Examiner trap 16:** A stock is an asset with maintenance cost.
+
+### MCQ 17
+
+Which quarterly norm statement is correct?
+
+A. The norm is a dated minimum benchmark; actual stocks may be above or below it.
+B. The 1 July norm applies unchanged every day.
+C. A stock above norm is automatically waste.
+D. Norms contain rice but never wheat.
 
 **Answer: A.**
-**Explanation:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q22. Which option preserves the accounting or regulatory boundary of FCI economic cost?
+**Option-wise explanation:**
+- **A - Correct:** Norms and actual inventory are distinct. The option states: The norm is a dated minimum benchmark; actual stocks may be above or below it.
+- **B - Incorrect:** Quarterly seasonality matters. The option states: The 1 July norm applies unchanged every day.
+- **C - Incorrect:** Pipeline and obligations matter. The option states: A stock above norm is automatically waste.
+- **D - Incorrect:** Both rice and wheat are included. The option states: Norms contain rice but never wheat.
 
-A. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-B. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-C. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-D. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
+**Examiner trap 17:** Compare dates and units.
+
+### MCQ 18
+
+OMSS(D) differs from NFSA release because OMSS:
+
+A. Creates a household legal entitlement.
+B. Sells specified central stock into market channels to influence supply and prices.
+C. Sets MSP for the next crop season.
+D. Identifies AAY households.
 
 **Answer: B.**
-**Explanation:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q23. Which statement uses FCI economic cost without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** NFSA creates entitlement. The option states: Creates a household legal entitlement.
+- **B - Correct:** OMSS is a market-release mechanism. The option states: Sells specified central stock into market channels to influence supply and prices.
+- **C - Incorrect:** CCEA decides MSP. The option states: Sets MSP for the next crop season.
+- **D - Incorrect:** States identify households. The option states: Identifies AAY households.
 
-A. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-B. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-C. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-D. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
+**Examiner trap 18:** Market sale is not ration entitlement.
+
+### MCQ 19
+
+The Price Stabilisation Fund is distinct from OMSS because it:
+
+A. Is another name for FCI's rice-wheat quarterly norm.
+B. Determines NFSA coverage percentages.
+C. Supports interventions or buffers for selected commodities under a different institutional route.
+D. Computes C2 cost.
 
 **Answer: C.**
-**Explanation:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q24. Which option avoids the standard UPSC close-option trap about FCI economic cost?
+**Option-wise explanation:**
+- **A - Incorrect:** FCI norms are separate. The option states: Is another name for FCI's rice-wheat quarterly norm.
+- **B - Incorrect:** Coverage comes from NFSA. The option states: Determines NFSA coverage percentages.
+- **C - Correct:** Commodity and agency architecture differs. The option states: Supports interventions or buffers for selected commodities under a different institutional route.
+- **D - Incorrect:** C2 is a farm-cost concept. The option states: Computes C2 cost.
 
-A. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-B. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-C. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-D. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
+**Examiner trap 19:** Price stabilisation is an objective, not one universal scheme.
+
+### MCQ 20
+
+Food security has which four dimensions?
+
+A. Procurement, milling, export and taxation only.
+B. Calories, MSP, C2 and APMC.
+C. Production, imports, godowns and roads only.
+D. Availability, access, utilisation and stability.
 
 **Answer: D.**
-**Explanation:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q25. Which statement correctly identifies Buffer-stock boundary?
+**Option-wise explanation:**
+- **A - Incorrect:** The list omits household outcomes. The option states: Procurement, milling, export and taxation only.
+- **B - Incorrect:** These mix unrelated concepts. The option states: Calories, MSP, C2 and APMC.
+- **C - Incorrect:** Infrastructure alone is incomplete. The option states: Production, imports, godowns and roads only.
+- **D - Correct:** The four dimensions cover supply, affordability, nutrition and resilience. The option states: Availability, access, utilisation and stability.
 
-A. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-B. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-C. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-D. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
+**Examiner trap 20:** Cereal availability is only one dimension.
+
+### MCQ 21
+
+NFSA coverage architecture provides:
+
+A. Up to 75 per cent rural and 50 per cent urban coverage, with State identification within ceilings.
+B. Universal automatic coverage of every resident.
+C. A 75 kilogram rural entitlement.
+D. CACP identification of ration households.
 
 **Answer: A.**
-**Explanation:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q26. Which option preserves the accounting or regulatory boundary of Buffer-stock boundary?
+**Option-wise explanation:**
+- **A - Correct:** The figures are population coverage ceilings. The option states: Up to 75 per cent rural and 50 per cent urban coverage, with State identification within ceilings.
+- **B - Incorrect:** NFSA remains targeted. The option states: Universal automatic coverage of every resident.
+- **C - Incorrect:** Percentages are not kilograms. The option states: A 75 kilogram rural entitlement.
+- **D - Incorrect:** States identify eligible households. The option states: CACP identification of ration households.
 
-A. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-B. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-C. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-D. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
+**Examiner trap 21:** Coverage is not entitlement quantity.
+
+### MCQ 22
+
+Which entitlement pair is correct?
+
+A. PHH: 35 kg per person; AAY: 5 kg per household.
+B. PHH: 5 kg per person per month; AAY: 35 kg per household per month.
+C. Both: 5 kg per household.
+D. Both: 35 kg per person.
 
 **Answer: B.**
-**Explanation:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q27. Which statement uses Buffer-stock boundary without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** The quantities and units are reversed. The option states: PHH: 35 kg per person; AAY: 5 kg per household.
+- **B - Correct:** The unit differs between categories. The option states: PHH: 5 kg per person per month; AAY: 35 kg per household per month.
+- **C - Incorrect:** AAY has a household entitlement. The option states: Both: 5 kg per household.
+- **D - Incorrect:** PHH is person-based. The option states: Both: 35 kg per person.
 
-A. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-B. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-C. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-D. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
+**Examiner trap 22:** Do not swap person and household units.
+
+### MCQ 23
+
+What is the current free-foodgrain status?
+
+A. Free supply is a permanent unamendable NFSA clause.
+B. The arrangement ended in December 2023.
+C. NFSA entitlements are supplied free under PMGKAY from 1 January 2024 through December 2028.
+D. Only AAY receives free grain.
 
 **Answer: C.**
-**Explanation:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Buffer-stock boundary?
+**Option-wise explanation:**
+- **A - Incorrect:** Price policy can change. The option states: Free supply is a permanent unamendable NFSA clause.
+- **B - Incorrect:** It was extended beyond 2023. The option states: The arrangement ended in December 2023.
+- **C - Correct:** The five-year executive arrangement covers both PHH and AAY entitlements. The option states: NFSA entitlements are supplied free under PMGKAY from 1 January 2024 through December 2028.
+- **D - Incorrect:** Both NFSA categories are covered. The option states: Only AAY receives free grain.
 
-A. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-B. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-C. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-D. Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
+**Examiner trap 23:** Date the free arrangement.
+
+### MCQ 24
+
+Which responsibility principally belongs to States under NFSA delivery?
+
+A. Approving national MSPs.
+B. Calculating WTO AMS for India.
+C. Creating the FCI central corporation.
+D. Identifying eligible households and managing ration cards and fair-price-shop delivery.
 
 **Answer: D.**
-**Explanation:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q29. Which statement correctly identifies Open-market release?
+**Option-wise explanation:**
+- **A - Incorrect:** CCEA approves MSP. The option states: Approving national MSPs.
+- **B - Incorrect:** WTO notification is Union-level. The option states: Calculating WTO AMS for India.
+- **C - Incorrect:** FCI is a Union statutory corporation. The option states: Creating the FCI central corporation.
+- **D - Correct:** States control key targeting and last-mile functions. The option states: Identifying eligible households and managing ration cards and fair-price-shop delivery.
 
-A. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-B. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-C. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-D. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
+**Examiner trap 24:** Assign failures to the responsible tier.
+
+### MCQ 25
+
+ONORC primarily enables:
+
+A. Portability of an identified NFSA entitlement across interoperable State systems.
+B. Universal ration eligibility for non-beneficiaries.
+C. Automatic doubling of monthly entitlement.
+D. MSP procurement from any mandi.
 
 **Answer: A.**
-**Explanation:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q30. Which option preserves the accounting or regulatory boundary of Open-market release?
+**Option-wise explanation:**
+- **A - Correct:** Portability follows the beneficiary, not a new entitlement. The option states: Portability of an identified NFSA entitlement across interoperable State systems.
+- **B - Incorrect:** Identification remains required. The option states: Universal ration eligibility for non-beneficiaries.
+- **C - Incorrect:** Quantity does not automatically double. The option states: Automatic doubling of monthly entitlement.
+- **D - Incorrect:** Procurement is unrelated. The option states: MSP procurement from any mandi.
 
-A. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-B. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-C. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-D. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
+**Examiner trap 25:** Portability is not universality.
+
+### MCQ 26
+
+What is the correct digitisation safeguard?
+
+A. A failed biometric proves ineligibility.
+B. Authentication failures require lawful fallback and grievance mechanisms for genuine beneficiaries.
+C. De-duplication eliminates all exclusion risk.
+D. ePoS replaces food stocks.
 
 **Answer: B.**
-**Explanation:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q31. Which statement uses Open-market release without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Device failure is not status proof. The option states: A failed biometric proves ineligibility.
+- **B - Correct:** Technology must improve integrity without causing denial. The option states: Authentication failures require lawful fallback and grievance mechanisms for genuine beneficiaries.
+- **C - Incorrect:** Record cleaning can wrongly delete. The option states: De-duplication eliminates all exclusion risk.
+- **D - Incorrect:** Delivery still requires physical grain. The option states: ePoS replaces food stocks.
 
-A. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-B. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-C. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-D. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
+**Examiner trap 26:** Authentication is evidence, not entitlement.
+
+### MCQ 27
+
+Which statement best distinguishes PDS targeting errors?
+
+A. All three mean the same missing stock.
+B. Exclusion is always fiscally beneficial.
+C. Exclusion denies an eligible person; inclusion covers an ineligible record; leakage diverts entitled grain.
+D. Leakage occurs only before procurement.
 
 **Answer: C.**
-**Explanation:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Open-market release?
+**Option-wise explanation:**
+- **A - Incorrect:** They require different remedies. The option states: All three mean the same missing stock.
+- **B - Incorrect:** Exclusion can create severe welfare loss. The option states: Exclusion is always fiscally beneficial.
+- **C - Correct:** The categories locate different failures. The option states: Exclusion denies an eligible person; inclusion covers an ineligible record; leakage diverts entitled grain.
+- **D - Incorrect:** Leakage can occur across delivery. The option states: Leakage occurs only before procurement.
 
-A. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-B. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-C. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-D. Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
+**Examiner trap 27:** Deletion counts do not prove successful targeting.
+
+### MCQ 28
+
+A cash-transfer alternative to in-kind PDS is most defensible when:
+
+A. Food-price inflation is ignored.
+B. Remote markets have no supply.
+C. Household control over cash never matters.
+D. Transfers are timely and indexed and local food markets and banking access are reliable.
 
 **Answer: D.**
-**Explanation:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q33. Which statement correctly identifies NFSA and TPDS?
+**Option-wise explanation:**
+- **A - Incorrect:** Indexation is necessary. The option states: Food-price inflation is ignored.
+- **B - Incorrect:** Cash cannot buy unavailable grain. The option states: Remote markets have no supply.
+- **C - Incorrect:** Intra-household incidence matters. The option states: Household control over cash never matters.
+- **D - Correct:** Cash shifts price and market risk to households. The option states: Transfers are timely and indexed and local food markets and banking access are reliable.
 
-A. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-B. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-C. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-D. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
+**Examiner trap 28:** DBT is a trade-off, not an automatic upgrade.
+
+### MCQ 29
+
+Nutrition security differs from cereal security because it includes:
+
+A. Dietary diversity, micronutrients, protein and biological utilisation.
+B. Only the size of FCI stocks.
+C. Only wheat and rice calories.
+D. Only the retail price of one grain.
 
 **Answer: A.**
-**Explanation:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q34. Which option preserves the accounting or regulatory boundary of NFSA and TPDS?
+**Option-wise explanation:**
+- **A - Correct:** Nutrition depends on diet and health conditions. The option states: Dietary diversity, micronutrients, protein and biological utilisation.
+- **B - Incorrect:** Stocks mainly address availability. The option states: Only the size of FCI stocks.
+- **C - Incorrect:** Calories alone are incomplete. The option states: Only wheat and rice calories.
+- **D - Incorrect:** One price cannot measure utilisation. The option states: Only the retail price of one grain.
 
-A. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-B. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-C. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-D. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
+**Examiner trap 29:** A full godown does not prove good nutrition.
 
-**Answer: B.**
-**Explanation:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 30
 
-### Q35. Which statement uses NFSA and TPDS without losing its vintage, basket or legal status?
+Under WTO AoA, market price support is broadly calculated using:
 
-A. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-B. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-C. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-D. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-
-**Answer: C.**
-**Explanation:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about NFSA and TPDS?
-
-A. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-B. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-C. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-D. The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-
-**Answer: D.**
-**Explanation:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies NFSA entitlement units?
-
-A. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-B. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-C. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-D. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-
-**Answer: A.**
-**Explanation:** The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of NFSA entitlement units?
-
-A. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-B. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-C. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-D. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
+A. MSP minus the current market price, multiplied by procurement only in every case.
+B. Administered price minus the fixed 1986-88 reference price, multiplied by eligible production.
+C. FCI economic cost minus NFSA price.
+D. C2 minus A2+FL.
 
 **Answer: B.**
-**Explanation:** The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q39. Which statement uses NFSA entitlement units without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Current market price is not the stated reference. The option states: MSP minus the current market price, multiplied by procurement only in every case.
+- **B - Correct:** The official WTO formula uses a historical external reference price. The option states: Administered price minus the fixed 1986-88 reference price, multiplied by eligible production.
+- **C - Incorrect:** This is domestic subsidy accounting. The option states: FCI economic cost minus NFSA price.
+- **D - Incorrect:** Farm-cost differences are not AMS. The option states: C2 minus A2+FL.
 
-A. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-B. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-C. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-D. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
+**Examiner trap 30:** WTO accounting is not budget accounting.
 
-**Answer: C.**
-**Explanation:** The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 31
 
-### Q40. Which option avoids the standard UPSC close-option trap about NFSA entitlement units?
+The Bali public-stockholding peace clause:
 
-A. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-B. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-C. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-D. The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-
-**Answer: D.**
-**Explanation:** The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies NFSA coverage ceilings?
-
-A. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-B. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-C. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-D. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-
-**Answer: A.**
-**Explanation:** The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of NFSA coverage ceilings?
-
-A. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-B. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-C. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-D. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-
-**Answer: B.**
-**Explanation:** The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses NFSA coverage ceilings without losing its vintage, basket or legal status?
-
-A. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-B. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-C. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-D. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
+A. Permanently places all MSP procurement in the Green Box.
+B. Removes transparency obligations.
+C. Provides conditional interim protection from specified WTO challenge for covered developing-country programmes.
+D. Applies automatically to every future programme without conditions.
 
 **Answer: C.**
-**Explanation:** The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q44. Which option avoids the standard UPSC close-option trap about NFSA coverage ceilings?
+**Option-wise explanation:**
+- **A - Incorrect:** Price support is not reclassified wholesale. The option states: Permanently places all MSP procurement in the Green Box.
+- **B - Incorrect:** Notification and safeguards remain. The option states: Removes transparency obligations.
+- **C - Correct:** The protection is conditional and interim pending a permanent solution. The option states: Provides conditional interim protection from specified WTO challenge for covered developing-country programmes.
+- **D - Incorrect:** Programme coverage conditions matter. The option states: Applies automatically to every future programme without conditions.
 
-A. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-B. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-C. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-D. The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
+**Examiner trap 31:** Peace clause is not unlimited exemption.
 
-**Answer: D.**
-**Explanation:** The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 32
 
-### Q45. Which statement correctly identifies Entitlement versus offtake?
+Which syllabus boundary is correct?
 
-A. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-B. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-C. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-D. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-
-**Answer: A.**
-**Explanation:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of Entitlement versus offtake?
-
-A. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-B. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-C. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-D. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-
-**Answer: B.**
-**Explanation:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses Entitlement versus offtake without losing its vintage, basket or legal status?
-
-A. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-B. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-C. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-D. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-
-**Answer: C.**
-**Explanation:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Entitlement versus offtake?
-
-A. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-B. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-C. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-D. A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
+A. Topic 12 must reproduce all mandi-law details.
+B. NFSA belongs to Topic 13.
+C. Buffer stocks are solely a crop-production topic.
+D. APMC, e-NAM, FPOs and general supply-chain regulation belong to Topic 13.
 
 **Answer: D.**
-**Explanation:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q49. Which statement correctly identifies PMGKAY status?
+**Option-wise explanation:**
+- **A - Incorrect:** Marketing institutions are separately owned. The option states: Topic 12 must reproduce all mandi-law details.
+- **B - Incorrect:** NFSA is central to Topic 12. The option states: NFSA belongs to Topic 13.
+- **C - Incorrect:** Buffers link distribution and stabilisation. The option states: Buffer stocks are solely a crop-production topic.
+- **D - Correct:** The boundary preserves food management here and markets there. The option states: APMC, e-NAM, FPOs and general supply-chain regulation belong to Topic 13.
 
-A. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-B. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-C. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-D. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-
-**Answer: A.**
-**Explanation:** PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q50. Which option preserves the accounting or regulatory boundary of PMGKAY status?
-
-A. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-B. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-C. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-D. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-
-**Answer: B.**
-**Explanation:** PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses PMGKAY status without losing its vintage, basket or legal status?
-
-A. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-B. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-C. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-D. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-
-**Answer: C.**
-**Explanation:** PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about PMGKAY status?
-
-A. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-B. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-C. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-D. PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification.
-
-**Answer: D.**
-**Explanation:** PMGKAY uses the public-distribution architecture for free-foodgrain support, but continuation, merger and beneficiary-period claims are executive-status questions that require a dated notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies ONORC portability?
-
-A. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-B. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-C. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-D. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-
-**Answer: A.**
-**Explanation:** One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of ONORC portability?
-
-A. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-B. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-C. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-D. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-
-**Answer: B.**
-**Explanation:** One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses ONORC portability without losing its vintage, basket or legal status?
-
-A. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-B. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-C. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-D. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-
-**Answer: C.**
-**Explanation:** One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about ONORC portability?
-
-A. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-B. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-C. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-D. One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability.
-
-**Answer: D.**
-**Explanation:** One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Digitisation trade-off?
-
-A. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-B. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-C. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-D. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-
-**Answer: A.**
-**Explanation:** End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Digitisation trade-off?
-
-A. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-B. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-C. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-D. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-
-**Answer: B.**
-**Explanation:** End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Digitisation trade-off without losing its vintage, basket or legal status?
-
-A. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-B. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-C. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-D. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-
-**Answer: C.**
-**Explanation:** End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Digitisation trade-off?
-
-A. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-B. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-C. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-D. End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries.
-
-**Answer: D.**
-**Explanation:** End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies Decentralised procurement?
-
-A. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-B. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-C. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-D. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-
-**Answer: A.**
-**Explanation:** Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of Decentralised procurement?
-
-A. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-B. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-C. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-D. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-
-**Answer: B.**
-**Explanation:** Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses Decentralised procurement without losing its vintage, basket or legal status?
-
-A. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-B. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-C. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-D. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-
-**Answer: C.**
-**Explanation:** Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Decentralised procurement?
-
-A. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-B. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-C. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-D. Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-
-**Answer: D.**
-**Explanation:** Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Price stabilisation?
-
-A. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-B. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-C. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-D. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-
-**Answer: A.**
-**Explanation:** Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Price stabilisation?
-
-A. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-B. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-C. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-D. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-
-**Answer: B.**
-**Explanation:** Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Price stabilisation without losing its vintage, basket or legal status?
-
-A. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-B. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-C. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-D. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-
-**Answer: C.**
-**Explanation:** Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Price stabilisation?
-
-A. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-B. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-C. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-D. Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
-
-**Answer: D.**
-**Explanation:** Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Nutrition dimensions?
-
-A. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-B. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-C. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-D. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-
-**Answer: A.**
-**Explanation:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Nutrition dimensions?
-
-A. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-B. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-C. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-D. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-
-**Answer: B.**
-**Explanation:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Nutrition dimensions without losing its vintage, basket or legal status?
-
-A. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-B. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-C. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-D. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-
-**Answer: C.**
-**Explanation:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Nutrition dimensions?
-
-A. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-B. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-C. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-D. Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-
-**Answer: D.**
-**Explanation:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Oilseed procurement boundary?
-
-A. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-B. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-C. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-D. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-
-**Answer: A.**
-**Explanation:** Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Oilseed procurement boundary?
-
-A. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-B. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-C. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-D. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-
-**Answer: B.**
-**Explanation:** Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Oilseed procurement boundary without losing its vintage, basket or legal status?
-
-A. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-B. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-C. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-D. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-
-**Answer: C.**
-**Explanation:** Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Oilseed procurement boundary?
-
-A. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-B. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-C. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-D. Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase.
-
-**Answer: D.**
-**Explanation:** Oilseed procurement is not an everywhere-unlimited operation equivalent to classic paddy-wheat procurement; agency operations, arrivals and scheme conditions determine actual purchase. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Crop-list and millet caution?
-
-A. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-B. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-C. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-D. Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-
-**Answer: A.**
-**Explanation:** The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Crop-list and millet caution?
-
-A. The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-B. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-C. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-D. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-
-**Answer: B.**
-**Explanation:** The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Crop-list and millet caution without losing its vintage, basket or legal status?
-
-A. A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
-B. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-C. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-D. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-
-**Answer: C.**
-**Explanation:** The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Crop-list and millet caution?
-
-A. FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-B. Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-C. Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-D. The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
-
-**Answer: D.**
-**Explanation:** The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 32:** Cross-link markets without duplicating Topic 13.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### VERIFIED ROUTED MAINS DEMANDS
 
-Audited ledgers route Mains demands on MSP and low farm income, food-distribution reform, NFSA, PDS transparency, buffer-stock stabilisation and millets. Objective demands test the CCEA announcement role, FCI economic cost, rice-price drivers, limits of oilseed procurement and niger seed; no answer letter is inferred.
+These demands are verified through audited official-paper routing ledgers. The solutions are original models, not official UPSC answers.
 
-### OWNER PYQ LEDGER EXTRACTS
+### 2018 GS-III ROUTE — MSP AND LOW FARM INCOME
 
-#### 9. PYQ application
+**Demand:** Discuss how MSP can help protect farmers from low income.
 
-- ⚠️ 2024 GS-III: Importance of buffer stocks for price stabilisation and storage challenges.
-- ⚠️ 2024 GS-III: Millets as a route to health and nutritional security.
-- ⚠️ **Buffer-stock answer route:** separate MSP signal, procurement operations, buffer norms, storage cost, open-market release and PDS delivery; then show why excess or badly composed stocks create fiscal and logistical stress.
-- ⚠️ **Millet answer route:** connect nutrition diversification, climate resilience and local suitability with procurement, processing, consumer demand and public-distribution constraints.
-- ⚠️ **Unfamiliar-question route:** if asked about subsidy burden or FCI reform, pivot to CACP, FCI, NFSA, PMGKAY, Shanta Kumar Committee and the leakage-versus-guarantee trade-off.
-- ⚠️ **PDS reform/transparency route (15-mark scale):** use the Section 5A reform bank — ONORC portability, end-to-end computerisation/ePoS-Aadhaar authentication, fortified rice, and the DBT/cash-transfer trade-off — each with its named limitation, rather than describing "digitisation" generically.
+**Model solution:** MSP can reduce downside price risk and guide sowing, but only procurement or credible market transmission makes the signal effective. CACP recommends and CCEA decides; the official benchmark is at least 1.5 times all-India weighted average A2+FL. Protection remains partial because purchase is crop-, quality-, season- and location-specific and farm income also depends on yield, area, costs and weather. MSP should therefore be combined with productivity, diversification, insurance, market access and suitable income support.
 
-**Demand decoding:** The directive **answer** requires a direct position on “9. PYQ application”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+### 2019 GS-III ROUTE — FOODGRAIN DISTRIBUTION REFORM
 
-**Detailed examiner-grade model answer:**
+**Demand:** Discuss reforms required to make foodgrain distribution effective.
 
-**Introduction and thesis:** The answer must resolve the Economy demand in “9. PYQ application”.
+**Model solution:** Reform must integrate accurate and appealable beneficiary lists, end-to-end stock tracking, viable fair-price shops, timely movement, ONORC portability and authentication fallback. Allocation, offtake and household receipt should be publicly distinguished. Social audits, vigilance committees, DGROs and State Food Commissions need time-bound remedies. Cash transfers may work where banking and food markets are reliable, but in-kind grain should remain a fallback against inflation and supply failure. Effectiveness should be measured by receipt, diet and reduced hunger rather than digitisation alone.
 
-**Analytical body:**
+### 2021 GS-III ROUTE — NFSA AND HUNGER
 
-1. **Claim and named evidence:** ⚠️ 2024 GS-III: Importance of buffer stocks for price stabilisation and storage challenges. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** ⚠️ 2024 GS-III: Millets as a route to health and nutritional security. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** ⚠️ Millet answer route: connect nutrition diversification, climate resilience and local suitability with procurement, processing, consumer demand and public-distribution constraints. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** ⚠️ Unfamiliar-question route: if asked about subsidy burden or FCI reform, pivot to CACP, FCI, NFSA, PMGKAY, Shanta Kumar Committee and the leakage-versus-guarantee trade-off. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+**Demand:** Explain NFSA 2013 features and its role in addressing hunger.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Model solution:** NFSA creates legal TPDS entitlements: PHH members receive 5 kilograms per person monthly and AAY households 35 kilograms per household, within coverage ceilings of up to 75 per cent rural and 50 per cent urban population. It assigns federal responsibilities and provides transparency, grievance and food-security-allowance mechanisms. The Act strengthens access and stability, but hunger also reflects income, diet, health, water, sanitation and care. Thus NFSA is a necessary cereal-access floor, not a complete nutrition policy.
 
-**Qualified conclusion:** The answer must resolve the Economy demand in “9. PYQ application”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “9. PYQ application”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-#### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
-
-- **Years represented:** 2024
-- **Paper(s):** GS-III
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-III | 4 | Role of millets in health and nutritional security | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2024 | GS-III | 14 | Importance of buffer stocks for price stabilization; storage challenges | Elucidate · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Role of millets in health and nutritional security
-- Importance of buffer stocks for price stabilization; storage challenges
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 9
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 3 | Minimum Support Price and farmer low income protection | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2018 | Prelims GS-I | 93 | MSP for crops announced by Cabinet Committee Economic Affairs | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | GS-III | 13 | Reformative steps to make food grain distribution system effective | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | Prelims GS-I | 79 | Economic cost formula for food grains to FCI | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 63 | Factors affecting rice price in India recently | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 69 | MSP procurement unlimited status in Indian states oilseeds | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | GS-III | 13 | National Food Security Act 2013 features and hunger impact | What are · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 3 | Challenges of PDS and improving its effectiveness and transparency | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | Prelims GS-I | 27 | Niger seed MSP cultivation season tribal communities | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Minimum Support Price and farmer low income protection
-- MSP for crops announced by Cabinet Committee Economic Affairs
-- Reformative steps to make food grain distribution system effective
-- Economic cost formula for food grains to FCI
-- Factors affecting rice price in India recently
-- MSP procurement unlimited status in Indian states oilseeds
-- National Food Security Act 2013 features and hunger impact
-- Challenges of PDS and improving its effectiveness and transparency
-- Niger seed MSP cultivation season tribal communities
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ 2024 GS-III: Importance of buffer stocks for price stabilisation and storage
-  challenges.
-- ⚠️ 2024 GS-III: Millets as a route to health and nutritional security.
-- ⚠️ **Millet answer engine:** nutrition and dietary diversity; climate/rainfed
-  suitability where applicable; lower input or water pressure relative to local
-  alternatives; then constraints in seed, yields, processing, procurement, consumer
-  demand and value chains.
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2018, 2019, 2021, 2022
-- **Paper(s):** GS-III
-- **Routed question demands:** 4
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 3 | Minimum Support Price and farmer low income protection | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-III | 13 | Reformative steps to make food grain distribution system effective | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-III | 13 | National Food Security Act 2013 features and hunger impact | What are · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 3 | Challenges of PDS and improving its effectiveness and transparency | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Minimum Support Price and farmer low income protection
-- Reformative steps to make food grain distribution system effective
-- National Food Security Act 2013 features and hunger impact
-- Challenges of PDS and improving its effectiveness and transparency
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### PYQ DEMAND CARD 1 — 2018 GS-III
-
-**Demand:** Discuss MSP as an instrument for protecting farmers from low income.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **MSP announcement:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **CACP and CCEA:** The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages. **Cost concepts:** A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim. **Procurement:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Uneven procurement access:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2018 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **MSP announcement:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **CACP and CCEA:** The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages. **Cost concepts:** A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim. **Procurement:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Uneven procurement access:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Discuss MSP as an instrument for protecting farmers from low income. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **MSP announcement:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **CACP and CCEA:** The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages. **Cost concepts:** A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim. **Procurement:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Uneven procurement access:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2018 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 2 — 2019 GS-III
-
-**Demand:** Suggest reforms to make foodgrain distribution more effective.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **NFSA and TPDS:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Entitlement versus offtake:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **ONORC portability:** One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability. **Digitisation trade-off:** End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2019 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **NFSA and TPDS:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Entitlement versus offtake:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **ONORC portability:** One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability. **Digitisation trade-off:** End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Suggest reforms to make foodgrain distribution more effective. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **NFSA and TPDS:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Entitlement versus offtake:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **ONORC portability:** One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability. **Digitisation trade-off:** End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2019 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 3 — 2021 GS-III
-
-**Demand:** Explain the NFSA architecture and assess its effect on hunger.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **NFSA and TPDS:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **NFSA entitlement units:** The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed. **NFSA coverage ceilings:** The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state. **Entitlement versus offtake:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Nutrition dimensions:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2021 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **NFSA and TPDS:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **NFSA entitlement units:** The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed. **NFSA coverage ceilings:** The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state. **Entitlement versus offtake:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Nutrition dimensions:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Explain the NFSA architecture and assess its effect on hunger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **NFSA and TPDS:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **NFSA entitlement units:** The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed. **NFSA coverage ceilings:** The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state. **Entitlement versus offtake:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Nutrition dimensions:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2021 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 4 — 2022 GS-III
+### 2022 GS-III ROUTE — PDS CHALLENGES
 
 **Demand:** Discuss PDS challenges and measures for effectiveness and transparency.
 
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
+**Model solution:** PDS faces diversion, stale lists, exclusion, uneven dealer viability, transport gaps and authentication failure. End-to-end computerisation and ePoS can improve traceability, while ONORC supports migrants. However, technology requires alternate authentication and prompt correction. Public stock and transaction disclosure, social audit, vigilance committees, DGROs and State Food Commissions strengthen accountability. Nutrition-sensitive baskets and reliable quality control should accompany cereal delivery. The reform test is whether an entitled household actually receives usable food on time.
 
-**Model solution:** **NFSA and TPDS:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Entitlement versus offtake:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **ONORC portability:** One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability. **Digitisation trade-off:** End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+### 2024 GS-III ROUTE — BUFFER STOCKS
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 4 — 2022 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Demand:** Elucidate the role of buffer stocks in price stabilisation and the associated storage challenges.
 
-**Detailed examiner-grade model answer:**
+**Model solution:** Procurement supports producer prices and builds operational and strategic reserves. NFSA releases protect entitled consumers, while OMSS can add market supply during inflation. Inter-State movement and emergency stocks strengthen availability and stability. Yet excess or poorly located stocks raise interest, storage, handling, quality and opportunity costs and can crowd private storage. Dynamic norms, modern silos, first-in-first-out rotation, transparent OMSS triggers and diversified procurement can preserve insurance while lowering avoidable cost.
 
-**Introduction and thesis:** **NFSA and TPDS:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Entitlement versus offtake:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **ONORC portability:** One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability. **Digitisation trade-off:** End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+### 2024 GS-III ROUTE — MILLETS AND NUTRITION
 
-**Analytical body:**
+**Demand:** Explain how millets can contribute to health and nutritional security.
 
-1. **Claim and named evidence:** Demand: Discuss PDS challenges and measures for effectiveness and transparency. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+**Model solution:** Millets can diversify cereal-heavy diets and, depending on the millet, contribute fibre and micronutrients. Their suitability to many dryland systems can also reduce production risk and water pressure relative to unsuitable paddy expansion. However, nutrition gains require processing, palatability, dietary uptake and reliable quality. Farmer gains need seed, extension, procurement or market demand and local value chains. Millets should complement, not displace mechanically, regional staple and nutrition strategies.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+### OBJECTIVE PYQ ROUTING — KEY WITHHELD WHERE NOT LOCALLY VERIFIED
 
-**Qualified conclusion:** **NFSA and TPDS:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Entitlement versus offtake:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **ONORC portability:** One Nation One Ration Card enables portability within the NFSA delivery architecture, but portability use depends on beneficiary awareness, identity matching, ePoS connectivity and stock availability. **Digitisation trade-off:** End-to-end computerisation and ePoS authentication can reduce duplicate records and diversion, while device, connectivity, seeding or biometric failure can exclude genuine beneficiaries. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+| Year / paper | Routed official-paper demand | Key discipline |
+|---|---|---|
+| 2018 Prelims GS-I Q93 | CCEA and MSP announcement | Answer withheld pending official UPSC key. |
+| 2019 Prelims GS-I Q79 | FCI economic-cost formula | Answer withheld pending official UPSC key. |
+| 2020 Prelims GS-I Q63 | Factors affecting rice prices | Answer withheld pending official UPSC key. |
+| 2020 Prelims GS-I Q69 | Oilseed procurement and unlimited-purchase claim | Answer withheld pending official UPSC key. |
+| 2023 Prelims GS-I Q27 | Nigerseed MSP, season and tribal cultivation | Answer withheld pending official UPSC key. |
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 4 — 2022 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 5 — 2024 GS-III
-
-**Demand:** Elucidate the importance of buffer stocks for price stabilisation and the storage challenge.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **FCI economic cost:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Buffer-stock boundary:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Open-market release:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Price stabilisation:** Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 5 — 2024 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **FCI economic cost:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Buffer-stock boundary:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Open-market release:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Price stabilisation:** Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Elucidate the importance of buffer stocks for price stabilisation and the storage challenge. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **FCI economic cost:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Buffer-stock boundary:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Open-market release:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Price stabilisation:** Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 5 — 2024 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 6 — 2024 GS-III
-
-**Demand:** Explain the role of millets in health and nutritional security.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **Nutrition dimensions:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. **Crop-list and millet caution:** The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 6 — 2024 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Nutrition dimensions:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. **Crop-list and millet caution:** The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Explain the role of millets in health and nutritional security. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Nutrition dimensions:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. **Crop-list and millet caution:** The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 6 — 2024 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish MSP recommendation, announcement and procurement. Answer in about 150 words.
+**Question:** Why can MSP provide only partial protection against low farm income? Answer in 150 words.
 
-**Model thesis:** **Claim:** MSP announcement. **Named evidence/example:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** CACP and CCEA. **Named evidence/example:** The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Procurement. **Named evidence/example:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Uneven procurement access. **Named evidence/example:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+MSP is a pre-season administered price for specified crops, not a universal income guarantee. CACP recommends and CCEA decides. The policy benchmark is at least 1.5 times the all-India weighted average A2+FL cost.
 
-- Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-- The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages.
-- Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-- Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
+Protection remains partial because announcement differs from procurement. A farmer must offer eligible produce, meet Fair Average Quality, reach an operating centre and sell during the procurement period. Purchase is concentrated in paddy, wheat and established States, while many producers sell locally. Farms with higher costs may not realise the published average margin.
 
-**Qualified conclusion:** **Claim:** MSP announcement. **Named evidence/example:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** CACP and CCEA. **Named evidence/example:** The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Procurement. **Named evidence/example:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Uneven procurement access. **Named evidence/example:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+Income also depends on yield, area, input prices, crop loss and weather. MSP can reduce downside price risk and guide sowing, but broader income security requires productivity, diversification, insurance, market access and appropriate transfers.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish MSP recommendation, announcement and procurement. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Native-body word count:** 141 / 150.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** MSP announcement. **Named evidence/example:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** CACP and CCEA. **Named evidence/example:** The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Procurement. **Named evidence/example:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Uneven procurement access. **Named evidence/example:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** MSP announcement. **Named evidence/example:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** CACP and CCEA. **Named evidence/example:** The Commission for Agricultural Costs and Prices recommends MSPs, while the Cabinet Committee on Economic Affairs takes the Union-level announcement decision; recommendation and decision are distinct stages. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Procurement. **Named evidence/example:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Uneven procurement access. **Named evidence/example:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish MSP recommendation, announcement and procurement. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named constitutional/statutory evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Explain why the cost concept changes an MSP-margin claim. Answer in about 150 words.
+**Question:** Distinguish A2, A2+FL and C2 and explain the official MSP formula. Answer in 150 words.
 
-**Model thesis:** **Claim:** Cost concepts. **Named evidence/example:** A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+A2 records paid-out cultivation expenses such as seed, fertiliser, hired labour, machinery and irrigation under the CACP method. A2+FL adds imputed unpaid family labour. C2 adds imputed rent on owned land and interest on owned fixed capital.
 
-- A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim.
+The Union policy announced through the 2018-19 Budget framework fixes MSP at least 1.5 times the all-India weighted average A2+FL cost. CACP also considers C2 and wider demand, supply, parity and price factors.
 
-**Qualified conclusion:** **Claim:** Cost concepts. **Named evidence/example:** A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+Thus the official 50 per cent margin claim and the farmer demand for C2 plus 50 per cent use different denominators. Neither average guarantees the same margin in practice on every farm because costs, yields and procurement access vary by crop and State.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why the cost concept changes an MSP-margin claim. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Native-body word count:** 135 / 150.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Cost concepts. **Named evidence/example:** A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Cost concepts. **Named evidence/example:** A2 records paid-out expenses, A2+FL adds imputed family labour, and C2 further includes imputed rent on owned land and interest on owned fixed capital; the named base matters to any margin claim. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Explain why the cost concept changes an MSP-margin claim. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named constitutional/statutory evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Trace FCI economic cost and the public-stock cycle. Answer in about 250 words.
+**Question:** Explain how buffer stocks stabilise food prices and why excess stocks create problems. Answer in 250 words.
 
-**Model thesis:** **Claim:** FCI economic cost. **Named evidence/example:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Buffer-stock boundary. **Named evidence/example:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Open-market release. **Named evidence/example:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Buffer stocks combine operational inventory for routine NFSA and welfare distribution with strategic reserves for shocks. Quarterly norms reflect seasonal procurement and distribution: the minimum central-pool requirement is highest after major arrivals and lower as grain is issued.
 
-- FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-- Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-- Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
+Stocks stabilise prices through two directions. Procurement absorbs eligible surplus when market prices weaken, supporting producers and building reserves. During shortage or inflation, NFSA releases protect entitled households and OMSS sales add market supply. Inter-State movement also transfers grain from procurement regions to deficit regions. The buffer therefore supports availability, access and stability.
 
-**Qualified conclusion:** **Claim:** FCI economic cost. **Named evidence/example:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Buffer-stock boundary. **Named evidence/example:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Open-market release. **Named evidence/example:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+However, stock above a justified norm carries interest, storage, handling, preservation and quality costs. Slow rotation increases deterioration risk and occupies capacity needed for new arrivals. Large public inventories can crowd private storage, intensify fiscal subsidy and reinforce paddy-wheat procurement even in water-stressed regions. A stock labelled 'excess' may also be poorly located or already committed, so simple subtraction from the norm is insufficient.
 
-**Demand decoding:** The directive **trace** requires a direct position on “Trace FCI economic cost and the public-stock cycle. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Reform requires dynamic stocking based on dated inventory, pipeline obligations and shock risk; modern silos and quality monitoring; transparent first-in-first-out rotation; decentralised procurement where efficient; and predictable OMSS triggers. The objective is adequate insurance, not maximum stock.
 
-**Detailed examiner-grade model answer:**
+**Native-body word count:** 211 / 250.
 
-**Introduction and thesis:** **Claim:** FCI economic cost. **Named evidence/example:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Buffer-stock boundary. **Named evidence/example:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Open-market release. **Named evidence/example:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** FCI economic cost. **Named evidence/example:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Buffer-stock boundary. **Named evidence/example:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Open-market release. **Named evidence/example:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Trace FCI economic cost and the public-stock cycle. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named constitutional/statutory evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Distinguish NFSA entitlement, TPDS delivery and actual offtake. Answer in about 250 words.
+**Question:** Discuss reforms needed to make TPDS effective, transparent and exclusion-safe. Answer in 250 words.
 
-**Model thesis:** **Claim:** NFSA and TPDS. **Named evidence/example:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NFSA entitlement units. **Named evidence/example:** The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NFSA coverage ceilings. **Named evidence/example:** The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Entitlement versus offtake. **Named evidence/example:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+TPDS converts NFSA allocation into household receipt through State depots and fair-price shops. Reform must therefore address lists, logistics, transactions and remedies together.
 
-- The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-- The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed.
-- The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state.
-- A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
+First, beneficiary databases need regular, appealable updating so deaths and duplicates are removed without excluding migrants, elderly people, women or newly poor households. One Nation One Ration Card should be supported by interoperable stocks, beneficiary awareness and split-family portability. Second, end-to-end computerisation, GPS or stock tracking and ePoS records can expose diversion, but biometric or network failure must trigger alternate authentication rather than denial.
 
-**Qualified conclusion:** **Claim:** NFSA and TPDS. **Named evidence/example:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NFSA entitlement units. **Named evidence/example:** The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NFSA coverage ceilings. **Named evidence/example:** The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Entitlement versus offtake. **Named evidence/example:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+Third, allocation, offtake, fair-price-shop stock and household receipt should be disclosed in accessible formats. Social audits, vigilance committees, District Grievance Redressal Officers and State Food Commissions need time-bound powers and public compliance reporting. Dealer margins and shop viability also affect service quality.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish NFSA entitlement, TPDS delivery and actual offtake. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Fourth, food quality, timely movement and doorstep delivery require stronger warehouse and transport accountability. Nutrition-sensitive additions must respect local diets and reliable supply.
 
-**Detailed examiner-grade model answer:**
+Cash transfer can reduce handling where banking and competitive food markets are dependable, but inflation indexation, payment delay and intra-household control create risks. Hence reform should preserve an in-kind fallback and judge success by actual receipt and reduced hunger, not merely digitisation or deletion counts.
 
-**Introduction and thesis:** **Claim:** NFSA and TPDS. **Named evidence/example:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NFSA entitlement units. **Named evidence/example:** The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NFSA coverage ceilings. **Named evidence/example:** The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Entitlement versus offtake. **Named evidence/example:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Native-body word count:** 216 / 250.
 
-**Analytical body:**
-
-1. **Claim and named evidence:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** NFSA and TPDS. **Named evidence/example:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NFSA entitlement units. **Named evidence/example:** The owner records Priority Household entitlement per person per month and Antyodaya Anna Yojana entitlement per household per month, so beneficiary category and accounting unit must not be mixed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NFSA coverage ceilings. **Named evidence/example:** The owner records NFSA coverage ceilings of up to 75 per cent of rural population and 50 per cent of urban population; ceilings are not identical to actual enrolled beneficiaries in each state. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Entitlement versus offtake. **Named evidence/example:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish NFSA entitlement, TPDS delivery and actual offtake. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named constitutional/statutory evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Evaluate India's food-management system from procurement to price stabilisation. Answer in about 300 words.
+**Question:** How can India reconcile farm price support with nutrition and ecological sustainability? Answer in 250 words.
 
-**Model thesis:** **Claim:** Procurement. **Named evidence/example:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FCI economic cost. **Named evidence/example:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Buffer-stock boundary. **Named evidence/example:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Open-market release. **Named evidence/example:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Decentralised procurement. **Named evidence/example:** Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Price stabilisation. **Named evidence/example:** Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+India's procurement system successfully created reliable cereal channels, but deep paddy-wheat purchase also shapes cropping patterns, stocks and water use. Reform should retain downside protection while changing the relative incentives facing farmers and consumers.
 
-- Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification.
-- FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain.
-- Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date.
-- Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct.
-- Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions.
-- Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice.
+Price policy must continue to state costs transparently, yet effective support should expand through region-specific operations for pulses, oilseeds and suitable millets rather than an undifferentiated open-ended promise. Decentralised procurement can connect local crops with local NFSA or welfare demand where quality, storage and processing capacity exist. Farmer organisations, grading and processing are needed so alternative crops have buyers beyond the State.
 
-**Qualified conclusion:** **Claim:** Procurement. **Named evidence/example:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FCI economic cost. **Named evidence/example:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Buffer-stock boundary. **Named evidence/example:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Open-market release. **Named evidence/example:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Decentralised procurement. **Named evidence/example:** Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Price stabilisation. **Named evidence/example:** Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+On the consumer side, food security should move from cereal quantity toward dietary diversity. Pulses, millets and context-appropriate fortified staples can supplement the core entitlement, while health, water and sanitation determine utilisation. The fortified-rice programme approved through December 2028 is one instrument, not a substitute for diverse diets.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate India's food-management system from procurement to price stabilisation. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Ecological signals should reflect groundwater and soil stress. Crop substitution must follow agro-climatic suitability and protect farm income during transition. Detailed APMC and e-NAM reform belongs to Topic 13, while detailed input sustainability belongs elsewhere.
 
-**Detailed examiner-grade model answer:**
+The goal is a diversified price-procurement-consumption system that preserves staple security while improving nutrition, water resilience and regional equity.
 
-**Introduction and thesis:** **Claim:** Procurement. **Named evidence/example:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FCI economic cost. **Named evidence/example:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Buffer-stock boundary. **Named evidence/example:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Open-market release. **Named evidence/example:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Decentralised procurement. **Named evidence/example:** Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Price stabilisation. **Named evidence/example:** Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Native-body word count:** 217 / 250.
 
-**Analytical body:**
-
-1. **Claim and named evidence:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Procurement. **Named evidence/example:** Procurement is actual agency purchase of eligible produce under specified crop, grade, season, geography and operational conditions; it must not be inferred from MSP notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FCI economic cost. **Named evidence/example:** FCI's economic cost is broader than MSP because procurement incidentals, movement, storage, carrying and distribution-related costs enter the public food-management chain. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Buffer-stock boundary. **Named evidence/example:** Buffer stock is publicly held inventory for operational distribution, strategic security and stabilisation; buffer norms are desired benchmarks, not the actual stock on every date. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Open-market release. **Named evidence/example:** Open Market Sale Scheme releases address broader market supply and price conditions, while PDS releases serve household entitlements; the channels and purposes must remain distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Decentralised procurement. **Named evidence/example:** Decentralised procurement gives participating states a larger operational role in purchase, storage and distribution, without eliminating Union financing, stock-transfer or quality questions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Price stabilisation. **Named evidence/example:** Public purchase can support farm prices and later stock release can moderate consumer prices, but excessive or unpredictable intervention can crowd private storage and distort crop choice. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Evaluate India's food-management system from procurement to price stabilisation. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named constitutional/statutory evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** How can food security balance farmer support, consumer access, nutrition and fiscal discipline? Answer in about 300 words.
+**Question:** Design an integrated reform of MSP, procurement, stocks and NFSA within WTO constraints. Answer in 250 words.
 
-**Model thesis:** **Claim:** MSP announcement. **Named evidence/example:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Uneven procurement access. **Named evidence/example:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NFSA and TPDS. **Named evidence/example:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Entitlement versus offtake. **Named evidence/example:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Nutrition dimensions. **Named evidence/example:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Crop-list and millet caution. **Named evidence/example:** The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+An integrated reform should begin by separating instruments. CACP should publish transparent A2, A2+FL and C2 evidence, while CCEA decisions retain the official 1.5-times A2+FL qualification. Price support should be targeted to genuine downside risk and complemented by crop-neutral income or risk support where physical procurement is inefficient.
 
-- Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee.
-- Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures.
-- The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical.
-- A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure.
-- Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care.
-- The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification.
+Procurement should become more regionally and nutritionally diverse through capable State agencies, while open-ended paddy-wheat purchase remains tied to Fair Average Quality and operational need. Central-pool accounting should distinguish stocks committed to NFSA, strategic reserves and discretionary excess. Dynamic quarterly planning, modern silos, quality audits and predictable OMSS releases can reduce carrying costs and crowding of private storage.
 
-**Qualified conclusion:** **Claim:** MSP announcement. **Named evidence/example:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Uneven procurement access. **Named evidence/example:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NFSA and TPDS. **Named evidence/example:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Entitlement versus offtake. **Named evidence/example:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Nutrition dimensions. **Named evidence/example:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Crop-list and millet caution. **Named evidence/example:** The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+NFSA rights must remain central. Updated but appealable lists, ONORC portability, end-to-end tracking, authentication fallback, social audit and strong grievance bodies should minimise both diversion and exclusion. Free grain approved through December 2028 must be evaluated separately from statutory entitlement quantities. Nutrition-sensitive baskets should be locally feasible.
 
-**Demand decoding:** The directive **answer** requires a direct position on “How can food security balance farmer support, consumer access, nutrition and fiscal…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+WTO accounting requires caution: market price support uses a fixed 1986-88 external reference price and eligible production, while the Bali peace clause is conditional and interim. India should meet notification and safeguard duties while pursuing a permanent solution.
 
-**Detailed examiner-grade model answer:**
+The result should balance farmer remuneration, consumer access, fiscal prudence, ecological diversification and legal policy space.
 
-**Introduction and thesis:** **Claim:** MSP announcement. **Named evidence/example:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Uneven procurement access. **Named evidence/example:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NFSA and TPDS. **Named evidence/example:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Entitlement versus offtake. **Named evidence/example:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Nutrition dimensions. **Named evidence/example:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Crop-list and millet caution. **Named evidence/example:** The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Native-body word count:** 229 / 250.
 
-**Analytical body:**
-
-1. **Claim and named evidence:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** MSP announcement. **Named evidence/example:** Minimum Support Price is an announced price signal and downside-support instrument; announcement alone is not a universal legal purchase or income guarantee. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Uneven procurement access. **Named evidence/example:** Effective support varies by crop, state, market arrivals, agency presence and quality compliance, so announced coverage and realised procurement are different measures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NFSA and TPDS. **Named evidence/example:** The National Food Security Act provides a statutory entitlement architecture, while the Targeted Public Distribution System is the principal delivery network; law and delivery operation are not identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Entitlement versus offtake. **Named evidence/example:** A legal allocation or entitlement does not prove household offtake, consumption, nutritional utilisation or error-free delivery; each is a separate outcome measure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Nutrition dimensions. **Named evidence/example:** Food security includes availability, economic access, utilisation or nutrition and stability; cereal distribution alone cannot substitute for diverse diets, sanitation, health and care. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Crop-list and millet caution. **Named evidence/example:** The owner distinguishes notified price-support crops, sugarcane's separate FRP mechanism and millet or niger-seed questions; exact current lists, rates and season claims require the relevant notification. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “How can food security balance farmer support, consumer access, nutrition and fiscal…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named constitutional/statutory evidence -> economic analysis -> qualification -> concise conclusion.

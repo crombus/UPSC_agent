@@ -1,1190 +1,656 @@
-# Direct and Indirect Farm Subsidies and WTO Rules — Solved Practice Workbook
+# Economy Topic 28: Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-03. Uses the same source-bounded Economy distinctions and strict A-B-C-D rotation.
+**Status cutoff:** 10 September 2026. Exact answer rotation is ABCD repeated eight times.
 
-## BASIC MCQS / REMEDIATION
+## MCQs
 
-### Q1. Which statement correctly identifies Delivery and legal classification?
+### Q1. Which statement best defines economic incidence?
 
-A. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-B. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-C. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-D. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
+A. The final distribution of benefit after price and quantity adjustments
+B. The ministry named in the scheme
+C. The first account receiving payment
+D. The amount printed in the Budget
 
-**Answer: A.**
-**Explanation:** Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: A**
 
-### Q2. Which option preserves the accounting or regulatory boundary of Delivery and legal classification?
+**Option explanations:**
+- A. Correct: The final distribution of benefit after price and quantity adjustments; incidence follows market adjustment, not administrative routing.
+- B. Incorrect: The ministry named in the scheme; it does not satisfy the controlling distinction because incidence follows market adjustment, not administrative routing.
+- C. Incorrect: The first account receiving payment; it does not satisfy the controlling distinction because incidence follows market adjustment, not administrative routing.
+- D. Incorrect: The amount printed in the Budget; it does not satisfy the controlling distinction because incidence follows market adjustment, not administrative routing.
 
-A. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-B. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-C. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-D. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
+**UPSC trap:** Trap 1: The ministry or first payee is not the final economic beneficiary.
 
-**Answer: B.**
-**Explanation:** Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q2. Which pairing is correct?
 
-### Q3. Which statement uses Delivery and legal classification without losing its vintage, basket or legal status?
+A. All direct support is off-budget
+B. Direct support and explicit support are different classification axes
+C. All indirect support is implicit
+D. All explicit support reaches farmers in cash
 
-A. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-B. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-C. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-D. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- A. Incorrect: All direct support is off-budget; it does not satisfy the controlling distinction because direct/indirect describes delivery or linkage while explicit/implicit describes fiscal visibility.
+- B. Correct: Direct support and explicit support are different classification axes; direct/indirect describes delivery or linkage while explicit/implicit describes fiscal visibility.
+- C. Incorrect: All indirect support is implicit; it does not satisfy the controlling distinction because direct/indirect describes delivery or linkage while explicit/implicit describes fiscal visibility.
+- D. Incorrect: All explicit support reaches farmers in cash; it does not satisfy the controlling distinction because direct/indirect describes delivery or linkage while explicit/implicit describes fiscal visibility.
 
-### Q4. Which option avoids the standard UPSC close-option trap about Delivery and legal classification?
+**UPSC trap:** Trap 2: Direct-indirect and explicit-implicit are two axes, not interchangeable pairs.
 
-A. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-B. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-C. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-D. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
+### Q3. Fertiliser DBT primarily means
 
-**Answer: D.**
-**Explanation:** Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Unconditional cash to every cultivator
+B. Inclusion of urea in NBS
+C. Company subsidy release linked to PoS-recorded retail sale
+D. Replacement of all fertiliser price rules
 
-### Q5. Which statement correctly identifies Explicit and implicit support?
+**Answer: C**
 
-A. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-B. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-C. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-D. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
+**Option explanations:**
+- A. Incorrect: Unconditional cash to every cultivator; it does not satisfy the controlling distinction because the official DBT architecture reimburses firms after verified sales.
+- B. Incorrect: Inclusion of urea in NBS; it does not satisfy the controlling distinction because the official DBT architecture reimburses firms after verified sales.
+- C. Correct: Company subsidy release linked to PoS-recorded retail sale; the official DBT architecture reimburses firms after verified sales.
+- D. Incorrect: Replacement of all fertiliser price rules; it does not satisfy the controlling distinction because the official DBT architecture reimburses firms after verified sales.
 
-**Answer: A.**
-**Explanation:** Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Trap 3: The letters DBT do not prove that cash reaches a farmer.
 
-### Q6. Which option preserves the accounting or regulatory boundary of Explicit and implicit support?
+### Q4. Under current official architecture, NBS covers
 
-A. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-B. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-C. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-D. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
+A. Only urea
+B. Electricity supplied to pump sets
+C. All farm machinery
+D. Notified phosphatic and potassic fertiliser grades
 
-**Answer: B.**
-**Explanation:** Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: D**
 
-### Q7. Which statement uses Explicit and implicit support without losing its vintage, basket or legal status?
+**Option explanations:**
+- A. Incorrect: Only urea; it does not satisfy the controlling distinction because NBS is the nutrient-rate framework for notified P&K grades.
+- B. Incorrect: Electricity supplied to pump sets; it does not satisfy the controlling distinction because NBS is the nutrient-rate framework for notified P&K grades.
+- C. Incorrect: All farm machinery; it does not satisfy the controlling distinction because NBS is the nutrient-rate framework for notified P&K grades.
+- D. Correct: Notified phosphatic and potassic fertiliser grades; NBS is the nutrient-rate framework for notified P&K grades.
 
-A. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-B. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-C. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-D. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
+**UPSC trap:** Trap 4: Urea must not be placed inside the NBS basket.
 
-**Answer: C.**
-**Explanation:** Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q5. A Budget Estimate is
 
-### Q8. Which option avoids the standard UPSC close-option trap about Explicit and implicit support?
+A. A planned provision for the financial year
+B. Audited final expenditure
+C. A WTO notification value
+D. The producer's net benefit
 
-A. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-B. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-C. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-D. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- A. Correct: A planned provision for the financial year; BE must not be confused with Actual or incidence.
+- B. Incorrect: Audited final expenditure; it does not satisfy the controlling distinction because BE must not be confused with Actual or incidence.
+- C. Incorrect: A WTO notification value; it does not satisfy the controlling distinction because BE must not be confused with Actual or incidence.
+- D. Incorrect: The producer's net benefit; it does not satisfy the controlling distinction because BE must not be confused with Actual or incidence.
 
-### Q9. Which statement correctly identifies Income support boundary?
+**UPSC trap:** Trap 5: A Budget Estimate is neither audited spending nor measured welfare.
 
-A. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-B. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-C. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-D. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
+### Q6. Why can a quantity-linked input subsidy be regressive?
 
-**Answer: A.**
-**Explanation:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Every recipient receives identical value
+B. Larger users may capture more total benefit
+C. It always excludes landowners
+D. Its fiscal cost is always zero
 
-### Q10. Which option preserves the accounting or regulatory boundary of Income support boundary?
+**Answer: B**
 
-A. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-B. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-C. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-D. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
+**Option explanations:**
+- A. Incorrect: Every recipient receives identical value; it does not satisfy the controlling distinction because benefit rises with subsidised quantity and access.
+- B. Correct: Larger users may capture more total benefit; benefit rises with subsidised quantity and access.
+- C. Incorrect: It always excludes landowners; it does not satisfy the controlling distinction because benefit rises with subsidised quantity and access.
+- D. Incorrect: Its fiscal cost is always zero; it does not satisfy the controlling distinction because benefit rises with subsidised quantity and access.
 
-**Answer: B.**
-**Explanation:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Trap 6: Equal subsidy per unit can create unequal total gains across farm sizes.
 
-### Q11. Which statement uses Income support boundary without losing its vintage, basket or legal status?
+### Q7. The water-energy-crop loop describes
 
-A. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-B. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-C. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-D. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
+A. Only monsoon forecasting
+B. A WTO tariff quota
+C. Interacting power, groundwater and crop-price incentives
+D. A crop-insurance claim cycle
 
-**Answer: C.**
-**Explanation:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: C**
 
-### Q12. Which option avoids the standard UPSC close-option trap about Income support boundary?
+**Option explanations:**
+- A. Incorrect: Only monsoon forecasting; it does not satisfy the controlling distinction because joint incentives can lock in extraction and crop choice.
+- B. Incorrect: A WTO tariff quota; it does not satisfy the controlling distinction because joint incentives can lock in extraction and crop choice.
+- C. Correct: Interacting power, groundwater and crop-price incentives; joint incentives can lock in extraction and crop choice.
+- D. Incorrect: A crop-insurance claim cycle; it does not satisfy the controlling distinction because joint incentives can lock in extraction and crop choice.
 
-A. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-B. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-C. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-D. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
+**UPSC trap:** Trap 7: Power, water and crop incentives interact; isolating one misses the loop.
 
-**Answer: D.**
-**Explanation:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q8. Which is not automatically proved by digital authentication?
 
-### Q13. Which statement correctly identifies Fertiliser DBT boundary?
+A. A transaction can be logged
+B. Duplicate detection may improve
+C. An audit trail can be created
+D. Zero exclusion and zero leakage
 
-A. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-B. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-C. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-D. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- A. Incorrect: A transaction can be logged; it does not satisfy the controlling distinction because digitisation can reduce some errors while creating others.
+- B. Incorrect: Duplicate detection may improve; it does not satisfy the controlling distinction because digitisation can reduce some errors while creating others.
+- C. Incorrect: An audit trail can be created; it does not satisfy the controlling distinction because digitisation can reduce some errors while creating others.
+- D. Correct: Zero exclusion and zero leakage; digitisation can reduce some errors while creating others.
 
-### Q14. Which option preserves the accounting or regulatory boundary of Fertiliser DBT boundary?
+**UPSC trap:** Trap 8: Authentication can reduce duplicates while still excluding genuine users.
 
-A. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-B. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-C. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-D. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
+### Q9. PM-KISAN is best classified as
 
-**Answer: B.**
-**Explanation:** Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Eligible-family income support subject to scheme rules
+B. A fertiliser-company reimbursement
+C. A guaranteed procurement contract
+D. An export subsidy
 
-### Q15. Which statement uses Fertiliser DBT boundary without losing its vintage, basket or legal status?
+**Answer: A**
 
-A. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-B. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-C. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-D. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
+**Option explanations:**
+- A. Correct: Eligible-family income support subject to scheme rules; its legal form is an income transfer rather than input-price reimbursement.
+- B. Incorrect: A fertiliser-company reimbursement; it does not satisfy the controlling distinction because its legal form is an income transfer rather than input-price reimbursement.
+- C. Incorrect: A guaranteed procurement contract; it does not satisfy the controlling distinction because its legal form is an income transfer rather than input-price reimbursement.
+- D. Incorrect: An export subsidy; it does not satisfy the controlling distinction because its legal form is an income transfer rather than input-price reimbursement.
 
-**Answer: C.**
-**Explanation:** Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Trap 9: PM-KISAN is income support, not a fertiliser reimbursement or procurement right.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Fertiliser DBT boundary?
+### Q10. Interest subvention lowers
 
-A. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-B. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-C. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-D. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
+A. The WTO tariff binding
+B. The effective borrowing cost for eligible credit
+C. The crop's rainfall risk directly
+D. The consumer food price by definition
 
-**Answer: D.**
-**Explanation:** Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: B**
 
-### Q17. Which statement correctly identifies NBS and urea distinction?
+**Option explanations:**
+- A. Incorrect: The WTO tariff binding; it does not satisfy the controlling distinction because subvention changes financing cost, not every other farm risk.
+- B. Correct: The effective borrowing cost for eligible credit; subvention changes financing cost, not every other farm risk.
+- C. Incorrect: The crop's rainfall risk directly; it does not satisfy the controlling distinction because subvention changes financing cost, not every other farm risk.
+- D. Incorrect: The consumer food price by definition; it does not satisfy the controlling distinction because subvention changes financing cost, not every other farm risk.
 
-A. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-B. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-C. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-D. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
+**UPSC trap:** Trap 10: Interest subsidy is not the principal amount of agricultural credit.
 
-**Answer: A.**
-**Explanation:** Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q11. Premium subsidy under crop insurance
 
-### Q18. Which option preserves the accounting or regulatory boundary of NBS and urea distinction?
+A. Guarantees payment for every reported loss
+B. Equals total insured sum
+C. Shares the cost of an insurance contract
+D. Eliminates basis risk
 
-A. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-B. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-C. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-D. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- A. Incorrect: Guarantees payment for every reported loss; it does not satisfy the controlling distinction because premium support does not remove trigger and assessment conditions.
+- B. Incorrect: Equals total insured sum; it does not satisfy the controlling distinction because premium support does not remove trigger and assessment conditions.
+- C. Correct: Shares the cost of an insurance contract; premium support does not remove trigger and assessment conditions.
+- D. Incorrect: Eliminates basis risk; it does not satisfy the controlling distinction because premium support does not remove trigger and assessment conditions.
 
-### Q19. Which statement uses NBS and urea distinction without losing its vintage, basket or legal status?
+**UPSC trap:** Trap 11: Premium support neither guarantees a claim nor eliminates basis risk.
 
-A. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-B. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-C. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-D. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
+### Q12. MSP announcement differs from procurement because
 
-**Answer: C.**
-**Explanation:** Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. MSP is a WTO Green Box category
+B. Procurement is always equal to subsidy
+C. MSP is a consumer transfer
+D. Procurement is an actual purchase operation
 
-### Q20. Which option avoids the standard UPSC close-option trap about NBS and urea distinction?
+**Answer: D**
 
-A. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-B. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-C. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-D. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
+**Option explanations:**
+- A. Incorrect: MSP is a WTO Green Box category; it does not satisfy the controlling distinction because price announcement and realised purchase are distinct events.
+- B. Incorrect: Procurement is always equal to subsidy; it does not satisfy the controlling distinction because price announcement and realised purchase are distinct events.
+- C. Incorrect: MSP is a consumer transfer; it does not satisfy the controlling distinction because price announcement and realised purchase are distinct events.
+- D. Correct: Procurement is an actual purchase operation; price announcement and realised purchase are distinct events.
 
-**Answer: D.**
-**Explanation:** Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Trap 12: An announced MSP and an actual government purchase are different facts.
 
-### Q21. Which statement correctly identifies Power-water-crop nexus?
+### Q13. The WTO Agreement on Agriculture has which three pillars?
 
-A. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-B. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-C. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-D. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
+A. Market access, domestic support and export competition
+B. Tariffs, services and intellectual property
+C. Currency, debt and reserves
+D. Procurement, PDS and irrigation
 
-**Answer: A.**
-**Explanation:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: A**
 
-### Q22. Which option preserves the accounting or regulatory boundary of Power-water-crop nexus?
+**Option explanations:**
+- A. Correct: Market access, domestic support and export competition; the AoA's official architecture is the three-pillar framework.
+- B. Incorrect: Tariffs, services and intellectual property; it does not satisfy the controlling distinction because the AoA's official architecture is the three-pillar framework.
+- C. Incorrect: Currency, debt and reserves; it does not satisfy the controlling distinction because the AoA's official architecture is the three-pillar framework.
+- D. Incorrect: Procurement, PDS and irrigation; it does not satisfy the controlling distinction because the AoA's official architecture is the three-pillar framework.
 
-A. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-B. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-C. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-D. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
+**UPSC trap:** Trap 13: Domestic-support boxes are only one of the AoA's three pillars.
 
-**Answer: B.**
-**Explanation:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q14. Tariff-rate quotas belong primarily to
 
-### Q23. Which statement uses Power-water-crop nexus without losing its vintage, basket or legal status?
+A. Green Box
+B. Market access
+C. Article 6.2
+D. Export subsidy elimination
 
-A. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-B. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-C. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-D. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- A. Incorrect: Green Box; it does not satisfy the controlling distinction because TRQs are border instruments rather than domestic-support boxes.
+- B. Correct: Market access; TRQs are border instruments rather than domestic-support boxes.
+- C. Incorrect: Article 6.2; it does not satisfy the controlling distinction because TRQs are border instruments rather than domestic-support boxes.
+- D. Incorrect: Export subsidy elimination; it does not satisfy the controlling distinction because TRQs are border instruments rather than domestic-support boxes.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Power-water-crop nexus?
+**UPSC trap:** Trap 14: A tariff-rate quota is a border instrument, not a domestic-support box.
 
-A. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-B. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-C. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-D. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
+### Q15. Green Box means
 
-**Answer: D.**
-**Explanation:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Any environmentally beneficial subsidy
+B. Any subsidy below 10 percent
+C. Support meeting Annex 2 general and policy-specific criteria
+D. Any payment to a developing country
 
-### Q25. Which statement correctly identifies Irrigation incidence?
+**Answer: C**
 
-A. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-B. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-C. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-D. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
+**Option explanations:**
+- A. Incorrect: Any environmentally beneficial subsidy; it does not satisfy the controlling distinction because Green status follows legal criteria, not colour or size.
+- B. Incorrect: Any subsidy below 10 percent; it does not satisfy the controlling distinction because Green status follows legal criteria, not colour or size.
+- C. Correct: Support meeting Annex 2 general and policy-specific criteria; Green status follows legal criteria, not colour or size.
+- D. Incorrect: Any payment to a developing country; it does not satisfy the controlling distinction because Green status follows legal criteria, not colour or size.
 
-**Answer: A.**
-**Explanation:** Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Trap 15: Green Box is a legal Annex 2 category, not an environmental label.
 
-### Q26. Which option preserves the accounting or regulatory boundary of Irrigation incidence?
+### Q16. Blue Box requires, among other things
 
-A. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-B. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-C. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-D. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
+A. An export contingency
+B. A fertiliser PoS transaction
+C. A public-stockholding notification only
+D. A qualifying production-limiting direct-payment design
 
-**Answer: B.**
-**Explanation:** Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: D**
 
-### Q27. Which statement uses Irrigation incidence without losing its vintage, basket or legal status?
+**Option explanations:**
+- A. Incorrect: An export contingency; it does not satisfy the controlling distinction because Article 6.5 ties Blue treatment to fixed-base production-limiting conditions.
+- B. Incorrect: A fertiliser PoS transaction; it does not satisfy the controlling distinction because Article 6.5 ties Blue treatment to fixed-base production-limiting conditions.
+- C. Incorrect: A public-stockholding notification only; it does not satisfy the controlling distinction because Article 6.5 ties Blue treatment to fixed-base production-limiting conditions.
+- D. Correct: A qualifying production-limiting direct-payment design; Article 6.5 ties Blue treatment to fixed-base production-limiting conditions.
 
-A. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-B. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-C. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-D. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
+**UPSC trap:** Trap 16: A direct payment is Blue only when production-limiting conditions are met.
 
-**Answer: C.**
-**Explanation:** Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q17. Amber Box support is
 
-### Q28. Which option avoids the standard UPSC close-option trap about Irrigation incidence?
+A. Non-exempt trade- or production-distorting domestic support counted in AMS
+B. Automatically prohibited expenditure
+C. All public agricultural spending
+D. Only consumer food subsidy
 
-A. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-B. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-C. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-D. Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- A. Correct: Non-exempt trade- or production-distorting domestic support counted in AMS; Amber is a residual domestic-support category subject to commitments and exemptions.
+- B. Incorrect: Automatically prohibited expenditure; it does not satisfy the controlling distinction because Amber is a residual domestic-support category subject to commitments and exemptions.
+- C. Incorrect: All public agricultural spending; it does not satisfy the controlling distinction because Amber is a residual domestic-support category subject to commitments and exemptions.
+- D. Incorrect: Only consumer food subsidy; it does not satisfy the controlling distinction because Amber is a residual domestic-support category subject to commitments and exemptions.
 
-### Q29. Which statement correctly identifies Credit and insurance support?
+**UPSC trap:** Trap 17: Amber support is counted and disciplined; it is not automatically prohibited.
 
-A. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-B. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-C. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-D. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
+### Q18. For a developing member, product-specific de minimis is generally tested against
 
-**Answer: A.**
-**Explanation:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Total government expenditure
+B. That product's value of production
+C. Total exports
+D. Procurement value only
 
-### Q30. Which option preserves the accounting or regulatory boundary of Credit and insurance support?
+**Answer: B**
 
-A. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-B. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-C. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-D. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
+**Option explanations:**
+- A. Incorrect: Total government expenditure; it does not satisfy the controlling distinction because Article 6.4 uses the product's production value denominator.
+- B. Correct: That product's value of production; Article 6.4 uses the product's production value denominator.
+- C. Incorrect: Total exports; it does not satisfy the controlling distinction because Article 6.4 uses the product's production value denominator.
+- D. Incorrect: Procurement value only; it does not satisfy the controlling distinction because Article 6.4 uses the product's production value denominator.
 
-**Answer: B.**
-**Explanation:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Trap 18: Use the product's production value, not procurement value, as the denominator.
 
-### Q31. Which statement uses Credit and insurance support without losing its vintage, basket or legal status?
+### Q19. Product-specific and non-product-specific de minimis tests are
 
-A. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-B. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-C. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-D. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
+A. Added into one 20 percent allowance
+B. Both based on procurement value
+C. Separate tests
+D. Unavailable to developing members
 
-**Answer: C.**
-**Explanation:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: C**
 
-### Q32. Which option avoids the standard UPSC close-option trap about Credit and insurance support?
+**Option explanations:**
+- A. Incorrect: Added into one 20 percent allowance; it does not satisfy the controlling distinction because the two categories have separate numerators and denominators.
+- B. Incorrect: Both based on procurement value; it does not satisfy the controlling distinction because the two categories have separate numerators and denominators.
+- C. Correct: Separate tests; the two categories have separate numerators and denominators.
+- D. Incorrect: Unavailable to developing members; it does not satisfy the controlling distinction because the two categories have separate numerators and denominators.
 
-A. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-B. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-C. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-D. Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
+**UPSC trap:** Trap 19: The two developing-country 10 percent tests cannot be pooled into 20 percent.
 
-**Answer: D.**
-**Explanation:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q20. Article 6.2 can exempt
 
-### Q33. Which statement correctly identifies MSP, procurement and expenditure?
+A. Every agricultural measure without conditions
+B. All export subsidies
+C. All administered prices
+D. Specified developing-country investment and qualifying input subsidies
 
-A. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-B. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-C. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-D. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- A. Incorrect: Every agricultural measure without conditions; it does not satisfy the controlling distinction because the development provision is limited by member and measure conditions.
+- B. Incorrect: All export subsidies; it does not satisfy the controlling distinction because the development provision is limited by member and measure conditions.
+- C. Incorrect: All administered prices; it does not satisfy the controlling distinction because the development provision is limited by member and measure conditions.
+- D. Correct: Specified developing-country investment and qualifying input subsidies; the development provision is limited by member and measure conditions.
 
-### Q34. Which option preserves the accounting or regulatory boundary of MSP, procurement and expenditure?
+**UPSC trap:** Trap 20: Developing-country status does not exempt every input subsidy under Article 6.2.
 
-A. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-B. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-C. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-D. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
+### Q21. The AoA market-price-support formula uses
 
-**Answer: B.**
-**Explanation:** MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Administered price minus fixed external reference price, times eligible production
+B. Budget outlay times procurement price
+C. Market price minus MSP, times exports
+D. Tariff rate times imports
 
-### Q35. Which statement uses MSP, procurement and expenditure without losing its vintage, basket or legal status?
+**Answer: A**
 
-A. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-B. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-C. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-D. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
+**Option explanations:**
+- A. Correct: Administered price minus fixed external reference price, times eligible production; Annex 3 uses the administered-reference price gap and eligible production.
+- B. Incorrect: Budget outlay times procurement price; it does not satisfy the controlling distinction because Annex 3 uses the administered-reference price gap and eligible production.
+- C. Incorrect: Market price minus MSP, times exports; it does not satisfy the controlling distinction because Annex 3 uses the administered-reference price gap and eligible production.
+- D. Incorrect: Tariff rate times imports; it does not satisfy the controlling distinction because Annex 3 uses the administered-reference price gap and eligible production.
 
-**Answer: C.**
-**Explanation:** MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Trap 21: WTO market-price support is a formula, not the procurement bill.
 
-### Q36. Which option avoids the standard UPSC close-option trap about MSP, procurement and expenditure?
+### Q22. The fixed external reference price generally relates to
 
-A. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-B. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-C. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-D. MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
+A. The latest Budget year
+B. The 1986-88 base period
+C. The last three crop seasons automatically
+D. The current world spot price
 
-**Answer: D.**
-**Explanation:** MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: B**
 
-### Q37. Which statement correctly identifies Economic incidence?
+**Option explanations:**
+- A. Incorrect: The latest Budget year; it does not satisfy the controlling distinction because the historical fixed base is central to the inflation debate.
+- B. Correct: The 1986-88 base period; the historical fixed base is central to the inflation debate.
+- C. Incorrect: The last three crop seasons automatically; it does not satisfy the controlling distinction because the historical fixed base is central to the inflation debate.
+- D. Incorrect: The current world spot price; it does not satisfy the controlling distinction because the historical fixed base is central to the inflation debate.
 
-A. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-B. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-C. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-D. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
+**UPSC trap:** Trap 22: The fixed reference price is historical, not the latest world-market quotation.
 
-**Answer: A.**
-**Explanation:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q23. Eligible production necessarily equals actual procurement
 
-### Q38. Which option preserves the accounting or regulatory boundary of Economic incidence?
+A. Yes, in every programme
+B. Yes, but only for exports
+C. No; the legal eligibility concept may differ
+D. No, because quantity is never used
 
-A. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-B. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-C. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-D. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- A. Incorrect: Yes, in every programme; it does not satisfy the controlling distinction because programme coverage and legal availability determine eligible production.
+- B. Incorrect: Yes, but only for exports; it does not satisfy the controlling distinction because programme coverage and legal availability determine eligible production.
+- C. Correct: No; the legal eligibility concept may differ; programme coverage and legal availability determine eligible production.
+- D. Incorrect: No, because quantity is never used; it does not satisfy the controlling distinction because programme coverage and legal availability determine eligible production.
 
-### Q39. Which statement uses Economic incidence without losing its vintage, basket or legal status?
+**UPSC trap:** Trap 23: Eligible production cannot automatically be replaced by procured quantity.
 
-A. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-B. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-C. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-D. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
+### Q24. The Bali public-stockholding decision dates from
 
-**Answer: C.**
-**Explanation:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. 1 April 2010
+B. 19 December 2015
+C. 10 September 2026
+D. 7 December 2013
 
-### Q40. Which option avoids the standard UPSC close-option trap about Economic incidence?
+**Answer: D**
 
-A. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-B. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-C. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-D. The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
+**Option explanations:**
+- A. Incorrect: 1 April 2010; it does not satisfy the controlling distinction because the ministerial decision was adopted at Bali in December 2013.
+- B. Incorrect: 19 December 2015; it does not satisfy the controlling distinction because the ministerial decision was adopted at Bali in December 2013.
+- C. Incorrect: 10 September 2026; it does not satisfy the controlling distinction because the ministerial decision was adopted at Bali in December 2013.
+- D. Correct: 7 December 2013; the ministerial decision was adopted at Bali in December 2013.
 
-**Answer: D.**
-**Explanation:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Trap 24: Do not confuse the 2013 Bali decision with the later 2014 extension.
 
-### Q41. Which statement correctly identifies Producer and consumer support?
+### Q25. WT/L/939 provides that the interim mechanism lasts
 
-A. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-B. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-C. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-D. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
+A. Until a permanent solution is agreed and adopted
+B. Only until MC11
+C. For one financial year
+D. Until domestic stocks are exhausted
 
-**Answer: A.**
-**Explanation:** Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: A**
 
-### Q42. Which option preserves the accounting or regulatory boundary of Producer and consumer support?
+**Option explanations:**
+- A. Correct: Until a permanent solution is agreed and adopted; the 2014 General Council decision removed a fixed ministerial expiry.
+- B. Incorrect: Only until MC11; it does not satisfy the controlling distinction because the 2014 General Council decision removed a fixed ministerial expiry.
+- C. Incorrect: For one financial year; it does not satisfy the controlling distinction because the 2014 General Council decision removed a fixed ministerial expiry.
+- D. Incorrect: Until domestic stocks are exhausted; it does not satisfy the controlling distinction because the 2014 General Council decision removed a fixed ministerial expiry.
 
-A. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-B. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-C. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-D. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
+**UPSC trap:** Trap 25: The interim mechanism did not expire merely because MC11 passed.
 
-**Answer: B.**
-**Explanation:** Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q26. The peace clause is best understood as
 
-### Q43. Which statement uses Producer and consumer support without losing its vintage, basket or legal status?
+A. A permanent amendment deleting AMS rules
+B. Conditional due restraint for qualifying programmes
+C. A universal exemption for all farm support
+D. A waiver of notification duties
 
-A. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-B. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-C. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-D. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- A. Incorrect: A permanent amendment deleting AMS rules; it does not satisfy the controlling distinction because scope, transparency and safeguards remain material.
+- B. Correct: Conditional due restraint for qualifying programmes; scope, transparency and safeguards remain material.
+- C. Incorrect: A universal exemption for all farm support; it does not satisfy the controlling distinction because scope, transparency and safeguards remain material.
+- D. Incorrect: A waiver of notification duties; it does not satisfy the controlling distinction because scope, transparency and safeguards remain material.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Producer and consumer support?
+**UPSC trap:** Trap 26: Due restraint is conditional and does not erase notification obligations.
 
-A. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-B. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-C. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-D. Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
+### Q27. Which distinction is correct?
 
-**Answer: D.**
-**Explanation:** Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Every duty remission is an export subsidy
+B. Every export promotion measure is legal
+C. Export contingency is central to identifying an export subsidy
+D. Domestic input subsidy and export subsidy are identical
 
-### Q45. Which statement correctly identifies Public goods and capital grants?
+**Answer: C**
 
-A. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-B. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-C. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-D. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
+**Option explanations:**
+- A. Incorrect: Every duty remission is an export subsidy; it does not satisfy the controlling distinction because legal classification examines contingency and excess benefit.
+- B. Incorrect: Every export promotion measure is legal; it does not satisfy the controlling distinction because legal classification examines contingency and excess benefit.
+- C. Correct: Export contingency is central to identifying an export subsidy; legal classification examines contingency and excess benefit.
+- D. Incorrect: Domestic input subsidy and export subsidy are identical; it does not satisfy the controlling distinction because legal classification examines contingency and excess benefit.
 
-**Answer: A.**
-**Explanation:** Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Trap 27: A valid tax remission is not automatically an export subsidy.
 
-### Q46. Which option preserves the accounting or regulatory boundary of Public goods and capital grants?
+### Q28. Nairobi's 2015 agricultural export decision addressed
 
-A. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-B. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-C. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-D. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
+A. Creation of NBS
+B. Adoption of PM-KISAN
+C. Replacement of the AoA
+D. Export-subsidy elimination and related export-competition disciplines
 
-**Answer: B.**
-**Explanation:** Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: D**
 
-### Q47. Which statement uses Public goods and capital grants without losing its vintage, basket or legal status?
+**Option explanations:**
+- A. Incorrect: Creation of NBS; it does not satisfy the controlling distinction because the ministerial outcome tightened export-competition rules.
+- B. Incorrect: Adoption of PM-KISAN; it does not satisfy the controlling distinction because the ministerial outcome tightened export-competition rules.
+- C. Incorrect: Replacement of the AoA; it does not satisfy the controlling distinction because the ministerial outcome tightened export-competition rules.
+- D. Correct: Export-subsidy elimination and related export-competition disciplines; the ministerial outcome tightened export-competition rules.
 
-A. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-B. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-C. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-D. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
+**UPSC trap:** Trap 28: Nairobi disciplines extend beyond a simplistic ban-label comparison.
 
-**Answer: C.**
-**Explanation:** Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q29. A sound cross-country subsidy comparison uses
 
-### Q48. Which option avoids the standard UPSC close-option trap about Public goods and capital grants?
+A. A common metric, period, currency basis and denominator
+B. Raw budget totals alone
+C. One country's AMS and another's total procurement
+D. Undated scheme announcements
 
-A. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-B. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-C. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-D. Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- A. Correct: A common metric, period, currency basis and denominator; unmatched definitions create false comparisons.
+- B. Incorrect: Raw budget totals alone; it does not satisfy the controlling distinction because unmatched definitions create false comparisons.
+- C. Incorrect: One country's AMS and another's total procurement; it does not satisfy the controlling distinction because unmatched definitions create false comparisons.
+- D. Incorrect: Undated scheme announcements; it does not satisfy the controlling distinction because unmatched definitions create false comparisons.
 
-### Q49. Which statement correctly identifies WTO domestic-support pillars?
+**UPSC trap:** Trap 29: Raw national outlays are incomparable when definition and denominator differ.
 
-A. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-B. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-C. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-D. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
+### Q30. Decoupled support aims to
 
-**Answer: A.**
-**Explanation:** The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Increase subsidy per unit of fertiliser
+B. Reduce linkage to current input use or output
+C. Guarantee procurement of all output
+D. Remove all income protection
 
-### Q50. Which option preserves the accounting or regulatory boundary of WTO domestic-support pillars?
+**Answer: B**
 
-A. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-B. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-C. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-D. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
+**Option explanations:**
+- A. Incorrect: Increase subsidy per unit of fertiliser; it does not satisfy the controlling distinction because weaker current-production linkage usually lowers production distortion.
+- B. Correct: Reduce linkage to current input use or output; weaker current-production linkage usually lowers production distortion.
+- C. Incorrect: Guarantee procurement of all output; it does not satisfy the controlling distinction because weaker current-production linkage usually lowers production distortion.
+- D. Incorrect: Remove all income protection; it does not satisfy the controlling distinction because weaker current-production linkage usually lowers production distortion.
 
-**Answer: B.**
-**Explanation:** The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Trap 30: Cash can remain coupled through current production, land or input conditions.
 
-### Q51. Which statement uses WTO domestic-support pillars without losing its vintage, basket or legal status?
+### Q31. A credible subsidy reform package should include
 
-A. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-B. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-C. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-D. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
+A. Abrupt universal withdrawal only
+B. Permanent compensation without review
+C. Sequencing, transition protection and outcome evaluation
+D. App counts as the sole success metric
 
-**Answer: C.**
-**Explanation:** The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: C**
 
-### Q52. Which option avoids the standard UPSC close-option trap about WTO domestic-support pillars?
+**Option explanations:**
+- A. Incorrect: Abrupt universal withdrawal only; it does not satisfy the controlling distinction because distribution and implementation determine reform durability.
+- B. Incorrect: Permanent compensation without review; it does not satisfy the controlling distinction because distribution and implementation determine reform durability.
+- C. Correct: Sequencing, transition protection and outcome evaluation; distribution and implementation determine reform durability.
+- D. Incorrect: App counts as the sole success metric; it does not satisfy the controlling distinction because distribution and implementation determine reform durability.
 
-A. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-B. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-C. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-D. The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
+**UPSC trap:** Trap 31: Efficiency reform without transition protection can be inequitable and unstable.
 
-**Answer: D.**
-**Explanation:** The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q32. Which is the best Mains conclusion?
 
-### Q53. Which statement correctly identifies Amber and de minimis?
+A. All subsidies should continue unchanged
+B. WTO rules make food security impossible
+C. Only cash can solve every farm problem
+D. Targeted support, public goods, corrected incentives and WTO transparency should be combined
 
-A. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-B. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-C. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-D. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- A. Incorrect: All subsidies should continue unchanged; it does not satisfy the controlling distinction because a balanced package addresses income, productivity, ecology and compliance.
+- B. Incorrect: WTO rules make food security impossible; it does not satisfy the controlling distinction because a balanced package addresses income, productivity, ecology and compliance.
+- C. Incorrect: Only cash can solve every farm problem; it does not satisfy the controlling distinction because a balanced package addresses income, productivity, ecology and compliance.
+- D. Correct: Targeted support, public goods, corrected incentives and WTO transparency should be combined; a balanced package addresses income, productivity, ecology and compliance.
 
-### Q54. Which option preserves the accounting or regulatory boundary of Amber and de minimis?
+**UPSC trap:** Trap 32: A balanced conclusion should not demand either blanket retention or abolition.
 
-A. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-B. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-C. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-D. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
+## VERIFIED PYQ ROUTING
 
-**Answer: B.**
-**Explanation:** Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### UPSC CSE Mains GS-III 2023
+**Question:** What are the direct and indirect subsidies provided to farm sector in India? Discuss the issues raised by the World Trade Organization in relation to agricultural subsidies.
 
-### Q55. Which statement uses Amber and de minimis without losing its vintage, basket or legal status?
+**Model approach:** Define both categories; map fertiliser, power, irrigation, credit, insurance, income and price support; trace incidence and externalities; then apply AoA pillars, AMS, de minimis, boxes, Article 6.2 and the conditional public-stockholding mechanism. Conclude with transparent, targeted and transition-safe reform.
 
-A. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-B. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-C. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-D. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
+### UPSC CSE Prelims 2020: fertiliser concepts
+Use the official paper and key for scoring. The verified conceptual route is: distinguish administered from market-determined pricing; recognise natural gas as a major feedstock for ammonia/urea; and verify industrial by-product chains before accepting a raw-material statement. This workbook does not invent an official key where the authenticated key text is not embedded.
 
-**Answer: C.**
-**Explanation:** Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+## ORIGINAL MAINS PRACTICE
 
-### Q56. Which option avoids the standard UPSC close-option trap about Amber and de minimis?
+### M1. Differentiate direct, indirect, explicit and implicit farm subsidies. Why does economic incidence matter?
 
-A. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-B. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-C. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-D. Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
+**Limit:** 150 words | **Native-body count:** 133
 
-**Answer: D.**
-**Explanation:** Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Model answer:**
 
-### Q57. Which statement correctly identifies Green and Blue Boxes?
+Farm subsidies should be classified on two axes. Direct support reaches a named beneficiary, whereas indirect support changes an input or market price. Explicit support appears in public accounts; implicit support arises through price, tariff, credit or resource-use wedges and may not be fully budgeted. These labels do not reveal economic incidence.
 
-A. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-B. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-C. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-D. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
+For example, fertiliser DBT legally reimburses companies after point-of-sale transactions, yet farmers may benefit through a lower controlled retail price. Cheap power may accrue disproportionately to pump owners, while part of land-linked cash can capitalise into rent. Incidence therefore depends on pass-through, market power, land tenure, quantity used and elasticity.
 
-**Answer: A.**
-**Explanation:** Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+Policy evaluation should trace statutory recipient, final beneficiary, fiscal cost, distribution and externalities. This prevents the common error of treating the payee or Budget outlay as the farmer's net welfare gain.
 
-### Q58. Which option preserves the accounting or regulatory boundary of Green and Blue Boxes?
+**Analytical spine:** Claim -> named rule/evidence -> incidence/effect -> qualification -> sequenced reform.
 
-A. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-B. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-C. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-D. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
+### M2. Examine the economic case for reforming fertiliser and power subsidies without abandoning smallholder protection.
 
-**Answer: B.**
-**Explanation:** Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Limit:** 150 words | **Native-body count:** 136
 
-### Q59. Which statement uses Green and Blue Boxes without losing its vintage, basket or legal status?
+**Model answer:**
 
-A. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-B. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-C. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-D. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
+Fertiliser and power subsidies lower cultivation costs and can support food security, liquidity and risk-bearing. Yet open-ended quantity support distorts relative prices. Urea's separate pricing can encourage nitrogen imbalance, while flat or free electricity weakens the signal for groundwater conservation. Benefits may also tilt toward larger users.
 
-**Answer: C.**
-**Explanation:** Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+Reform should therefore change the instrument, not withdraw protection abruptly. Nutrient-price correction must be paired with soil testing, extension and product availability. Reliable metering can support capped lifeline power, with timely cash protection for vulnerable cultivators. Tenant coverage and grievance mechanisms are essential. Savings should finance irrigation efficiency, research, storage and risk management.
 
-### Q60. Which option avoids the standard UPSC close-option trap about Green and Blue Boxes?
+Named evidence should distinguish FY Budget Estimates from outcomes and state tariff rules from Union policy. A phased package with pilots, transition compensation and ecological monitoring can protect incomes while improving soil, water and fiscal sustainability.
 
-A. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-B. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-C. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-D. Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
+**Analytical spine:** Claim -> named rule/evidence -> incidence/effect -> qualification -> sequenced reform.
 
-**Answer: D.**
-**Explanation:** Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### M3. Explain the WTO Agreement on Agriculture domestic-support boxes and their relevance for developing countries.
 
-### Q61. Which statement correctly identifies Article 6.2 flexibility?
+**Limit:** 250 words | **Native-body count:** 139
 
-A. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-B. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-C. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-D. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
+**Model answer:**
 
-**Answer: A.**
-**Explanation:** Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+The Agreement on Agriculture separates domestic support by legal design rather than programme name. Amber Box is shorthand for non-exempt, trade- or production-distorting support counted in the Aggregate Measurement of Support. Developing members may exclude product-specific support below 10 per cent of that product's value of production and non-product-specific support below 10 per cent of total agricultural production; the tests are separate.
 
-### Q62. Which option preserves the accounting or regulatory boundary of Article 6.2 flexibility?
+Green Box measures must satisfy Annex 2's public-funding, no-price-support and policy-specific conditions. Blue Box covers qualifying direct payments under production-limiting programmes. Article 6.2 separately exempts specified developing-country investment subsidies and generally available input subsidies for low-income or resource-poor producers.
 
-A. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-B. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-C. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-D. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
+Therefore neither size nor social purpose alone determines treatment. India must classify components, calculate the correct denominator, notify transparently and defend beneficiary definitions. Domestic reform can pursue equity and sustainability while reducing production coupling and notification risk.
 
-**Answer: B.**
-**Explanation:** Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Analytical spine:** Claim -> named rule/evidence -> incidence/effect -> qualification -> sequenced reform.
 
-### Q63. Which statement uses Article 6.2 flexibility without losing its vintage, basket or legal status?
+### M4. Why does WTO market-price-support measurement generate controversy in public stockholding programmes?
 
-A. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-B. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-C. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-D. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
+**Limit:** 250 words | **Native-body count:** 140
 
-**Answer: C.**
-**Explanation:** Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Model answer:**
 
-### Q64. Which option avoids the standard UPSC close-option trap about Article 6.2 flexibility?
+Under Annex 3, market-price support is broadly the gap between the applied administered price and a fixed external reference price, multiplied by eligible production. The reference price generally reflects 1986-88, so inflation and currency movements can widen the nominal gap even when real support changes little. Eligible production may also differ from actual procurement, making programme wording and availability decisive.
 
-A. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-B. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-C. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-D. Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
+Public stockholding simultaneously serves food-security aims through procurement, stocks and subsidised distribution. The Bali decision of 7 December 2013 created conditional due restraint for qualifying traditional-staple programmes existing then, subject to notification, transparency, safeguards and consultation. The 28 November 2014 General Council decision keeps the mechanism until a permanent solution is adopted.
 
-**Answer: D.**
-**Explanation:** Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+The controversy is thus both distributive and legal. Reform proposals must address inflation, eligible quantity and safeguards without erasing the risk that excess stocks or releases distort trade.
 
-### Q65. Which statement correctly identifies AMS measurement boundary?
+**Analytical spine:** Claim -> named rule/evidence -> incidence/effect -> qualification -> sequenced reform.
 
-A. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-B. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-C. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-D. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
+### M5. Discuss the fiscal, distributional and ecological effects of India's farm-input subsidies.
 
-**Answer: A.**
-**Explanation:** Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Limit:** 250 words | **Native-body count:** 142
 
-### Q66. Which option preserves the accounting or regulatory boundary of AMS measurement boundary?
+**Model answer:**
 
-A. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-B. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-C. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-D. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
+Input subsidies reduce private cultivation cost and can expand adoption, production and resilience. Their welfare effect, however, depends on incidence. Quantity-linked fertiliser, electricity, irrigation or credit support may deliver larger absolute gains to farmers with more land, pumps, formal records or market access, while tenants and rain-fed cultivators receive less.
 
-**Answer: B.**
-**Explanation:** Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+Fiscal cost includes recorded expenditure and the opportunity cost of displaced research, extension, health, roads or irrigation maintenance. Ecologically, low relative prices can promote nitrogen imbalance, groundwater extraction, energy use and water-intensive crop lock-in. Interactions with procurement can reinforce the water-energy-crop feedback.
 
-### Q67. Which statement uses AMS measurement boundary without losing its vintage, basket or legal status?
+Evaluation should therefore report benefit by land class and region, marginal productivity, soil and water outcomes, leakage and counterfactual public investment. The answer is not blanket withdrawal. Targeted income or risk support, corrected price signals, lifeline protection, public goods, transition compensation and sunset review can improve both equity and sustainability.
 
-A. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-B. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-C. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-D. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
+**Analytical spine:** Claim -> named rule/evidence -> incidence/effect -> qualification -> sequenced reform.
 
-**Answer: C.**
-**Explanation:** Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### M6. Design a balanced farm-subsidy reform strategy consistent with food security and WTO obligations.
 
-### Q68. Which option avoids the standard UPSC close-option trap about AMS measurement boundary?
+**Limit:** 250 words | **Native-body count:** 139
 
-A. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-B. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-C. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-D. Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
+**Model answer:**
 
-**Answer: D.**
-**Explanation:** Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A balanced strategy begins by separating objectives. Income poverty requires predictable, tenant-sensitive transfers; production risk needs insurance and extension; food security requires efficient procurement, stocks and consumer access; environmental stress needs corrected input incentives. One subsidy should not be expected to solve all four.
 
-### Q69. Which statement correctly identifies Public stockholding status?
+Open-ended fertiliser and power concessions can be capped and progressively rebalanced toward nutrient-neutral support, metered lifeline energy, irrigation efficiency, research, storage and climate resilience. Reliable delivery, offline alternatives and grievance redress should precede benefit retargeting. Transition cash and debt support can protect smallholders during adjustment.
 
-A. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-B. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-C. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-D. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
+WTO compatibility requires component-wise classification, correct AMS calculations, separate de minimis tests, defensible Article 6.2 or Green Box claims and timely notifications. Public stockholding should respect Bali transparency and safeguards while India pursues a permanent solution. Independent evaluation must track adequacy, incidence, productivity, ecology, fiscal cost and trade spillovers.
 
-**Answer: A.**
-**Explanation:** The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Analytical spine:** Claim -> named rule/evidence -> incidence/effect -> qualification -> sequenced reform.
 
-### Q70. Which option preserves the accounting or regulatory boundary of Public stockholding status?
+## FINAL RAPID REVISION
 
-A. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-B. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-C. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-D. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-
-**Answer: B.**
-**Explanation:** The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Public stockholding status without losing its vintage, basket or legal status?
-
-A. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-B. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-C. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-D. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-
-**Answer: C.**
-**Explanation:** The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Public stockholding status?
-
-A. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-B. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-C. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-D. The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-
-**Answer: D.**
-**Explanation:** The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Reform sequencing?
-
-A. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-B. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-C. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-D. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-
-**Answer: A.**
-**Explanation:** Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Reform sequencing?
-
-A. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-B. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-C. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-D. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-
-**Answer: B.**
-**Explanation:** Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Reform sequencing without losing its vintage, basket or legal status?
-
-A. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-B. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-C. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-D. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-
-**Answer: C.**
-**Explanation:** Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Reform sequencing?
-
-A. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-B. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-C. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-D. Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-
-**Answer: D.**
-**Explanation:** Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies WTO transparency boundary?
-
-A. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-B. Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-C. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-D. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-
-**Answer: A.**
-**Explanation:** Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of WTO transparency boundary?
-
-A. Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-B. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-C. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-D. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-
-**Answer: B.**
-**Explanation:** Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses WTO transparency boundary without losing its vintage, basket or legal status?
-
-A. Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-B. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-C. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-D. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-
-**Answer: C.**
-**Explanation:** Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about WTO transparency boundary?
-
-A. Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-B. Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-C. Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-D. Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-
-**Answer: D.**
-**Explanation:** Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-## PYQS AND ANSWER PRACTICE
-
-### VERIFIED PYQ OWNERSHIP AUDIT
-
-Audited ledgers route the 2023 GS-III farm-subsidy/WTO demand and the 2020 objective fertiliser concept. The Basic/practice firewall preserves fertiliser pricing, ammonia and sulphur distinctions without inferring an unavailable objective answer key.
-
-### OWNER PYQ LEDGER EXTRACTS
-
-#### 12. PYQ closure
-
-##### 2023 GS-III exact demand
-
-> What are the direct and indirect subsidies provided to the farm sector in India? Discuss
-> the issues raised by the WTO in relation to agricultural subsidies.
-
-##### 250-word answer engine
-
-**Introduction:** Define a farm subsidy and caution that domestic delivery labels and WTO
-classification differ.
-
-**Direct support**
-
-- PM-KISAN-type income transfer;
-- capital/investment grants;
-- price-deficiency/direct benefit or reimbursement designs;
-- farmer’s share of premium/interest support where explicitly transferred.
-
-**Indirect support**
-
-- fertiliser, electricity, irrigation, seed/machinery services;
-- concessional credit and insurance premium channels;
-- MSP/procurement and market-price support;
-- public services such as research, extension and infrastructure, while distinguishing
-  these from narrow producer subsidies.
-
-**Issues**
-
-- fiscal opportunity cost and unequal incidence;
-- nutrient, groundwater, crop and regional distortion;
-- leakage/exclusion and supplier capture;
-- WTO Amber support, de minimis limits, Article 6.2, Green/Blue criteria;
-- public-stockholding/reference-price and notification disputes;
-- asymmetry between developed- and developing-country support structures.
-
-**Way forward**
-
-- target actual cultivators and low-income/resource-poor producers;
-- rebalance input support toward income, public goods and resilience;
-- diversify procurement and correct water-energy-fertiliser incentives;
-- transparent notification and permanent public-stockholding solution.
-
-**Conclusion:** Reform must reduce distortion without withdrawing livelihood and food-
-security protection.
-
-##### Answer thesis
-
-> India should move from open-ended quantity-linked input subsidies toward transparent,
-> cultivator-sensitive income/risk support and productivity-enhancing public goods, while
-> preserving food security and using WTO flexibilities honestly and transparently.
-
-**Demand decoding:** The directive **answer** requires a direct position on “12. PYQ closure”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Economy demand in “12. PYQ closure”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** What are the direct and indirect subsidies provided to the farm sector in India? Discuss **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** the issues raised by the WTO in relation to agricultural subsidies. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Introduction: Define a farm subsidy and caution that domestic delivery labels and WTO **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** price-deficiency/direct benefit or reimbursement designs **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** farmer’s share of premium/interest support where explicitly transferred. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** fertiliser, electricity, irrigation, seed/machinery services **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** The answer must resolve the Economy demand in “12. PYQ closure”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “12. PYQ closure”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2020, 2023
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | Prelims GS-I | 94 | Chemical fertilizers ammonia source sulphur input and pricing | Objective question; official key unavailable locally | Cross-routed to input fundamentals and fertiliser pricing/subsidy owner; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | GS-III | 14 | Farm subsidies in India and WTO dispute on agricultural support | Discuss · 15 marks · 250 words | Routed to dedicated farm-subsidy/WTO owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Chemical fertilizers ammonia source sulphur input and pricing
-- Farm subsidies in India and WTO dispute on agricultural support
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2023
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2023 | GS-III | 14 | Farm subsidies in India and WTO dispute on agricultural support | Discuss · 15 marks · 250 words | Routed to dedicated farm-subsidy/WTO owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Farm subsidies in India and WTO dispute on agricultural support
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### PYQ DEMAND CARD 1 — 2023 GS-III
-
-**Demand:** Direct and indirect farm subsidies in India and issues raised at the WTO.
-
-**Status:** Official-paper demand routed in the audited 2018-2023 GS-III ledger; no official model answer is claimed.
-
-**Model solution:** **Delivery and legal classification:** Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box. **Fertiliser DBT boundary:** Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer. **Power-water-crop nexus:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **MSP, procurement and expenditure:** MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries. **Amber and de minimis:** Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent. **Green and Blue Boxes:** Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions. **Article 6.2 flexibility:** Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers. **Public stockholding status:** The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption. **WTO transparency boundary:** Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2023 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Delivery and legal classification:** Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box. **Fertiliser DBT boundary:** Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer. **Power-water-crop nexus:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **MSP, procurement and expenditure:** MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries. **Amber and de minimis:** Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent. **Green and Blue Boxes:** Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions. **Article 6.2 flexibility:** Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers. **Public stockholding status:** The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption. **WTO transparency boundary:** Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Direct and indirect farm subsidies in India and issues raised at the WTO. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand routed in the audited 2018-2023 GS-III ledger; no official model answer is claimed. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Delivery and legal classification:** Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box. **Fertiliser DBT boundary:** Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer. **Power-water-crop nexus:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **MSP, procurement and expenditure:** MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries. **Amber and de minimis:** Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent. **Green and Blue Boxes:** Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions. **Article 6.2 flexibility:** Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers. **Public stockholding status:** The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption. **WTO transparency boundary:** Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2023 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish direct, indirect, explicit and implicit farm support. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Delivery and legal classification. **Named evidence/example:** Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Explicit and implicit support. **Named evidence/example:** Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Income support boundary. **Named evidence/example:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box.
-- Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary.
-- Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-
-**Qualified conclusion:** **Claim:** Delivery and legal classification. **Named evidence/example:** Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Explicit and implicit support. **Named evidence/example:** Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Income support boundary. **Named evidence/example:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish direct, indirect, explicit and implicit farm support. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Delivery and legal classification. **Named evidence/example:** Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Explicit and implicit support. **Named evidence/example:** Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Income support boundary. **Named evidence/example:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Delivery and legal classification. **Named evidence/example:** Direct and indirect describe delivery channels in Indian policy, while WTO treatment depends on the measure's legal criteria, production linkage and applicable exemption; a cash transfer is not automatically Green Box. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Explicit and implicit support. **Named evidence/example:** Explicit support appears as a budget payment or revenue concession, whereas implicit support depends on a below-cost or opportunity-cost benchmark; neither label identifies the final economic beneficiary. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Income support boundary. **Named evidence/example:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish direct, indirect, explicit and implicit farm support. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Explain why fertiliser DBT is not a cash transfer to the farmer. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Fertiliser DBT boundary. **Named evidence/example:** Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NBS and urea distinction. **Named evidence/example:** Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer.
-- Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework.
-
-**Qualified conclusion:** **Claim:** Fertiliser DBT boundary. **Named evidence/example:** Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NBS and urea distinction. **Named evidence/example:** Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why fertiliser DBT is not a cash transfer to the farmer. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Fertiliser DBT boundary. **Named evidence/example:** Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NBS and urea distinction. **Named evidence/example:** Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Fertiliser DBT boundary. **Named evidence/example:** Under fertiliser DBT, subsidy is released to fertiliser companies on recorded retail sales through Point-of-Sale systems; it is not a PM-KISAN-style cash deposit to each fertiliser buyer. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NBS and urea distinction. **Named evidence/example:** Nutrient Based Subsidy covers notified phosphatic and potassic fertiliser grades through per-nutrient support, while urea remains outside that regime under a separate pricing and subsidy framework. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Explain why fertiliser DBT is not a cash transfer to the farmer. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Analyse the economic incidence and ecological effects of farm input subsidies. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Power-water-crop nexus. **Named evidence/example:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Irrigation incidence. **Named evidence/example:** Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Credit and insurance support. **Named evidence/example:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Economic incidence. **Named evidence/example:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-- Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving.
-- Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-- The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-
-**Qualified conclusion:** **Claim:** Power-water-crop nexus. **Named evidence/example:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Irrigation incidence. **Named evidence/example:** Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Credit and insurance support. **Named evidence/example:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Economic incidence. **Named evidence/example:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse the economic incidence and ecological effects of farm input subsidies. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Power-water-crop nexus. **Named evidence/example:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Irrigation incidence. **Named evidence/example:** Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Credit and insurance support. **Named evidence/example:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Economic incidence. **Named evidence/example:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Power-water-crop nexus. **Named evidence/example:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Irrigation incidence. **Named evidence/example:** Public irrigation and low water charges can raise productivity, yet benefit depends on command location, head-tail distribution, maintenance and water access; plot efficiency does not prove basin-level water saving. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Credit and insurance support. **Named evidence/example:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Economic incidence. **Named evidence/example:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Analyse the economic incidence and ecological effects of farm input subsidies. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Distinguish WTO Amber, Green, Blue and Article 6.2 treatment. Answer in about 250 words.
-
-**Model thesis:** **Claim:** WTO domestic-support pillars. **Named evidence/example:** The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Amber and de minimis. **Named evidence/example:** Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Green and Blue Boxes. **Named evidence/example:** Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Article 6.2 flexibility. **Named evidence/example:** Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact.
-- Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent.
-- Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions.
-- Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
-
-**Qualified conclusion:** **Claim:** WTO domestic-support pillars. **Named evidence/example:** The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Amber and de minimis. **Named evidence/example:** Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Green and Blue Boxes. **Named evidence/example:** Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Article 6.2 flexibility. **Named evidence/example:** Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish WTO Amber, Green, Blue and Article 6.2 treatment. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** WTO domestic-support pillars. **Named evidence/example:** The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Amber and de minimis. **Named evidence/example:** Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Green and Blue Boxes. **Named evidence/example:** Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Article 6.2 flexibility. **Named evidence/example:** Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** WTO domestic-support pillars. **Named evidence/example:** The Agreement on Agriculture separates market access, domestic support and export competition; farm-subsidy box analysis belongs primarily to domestic support even when border and export effects interact. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Amber and de minimis. **Named evidence/example:** Amber Box covers non-exempt support considered production- or trade-distorting, while product-specific and non-product-specific de minimis tests are separate and the general developing-country ceiling is 10 percent. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Green and Blue Boxes. **Named evidence/example:** Green Box measures must be publicly funded, avoid producer price support and meet general plus measure-specific minimal-distortion criteria; Blue Box covers qualifying direct payments under production-limiting conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Article 6.2 flexibility. **Named evidence/example:** Article 6.2 permits specified developing-country development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish WTO Amber, Green, Blue and Article 6.2 treatment. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Discuss India's public-stockholding dispute and the legal status of the peace clause. Answer in about 300 words.
-
-**Model thesis:** **Claim:** MSP, procurement and expenditure. **Named evidence/example:** MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AMS measurement boundary. **Named evidence/example:** Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Public stockholding status. **Named evidence/example:** The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** WTO transparency boundary. **Named evidence/example:** Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries.
-- Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure.
-- The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption.
-- Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute.
-
-**Qualified conclusion:** **Claim:** MSP, procurement and expenditure. **Named evidence/example:** MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AMS measurement boundary. **Named evidence/example:** Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Public stockholding status. **Named evidence/example:** The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** WTO transparency boundary. **Named evidence/example:** Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss India's public-stockholding dispute and the legal status of the peace clause. Answer…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** MSP, procurement and expenditure. **Named evidence/example:** MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AMS measurement boundary. **Named evidence/example:** Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Public stockholding status. **Named evidence/example:** The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** WTO transparency boundary. **Named evidence/example:** Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** MSP, procurement and expenditure. **Named evidence/example:** MSP announcement, effective procurement, budget expenditure and WTO market-price-support measurement are different objects with crop, grade, geography, quantity and methodology boundaries. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AMS measurement boundary. **Named evidence/example:** Aggregate Measurement of Support measures non-exempt domestic support; administered market-price support uses a price gap against a fixed external reference price multiplied by eligible production, not actual procurement expenditure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Public stockholding status. **Named evidence/example:** The 2013 Bali public-stockholding decision provides interim, conditional due-restraint protection for qualifying existing food-security programmes involving traditional staple crops; it is not a permanent settlement or blanket exemption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** WTO transparency boundary. **Named evidence/example:** Notification, methodology, eligible production and stock-disposal questions are legal and transparency issues; a member notification is not an adjudicated ruling and a peace-clause invocation does not settle the underlying dispute. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Discuss India's public-stockholding dispute and the legal status of the peace clause. Answer…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Design a sequenced reform of Indian farm support that protects livelihoods and food security. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Income support boundary. **Named evidence/example:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Power-water-crop nexus. **Named evidence/example:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Credit and insurance support. **Named evidence/example:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Economic incidence. **Named evidence/example:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Producer and consumer support. **Named evidence/example:** Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Public goods and capital grants. **Named evidence/example:** Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reform sequencing. **Named evidence/example:** Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators.
-- Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak.
-- Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak.
-- The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust.
-- Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy.
-- Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks.
-- Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods.
-
-**Qualified conclusion:** **Claim:** Income support boundary. **Named evidence/example:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Power-water-crop nexus. **Named evidence/example:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Credit and insurance support. **Named evidence/example:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Economic incidence. **Named evidence/example:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Producer and consumer support. **Named evidence/example:** Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Public goods and capital grants. **Named evidence/example:** Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reform sequencing. **Named evidence/example:** Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design a sequenced reform of Indian farm support that protects livelihoods and food security.…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Income support boundary. **Named evidence/example:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Power-water-crop nexus. **Named evidence/example:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Credit and insurance support. **Named evidence/example:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Economic incidence. **Named evidence/example:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Producer and consumer support. **Named evidence/example:** Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Public goods and capital grants. **Named evidence/example:** Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reform sequencing. **Named evidence/example:** Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-7. **Claim and named evidence:** Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Income support boundary. **Named evidence/example:** Income support supplements an eligible farm household's liquidity without requiring purchase of one input, but land-record eligibility can exclude tenants, sharecroppers and undocumented cultivators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Power-water-crop nexus. **Named evidence/example:** Concessional or unmetered farm power lowers private pumping cost but can reinforce groundwater extraction, water-intensive cropping and DISCOM or state fiscal stress when resource governance is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Credit and insurance support. **Named evidence/example:** Interest and premium support can ease liquidity and transfer specified risk, but cheap credit does not make an unviable crop viable and insurance value collapses when basis risk, yield data, settlement or appeal is weak. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Economic incidence. **Named evidence/example:** The budget recipient, statutory beneficiary and final economic beneficiary can differ after prices, rents, input demand, supplier margins and output supply adjust. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Producer and consumer support. **Named evidence/example:** Farm input or price support primarily targets producers, while PDS food subsidy targets eligible consumers; procurement links the systems but does not make consumer food subsidy a farm-input subsidy. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Public goods and capital grants. **Named evidence/example:** Research, extension, pest control, roads, markets and eligible infrastructure can correct public-good or coordination failures, while capital grants require demand, maintenance and additionality checks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reform sequencing. **Named evidence/example:** Subsidy reform should identify the objective and incidence, build alternatives first, protect small and actual cultivators, coordinate input and output incentives, phase change predictably and reinvest in public goods. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Design a sequenced reform of Indian farm support that protects livelihoods and food security.…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+- Classify support before judging it.
+- Trace legal recipient and final incidence separately.
+- Label Budget figures BE, RE or Actual.
+- Keep urea outside NBS and fertiliser DBT distinct from farmer cash.
+- Keep MSP, procurement, fiscal subsidy and WTO MPS separate.
+- Apply AoA formula, denominator and exemption conditions exactly.
+- Bali due restraint is conditional; WT/L/939 lasts until a permanent solution.
+- Reform must combine targeting, public goods, corrected incentives and transition protection.

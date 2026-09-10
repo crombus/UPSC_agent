@@ -1,74 +1,63 @@
-ASCII MASTER FLOW — PANEL 1/12: Farm-support transmission rail
-OBJECTIVE
--> DELIVERY CHANNEL
--> ECONOMIC INCIDENCE
--> BEHAVIOUR + OUTCOME + WTO TEST
-MUST REMEMBER: Farm support includes budgetary transfers, price support, input subsidies,...
+ECONOMY TOPIC 28 - DIRECT AND INDIRECT FARM SUBSIDIES AND WTO RULES
+CURRENT-STATUS CUTOFF: 10 SEPTEMBER 2026
+============================================================================
+PANEL 1 CLASSIFY
+----------------------------------------------------------------------------
+direct/indirect = linkage
+explicit/implicit = fiscal visibility
+recipient != incidence
 
-ASCII MASTER FLOW — PANEL 2/12: Delivery-classification matrix
-DIRECT / INDIRECT -> delivery
-EXPLICIT / IMPLICIT -> fiscal visibility
-GREEN / AMBER / BLUE -> WTO criteria
-LABEL != legal result
+PANEL 2 INDIA SUPPORT
+----------------------------------------------------------------------------
+income | fertiliser | power | irrigation
+credit | insurance | price
 
-ASCII MASTER FLOW — PANEL 3/12: Income-support boundary
-ELIGIBLE RECORD
--> CASH TRANSFER
--> HOUSEHOLD LIQUIDITY
-TENANT + SHARECROPPER exclusion risk
+PANEL 3 FERTILISER
+----------------------------------------------------------------------------
+DBT: PoS sale -> company reimbursement
+NBS: P&K grades | urea separate
 
-ASCII MASTER FLOW — PANEL 4/12: Fertiliser support chain
-GOVERNMENT
--> COMPANY CLAIM AFTER PoS SALE
--> LOWER FARMER PRICE
-DBT != buyer cash transfer
+PANEL 4 INCIDENCE
+----------------------------------------------------------------------------
+rule -> payee -> pass-through -> final benefit
+check land, quantity, tenancy, market power
 
-ASCII MASTER FLOW — PANEL 5/12: Nutrient-pricing split
-NBS -> notified P + K grades
-UREA -> separate regime
-RELATIVE PRICE -> nutrient choice
-AFFORDABILITY != balanced use
+PANEL 5 EFFECTS
+----------------------------------------------------------------------------
+income/risk/food security
+vs fiscal cost/leakage/regressivity
 
-ASCII MASTER FLOW — PANEL 6/12: Water-energy-crop loop
-CHEAP POWER -> PUMPING
-PUMPING -> WATER-INTENSIVE CROP
-GROUNDWATER FALL -> MORE ENERGY
-REFORM needs crop + aquifer safeguards
-CLOSE DISTINCTION: Direct versus indirect subsidy is not WTO green/amber/blue...
+PANEL 6 ECOLOGY
+----------------------------------------------------------------------------
+cheap nitrogen + power + water
+-> crop lock-in + soil/water stress
 
-ASCII MASTER FLOW — PANEL 7/12: Risk-support audit
-CREDIT -> liquidity
-INSURANCE -> specified risk transfer
-BASIS RISK + DELAY
-SUBSIDY != viable farm system
+PANEL 7 AoA PILLARS
+----------------------------------------------------------------------------
+market access | domestic support
+export competition
 
-ASCII MASTER FLOW — PANEL 8/12: Price-support distinctions
-MSP -> announcement
-PROCUREMENT -> actual operation
-BUDGET -> fiscal expenditure
-AMS -> WTO methodology
+PANEL 8 BOXES
+----------------------------------------------------------------------------
+Amber: AMS | Green: Annex 2
+Blue: production limit | Art 6.2
 
-ASCII MASTER FLOW — PANEL 9/12: WTO box map
-AMBER -> non-exempt distortion
-GREEN -> criteria-based minimal distortion
-BLUE -> production-limiting payment
-ARTICLE 6.2 -> development flexibility
+PANEL 9 MPS FORMULA
+----------------------------------------------------------------------------
+(AAP - fixed ERP) x eligible production
+1986-88 reference; procurement may differ
 
-ASCII MASTER FLOW — PANEL 10/12: De minimis and AMS
-PRODUCT-SPECIFIC -> separate test
-NON-PRODUCT-SPECIFIC -> separate test
-DEVELOPING COUNTRY -> general 10%
-PRICE GAP x ELIGIBLE PRODUCTION
+PANEL 10 DE MINIMIS
+----------------------------------------------------------------------------
+developing member: product <10%
+non-product <10%; separate tests
 
-ASCII MASTER FLOW — PANEL 11/12: Public-stockholding status
-FOOD-SECURITY PROGRAMME
--> BALI 2013 INTERIM SHIELD
--> TRANSPARENCY + CONDITIONS
-PEACE CLAUSE != permanent solution
+PANEL 11 STOCKHOLDING
+----------------------------------------------------------------------------
+Bali 7 Dec 2013 conditional due restraint
+WT/L/939 until permanent solution
 
-ASCII MASTER FLOW — PANEL 12/12: Farm-subsidy answer spine
-CLASSIFY delivery + objective
-TRACE incidence + distortion
-APPLY WTO category + status
-REFORM with transition protection
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Qualify eligible production value, external...
+PANEL 12 REFORM
+----------------------------------------------------------------------------
+target + public goods + correct prices
+transition + grievance + evaluation

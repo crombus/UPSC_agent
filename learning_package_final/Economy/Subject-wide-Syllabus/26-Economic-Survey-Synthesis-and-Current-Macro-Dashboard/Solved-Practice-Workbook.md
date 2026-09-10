@@ -1,1160 +1,929 @@
-# Economic Survey Synthesis and Current Macro Dashboard — Solved Practice Workbook
+# Economy Topic 26 - Economic Survey Synthesis and Current Macro Dashboard - Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-03. Uses the same source-bounded Economy distinctions and strict A-B-C-D rotation.
+**Data cutoff:** 9 September 2026.
 
-## BASIC MCQS / REMEDIATION
+All 32 MCQs precede PYQs. Correct options follow the exact sequence A-B-C-D repeated eight times. Every distractor has a substantive explanation and every question has a distinct trap. Current-data questions include source period and estimate status.
 
-### Q1. Which statement correctly identifies First Advance Estimate?
+## 32 SOLVED MCQS
 
-A. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-B. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-C. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
-D. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
+### MCQ 01
 
-**Answer: A.**
-**Explanation:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Question:** Which statement best describes the Economic Survey?
 
-### Q2. Which option preserves the accounting or regulatory boundary of First Advance Estimate?
+A. It is an analytical, non-binding review of the economy
 
-A. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
-B. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-C. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-D. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
+B. It appropriates expenditure
 
-**Answer: B.**
-**Explanation:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+C. It is RBI's monetary-policy resolution
 
-### Q3. Which statement uses First Advance Estimate without losing its vintage, basket or legal status?
+D. It is the audited Union Finance Account
 
-A. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-B. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-C. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-D. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
 
-**Answer: C.**
-**Explanation:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Correct answer:** A
 
-### Q4. Which option avoids the standard UPSC close-option trap about First Advance Estimate?
+- **Option A:** The Survey diagnoses trends and advances policy arguments without itself authorising expenditure.
 
-A. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-B. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-C. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-D. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
+- **Option B:** Appropriation requires parliamentary legislation, not the Survey.
 
-**Answer: D.**
-**Explanation:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option C:** The MPC resolution is an RBI document with a different mandate.
 
-### Q5. Which statement correctly identifies GDP and GVA boundary?
+- **Option D:** Final Union accounts are produced through the government accounting and audit process.
 
-A. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-B. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
-C. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-D. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
 
-**Answer: A.**
-**Explanation:** GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Unique trap:** Do not convert analysis into legal authority.
 
-### Q6. Which option preserves the accounting or regulatory boundary of GDP and GVA boundary?
+### MCQ 02
 
-A. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-B. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-C. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-D. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
+**Question:** Which document-stage pairing is correct?
 
-**Answer: B.**
-**Explanation:** GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Survey - final audited spending
 
-### Q7. Which statement uses GDP and GVA boundary without losing its vintage, basket or legal status?
+B. Budget Estimate - proposed amount for the coming year
 
-A. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-B. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-C. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-D. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
+C. Revised Estimate - constitutional amendment
 
-**Answer: C.**
-**Explanation:** GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+D. CGA provisional account - forecast made before the year
 
-### Q8. Which option avoids the standard UPSC close-option trap about GDP and GVA boundary?
 
-A. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-B. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-C. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-D. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
+**Correct answer:** B
 
-**Answer: D.**
-**Explanation:** GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option A:** The Survey is not a final spending account.
 
-### Q9. Which statement correctly identifies Real and nominal boundary?
+- **Option B:** BE is the government's initial annual fiscal plan.
 
-A. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
-B. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-C. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-D. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
+- **Option C:** RE is a revised fiscal estimate, not legislation.
 
-**Answer: A.**
-**Explanation:** Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option D:** CGA provisional accounts record realised transactions after year-end.
 
-### Q10. Which option preserves the accounting or regulatory boundary of Real and nominal boundary?
 
-A. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-B. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
-C. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-D. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
+**Unique trap:** Plan, revision and outturn are distinct.
 
-**Answer: B.**
-**Explanation:** Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 03
 
-### Q11. Which statement uses Real and nominal boundary without losing its vintage, basket or legal status?
+**Question:** Which is the complete minimum data-vintage tag?
 
-A. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-B. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-C. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
-D. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
+A. Indicator and value only
 
-**Answer: C.**
-**Explanation:** Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+B. Value, ministry and opinion
 
-### Q12. Which option avoids the standard UPSC close-option trap about Real and nominal boundary?
+C. Indicator, period, unit/base, release date, source and status
 
-A. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-B. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-C. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-D. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
+D. Financial year and newspaper date
 
-**Answer: D.**
-**Explanation:** Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q13. Which statement correctly identifies Demand composition?
+**Correct answer:** C
 
-A. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-B. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-C. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-D. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
+- **Option A:** A naked value cannot be safely updated or compared.
 
-**Answer: A.**
-**Explanation:** PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option B:** An opinion does not replace period, unit or estimate status.
 
-### Q14. Which option preserves the accounting or regulatory boundary of Demand composition?
+- **Option C:** These six fields make the evidence auditable and revision-safe.
 
-A. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-B. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-C. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-D. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
+- **Option D:** A newspaper date is not the official release and omits statistical status.
 
-**Answer: B.**
-**Explanation:** PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q15. Which statement uses Demand composition without losing its vintage, basket or legal status?
+**Unique trap:** Metadata is part of the fact.
 
-A. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-B. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-C. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-D. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
+### MCQ 04
 
-**Answer: C.**
-**Explanation:** PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Question:** Which pair correctly identifies a stock and a flow?
 
-### Q16. Which option avoids the standard UPSC close-option trap about Demand composition?
+A. GDP stock; reserves flow
 
-A. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-B. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-C. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
-D. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
+B. CAD stock; external debt flow
 
-**Answer: D.**
-**Explanation:** PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+C. Fiscal deficit stock; exports stock
 
-### Q17. Which statement correctly identifies Estimate-vintage sequence?
+D. Forex reserves stock; quarterly CAD flow
 
-A. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-B. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-C. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-D. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
 
-**Answer: A.**
-**Explanation:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Correct answer:** D
 
-### Q18. Which option preserves the accounting or regulatory boundary of Estimate-vintage sequence?
+- **Option A:** GDP measures production over a period.
 
-A. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-B. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-C. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-D. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
+- **Option B:** CAD is a period flow and debt a point-in-time stock.
 
-**Answer: B.**
-**Explanation:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option C:** Both deficit and exports are flows over periods.
 
-### Q19. Which statement uses Estimate-vintage sequence without losing its vintage, basket or legal status?
+- **Option D:** Reserves are dated assets while CAD accumulates during a quarter.
 
-A. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-B. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-C. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-D. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
 
-**Answer: C.**
-**Explanation:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Unique trap:** A ratio does not change the underlying stock-flow character.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Estimate-vintage sequence?
+### MCQ 05
 
-A. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-B. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
-C. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-D. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
+**Question:** MoSPI's 31 August 2026 release reported which correctly labelled figure?
 
-**Answer: D.**
-**Explanation:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Q1 FY27 real GDP growth 7.8%, quarterly estimate, base 2022-23
 
-### Q21. Which statement correctly identifies BE, RE and actual?
+B. FY27 final GDP growth 7.8%, base 2011-12
 
-A. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-B. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-C. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-D. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
+C. Calendar-2026 nominal GDP growth 7.8%
 
-**Answer: A.**
-**Explanation:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+D. Q1 FY27 GDP level equal to 7.8% of GVA
 
-### Q22. Which option preserves the accounting or regulatory boundary of BE, RE and actual?
 
-A. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-B. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-C. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-D. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
+**Correct answer:** A
 
-**Answer: B.**
-**Explanation:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option A:** The release gives Q1 FY27 year-on-year real growth under the new base.
 
-### Q23. Which statement uses BE, RE and actual without losing its vintage, basket or legal status?
+- **Option B:** Neither the full year nor the old base describes the release.
 
-A. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-B. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
-C. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-D. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
+- **Option C:** The period is April-June FY27 and the 7.8 figure is real growth.
 
-**Answer: C.**
-**Explanation:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option D:** A growth rate is not a level or share.
 
-### Q24. Which option avoids the standard UPSC close-option trap about BE, RE and actual?
 
-A. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
-B. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-C. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-D. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
+**Unique trap:** Keep quarter, price basis, base year and estimate status together.
 
-**Answer: D.**
-**Explanation:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 06
 
-### Q25. Which statement correctly identifies Headline and core inflation?
+**Question:** Why can real GDP and real GVA growth differ?
 
-A. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-B. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-C. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-D. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
+A. GDP excludes taxes while GVA includes imports
 
-**Answer: A.**
-**Explanation:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+B. GDP adds product taxes and subtracts product subsidies from GVA
 
-### Q26. Which option preserves the accounting or regulatory boundary of Headline and core inflation?
+C. GVA is always nominal
 
-A. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-B. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-C. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
-D. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
+D. Only GDP is revised
 
-**Answer: B.**
-**Explanation:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q27. Which statement uses Headline and core inflation without losing its vintage, basket or legal status?
+**Correct answer:** B
 
-A. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
-B. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-C. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-D. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
+- **Option A:** The distinction is not about excluding all taxes or importing goods.
 
-**Answer: C.**
-**Explanation:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option B:** Net product taxes bridge GVA at basic prices and GDP at market prices.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Headline and core inflation?
+- **Option C:** Both aggregates can be presented at constant or current prices.
 
-A. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-B. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-C. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-D. Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
+- **Option D:** Both GDP and GVA are revised.
 
-**Answer: D.**
-**Explanation:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q29. Which statement correctly identifies High-frequency indicators?
+**Unique trap:** A GDP-GVA gap is not automatically inconsistent data.
 
-A. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-B. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-C. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
-D. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
+### MCQ 07
 
-**Answer: A.**
-**Explanation:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Question:** The Survey's 7.4% FY26 growth figure should be described as:
 
-### Q30. Which option preserves the accounting or regulatory boundary of High-frequency indicators?
+A. A final audited outturn under base 2022-23
 
-A. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
-B. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-C. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-D. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
+B. A calendar-year growth rate
 
-**Answer: B.**
-**Explanation:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+C. A January 2026 First Advance Estimate under the then-current series
 
-### Q31. Which statement uses High-frequency indicators without losing its vintage, basket or legal status?
+D. An RBI projection for FY27
 
-A. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-B. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-C. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-D. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
 
-**Answer: C.**
-**Explanation:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Correct answer:** C
 
-### Q32. Which option avoids the standard UPSC close-option trap about High-frequency indicators?
+- **Option A:** The Survey preceded later revisions and rebasing.
 
-A. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-B. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-C. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-D. High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
+- **Option B:** FY26 means April 2025-March 2026.
 
-**Answer: D.**
-**Explanation:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option C:** This preserves the Survey's source vintage and estimate status.
 
-### Q33. Which statement correctly identifies Reserve stock and CAD flow?
+- **Option D:** The RBI and FY27 are separate.
 
-A. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-B. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
-C. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-D. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
 
-**Answer: A.**
-**Explanation:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Unique trap:** Do not silently upgrade FAE to actual.
 
-### Q34. Which option preserves the accounting or regulatory boundary of Reserve stock and CAD flow?
+### MCQ 08
 
-A. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-B. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-C. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-D. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
+**Question:** What is the safest comparison after a base-year revision?
 
-**Answer: B.**
-**Explanation:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Compare any old and new growth rates directly
 
-### Q35. Which statement uses Reserve stock and CAD flow without losing its vintage, basket or legal status?
+B. Use nominal values only
 
-A. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-B. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-C. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-D. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
+C. Assume methodological changes have no effect
 
-**Answer: C.**
-**Explanation:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+D. Use an official linked/back series or clearly qualify the break
 
-### Q36. Which option avoids the standard UPSC close-option trap about Reserve stock and CAD flow?
 
-A. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-B. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-C. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-D. Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
+**Correct answer:** D
 
-**Answer: D.**
-**Explanation:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option A:** Weights and methods can break comparability.
 
-### Q37. Which statement correctly identifies External debt stock?
+- **Option B:** Nominal series also change coverage and valuation.
 
-A. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
-B. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-C. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-D. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
+- **Option C:** Method changes are central to rebasing.
 
-**Answer: A.**
-**Explanation:** External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option D:** A bridge or explicit qualification preserves statistical validity.
 
-### Q38. Which option preserves the accounting or regulatory boundary of External debt stock?
 
-A. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-B. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
-C. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-D. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
+**Unique trap:** Rebasing is not merely relabelling the year.
 
-**Answer: B.**
-**Explanation:** External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 09
 
-### Q39. Which statement uses External debt stock without losing its vintage, basket or legal status?
+**Question:** Q1 FY27 GFCF growth of 11.9% in the 31 August 2026 release indicates:
 
-A. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-B. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-C. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
-D. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
+A. Growth of fixed capital formation at constant prices, not proof of project quality
 
-**Answer: C.**
-**Explanation:** External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+B. The private investment share of GDP
 
-### Q40. Which option avoids the standard UPSC close-option trap about External debt stock?
+C. Completed public infrastructure only
 
-A. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-B. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-C. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-D. External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows.
+D. Capacity utilisation of every industry
 
-**Answer: D.**
-**Explanation:** External debt is a liability stock measured at a stated date and must be assessed with maturity, currency, borrower and servicing capacity rather than confused with annual capital inflows. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q41. Which statement correctly identifies PLFS method boundary?
+**Correct answer:** A
 
-A. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-B. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-C. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-D. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
+- **Option A:** GFCF is a broad fixed-asset flow; execution and productivity require separate evidence.
 
-**Answer: A.**
-**Explanation:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option B:** Growth is not a share and includes more than private investment.
 
-### Q42. Which option preserves the accounting or regulatory boundary of PLFS method boundary?
+- **Option C:** GFCF includes multiple institutional sectors.
 
-A. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-B. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-C. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-D. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
+- **Option D:** Capacity use is a different indicator.
 
-**Answer: B.**
-**Explanation:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q43. Which statement uses PLFS method boundary without losing its vintage, basket or legal status?
+**Unique trap:** Investment quantity does not settle investment quality.
 
-A. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-B. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-C. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-D. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
+### MCQ 10
 
-**Answer: C.**
-**Explanation:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Question:** Which sectoral reading is correct for Q1 FY27?
 
-### Q44. Which option avoids the standard UPSC close-option trap about PLFS method boundary?
+A. Primary GVA led at 10%
 
-A. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-B. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-C. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-D. PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
+B. Tertiary GVA grew 10.0%, faster than primary GVA at 2.9%
 
-**Answer: D.**
-**Explanation:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+C. Agriculture contracted 3.6%
 
-### Q45. Which statement correctly identifies Dashboard denominator?
+D. All sub-sectors grew at the same rate
 
-A. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-B. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-C. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-D. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
 
-**Answer: A.**
-**Explanation:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Correct answer:** B
 
-### Q46. Which option preserves the accounting or regulatory boundary of Dashboard denominator?
+- **Option A:** The 10% figure belongs to tertiary GVA.
 
-A. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-B. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-C. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-D. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
+- **Option B:** MoSPI's 31 August release supports this dated comparison.
 
-**Answer: B.**
-**Explanation:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option C:** Agriculture and allied grew 3.6%.
 
-### Q47. Which statement uses Dashboard denominator without losing its vintage, basket or legal status?
+- **Option D:** Broad and detailed sectors diverged.
 
-A. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-B. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-C. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-D. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
 
-**Answer: C.**
-**Explanation:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Unique trap:** Broad-based growth must be demonstrated, not asserted.
 
-### Q48. Which option avoids the standard UPSC close-option trap about Dashboard denominator?
+### MCQ 11
 
-A. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-B. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-C. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
-D. A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
+**Question:** What does the July 2026 IIP figure of 6.7% represent?
 
-**Answer: D.**
-**Explanation:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Final annual industrial GVA
 
-### Q49. Which statement correctly identifies Survey, Budget and outturn?
+B. A privately surveyed sentiment index
 
-A. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-B. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-C. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-D. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
+C. A year-on-year Quick Estimate of industrial output, base 2022-23
 
-**Answer: A.**
-**Explanation:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+D. The weighted average of CPI and WPI
 
-### Q50. Which option preserves the accounting or regulatory boundary of Survey, Budget and outturn?
 
-A. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-B. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-C. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-D. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
+**Correct answer:** C
 
-**Answer: B.**
-**Explanation:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option A:** IIP is monthly and distinct from GVA.
 
-### Q51. Which statement uses Survey, Budget and outturn without losing its vintage, basket or legal status?
+- **Option B:** PMI is the private diffusion survey.
 
-A. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-B. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-C. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-D. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
+- **Option C:** MoSPI labelled July IIP a Quick Estimate under the 2022-23 base.
 
-**Answer: C.**
-**Explanation:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option D:** Price indices are not averaged into IIP.
 
-### Q52. Which option avoids the standard UPSC close-option trap about Survey, Budget and outturn?
 
-A. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-B. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
-C. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
-D. An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
+**Unique trap:** IIP is a volume signal, not national-account value added.
 
-**Answer: D.**
-**Explanation:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 12
 
-### Q53. Which statement correctly identifies Forecast and potential growth?
+**Question:** Which statement about the revised core-industries series is correct?
 
-A. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-B. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-C. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-D. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
+A. It is identical to the old eight-industry series
 
-**Answer: A.**
-**Explanation:** A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+B. It measures all manufacturing establishments
 
-### Q54. Which option preserves the accounting or regulatory boundary of Forecast and potential growth?
+C. Its July value was a final annual estimate
 
-A. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-B. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-C. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-D. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
+D. The base-2022-23 ICI includes iron ore and July 2026 growth was provisional
 
-**Answer: B.**
-**Explanation:** A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q55. Which statement uses Forecast and potential growth without losing its vintage, basket or legal status?
+**Correct answer:** D
 
-A. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-B. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
-C. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-D. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
+- **Option A:** The revised architecture and weights differ.
 
-**Answer: C.**
-**Explanation:** A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option B:** ICI covers selected upstream sectors.
 
-### Q56. Which option avoids the standard UPSC close-option trap about Forecast and potential growth?
+- **Option C:** The 20 August release was monthly and provisional.
 
-A. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
-B. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
-C. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
-D. A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
+- **Option D:** This captures both the series change and status.
 
-**Answer: D.**
-**Explanation:** A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q57. Which statement correctly identifies Macro-stability frame?
+**Unique trap:** Do not import old 'eight core' weights into the revised series.
 
-A. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-B. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-C. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-D. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
+### MCQ 13
 
-**Answer: A.**
-**Explanation:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Question:** A PMI reading above 50 ordinarily means:
 
-### Q58. Which option preserves the accounting or regulatory boundary of Macro-stability frame?
+A. More surveyed firms report improvement than deterioration under the diffusion formula
 
-A. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-B. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-C. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
-D. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
+B. Official industrial output grew above 50%
 
-**Answer: B.**
-**Explanation:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+C. Inflation exceeded the target
 
-### Q59. Which statement uses Macro-stability frame without losing its vintage, basket or legal status?
+D. Every surveyed firm expanded
 
-A. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
-B. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
-C. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-D. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
 
-**Answer: C.**
-**Explanation:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Correct answer:** A
 
-### Q60. Which option avoids the standard UPSC close-option trap about Macro-stability frame?
+- **Option A:** The threshold indicates direction among respondents.
 
-A. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
-B. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
-C. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-D. Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
+- **Option B:** PMI level is not an output-growth percentage.
 
-**Answer: D.**
-**Explanation:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option C:** It is not an inflation target measure.
 
-### Q61. Which statement correctly identifies V-shaped recovery boundary?
+- **Option D:** Some firms can report deterioration or no change.
 
-A. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-B. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-C. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
-D. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
 
-**Answer: A.**
-**Explanation:** India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Unique trap:** PMI is private and directional.
 
-### Q62. Which option preserves the accounting or regulatory boundary of V-shaped recovery boundary?
+### MCQ 14
 
-A. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
-B. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-C. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
-D. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
+**Question:** Why should PMI be cross-checked with IIP?
 
-**Answer: B.**
-**Explanation:** India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Both are final GDP estimates
 
-### Q63. Which statement uses V-shaped recovery boundary without losing its vintage, basket or legal status?
+B. They differ in source, coverage and measurement: survey diffusion versus official output index
 
-A. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
-B. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
-C. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-D. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
+C. IIP measures expectations only
 
-**Answer: C.**
-**Explanation:** India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+D. PMI is a fiscal variable
 
-### Q64. Which option avoids the standard UPSC close-option trap about V-shaped recovery boundary?
 
-A. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
-B. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-C. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-D. India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
+**Correct answer:** B
 
-**Answer: D.**
-**Explanation:** India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option A:** Neither is final GDP.
 
-### Q65. Which statement correctly identifies FY21 revision example?
+- **Option B:** Their differing errors make triangulation useful.
 
-A. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-B. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
-C. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
-D. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
+- **Option C:** IIP measures recorded industrial volume.
 
-**Answer: A.**
-**Explanation:** The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option D:** PMI is a business survey, not a budget item.
 
-### Q66. Which option preserves the accounting or regulatory boundary of FY21 revision example?
 
-A. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
-B. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-C. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
-D. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
+**Unique trap:** Agreement is evidence; disagreement is a diagnostic question.
 
-**Answer: B.**
-**Explanation:** The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 15
 
-### Q67. Which statement uses FY21 revision example without losing its vintage, basket or legal status?
+**Question:** Which statement correctly compares July 2026 CPI and WPI?
 
-A. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
-B. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-C. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-D. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
+A. Both use the same basket and base
 
-**Answer: C.**
-**Explanation:** The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+B. WPI is RBI's inflation target
 
-### Q68. Which option avoids the standard UPSC close-option trap about FY21 revision example?
+C. CPI was 4.45% provisional on base 2024, while WPI was 9.78% provisional on base 2022-23
 
-A. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-B. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-C. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
-D. The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
+D. Their difference proves future CPI inflation
 
-**Answer: D.**
-**Explanation:** The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q69. Which statement correctly identifies Global Competitiveness Report?
+**Correct answer:** C
 
-A. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
-B. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
-C. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
-D. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
+- **Option A:** Household and wholesale baskets differ.
 
-**Answer: A.**
-**Explanation:** The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option B:** The inflation target is headline CPI.
 
-### Q70. Which option preserves the accounting or regulatory boundary of Global Competitiveness Report?
+- **Option C:** The two official releases require separate bases and dates.
 
-A. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
-B. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
-C. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-D. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
+- **Option D:** Pass-through is uncertain and lagged.
 
-**Answer: B.**
-**Explanation:** The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q71. Which statement uses Global Competitiveness Report without losing its vintage, basket or legal status?
+**Unique trap:** Never subtract unlike indices as if they were one basket.
 
-A. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-B. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-C. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
-D. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
+### MCQ 16
 
-**Answer: C.**
-**Explanation:** The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Question:** A low base effect can produce:
 
-### Q72. Which option avoids the standard UPSC close-option trap about Global Competitiveness Report?
+A. A lower index level with no rate effect
 
-A. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-B. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
-C. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-D. The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it.
+B. A permanent increase in potential output
 
-**Answer: D.**
-**Explanation:** The World Economic Forum published the Global Competitiveness Report or Index and discontinued that specific annual series after 2019-20; IMD's separate ranking must not be substituted for it. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+C. A final unrevised estimate
 
-### Q73. Which statement correctly identifies Comparable-period synthesis?
+D. A high year-on-year rate despite modest recent momentum
 
-A. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
-B. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
-C. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-D. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
 
-**Answer: A.**
-**Explanation:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Correct answer:** D
 
-### Q74. Which option preserves the accounting or regulatory boundary of Comparable-period synthesis?
+- **Option A:** Base effects operate through the comparison denominator.
 
-A. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-B. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
-C. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-D. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
+- **Option B:** Potential output needs structural evidence.
 
-**Answer: B.**
-**Explanation:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option C:** Revision status is unrelated.
 
-### Q75. Which statement uses Comparable-period synthesis without losing its vintage, basket or legal status?
+- **Option D:** A depressed year-ago level can inflate the annual rate.
 
-A. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-B. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
-C. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
-D. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
 
-**Answer: C.**
-**Explanation:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Unique trap:** Check level and sequential momentum.
 
-### Q76. Which option avoids the standard UPSC close-option trap about Comparable-period synthesis?
+### MCQ 17
 
-A. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
-B. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-C. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-D. Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
+**Question:** What was the RBI policy repo decision on 5 August 2026?
 
-**Answer: D.**
-**Explanation:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Held at 5.25% with a neutral stance
 
-### Q77. Which statement correctly identifies Strategic resilience and indispensability?
+B. Raised to 6.50% with tightening stance
 
-A. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
-B. A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-C. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-D. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
+C. Cut to 4.00% and abandoned inflation targeting
 
-**Answer: A.**
-**Explanation:** Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+D. Fixed by the Finance Ministry
 
-### Q78. Which option preserves the accounting or regulatory boundary of Strategic resilience and indispensability?
 
-A. GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-B. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
-C. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
-D. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
+**Correct answer:** A
 
-**Answer: B.**
-**Explanation:** Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option A:** The MPC unanimously held repo at 5.25% and retained neutral stance.
 
-### Q79. Which statement uses Strategic resilience and indispensability without losing its vintage, basket or legal status?
+- **Option B:** This does not match the dated decision.
 
-A. Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
-B. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-C. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
-D. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
+- **Option C:** Inflation targeting continued.
 
-**Answer: C.**
-**Explanation:** Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+- **Option D:** The statutory MPC decides the repo rate.
 
-### Q80. Which option avoids the standard UPSC close-option trap about Strategic resilience and indispensability?
 
-A. PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-B. National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-C. Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-D. Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
+**Unique trap:** Rate, stance and forecast are separate facts.
 
-**Answer: D.**
-**Explanation:** Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 18
 
-### Semantic-completeness coverage drills — Topic 26
+**Question:** Which statement best distinguishes liquidity from monetary stance?
 
-| Drill | Prompt | Minimum answer route | Fatal trap |
-|---|---|---|---|
-| A | Why is AD 750 not a universal break? | multiple criteria → regional phases → continuity/change | one date for all India |
-| B | Does every grant prove feudalism? | recipient/right/formula → ground effect → alternative integration | grant equals feudalism |
-| C | What changed under samanta relations? | title history → tribute/service/local power → scale | fixed legal class |
-| D | Did trade and towns collapse? | coin/town/import evidence → regional contraction → new nodes/revival | universal decline |
-| E | How did temples and monasteries matter? | ritual + land + labour + redistribution + archive + local variation | merely religious |
-| F | Was Brahmanization passive assimilation? | grant/cult/status → localization → tribal/local agency → unequal reciprocity | one-way replacement |
-| G | Evaluate social change. | varna text → jati/occupation/exclusion → gender/property/labour → source limits | prescription equals practice |
-| H | Compare regions. | north + east + Deccan + south/frontier → different sequences | one pan-Indian model |
+A. Any liquidity injection proves a rate cut
 
-**PYQ status drill:** all ten retained PYQs are adjacent-owned; none is routed
-directly to Topic 26.
+B. Liquidity operations manage reserves and market-rate transmission without automatically changing the stance
 
-## PYQS AND ANSWER PRACTICE
+C. Liquidity is identical to fiscal deficit
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+D. Only currency demand affects liquidity
 
-Audited ledgers route the 2021 V-shaped-recovery Mains demand and the 2019 objective demand on the Global Competitiveness Report publisher. The package retains the provisional-versus-revised FY21 figures and does not infer an unavailable objective key.
 
-### OWNER PYQ LEDGER EXTRACTS
+**Correct answer:** B
 
-#### 9. PYQ application
+- **Option A:** Operational liquidity can change without policy-rate action.
 
-- ⚠️ Apply Survey figures only after defining the tested static concept and attaching the
-  exact period.
-- ⚠️ 2024-26 PYQs reward institution-function matching, qualified statements and mechanism-
-  based application.
-- ⚠️ 2021 GS-III: "Do you agree that India's economic recovery after COVID-19 was V-shaped?"
-  — answer with the FY21 quarterly GDP path and base-effect logic above, then test the claim
-  against sectoral unevenness and the employment/informality (K-shaped) evidence before
-  reaching a qualified verdict.
-- ⚠️ 2019 Prelims: Global Competitiveness Report's publishing institution — answer with the
-  World Economic Forum attribution and the discontinuation-after-2019-2020 status caution
-  above, distinguishing it from the IMD World Competitiveness Center's separate ranking.
+- **Option B:** RBI tools manage short-term conditions around the policy framework.
 
-#### Historical PYQ Integration (2018-2023)
+- **Option C:** Fiscal accounts are separate.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+- **Option D:** Government balances, forex and RBI operations also matter.
 
-- **Years represented:** 2019, 2021
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 2
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | Prelims GS-I | 3 | Global Competitiveness Report publisher institution | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | GS-III | 11 | V-shaped economic recovery of India after COVID-19 | Do you agree · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**Unique trap:** Operation is not objective.
 
-##### What this owner must now support
+### MCQ 19
 
-- Global Competitiveness Report publisher institution
-- V-shaped economic recovery of India after COVID-19
+**Question:** RBI's 31 July 2026 bank-credit figure is best read as:
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+A. New productive investment disbursed that fortnight
 
-#### 10. PYQ-based analytical application
+B. Bank profitability
 
-- ⚠️ Apply Survey figures only after defining the tested static concept and attaching the
-  exact period.
-- ⚠️ 2024-26 PYQs reward institution-function matching, qualified statements and mechanism-
-  based application.
+C. An outstanding stock whose growth needs deposit, sector and quality context
 
-#### Historical PYQ Integration (2018-2023)
+D. A current-account flow
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
 
-- **Years represented:** 2021
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
+**Correct answer:** C
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2021 | GS-III | 11 | V-shaped economic recovery of India after COVID-19 | Do you agree · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+- **Option A:** Outstanding credit includes earlier loans.
 
-##### What this owner must now support
+- **Option B:** Profitability is an income measure.
 
-- V-shaped economic recovery of India after COVID-19
+- **Option C:** Stock, funding and allocation must be read together.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+- **Option D:** Credit is a domestic balance-sheet item.
 
-### PYQ DEMAND CARD 1 — 2021 GS-III
 
-**Demand:** Whether India's economic recovery after COVID-19 was V-shaped.
+**Unique trap:** Credit growth is not GDP growth.
 
-**Status:** Official-paper demand routed in the audited 2018-2023 GS-III ledger.
+### MCQ 20
 
-**Model solution:** **High-frequency indicators:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **V-shaped recovery boundary:** India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery. **FY21 revision example:** The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained. **Comparable-period synthesis:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Question:** Which is the soundest banking-health assessment?
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2021 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+A. GNPA alone proves resilience
 
-**Detailed examiner-grade model answer:**
+B. Credit growth alone proves solvency
 
-**Introduction and thesis:** **High-frequency indicators:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **V-shaped recovery boundary:** India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery. **FY21 revision example:** The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained. **Comparable-period synthesis:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+C. Profit alone removes liquidity risk
 
-**Analytical body:**
+D. Asset quality, capital, provisions, profitability and stress tests must be combined
 
-1. **Claim and named evidence:** Demand: Whether India's economic recovery after COVID-19 was V-shaped. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand routed in the audited 2018-2023 GS-III ledger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Correct answer:** D
 
-**Qualified conclusion:** **High-frequency indicators:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **V-shaped recovery boundary:** India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery. **FY21 revision example:** The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained. **Comparable-period synthesis:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+- **Option A:** Low GNPA can coexist with concentration or capital risk.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+- **Option B:** Rapid credit can worsen future quality.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+- **Option C:** Profitability and liquidity are distinct.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2021 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+- **Option D:** A multi-indicator assessment captures buffers and vulnerabilities.
 
-### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish GDP, GVA, real values and nominal values. Answer in about 150 words.
+**Unique trap:** Avoid single-ratio banking conclusions.
 
-**Model thesis:** **Claim:** GDP and GVA boundary. **Named evidence/example:** GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Real and nominal boundary. **Named evidence/example:** Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+### MCQ 21
 
-**Claim → named evidence → analysis → qualification:**
+**Question:** Budget 2026-27's 4.3% fiscal-deficit figure is:
 
-- GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction.
-- Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level.
+A. A Budget Estimate ratio to GDP, not a realised outturn
 
-**Qualified conclusion:** **Claim:** GDP and GVA boundary. **Named evidence/example:** GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Real and nominal boundary. **Named evidence/example:** Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+B. The audited FY26 deficit
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish GDP, GVA, real values and nominal values. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+C. The primary deficit
 
-**Detailed examiner-grade model answer:**
+D. A state-government aggregate
 
-**Introduction and thesis:** **Claim:** GDP and GVA boundary. **Named evidence/example:** GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Real and nominal boundary. **Named evidence/example:** Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
 
-**Analytical body:**
+**Correct answer:** A
 
-1. **Claim and named evidence:** GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+- **Option A:** The February 2026 Budget sets a forward BE.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+- **Option B:** FY26 outturn comes from CGA and later accounts.
 
-**Qualified conclusion:** **Claim:** GDP and GVA boundary. **Named evidence/example:** GDP at market prices and GVA at basic prices answer related but distinct questions, so tax and subsidy effects can make their growth rates differ without contradiction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Real and nominal boundary. **Named evidence/example:** Real aggregates remove price change using a stated base and method, while nominal aggregates value output at current prices; a real growth rate cannot be compared directly with a nominal level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option C:** Primary deficit subtracts interest.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+- **Option D:** The figure concerns the Union Budget.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
 
-**How to improve this answer:** For “Distinguish GDP, GVA, real values and nominal values. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Unique trap:** Always attach BE/RE/Actual.
 
-### ORIGINAL MAINS 2 — 10 MARKS
+### MCQ 22
 
-**Question:** Why must Survey figures retain their estimate vintage and denominator? Answer in about 150 words.
+**Question:** Which equation defines the primary deficit?
 
-**Model thesis:** **Claim:** First Advance Estimate. **Named evidence/example:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage sequence. **Named evidence/example:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Dashboard denominator. **Named evidence/example:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Survey, Budget and outturn. **Named evidence/example:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+A. Revenue expenditure minus capital receipts
 
-**Claim → named evidence → analysis → qualification:**
+B. Fiscal deficit minus interest payments
 
-- A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-- National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-- A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-- An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
+C. Debt minus GDP
 
-**Qualified conclusion:** **Claim:** First Advance Estimate. **Named evidence/example:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage sequence. **Named evidence/example:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Dashboard denominator. **Named evidence/example:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Survey, Budget and outturn. **Named evidence/example:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+D. Capital expenditure minus revenue expenditure
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why must Survey figures retain their estimate vintage and denominator? Answer in about 150…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
+**Correct answer:** B
 
-**Introduction and thesis:** **Claim:** First Advance Estimate. **Named evidence/example:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage sequence. **Named evidence/example:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Dashboard denominator. **Named evidence/example:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Survey, Budget and outturn. **Named evidence/example:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option A:** That does not define a standard deficit measure.
 
-**Analytical body:**
+- **Option B:** Primary deficit removes inherited interest burden from fiscal deficit.
 
-1. **Claim and named evidence:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+- **Option C:** Debt/GDP is a ratio, not primary balance.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+- **Option D:** Spending composition is not the formula.
 
-**Qualified conclusion:** **Claim:** First Advance Estimate. **Named evidence/example:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage sequence. **Named evidence/example:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Dashboard denominator. **Named evidence/example:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Survey, Budget and outturn. **Named evidence/example:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Unique trap:** Deficit concepts differ by included receipts and expenditure.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+### MCQ 23
 
-**How to improve this answer:** For “Why must Survey figures retain their estimate vintage and denominator? Answer in about 150…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Question:** Which statement correctly uses CGA FY26 accounts?
 
-### ORIGINAL MAINS 3 — 15 MARKS
+A. They were Budget Estimates
 
-**Question:** Build a six-box framework for assessing macro stability. Answer in about 250 words.
+B. They were audited final accounts
 
-**Model thesis:** **Claim:** BE, RE and actual. **Named evidence/example:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Headline and core inflation. **Named evidence/example:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve stock and CAD flow. **Named evidence/example:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PLFS method boundary. **Named evidence/example:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Macro-stability frame. **Named evidence/example:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+C. They were provisional/unaudited realised accounts released 1 June 2026
 
-**Claim → named evidence → analysis → qualification:**
+D. They were Survey projections
 
-- Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-- Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-- Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-- PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-- Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
 
-**Qualified conclusion:** **Claim:** BE, RE and actual. **Named evidence/example:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Headline and core inflation. **Named evidence/example:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve stock and CAD flow. **Named evidence/example:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PLFS method boundary. **Named evidence/example:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Macro-stability frame. **Named evidence/example:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Correct answer:** C
 
-**Demand decoding:** The directive **answer** requires a direct position on “Build a six-box framework for assessing macro stability. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+- **Option A:** The year had ended, so they were not BE.
 
-**Detailed examiner-grade model answer:**
+- **Option B:** The release explicitly retained provisional/unaudited status.
 
-**Introduction and thesis:** **Claim:** BE, RE and actual. **Named evidence/example:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Headline and core inflation. **Named evidence/example:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve stock and CAD flow. **Named evidence/example:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PLFS method boundary. **Named evidence/example:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Macro-stability frame. **Named evidence/example:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option C:** This is the correct source-stage label.
 
-**Analytical body:**
+- **Option D:** The Survey did not publish the cash outturn.
 
-1. **Claim and named evidence:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Unique trap:** Provisional actual is closer to outturn but not final audit.
 
-**Qualified conclusion:** **Claim:** BE, RE and actual. **Named evidence/example:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Headline and core inflation. **Named evidence/example:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve stock and CAD flow. **Named evidence/example:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PLFS method boundary. **Named evidence/example:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Macro-stability frame. **Named evidence/example:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+### MCQ 24
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Question:** Budget 2026-27 capital expenditure of Rs 12.22 lakh crore proves:
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+A. Every project was completed
 
-**How to improve this answer:** For “Build a six-box framework for assessing macro stability. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+B. Private capex rose by the same amount
 
-### ORIGINAL MAINS 4 — 15 MARKS
+C. Maintenance was fully funded
 
-**Question:** Assess the claim that India's post-COVID recovery was V-shaped. Answer in about 250 words.
+D. Only an allocation; execution and asset productivity need separate evidence
 
-**Model thesis:** **Claim:** High-frequency indicators. **Named evidence/example:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** V-shaped recovery boundary. **Named evidence/example:** India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FY21 revision example. **Named evidence/example:** The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Comparable-period synthesis. **Named evidence/example:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
 
-**Claim → named evidence → analysis → qualification:**
+**Correct answer:** D
 
-- High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-- India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery.
-- The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained.
-- Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
+- **Option A:** Budgeting does not complete assets.
 
-**Qualified conclusion:** **Claim:** High-frequency indicators. **Named evidence/example:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** V-shaped recovery boundary. **Named evidence/example:** India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FY21 revision example. **Named evidence/example:** The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Comparable-period synthesis. **Named evidence/example:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option B:** Union capex and private investment differ.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the claim that India's post-COVID recovery was V-shaped. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+- **Option C:** Maintenance is generally revenue expenditure and needs separate analysis.
 
-**Detailed examiner-grade model answer:**
+- **Option D:** Allocation is an input, not an outcome.
 
-**Introduction and thesis:** **Claim:** High-frequency indicators. **Named evidence/example:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** V-shaped recovery boundary. **Named evidence/example:** India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FY21 revision example. **Named evidence/example:** The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Comparable-period synthesis. **Named evidence/example:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
 
-**Analytical body:**
+**Unique trap:** Capex quality requires lifecycle evidence.
 
-1. **Claim and named evidence:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+### MCQ 25
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Question:** RBI's Q1 FY27 CAD of USD 4.2 billion is:
 
-**Qualified conclusion:** **Claim:** High-frequency indicators. **Named evidence/example:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** V-shaped recovery boundary. **Named evidence/example:** India's FY21 quarterly real-GDP path recorded a sharp contraction followed by sequential return to positive year-on-year growth, but a V-shaped aggregate path does not prove uniform sectoral or employment recovery. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FY21 revision example. **Named evidence/example:** The owner distinguishes the NSO May 2021 provisional full-year FY21 contraction estimate of 7.3 percent from the January 2022 revised estimate of 6.6 percent, illustrating why estimate vintage must be retained. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Comparable-period synthesis. **Named evidence/example:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+A. A period flow equal to 0.5% of GDP
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+B. A reserve stock
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+C. Total external debt
 
-**How to improve this answer:** For “Assess the claim that India's post-COVID recovery was V-shaped. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+D. The merchandise deficit alone
 
-### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Explain how to synthesise growth, inflation, fiscal, external and employment indicators without mixing vintages. Answer in about 300 words.
+**Correct answer:** A
 
-**Model thesis:** **Claim:** Demand composition. **Named evidence/example:** PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** BE, RE and actual. **Named evidence/example:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Headline and core inflation. **Named evidence/example:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve stock and CAD flow. **Named evidence/example:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PLFS method boundary. **Named evidence/example:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Dashboard denominator. **Named evidence/example:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Comparable-period synthesis. **Named evidence/example:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option A:** The 1 September release gives a quarterly current-account flow.
 
-**Claim → named evidence → analysis → qualification:**
+- **Option B:** Reserves are point-in-time assets.
 
-- PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures.
-- Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable.
-- Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper.
-- Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance.
-- PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete.
-- A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison.
-- Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence.
+- **Option C:** External debt is a liability stock.
 
-**Qualified conclusion:** **Claim:** Demand composition. **Named evidence/example:** PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** BE, RE and actual. **Named evidence/example:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Headline and core inflation. **Named evidence/example:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve stock and CAD flow. **Named evidence/example:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PLFS method boundary. **Named evidence/example:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Dashboard denominator. **Named evidence/example:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Comparable-period synthesis. **Named evidence/example:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option D:** CAD also includes services and income flows.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how to synthesise growth, inflation, fiscal, external and employment indicators…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
+**Unique trap:** Current account is broader than goods trade.
 
-**Introduction and thesis:** **Claim:** Demand composition. **Named evidence/example:** PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** BE, RE and actual. **Named evidence/example:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Headline and core inflation. **Named evidence/example:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve stock and CAD flow. **Named evidence/example:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PLFS method boundary. **Named evidence/example:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Dashboard denominator. **Named evidence/example:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Comparable-period synthesis. **Named evidence/example:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+### MCQ 26
 
-**Analytical body:**
+**Question:** Why is July 2026 services trade in the Commerce release qualified?
 
-1. **Claim and named evidence:** PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-7. **Claim and named evidence:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+A. It excludes services entirely
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+B. July services values were estimated because latest RBI data were for June
 
-**Qualified conclusion:** **Claim:** Demand composition. **Named evidence/example:** PFCE, government consumption, gross capital formation and net exports describe expenditure composition; a component's share of GDP and its growth rate are different measures. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** BE, RE and actual. **Named evidence/example:** Budget Estimate is a forward plan, Revised Estimate is an in-year reassessment and CGA provisional or final accounts report realised fiscal flows; proposal, revision and outturn are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Headline and core inflation. **Named evidence/example:** Headline CPI includes food and fuel while core measures exclude selected volatile components; low headline inflation does not mean every component or household basket became cheaper. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve stock and CAD flow. **Named evidence/example:** Foreign-exchange reserves are a point-in-time stock, while the current-account balance is a period flow; a large stock buffer does not by itself correct a persistent flow imbalance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PLFS method boundary. **Named evidence/example:** PLFS labour indicators depend on period, geography and status concept such as usual status or current weekly status; one rate without its denominator and method is incomplete. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Dashboard denominator. **Named evidence/example:** A dashboard indicator must preserve whether it is a level, growth rate, ratio, share, index, stock, flow or per-capita measure and identify the denominator before comparison. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Comparable-period synthesis. **Named evidence/example:** Cross-box synthesis is valid only when growth, prices, fiscal, external and labour indicators use comparable and clearly labelled periods; mixing unmatched vintages can create false divergence. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+C. It is a fiscal-year stock
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+D. It is an audited customs value
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
 
-**How to improve this answer:** For “Explain how to synthesise growth, inflation, fiscal, external and employment indicators…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Correct answer:** B
 
-### ORIGINAL MAINS 6 — 20 MARKS
+- **Option A:** The release includes estimated services.
 
-**Question:** Evaluate the Economic Survey as a diagnostic guide rather than a record of final outcomes. Answer in about 300 words.
+- **Option B:** The footnote explicitly states the lag and estimation.
 
-**Model thesis:** **Claim:** First Advance Estimate. **Named evidence/example:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage sequence. **Named evidence/example:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** High-frequency indicators. **Named evidence/example:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Survey, Budget and outturn. **Named evidence/example:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Forecast and potential growth. **Named evidence/example:** A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Macro-stability frame. **Named evidence/example:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Strategic resilience and indispensability. **Named evidence/example:** Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+- **Option C:** Trade is a flow.
 
-**Claim → named evidence → analysis → qualification:**
+- **Option D:** Services are not customs-cleared goods.
 
-- A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact.
-- National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source.
-- High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked.
-- An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement.
-- A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate.
-- Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes.
-- Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability.
 
-**Qualified conclusion:** **Claim:** First Advance Estimate. **Named evidence/example:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage sequence. **Named evidence/example:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** High-frequency indicators. **Named evidence/example:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Survey, Budget and outturn. **Named evidence/example:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Forecast and potential growth. **Named evidence/example:** A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Macro-stability frame. **Named evidence/example:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Strategic resilience and indispensability. **Named evidence/example:** Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Unique trap:** Combined trade inherits mixed data status.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the Economic Survey as a diagnostic guide rather than a record of final outcomes.…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+### MCQ 27
 
-**Detailed examiner-grade model answer:**
+**Question:** Which Q1 FY27 capital-flow combination is correct?
 
-**Introduction and thesis:** **Claim:** First Advance Estimate. **Named evidence/example:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage sequence. **Named evidence/example:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** High-frequency indicators. **Named evidence/example:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Survey, Budget and outturn. **Named evidence/example:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Forecast and potential growth. **Named evidence/example:** A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Macro-stability frame. **Named evidence/example:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Strategic resilience and indispensability. **Named evidence/example:** Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+A. FDI outflow 6.1 and FPI inflow 9.6
 
-**Analytical body:**
+B. Only reserves changed
 
-1. **Claim and named evidence:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-7. **Claim and named evidence:** Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+C. Net FDI inflow USD 6.1 billion and net FPI outflow USD 9.6 billion
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+D. All inflows were grants
 
-**Qualified conclusion:** **Claim:** First Advance Estimate. **Named evidence/example:** A First Advance Estimate is released before complete annual data and is revised as fuller information arrives; it is neither a final audited outcome nor a timeless current fact. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage sequence. **Named evidence/example:** National accounts move through advance, provisional and revised estimates as data improve; every quoted figure must retain the release date and estimate vintage used by the source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** High-frequency indicators. **Named evidence/example:** High-frequency indicators provide timely signals before complete national accounts, but they are partial proxies whose seasonal, base and coverage effects must be checked. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Survey, Budget and outturn. **Named evidence/example:** An Economic Survey observation or projection, a Budget proposal and a subsequently reported official outturn are different evidence classes and must not be blended into one government commitment or achievement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Forecast and potential growth. **Named evidence/example:** A near-term forecast is conditional on assumptions and a data vintage, while potential growth is an assessment of sustainable capacity; neither is an achieved growth rate. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Macro-stability frame. **Named evidence/example:** Macro stability combines manageable inflation, fiscal credibility, external resilience and financial soundness; one strong growth headline cannot establish stability across all boxes. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Strategic resilience and indispensability. **Named evidence/example:** Strategic resilience is the capacity to absorb shocks, while strategic indispensability is the capacity to become a reliable valuable node in global systems; buffers alone do not create productive capability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Correct answer:** C
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+- **Option A:** The directions are reversed.
 
-**How to improve this answer:** For “Evaluate the Economic Survey as a diagnostic guide rather than a record of final outcomes.…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+- **Option B:** The financial account had multiple components.
+
+- **Option C:** RBI's 1 September 2026 release supports this contrast.
+
+- **Option D:** FDI and FPI are investments, not grants.
+
+
+**Unique trap:** Gross/net and inflow/outflow must be explicit.
+
+### MCQ 28
+
+**Question:** Why can weekly reserve change differ from BoP-basis reserve change?
+
+A. One is always erroneous
+
+B. BoP excludes transactions
+
+C. Weekly reserves exclude gold
+
+D. Valuation and timing differ from recorded BoP transactions
+
+
+**Correct answer:** D
+
+- **Option A:** Different concepts can both be correct.
+
+- **Option B:** BoP records transactions.
+
+- **Option C:** Weekly total reserves include gold.
+
+- **Option D:** Exchange-rate valuation and timing explain part of the gap.
+
+
+**Unique trap:** Stock movement is not identical to transaction flow.
+
+### MCQ 29
+
+**Question:** Which PLFS statement is correctly labelled?
+
+A. July 2026 all-India CWS age-15+ UR was 5.1%
+
+B. July 2026 usual-status annual UR was 5.1%
+
+C. WPR is unemployed divided by labour force
+
+D. LFPR excludes the unemployed
+
+
+**Correct answer:** A
+
+- **Option A:** The monthly bulletin supports this exact status and age group.
+
+- **Option B:** Monthly PLFS here uses CWS.
+
+- **Option C:** WPR is employed persons relative to population.
+
+- **Option D:** Labour force includes employed and unemployed seekers/available persons.
+
+
+**Unique trap:** Method, age and geography belong beside the rate.
+
+### MCQ 30
+
+**Question:** A fall in unemployment is insufficient to prove better labour outcomes because:
+
+A. Employment data never matter
+
+B. Hours, earnings, status, security and participation may move differently
+
+C. WPR must always fall
+
+D. Self-employment is legally prohibited
+
+
+**Correct answer:** B
+
+- **Option A:** Employment indicators are essential but incomplete alone.
+
+- **Option B:** Quality and participation complete the diagnosis.
+
+- **Option C:** WPR can rise or fall independently.
+
+- **Option D:** Self-employment is a major labour status.
+
+
+**Unique trap:** Quantity and quality must be separated.
+
+### MCQ 31
+
+**Question:** Which classification is most defensible?
+
+A. CPI is always leading
+
+B. Final GDP is high-frequency
+
+C. PMI new orders may lead, IIP may be coincident, and final labour outcomes often lag
+
+D. Reserves are a lagging flow
+
+
+**Correct answer:** C
+
+- **Option A:** CPI usually confirms realised price change.
+
+- **Option B:** Final GDP arrives with a lag.
+
+- **Option C:** The timing logic is plausible but context-dependent.
+
+- **Option D:** Reserves are a stock.
+
+
+**Unique trap:** Indicator timing is empirical, not immutable.
+
+### MCQ 32
+
+**Question:** What does macro triangulation require?
+
+A. Averaging every series
+
+B. Using only the newest release
+
+C. Ignoring conflicting signals
+
+D. Testing one claim across independent series with different coverage and errors
+
+
+**Correct answer:** D
+
+- **Option A:** Unlike indicators cannot be mechanically averaged.
+
+- **Option B:** Newest does not mean comprehensive.
+
+- **Option C:** Divergence can contain information.
+
+- **Option D:** Independent measures reduce single-source error.
+
+
+**Unique trap:** Triangulation is structured comparison, not data piling.
+
+## PYQS AND EXAM APPLICATION
+
+### VERIFIED MAINS PYQ - 2021 GS-III - 15 MARKS
+
+**Question:** Do you agree that the Indian economy has recently experienced V-shaped recovery? Give reasons in support of your answer. Answer in 250 words.
+
+**Model solution:** A V-shaped recovery describes a sharp output contraction followed by a rapid rebound. India's real GDP fell 23.9% year-on-year in Q1 FY21, contracted 7.5% in Q2, and returned to growth of 0.5% and 1.6% in Q3 and Q4. High-frequency indicators such as electricity demand, rail freight, GST collections and steel consumption also recovered. This supports the V description for aggregate output momentum. However, the low comparison base magnified subsequent growth rates. Estimate vintage matters: NSO's May 2021 provisional estimate showed a 7.3% FY21 contraction, later revised in January 2022 to 6.6%. Moreover, aggregate GDP concealed a K-shaped distribution: contact-intensive services, informal workers, women and younger workers recovered more slowly, while self-employment and insecure work increased. Therefore, India experienced a V-shaped aggregate-output recovery, but not a uniform recovery in employment, incomes or sectors. The correct conclusion is qualified agreement, backed by dated quarterly levels, revision status and labour evidence.
+
+### VERIFIED OBJECTIVE ROUTE - 2019 PRELIMS GS-I Q3
+
+**Question:** The Global Competitiveness Report is published by which institution?
+
+A. International Monetary Fund
+B. United Nations Conference on Trade and Development
+C. World Economic Forum
+D. World Bank
+
+**Concept answer:** World Economic Forum. **Official-key discipline:** the authoritative UPSC key PDF is not held in the verified local set, so this package does not claim an independently verified official answer letter. The WEF discontinued the specific annual Global Competitiveness Report/Index after 2019-20; IMD's World Competitiveness Ranking is a different publication.
+
+
+## ORIGINAL MAINS PRACTICE
+
+### MAINS 1 - 10 MARKS
+
+**Question:** Distinguish the Economic Survey from the Union Budget and explain how each should be used in a UPSC answer. Answer in 150 words.
+
+**Native-body ceiling:** 150 words under the required alphanumeric regex; independently measured after generation.
+
+**Model answer:**
+
+The Economic Survey is the Finance Ministry's annual analytical review of economic performance, constraints and policy options. It interprets official evidence and may recommend reforms, but it neither imposes taxes nor authorises expenditure. The Union Budget is the government's constitutional fiscal proposal: it presents receipts, expenditure, borrowing, Budget Estimates and Revised Estimates, followed by Finance and Appropriation legislation. Therefore, a UPSC answer should cite the Survey for diagnosis, trends and arguments, while using Budget documents for allocations and fiscal intentions and CGA accounts for realised outturn. For example, Survey 2025-26's FY26 growth figure was a First Advance Estimate, whereas Budget 2026-27's 4.3% fiscal deficit was a BE. Neither should be called a final outcome. The analytical spine is status, evidence, mechanism and implementation.
+
+### MAINS 2 - 10 MARKS
+
+**Question:** Why is a data-vintage protocol indispensable for a current macroeconomic dashboard? Answer in 150 words.
+
+**Native-body ceiling:** 150 words under the required alphanumeric regex; independently measured after generation.
+
+**Model answer:**
+
+A macro dashboard combines series released at different frequencies, bases and stages. Without a vintage protocol, an analyst may compare a financial-year flow with a calendar-year stock, an advance estimate with an audited actual, or old-base GDP with a rebased series. Each number should therefore carry six tags: indicator, reference period, unit or base, release date, source and status. This makes revision visible and permits safe updating. Survey 2025-26's 7.4% FY26 GDP growth was a January 2026 First Advance Estimate under the then-current series; MoSPI's 31 August 2026 Q1 FY27 growth of 7.8% used base 2022-23. Both are valid in context but not mechanically comparable. The protocol converts data from decoration into auditable evidence and forces the conclusion to remain proportionate.
+
+### MAINS 3 - 15 MARKS
+
+**Question:** Construct a six-box dashboard to assess India's macroeconomic stability as of 9 September 2026. Answer in 250 words.
+
+**Native-body ceiling:** 250 words under the required alphanumeric regex; independently measured after generation.
+
+**Model answer:**
+
+A balanced dashboard should cover growth, prices, fiscal policy, finance, the external sector and inclusion. Growth was firm: MoSPI's 31 August quarterly estimate, base 2022-23, placed Q1 FY27 real GDP growth at 7.8% and real GVA at 8.2%, with GFCF growth at 11.9%. Prices were less uniform: July CPI inflation was 4.45% on the new 2024 base, while provisional WPI inflation was 9.78% on base 2022-23, indicating producer-cost pressure without proving future retail pass-through. Fiscal policy combined consolidation and investment: Budget 2026-27 BE put the deficit at 4.3% of GDP and capex at Rs 12.22 lakh crore; FY26 CGA accounts remained provisional. RBI held repo at 5.25% with a neutral stance on 5 August. Credit growth was strong, while the Survey's latest banking-health figures were dated September 2025. Externally, Q1 FY27 CAD was 0.5% of GDP, reserves were USD 740.803 billion on 28 August, and external debt was 20.8% of GDP at end-March. July PLFS CWS showed LFPR 55.4%, WPR 52.5% and UR 5.1%. The picture is resilient but exposed to WPI pressure, global oil, monsoon, trade and revision risks.
+
+### MAINS 4 - 15 MARKS
+
+**Question:** How should contradictory macroeconomic signals be interpreted rather than averaged away? Answer in 250 words.
+
+**Native-body ceiling:** 250 words under the required alphanumeric regex; independently measured after generation.
+
+**Model answer:**
+
+Contradictory signals often arise because indicators cover different baskets, sectors, populations, stages and periods. The analyst should first align metadata, then ask whether the divergence reflects transmission lags, base effects, composition or genuine weakness. July 2026 CPI inflation was 4.45%, while WPI inflation was 9.78%; different bases and retail-versus-wholesale coverage mean the gap may signal pipeline costs rather than an arithmetic inconsistency. Q1 FY27 real GDP grew 7.8%, but primary-sector GVA grew 2.9% against tertiary growth of 10.0%, revealing uneven sector momentum. Similarly, strong credit-stock growth does not prove equal productive investment because allocation and asset quality matter. A sound method triangulates GDP/GVA with GFCF, IIP, ICI, trade, credit and labour indicators; distinguishes levels from rates and stocks from flows; and searches for a causal channel. Divergence should produce a qualified diagnosis and a next-data check, not cherry-picking or a synthetic average.
+
+### MAINS 5 - 20 MARKS
+
+**Question:** Assess the Economic Survey 2025-26 argument that India must combine macro stability with productivity, state capacity and strategic indispensability. Answer in 250 words.
+
+**Native-body ceiling:** 250 words under the required alphanumeric regex; independently measured after generation.
+
+**Model answer:**
+
+Economic Survey 2025-26 portrays stability as a platform, not the final growth strategy. Its January 2026 snapshot combined 7.4% FY26 real GDP growth in the First Advance Estimate, low stated-period inflation, fiscal consolidation, stronger bank balance sheets and external buffers. The Survey then shifted attention to potential growth: manufacturing scale, logistics, skills, health and education, urban systems, AI, climate resilience, deregulation and implementation capacity. Its concept of strategic resilience emphasises absorbing external shocks; strategic indispensability goes further by making Indian capabilities valuable and difficult to substitute in global networks. This avoids equating self-reliance with isolation. The argument is persuasive because stable prices, finance and public debt create room for long-horizon private investment, while capable states reduce transaction costs and deliver infrastructure and human capital. Yet recommendations must be tested against Centre-State execution, competition, environmental safeguards, job quality and fiscal opportunity cost. Survey projections also predate later rebasing and releases. The appropriate strategy is outward-oriented capability building with disciplined regulation and measurable outcomes, not protection without sunset or data-driven review.
+
+### MAINS 6 - 20 MARKS
+
+**Question:** Design a revision-safe current macro dashboard for policymakers and UPSC candidates. Answer in 250 words.
+
+**Native-body ceiling:** 250 words under the required alphanumeric regex; independently measured after generation.
+
+**Model answer:**
+
+A revision-safe dashboard should separate a permanent concept layer from replaceable current cells. Each cell records indicator, reference period, unit or base, release date, official source and status, followed by trend, cause, counter-signal, risk and next update. The growth box uses GDP, GVA, expenditure and sector composition; prices use CPI, food/core decomposition and WPI; fiscal uses BE, RE, CGA outturn, deficit composition, capex and debt; monetary-financial uses policy rate, liquidity, deposits, credit, asset quality and capital; external uses trade, CAD, capital flows, reserves, debt and exchange rate; inclusion uses PLFS, earnings, consumption and social outcomes. High-frequency indicators such as IIP, ICI, freight or PMI support nowcasting but cannot replace structural evidence. Automated checks should block mixed financial/calendar years, stock-flow substitution, old/new base comparisons and unlabeled projections. Contradictory signals trigger decomposition rather than averaging. The dashboard preserves historical vintages, links every update to its official release and ends with a qualified policy inference. This structure keeps static theory reusable while allowing current facts to change safely.
+
+## FINAL PRACTICE CHECKLIST
+
+- Did every current fact carry period, release date, source and status?
+- Did the answer separate Survey argument, Budget proposal and realised outturn?
+- Did it avoid old/new base splicing and stock-flow confusion?
+- Did it add a counter-signal, risk or revision caveat?
+- Did it end with a qualified policy judgement rather than a data dump?

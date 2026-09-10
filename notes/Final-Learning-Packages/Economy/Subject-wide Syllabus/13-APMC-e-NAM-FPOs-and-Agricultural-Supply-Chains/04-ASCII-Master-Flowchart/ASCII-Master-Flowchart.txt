@@ -1,74 +1,152 @@
-ASCII MASTER FLOW — PANEL 1/12: Agricultural-market layers
-STATE APMC LAW -> legal venue + rules
-e-NAM -> electronic bid / discovery layer
-ASSAY + WAREHOUSE -> quality + storage
-PAYMENT + LOGISTICS -> completed trade
-MUST REMEMBER: APMC regulation, e-NAM, FPO aggregation, warehousing, grading, logistics...
+======================================================================================
+ECONOMY TOPIC 13 | PANEL 01/12 | MARKETING CHAIN
+======================================================================================
 
-ASCII MASTER FLOW — PANEL 2/12: Farm-to-market rail
-FARM LOT
--> AGGREGATION + GRADING
--> BID / CONTRACT
--> STORAGE + TRANSPORT + SETTLEMENT
+-> Farmgate -> assembly -> assay/grade -> bid -> payment -> storage/finance ->
+logistics -> buyer.
 
-ASCII MASTER FLOW — PANEL 3/12: APMC-e-NAM distinction
-APMC -> state-law institution
-e-NAM -> platform across participating mandis
-LAW REFORM != DIGITAL REFORM
-DIGITAL REFORM != PHYSICAL INFRASTRUCTURE
+-> Track product, information, money and risk separately.
 
-ASCII MASTER FLOW — PANEL 4/12: Assay-to-settlement chain
-SAMPLE + ASSAY
--> STANDARD GRADE
--> COMPARABLE BID
--> PAYMENT + DELIVERY + GRIEVANCE
+ANSWER RAIL:
+Claim -> named evidence -> economic mechanism -> qualification -> reform use
 
-ASCII MASTER FLOW — PANEL 5/12: FPO legal-role board
-FPO -> farmer-member producer organisation
-FORM -> producer company / cooperative / other
-ROLE -> pool inputs, produce and services
-RETURN -> member benefit; not guaranteed profit
+BOUNDARY:
+Public procurement stays Topic 12; production credit/insurance stays Topic 14.======================================================================================
+ECONOMY TOPIC 13 | PANEL 02/12 | MARKET LEVELS
+======================================================================================
 
-ASCII MASTER FLOW — PANEL 6/12: FPO viability wheel
-MEMBER TRUST + GOVERNANCE
-WORKING CAPITAL + MANAGEMENT
-BUSINESS VOLUME + QUALITY
-RELIABLE BUYER + PAYMENT
-CLOSE DISTINCTION: APMC is not a single national statute, e-NAM listing is not integrated...
+-> Farmgate, primary assembly, secondary wholesale and terminal nodes are functional
+labels.
 
-ASCII MASTER FLOW — PANEL 7/12: Warehouse-finance rail
-ACCREDITED STORAGE
--> ASSAYED INVENTORY
--> NEGOTIABLE RECEIPT
--> CREDIT -> DELAYED SALE CHOICE
+-> Net realisation differs from gross bid.
 
-ASCII MASTER FLOW — PANEL 8/12: Reform model comparison
-KARNATAKA ReMS -> integrate rules + assay + platform
-BIHAR REPEAL -> legal exit, infrastructure still needed
-2020 OUTSIDE-APMC LAW -> new channel
-2021 REPEAL -> status + trust matter
+ANSWER RAIL:
+Claim -> named evidence -> economic mechanism -> qualification -> reform use
 
-ASCII MASTER FLOW — PANEL 9/12: Intermediary replacement
-TRADITIONAL AGENT may be bypassed
-AGGREGATION still required
-GRADING + FINANCE still required
-LOGISTICS performer changes; function remains
+BOUNDARY:
+Public procurement stays Topic 12; production credit/insurance stays Topic 14.======================================================================================
+ECONOMY TOPIC 13 | PANEL 03/12 | APMC STATE LAW
+======================================================================================
 
-ASCII MASTER FLOW — PANEL 10/12: Market-power board
-MANY SMALL SELLERS
-FEW LOCAL BUYERS
-TIED CREDIT / INFORMATION GAP
-FPO + COMPETITION can rebalance
+-> Notified produce/area, yard, licence, fee and committee vary by State.
 
-ASCII MASTER FLOW — PANEL 11/12: High-value crop gate
-CAN IT BE GROWN?
-CAN IT BE STORED / MOVED?
-IS QUALITY MEASURABLE?
-IS THERE A RELIABLE BUYER?
+-> Public-market functions and monopoly risks must both be assessed.
 
-ASCII MASTER FLOW — PANEL 12/12: Marketing answer spine
-SEPARATE law, platform and infrastructure
-TRACE product, payment, information and risk
-TEST FPO and buyer bargaining power
-CONCLUDE with integrated reform
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Map state law, market licence, assaying,...
+ANSWER RAIL:
+Claim -> named evidence -> economic mechanism -> qualification -> reform use
+
+BOUNDARY:
+Public procurement stays Topic 12; production credit/insurance stays Topic 14.======================================================================================
+ECONOMY TOPIC 13 | PANEL 04/12 | MODEL-LAW TIMELINE
+======================================================================================
+
+-> Model APMC 2003; Model APLM 2017; Model Contract Farming 2018.
+
+-> Model template != State enactment != implementation.
+
+ANSWER RAIL:
+Claim -> named evidence -> economic mechanism -> qualification -> reform use
+
+BOUNDARY:
+Public procurement stays Topic 12; production credit/insurance stays Topic 14.======================================================================================
+ECONOMY TOPIC 13 | PANEL 05/12 | 2020-2021 EPISODE
+======================================================================================
+
+-> Three central farm laws enacted in 2020.
+
+-> All repealed by Act 40 of 2021 on 30 November 2021.
+
+ANSWER RAIL:
+Claim -> named evidence -> economic mechanism -> qualification -> reform use
+
+BOUNDARY:
+Public procurement stays Topic 12; production credit/insurance stays Topic 14.======================================================================================
+ECONOMY TOPIC 13 | PANEL 06/12 | e-NAM
+======================================================================================
+
+-> SFAC-operated public electronic platform launched 14 April 2016.
+
+-> March 2026: 1,656 mandis, 23 States + 4 UTs, 247 commodities.
+
+ANSWER RAIL:
+Claim -> named evidence -> economic mechanism -> qualification -> reform use
+
+BOUNDARY:
+Public procurement stays Topic 12; production credit/insurance stays Topic 14.======================================================================================
+ECONOMY TOPIC 13 | PANEL 07/12 | INTEROPERABILITY
+======================================================================================
+
+-> Legal: licences, fee, title, remedy.
+
+-> Physical: assay, logistics, delivery.
+
+-> Financial: payment, reconciliation, finance.
+
+ANSWER RAIL:
+Claim -> named evidence -> economic mechanism -> qualification -> reform use
+
+BOUNDARY:
+Public procurement stays Topic 12; production credit/insurance stays Topic 14.======================================================================================
+ECONOMY TOPIC 13 | PANEL 08/12 | FPO / FPC / COOPERATIVE
+======================================================================================
+
+-> FPO is umbrella; FPC is Companies Act Chapter XXIA form; cooperative follows
+cooperative law.
+
+-> Registration != viable enterprise.
+
+ANSWER RAIL:
+Claim -> named evidence -> economic mechanism -> qualification -> reform use
+
+BOUNDARY:
+Public procurement stays Topic 12; production credit/insurance stays Topic 14.======================================================================================
+ECONOMY TOPIC 13 | PANEL 09/12 | 10,000 FPO SCHEME
+======================================================================================
+
+-> Launched 29 February 2020.
+
+-> Target reported achieved 28 February 2025; support horizon through 2027-28.
+
+ANSWER RAIL:
+Claim -> named evidence -> economic mechanism -> qualification -> reform use
+
+BOUNDARY:
+Public procurement stays Topic 12; production credit/insurance stays Topic 14.======================================================================================
+ECONOMY TOPIC 13 | PANEL 10/12 | CONTRACT / DIRECT MARKET
+======================================================================================
+
+-> Price formula, quality, payment and dispute safeguards.
+
+-> Alternative channel still requires competition and regulation.
+
+ANSWER RAIL:
+Claim -> named evidence -> economic mechanism -> qualification -> reform use
+
+BOUNDARY:
+Public procurement stays Topic 12; production credit/insurance stays Topic 14.======================================================================================
+ECONOMY TOPIC 13 | PANEL 11/12 | WDRA e-NWR
+======================================================================================
+
+-> 2007 Act; regulated warehouse-receipt framework.
+
+-> Electronic NWR mandatory for registered warehouses from 1 June 2019.
+
+ANSWER RAIL:
+Claim -> named evidence -> economic mechanism -> qualification -> reform use
+
+BOUNDARY:
+Public procurement stays Topic 12; production credit/insurance stays Topic 14.======================================================================================
+ECONOMY TOPIC 13 | PANEL 12/12 | REFORM VERDICT
+======================================================================================
+
+-> Law + competition + aggregation + standards + storage finance + logistics +
+settlement + remedy.
+
+-> MSP/procurement -> Topic 12; credit/insurance -> Topic 14; cold-chain detail ->
+Topic 15.
+
+ANSWER RAIL:
+Claim -> named evidence -> economic mechanism -> qualification -> reform use
+
+BOUNDARY:
+Public procurement stays Topic 12; production credit/insurance stays Topic 14.

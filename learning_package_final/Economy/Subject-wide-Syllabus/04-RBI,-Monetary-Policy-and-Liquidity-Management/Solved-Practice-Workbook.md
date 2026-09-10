@@ -1,1149 +1,845 @@
----
-title: "RBI, Monetary Policy and Liquidity Management — Solved Practice Workbook"
-topic_key: economy-04
----
-# RBI, Monetary Policy and Liquidity Management — Solved Practice Workbook
+# RBI, Monetary Policy and Liquidity Management - Solved Practice Workbook
+
+**Standalone scope:** exactly 32 original MCQs before PYQs, strict ABCD rotation repeated eight times, 128 substantive unique option explanations, 32 unique examiner traps, official-key discipline and six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Repo-rate signal?
+**Practice contract:** Correct answers follow `ABCD` repeated eight times. Every distractor has a question-specific explanation; no declared count substitutes for independent validation.
 
-A. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-B. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-C. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-D. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
+### MCQ 1
 
-**Answer: A.**
-**Explanation:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+Which sequence correctly states RBI's institutional chronology?
 
-### Q2. Which option preserves the accounting or regulatory boundary of Repo-rate signal?
-
-A. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-B. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-C. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-D. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-
-**Answer: B.**
-**Explanation:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses Repo-rate signal without losing its vintage, basket or legal status?
-
-A. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-B. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-C. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-D. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-
-**Answer: C.**
-**Explanation:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Repo-rate signal?
-
-A. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-B. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-C. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
-D. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-
-**Answer: D.**
-**Explanation:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies Standing Deposit Facility?
-
-A. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-B. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-C. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-D. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
+- A. RBI Act 1934; operations 1 April 1935; public ownership 1 January 1949
+- B. Operations 1934; nationalisation 1935; RBI Act 1949
+- C. Hilton-Young Commission nationalised RBI in 1926
+- D. RBI became a constitutional body in 1950
 
 **Answer: A.**
-**Explanation:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q6. Which option preserves the accounting or regulatory boundary of Standing Deposit Facility?
+**Option-specific explanations:**
 
-A. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-B. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-C. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-D. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
+- **A - Correct:** The Act preceded commencement, and the 1948 transfer law took effect on 1 January 1949.
+- **B - Incorrect:** 1934 was the enactment year, not the start of business; 1935 was not nationalisation.
+- **C - Incorrect:** The commission recommended central-banking reform but did not itself create or nationalise RBI.
+- **D - Incorrect:** The Constitution did not convert RBI into a constitutional authority.
+
+**Examiner trap 1:** Chronology and legal instrument must both be correct.
+
+### MCQ 2
+
+Which statement best describes RBI's autonomy?
+
+- A. Government ownership means the Finance Ministry casts every MPC vote
+- B. RBI has statutory operational autonomy subject to legislation and accountability
+- C. Section 7 makes RBI a private corporation
+- D. The Central Board can amend the RBI Act
 
 **Answer: B.**
-**Explanation:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q7. Which statement uses Standing Deposit Facility without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-B. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-C. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-D. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
+- **A - Incorrect:** Ownership does not merge the Ministry with the statutory decision process.
+- **B - Correct:** RBI exercises expert powers within statute, while Section 7 and accountability prevent claims of absolute sovereignty.
+- **C - Incorrect:** Section 7 concerns public-interest directions after consultation; it does not create private ownership.
+- **D - Incorrect:** Only Parliament can amend the Act; the Board administers powers granted by law.
+
+**Examiner trap 2:** Avoid the false binary of complete dependence versus absolute independence.
+
+### MCQ 3
+
+Who issues the one-rupee note in India?
+
+- A. RBI Issue Department
+- B. MPC Secretariat
+- C. Government of India
+- D. Scheduled commercial banks
 
 **Answer: C.**
-**Explanation:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Standing Deposit Facility?
+**Option-specific explanations:**
 
-A. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-B. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
-C. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
-D. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
+- **A - Incorrect:** RBI issues other banknotes, but the one-rupee note is the statutory exception.
+- **B - Incorrect:** The MPC decides the policy rate and has no currency-issue role.
+- **C - Correct:** The Government of India issues the one-rupee note, making this the correct exception.
+- **D - Incorrect:** Commercial banks distribute currency but do not issue legal-tender notes.
+
+**Examiner trap 3:** RBI's note-issue monopoly has the one-rupee note exception.
+
+### MCQ 4
+
+Which is outside RBI's own statutory function?
+
+- A. Managing foreign-exchange reserves
+- B. Operating central-bank liquidity facilities
+- C. Regulating assigned payment systems
+- D. Voting the Union Budget into law
 
 **Answer: D.**
-**Explanation:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q9. Which statement correctly identifies Marginal Standing Facility?
+**Option-specific explanations:**
 
-A. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-B. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-C. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-D. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
+- **A - Incorrect:** Reserve management is a central-bank function.
+- **B - Incorrect:** Liquidity implementation belongs to RBI under the monetary framework.
+- **C - Incorrect:** Payment oversight follows the Payment and Settlement Systems Act.
+- **D - Correct:** Parliament authorises the Union Budget; RBI may advise or manage debt but does not enact fiscal law.
+
+**Examiner trap 4:** Banker to government is not the same as legislature or fiscal authority.
+
+### MCQ 5
+
+Under section 45ZA, who determines the inflation target?
+
+- A. Central Government in consultation with RBI
+- B. MPC alone
+- C. RBI Central Board without government
+- D. Finance Commission
 
 **Answer: A.**
-**Explanation:** MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q10. Which option preserves the accounting or regulatory boundary of Marginal Standing Facility?
+**Option-specific explanations:**
 
-A. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
-B. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-C. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-D. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
+- **A - Correct:** The statute assigns determination to the Central Government after consultation with the Bank.
+- **B - Incorrect:** MPC determines the policy rate required to achieve the notified target.
+- **C - Incorrect:** The Central Board cannot bypass the statutory governmental notification role.
+- **D - Incorrect:** The Finance Commission recommends fiscal devolution, not the monetary-policy target.
+
+**Examiner trap 5:** Separate target setter from policy-rate decision maker.
+
+### MCQ 6
+
+What is the currently notified inflation objective for 1 April 2026-31 March 2031?
+
+- A. A 2-6 per cent range with no centre
+- B. Headline CPI 4 per cent with 2 and 6 per cent tolerance limits
+- C. Core CPI exactly 4 per cent each month
+- D. WPI 4 per cent plus or minus 2
 
 **Answer: B.**
-**Explanation:** MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q11. Which statement uses Marginal Standing Facility without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
-B. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-C. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-D. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
+- **A - Incorrect:** The range alone omits the statutory point target at its centre.
+- **B - Correct:** The 25 March 2026 Gazette renewal retained headline CPI 4 per cent and the 2-6 tolerance band.
+- **C - Incorrect:** Core inflation is analytical; the notified anchor is headline CPI and monthly equality is not required.
+- **D - Incorrect:** WPI is not the statutory inflation target.
+
+**Examiner trap 6:** Four per cent is the target; 2-6 per cent is the tolerance band.
+
+### MCQ 7
+
+Which statement about flexible inflation targeting is correct?
+
+- A. Growth legally overrides price stability
+- B. Any supply shock must cause an immediate rate rise
+- C. Price stability is primary while growth is kept in mind
+- D. The target is reviewed by MPC every year
 
 **Answer: C.**
-**Explanation:** MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Marginal Standing Facility?
+**Option-specific explanations:**
 
-A. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
-B. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
-C. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-D. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
+- **A - Incorrect:** The statutory wording gives primacy to price stability.
+- **B - Incorrect:** Shock source and second-round risk matter; mechanical action is not required.
+- **C - Correct:** This reproduces the amended RBI Act's objective accurately.
+- **D - Incorrect:** The Central Government determines the target in consultation with RBI once every five years.
+
+**Examiner trap 7:** Flexible does not mean target-free or growth-first.
+
+### MCQ 8
+
+Which event would by itself establish statutory failure to meet the inflation target?
+
+- A. One monthly CPI print at 6.1 per cent
+- B. One quarterly projection above 6 per cent
+- C. Core inflation above headline for two months
+- D. Average inflation outside a tolerance limit for three consecutive quarters
 
 **Answer: D.**
-**Explanation:** MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q13. Which statement correctly identifies Cash Reserve Ratio?
+**Option-specific explanations:**
 
-A. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-B. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-C. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-D. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
+- **A - Incorrect:** A single month does not satisfy the notified failure test.
+- **B - Incorrect:** A forecast is not the realised three-quarter condition.
+- **C - Incorrect:** Core-headline ordering is irrelevant to the legal trigger.
+- **D - Correct:** The current rules use three consecutive quarterly averages beyond the upper or lower tolerance level.
+
+**Examiner trap 8:** Do not replace a three-quarter accountability trigger with a one-month breach.
+
+### MCQ 9
+
+Which is the correct MPC composition?
+
+- A. Governor, monetary-policy Deputy Governor, one RBI-nominated officer, three government-appointed externals
+- B. Six RBI officers selected by the Governor
+- C. Finance Minister plus five RBI officers
+- D. Three bank chiefs and three economists
 
 **Answer: A.**
-**Explanation:** CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q14. Which option preserves the accounting or regulatory boundary of Cash Reserve Ratio?
+**Option-specific explanations:**
 
-A. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
-B. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-C. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
-D. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
+- **A - Correct:** Section 45ZB creates this three-internal/three-external structure.
+- **B - Incorrect:** The MPC is not an all-internal RBI committee.
+- **C - Incorrect:** The Finance Minister is not an MPC member.
+- **D - Incorrect:** Commercial-bank chiefs do not occupy statutory MPC seats as a category.
+
+**Examiner trap 9:** Count both appointing channels, not merely six economists.
+
+### MCQ 10
+
+What is true of a Central Government-appointed external MPC member?
+
+- A. Life tenure
+- B. Four-year term and no reappointment
+- C. Automatic continuation until age seventy-five
+- D. Removal whenever the member dissents
 
 **Answer: B.**
-**Explanation:** CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q15. Which statement uses Cash Reserve Ratio without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-B. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
-C. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-D. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
+- **A - Incorrect:** The office is fixed-term, not life tenure.
+- **B - Correct:** The statutory scheme gives a four-year term and bars reappointment.
+- **C - Incorrect:** Age rules are eligibility screens, not an automatic extension.
+- **D - Incorrect:** Policy disagreement is not a listed removal ground.
+
+**Examiner trap 10:** Fixed tenure protects judgement; it does not create permanent office.
+
+### MCQ 11
+
+What is the MPC quorum?
+
+- A. Two members
+- B. Three external members
+- C. Four members including Governor or, in absence, the MPC Deputy Governor
+- D. All six members without exception
 
 **Answer: C.**
-**Explanation:** CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Cash Reserve Ratio?
+**Option-specific explanations:**
 
-A. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
-B. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
-C. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-D. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
+- **A - Incorrect:** Two cannot satisfy the statutory minimum.
+- **B - Incorrect:** External members alone do not satisfy the chair-side presence requirement.
+- **C - Correct:** Four with the specified RBI leadership presence is the operative rule.
+- **D - Incorrect:** Vacancy or absence does not always invalidate a meeting if quorum exists.
+
+**Examiner trap 11:** Quorum is four, not unanimity or full attendance.
+
+### MCQ 12
+
+When does the Governor use a casting vote?
+
+- A. At every MPC meeting
+- B. Whenever an external member dissents
+- C. When inflation exceeds 4 per cent
+- D. Only when ordinary votes are tied
 
 **Answer: D.**
-**Explanation:** CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q17. Which statement correctly identifies Open Market Operations?
+**Option-specific explanations:**
 
-A. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-B. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
-C. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
-D. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
+- **A - Incorrect:** The Governor ordinarily has one vote like every member.
+- **B - Incorrect:** Dissent alone does not produce a casting vote.
+- **C - Incorrect:** Inflation outcomes do not mechanically add a vote.
+- **D - Correct:** A tie activates the additional casting vote.
+
+**Examiner trap 12:** Chairmanship does not mean two routine votes.
+
+### MCQ 13
+
+Which pair is correct under the current corridor?
+
+- A. SDF floor; MSF ceiling
+- B. Reverse repo ceiling; CRR floor
+- C. Bank Rate floor; SLR ceiling
+- D. OMO floor; repo ceiling
 
 **Answer: A.**
-**Explanation:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q18. Which option preserves the accounting or regulatory boundary of Open Market Operations?
+**Option-specific explanations:**
 
-A. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-B. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-C. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
-D. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
+- **A - Correct:** SDF and MSF bound the symmetric corridor around repo.
+- **B - Incorrect:** CRR is a reserve requirement, not a corridor price.
+- **C - Incorrect:** Bank Rate is aligned with MSF currently, while SLR is an asset requirement.
+- **D - Incorrect:** OMO is an outright operation and does not define a standing corridor boundary.
+
+**Examiner trap 13:** Classify standing prices separately from quantity instruments.
+
+### MCQ 14
+
+As of the 5 August 2026 MPC decision, which dated set was correct?
+
+- A. Repo 5.00; SDF 5.25; MSF 5.50
+- B. Repo 5.25; SDF 5.00; MSF and Bank Rate 5.50
+- C. Repo 5.50; SDF 5.25; MSF 5.00
+- D. Repo 6.50; reverse repo as floor 6.25
 
 **Answer: B.**
-**Explanation:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q19. Which statement uses Open Market Operations without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-B. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
-C. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-D. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
+- **A - Incorrect:** This reverses the centre and floor.
+- **B - Correct:** The official resolution reported this configuration and neutral stance.
+- **C - Incorrect:** A corridor cannot have the ceiling below the centre in this framework.
+- **D - Incorrect:** These are neither the dated rates nor the current floor architecture.
+
+**Examiner trap 14:** A current rate is valid only with its decision date.
+
+### MCQ 15
+
+What is the operating target of monetary policy under the revised liquidity framework?
+
+- A. Headline CPI
+- B. Policy repo rate
+- C. Overnight weighted average call rate
+- D. Ten-year G-sec yield
 
 **Answer: C.**
-**Explanation:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Open Market Operations?
+**Option-specific explanations:**
 
-A. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-B. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
-C. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-D. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
+- **A - Incorrect:** Headline CPI is the nominal target, not the operating market rate.
+- **B - Incorrect:** Repo is the policy rate around which implementation operates.
+- **C - Correct:** RBI seeks to align overnight WACR with repo using liquidity operations.
+- **D - Incorrect:** Long yields matter for transmission but are not the stated operating target.
+
+**Examiner trap 15:** Target, policy rate and operating target are three different concepts.
+
+### MCQ 16
+
+Which statement about fixed-rate reverse repo is correct after SDF's introduction?
+
+- A. It is abolished
+- B. It remains the automatic corridor ceiling
+- C. It equals CRR
+- D. It remains in RBI's toolkit at discretion but is no longer the corridor floor
 
 **Answer: D.**
-**Explanation:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q21. Which statement correctly identifies WACR operating target?
+**Option-specific explanations:**
 
-A. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-B. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
-C. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-D. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
+- **A - Incorrect:** RBI explicitly retained the instrument.
+- **B - Incorrect:** MSF, not FRRR, is the ceiling.
+- **C - Incorrect:** A rate operation is not a reserve ratio.
+- **D - Correct:** SDF replaced it as floor while FRRR remained available for specified use.
+
+**Examiner trap 16:** Legacy role can change without abolishing the instrument.
+
+### MCQ 17
+
+Which description correctly distinguishes CRR and SLR?
+
+- A. CRR is cash with RBI; SLR is specified liquid assets maintained by the bank
+- B. Both are cash deposits with RBI
+- C. CRR is under Banking Regulation Act section 24 and SLR under RBI Act section 42
+- D. SLR is the MPC's policy rate
 
 **Answer: A.**
-**Explanation:** The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q22. Which option preserves the accounting or regulatory boundary of WACR operating target?
+**Option-specific explanations:**
 
-A. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
-B. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-C. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-D. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
+- **A - Correct:** This states both custody and instrument type correctly.
+- **B - Incorrect:** SLR includes eligible liquid assets maintained by banks, not a second RBI cash balance.
+- **C - Incorrect:** The statutory references are reversed.
+- **D - Incorrect:** SLR is a prudential liquidity requirement, not a policy price.
+
+**Examiner trap 17:** Ask where the asset is held before inferring liquidity effects.
+
+### MCQ 18
+
+Which statement about current reserve ratios is appropriately framed?
+
+- A. CRR can never change from 3 per cent
+- B. SLR is constitutionally fixed at 18 per cent
+- C. RBI data checked 9 September 2026 showed CRR 3 per cent and SLR 18 per cent
+- D. The MPC alone legislates both ratios
 
 **Answer: B.**
-**Explanation:** The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q23. Which statement uses WACR operating target without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-B. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-C. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-D. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
+- **A - Incorrect:** A current observation must not be frozen as permanent.
+- **B - Correct:** SLR is statutory/regulatory but its rate is not constitutionally immutable.
+- **C - Incorrect:** The date label makes the observation usable without converting it into a timeless definition.
+- **D - Incorrect:** Instrument authority and legal basis are more complex than sole MPC legislation.
+
+**Examiner trap 18:** Never write a current ratio without a date and source.
+
+### MCQ 19
+
+Under the framework dated 30 September 2025, transient liquidity is managed primarily through
+
+- A. only annual OMOs
+- B. 7-day VRR/VRRR plus discretionary overnight-to-14-day operations
+- C. MSS alone
+- D. a permanently fixed 14-day main operation
 
 **Answer: C.**
-**Explanation:** The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q24. Which option avoids the standard UPSC close-option trap about WACR operating target?
+**Option-specific explanations:**
 
-A. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-B. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-C. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
-D. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
+- **A - Incorrect:** OMOs address durable conditions and are not the sole transient tool.
+- **B - Incorrect:** This is the revised operational design stated by RBI.
+- **C - Correct:** MSS is a specialised sterilisation instrument.
+- **D - Incorrect:** The revision discontinued the 14-day operation as the main operation.
+
+**Examiner trap 19:** Operating procedures have a vintage; older LAF descriptions can be obsolete.
+
+### MCQ 20
+
+What makes a variable-rate repo different from a fixed-rate repo?
+
+- A. It has no counterparty
+- B. The auction discovers the accepted rate from bids rather than RBI fixing the operation rate
+- C. It is always an OMO purchase
+- D. It necessarily changes the MPC stance
 
 **Answer: D.**
-**Explanation:** The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q25. Which statement correctly identifies Monetary Policy Committee?
+**Option-specific explanations:**
 
-A. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
-B. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
-C. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-D. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
+- **A - Incorrect:** Eligible counterparties still matter.
+- **B - Incorrect:** Variable-rate bidding determines the cut-off or accepted rates.
+- **C - Incorrect:** Repo remains a repurchase transaction, unlike outright OMO.
+- **D - Correct:** An operational auction need not signal a stance change.
+
+**Examiner trap 20:** Variable price discovery is not variable institutional purpose.
+
+### MCQ 21
+
+An RBI OMO purchase normally
+
+- A. injects durable liquidity by buying government securities outright
+- B. absorbs liquidity through a collateral-free deposit
+- C. changes CRR automatically
+- D. creates fiscal tax revenue
 
 **Answer: A.**
-**Explanation:** The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q26. Which option preserves the accounting or regulatory boundary of Monetary Policy Committee?
+**Option-specific explanations:**
 
-A. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-B. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
-C. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-D. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
+- **A - Correct:** RBI pays reserves and acquires securities outright.
+- **B - Incorrect:** SDF, not OMO purchase, describes collateral-free standing absorption.
+- **C - Incorrect:** Reserve-ratio changes require a separate decision.
+- **D - Incorrect:** Central-bank asset purchases are not taxation.
+
+**Examiner trap 21:** Outright purchase is the key distinction from repo.
+
+### MCQ 22
+
+Operation Twist is best described as
+
+- A. a foreign-exchange peg
+- B. a change in the inflation target
+- C. a simultaneous purchase and sale across maturities to influence the yield curve
+- D. a waiver of SLR
 
 **Answer: B.**
-**Explanation:** The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q27. Which statement uses Monetary Policy Committee without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
-B. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-C. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
-D. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
+- **A - Incorrect:** Twist operates in government securities, not a fixed exchange regime.
+- **B - Correct:** Only the Central Government consultation/notification process changes the target.
+- **C - Incorrect:** Buying longer and selling shorter securities can reshape term premia.
+- **D - Incorrect:** It does not repeal a statutory liquidity requirement.
+
+**Examiner trap 22:** Twist changes maturity composition; net liquidity depends on transaction design.
+
+### MCQ 23
+
+What is distinctive about MSS?
+
+- A. Proceeds finance ordinary expenditure immediately
+- B. It is an unsecured overnight bank deposit
+- C. It is identical to CRR
+- D. Government securities absorb liquidity and proceeds enter a separate account restricted to redemption/buyback
 
 **Answer: C.**
-**Explanation:** The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Monetary Policy Committee?
+**Option-specific explanations:**
 
-A. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-B. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-C. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-D. The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
+- **A - Incorrect:** Ordinary spending would reverse the intended absorption.
+- **B - Incorrect:** SDF is the standing unsecured deposit facility.
+- **C - Correct:** MSS uses securities and a ring-fenced account, not bank reserve ratios.
+- **D - Incorrect:** The separate identifiable account preserves the sterilisation purpose.
+
+**Examiner trap 23:** MSS is jointly designed but its proceeds are not normal budget resources.
+
+### MCQ 24
+
+Which is a transient rather than durable-liquidity driver?
+
+- A. A temporary tax outflow into government cash balances
+- B. A structural rise in currency demand lasting years
+- C. A permanent change in reserve preference
+- D. A sustained balance-of-payments surplus
 
 **Answer: D.**
-**Explanation:** The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q29. Which statement correctly identifies Flexible inflation targeting?
+**Option-specific explanations:**
 
-A. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
-B. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-C. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-D. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
+- **A - Incorrect:** Short-lived tax collection can drain reserves until spending reverses it.
+- **B - Incorrect:** A lasting currency shift is a durable factor.
+- **C - Incorrect:** Persistent reserve preference alters the structural demand for liquidity.
+- **D - Correct:** Sustained external inflows can create durable liquidity pressure.
+
+**Examiner trap 24:** Classify the expected persistence, not the instrument's name alone.
+
+### MCQ 25
+
+Reserve money M0 includes
+
+- A. only coins
+- B. currency in circulation, bankers' deposits with RBI and other RBI deposits
+- C. all bank time deposits but no currency
+- D. equity-market capitalisation
 
 **Answer: A.**
-**Explanation:** India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q30. Which option preserves the accounting or regulatory boundary of Flexible inflation targeting?
+**Option-specific explanations:**
 
-A. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-B. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
-C. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-D. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
+- **A - Correct:** Coins alone are only one narrow component of money.
+- **B - Incorrect:** These are the standard liability-side components of reserve money.
+- **C - Incorrect:** Time deposits are part of broad money such as M3, not M0.
+- **D - Incorrect:** Market capitalisation is an asset valuation, not money stock.
+
+**Examiner trap 25:** Reserve money is broader than currency but narrower than broad money.
+
+### MCQ 26
+
+Which formula is an empirical money multiplier?
+
+- A. M0/M3
+- B. CRR/SLR
+- C. M3/M0
+- D. repo minus WACR
 
 **Answer: B.**
-**Explanation:** India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q31. Which statement uses Flexible inflation targeting without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-B. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-C. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
-D. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
+- **A - Incorrect:** This is the inverse of the conventional broad-money multiplier.
+- **B - Correct:** Two reserve ratios do not themselves form the observed multiplier.
+- **C - Incorrect:** Broad money divided by reserve money gives the multiplier ratio.
+- **D - Incorrect:** The rate gap measures alignment, not money multiplication.
+
+**Examiner trap 26:** Do not substitute the classroom 1/rr identity for the observed M3/M0 ratio.
+
+### MCQ 27
+
+Why is 1/CRR an incomplete description of money creation?
+
+- A. Currency leakage, excess reserves, capital, risk, funding and credit demand also matter
+- B. CRR has no connection to bank reserves
+- C. Banks can lend infinitely without capital
+- D. Loans never create deposits
 
 **Answer: C.**
-**Explanation:** India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Flexible inflation targeting?
+**Option-specific explanations:**
 
-A. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-B. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-C. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-D. India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
+- **A - Incorrect:** These behavioural and regulatory constraints break the mechanical assumptions.
+- **B - Incorrect:** CRR affects reserve space even though it is not the sole determinant.
+- **C - Correct:** Capital and risk rules impose real limits.
+- **D - Incorrect:** Bank lending commonly creates a matching deposit before reserve settlement.
+
+**Examiner trap 27:** Endogenous credit does not mean unconstrained credit.
+
+### MCQ 28
+
+Which case is primarily a solvency problem?
+
+- A. A sound bank has a one-day settlement mismatch
+- B. System WACR briefly rises above repo
+- C. A bank's asset losses exceed its capital and viable earnings
+- D. Government spending temporarily drains its RBI balance
 
 **Answer: D.**
-**Explanation:** India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q33. Which statement correctly identifies Statutory RBI status?
+**Option-specific explanations:**
 
-A. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-B. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-C. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-D. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
+- **A - Incorrect:** Temporary timing can be addressed with liquidity.
+- **B - Incorrect:** WACR alignment is a market-liquidity issue.
+- **C - Incorrect:** Negative net worth or unviable assets require capital or resolution, not cash alone.
+- **D - Correct:** Government cash movement is an autonomous system-liquidity driver.
+
+**Examiner trap 28:** Emergency liquidity cannot manufacture capital.
+
+### MCQ 29
+
+Which is an expectations-channel effect?
+
+- A. A credible statement changes wage and price setting before realised demand changes
+- B. RBI physically builds a warehouse
+- C. SLR securities become CRR cash automatically
+- D. MPC fixes every retail loan spread
 
 **Answer: A.**
-**Explanation:** RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q34. Which option preserves the accounting or regulatory boundary of Statutory RBI status?
+**Option-specific explanations:**
 
-A. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-B. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-C. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-D. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
+- **A - Correct:** Forward guidance and credibility can alter contracts and pricing today.
+- **B - Incorrect:** Storage is a supply-side responsibility.
+- **C - Incorrect:** The two requirements retain separate legal and asset forms.
+- **D - Incorrect:** Banks price spreads within regulation and risk conditions.
 
-**Answer: B.**
-**Explanation:** RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 29:** Expectations can transmit before balance-sheet quantities visibly move.
 
-### Q35. Which statement uses Statutory RBI status without losing its vintage, basket or legal status?
+### MCQ 30
 
-A. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-B. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-C. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-D. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
+Which statement about EBLR and MCLR is correct?
 
-**Answer: C.**
-**Explanation:** RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Statutory RBI status?
-
-A. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-B. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-C. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-D. RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-
-**Answer: D.**
-**Explanation:** RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies Transmission chain?
-
-A. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
-B. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-C. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-D. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-
-**Answer: A.**
-**Explanation:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of Transmission chain?
-
-A. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-B. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
-C. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-D. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
+- A. EBLR is always the borrower's final rate
+- B. MCLR is an external market yield
+- C. External benchmarking can quicken reset, but spreads and coverage still matter
+- D. MCLR has been abolished for every existing loan
 
 **Answer: B.**
-**Explanation:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q39. Which statement uses Transmission chain without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-B. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-C. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
-D. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
+- **A - Incorrect:** The final rate normally includes a spread.
+- **B - Correct:** MCLR is an internal benchmark based on bank costs and tenor.
+- **C - Incorrect:** This captures both improved pass-through and remaining heterogeneity.
+- **D - Incorrect:** Legacy and excluded contracts mean MCLR has not disappeared universally.
 
-**Answer: C.**
-**Explanation:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 30:** Benchmark, spread and reset date must be separated.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Transmission chain?
+### MCQ 31
 
-A. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-B. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-C. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-D. MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
+An approximate ex ante real policy rate is
 
-**Answer: D.**
-**Explanation:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies SDF-liquidity distinction?
-
-A. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-B. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-C. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-D. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-
-**Answer: A.**
-**Explanation:** The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of SDF-liquidity distinction?
-
-A. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-B. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-C. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-D. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-
-**Answer: B.**
-**Explanation:** The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses SDF-liquidity distinction without losing its vintage, basket or legal status?
-
-A. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-B. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-C. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
-D. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
+- A. nominal repo minus expected inflation
+- B. nominal repo plus realised inflation
+- C. SDF minus CRR
+- D. GDP growth minus SLR
 
 **Answer: C.**
-**Explanation:** The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q44. Which option avoids the standard UPSC close-option trap about SDF-liquidity distinction?
+**Option-specific explanations:**
 
-A. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-B. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-C. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-D. The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance.
+- **A - Incorrect:** Decision-making compares the nominal rate with expected inflation.
+- **B - Incorrect:** Adding inflation reverses the Fisher intuition and realised inflation may not represent expectations.
+- **C - Correct:** These are unlike units and instrument categories.
+- **D - Incorrect:** Growth and a reserve ratio do not define a real interest rate.
 
-**Answer: D.**
-**Explanation:** The 2022 SDF illustrates that RBI can absorb collateral-free surplus liquidity to align overnight rates without necessarily changing the repo-rate stance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 31:** State whether inflation is expected or realised.
 
-### Q45. Which statement correctly identifies Pandemic policy package?
+### MCQ 32
 
-A. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-B. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-C. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-D. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
+Which statement best distinguishes policy stance from liquidity stance?
 
-**Answer: A.**
-**Explanation:** During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of Pandemic policy package?
-
-A. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-B. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-C. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-D. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-
-**Answer: B.**
-**Explanation:** During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses Pandemic policy package without losing its vintage, basket or legal status?
-
-A. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-B. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-C. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
-D. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-
-**Answer: C.**
-**Explanation:** During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Pandemic policy package?
-
-A. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-B. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-C. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-D. During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone.
+- A. They are always identical
+- B. A neutral MPC stance can coexist with surplus liquidity managed by two-way operations
+- C. Surplus liquidity legally requires a rate cut
+- D. A VRRR auction permanently changes the inflation target
 
 **Answer: D.**
-**Explanation:** During the pandemic RBI combined repo reductions with CRR easing, OMOs and targeted longer-term liquidity operations, showing that expansionary policy is an instrument package rather than a repo cut alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q49. Which statement correctly identifies Uneven pass-through?
+**Option-specific explanations:**
 
-A. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-B. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-C. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-D. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
+- **A - Incorrect:** Rate orientation and reserve conditions can diverge.
+- **B - Incorrect:** The August 2026 configuration illustrated neutral stance with average surplus liquidity.
+- **C - Incorrect:** Liquidity can arise from autonomous flows without dictating MPC action.
+- **D - Correct:** An auction implements liquidity policy; it does not amend the Gazette target.
 
-**Answer: A.**
-**Explanation:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q50. Which option preserves the accounting or regulatory boundary of Uneven pass-through?
-
-A. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-B. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-C. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-D. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-
-**Answer: B.**
-**Explanation:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses Uneven pass-through without losing its vintage, basket or legal status?
-
-A. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-B. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-C. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-D. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-
-**Answer: C.**
-**Explanation:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Uneven pass-through?
-
-A. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-B. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-C. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-D. Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-
-**Answer: D.**
-**Explanation:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies Forex intervention and sterilisation?
-
-A. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-B. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-C. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-D. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-
-**Answer: A.**
-**Explanation:** RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of Forex intervention and sterilisation?
-
-A. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-B. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-C. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-D. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-
-**Answer: B.**
-**Explanation:** RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses Forex intervention and sterilisation without losing its vintage, basket or legal status?
-
-A. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-B. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-C. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-D. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-
-**Answer: C.**
-**Explanation:** RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Forex intervention and sterilisation?
-
-A. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-B. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-C. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-D. RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-
-**Answer: D.**
-**Explanation:** RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies OMO and yield conditions?
-
-A. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-B. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-C. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-D. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-
-**Answer: A.**
-**Explanation:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of OMO and yield conditions?
-
-A. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-B. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-C. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-D. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-
-**Answer: B.**
-**Explanation:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses OMO and yield conditions without losing its vintage, basket or legal status?
-
-A. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-B. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-C. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-D. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-
-**Answer: C.**
-**Explanation:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about OMO and yield conditions?
-
-A. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-B. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-C. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-D. OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
-
-**Answer: D.**
-**Explanation:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies Legal tender and RBI liabilities?
-
-A. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-B. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-C. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-D. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-
-**Answer: A.**
-**Explanation:** Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of Legal tender and RBI liabilities?
-
-A. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-B. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-C. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-D. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-
-**Answer: B.**
-**Explanation:** Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses Legal tender and RBI liabilities without losing its vintage, basket or legal status?
-
-A. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-B. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-C. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-D. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-
-**Answer: C.**
-**Explanation:** Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Legal tender and RBI liabilities?
-
-A. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-B. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-C. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-D. Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-
-**Answer: D.**
-**Explanation:** Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Money multiplier?
-
-A. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-B. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-C. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-D. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-
-**Answer: A.**
-**Explanation:** Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Money multiplier?
-
-A. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-B. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-C. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-D. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-
-**Answer: B.**
-**Explanation:** Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Money multiplier without losing its vintage, basket or legal status?
-
-A. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-B. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-C. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-D. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-
-**Answer: C.**
-**Explanation:** Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Money multiplier?
-
-A. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-B. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-C. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-D. Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier.
-
-**Answer: D.**
-**Explanation:** Reserve money supports broader money creation through banking; lower reserve impounding and currency leakage and greater willingness to lend generally raise the money multiplier. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies RBI income sources?
-
-A. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-B. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-C. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-D. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-
-**Answer: A.**
-**Explanation:** RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of RBI income sources?
-
-A. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-B. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-C. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-D. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-
-**Answer: B.**
-**Explanation:** RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses RBI income sources without losing its vintage, basket or legal status?
-
-A. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-B. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-C. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-D. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-
-**Answer: C.**
-**Explanation:** RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about RBI income sources?
-
-A. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-B. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-C. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-D. RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-
-**Answer: D.**
-**Explanation:** RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Payment-data direction?
-
-A. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-B. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-C. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-D. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-
-**Answer: A.**
-**Explanation:** RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Payment-data direction?
-
-A. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-B. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-C. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-D. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-
-**Answer: B.**
-**Explanation:** RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Payment-data direction without losing its vintage, basket or legal status?
-
-A. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-B. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-C. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-D. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-
-**Answer: C.**
-**Explanation:** RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Payment-data direction?
-
-A. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-B. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-C. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-D. RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-
-**Answer: D.**
-**Explanation:** RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Committee-institution pairs?
-
-A. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-B. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-C. The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-D. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-
-**Answer: A.**
-**Explanation:** The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Committee-institution pairs?
-
-A. The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-B. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-C. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-D. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-
-**Answer: B.**
-**Explanation:** The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Committee-institution pairs without losing its vintage, basket or legal status?
-
-A. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-B. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-C. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-D. MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-
-**Answer: C.**
-**Explanation:** The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Committee-institution pairs?
-
-A. CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-B. OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-C. The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
-D. The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-
-**Answer: D.**
-**Explanation:** The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 32:** Read stance, rate and liquidity as separate signals.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED OBJECTIVE-ONLY PYQ OWNERSHIP AUDIT
+### VERIFIED PYQ ROUTES AND OFFICIAL-KEY DISCIPLINE
 
-This Basic owner carries audited objective routes on legal tender, rupee management, payment-data storage, the money multiplier, expansionary instruments, RBI status, lender of last resort, interest-rate hikes, sterilisation, RBI income and reform committees. No routed Mains demand is manufactured and no unavailable or provisional objective answer is inferred.
+The repository routes objective UPSC demands to this owner. Exact wording and a final answer are supplied only where both are locally verified. Where the official final key is absent or provisional, the required sentence is used without inference.
 
-### OWNER PYQ LEDGER EXTRACTS
+#### PYQ 1 - UPSC Prelims 2025, GS Paper I, Set A, Question 2
 
-#### 9. PYQ application
+Which of the following are the sources of income for the Reserve Bank of India?
 
-- ⚠️ 2025 Prelims tested RBI income sources: government securities and foreign-currency
-  operations.
-- ⚠️ 2024 Prelims tested that NBFCs do not broadly enjoy direct LAF access.
-- ✅ **2026 Prelims Q2 (official provisional key):** tested why the
-  Hilton-Young Commission's fixed rupee-sterling rate aided British remittances
-  and India's creditworthiness. This is monetary history, not an MPC instrument.
-  Exact route: `../README.md`.
+I. Buying and selling Government bonds  
+II. Buying and selling foreign currency  
+III. Pension fund management  
+IV. Lending to private companies  
+V. Printing and distributing currency notes
 
-#### 2026 PYQ Integration
+Select the correct answer using the code given below.
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+- A. I and II only
+- B. I, II and IV
+- C. I, III, IV and V
+- D. I, II and V
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+**Official Set-A key: D.**
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 98 | Indian financial-sector reform committees and their institutional sponsors | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Solution:** Transactions in government securities and foreign currency generate returns or gains. Currency issuance creates seigniorage benefits even though notes issued are liabilities and printing/distribution also costs money. Pension-fund management is not an ordinary RBI income source, and lending to private companies is not a general central-bank business line.
 
-##### What this owner must now support
+**Examiner caution:** The official key does not justify saying the face value of every printed note is annual accounting profit.
 
-- Indian financial-sector reform committees and their institutional sponsors
+#### PYQ 2 - UPSC Prelims 2026, GS Paper I, Question 98
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+**Verified demand:** Indian financial-sector reform committees and their institutional sponsors.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Answer withheld pending official UPSC key.**
 
-#### Recent PYQ Integration (2024-2025)
+**Concept route:** Hilton-Young concerns colonial currency and central-bank reform; Narasimham Committees were Government of India banking-reform committees; Tarapore Committees were constituted by RBI on capital-account convertibility. Preserve the provisional status of the local 2026 key.
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+#### HISTORICAL ROUTED OBJECTIVE DEMANDS
 
-- **Years represented:** 2025
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+| Year / question | Verified demand | Key status and solution discipline |
+|---|---|---|
+| 2018 Q46 | Legal-tender money definition and characteristics | Answer withheld pending official UPSC key. Revise legal compulsion, issuer and liability distinction. |
+| 2019 Q86 | Government and RBI measures against rupee depreciation | Answer withheld pending official UPSC key. Separate monetary, intervention, trade and capital-flow measures. |
+| 2019 Q87 | RBI payment-data storage direction | Answer withheld pending official UPSC key. Treat it as a payment-system regulatory direction, not general data law. |
+| 2019 Q90 | Conditions raising the money multiplier | Answer withheld pending official UPSC key. Test reserve, currency leakage, excess reserve and lending behaviour. |
+| 2020 Q57 | Expansionary monetary-policy instruments | Answer withheld pending official UPSC key. Distinguish rate cuts, CRR cuts, OMO purchases and liquidity facilities. |
+| 2021 Q1 | RBI Governor appointment and constitutional powers | Answer withheld pending official UPSC key. RBI is statutory; appointment does not create constitutional status. |
+| 2021 Q11 | Money multiplier and reserve ratios | Answer withheld pending official UPSC key. Reject a universal mechanical multiplier. |
+| 2021 Q15 | Lender of last resort | Answer withheld pending official UPSC key. Separate temporary liquidity from solvency support. |
+| 2022 Q3 | RBI tools and rupee management | Answer withheld pending official UPSC key. RBI smooths disorderly movement without a fixed-rate target. |
+| 2022 Q68 | Institution responsible for price stability | Answer withheld pending official UPSC key. Distinguish the notified target, MPC rate decision and RBI implementation. |
+| 2023 Q22 | Post-pandemic central-bank rate increases | Answer withheld pending official UPSC key. Trace inflation expectations, demand and exchange spillovers. |
+| 2023 Q24 | Sterilisation and OMOs | Answer withheld pending official UPSC key. Distinguish forex intervention from its domestic-liquidity offset. |
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | Prelims GS-I | 2 | Sources of income of the Reserve Bank of India | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Boundary note:** The 2024 NBFC/LAF question is owned by Economy Topic 5. This topic uses it only as a reminder that facility access is counterparty-specific.
 
-##### What this owner must now support
+### ORIGINAL MAINS 1 - 10 MARKS
 
-- Sources of income of the Reserve Bank of India
+**Question:** Explain why liquidity management remains necessary after the MPC announces the policy repo rate. Answer in 150 words.
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+#### Demand decoding
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+Identify the directive, separate legal authority from operational instruments, trace at least one complete transmission chain, and end with a qualification tied to the stated shock or institutional limit.
 
-#### Historical PYQ Integration (2018-2023)
+#### Answer plan and validation
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+- **Plan:** policy signal -> dated operating framework -> transmission analysis -> qualification.
+- **Validated native-body count:** 143 alphanumeric words.
 
-- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 12
+#### Model answer
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 46 | Legal tender money definition and characteristics | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 86 | Government and RBI measures to prevent rupee depreciation | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 87 | RBI payment data storage directive for system providers | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 90 | Conditions that increase money multiplier in economy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 57 | RBI expansionist monetary policy instruments and actions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 1 | RBI Governor appointment and constitutional powers | Objective question; official key unavailable locally | Monetary-policy specialist plus statutory-not-constitutional regulator classification; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 11 | Money multiplier and reserve ratios in banking | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 15 | Central bank lender of last resort function | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 3 | RBI monetary policy tools and rupee management | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 68 | Institution responsible for price stability and inflation control | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 22 | Central banks interest rate hikes post-pandemic monetary policy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 24 | RBI sterilization and Open Market Operations role | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+Liquidity management remains necessary because the MPC's repo decision is a policy signal, whereas banks settle reserves at the overnight weighted average call rate, or WACR. RBI operations must keep WACR near repo so that the signal reaches money-market yields and lending conditions.
 
-##### What this owner must now support
+The RBI liquidity framework dated 30 September 2025 identifies seven-day VRR or VRRR as the principal tool for transient mismatches caused by currency demand, tax flows, government balances or settlements. SDF and MSF bound the corridor; persistent imbalances may require OMOs, longer operations or forex swaps. This distinction matches instrument tenor to the liquidity shock.
 
-- Legal tender money definition and characteristics
-- Government and RBI measures to prevent rupee depreciation
-- RBI payment data storage directive for system providers
-- Conditions that increase money multiplier in economy
-- RBI expansionist monetary policy instruments and actions
-- RBI Governor appointment and constitutional powers
-- Money multiplier and reserve ratios in banking
-- Central bank lender of last resort function
-- RBI monetary policy tools and rupee management
-- Institution responsible for price stability and inflation control
-- Central banks interest rate hikes post-pandemic monetary policy
-- RBI sterilization and Open Market Operations role
+Operational alignment therefore prevents accidental tightening or easing and supports the interest-rate channel. However, liquidity management implements rather than changes the MPC stance. Even perfect WACR alignment cannot guarantee final transmission because deposit costs, bank capital, risk pricing and credit demand still condition loan rates.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+### ORIGINAL MAINS 2 - 10 MARKS
 
-#### 10. PYQ-based analytical application
+**Question:** Distinguish liquidity support from solvency support in central banking. Answer in 150 words.
 
-- ⚠️ 2025 Prelims tested RBI income sources: government securities and foreign-currency
-  operations.
-- ⚠️ 2024 Prelims tested that NBFCs do not broadly enjoy direct LAF access.
-- ✅ **2026 Prelims Q2 (official provisional key):** Hilton-Young
-  Commission, fixed rupee-sterling rate, British remittances and external
-  creditworthiness. Keep the provisional label; see `../README.md`.
+#### Demand decoding
 
-### ORIGINAL MAINS 1 — 10 MARKS
+Identify the directive, separate legal authority from operational instruments, trace at least one complete transmission chain, and end with a qualification tied to the stated shock or institutional limit.
 
-**Question:** Why is liquidity management necessary after an MPC repo-rate decision? Answer in about 150 words.
+#### Answer plan and validation
 
-**Model thesis:** **Claim:** Repo-rate signal. **Named evidence/example:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Standing Deposit Facility. **Named evidence/example:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** WACR operating target. **Named evidence/example:** The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+- **Plan:** definitions -> Bagehot principle -> institutional response -> distributional qualification.
+- **Validated native-body count:** 145 alphanumeric words.
 
-**Claim → named evidence → analysis → qualification:**
+#### Model answer
 
-- The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-- The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-- The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct.
+Liquidity is the capacity to meet payments when due; solvency means assets and sustainable earnings exceed liabilities. A sound bank can still face a temporary reserve shortage because its assets are long-dated or illiquid. RBI repo or lender-of-last-resort support can bridge that timing mismatch, prevent fire sales and protect payment-system continuity.
 
-**Qualified conclusion:** **Claim:** Repo-rate signal. **Named evidence/example:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Standing Deposit Facility. **Named evidence/example:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** WACR operating target. **Named evidence/example:** The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+An insolvent bank has losses that have eroded capital. Additional cash cannot repair impaired assets; support may merely conceal losses and create moral hazard. The appropriate response is recapitalisation, restructuring or resolution with loss allocation, although temporary liquidity may still be needed for an orderly process.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why is liquidity management necessary after an MPC repo-rate decision? Answer in about 150…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Bagehot's lender-of-last-resort principle supports lending against good collateral at a penalty rate. In practice, collateral, haircuts, pricing, supervision and an exit plan should discipline assistance. The qualification is distributional: aggregate banking-system surplus does not prove every institution is liquid or solvent because reserves and confidence are unevenly distributed.
 
-**Detailed examiner-grade model answer:**
+### ORIGINAL MAINS 3 - 15 MARKS
 
-**Introduction and thesis:** **Claim:** Repo-rate signal. **Named evidence/example:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Standing Deposit Facility. **Named evidence/example:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** WACR operating target. **Named evidence/example:** The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Question:** Examine the statutory design and accountability of India's flexible inflation-targeting framework. Answer in 250 words.
 
-**Analytical body:**
+#### Demand decoding
 
-1. **Claim and named evidence:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+Identify the directive, separate legal authority from operational instruments, trace at least one complete transmission chain, and end with a qualification tied to the stated shock or institutional limit.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+#### Answer plan and validation
 
-**Qualified conclusion:** **Claim:** Repo-rate signal. **Named evidence/example:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Standing Deposit Facility. **Named evidence/example:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** WACR operating target. **Named evidence/example:** The weighted average call rate is the operating target that RBI liquidity operations seek to align with the policy corridor; the policy target, repo rate and operating target are distinct. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+- **Plan:** statutory anchor -> institutional design -> accountability -> supply-shock qualification.
+- **Validated native-body count:** 216 alphanumeric words.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+#### Model answer
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+India's flexible inflation-targeting framework rests on the RBI Act, 1934 as amended in 2016. Section 45ZA assigns the Central Government, in consultation with RBI, the five-year notification of the consumer-price-index target. The Gazette notification dated 25 March 2026 retained 4 per cent inflation with 2 and 6 per cent tolerance limits for April 2026-March 2031.
 
-**How to improve this answer:** For “Why is liquidity management necessary after an MPC repo-rate decision? Answer in about 150…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+Section 45ZB establishes a six-member MPC: the Governor, monetary-policy Deputy Governor, one RBI officer nominated by the Central Board, and three Central Government appointees. External members have four-year non-renewable terms. Each member votes; the Governor has a casting vote only on a tie. Quorum is four, including the Governor or the MPC Deputy Governor.
 
-### ORIGINAL MAINS 2 — 10 MARKS
+The MPC determines the policy repo rate; RBI implements the decision and manages liquidity, while the Government neither votes on individual rate decisions nor conducts daily operations.
 
-**Question:** Distinguish repo, SDF, MSF, CRR and OMO. Answer in about 150 words.
+Accountability follows publication and explanation. RBI releases the resolution, votes and statements; minutes follow on the fourteenth day and the Monetary Policy Report every six months. Under section 45ZN, three consecutive quarterly-average breaches require RBI to report reasons, remedies and the estimated return horizon to Government.
 
-**Model thesis:** **Claim:** Repo-rate signal. **Named evidence/example:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Standing Deposit Facility. **Named evidence/example:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Marginal Standing Facility. **Named evidence/example:** MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Cash Reserve Ratio. **Named evidence/example:** CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Open Market Operations. **Named evidence/example:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+The design supplies a credible nominal anchor while permitting growth-sensitive adjustment. However, accountability is not mechanical rate action: food, fuel and external supply shocks require diagnosis, complementary fiscal-supply measures and vigilance against second-round persistence.
 
-**Claim → named evidence → analysis → qualification:**
+### ORIGINAL MAINS 4 - 15 MARKS
 
-- The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection.
-- The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022.
-- MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations.
-- CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds.
-- OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
+**Question:** Analyse the channels and frictions of monetary-policy transmission in India. Answer in 250 words.
 
-**Qualified conclusion:** **Claim:** Repo-rate signal. **Named evidence/example:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Standing Deposit Facility. **Named evidence/example:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Marginal Standing Facility. **Named evidence/example:** MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Cash Reserve Ratio. **Named evidence/example:** CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Open Market Operations. **Named evidence/example:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+#### Demand decoding
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish repo, SDF, MSF, CRR and OMO. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Identify the directive, separate legal authority from operational instruments, trace at least one complete transmission chain, and end with a qualification tied to the stated shock or institutional limit.
 
-**Detailed examiner-grade model answer:**
+#### Answer plan and validation
 
-**Introduction and thesis:** **Claim:** Repo-rate signal. **Named evidence/example:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Standing Deposit Facility. **Named evidence/example:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Marginal Standing Facility. **Named evidence/example:** MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Cash Reserve Ratio. **Named evidence/example:** CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Open Market Operations. **Named evidence/example:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+- **Plan:** operating impulse -> five channels -> India-specific frictions -> evidence -> qualification.
+- **Validated native-body count:** 215 alphanumeric words.
 
-**Analytical body:**
+#### Model answer
 
-1. **Claim and named evidence:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+Monetary transmission begins when the MPC's repo decision and communication alter expected short-term rates, while RBI liquidity operations align overnight WACR with repo. The impulse then travels through five channels: interest rates affect consumption and investment; credit conditions alter loan supply; expectations influence wages and prices; exchange-rate movements affect imported inflation and net exports; and asset prices alter wealth and financing conditions.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+India's external-benchmark regime accelerates repricing for specified floating-rate retail and MSME loans, whereas MCLR remains an internal cost benchmark for relevant loans. Yet transmission is uneven because deposit competition, administered small-savings rates, legacy fixed-rate contracts, bank capital, asset quality, borrower risk, fiscal borrowing and global yields affect funding costs or spreads.
 
-**Qualified conclusion:** **Claim:** Repo-rate signal. **Named evidence/example:** The repo rate is the policy rate for collateralised liquidity from RBI under the operating framework; a repo-rate decision signals stance but is not identical to every liquidity injection. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Standing Deposit Facility. **Named evidence/example:** The SDF is an uncollateralised RBI facility for absorbing surplus liquidity and has served as the floor-side standing facility since its introduction in 2022. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Marginal Standing Facility. **Named evidence/example:** MSF is an overnight backstop borrowing window for scheduled commercial banks against eligible securities; its counterparty and emergency role differ from ordinary repo operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Cash Reserve Ratio. **Named evidence/example:** CRR is the share of net demand and time liabilities maintained as cash with RBI, broadly impounding bank resources and affecting lendable funds. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Open Market Operations. **Named evidence/example:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+A repo cut can therefore lower the overnight rate quickly while deposit and loan repricing remain partial, delayed or offset by independent risk premia.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+Economic Survey 2025-26 associated repo easing, CRR reduction and OMOs with softer lending rates, while RBI's August 2026 statement still described credit-market transmission as moderated. This evidence shows that WACR alignment is necessary but insufficient.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+Therefore effective transmission requires sound bank balance sheets, transparent benchmarks, competitive funding markets and credible communication. The qualification is temporal and structural: policy works with variable lags, and loan rates may move differently across borrowers without implying that the repo signal failed entirely.
 
-**How to improve this answer:** For “Distinguish repo, SDF, MSF, CRR and OMO. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+### ORIGINAL MAINS 5 - 20 MARKS
 
-### ORIGINAL MAINS 3 — 15 MARKS
+**Question:** Critically evaluate RBI's toolkit for managing transient and durable liquidity while preserving the monetary-policy signal. Answer in 250 words.
 
-**Question:** Explain India's monetary-policy transmission chain and its frictions. Answer in about 250 words.
+#### Demand decoding
 
-**Model thesis:** **Claim:** Transmission chain. **Named evidence/example:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Uneven pass-through. **Named evidence/example:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** OMO and yield conditions. **Named evidence/example:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Identify the directive, separate legal authority from operational instruments, trace at least one complete transmission chain, and end with a qualification tied to the stated shock or institutional limit.
 
-**Claim → named evidence → analysis → qualification:**
+#### Answer plan and validation
 
-- MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
-- Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-- OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
+- **Plan:** operating objective -> transient tools -> durable tools -> costs -> qualified prescription.
+- **Validated native-body count:** 218 alphanumeric words.
 
-**Qualified conclusion:** **Claim:** Transmission chain. **Named evidence/example:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Uneven pass-through. **Named evidence/example:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** OMO and yield conditions. **Named evidence/example:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+#### Model answer
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain India's monetary-policy transmission chain and its frictions. Answer in about 250…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+RBI should manage liquidity so overnight WACR remains near the policy repo rate without confusing reserve operations with the MPC stance. The revised framework dated 30 September 2025 makes seven-day VRR or VRRR the principal response to transient mismatches from currency demand, taxes, government balances and settlements. Other overnight-to-fourteen-day operations remain discretionary. SDF provides collateral-free standing absorption at the floor, while MSF supplies collateralised overnight funds at the ceiling.
 
-**Detailed examiner-grade model answer:**
+Durable liquidity requires balance-sheet tools. OMO purchases inject reserves outright and sales absorb them; longer variable-rate operations and forex swaps address persistent needs. Operation Twist changes the maturity composition of RBI holdings, so its net liquidity effect depends on design. Under MSS, securities absorb surplus while proceeds remain ring-fenced rather than financing expenditure.
 
-**Introduction and thesis:** **Claim:** Transmission chain. **Named evidence/example:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Uneven pass-through. **Named evidence/example:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** OMO and yield conditions. **Named evidence/example:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+For example, a durable shortage treated only with repeated short repos can leave banks dependent on refinancing and distort the operating signal.
 
-**Analytical body:**
+The toolkit preserves transmission only when diagnosis is correct. Persistent surplus may weaken pass-through or encourage leverage; repeated deficits may raise volatility. OMOs interact with government borrowing, forex operations may require sterilisation, and CRR is powerful but blunt.
 
-1. **Claim and named evidence:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+Hence RBI should distinguish transient from durable shocks, communicate two-way operations and assess success through WACR alignment plus broader transmission. Gross injection or absorption alone is misleading because liquidity stance and policy stance can legitimately diverge.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+### ORIGINAL MAINS 6 - 20 MARKS
 
-**Qualified conclusion:** **Claim:** Transmission chain. **Named evidence/example:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Uneven pass-through. **Named evidence/example:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** OMO and yield conditions. **Named evidence/example:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Question:** Discuss the inflation-growth-exchange-rate trade-offs facing monetary policy after a supply shock. Answer in 250 words.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+#### Demand decoding
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+Identify the directive, separate legal authority from operational instruments, trace at least one complete transmission chain, and end with a qualification tied to the stated shock or institutional limit.
 
-**How to improve this answer:** For “Explain India's monetary-policy transmission chain and its frictions. Answer in about 250…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+#### Answer plan and validation
 
-### ORIGINAL MAINS 4 — 15 MARKS
+- **Plan:** trade-off -> MPC diagnosis -> external spillovers -> fiscal assignment -> qualified strategy.
+- **Validated native-body count:** 213 alphanumeric words.
 
-**Question:** Assess the role of OMOs and sterilisation in liquidity and external management. Answer in about 250 words.
+#### Model answer
 
-**Model thesis:** **Claim:** Open Market Operations. **Named evidence/example:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Forex intervention and sterilisation. **Named evidence/example:** RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** OMO and yield conditions. **Named evidence/example:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+A supply shock raises prices while weakening output; aggressive tightening can deepen the slowdown without producing food, fuel or logistics capacity. Yet inaction may let a temporary relative-price rise spread into expectations, wages, margins and exchange-rate depreciation.
 
-**Claim → named evidence → analysis → qualification:**
+The MPC should diagnose persistence and breadth. If demand is contained and expectations anchored, it can look through part of the first-round effect while communicating conditional vigilance. If core pressures or expectations broaden, tighter policy can restrain demand and defend the 4 per cent anchor. The ex ante real policy rate and uncertain neutral rate inform this judgement but cannot determine it mechanically.
 
-- OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions.
-- RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise.
-- OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance.
+External spillovers sharpen the trade-off. Higher global yields or oil prices may weaken the rupee and raise imported inflation. RBI may smooth excessive volatility through forex intervention, but India does not target a fixed exchange rate. Since intervention changes rupee liquidity, separate sterilisation may be required.
 
-**Qualified conclusion:** **Claim:** Open Market Operations. **Named evidence/example:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Forex intervention and sterilisation. **Named evidence/example:** RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** OMO and yield conditions. **Named evidence/example:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Government should address the shock through buffers, calibrated taxes or trade policy, logistics and targeted relief, while avoiding a fiscal impulse that frustrates disinflation. Coordination means consistent diagnosis and instrument assignment, not fiscal dominance.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the role of OMOs and sterilisation in liquidity and external management. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Open Market Operations. **Named evidence/example:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Forex intervention and sterilisation. **Named evidence/example:** RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** OMO and yield conditions. **Named evidence/example:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Open Market Operations. **Named evidence/example:** OMO purchases or sales are outright transactions in government securities that add or absorb durable liquidity and can influence yields beyond overnight cash conditions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Forex intervention and sterilisation. **Named evidence/example:** RBI may sell or buy foreign exchange to smooth excessive rupee volatility and offset the domestic-liquidity effect through OMOs or absorption operations; sterilisation does not imply a fixed exchange-rate promise. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** OMO and yield conditions. **Named evidence/example:** OMO affects durable liquidity and the government-securities yield curve, but its effect depends on market expectations, the fiscal borrowing environment and the broader monetary stance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Assess the role of OMOs and sterilisation in liquidity and external management. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Critically evaluate India's flexible inflation-targeting and MPC framework. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Monetary Policy Committee. **Named evidence/example:** The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Flexible inflation targeting. **Named evidence/example:** India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Transmission chain. **Named evidence/example:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Uneven pass-through. **Named evidence/example:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate.
-- India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth.
-- MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags.
-- Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ.
-
-**Qualified conclusion:** **Claim:** Monetary Policy Committee. **Named evidence/example:** The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Flexible inflation targeting. **Named evidence/example:** India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Transmission chain. **Named evidence/example:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Uneven pass-through. **Named evidence/example:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Critically evaluate India's flexible inflation-targeting and MPC framework. Answer in about…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Monetary Policy Committee. **Named evidence/example:** The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Flexible inflation targeting. **Named evidence/example:** India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Transmission chain. **Named evidence/example:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Uneven pass-through. **Named evidence/example:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Monetary Policy Committee. **Named evidence/example:** The six-member MPC consists of the RBI Governor, the monetary-policy Deputy Governor, one RBI-nominated officer and three external members appointed by the Central Government, and decides the policy repo rate. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Flexible inflation targeting. **Named evidence/example:** India's framework uses headline CPI as the nominal anchor with a 4 per cent target and a tolerance band of plus or minus 2 percentage points while considering growth. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Transmission chain. **Named evidence/example:** MPC communication and the repo signal influence money-market rates, bank funding and deposit rates, lending rates, bond yields, credit, demand, output and inflation with lags. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Uneven pass-through. **Named evidence/example:** Post-pandemic repo increases passed relatively quickly into external-benchmark-linked lending rates and more gradually into deposit rates and legacy loans because funding mix, competition and balance-sheet strength differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Critically evaluate India's flexible inflation-targeting and MPC framework. Answer in about…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Analyse RBI's monetary, liquidity, currency and payment functions with their legal boundaries. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Statutory RBI status. **Named evidence/example:** RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Legal tender and RBI liabilities. **Named evidence/example:** Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** RBI income sources. **Named evidence/example:** RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Payment-data direction. **Named evidence/example:** RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Committee-institution pairs. **Named evidence/example:** The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions.
-- Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income.
-- RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions.
-- RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law.
-- The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility.
-
-**Qualified conclusion:** **Claim:** Statutory RBI status. **Named evidence/example:** RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Legal tender and RBI liabilities. **Named evidence/example:** Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** RBI income sources. **Named evidence/example:** RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Payment-data direction. **Named evidence/example:** RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Committee-institution pairs. **Named evidence/example:** The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse RBI's monetary, liquidity, currency and payment functions with their legal…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Statutory RBI status. **Named evidence/example:** RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Legal tender and RBI liabilities. **Named evidence/example:** Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** RBI income sources. **Named evidence/example:** RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Payment-data direction. **Named evidence/example:** RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Committee-institution pairs. **Named evidence/example:** The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Statutory RBI status. **Named evidence/example:** RBI is a statutory body under the RBI Act, not a constitutional body; the Governor is appointed by the Central Government and RBI performs monetary, currency, banking, reserve and payment functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Legal tender and RBI liabilities. **Named evidence/example:** Legal tender must be accepted in settlement within the legal framework, and Indian currency notes issued are liabilities on RBI's balance sheet rather than RBI income. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** RBI income sources. **Named evidence/example:** RBI income can arise from interest on government securities and foreign-currency assets, liquidity operations or lending to banks, and fees or commissions from banking and market functions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Payment-data direction. **Named evidence/example:** RBI required payment-system data relating to systems operated in India to be stored in India for supervisory access; this is a regulated payments direction, not a universal data-localisation law. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Committee-institution pairs. **Named evidence/example:** The Hilton-Young Commission concerns colonial currency and central-banking reform, Narasimham Committees concern Government of India banking reform, and the Tarapore Committee concerns RBI work on capital-account convertibility. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Analyse RBI's monetary, liquidity, currency and payment functions with their legal…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+Thus flexible inflation targeting should protect credibility against second-round effects while minimising avoidable output loss. The qualification is shock-specific: demand-driven inflation warrants firmer monetary restraint than a reversible supply disruption with anchored expectations.

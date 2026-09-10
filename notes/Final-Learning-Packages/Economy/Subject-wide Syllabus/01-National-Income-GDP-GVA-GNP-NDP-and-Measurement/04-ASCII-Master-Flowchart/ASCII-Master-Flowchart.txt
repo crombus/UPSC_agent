@@ -1,74 +1,112 @@
-ASCII MASTER FLOW — PANEL 1/12: Territory before arithmetic
-DOMESTIC TERRITORY -> GDP
-NORMAL RESIDENCE -> GNP
-NFIA BRIDGE -> GDP + NFIA
-TRAP -> location and ownership are not the same boundary
-MUST REMEMBER: National accounts measure production, income and expenditure consistently:...
-
-ASCII MASTER FLOW — PANEL 2/12: Gross-to-net ladder
-GDP -> minus depreciation -> NDP
-GNP -> minus depreciation -> NNP
-GROSS -> capital consumption retained
-NET -> capital consumption deducted
-
-ASCII MASTER FLOW — PANEL 3/12: Three-method convergence
-PRODUCTION -> value added
-INCOME -> wages + profits + rent + mixed income
-EXPENDITURE -> C + I + G + (X - M)
-IDENTITY -> one output, three measurement routes
-
-ASCII MASTER FLOW — PANEL 4/12: GDP-GVA tax bridge
-GVA AT BASIC PRICES
-+ PRODUCT TAXES
-- PRODUCT SUBSIDIES
-= GDP AT MARKET PRICES
-
-ASCII MASTER FLOW — PANEL 5/12: Nominal-real decoder
-NOMINAL -> current prices -> size and ratios
-REAL -> base-year prices -> volume growth
-DEFLATOR -> nominal / real x 100
-LIMIT -> base revision changes the comparison frame
-
-ASCII MASTER FLOW — PANEL 6/12: Production-boundary gate
-IN -> current final goods and services
-IN -> permitted imputations and government services
-OUT -> embedded intermediate inputs and pure transfers
-OUT -> old assets except current brokerage
-CLOSE DISTINCTION: Nominal is current-price value, real is constant-price volume, a level...
-
-ASCII MASTER FLOW — PANEL 7/12: Informal-sector estimation
-MISSING COMPLETE ACCOUNTS
--> surveys + administrative sources
--> benchmark-indicator extrapolation
-LIMIT -> shocks can break historical ratios
-
-ASCII MASTER FLOW — PANEL 8/12: Base-year revision timeline
-2015 -> shift to 2011-12 base
-27 FEB 2026 -> release of 2022-23-base series
-19 JUL 2026 CUTOFF -> full back series pending
-RULE -> never splice unsupported series
-
-ASCII MASTER FLOW — PANEL 9/12: Capacity diagnosis
-ACTUAL < POTENTIAL -> negative output gap
-ACTUAL NEAR CAPACITY -> demand stimulus meets supply limits
-POTENTIAL -> labour + capital + productivity
-LIMIT -> capacity is estimated, not observed
-
-ASCII MASTER FLOW — PANEL 10/12: Saving-to-growth conversion
-SAVING -> INVESTMENT
-INVESTMENT -> capital formation
-ICOR -> capital needed per extra output
-HIGH ICOR -> weak conversion efficiency
-
-ASCII MASTER FLOW — PANEL 11/12: Cross-country comparison fork
-PPP -> common basket -> purchasing power
-MARKET RATE -> external value -> trade and debt
-SAME OUTPUT, DIFFERENT PRICE BASIS
-RULE -> quote source and reference year
-
-ASCII MASTER FLOW — PANEL 12/12: Examiner closing spine
-DEFINE -> boundary + formula
-VERIFY -> base year + period + vintage
-ANALYSE -> coverage + method + efficiency
-QUALIFY -> distribution + unpaid work + ecology
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State factor cost/basic/market-price...
++----------------------------------------------------------------------------------------------+
+| 1/12 - Circular flow                                                                         |
++----------------------------------------------------------------------------------------------+
+| PRODUCTION -> VALUE ADDED -> PRIMARY INCOME -> FINAL EXPENDITURE                             |
+| Conceptual identity: output = income = expenditure                                           |
+| Measured difference: statistical discrepancy from sources/timing/revisions                   |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 2/12 - Production boundary                                                                   |
++----------------------------------------------------------------------------------------------+
+| Output - intermediate consumption = GVA                                                      |
+| Final use, qualifying own-account output, inventories and imputations enter                  |
+| Transfers, capital gains and old-asset value do not; current service margins can             |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 3/12 - Territory and residence                                                               |
++----------------------------------------------------------------------------------------------+
+| Domestic territory -> GDP/NDP                                                                |
+| Normal residence -> GNI(GNP)/NNI                                                             |
+| GDP + net primary income from abroad = GNI                                                   |
+| Personal current transfers belong to disposable income, not automatically GNI                |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 4/12 - Gross and net                                                                         |
++----------------------------------------------------------------------------------------------+
+| GDP - CFC = NDP                                                                              |
+| GNI - CFC = NNI                                                                              |
+| CFC is estimated capital consumption, not repair cash or resource depletion                  |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 5/12 - Valuation bridge                                                                      |
++----------------------------------------------------------------------------------------------+
+| GVA basic + taxes on products - subsidies on products = GDP market prices                    |
+| Factor cost = basic price - other production taxes + other production subsidies              |
+| Basic price != factor cost; product tax != every tax                                         |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 6/12 - Aggregate ladder                                                                      |
++----------------------------------------------------------------------------------------------+
+| GDP -> +NPIFA -> GNI/GNP                                                                     |
+| GDP -> -CFC -> NDP                                                                           |
+| GNI -> -CFC -> NNI                                                                           |
+| GNI/NNI -> +net current transfers -> GNDI/NNDI                                               |
+| Per-capita NNI = NNI / population                                                            |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 7/12 - Expenditure route                                                                     |
++----------------------------------------------------------------------------------------------+
+| PFCE + GFCE + GFCF + stocks + valuables + exports - imports                                  |
+| Imports correct the domestic boundary                                                        |
+| Government capex != GFCE; inventory inclusion != healthy demand                              |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 8/12 - Price-volume decoder                                                                  |
++----------------------------------------------------------------------------------------------+
+| Nominal = current prices; real = constant/reference prices                                   |
+| Deflator = nominal / real x 100                                                              |
+| State level/share/growth, base year, period and vintage                                      |
+| India 2026: fixed 2022-23 base; do not invent chain-linked headline GDP                      |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 9/12 - Indian measurement process                                                            |
++----------------------------------------------------------------------------------------------+
+| NSO/NAD compiles using surveys + MCA21 + GST + government + RBI/sector inputs                |
+| FAE -> SAE -> PE -> revised/final estimates                                                  |
+| 2026 dates: 7 Jan | 27 Feb | 5 Jun; NAS publication 31 Aug                                   |
+| State DES compile regional accounts with national guidance                                   |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 10/12 - 2015 to 2026 methodology                                                             |
++----------------------------------------------------------------------------------------------+
+| 2015: 2011-12 base, GDP market-price headline, GVA basic, wider MCA21                        |
+| 2026: 2022-23 base, activity segregation, annual unincorporated surveys                      |
+| Double deflation in agriculture/manufacturing; PPI/IIP/BkSPI; SUT integration                |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 11/12 - Debates and limits                                                                   |
++----------------------------------------------------------------------------------------------+
+| Test MCA21 coverage/classification, deflator quality, proxy stability and transparency       |
+| GDP misses distribution, most unpaid care, depletion and many quality changes                |
+| Disaster reconstruction can raise flow GDP after wealth loss                                 |
+| HDI/MPI -> Topic 2; green accounting -> Topic 25                                             |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 12/12 - Exam spine                                                                           |
++----------------------------------------------------------------------------------------------+
+| PRELIMS: territory/residence -> gross/net -> basic/market -> nominal/real -> flow/stock      |
+| MAINS: define -> formula -> named dated evidence -> mechanism -> qualification               |
+| Verdict: GDP is the production anchor; use a wider dashboard for development                 |
++----------------------------------------------------------------------------------------------+

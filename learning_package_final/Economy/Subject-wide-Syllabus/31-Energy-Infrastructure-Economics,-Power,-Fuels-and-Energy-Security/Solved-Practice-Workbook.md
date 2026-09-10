@@ -1,1318 +1,681 @@
-# Energy Infrastructure Economics, Power, Fuels and Energy Security — Solved Practice Workbook
+# Economy Topic 31: Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-03. Uses the same source-bounded Economy distinctions and strict A-B-C-D rotation.
+**Status cutoff:** 10 September 2026.
+
+**Practice contract:** Exactly 32 original MCQs appear before PYQs. Correct answers rotate A -> B -> C -> D eight times. Every option has a question-specific explanation and every MCQ has a unique trap.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Primary and final energy?
+### Q1. Which statement correctly distinguishes primary and secondary energy?
 
-A. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-B. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-C. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-D. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
+A. Crude oil is primary, while petrol and electricity are secondary carriers.
+B. Electricity is always primary because it powers final use.
+C. Hydrogen is a geological primary resource in energy accounts.
+D. Final energy is measured before conversion losses.
 
-**Answer: A.**
-**Explanation:** Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: A**
 
-### Q2. Which option preserves the accounting or regulatory boundary of Primary and final energy?
+**Option explanations:**
+- **A is correct:** Crude exists before conversion; petrol and electricity are produced carriers.
+- **B is incorrect:** Electricity normally results from conversion of a primary source.
+- **C is incorrect:** Hydrogen must be produced and therefore acts as a carrier.
+- **D is incorrect:** Final energy reaches the user after upstream conversion and network losses.
 
-A. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-B. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-C. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-D. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
+**UPSC trap:** Primary, secondary and final describe positions in a conversion chain.
 
-**Answer: B.**
-**Explanation:** Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q2. Which classification is most accurate?
 
-### Q3. Which statement uses Primary and final energy without losing its vintage, basket or legal status?
+A. All biomass is non-commercial energy.
+B. Commercial/non-commercial and modern/traditional are separate axes.
+C. Every renewable source is non-commercial.
+D. Traditional fuel use proves absence of an electricity connection.
 
-A. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-B. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-C. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-D. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** Modern pellets and biogas may be traded commercially.
+- **B is correct:** A fuel can be commercial yet traditional, or renewable yet modern.
+- **C is incorrect:** Solar and wind electricity are commonly sold through markets and contracts.
+- **D is incorrect:** Fuel stacking can persist after electrification because of affordability or reliability.
 
-### Q4. Which option avoids the standard UPSC close-option trap about Primary and final energy?
+**UPSC trap:** Do not collapse market status into technology quality.
 
-A. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-B. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
-C. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-D. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
+### Q3. At 31 December 2025, what did the 51.93% figure denote?
 
-**Answer: D.**
-**Explanation:** Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Non-fossil share of total primary energy.
+B. Renewable share of final energy consumption.
+C. Non-fossil share of installed electricity capacity.
+D. Non-fossil share of April-December electricity generation.
 
-### Q5. Which statement correctly identifies Power and energy units?
+**Answer: C**
 
-A. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-B. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-C. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-D. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
+**Option explanations:**
+- **A is incorrect:** The Ministry table concerns installed power capacity, not primary energy.
+- **B is incorrect:** No final-consumption denominator appears in that capacity table.
+- **C is correct:** The annual report labels total non-fossil capacity as 51.93% of installed capacity.
+- **D is incorrect:** April-December 2025 non-fossil generation was 30.41%, a separate flow.
 
-**Answer: A.**
-**Explanation:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Capacity share and generation share use different denominators and periods.
 
-### Q6. Which option preserves the accounting or regulatory boundary of Power and energy units?
+### Q4. A 100 MW battery with 400 MWh usable energy can ideally discharge at rated power for approximately:
 
-A. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-B. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-C. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-D. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
+A. One hour
+B. Two hours
+C. Three hours
+D. Four hours
 
-**Answer: B.**
-**Explanation:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: D**
 
-### Q7. Which statement uses Power and energy units without losing its vintage, basket or legal status?
+**Option explanations:**
+- **A is incorrect:** One hour would use only 100 MWh of the stated energy.
+- **B is incorrect:** Two hours would use 200 MWh, half the stated store.
+- **C is incorrect:** Three hours would use 300 MWh, below the stated store.
+- **D is correct:** Energy divided by power gives four hours before efficiency and operating limits.
 
-A. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-B. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
-C. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-D. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
+**UPSC trap:** Storage must state both MW and MWh.
 
-**Answer: C.**
-**Explanation:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q5. Which statement about PLF is correct?
 
-### Q8. Which option avoids the standard UPSC close-option trap about Power and energy units?
+A. It measures utilisation of thermal capacity over a period, not thermal efficiency.
+B. It equals coal's share of total generation.
+C. It is the maximum demand met by a system.
+D. It measures billing and collection performance.
 
-A. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
-B. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-C. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-D. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is correct:** PLF compares actual thermal output with output possible at rated capacity.
+- **B is incorrect:** Generation share is an energy-mix ratio with another denominator.
+- **C is incorrect:** Peak demand met is an instantaneous power statistic.
+- **D is incorrect:** Billing and collection enter AT&C and revenue metrics.
 
-### Q9. Which statement correctly identifies Energy-service boundary?
+**UPSC trap:** Low PLF has several possible causes; do not diagnose efficiency from it.
 
-A. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-B. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-C. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-D. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
+### Q6. Which proposition about deficits is valid?
 
-**Answer: A.**
-**Explanation:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Zero peak deficit proves zero local outages.
+B. Peak deficit and energy deficit measure different dimensions of shortage.
+C. Energy deficit is measured only in MW.
+D. Peak deficit equals the ACS-ARR gap.
 
-### Q10. Which option preserves the accounting or regulatory boundary of Energy-service boundary?
+**Answer: B**
 
-A. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-B. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-C. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
-D. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
+**Option explanations:**
+- **A is incorrect:** National peak balance can coexist with local distribution failures.
+- **B is correct:** Peak deficit concerns MW at the maximum interval; energy deficit concerns cumulative supply.
+- **C is incorrect:** Energy deficit uses energy units or a percentage of requirement.
+- **D is incorrect:** ACS-ARR is financial under-recovery in Rs/kWh.
 
-**Answer: B.**
-**Explanation:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** National adequacy is not identical to local service reliability.
 
-### Q11. Which statement uses Energy-service boundary without losing its vintage, basket or legal status?
+### Q7. Why is security-constrained dispatch broader than a simple merit order?
 
-A. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
-B. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-C. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-D. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
+A. It ignores variable cost.
+B. It applies only to renewable generators.
+C. It includes congestion, reserves and technical operating limits.
+D. It fixes retail tariffs.
 
-**Answer: C.**
-**Explanation:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: C**
 
-### Q12. Which option avoids the standard UPSC close-option trap about Energy-service boundary?
+**Option explanations:**
+- **A is incorrect:** Variable cost remains important within the eligible set.
+- **B is incorrect:** Dispatch covers all scheduled resources under applicable rules.
+- **C is correct:** Grid security, ramping, minimum load and congestion constrain pure cost ranking.
+- **D is incorrect:** Retail tariff is determined by the relevant commission.
 
-A. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-B. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-C. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-D. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
+**UPSC trap:** Merit order is nested inside technical and security constraints.
 
-**Answer: D.**
-**Explanation:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q8. Which institution-function pair is correct?
 
-### Q13. Which statement correctly identifies Electricity value chain?
+A. CEA - retail tariff adjudication
+B. CERC - household electrification execution
+C. SERC - national load despatch
+D. Grid Controller India - national and regional system operation
 
-A. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-B. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-C. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
-D. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** CEA is the technical planning and standards authority.
+- **B is incorrect:** CERC regulates specified inter-state and central matters.
+- **C is incorrect:** SERC regulates state matters; SLDC performs state system operation.
+- **D is correct:** Grid Controller India operates NLDC and regional load-despatch functions.
 
-### Q14. Which option preserves the accounting or regulatory boundary of Electricity value chain?
+**UPSC trap:** Separate technical authority, regulator, network utility and operator.
 
-A. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
-B. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-C. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-D. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
+### Q9. What is the Electricity (Amendment) Bill, 2025 status at the cutoff used here?
 
-**Answer: B.**
-**Explanation:** Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. A draft proposal, with no located enactment replacing the 2003 Act.
+B. A constitutional amendment already in force.
+C. A CERC tariff regulation.
+D. A state code automatically binding nationwide.
 
-### Q15. Which statement uses Electricity value chain without losing its vintage, basket or legal status?
+**Answer: A**
 
-A. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-B. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-C. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-D. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
+**Option explanations:**
+- **A is correct:** The Ministry circulated a draft; no enactment was located by 10 September 2026.
+- **B is incorrect:** This is not a constitutional-amendment measure.
+- **C is incorrect:** A parliamentary Bill is not a commission regulation.
+- **D is incorrect:** A state code cannot enact a central parliamentary Bill.
 
-**Answer: C.**
-**Explanation:** Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Proposal, passage, assent and commencement are separate stages.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Electricity value chain?
+### Q10. Which tariff statement is correct?
 
-A. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-B. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-C. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-D. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
+A. A low consumer tariff always proves low system cost.
+B. Explicit subsidy and cross-subsidy have different payers and incidence.
+C. Regulatory assets eliminate the underlying cost.
+D. Fixed charges vary only with each kWh.
 
-**Answer: D.**
-**Explanation:** Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: B**
 
-### Q17. Which statement correctly identifies Real-time balancing?
+**Option explanations:**
+- **A is incorrect:** Low tariffs may conceal subsidy, debt or deferred maintenance.
+- **B is correct:** Budget subsidy is paid by government; cross-subsidy is borne by another class.
+- **C is incorrect:** A regulatory asset defers recovery and usually carries future cost.
+- **D is incorrect:** Fixed charges recover costs not proportional to current energy use.
 
-A. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-B. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
-C. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-D. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
+**UPSC trap:** Trace who pays now, later, through taxes or poor service.
 
-**Answer: A.**
-**Explanation:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q11. Which description of open access is most defensible?
 
-### Q18. Which option preserves the accounting or regulatory boundary of Real-time balancing?
+A. It provides free use of electricity networks.
+B. It abolishes universal-service obligations.
+C. It permits eligible users to choose supply while paying applicable network and system charges.
+D. It guarantees every purchase is renewable.
 
-A. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-B. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-C. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-D. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** Network use carries wheeling, transmission, loss and other lawful charges.
+- **B is incorrect:** Distribution obligations continue under statute and licence.
+- **C is correct:** Choice is combined with cost recovery for monopoly wires and system services.
+- **D is incorrect:** The source depends on the transaction; green open access is a specified subset.
 
-### Q19. Which statement uses Real-time balancing without losing its vintage, basket or legal status?
+**UPSC trap:** Supplier choice does not mean costless wires.
 
-A. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-B. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-C. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-D. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
+### Q12. Which statement about power exchanges is correct?
 
-**Answer: C.**
-**Explanation:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Day-ahead price is the retail tariff for all consumers.
+B. Exchanges replace every long-term PPA.
+C. Market coupling was universally complete before July 2025.
+D. They provide regulated short-term products while much procurement remains outside exchanges.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Real-time balancing?
+**Answer: D**
 
-A. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-B. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-C. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-D. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
+**Option explanations:**
+- **A is incorrect:** Exchange price excludes many retail network, loss and policy components.
+- **B is incorrect:** Long-term and bilateral contracts continue.
+- **C is incorrect:** CERC's July 2025 direction initiated phased work rather than proving completion.
+- **D is correct:** Day-ahead, real-time and term-ahead products form part of the procurement architecture.
 
-**Answer: D.**
-**Explanation:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Do not generalise one short-term price to the whole sector.
 
-### Q21. Which statement correctly identifies Natural monopoly and competition?
+### Q13. What is the proper role of deviation settlement?
 
-A. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
-B. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-C. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-D. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
+A. It prices departures from schedules to support discipline and balance.
+B. It is a long-term capacity contract.
+C. It replaces real-time system operation.
+D. It is a household efficiency subsidy.
 
-**Answer: A.**
-**Explanation:** Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: A**
 
-### Q22. Which option preserves the accounting or regulatory boundary of Natural monopoly and competition?
+**Option explanations:**
+- **A is correct:** DSM compares actual injection or drawal with schedule and applies settlement.
+- **B is incorrect:** Capacity contracts procure dependable capability over another horizon.
+- **C is incorrect:** Operators still deploy reserves and manage congestion.
+- **D is incorrect:** Demand-side efficiency is unrelated despite sharing the abbreviation DSM.
 
-A. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-B. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
-C. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-D. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
+**UPSC trap:** Spell out DSM because it has two common meanings.
 
-**Answer: B.**
-**Explanation:** Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q14. Which statement about ancillary services is correct?
 
-### Q23. Which statement uses Natural monopoly and competition without losing its vintage, basket or legal status?
+A. They are measured only by annual MWh.
+B. They procure response and reserves needed for frequency and reliability.
+C. They are identical to cross-subsidy.
+D. Only coal plants can provide them.
 
-A. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-B. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-C. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
-D. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** Response speed and availability matter in addition to energy.
+- **B is correct:** Ancillary products support balancing and contingencies.
+- **C is incorrect:** Cross-subsidy concerns tariff incidence between classes.
+- **D is incorrect:** Hydro, storage, gas, demand response and eligible generators can contribute.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Natural monopoly and competition?
+**UPSC trap:** Energy and reliability services are distinct products.
 
-A. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-B. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-C. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-D. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
+### Q15. AT&C loss primarily combines:
 
-**Answer: D.**
-**Explanation:** Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Only transformer heat loss.
+B. Only unmetered farm supply.
+C. Technical, billing and collection losses.
+D. The difference between coal and gas prices.
 
-### Q25. Which statement correctly identifies Institutional perimeter?
+**Answer: C**
 
-A. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-B. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-C. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-D. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
+**Option explanations:**
+- **A is incorrect:** Physical loss is only one component.
+- **B is incorrect:** Unmetered supply may affect estimation but does not exhaust the metric.
+- **C is correct:** The metric links input energy to revenue actually collected.
+- **D is incorrect:** Fuel-price comparison belongs to generation economics.
 
-**Answer: A.**
-**Explanation:** CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** AT&C is broader than theft and narrower than total financial loss.
 
-### Q26. Which option preserves the accounting or regulatory boundary of Institutional perimeter?
+### Q16. Which Ministry of Power FY 2024-25 pair is correct?
 
-A. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-B. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-C. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-D. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
+A. AT&C 21.91%; ACS-ARR Rs 0.69/kWh
+B. AT&C 12%; ACS-ARR zero
+C. AT&C 5.28%; ACS-ARR Rs 15.04/kWh
+D. AT&C 15.04%; ACS-ARR Rs 0.06/kWh
 
-**Answer: B.**
-**Explanation:** CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: D**
 
-### Q27. Which statement uses Institutional perimeter without losing its vintage, basket or legal status?
+**Option explanations:**
+- **A is incorrect:** These are the FY 2020-21 starting values in the comparison.
+- **B is incorrect:** These are RDSS targets, not the reported outcome pair.
+- **C is incorrect:** The numbers and units are reversed; 5.28 crore refers to meter installations.
+- **D is correct:** The annual report gives this FY 2024-25 national pair.
 
-A. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-B. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-C. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-D. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
+**UPSC trap:** Keep percentage loss and rupees-per-kWh gap in their units.
 
-**Answer: C.**
-**Explanation:** CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q17. How should UDAY and RDSS be distinguished?
 
-### Q28. Which option avoids the standard UPSC close-option trap about Institutional perimeter?
+A. UDAY centred on a 2015 debt reset plus reforms; RDSS is a later conditional infrastructure and performance scheme.
+B. RDSS is a new name for UDAY debt bonds.
+C. UDAY began after RDSS.
+D. Both are sections of the Electricity Act.
 
-A. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-B. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-C. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-D. CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is correct:** The schemes differ in date, instrument and principal mechanism.
+- **B is incorrect:** RDSS works and smart metering are not the old debt takeover.
+- **C is incorrect:** UDAY launched in November 2015; RDSS followed later.
+- **D is incorrect:** They are policy schemes, not sections of the Act.
 
-### Q29. Which statement correctly identifies Tariff and subsidy boundary?
+**UPSC trap:** A successor reform is not automatically a merger.
 
-A. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-B. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-C. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-D. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
+### Q18. What does a zero ACS-ARR gap fail to prove by itself?
 
-**Answer: A.**
-**Explanation:** An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. That a tariff order exists.
+B. That subsidy, dues and collections arrived on time and service improved.
+C. That average cost can be measured.
+D. That power purchase has a cost.
 
-### Q30. Which option preserves the accounting or regulatory boundary of Tariff and subsidy boundary?
+**Answer: B**
 
-A. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-B. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-C. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-D. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
+**Option explanations:**
+- **A is incorrect:** A tariff order can exist regardless of the gap.
+- **B is correct:** Accrual accounting can conceal cash timing, arrears and quality problems.
+- **C is incorrect:** The indicator presupposes measured cost and revenue.
+- **D is incorrect:** Power purchase remains a major ACS component.
 
-**Answer: B.**
-**Explanation:** An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Pair booked gap with cash flow and service quality.
 
-### Q31. Which statement uses Tariff and subsidy boundary without losing its vintage, basket or legal status?
+### Q19. Which coal statement is correct?
 
-A. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-B. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-C. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-D. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
+A. Coking and non-coking coal have identical uses.
+B. Imports prove India has no domestic production.
+C. Production, dispatch, plant receipt and generation are distinct stages.
+D. A mine award guarantees immediate output.
 
-**Answer: C.**
-**Explanation:** An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: C**
 
-### Q32. Which option avoids the standard UPSC close-option trap about Tariff and subsidy boundary?
+**Option explanations:**
+- **A is incorrect:** Coking coal is crucial for metallurgical use; non-coking serves power and others.
+- **B is incorrect:** India produced 1,047.523 MT in FY 2024-25 while importing coal.
+- **C is correct:** Quality and logistics create gaps between each stage.
+- **D is incorrect:** Clearances, development and evacuation precede production.
 
-A. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-B. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-C. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-D. An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
+**UPSC trap:** Follow the physical chain instead of treating one quantity as another.
 
-**Answer: D.**
-**Explanation:** An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q20. Which pair accurately states FY 2025-26 coal imports?
 
-### Q33. Which statement correctly identifies AT&C and ACS-ARR?
+A. Total 66.33 MT, all coking
+B. Total 180.04 MT, all non-coking
+C. Total 1,047.523 MT, all imports
+D. Total 246.37 MT: 66.33 coking and 180.04 non-coking
 
-A. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-B. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-C. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-D. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** 66.33 MT is only the coking component.
+- **B is incorrect:** 180.04 MT is only the non-coking component.
+- **C is incorrect:** 1,047.523 MT is FY 2024-25 domestic production.
+- **D is correct:** The two components sum to the Ministry's reported total.
 
-### Q34. Which option preserves the accounting or regulatory boundary of AT&C and ACS-ARR?
+**UPSC trap:** Production and import flows require the right year and category.
 
-A. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-B. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-C. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-D. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
+### Q21. Which statement about revised SHAKTI is accurate?
 
-**Answer: B.**
-**Explanation:** AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. It is a power-sector coal-linkage framework revised with Cabinet approval on 7 May 2025.
+B. It regulates city-gas pipelines.
+C. It is a renewable-certificate market.
+D. It abolishes every coal auction.
 
-### Q35. Which statement uses AT&C and ACS-ARR without losing its vintage, basket or legal status?
+**Answer: A**
 
-A. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-B. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-C. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-D. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
+**Option explanations:**
+- **A is correct:** SHAKTI governs specified coal-allocation and linkage routes for power.
+- **B is incorrect:** PNGRB regulates specified gas-network activities.
+- **C is incorrect:** REC operates under CERC regulations.
+- **D is incorrect:** The reform does not erase every auction or contract.
 
-**Answer: C.**
-**Explanation:** AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Coal linkage, mine auction and e-auction are different.
 
-### Q36. Which option avoids the standard UPSC close-option trap about AT&C and ACS-ARR?
+### Q22. Why can a coal plant become economically stranded?
 
-A. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-B. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-C. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-D. AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
+A. Every plant must close at the same age.
+B. Lower utilisation, policy change or cheaper alternatives can erode cash flow before debt recovery.
+C. Sunk cost is always recoverable.
+D. Environmental controls have no cost.
 
-**Answer: D.**
-**Explanation:** AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: B**
 
-### Q37. Which statement correctly identifies PPA and procurement risk?
+**Option explanations:**
+- **A is incorrect:** Retirement depends on economics, policy and system need.
+- **B is correct:** Unexpected utilisation and revenue changes can destroy asset value.
+- **C is incorrect:** Recovery depends on contracts and regulatory prudence.
+- **D is incorrect:** Retrofits can require substantial capital and operating spending.
 
-A. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-B. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-C. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-D. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
+**UPSC trap:** Low PLF alone does not prove stranding.
 
-**Answer: A.**
-**Explanation:** Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q23. Which petroleum-chain mapping is correct?
 
-### Q38. Which option preserves the accounting or regulatory boundary of PPA and procurement risk?
+A. Upstream refining; downstream exploration
+B. Midstream retail pricing; upstream city gas
+C. Upstream exploration/production; midstream transport/storage; downstream refining/marketing
+D. PNGRB regulates only upstream production
 
-A. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-B. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-C. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-D. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** Refining is downstream and exploration is upstream.
+- **B is incorrect:** Retail is downstream; city gas is a regulated network activity.
+- **C is correct:** This is the standard functional chain.
+- **D is incorrect:** PNGRB expressly excludes crude and gas production.
 
-### Q39. Which statement uses PPA and procurement risk without losing its vintage, basket or legal status?
+**UPSC trap:** Classify the activity before naming its regulator.
 
-A. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-B. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-C. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-D. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
+### Q24. Which PPAC FY 2025-26 provisional inference is correct?
 
-**Answer: C.**
-**Explanation:** Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. India produced more crude than products consumed.
+B. Gas imports were zero.
+C. Crude and gas had identical dependence.
+D. Crude dependence was 88.7%, while gas dependence was 50.1%.
 
-### Q40. Which option avoids the standard UPSC close-option trap about PPA and procurement risk?
+**Answer: D**
 
-A. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-B. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-C. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-D. Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
+**Option explanations:**
+- **A is incorrect:** Crude output was 28.0 MMT and product consumption 241.6 MMT, although categories differ.
+- **B is incorrect:** LNG imports were 34,427 MMSCM.
+- **C is incorrect:** The ratios differ and use commodity-specific denominators.
+- **D is correct:** This reproduces PPAC's ratios with the provisional-year caveat.
 
-**Answer: D.**
-**Explanation:** Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Do not infer refinery weakness from crude dependence.
 
-### Q41. Which statement correctly identifies Access and energy poverty?
+### Q25. What is PNGRB's statutory perimeter?
 
-A. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-B. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-C. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-D. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
+A. Specified downstream/network petroleum and gas activities, excluding crude and gas production.
+B. All electricity tariffs.
+C. Coal-mine safety.
+D. Nuclear fuel regulation.
 
-**Answer: A.**
-**Explanation:** Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: A**
 
-### Q42. Which option preserves the accounting or regulatory boundary of Access and energy poverty?
+**Option explanations:**
+- **A is correct:** This is the perimeter stated by PNGRB under its 2006 Act.
+- **B is incorrect:** Electricity commissions regulate electricity tariffs.
+- **C is incorrect:** Coal institutions perform mining functions.
+- **D is incorrect:** Atomic-energy institutions govern nuclear fuel.
 
-A. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-B. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-C. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-D. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
+**UPSC trap:** The upstream-production exclusion is a frequent trap.
 
-**Answer: B.**
-**Explanation:** Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q26. What does a strategic petroleum reserve do?
 
-### Q43. Which statement uses Access and energy poverty without losing its vintage, basket or legal status?
+A. Permanently eliminates imports.
+B. Provides a finite physical buffer while wider diversification remains necessary.
+C. Hedges only the exchange rate.
+D. Guarantees indefinite retail-price stability.
 
-A. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-B. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-C. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-D. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** Finite inventory cannot replace continuing supply.
+- **B is correct:** Stocks buy response time and complement source, route and contract diversity.
+- **C is incorrect:** Financial instruments hedge price or currency; a reserve supplies crude.
+- **D is incorrect:** Drawdown is limited and cannot neutralise every long shock.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Access and energy poverty?
+**UPSC trap:** Capacity, fill level and days of cover are separate.
 
-A. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-B. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-C. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-D. Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
+### Q27. Which statement about renewable auctions is correct?
 
-**Answer: D.**
-**Explanation:** Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Tendered capacity is already generating.
+B. The winning bid is the complete retail tariff.
+C. A low bid still depends on finance, land, grid, commissioning and buyer payment.
+D. Auctions eliminate curtailment.
 
-### Q45. Which statement correctly identifies Coal system boundary?
+**Answer: C**
 
-A. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-B. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-C. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-D. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
+**Option explanations:**
+- **A is incorrect:** Tender and commissioning are different stages.
+- **B is incorrect:** Network, balancing and retail components remain.
+- **C is correct:** These delivery conditions determine whether a bid becomes service.
+- **D is incorrect:** Congestion and security constraints can still curtail output.
 
-**Answer: A.**
-**Explanation:** Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** Follow status from announcement to generation.
 
-### Q46. Which option preserves the accounting or regulatory boundary of Coal system boundary?
+### Q28. Which statement best explains curtailment?
 
-A. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-B. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-C. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-D. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
+A. It is always lack of sun or wind.
+B. It is storage discharge.
+C. It proves plant inefficiency.
+D. Available generation may be reduced because of congestion, security or demand constraints.
 
-**Answer: B.**
-**Explanation:** Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: D**
 
-### Q47. Which statement uses Coal system boundary without losing its vintage, basket or legal status?
+**Option explanations:**
+- **A is incorrect:** Weather unavailability is not curtailment of available energy.
+- **B is incorrect:** Storage discharge adds supply rather than withholding it.
+- **C is incorrect:** A plant may be technically available when the grid cannot accept output.
+- **D is correct:** This definition preserves the system-operator boundary.
 
-A. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-B. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-C. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-D. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
+**UPSC trap:** Variability, outage and curtailment are not synonyms.
 
-**Answer: C.**
-**Explanation:** Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q29. Which GEC-II statement is correct?
 
-### Q48. Which option avoids the standard UPSC close-option trap about Coal system boundary?
+A. It targets about 10,750 ckm and 27,500 MVA to integrate about 20 GW in seven states.
+B. It is a coal-mine scheme.
+C. Its design proves all lines are complete.
+D. It finances only rooftop panels.
 
-A. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-B. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-C. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-D. Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is correct:** These are MNRE's official scheme-design figures.
+- **B is incorrect:** The corridor concerns renewable-power transmission.
+- **C is incorrect:** Targets do not establish completion.
+- **D is incorrect:** The scheme builds intra-state transmission infrastructure.
 
-### Q49. Which statement correctly identifies Petroleum chain and regulator?
+**UPSC trap:** Circuit-km, MVA and GW measure different things.
 
-A. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-B. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-C. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-D. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
+### Q30. Which statement about storage is correct?
 
-**Answer: A.**
-**Explanation:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A. Storage generates primary energy.
+B. Storage adds timing and reliability value but returns less energy than it absorbs.
+C. A MW rating fully states duration.
+D. Pumped storage has no ecological constraints.
 
-### Q50. Which option preserves the accounting or regulatory boundary of Petroleum chain and regulator?
+**Answer: B**
 
-A. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-B. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-C. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-D. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
+**Option explanations:**
+- **A is incorrect:** Storage shifts converted electricity; it does not create primary energy.
+- **B is correct:** Round-trip loss is exchanged for timing and system service.
+- **C is incorrect:** MWh and the MW/MWh ratio are required.
+- **D is incorrect:** PSP depends on site, water, ecology and civil works.
 
-**Answer: B.**
-**Explanation:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** No storage claim is complete without power, energy and efficiency.
 
-### Q51. Which statement uses Petroleum chain and regulator without losing its vintage, basket or legal status?
+### Q31. Which green-hydrogen status statement is accurate?
 
-A. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-B. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-C. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-D. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
+A. The 2030 target was achieved in 2023.
+B. Electrolyser capacity equals hydrogen output.
+C. The target and awards must be separated from commissioned production.
+D. Green hydrogen is mined.
 
-**Answer: C.**
-**Explanation:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Answer: C**
 
-### Q52. Which option avoids the standard UPSC close-option trap about Petroleum chain and regulator?
+**Option explanations:**
+- **A is incorrect:** The mission sets a future annual-production target.
+- **B is incorrect:** Electrolyser and hydrogen capacity use different units.
+- **C is correct:** The Survey reports allocation and awards, not automatic operating output.
+- **D is incorrect:** Hydrogen is produced as an energy carrier.
 
-A. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-B. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-C. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-D. Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
+**UPSC trap:** Target, allocation, award and commissioning are separate.
 
-**Answer: D.**
-**Explanation:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### Q32. Which comparison is correct?
 
-### Q53. Which statement correctly identifies Crude imports and product trade?
+A. REC and carbon credit are always the same.
+B. PAT ESCert certifies renewable generation.
+C. ESO is a crude-stock obligation.
+D. REC represents eligible renewable MWh; carbon credits and ESCerts have different bases.
 
-A. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-B. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-C. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-D. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Option explanations:**
+- **A is incorrect:** Renewable attributes and GHG units have different rules.
+- **B is incorrect:** ESCert represents verified energy saving.
+- **C is incorrect:** ESO concerns energy storage in the notified trajectory.
+- **D is correct:** The instruments are not automatically fungible.
 
-### Q54. Which option preserves the accounting or regulatory boundary of Crude imports and product trade?
-
-A. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-B. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-C. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-D. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-
-**Answer: B.**
-**Explanation:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses Crude imports and product trade without losing its vintage, basket or legal status?
-
-A. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-B. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-C. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-D. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-
-**Answer: C.**
-**Explanation:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Crude imports and product trade?
-
-A. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-B. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-C. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-D. High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-
-**Answer: D.**
-**Explanation:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Energy-security dimensions?
-
-A. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-B. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-C. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-D. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-
-**Answer: A.**
-**Explanation:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Energy-security dimensions?
-
-A. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-B. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-C. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-D. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-
-**Answer: B.**
-**Explanation:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Energy-security dimensions without losing its vintage, basket or legal status?
-
-A. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-B. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-C. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-D. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-
-**Answer: C.**
-**Explanation:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Energy-security dimensions?
-
-A. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-B. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-C. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-D. Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-
-**Answer: D.**
-**Explanation:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies Renewable integration?
-
-A. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-B. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-C. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-D. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-
-**Answer: A.**
-**Explanation:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of Renewable integration?
-
-A. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-B. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-C. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-D. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-
-**Answer: B.**
-**Explanation:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses Renewable integration without losing its vintage, basket or legal status?
-
-A. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-B. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-C. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-D. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-
-**Answer: C.**
-**Explanation:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Renewable integration?
-
-A. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-B. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-C. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-D. Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-
-**Answer: D.**
-**Explanation:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies RPO, REC and finance?
-
-A. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-B. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-C. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-D. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-
-**Answer: A.**
-**Explanation:** RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of RPO, REC and finance?
-
-A. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-B. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-C. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-D. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-
-**Answer: B.**
-**Explanation:** RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses RPO, REC and finance without losing its vintage, basket or legal status?
-
-A. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-B. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-C. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-D. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-
-**Answer: C.**
-**Explanation:** RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about RPO, REC and finance?
-
-A. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-B. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-C. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-D. RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-
-**Answer: D.**
-**Explanation:** RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Energy efficiency and rebound?
-
-A. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-B. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-C. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-D. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-
-**Answer: A.**
-**Explanation:** Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Energy efficiency and rebound?
-
-A. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-B. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-C. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-D. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-
-**Answer: B.**
-**Explanation:** Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Energy efficiency and rebound without losing its vintage, basket or legal status?
-
-A. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-B. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-C. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-D. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-
-**Answer: C.**
-**Explanation:** Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Energy efficiency and rebound?
-
-A. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-B. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-C. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-D. Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-
-**Answer: D.**
-**Explanation:** Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Fuel pricing and transition?
-
-A. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-B. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-C. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-D. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-
-**Answer: A.**
-**Explanation:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Fuel pricing and transition?
-
-A. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-B. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-C. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-D. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-
-**Answer: B.**
-**Explanation:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Fuel pricing and transition without losing its vintage, basket or legal status?
-
-A. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-B. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-C. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-D. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-
-**Answer: C.**
-**Explanation:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Fuel pricing and transition?
-
-A. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-B. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-C. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-D. Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-
-**Answer: D.**
-**Explanation:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Targets and legal status?
-
-A. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-B. Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-C. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-D. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-
-**Answer: A.**
-**Explanation:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Targets and legal status?
-
-A. Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-B. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-C. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-D. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-
-**Answer: B.**
-**Explanation:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Targets and legal status without losing its vintage, basket or legal status?
-
-A. A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-B. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-C. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-D. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-
-**Answer: C.**
-**Explanation:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Targets and legal status?
-
-A. Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-B. Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-C. Transmission and distribution wires have strong natural-monopoly features, while generation, trading or retail arrangements may support competition under regulated access, settlement and reliability rules.
-D. A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-
-**Answer: D.**
-**Explanation:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**UPSC trap:** One REC equals one eligible MWh, not one tonne CO2e.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+**Official-key discipline:** Mains wording below is reproduced from the verified local official-paper route. These are learner model answers, not UPSC model answers. An objective answer letter is shown only after an exact authenticated question-paper/set-to-key mapping; no letter is inferred from a neutral route.
 
-Audited ledgers route the 2018 energy-access, 2020 solar, 2021 Green Grid, 2022 renewable-target and 2025 clean-technology demands, plus objective concepts on PNGRB, coal institutions, solar regulation and ethanol feedstocks. The Basic/practice firewall carries them without inferring objective answers.
+### Verified Mains PYQ 1 — GS-III 2018 — 10 marks, 150 words
 
-### OWNER PYQ LEDGER EXTRACTS
+**Question:** “Access to affordable, reliable, sustainable and modern energy is the sine qua non to achieve Sustainable Development Goals (SDGs).” Comment on the progress made in India in this regard.
 
-#### 20. PYQ closure
+**Model answer:** India has moved from access scarcity toward service-quality and transition challenges. Electrification expanded network reach, while the Ministry of Power reports FY 2024-25 national energy and peak deficits of only 0.1% and 0.0%. Reliable electricity supports health facilities, digital education, irrigation and enterprise; clean cooking reduces indoor pollution and women's time burden. Yet connection is not continuous supply: affordability, voltage, outages, refill cost and productive use remain uneven. DISCOM weakness matters because a financially stressed last mile cannot maintain wires or procure power. Sustainability also requires efficiency, renewable integration, storage and cleaner fuels rather than only more capacity. Thus progress is substantial in physical access and aggregate adequacy, but SDG 7 demands an outcome test: affordable hours of quality power, clean cooking actually used, and resilient low-emission service for vulnerable households.
 
-##### 20.1 2018 GS-III — energy access and SDGs
+**Why this earns marks:** The directive is answered through claim -> named evidence -> analysis -> qualification, with unit, date, denominator and status preserved.
 
-**Demand:** “Access to affordable, reliable, sustainable and modern energy” as a development
-driver.
+### Verified Mains PYQ 2 — GS-III 2020 — 15 marks, 250 words
 
-**150-word architecture**
+**Question:** Describe the benefits of deriving electric energy from sunlight in contrast to the conventional energy generation. What are the initiatives offered by our Government for this purpose?
 
-1. Define access as connection + reliability + affordability + clean cooking.
-2. Link to SDG 7 and transmission to health, education, livelihoods, gender and industry.
-3. Progress: grid/household connections, clean cooking, efficiency and renewables.
-4. Gaps: outages, quality, refill/consumption affordability, DISCOM viability, remote areas.
-5. Way forward: reliable distribution, lifeline support, distributed energy, clean cooking,
-   productive-use finance and efficiency.
+**Model answer:** Solar electricity has no fuel purchase or combustion at generation, is modular and quick to deploy, and can serve utility, rooftop, pump and remote loads. It reduces marginal fuel-import exposure and local air pollution compared with fossil generation. Government instruments include solar parks and competitive procurement; PM Surya Ghar for rooftops; PM-KUSUM for farm applications; Green Energy Corridors; renewable obligations and RECs; domestic-manufacturing support; and storage procurement/VGF. Economic Survey 2025-26 reports 135.81 GW installed solar capacity by December 2025 and 8 GW rooftop capacity under PM Surya Ghar, but installed MW is not annual generation. Solar output is daytime-variable, needs land and transmission, and creates evening ramps, mineral and recycling issues. Solar's advantage is therefore strongest when capacity is integrated with grids, storage, demand response, domestic capability and ecological siting, and judged by reliable delivered energy rather than the winning bid.
 
-**Conclusion:** Count energy services and development outcomes, not only connected premises.
+**Why this earns marks:** The directive is answered through claim -> named evidence -> analysis -> qualification, with unit, date, denominator and status preserved.
 
-##### 20.2 2020 GS-III — solar versus conventional energy
+### Verified Mains PYQ 3 — GS-III 2021 — 10 marks, 150 words
 
-**Demand:** Benefits and government initiatives.
+**Question:** Explain the purpose of the Green Grid Initiative launched at World Leaders Summit of the COP26 UN Climate Change Conference in Glasgow in November 2021. When was this idea first floated in the International Solar Alliance?
 
-- economic: no fuel import, modularity, falling project costs, jobs, distributed access;
-- environmental: low operating emissions and pollution;
-- constraints: variability, land, grid, storage, materials, recycling and finance;
-- initiatives: National Solar Mission, solar parks, rooftop programmes, PM-KUSUM, Green
-  Energy Corridors, auctions and RPO.
+**Model answer:** The Green Grids Initiative-One Sun One World One Grid seeks interconnected regional and global grids that move renewable electricity across time zones. A wider balancing area can use geographic diversity, share reserves, reduce curtailment and improve access to clean power. India first presented the transnational solar-grid idea at the International Solar Alliance's First Assembly in October 2018. Its economic logic is that sunlight available in one region can serve evening demand elsewhere through transmission. Yet cross-border lines do not automatically create trade. Common technical codes, transparent scheduling and settlement, finance, cyber security, sovereignty safeguards and mutual trust are required. It complements rather than replaces domestic corridors, storage and demand response. Interconnection can lower balancing cost and improve resilience only when market rules and political risks are managed.
 
-**Judgement:** Solar is central but requires grid, storage, manufacturing and land safeguards;
-it is not a standalone replacement for the whole power system.
+**Why this earns marks:** The directive is answered through claim -> named evidence -> analysis -> qualification, with unit, date, denominator and status preserved.
 
-##### 20.3 2022 GS-III — renewable target and fossil-fuel subsidy shift
+### Verified Mains PYQ 4 — GS-III 2022 — 15 marks, 250 words
 
-Answer in five steps:
+**Question:** Do you think India will meet 50 percent of its energy needs from renewable energy by 2030? Justify your answer. How will the shift of subsidies from fossil fuels to renewables help achieve the above objective? Explain.
 
-1. Clarify the dated target and distinguish capacity from generation.
-2. Explain security, pollution, climate and industrial gains.
-3. Identify fossil support explicitly: consumer subsidy, producer support, tax concession,
-   below-cost finance or uncompensated externality are not identical.
-4. Reform gradually through transparent accounting, carbon/efficiency signals and targeted
-   household support.
-5. Invest savings in grids, storage, clean cooking, worker/region transition and innovation.
+**Model answer:** The target must be stated correctly: India's COP26 commitment concerned about 50% of cumulative installed electric-power capacity from non-fossil sources by 2030, not half of total primary-energy consumption. India had reached 51.93% non-fossil installed capacity by 31 December 2025, while non-fossil generation was 30.41% in April-December 2025. Capacity therefore does not settle reliable energy contribution. Shifting support can improve relative prices by reducing general fossil consumption or producer support, financing renewable auctions, grids, storage, efficiency and targeted access, and internalising pollution and import risk. Abrupt withdrawal of lifeline electricity or clean-cooking support would be regressive; coal regions, workers and legacy debt need transition assistance. Renewable subsidies can also cause land, manufacturing or fiscal distortions. The appropriate shift is from general price suppression and unpriced externalities toward transparent, competitive support for generation, transmission, storage, demand flexibility and vulnerable users. Success should be measured by generation, curtailment, system cost, reliability and emissions, not capacity alone.
 
-##### 20.4 2021 GS-III — Green Grid Initiative and International Solar Alliance
+**Why this earns marks:** The directive is answered through claim -> named evidence -> analysis -> qualification, with unit, date, denominator and status preserved.
 
-**Institutional facts**
+### Verified Mains PYQ 5 — GS-III 2025 — 10 marks, 150 words
 
-- ✅ The **International Solar Alliance (ISA)** was jointly launched by India and France at
-  COP21 in Paris in 2015; it is a treaty-based intergovernmental organisation headquartered
-  in Gurugram.
-- ✅ The **Green Grids Initiative–One Sun One World One Grid (GGI-OSOWOG)** was launched by
-  India and the United Kingdom at COP26 in Glasgow in 2021.
-- ❌ ISA and GGI-OSOWOG are not interchangeable names for one institution.
+**Question:** How can India achieve energy independence through clean technology by 2047? How can biotechnology play a crucial role in this endeavour?
 
-**Purpose and economic logic**
+**Model answer:** Energy independence should mean lower strategic vulnerability, not autarky. India can reduce exposure through efficiency, electrification, diversified renewable and nuclear supply, stronger grids, storage, green hydrogen for hard-to-abate uses, domestic clean-technology manufacturing, critical-mineral partnerships and recycling. PPAC's provisional FY 2025-26 crude dependence of 88.7% shows why transport and industrial substitution matter, while reliability still requires firm capacity and flexible demand. Biotechnology can produce advanced biofuels, biogas and sustainable aviation-fuel feedstocks from residues, improve energy crops and microbial conversion, and support waste-to-energy pathways. Food-water-land competition, lifecycle emissions, biodiversity, logistics and cost must be audited. A resilient 2047 pathway combines demand reduction, clean carriers, domestic capability and diversified imports, judged by delivered cost, emissions and security rather than literal zero imports.
 
-```text
-different time zones + diverse renewable profiles
- -> interconnected regional/transnational grids
- -> wider balancing area and solar-power exchange
- -> lower curtailment, reserve and storage pressure
- -> improved clean-energy access and system resilience
-```
+**Why this earns marks:** The directive is answered through claim -> named evidence -> analysis -> qualification, with unit, date, denominator and status preserved.
 
-**Constraints:** cross-border transmission finance, technical standards, market settlement,
-sovereignty, cyber security, geopolitical trust and unequal cost-benefit distribution.
+### Objective PYQ official-key discipline
 
-**Answer judgement:** Cross-border grids can complement domestic storage and flexibility, but
-cannot substitute for strong national grids, financially viable utilities or agreed governance.
-
-##### 20.5 2025 GS-III — energy independence through clean technology by 2047
-
-The question has two demands; this owner closes the clean-technology half:
-
-- efficiency and electrification;
-- renewables plus transmission/storage/flexibility;
-- nuclear and hydro where viable;
-- domestic clean-equipment and critical-mineral strategy;
-- green hydrogen/bioenergy for fit-for-purpose sectors;
-- oil/gas diversification and strategic reserves during transition;
-- DISCOM and power-market reform;
-- recycling, R&D and just transition.
-
-Biotechnology support includes advanced biofuels, compressed biogas, biomass conversion,
-enzymes/algae and waste-to-energy pathways; technical depth remains with S&T/Environment.
-
-##### 20.6 2025 GS-I — ecological and economic benefits of solar energy
-
-Separate:
-
-- **ecological:** lower operating emissions/air pollution, low operating water use relative
-  to thermal options, distributed deployment;
-- **economic:** import substitution, price hedge, jobs/manufacturing, farm/rooftop income and
-  remote access;
-- **qualification:** land, biodiversity, materials, recycling, variability and grid cost.
-
-##### 20.7 2025 Prelims — PNGRB and PM Surya Ghar
-
-- PNGRB: midstream/downstream regulation within statute; crude/gas production is upstream.
-- PM Surya Ghar: residential rooftop target plus training/capacity-building architecture;
-  distinguish target, sanction, installation and generation.
-
-#### 24. Ethanol, feedstock and biofuel policy trade-offs (declared PYQ demand)
-
-##### 24.1 India's Ethanol Blended Petrol (EBP) Programme — dated anchor
-
-- 📰 India reached **20% ethanol blending in petrol (E20) during 2025**, reported by the
-  Ministry of Petroleum & Natural Gas as achieved **about five years ahead of the original
-  2030 target**, up from about 1.5% blending in 2014. Reported associated effects include
-  foreign-exchange savings of roughly **Rs 1.36 lakh crore**, payments of roughly **Rs 1.96
-  lakh crore to distilleries** and **Rs 1.18 lakh crore to farmers** since the programme's
-  scale-up, and an estimated reduction of about **698 lakh tonnes of CO2** emissions.
-  ⚠️ **Status caution:** these are government-reported programme totals as of the 2025/2026
-  official announcements; re-verify the exact figures and reporting date against the latest
-  Ministry of Petroleum & Natural Gas/PIB release before quoting them as current, since
-  cumulative totals are updated each supply year.
-
-##### 24.2 Feedstock comparison — why the 2025 Prelims question matters
-
-| Producer | Principal feedstock | Core economic logic |
+| Year | Routed demand | Key treatment |
 |---|---|---|
-| ✅ **Brazil** | Sugarcane (direct cane juice/molasses route) | High photosynthetic efficiency and an established cane-processing/sugar-mill base support large-scale, relatively low-cost ethanol production; flex-fuel vehicles absorb high blends. |
-| ✅ **United States** | Maize/corn (starch route) | Vast domestic corn acreage and processing capacity support scale, but the starch-to-sugar conversion step is an additional cost layer compared with direct cane-juice fermentation. |
-| ✅ **India** | Sugarcane juice/molasses **and** foodgrain (surplus rice/damaged grain, maize) — a dual-feedstock approach | Sugarcane supplies most current volume; grain-based capacity was added to accelerate the blending timeline and diversify feedstock risk. |
-
-##### 24.3 Policy trade-offs this file must carry (not merely list feedstocks)
-
-- **Food-versus-fuel trade-off:** diverting foodgrain/sugarcane to ethanol competes with food,
-  fodder and sugar-consumption uses; India's approach of prioritising sugarcane and surplus/
-  damaged grain (rather than diverting the entire foodgrain stock) is a deliberate mitigation,
-  not a complete removal of the trade-off.
-- **Water-intensity trade-off:** sugarcane is a water-intensive crop; expanding cane area for
-  ethanol can intensify the same groundwater/canal-water pressure already flagged for MSP-
-  linked sugarcane cultivation (cross-link: Topic 28 §4.2-4.3 water-energy-crop nexus).
-  Grain-based ethanol shifts (rather than removes) this pressure to grain-growing regions.
-- **MSP/price-support interaction:** sugarcane's Fair and Remunerative Price and state advised
-  prices already create a minimum-price floor independent of ethanol demand; ethanol
-  procurement adds a second demand channel that can support cane prices but also raise
-  fiscal/pricing complexity if global sugar or ethanol prices move against the mill economics.
-- **Import-substitution benefit versus engine/vehicle-compatibility cost:** higher blending
-  reduces crude-oil import dependence (linking to §13 energy-security), but requires
-  E20-compatible engines, fuel-system materials and retail-infrastructure upgrades — a
-  transition cost separate from the feedstock-supply question.
-- **Diversification benefit versus single-crop dependence risk:** relying heavily on
-  sugarcane (as Brazil does) concentrates blending-programme risk on one crop's weather and
-  price cycle; India's dual-feedstock design reduces this concentration risk but adds the
-  food-security sensitivity noted above.
+| 2018 | Solar power, silicon wafers and tariff regulation | Answer withheld: no authenticated local final key mapping used. |
+| 2019 | PNGRB role and appellate route | Answer withheld: no authenticated local final key mapping used. |
+| 2022 | Coal Controller's Organisation functions | Answer withheld: no authenticated local final key mapping used. |
+| 2023 | Coal thermal plants, seawater and water stress | Answer withheld: no authenticated local final key mapping used. |
+| 2025 | PNGRB regulated activities | Official Set-A key exists locally, but the full official option set is not reproduced here; no letter is inferred. |
+| 2025 | Brazil/USA ethanol feedstock comparison | Official Set-A key exists locally, but the full official option set is not reproduced here; no letter is inferred. |
+| 2026 | Green-hydrogen pathways and mission | Repository route labels the key provisional; no answer letter is recorded. |
 
-> 🔑 **Prelims trap:** Brazil's ethanol economics and the US's ethanol economics rest on
-> different feedstocks with different conversion chemistry (direct sugar fermentation versus
-> starch hydrolysis); India's programme deliberately combines both feedstock families rather
-> than replicating either country's single-feedstock model.
+**Rule:** Concept teaching never manufactures an official option from a neutral routing summary.
 
-#### Recent PYQ Integration (2024-2025)
+### ORIGINAL MAINS 1 — 10 MARKS — 150 words
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+**Question:** Distinguish installed capacity, generation, peak demand, energy supplied and final consumption. Why does the distinction matter for policy?
 
-- **Years represented:** 2025
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+**Model answer (138 native-body words):**
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | Prelims GS-I | 60 | Activities regulated by the Petroleum and Natural Gas Regulatory Board | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2025 | Prelims GS-I | 63 | Ethanol producers Brazil and USA - feedstock comparison | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+<!-- MODEL-BODY-START 1 -->
+Installed capacity is the rated power of generating assets, measured in MW or GW. Generation is electrical energy actually produced during a period, measured in MWh, GWh or BU. Peak demand is the highest instantaneous requirement; peak met records the maximum supplied at that interval. Energy supplied is the cumulative electricity delivered during a period. Final consumption is energy used by end-users after network and transformation losses and may include fuels beyond electricity. These distinctions change policy conclusions. At 31 December 2025, non-fossil sources were 51.93% of installed power capacity, but their April-December 2025 generation share was 30.41%. Storage also needs both MW and MWh. A credible evaluation must therefore attach unit, period, denominator and system boundary to every figure, then test whether capacity is available at peak, reaches consumers reliably and produces affordable useful service.
+<!-- MODEL-BODY-END 1 -->
 
-##### What this owner must now support
+**Examiner check:** Directive fidelity, dated evidence, mechanism analysis and qualification are explicit.
 
-- Activities regulated by the Petroleum and Natural Gas Regulatory Board
-- Ethanol producers Brazil and USA - feedstock comparison
+### ORIGINAL MAINS 2 — 10 MARKS — 150 words
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Question:** Why are DISCOM finances central to reliable electricity supply? Suggest a compact reform sequence.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Model answer (128 native-body words):**
 
-#### Historical PYQ Integration (2018-2023)
+<!-- MODEL-BODY-START 2 -->
+DISCOMs are the commercial hinge between generators and consumers. Inflow depends on accurate metering, billing, collection, timely state subsidy and government-dues payment; outflow includes power purchase, maintenance, employees, finance and capital works. Technical loss, theft, weak billing, delayed tariffs, unpaid subsidy and inflexible PPAs can create a cycle of borrowing, generator dues and poor service. Ministry of Power reports FY 2024-25 AT&C loss of 15.04% and ACS-ARR gap of Rs 0.06/kWh, but national averages do not prove every utility is healthy. Reform should sequence feeder and transformer accounting, reliable meters and grievance systems, targeted lifeline support, timely tariffs and subsidy payment, procurement review, loss-reduction investment and transparent regulation. RDSS should be judged by validated cash recovery, outage reduction and service, not meter installation alone.
+<!-- MODEL-BODY-END 2 -->
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+**Examiner check:** Directive fidelity, dated evidence, mechanism analysis and qualification are explicit.
 
-- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 8
+### ORIGINAL MAINS 3 — 15 MARKS — 250 words
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 1 | Energy access for Sustainable Development Goals in India | Comment · 10 marks · 150 words | Cross-routed to general-infrastructure and exam-complete Core energy-access owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2018 | Prelims GS-I | 67 | Solar power production silicon wafers and tariff regulation India | Objective question; official key unavailable locally | Cross-routed to solar-technology and energy-regulation owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 74 | Petroleum Natural Gas Regulatory Board role and appeals | Objective question; official key unavailable locally | Regulatory, petroleum-sector and consolidated institutional owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | GS-III | 16 | Solar energy benefits versus conventional energy and government initiatives | Describe · 15 marks · 250 words | Cross-routed to renewable-technology and exam-complete Core energy-infrastructure owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-III | 6 | Green Grid Initiative purpose at COP26 and ISA origin | Explain · 10 marks · 150 words | Cross-routed to climate/solar and exam-complete Core grid-integration owners | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 12 | Renewable energy 2030 target and shift from fossil fuel subsidies | Justify · 15 marks · 250 words | Cross-routed to climate-transition and exam-complete Core subsidy/energy-market owner | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | Prelims GS-I | 72 | Coal Controllers Organization statutory role and functions | Objective question; official key unavailable locally | Cross-routed to industrial-policy and coal-sector owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 66 | Coal-based thermal power plants India seawater water-stress | Objective question; official key unavailable locally | Cross-routed to spatial-resource and thermal-infrastructure owners; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+**Question:** Analyse the economics of integrating variable renewable energy into India's power system.
 
-##### What this owner must now support
+**Model answer (175 native-body words):**
 
-- Energy access for Sustainable Development Goals in India
-- Solar power production silicon wafers and tariff regulation India
-- Petroleum Natural Gas Regulatory Board role and appeals
-- Solar energy benefits versus conventional energy and government initiatives
-- Green Grid Initiative purpose at COP26 and ISA origin
-- Renewable energy 2030 target and shift from fossil fuel subsidies
-- Coal Controllers Organization statutory role and functions
-- Coal-based thermal power plants India seawater water-stress
+<!-- MODEL-BODY-START 3 -->
+Variable renewable energy has low fuel and short-run marginal cost, but output depends on weather and time. The problem shifts from procuring cheap plant-level energy to delivering reliable system service. At 31 December 2025, non-fossil sources formed 51.93% of installed capacity, while their April-December 2025 generation share was 30.41%; the different periods notwithstanding, this shows why nameplate capacity is not firm supply. Integration requires advance transmission, accurate forecasting, larger balancing areas, flexible hydro and thermal operation, storage, demand response, reserves and short-term markets. MNRE's GEC-II design aims at 10,750 circuit-km and 27,500 MVA to integrate about 20 GW. Economic Survey 2025-26 cites storage need of 336 GWh by 2029-30 and 411 GWh by 2031-32. Costs include curtailment, networks, balancing, land, minerals and recycling; benefits include avoided fuel, pollution and imports. Policy should procure portfolios and services rather than isolated megawatts: generation plus evacuation, duration-specific storage, time-of-day demand and resource adequacy. The verdict is pro-integration: success is lower unserved energy and total system cost, not the lowest bid or largest capacity addition.
+<!-- MODEL-BODY-END 3 -->
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Examiner check:** Directive fidelity, dated evidence, mechanism analysis and qualification are explicit.
 
-### PYQ DEMAND CARD 1 — 2018 GS-III
+### ORIGINAL MAINS 4 — 15 MARKS — 250 words
 
-**Demand:** Affordable, reliable, sustainable and modern energy as a development driver.
+**Question:** Evaluate coal's changing role in India's energy security and transition.
 
-**Status:** Official-paper demand routed in the audited 2018-2023 GS-III ledger.
+**Model answer (174 native-body words):**
 
-**Model solution:** **Energy-service boundary:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Access and energy poverty:** Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete. **Energy-security dimensions:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. **Energy efficiency and rebound:** Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+<!-- MODEL-BODY-START 4 -->
+Coal remains central because existing plants, domestic mines and rail-linked infrastructure supply large volumes of dispatchable electricity and industrial fuel. The Ministry of Coal reports 1,047.523 MT production in FY 2024-25, yet FY 2025-26 imports were 246.37 MT, including 66.33 MT coking coal. Security depends on grade and delivered logistics, not aggregate production alone. Revised SHAKTI, approved 7 May 2025, addresses power-sector linkages, while commercial mine auctions concern another allocation route. Coal also imposes air, water, ash, land and carbon costs. As solar and wind expand, thermal plants may run fewer hours but need better ramping and reserve performance; lower PLF can raise per-unit fixed-cost recovery. Abrupt retirement can strand PPAs and debt and concentrate job, royalty and local-economy losses. Policy should prioritise efficient units, logistics, pollution compliance, flexible operation, transparent retirement criteria and closure funds while scaling grids, storage and demand response. A just transition needs worker protection, land restoration and regional diversification. Coal's role should decline through planned substitution of energy and reliability services, not a capacity-only pledge.
+<!-- MODEL-BODY-END 4 -->
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2018 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Examiner check:** Directive fidelity, dated evidence, mechanism analysis and qualification are explicit.
 
-**Detailed examiner-grade model answer:**
+### ORIGINAL MAINS 5 — 20 MARKS — 250 words
 
-**Introduction and thesis:** **Energy-service boundary:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Access and energy poverty:** Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete. **Energy-security dimensions:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. **Energy efficiency and rebound:** Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Question:** Assess India's oil and gas security architecture in the face of geopolitical and price shocks.
 
-**Analytical body:**
+**Model answer (186 native-body words):**
 
-1. **Claim and named evidence:** Demand: Affordable, reliable, sustainable and modern energy as a development driver. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand routed in the audited 2018-2023 GS-III ledger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+<!-- MODEL-BODY-START 5 -->
+India's vulnerability begins with high import dependence but extends to supplier concentration, shipping routes, currency, contracts, refining configuration and pricing. PPAC's FY 2025-26 provisional data report crude dependence of 88.7% and gas dependence of 50.1%. High crude dependence can coexist with strong refining and product exports, so the denominator matters. A shock raises the import bill, pressures the current account and rupee, transmits through fuel, freight and inputs, and creates a fiscal-monetary trade-off. The response requires layers. Diverse suppliers and routes reduce concentration; long contracts secure volume while spot cargoes retain flexibility; refinery complexity broadens crude choice; LNG terminals and common-carrier pipelines diversify gas access; efficiency and electrification reduce demand. The 5.33 MMT Phase-I strategic reserve is a finite buffer, while approved 6.5 MMT Phase-II capacity must not be counted as operating stock. Financial hedges manage price but not physical blockage. Targeted transfers are preferable to prolonged general price suppression. PNGRB's pipeline access can deepen markets, but affordability and anchor demand remain constraints. Security is diversified interdependence with buffers and substitution, measured by disruption recovery and delivered cost rather than zero imports.
+<!-- MODEL-BODY-END 5 -->
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Examiner check:** Directive fidelity, dated evidence, mechanism analysis and qualification are explicit.
 
-**Qualified conclusion:** **Energy-service boundary:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Access and energy poverty:** Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete. **Energy-security dimensions:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. **Energy efficiency and rebound:** Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+### ORIGINAL MAINS 6 — 20 MARKS — 250 words
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Question:** Design a policy framework for a reliable, affordable and just Indian energy transition.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+**Model answer (189 native-body words):**
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2018 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+<!-- MODEL-BODY-START 6 -->
+A just transition must coordinate technology, networks, finance and distribution. First, plan from demand and reliability: distinguish MW from MWh, forecast peak and energy requirements, and procure dependable portfolios. Second, integrate renewables through corridors, storage, flexible hydro and thermal units, demand response, ancillary services and adequacy rules. Third, repair distribution through energy accounting, meters, timely tariffs and subsidy, targeted lifeline support and disciplined PPAs; FY 2024-25 national AT&C loss of 15.04% and ACS-ARR gap of Rs 0.06/kWh are progress indicators, not proof of universal health. Fourth, keep RPO/RCO, ESO, REC, PAT ESCerts and carbon credits distinct and prevent double counting. Fifth, reduce external vulnerability through efficiency, electrification, diversified oil and gas contracts, strategic stocks, domestic clean-tech capability, critical-mineral partnerships and recycling. Sixth, price pollution while financing reskilling, mine closure, regional diversification and clean cooking. VGF should buy measurable system services and not socialise avoidable project risk. Finally, publish a dashboard of unserved energy, outage quality, system cost, fiscal exposure, emissions, import concentration and distributional incidence. Success means dependable low-carbon service without shifting hidden debt, ecological damage or adjustment costs onto vulnerable consumers and regions.
+<!-- MODEL-BODY-END 6 -->
 
-### PYQ DEMAND CARD 2 — 2022 GS-III
-
-**Demand:** Renewable-energy target and the shift from fossil-fuel subsidies.
-
-**Status:** Official-paper demand routed in the audited 2018-2023 GS-III ledger.
-
-**Model solution:** **Tariff and subsidy boundary:** An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences. **Energy-security dimensions:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. **Renewable integration:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Fuel pricing and transition:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Targets and legal status:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2022 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Tariff and subsidy boundary:** An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences. **Energy-security dimensions:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. **Renewable integration:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Fuel pricing and transition:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Targets and legal status:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Renewable-energy target and the shift from fossil-fuel subsidies. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand routed in the audited 2018-2023 GS-III ledger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Tariff and subsidy boundary:** An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences. **Energy-security dimensions:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. **Renewable integration:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Fuel pricing and transition:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Targets and legal status:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2022 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish installed power capacity, electricity generation and final energy service. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Primary and final energy. **Named evidence/example:** Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Power and energy units. **Named evidence/example:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Energy-service boundary. **Named evidence/example:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system.
-- Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-- A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-
-**Qualified conclusion:** **Claim:** Primary and final energy. **Named evidence/example:** Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Power and energy units. **Named evidence/example:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Energy-service boundary. **Named evidence/example:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish installed power capacity, electricity generation and final energy service. Answer…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Primary and final energy. **Named evidence/example:** Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Power and energy units. **Named evidence/example:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Energy-service boundary. **Named evidence/example:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Primary and final energy. **Named evidence/example:** Primary energy exists in natural resources before conversion, while electricity and refined fuels are secondary carriers and final energy is what reaches end users; electricity is a power-system carrier, not the whole energy system. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Power and energy units. **Named evidence/example:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Energy-service boundary. **Named evidence/example:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish installed power capacity, electricity generation and final energy service. Answer…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Explain why transmission ownership, system operation and regulation are distinct. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Electricity value chain. **Named evidence/example:** Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Real-time balancing. **Named evidence/example:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Institutional perimeter. **Named evidence/example:** CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties.
-- Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-- CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply.
-
-**Qualified conclusion:** **Claim:** Electricity value chain. **Named evidence/example:** Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Real-time balancing. **Named evidence/example:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Institutional perimeter. **Named evidence/example:** CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why transmission ownership, system operation and regulation are distinct. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Electricity value chain. **Named evidence/example:** Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Real-time balancing. **Named evidence/example:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Institutional perimeter. **Named evidence/example:** CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Electricity value chain. **Named evidence/example:** Generation, transmission ownership, system operation, distribution, retail supply and market trading are distinct layers with different competition, coordination and regulatory properties. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Real-time balancing. **Named evidence/example:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Institutional perimeter. **Named evidence/example:** CEA provides statutory technical advice and planning, CERC regulates inter-state and central-sector matters within mandate, SERCs regulate intra-state and retail matters, Grid-India operates national and regional systems, and DISCOMs deliver and bill retail supply. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Explain why transmission ownership, system operation and regulation are distinct. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Analyse DISCOM stress through tariff, subsidy, loss and procurement channels. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Tariff and subsidy boundary. **Named evidence/example:** An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AT&C and ACS-ARR. **Named evidence/example:** AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PPA and procurement risk. **Named evidence/example:** Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences.
-- AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability.
-- Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change.
-
-**Qualified conclusion:** **Claim:** Tariff and subsidy boundary. **Named evidence/example:** An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AT&C and ACS-ARR. **Named evidence/example:** AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PPA and procurement risk. **Named evidence/example:** Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse DISCOM stress through tariff, subsidy, loss and procurement channels. Answer in about…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Tariff and subsidy boundary. **Named evidence/example:** An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AT&C and ACS-ARR. **Named evidence/example:** AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PPA and procurement risk. **Named evidence/example:** Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Tariff and subsidy boundary. **Named evidence/example:** An observed below-cost tariff may be financed by explicit state subsidy, cross-subsidy, deferred regulatory recovery or DISCOM debt; these have different fiscal, distributional and investment consequences. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AT&C and ACS-ARR. **Named evidence/example:** AT&C loss combines technical and commercial energy-recovery failures, while the ACS-ARR gap measures average cost versus realised revenue; reducing one does not guarantee financial viability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** PPA and procurement risk. **Named evidence/example:** Long-term PPAs enable project finance but allocate fuel, demand, payment, curtailment, change-in-law and technology risks and can create stranded or inflexible cost when assumptions change. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Analyse DISCOM stress through tariff, subsidy, loss and procurement channels. Answer in about…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Examine India's petroleum value chain and PNGRB's regulatory perimeter. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Petroleum chain and regulator. **Named evidence/example:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Crude imports and product trade. **Named evidence/example:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Fuel pricing and transition. **Named evidence/example:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-- High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-- Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-
-**Qualified conclusion:** **Claim:** Petroleum chain and regulator. **Named evidence/example:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Crude imports and product trade. **Named evidence/example:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Fuel pricing and transition. **Named evidence/example:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine India's petroleum value chain and PNGRB's regulatory perimeter. Answer in about 250…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Petroleum chain and regulator. **Named evidence/example:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Crude imports and product trade. **Named evidence/example:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Fuel pricing and transition. **Named evidence/example:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Petroleum chain and regulator. **Named evidence/example:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Crude imports and product trade. **Named evidence/example:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Fuel pricing and transition. **Named evidence/example:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Examine India's petroleum value chain and PNGRB's regulatory perimeter. Answer in about 250…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate renewable integration through system value rather than capacity addition alone. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Power and energy units. **Named evidence/example:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Real-time balancing. **Named evidence/example:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Renewable integration. **Named evidence/example:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** RPO, REC and finance. **Named evidence/example:** RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Energy efficiency and rebound. **Named evidence/example:** Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Targets and legal status. **Named evidence/example:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable.
-- Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response.
-- Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-- RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation.
-- Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical.
-- A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-
-**Qualified conclusion:** **Claim:** Power and energy units. **Named evidence/example:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Real-time balancing. **Named evidence/example:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Renewable integration. **Named evidence/example:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** RPO, REC and finance. **Named evidence/example:** RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Energy efficiency and rebound. **Named evidence/example:** Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Targets and legal status. **Named evidence/example:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate renewable integration through system value rather than capacity addition alone.…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Power and energy units. **Named evidence/example:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Real-time balancing. **Named evidence/example:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Renewable integration. **Named evidence/example:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** RPO, REC and finance. **Named evidence/example:** RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Energy efficiency and rebound. **Named evidence/example:** Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Targets and legal status. **Named evidence/example:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Power and energy units. **Named evidence/example:** Installed capacity is rated power in MW or GW, while generation is energy produced over time in MWh, GWh or billion units; capacity share and generation share are not interchangeable. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Real-time balancing. **Named evidence/example:** Electricity systems must continuously balance generation, imports and discharge against demand, exports, charging and losses, giving economic value to forecasting, reserves, flexibility, storage and demand response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Renewable integration. **Named evidence/example:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** RPO, REC and finance. **Named evidence/example:** RPO creates a renewable-procurement obligation, REC represents an eligible renewable attribute, and a finance company named REC Limited is a different institution; procurement rules do not by themselves create physical generation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Energy efficiency and rebound. **Named evidence/example:** Efficiency supplies the same or better service with less energy input, but total energy use can still rise when output or use expands; energy conservation and efficiency are related but not identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Targets and legal status. **Named evidence/example:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Evaluate renewable integration through system value rather than capacity addition alone.…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Design an energy-security strategy balancing affordability, access, resilience and transition. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Energy-service boundary. **Named evidence/example:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Access and energy poverty. **Named evidence/example:** Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Coal system boundary. **Named evidence/example:** Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Petroleum chain and regulator. **Named evidence/example:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Crude imports and product trade. **Named evidence/example:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Energy-security dimensions. **Named evidence/example:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Renewable integration. **Named evidence/example:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Fuel pricing and transition. **Named evidence/example:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Targets and legal status. **Named evidence/example:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use.
-- Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete.
-- Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve.
-- Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas.
-- High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator.
-- Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery.
-- Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost.
-- Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs.
-- A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body.
-
-**Qualified conclusion:** **Claim:** Energy-service boundary. **Named evidence/example:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Access and energy poverty. **Named evidence/example:** Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Coal system boundary. **Named evidence/example:** Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Petroleum chain and regulator. **Named evidence/example:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Crude imports and product trade. **Named evidence/example:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Energy-security dimensions. **Named evidence/example:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Renewable integration. **Named evidence/example:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Fuel pricing and transition. **Named evidence/example:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Targets and legal status. **Named evidence/example:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design an energy-security strategy balancing affordability, access, resilience and…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Energy-service boundary. **Named evidence/example:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Access and energy poverty. **Named evidence/example:** Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Coal system boundary. **Named evidence/example:** Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Petroleum chain and regulator. **Named evidence/example:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Crude imports and product trade. **Named evidence/example:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Energy-security dimensions. **Named evidence/example:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Renewable integration. **Named evidence/example:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Fuel pricing and transition. **Named evidence/example:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Targets and legal status. **Named evidence/example:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-7. **Claim and named evidence:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-8. **Claim and named evidence:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-9. **Claim and named evidence:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Energy-service boundary. **Named evidence/example:** A connection, sanctioned project or installed plant does not prove reliable, affordable, accessible or acceptable energy service at the point of use. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Access and energy poverty. **Named evidence/example:** Energy access is a ladder from network reach and connection to active metering, availability, reliability, affordability, productive use and clean cooking; connection counts alone are incomplete. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Coal system boundary. **Named evidence/example:** Thermal and coking coal have different uses and quality constraints, while mining, evacuation, plant stock, combustion, ash and closure form one infrastructure chain; geological resource is not the same as an economically recoverable reserve. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Petroleum chain and regulator. **Named evidence/example:** Upstream exploration and production differ from midstream transport and storage and downstream refining and marketing; PNGRB's statutory perimeter excludes production of crude oil and natural gas. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Crude imports and product trade. **Named evidence/example:** High crude-oil import dependence can coexist with large refinery capacity and petroleum-product exports; import dependence must state its commodity and denominator. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Energy-security dimensions. **Named evidence/example:** Energy security requires availability, accessibility, affordability, acceptability and resilience, including diversification of sources, routes and contracts, stocks, infrastructure, financial viability and shock recovery. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Renewable integration. **Named evidence/example:** Variable renewable capacity requires transmission, forecasting, flexible generation, storage, demand response, geographical diversity and market design; no fuel cost does not mean zero system cost. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Fuel pricing and transition. **Named evidence/example:** Retail fuel prices can reflect international prices, exchange rate, refining, marketing, freight, taxes and applicable support, while transition policy must separate consumer support, producer support and unpriced external costs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Targets and legal status. **Named evidence/example:** A capacity target, planning estimate, scheme outlay, Bill, sanctioned project and achieved generation are separate status categories; current claims must retain the exact date, unit, legal stage and reporting body. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Design an energy-security strategy balancing affordability, access, resilience and…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Examiner check:** Directive fidelity, dated evidence, mechanism analysis and qualification are explicit.

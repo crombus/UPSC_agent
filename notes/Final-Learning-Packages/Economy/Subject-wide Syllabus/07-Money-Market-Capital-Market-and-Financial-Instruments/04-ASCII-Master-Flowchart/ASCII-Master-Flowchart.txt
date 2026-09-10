@@ -1,74 +1,97 @@
-ASCII MASTER FLOW — PANEL 1/12: Market maturity fork
-MONEY MARKET -> short-term funds + liquidity
-CAPITAL MARKET -> medium/long debt + equity
-CLASSIFY BY -> tenor + claim + function
-NOT BY -> issuer name alone
-MUST REMEMBER: Money markets fund short maturities and liquidity; capital markets fund...
-
-ASCII MASTER FLOW — PANEL 2/12: Issue-to-trade rail
-SAVER FUNDS
--> PRIMARY ISSUE -> fresh issuer finance
--> SECONDARY TRADE -> investor liquidity
--> PRICE DISCOVERY -> future financing signal
-
-ASCII MASTER FLOW — PANEL 3/12: Government borrowing ladder
-TREASURY BILL -> short tenor
-DATED G-SEC -> longer maturity
-RBI -> auction and market architecture
-ROLLOVER RISK persists at short tenor
-
-ASCII MASTER FLOW — PANEL 4/12: Overnight market map
-CALL MONEY -> unsecured overnight
-REPO -> collateralised bilateral funding
-TREPS -> tri-party collateral platform
-CBLO -> older mechanism replaced by TREPS
-
-ASCII MASTER FLOW — PANEL 5/12: Corporate and bank funding
-CORPORATE -> Commercial Paper
-BANK / ELIGIBLE INSTITUTION -> Certificate of Deposit
-CP -> unsecured + rollover-sensitive
-CD -> negotiable short-term liability
-
-ASCII MASTER FLOW — PANEL 6/12: Regulatory division
-RBI -> money market + G-Secs + payment rails
-SEBI -> securities issuance + exchanges
-IFSCA -> unified IFSC perimeter
-KEEP instrument, venue and regulator distinct
-CLOSE DISTINCTION: Primary is not secondary, money market is not merely cash, yield is...
-
-ASCII MASTER FLOW — PANEL 7/12: G-Sec trading infrastructure
-NDS-OM -> electronic G-Sec trading
-CCIL -> clearing and settlement
-SGL / DEMAT -> ownership records
-DIRECT / INDIRECT / BROKER CONNECT -> access modes
-
-ASCII MASTER FLOW — PANEL 8/12: Liquidity quality board
-DEPTH -> absorb order size
-BREADTH -> participant and instrument range
-IMMEDIACY -> transact quickly
-RESILIENCE -> recover after shocks
-
-ASCII MASTER FLOW — PANEL 9/12: Risk and return dimensions
-MATURITY is not LIQUIDITY
-LIQUIDITY is not SAFETY
-RATING is not GUARANTEE
-YIELD reflects expectations + premia + risk
-
-ASCII MASTER FLOW — PANEL 10/12: Payment-system fork
-RTGS -> real time + gross + transaction-wise
-NEFT -> batch settlement
-BOTH -> owner records continuous operation
-PAYMENT RAIL is not a capital-market security
-
-ASCII MASTER FLOW — PANEL 11/12: Receivables and physical assets
-TReDS -> accepted MSME receivable discounting
-ETF / SWAP -> financial instruments
-MOTOR VEHICLE -> physical asset
-COLLATERAL status does not change asset class
-
-ASCII MASTER FLOW — PANEL 12/12: Financial-market answer spine
-CLASSIFY tenor, issuer and claim
-MAP primary versus secondary function
-TRACE trading, clearing and settlement
-BALANCE depth with disclosure and resilience
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State issuer, maturity, claim, quotation,...
++----------------------------------------------------------------------------------------------+
+| PANEL 1/12 — MARKET MAP                                                                      |
++----------------------------------------------------------------------------------------------+
+| SAVINGS / SURPLUS  ->  FINANCIAL CLAIM  ->  FUND-USER                                        |
+| Households / firms / governments can appear on either side by instrument                     |
+|  short liquidity       price + risk        working / capital                                 |
+|  MONEY MARKET <=1Y                         CAPITAL MARKET >1Y/equity                         |
+| Answer route: purpose -> maturity -> claim -> risk; never classify by name alone.            |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 2/12 — ISSUE VERSUS TRADE                                                              |
++----------------------------------------------------------------------------------------------+
+| PRIMARY: issuer creates claim -> investor pays -> issuer/OFS seller receives                 |
+| SECONDARY: investor sells existing claim -> another investor pays                            |
+|               liquidity + price discovery + exit                                             |
+| Qualification: an IPO can mix a fresh issue and an offer for sale.                           |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 3/12 — UNSECURED SHORT FUNDS                                                           |
++----------------------------------------------------------------------------------------------+
+| CALL = overnight       NOTICE = >1 day to 14 days                                            |
+| TERM = >14 days to 1 year                                                                    |
+| RBI Directions: 1 Apr 2021; updated 8 Jun 2023                                               |
+| Trap: call/notice/term are unsecured; repo is collateralised.                                |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 4/12 — COLLATERALISED LIQUIDITY                                                        |
++----------------------------------------------------------------------------------------------+
+| Cash lender -> buys eligible security -> returns it on repurchase date                       |
+| Cash borrower <- receives funds <- repurchases at agreed price                               |
+| TREPS adds triparty services; CCIL supports CCP clearing.                                    |
+| RBI market-repo Directions: 11 Nov 2025; excludes RBI LAF/MSF repo.                          |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 5/12 — DISCOUNT AND NEGOTIABLE PAPER                                                   |
++----------------------------------------------------------------------------------------------+
+| GoI: T-Bill 91/182/364d | CMB <91d                                                           |
+| Firm: CP 7d-1y, unsecured | short-term NCD 90d-1y, secured definition                        |
+| Bank: CD 7d-1y, demat; minimum Rs 5 lakh                                                     |
+| Trade: commercial bill = receivable; not a Treasury Bill.                                    |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 6/12 — SOVEREIGN DEBT AND YIELDS                                                       |
++----------------------------------------------------------------------------------------------+
+| CENTRE: T-Bills + dated G-Secs     STATES: SDLs; no T-Bills                                  |
+| PRICE = present value of fixed cash flows                                                    |
+| required yield up -> price down; required yield down -> price up                             |
+| Coupon rate != current yield != YTM; duration measures sensitivity.                          |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 7/12 — AUCTION AND DEALERS                                                             |
++----------------------------------------------------------------------------------------------+
+| Notification -> competitive/non-competitive bids -> cut-off -> allotment                     |
+| UNIFORM: one cut-off price | MULTIPLE: accepted own-bid prices                               |
+| Primary Dealer: auction/underwriting role + secondary market making                          |
+| Retail access changes entry, not market-risk exposure.                                       |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 8/12 — CLAIMS AND ISSUANCE                                                             |
++----------------------------------------------------------------------------------------------+
+| DEBT: contractual creditor claim | EQUITY: residual ownership                                |
+| SECURED / UNSECURED and CONVERTIBLE / NON-CONVERTIBLE are separate axes                      |
+| IPO first public offer | FPO listed issuer | RIGHTS existing holders                         |
+| PRIVATE PLACEMENT selected group | QIP listed issuer -> QIBs                                 |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 9/12 — TRANSACTION CHAIN                                                               |
++----------------------------------------------------------------------------------------------+
+| ISSUER -> VENUE -> CLEARING -> SETTLEMENT -> DEPOSITORY RECORD                               |
+| exchange != OTC != ETP; electronic does not decide legal category                            |
+| CCP novation: buyer to seller / seller to buyer                                              |
+| DvP links securities and funds; it does not remove every risk.                               |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 10/12 — OWNERSHIP AND ACCESS                                                           |
++----------------------------------------------------------------------------------------------+
+| Depositories Act s10: depository = registered owner for transfer only                        |
+| Investor = beneficial owner with substantive rights and liabilities                          |
+| NDS-OM: Direct | Indirect | Stock Broker Connect                                             |
+| Directions 7 Feb 2025, updated 27 Apr 2026.                                                  |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 11/12 — REGULATION AND SETTLEMENT                                                      |
++----------------------------------------------------------------------------------------------+
+| RBI: money market + G-Sec + payments | SEBI: public/listed securities                        |
+| T+1 = standard equity cash settlement                                                        |
+| Optional T+0: 28 Mar 2024 beta; 10 Dec 2024 expansion framework                              |
+| 30 Oct 2025: QSB timeline extended; T+0 is not universal instant settlement.                 |
++----------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------+
+| PANEL 12/12 — ANSWER SPINE                                                                   |
++----------------------------------------------------------------------------------------------+
+| CLAIM -> named dated rule/institution -> causal analysis -> qualification                    |
+| BENEFITS: liquidity | price discovery | transmission | capital formation                     |
+| RISKS: credit | duration | rollover | leverage | CCP/cyber concentration                     |
+| VERDICT: deepen access, disclosure and settlement resilience together.                       |
++----------------------------------------------------------------------------------------------+

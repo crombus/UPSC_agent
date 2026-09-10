@@ -1,74 +1,84 @@
-ASCII MASTER FLOW — PANEL 1/12: Animal-economy value rail
-BIOLOGICAL ASSET
--> INPUT + HEALTH SYSTEM
--> PRODUCT FLOW
--> MARKET + HOUSEHOLD WELFARE
-MUST REMEMBER: Animal rearing economics spans breeding, feed, health, housing, extension,...
+ECONOMY TOPIC 30 - ANIMAL REARING, LIVESTOCK, DAIRY, POULTRY AND FISHERIES
+CURRENT-STATUS CUTOFF: 10 SEPTEMBER 2026
+================================================================================
+PANEL 1 BOUNDARY AND STATISTICS
+--------------------------------------------------------------------------------
+terrestrial livestock/poultry | aquaculture = managed farming | capture = wild stock
+Livestock Census = point-in-time stock | ISS = annual flow | BAHS = publication
+latest released stock: 20th Census 2019; 21st results not public at cutoff
 
-ASCII MASTER FLOW — PANEL 2/12: Stock-flow-statistics split
-LIVESTOCK CENSUS -> stock
-ISS -> annual production flow
-BAHS -> compiled publication
-YEAR + instrument must match
+PANEL 2 ALLIED-SECTOR ROLE
+--------------------------------------------------------------------------------
+seasonal crop cash + daily/short-cycle animal output + liquid asset
+-> income diversification + risk smoothing + nutrition + rural work
+inclusion test: ownership | payment control | commons/water | voice | care burden
 
-ASCII MASTER FLOW — PANEL 3/12: Lifetime-return board
-OUTPUT + OFFSPRING + ASSET VALUE
-- FEED + HEALTH + LABOUR
-- MORTALITY + FINANCE + LOSS
-= NET ENTERPRISE RETURN
+PANEL 3 PRODUCTION ECONOMICS
+--------------------------------------------------------------------------------
+revenue + by-products + asset change
+- feed - labour - health - breeding - housing - finance - mortality - logistics
+= net enterprise income
+policy target: healthy lifetime productivity and value, not headcount alone
 
-ASCII MASTER FLOW — PANEL 4/12: Productivity complement chain
-GENETICS
-x FEED
-x HEALTH + MANAGEMENT
-x CLIMATE + MARKET
+PANEL 4 INPUT COMPLEMENTARITY
+--------------------------------------------------------------------------------
+suitable genetics x feed/fodder x health/reproduction x management
+x heat adaptation x collection/market = realised output and margin
+one binding constraint can defeat investment in every other input
 
-ASCII MASTER FLOW — PANEL 5/12: Dairy collection chain
-MILKING HOUSEHOLD
--> TESTING + PAYMENT
--> CHILLING + PROCESSING
--> CONSUMER + PRODUCER SHARE
+PANEL 5 PUBLIC GOODS, ONE HEALTH AND WELFARE
+--------------------------------------------------------------------------------
+surveillance -> vaccination/biosecurity -> lower transmission
+compensation/insurance -> honest reporting -> faster control
+animal <-> human <-> environment | AMR/residue/zoonosis
+welfare improves ethics, survival, quality and market access
 
-ASCII MASTER FLOW — PANEL 6/12: Operation Flood institution map
-VILLAGE SOCIETY
--> DISTRICT UNION
--> STATE FEDERATION
-COOPERATIVE != automatic good governance
-CLOSE DISTINCTION: Livestock population is a stock, milk/egg/fish output is a flow,...
+PANEL 6 DAIRY VALUE CHAIN AND MODELS
+--------------------------------------------------------------------------------
+production -> collection -> fat/SNF test -> chilling -> processing -> market
+Operation Flood: 1970-80 | 1981-85 | 1985-96
+Anand: village society -> district union -> state federation
+compare cooperative | producer company | private | informal on power and services
 
-ASCII MASTER FLOW — PANEL 7/12: Poultry risk allocation
-INTEGRATOR -> chick + feed + market
-FARMER -> shed + labour + utilities
-CONTRACT -> mortality + quality rules
-RISK REALLOCATED, not erased
+PANEL 7 LIVESTOCK SCHEMES - DATED STATUS
+--------------------------------------------------------------------------------
+Rashtriya Gokul Mission (RGM): genetics; to 30 Sep 2026; Rs 800 cr
+National Livestock Mission (NLM): enterprise + fodder + innovation/insurance
+Livestock Health and Disease Control Programme (LHDCP): vaccination/services
+NPDD/Dairy Development + IDF/AHIDF: procurement and infrastructure
 
-ASCII MASTER FLOW — PANEL 8/12: Disease externality loop
-UNDER-VACCINATION
--> NETWORK TRANSMISSION
--> ASSET + PUBLIC-HEALTH LOSS
-SURVEILLANCE + COMPENSATION + BIOSECURITY
+PANEL 8 POULTRY AND OTHER LIVESTOCK
+--------------------------------------------------------------------------------
+broiler = meat | layer = egg | backyard != commercial intensive
+integrator supplies chick/feed/vet/market; farmer supplies shed/labour/utilities
+risk is reallocated, not removed
+sheep/goat -> dryland/commons | piggery -> fast cycle + high disease sensitivity
 
-ASCII MASTER FLOW — PANEL 9/12: Aquatic-system split
-CAPTURE -> common-pool stock
-AQUACULTURE -> managed farming
-MSY != MEY
-EFFLUENT + DISEASE boundaries
+PANEL 9 FISHERIES PRODUCTION AND FEDERALISM
+--------------------------------------------------------------------------------
+marine/inland/brackish x capture/culture x extensive/intensive
+0-12 nautical miles: State/UT fisheries regulation
+beyond territorial waters: Union competence | coastal aquaculture: CAA Act
+2024-25 fish output: 19.775 million tonnes (Economic Survey 2025-26)
 
-ASCII MASTER FLOW — PANEL 10/12: IFS circular flow
-CROP RESIDUE -> FEED
-MANURE -> SOIL / BIOGAS
-POND -> NUTRIENT + INCOME
-ABSORPTIVE LIMIT prevents waste transfer
+PANEL 10 FISHERIES BIOECONOMICS AND VALUE CHAIN
+--------------------------------------------------------------------------------
+open access -> race to fish -> excess effort -> stock/profit loss
+MSY = biological yield | MEY = economic rent | equity/ecosystem targets differ
+harvest -> landing/ice -> cold transport -> processing -> domestic/export
+RAS: mechanical solids removal + microbial nitrification + oxygen/disinfection
 
-ASCII MASTER FLOW — PANEL 11/12: Inclusion and value board
-LANDLESS + SMALLHOLDER
-WOMEN + PASTORALIST
-OWNERSHIP + INCOME CONTROL
-MARKET POWER + TIME BURDEN
+PANEL 11 FISHERIES POLICY - DATED STATUS
+--------------------------------------------------------------------------------
+Blue Revolution 2015-20 -> Pradhan Mantri Matsya Sampada Yojana (PMMSY)
+PMMSY: 2020-21--2024-25; FY 2026-27 BE Rs 2,500 cr, tenure qualified
+Fisheries and Aquaculture Infrastructure Development Fund (FIDF): to 2025-26
+Kisan Credit Card (KCC) 2018 | PM-MKSSY/NFDP: credit/insurance/traceability
 
-ASCII MASTER FLOW — PANEL 12/12: Animal-economy answer spine
-DEFINE asset + production system
-TRACE feed + health + market
-TEST inclusion + biosecurity
-CONCLUDE lifetime net social value
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State species/product, unit, denominator,...
+PANEL 12 ANSWER SPINE
+--------------------------------------------------------------------------------
+define system -> date stock/flow/share/status evidence -> trace net margin
+-> analyse feed + health + genetics + infrastructure + market power
+-> test women/smallholders + One Health + welfare + climate/ecology
+-> cross-link Topic 14 inputs/credit and Topic 15 processing
+-> verdict: value per healthy animal/sustainable stock, not headcount/output alone

@@ -1,2961 +1,1935 @@
----
-title: "Growth, Development, HDI, IHDI and MPI — Learner-v2 Refreshed"
-topic_key: economy-02
-cover_image: assets/economy-02_Teaching-Navigation_2026-09-03.png
----
-# Growth, Development, HDI, IHDI and MPI — Learner-v2 Complete Learning Session
+# Growth, Development, HDI, IHDI and MPI - Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.
+**Subject:** Economy | **UPSC:** Prelims, GS-II and GS-III | **Current-source cutoff:** 9 September 2026
 
-### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
+### SOURCE AND DATE CONTROL
 
-- **Generation date:** 2026-09-03.
-- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
-- **OCR evidence:** Repository Markdown was primary. OCR-searchable local official General Studies papers were used only to confirm printed routed demands. No answer key, marking scheme, unsupported page precision or current macroeconomic statistic was inferred from them.
-- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
-- **PYQ integrity:** The audited ledgers route 2020 GS-II on incidence and intensity of poverty, 2024 GS-III on social-service expenditure and inclusive growth, and 2025 GS-III on HDI versus IHDI here. Objective routes on GNP per capita, Ease of Doing Business, social capital and 2026 MPI methodology remain answer-letter free.
-- **Live-link boundary:** The UNDP HDI page was substantively retrievable on 2026-09-03 and is used only for its HDI dimensions, geometric-mean construction and stated limits. No live India rank, score, IHDI loss, MPI headcount or poverty estimate was taken from it.
-- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
+| Layer | Sources checked | Use in this package |
+|---|---|---|
+| Canonical Core | `upsc-ai-kit\knowledge\Economy\basic\02_Growth-Development-HDI-IHDI-and-MPI.md` | Complete syllabus spine, Indian applications and routed PYQs |
+| Optional Advanced | `upsc-ai-kit\knowledge\Economy\advanced\02_Growth-Development-HDI-IHDI-and-MPI.md` | Separately labelled enrichment only |
+| OCR books | Ramesh Singh, *Indian Economy*, local PDF pp. 96-103; *Economic Survey 2025-26*, especially chapters 11-13 | Growth-development distinction, human-capital feedback and dated Indian policy context |
+| UNDP | *Human Development Report 2025 Technical Notes 1-2* and UNDP HDI/IHDI pages, checked 9 September 2026 | Exact HDI goalposts, formulae, logarithmic income treatment and IHDI method |
+| OPHI/UNDP | OPHI global MPI methodology page and *Global MPI 2025*, checked 9 September 2026 | Ten indicators, weights, dual cutoff, H, A and poverty thresholds |
+| India official | NITI Aayog, *National Multidimensional Poverty Index: A Progress Review 2023*, released 17 July 2023, based on NFHS-4 (2015-16) and NFHS-5 (2019-21) | National MPI architecture, indicator adaptation and state/district use |
 
-### LIVE OFFICIAL-SOURCE ATTEMPT LOG
+**Vintage rule:** A report's publication year, an indicator's reference/data year and a country's rank/value are different facts. This package uses no unsourced current rank or score. Where a dated value appears, its source and reference period are stated together.
 
-The checks below were made on 2026-09-03. Substantive official text is used only for the proposition it actually supports; binary files, dynamic shells, stubs and undated dashboard snippets are recorded but not converted into current claims.
 
-- https://hdr.undp.org/data-center/human-development-index#/indicies/HDI — retrieved 2026-09-03; the official UNDP page substantively states that HDI uses health, education and standard-of-living dimensions aggregated by a geometric mean and also states that HDI does not capture inequality, poverty, security or empowerment.
+### LEARNING CONTRACT
+
+| Rule | Application |
+|---|---|
+| Visual first | Every Core session begins with a topic-specific diagram or comparison. |
+| Core independence | Basic teaching is answer-complete before Optional Advanced depth. |
+| Answer method | Every session uses Claim -> named evidence -> analysis -> qualification. |
+| Data discipline | Every current value states publisher, release/report year and reference period. |
+| Measure discipline | HDI, IHDI, global MPI, national MPI and monetary poverty are not conflated. |
 
 ## BASIC LEARNING SESSION
 
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Economy Basic/Core is answer-complete before optional Advanced depth. |
-| Formula boundary | Formula, numerator, denominator, unit, stock/flow, nominal/real, base year, level/rate and accounting identity are explicit. |
-| Institutional boundary | Constitution, statute, delegated rule, regulator mandate, policy, recommendation, scheme and implementation outcome remain distinct. |
-| Transmission method | Shock or instrument → prices/quantities/balance sheets/incentives → institution and market response → output, employment, distribution, stability and external effect → lag and trade-off. |
-| Current-data method | Source → release date → reference period → unit/denominator → provisional/revised/final status; incompatible Budget, Survey or statistical vintages are never mixed. |
-| Programme-status method | Announced → approved → notified/guidelines issued → funded → operational → utilised → output → outcome are separate stages. |
-| External/WTO method | Agreement text, member category, box, limit, notification, consultation, dispute and ruling are qualified without invented thresholds. |
-| Causal method | Accounting identity, chronology and correlation are not promoted into behavioural or causal claims without mechanism, counterfactual and alternatives. |
-| Answer balance | Model answers balance growth, distribution, stability, sustainability and federal dimensions with India-centric evidence. |
-| Practice contract | Every solved item has demand decoding, a detailed examiner-grade model, executable timed/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Economy\basic\02_Growth-Development-HDI-IHDI-and-MPI.md`  
-**Substantive canonical provenance owner:** `upsc-ai-kit\knowledge\Economy\02_Growth-Development-HDI-IHDI-and-MPI_Learner-V2-Complete-Topic-Package.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Economy\advanced\02_Growth-Development-HDI-IHDI-and-MPI.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Economy\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- Every data-heavy table states unit, denominator, geography, reference period and source/status.
-- GDP/GVA, gross/net, domestic/national, nominal/real and level/rate distinctions remain exact.
-- Monetary, fiscal and external chains state intermediaries, balance-sheet channels, lags, leakages and trade-offs.
-- Budget and Economic Survey editions are never mixed; BE, RE, Actual, advance/provisional/revised/final estimates remain labelled.
-- Scheme and programme claims distinguish announcement, approval, notification, operation, coverage, utilisation and measured outcome.
-- WTO boxes, limits, de minimis, special treatment, notifications and disputes are qualified from authoritative rules.
-- PYQ wording is preserved only where verified; reconstructed or routed demands remain labelled.
-- **Current-status note, rechecked 2026-09-06:** volatile rates, estimates, scheme status, trade rules and institutional claims retain official source, release date, reference period and revision status.
-
-**Generation-local live/current sources:**
-- `https://hdr.undp.org/data-center/human-development-index#/indicies/HDI — retrieved 2026-09-03; the official UNDP page substantively states that HDI uses health, education and standard-of-living dimensions aggregated by a geometric mean and also states that HDI does not capture inequality, poverty, security or empowerment.`
-
-![Refreshed teaching navigation](assets/economy-02_Teaching-Navigation_2026-09-03.png)
-
-*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
-
-### SESSION 1 — FOUNDATION — Growth, development and substantive freedom
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Growth, development and substantive freedom explains how Growth versus development and Capability approach fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Growth, development and substantive freedom separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Growth, development and substantive freedom must be read through Growth versus development and Capability approach, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Growth**
-- **development**
-- **substantive**
-- **freedom**
-- **versus**
-- **Capability**
-
-**How to use them:** Define Growth, development, substantive; attach freedom to its named source, period and status; then qualify the answer with this limit: Do not infer development from nominal or aggregate GDP growth alone.
+### SESSION 1 - Growth and development: quantity, quality and capabilities
 
 #### VISUAL FIRST
 
 ```text
-GROWTH, DEVELOPMENT AND SUBSTANTIVE FREEDOM
-01. Growth versus development
-    |
-    v
-02. Capability approach
-BOUNDARY -> Do not infer development from nominal or aggregate GDP growth alone.
+ECONOMIC GROWTH                    ECONOMIC DEVELOPMENT
+real output / real income rises      growth plus transformation
+              |                                   |
+              v                                   v
+resource envelope expands            health + education + agency
+                                                  + distribution
+                                                  + sustainability
+
+Growth is a means -----------------> Development is the wider end
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual purpose: establish the decision path before introducing prose.*
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
+Economic growth is a sustained quantitative increase in real output or real income. Economic development is the broader process through which growth is accompanied by structural change, wider capabilities, fairer distribution, resilience and environmental sustainability.
 
-#### NAMED EVIDENCE AND MECHANISM
+#### ANSWER-GRABBING LINE
 
-- Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-- Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-
-#### EXAMINER CAUTION
-
-- Do not infer development from nominal or aggregate GDP growth alone.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Growth versus development -> Capability approach
-- **Qualified use:** Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Growth, development and substantive freedom
-EXACT TERMS: Growth | development | substantive | freedom | versus | Capability
-MECHANISM / ARGUMENT: connect Growth versus development and Capability approach through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-UPSC TRAP / ANSWER-USE: Do not infer development from nominal or aggregate GDP growth alone.
-ANSWER-GRABBING FORMULATION: Growth, development and substantive freedom converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 2 — FOUNDATION — HDI dimensions and geometric aggregation
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** HDI dimensions and geometric aggregation explains how HDI architecture fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, HDI dimensions and geometric aggregation separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> HDI dimensions and geometric aggregation must be read through HDI architecture, with the formula or legal perimeter stated before the policy inference.
+> Growth enlarges the resource envelope; development judges whether that envelope is converted into productive, equitable and sustainable freedoms.
 
 #### MUST-WRITE KEYWORDS
 
-- **dimensions**
-- **geometric**
+- **real GDP**
+- **real per-capita income**
+- **structural change**
+- **capabilities**
+- **distribution**
+- **sustainability**
+
+#### CORE EXPLANATION
+
+Nominal output can rise merely because prices rise, so growth comparisons require real measures. Aggregate real GDP can also increase while real GDP per person stagnates if population grows equally fast. Even real per-capita growth remains an average: it says nothing by itself about jobs, access to public services, inequality, unpaid work, security or ecological damage.
+
+Development therefore adds qualitative and distributive questions. Has labour moved from low-productivity to higher-productivity activity? Have nutrition, health, learning and agency improved? Are gains shared across gender, caste, tribe, region and disability? Can the production path continue without eroding the natural and social foundations of future welfare?
+
+Amartya Sen's capability approach supplies the conceptual bridge. Income and commodities are means; the relevant end is the substantive freedom to be healthy, educated, mobile, secure and able to participate. People with identical incomes may convert resources into capabilities differently because public services, disability, discrimination, location and household norms differ.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** Growth and development are related but not interchangeable.
+- **Named evidence:** Ramesh Singh's local chapter distinguishes quantitative growth from quantitative-plus-qualitative development; UNDP's human-development framework evaluates health, knowledge and living standards rather than output alone.
+- **Analysis:** Real growth can finance private consumption and public revenue, but conversion institutions determine whether resources become capabilities.
+- **Qualification:** Growth is normally necessary for durable fiscal and employment capacity, yet neither a high rate nor a high per-capita average proves inclusion or sustainability.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | Ramesh Singh's local chapter distinguishes quantitative growth from quantitative-plus-qualitative development; UNDP's human-development framework evaluates health, knowledge and living standards rather than output alone. |
+| Prelims trap | Do not treat nominal GDP, total GDP or per-capita income as a complete development verdict. |
+| Mains use | Open a growth-versus-development answer with the means-end distinction, then test structure, distribution, capabilities and sustainability. |
+
+#### MINI RECAP
+
+- Growth is quantitative.
+- Development is quantitative, structural, distributive and capability-centred.
+- Per-capita averages can hide unequal conversion.
+
+---
+### SESSION 2 - Drivers of growth and the quality of structural transformation
+
+#### VISUAL FIRST
+
+```text
+CAPITAL + LABOUR + HUMAN CAPITAL + TECHNOLOGY + INSTITUTIONS
+                              |
+                              v
+                    PRODUCTIVITY GROWTH
+                              |
+                  +-----------+-----------+
+                  |                       |
+                  v                       v
+        HIGHER REAL OUTPUT          STRUCTURAL CHANGE
+                                    agriculture -> industry/services
+                  |                       |
+                  +-----------+-----------+
+                              v
+               JOBS + WAGES + TAX BASE + CAPABILITIES
+                              |
+                  quality depends on inclusion and ecology
+```
+
+*Visual purpose: establish the decision path before introducing prose.*
+
+#### DEFINITION
+
+Growth accounting links output expansion to labour, physical capital, human capital and productivity; structural transformation reallocates workers and resources toward more productive activities.
+
+#### ANSWER-GRABBING LINE
+
+> The development content of growth lies not only in its speed but in its productivity source, employment intensity, sectoral composition and ecological cost.
+
+#### MUST-WRITE KEYWORDS
+
+- **capital accumulation**
+- **labour productivity**
+- **total factor productivity**
+- **human capital**
+- **structural transformation**
+- **jobless growth**
+
+#### CORE EXPLANATION
+
+Physical investment expands productive capacity, while education, health and skills improve the quality of labour. Technology, infrastructure, competition and capable institutions raise the efficiency with which factors are combined. Sustained per-capita growth ultimately depends heavily on productivity rather than indefinite factor accumulation.
+
+Structural transformation is development-enhancing when workers leave low-productivity, vulnerable activity for higher-productivity work with better wages, security and learning. A shift in output shares without adequate movement into decent jobs can produce job-poor or jobless growth. Capital-intensive enclaves may lift GDP while weakly spreading incomes.
+
+Inclusive growth combines participation in production with access to opportunities and a fair distribution of gains. Sustainable growth adds resource efficiency, pollution control, climate resilience and protection of natural capital. A short-run output gain created by depletion or unpriced environmental damage can reduce future capability.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** A growth rate becomes developmentally meaningful only after its source and employment transmission are examined.
+- **Named evidence:** *Economic Survey 2025-26*, chapters 11-12, connects education, health and skills with productivity, employability, social mobility and structural transformation.
+- **Analysis:** Human capital raises productivity and earnings; productive jobs then finance household investment and widen the tax base, creating a feedback loop.
+- **Qualification:** Employment quantity is insufficient if work is informal, unsafe, low-paid or environmentally destructive.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | *Economic Survey 2025-26*, chapters 11-12, connects education, health and skills with productivity, employability, social mobility and structural transformation. |
+| Prelims trap | Structural transformation means a productivity-enhancing reallocation, not merely a falling agricultural share in GDP. |
+| Mains use | Use a four-link chain: productivity source -> sector/jobs -> distribution/public revenue -> capability and environmental outcome. |
+
+#### MINI RECAP
+
+- Capital deepening and productivity drive output.
+- Jobs connect growth to household welfare.
+- Sustainability protects future development.
+
+---
+### SESSION 3 - HDI purpose, timeline and exact architecture
+
+#### VISUAL FIRST
+
+```text
+1990: FIRST UNDP HUMAN DEVELOPMENT REPORT
+                    |
+                    v
+             HUMAN DEVELOPMENT INDEX
+        +-----------+-----------+-----------+
+        |                       |           |
+        v                       v           v
+ LONG AND HEALTHY LIFE      KNOWLEDGE    DECENT LIVING STANDARD
+ life expectancy at birth   MYS + EYS    GNI per capita, PPP
+        |                       |           |
+        +----------- normalized indices ---+
+                            |
+                            v
+             HDI = geometric mean of 3 dimensions
+```
+
+*Visual purpose: establish the decision path before introducing prose.*
+
+#### DEFINITION
+
+The Human Development Index is the United Nations Development Programme (UNDP) summary measure of average achievement in three dimensions: a long and healthy life, access to knowledge and a decent standard of living.
+
+#### ANSWER-GRABBING LINE
+
+> HDI shifts comparison from the size of an economy to the average capabilities that income, institutions and public action help create.
+
+#### MUST-WRITE KEYWORDS
+
+- **UNDP**
+- **1990 HDR**
+- **three dimensions**
+- **four indicators**
+- **normalisation**
+- **geometric mean**
+
+#### CORE EXPLANATION
+
+The health dimension uses life expectancy at birth. Knowledge uses two indicators: expected years of schooling for a child of school-entering age and mean years of schooling for adults aged 25 and above. The standard-of-living dimension uses gross national income per capita expressed in purchasing-power-parity terms. Thus HDI has three dimensions but four component indicators.
+
+Each indicator is converted into a dimension index between zero and one. The two schooling indices are first calculated separately and then averaged arithmetically to form the education index. The health, education and income dimension indices are then aggregated by geometric mean.
+
+HDI is designed to provoke policy comparison. Countries with similar GNI per capita can have different HDI outcomes because public health, education, distribution and institutions affect conversion. It is not a measure of total welfare, happiness or political freedom.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** HDI is an average capability-achievement index, not an income ranking with social variables attached.
+- **Named evidence:** UNDP's 2025 Technical Note 1 defines the three dimensions, four indicators and geometric-mean architecture.
+- **Analysis:** The index makes health and education co-equal with income and limits the ability of one very high dimension to compensate for another very low one.
+- **Qualification:** Its narrow dimensions and national averages still omit inequality, poverty, security, empowerment and ecological pressures.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | UNDP's 2025 Technical Note 1 defines the three dimensions, four indicators and geometric-mean architecture. |
+| Prelims trap | HDI uses GNI per capita at PPP, not GDP alone, and expected plus mean years of schooling, not literacy alone. |
+| Mains use | State purpose first, decode all four indicators, explain geometric aggregation and end with distributional limits. |
+
+#### MINI RECAP
+
+- Three dimensions, four indicators.
+- Education averages MYS and EYS indices.
+- UNDP aggregates dimensions geometrically.
+
+---
+### SESSION 4 - HDI calculation: goalposts, logarithmic income and a worked example
+
+#### VISUAL FIRST
+
+```text
+NORMALISE EACH INDICATOR
+index = (actual - minimum) / (maximum - minimum)
+
+HEALTH: LE 20 to 85
+EDUCATION: EYS 0 to 18; MYS 0 to 15; average the two indices
+INCOME: GNI pc 100 to 75,000 in constant 2021 PPP dollars
+        use natural logarithms
+
+HDI = (Health index x Education index x Income index)^(1/3)
+```
+
+*Visual purpose: establish the decision path before introducing prose.*
+
+#### DEFINITION
+
+Goalposts are the minimum and maximum values used by the applicable UNDP technical note to normalise indicators expressed in different units.
+
+#### ANSWER-GRABBING LINE
+
+> HDI first makes unlike indicators comparable, then applies diminishing returns to income and geometric aggregation across dimensions.
+
+#### MUST-WRITE KEYWORDS
+
+- **goalposts**
+- **life expectancy index**
+- **education index**
+- **income index**
+- **natural logarithm**
+- **2021 PPP dollars**
+
+#### CORE EXPLANATION
+
+The applicable *Human Development Report 2025 Technical Note 1* sets these goalposts: life expectancy 20-85 years; expected years of schooling 0-18; mean years of schooling 0-15; and GNI per capita 100-75,000 in constant 2021 PPP dollars. Goalposts belong to a methodology vintage and should not be copied into another report year without checking.
+
+For health and each schooling indicator, use `(actual - minimum)/(maximum - minimum)`. Education is `(EYS index + MYS index)/2`. Income is `[ln(actual GNIpc) - ln(100)]/[ln(75,000) - ln(100)]`; logarithms reflect diminishing capability gains from additional income.
+
+**Illustrative calculation, not a country estimate:** life expectancy 72, EYS 14, MYS 10 and GNI per capita 20,000 produce health `52/65 = 0.800`; EYS `14/18 = 0.778`; MYS `10/15 = 0.667`; education `0.722`; income approximately `0.800`. HDI is approximately `(0.800 x 0.722 x 0.800)^(1/3) = 0.773`.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** The logarithmic income index prevents equal dollar increments from being treated as equal capability gains at every income level.
+- **Named evidence:** UNDP 2025 Technical Note 1 explicitly uses natural logarithms and constant 2021 PPP GNI per capita with a 100-75,000 goalpost range.
+- **Analysis:** An additional unit of income is assumed to matter more near subsistence than at high income, while PPP improves cross-country purchasing-power comparability.
+- **Qualification:** PPP estimates, input revisions and goalpost choices affect measured values; the worked calculation is pedagogical, not an official country value.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | UNDP 2025 Technical Note 1 explicitly uses natural logarithms and constant 2021 PPP GNI per capita with a 100-75,000 goalpost range. |
+| Prelims trap | Do not use a simple arithmetic mean of the three final dimensions or a linear income index. |
+| Mains use | Write the formula and one line on why logarithms and the geometric mean are used; calculations can secure Prelims elimination. |
+
+#### MINI RECAP
+
+- Check the technical-note vintage.
+- Income is log-transformed.
+- HDI is the cube root of the product.
+
+---
+### SESSION 5 - Reading HDI correctly: value, rank, data year and limitations
+
+#### VISUAL FIRST
+
+```text
+REPORT YEAR != DATA YEAR != RANK != VALUE
+
+HDI value: achievement on 0-1 scale under stated method
+Rank: ordinal position among countries included in that release
+Data year: reference year of component observations
+Report year: publication label/date
+
+Small value revision + changed country coverage -> rank may move without a comparable welfare jump
+```
+
+*Visual purpose: establish the decision path before introducing prose.*
+
+#### DEFINITION
+
+An HDI value is the composite score; an HDI rank is the country's relative order in a stated release and comparison set.
+
+#### ANSWER-GRABBING LINE
+
+> A rank is a relative position, not a welfare unit: serious analysis compares values, components, vintages and uncertainty before celebrating movement.
+
+#### MUST-WRITE KEYWORDS
+
+- **value**
+- **rank**
+- **data year**
+- **report year**
+- **revision**
+- **comparability**
+
+#### CORE EXPLANATION
+
+A report published in one year commonly reports indicators referring mainly to an earlier year. Component indicators may also come from different statistical sources and revision cycles. Therefore write, for example, 'the 2025 report's value for reference year 2023' rather than calling it the '2025 level' without explanation.
+
+Rank depends on other countries, data availability and revisions. A country can improve its value yet lose rank if peers improve faster; it can gain rank with little domestic change. Compare a consistent time series supplied by UNDP rather than subtracting ranks from differently constituted releases.
+
+HDI is intentionally parsimonious. It omits within-country distribution, multidimensional poverty, political voice, safety, unpaid care, service quality and environmental pressure. The Gender Development Index (GDI) compares female and male HDI achievements; the Gender Inequality Index (GII) combines reproductive health, empowerment and labour-market dimensions. They are bounded complements, not fourth HDI dimensions.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** Composite indices are navigation aids, not complete social accounts.
+- **Named evidence:** UNDP's HDI page states that HDI captures only part of human development and does not itself reflect inequalities, poverty, human security or empowerment.
+- **Analysis:** A dashboard of component levels and disaggregated outcomes preserves diagnosis that a single score or rank suppresses.
+- **Qualification:** Comparability is valuable, but simplification inevitably trades detail for communicability.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | UNDP's HDI page states that HDI captures only part of human development and does not itself reflect inequalities, poverty, human security or empowerment. |
+| Prelims trap | Never mix report year, underlying data year and rank; never call GDI or GII an HDI dimension. |
+| Mains use | After explaining HDI, add a two-column value-versus-rank distinction and recommend a dashboard. |
+
+#### MINI RECAP
+
+- Value is cardinal-like; rank is ordinal.
+- Data vintage must be named.
+- GDI/GII complement rather than enlarge HDI.
+
+---
+### SESSION 6 - IHDI: inequality discount, dimension losses and equality case
+
+#### VISUAL FIRST
+
+```text
+HDI DIMENSION INDEX Ix
+        |
+        +-- estimate inequality Ax in that dimension
+        |
+        v
+ADJUSTED INDEX I-adjusted = (1 - Ax) x I
+
+IHDI = (Health-adjusted x Education-adjusted x Income-adjusted)^(1/3)
+Loss = 1 - (IHDI / HDI)
+
+perfect equality -> every Ax = 0 -> IHDI = HDI
+```
+
+*Visual purpose: establish the decision path before introducing prose.*
+
+#### DEFINITION
+
+The Inequality-adjusted Human Development Index discounts each HDI dimension according to inequality in its distribution and then geometrically aggregates the adjusted indices.
+
+#### ANSWER-GRABBING LINE
+
+> HDI reports the average frontier; IHDI asks how much of that achievement is lost when unequal distribution is recognised.
+
+#### MUST-WRITE KEYWORDS
+
+- **Atkinson inequality**
+- **dimension-level discount**
+- **IHDI <= HDI**
+- **loss due to inequality**
+- **equality case**
+- **distribution-sensitive**
+
+#### CORE EXPLANATION
+
+UNDP's 2025 Technical Note 2 draws on the Atkinson family with inequality-aversion parameter epsilon equal to one. For a dimension, `A = 1 - geometric mean/arithmetic mean`. The adjusted dimension index is `(1-A) x I`. The IHDI is the geometric mean of the three adjusted indices.
+
+The proportional loss due to inequality can be written `1 - IHDI/HDI`. If health, education and income are equally distributed, every inequality discount is zero and IHDI equals HDI. As inequality rises, IHDI falls below HDI. IHDI is therefore not a fourth dimension and the HDI-IHDI gap is not a poverty rate.
+
+The distributions use different units and data sources: life expectancy across a hypothetical cohort, schooling across individuals and income/consumption across individuals. UNDP notes that IHDI is not association-sensitive because all dimensions are not observed jointly for the same individuals in a single survey across countries.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** IHDI is better suited than HDI to an inclusive-growth question because it penalises unequal achievement within the same three dimensions.
+- **Named evidence:** UNDP 2025 Technical Note 2 defines dimension-specific Atkinson discounts, the geometric aggregation and the equality case.
+- **Analysis:** Two countries with the same HDI can have different IHDIs when one distributes longevity, schooling or income more unequally.
+- **Qualification:** IHDI still does not reveal which people suffer simultaneous disadvantages across dimensions, and data coverage is narrower than HDI.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | UNDP 2025 Technical Note 2 defines dimension-specific Atkinson discounts, the geometric aggregation and the equality case. |
+| Prelims trap | IHDI does not add inequality as a fourth dimension; it adjusts each existing dimension. |
+| Mains use | For HDI versus IHDI, compare purpose, formula, distribution sensitivity, equality case and residual limits. |
+
+#### MINI RECAP
+
+- Adjust all three dimensions.
+- IHDI equals HDI only at equality.
+- Loss is proportional, not a poverty headcount.
+
+---
+### SESSION 7 - Global MPI: dimensions, ten indicators, weights and dual cutoff
+
+#### VISUAL FIRST
+
+```text
+GLOBAL MPI (OPHI + UNDP)
+HEALTH 1/3             EDUCATION 1/3          LIVING STANDARDS 1/3
+nutrition 1/6          years schooling 1/6    fuel, sanitation, water,
+child mortality 1/6    attendance 1/6         electricity, housing, assets
+                                               each 1/18
+                 household deprivation score c
+                             |
+                c >= 1/3 -> MPI poor
+              1/5 <= c < 1/3 -> vulnerable
+                c >= 1/2 -> severe poverty
+```
+
+*Visual purpose: establish the decision path before introducing prose.*
+
+#### DEFINITION
+
+The global MPI, developed by the Oxford Poverty and Human Development Initiative (OPHI) with the United Nations Development Programme (UNDP), identifies acute multidimensional poverty through simultaneous weighted deprivations in health, education and living standards using the Alkire-Foster method.
+
+#### ANSWER-GRABBING LINE
+
+> The MPI preserves both identification and aggregation: it first identifies who crosses a deprivation cutoff, then records how many are poor and how intensely they are deprived.
+
+#### MUST-WRITE KEYWORDS
+
+- **OPHI**
+- **UNDP**
+- **Alkire-Foster**
+- **ten indicators**
+- **deprivation cutoff**
+- **poverty cutoff**
+
+#### CORE EXPLANATION
+
+The global MPI has ten indicators. Health: nutrition and child mortality, each weight 1/6. Education: years of schooling and school attendance, each 1/6. Living standards: cooking fuel, sanitation, drinking water, electricity, housing and assets, each 1/18. Each dimension therefore contributes one-third.
+
+The first cutoff is indicator-specific: it decides whether the household is deprived on each indicator. Weighted deprivations are then summed into score `c`. The second, poverty cutoff identifies a person as MPI poor when the household score is at least one-third.
+
+Under the methodology checked on 9 September 2026, a score from one-fifth up to but below one-third is classified as vulnerable to multidimensional poverty; one-half or more is severe multidimensional poverty. These thresholds belong to the current global method and must not be transferred automatically to a national MPI.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** The global MPI measures overlapping acute deprivation rather than low income alone.
+- **Named evidence:** OPHI's current global MPI methodology page specifies the three dimensions, ten indicators, weights and one-third poverty cutoff; the 2025 global report continues this architecture.
+- **Analysis:** A household-level score reveals whether deprivations cluster, enabling indicator and subgroup decomposition.
+- **Qualification:** Household identification can attribute a household deprivation to every member and thereby miss intra-household differences.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | OPHI's current global MPI methodology page specifies the three dimensions, ten indicators, weights and one-third poverty cutoff; the 2025 global report continues this architecture. |
+| Prelims trap | Equal dimension weights do not mean all ten indicators have equal weights. |
+| Mains use | Draw the 2+2+6 indicator tree and explain the two cutoffs before using H and A. |
+
+#### MINI RECAP
+
+- Three equal dimensions.
+- Ten unequally weighted indicators.
+- One-third is the global poverty cutoff.
+
+---
+### SESSION 8 - MPI aggregation: incidence H, intensity A and worked calculation
+
+#### VISUAL FIRST
+
+```text
+FIVE EQUAL-SIZED HOUSEHOLDS: deprivation scores
+0.50 | 0.40 | 0.35 | 0.25 | 0.10
+ poor   poor   poor   not    not       (cutoff = 1/3)
+
+H = 3/5 = 0.60
+A = (0.50 + 0.40 + 0.35) / 3 = 0.4167
+MPI = H x A = 0.250
+
+H asks HOW MANY; A asks HOW DEPRIVED among the poor.
+```
+
+*Visual purpose: establish the decision path before introducing prose.*
+
+#### DEFINITION
+
+Incidence `H` is the population share identified as multidimensionally poor; intensity `A` is the average weighted deprivation score among the poor; `MPI = H x A`.
+
+#### ANSWER-GRABBING LINE
+
+> A poverty reduction claim is incomplete until it states whether fewer people are poor, the remaining poor are less deprived, or both.
+
+#### MUST-WRITE KEYWORDS
+
+- **censored headcount**
+- **incidence H**
+- **intensity A**
+- **MPI = H x A**
+- **decomposition**
+- **cutoff sensitivity**
+
+#### CORE EXPLANATION
+
+After applying the poverty cutoff, deprivations of non-poor households are censored to zero for aggregation. `H = q/n`, where q is the number of poor persons and n the population. `A` is the mean deprivation score among q. Their product is the adjusted headcount ratio or MPI.
+
+In the example, three of five equal-sized households are poor, so H is 0.60. Their average score is 0.4167, producing MPI 0.250. If the 0.35 household moves just below one-third, H falls sharply even if the two poorest households do not improve. If the poorest households lose some deprivations but remain poor, A falls while H is unchanged.
+
+MPI can be decomposed by subgroup and indicator, helping identify whether a district's burden arises mainly from nutrition, schooling or amenities. But a single cross-section does not prove that the same household escaped poverty; repeated cross-sections show aggregate change, not individual trajectories.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** H and A prevent a headcount-only policy from ignoring the depth and composition of multidimensional poverty.
+- **Named evidence:** The Alkire-Foster aggregation used by OPHI/UNDP explicitly reports incidence and intensity and multiplies them.
+- **Analysis:** Because MPI changes when either the number poor or their deprivation share changes, it rewards improvements below the poverty cutoff as well as exits.
+- **Qualification:** Results remain sensitive to indicators, deprivation cutoffs, weights, poverty cutoff and survey error.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | The Alkire-Foster aggregation used by OPHI/UNDP explicitly reports incidence and intensity and multiplies them. |
+| Prelims trap | Intensity is calculated among the multidimensionally poor, not across the whole population. |
+| Mains use | Use one numerical example, then explain how H and A can move differently. |
+
+#### MINI RECAP
+
+- H is a proportion of people.
+- A is the poor's average deprivation share.
+- MPI responds to both incidence and intensity.
+
+---
+### SESSION 9 - India's National MPI: adapted architecture and official evidence
+
+#### VISUAL FIRST
+
+```text
+NITI AAYOG NATIONAL MPI
+NFHS household microdata -> indicator deprivation -> weighted score
+
+HEALTH (1/3)         EDUCATION (1/3)       STANDARD OF LIVING (1/3)
+nutrition 1/6        years schooling 1/6   fuel, sanitation, water,
+child/adolescent     attendance 1/6        electricity, housing, assets,
+mortality 1/12                              bank account - each 1/21
+maternal health 1/12
+
+national -> State/UT -> district diagnosis
+NFHS-4 (2015-16) compared with NFHS-5 (2019-21) in 2023 report
+```
+
+*Visual purpose: establish the decision path before introducing prose.*
+
+#### DEFINITION
+
+India's National MPI is the National Institution for Transforming India (NITI Aayog) nationally adapted Alkire-Foster measure based principally on National Family Health Survey (NFHS) household microdata.
+
+#### ANSWER-GRABBING LINE
+
+> India's national MPI retains a comparable multidimensional logic but adapts indicators and weights to domestic policy needs; it is not the global MPI with an India label.
+
+#### MUST-WRITE KEYWORDS
+
+- **NITI Aayog**
+- **NFHS-4**
+- **NFHS-5**
+- **12 indicators**
+- **maternal health**
+- **bank account**
+- **district estimates**
+
+#### CORE EXPLANATION
+
+The 2023 Progress Review uses 12 indicators across the same three one-third dimensions. Health weights are nutrition 1/6, child and adolescent mortality 1/12 and maternal health 1/12. Education has years of schooling and school attendance, each 1/6. Standard of living has seven indicators - cooking fuel, sanitation, drinking water, electricity, housing, assets and bank account - each 1/21.
+
+NITI Aayog is the nodal institution for the national MPI exercise; NFHS is conducted by the International Institute for Population Sciences under the Ministry of Health and Family Welfare framework. The index supports national, State/UT and district diagnosis, indicator decomposition and targeted action.
+
+The report released 17 July 2023 compares NFHS-4 (2015-16) with NFHS-5 (2019-21). It reports India's multidimensional-poverty headcount ratio falling from 24.85 percent to 14.96 percent and estimates 13.5 crore people moved out of multidimensional poverty over that comparison. These are report facts tied to survey periods, not 2023 observations.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** National adaptation increases policy relevance while reducing direct interchangeability with the global MPI.
+- **Named evidence:** NITI Aayog's 2023 report specifies the 12-indicator national architecture and uses NFHS-4 and NFHS-5 for state and district comparison.
+- **Analysis:** Maternal health and bank-account access add Indian policy salience, while disaggregation helps locate the dimensions and places requiring action.
+- **Qualification:** NFHS periodicity creates data lag; state/district averages and household identification do not expose every intra-household deprivation.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | NITI Aayog's 2023 report specifies the 12-indicator national architecture and uses NFHS-4 and NFHS-5 for state and district comparison. |
+| Prelims trap | Do not quote the national MPI's 12 indicators or weights as the global MPI's ten-indicator method. |
+| Mains use | Name NITI Aayog, NFHS vintages, 12-indicator adaptation and district use, then add comparability and lag cautions. |
+
+#### MINI RECAP
+
+- National MPI is adapted, not identical.
+- NFHS supplies household data.
+- The 2023 report compares 2015-16 with 2019-21.
+
+---
+### SESSION 10 - Income poverty, multidimensional deprivation and measurement limits
+
+#### VISUAL FIRST
+
+```text
+MONETARY POVERTY                         MULTIDIMENSIONAL POVERTY
+income/consumption < line                 weighted deprivations >= cutoff
+command over market goods                direct capability failures
+        |                                         |
+        +--------------- COMPLEMENTS -------------+
+                         |
+ public services, prices, household needs and location can make them diverge
+```
+
+*Visual purpose: establish the decision path before introducing prose.*
+
+#### DEFINITION
+
+A monetary poverty measure identifies insufficient income or consumption relative to a line; MPI identifies simultaneous direct deprivations relative to weighted indicator and poverty cutoffs.
+
+#### ANSWER-GRABBING LINE
+
+> Income poverty asks whether resources cross a monetary line; MPI asks whether functionings fail together, so neither measure can safely replace the other.
+
+#### MUST-WRITE KEYWORDS
+
+- **poverty line**
+- **headcount ratio**
+- **direct deprivation**
 - **aggregation**
-- **architecture**
-- **UNDP's**
-- **mean**
-
-**How to use them:** Define dimensions, geometric, aggregation; attach architecture to its named source, period and status; then qualify the answer with this limit: Do not say HDI directly measures political freedom; its formal dimensions are health, education and income.
-
-#### VISUAL FIRST
-
-```text
-HDI DIMENSIONS AND GEOMETRIC AGGREGATION
-01. HDI architecture
-BOUNDARY -> Do not say HDI directly measures political freedom; its formal dimensions are health, education and income.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+- **cutoff sensitivity**
+- **intra-household blindness**
 
 #### CORE EXPLANATION
 
-UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
+Income or consumption measures are indispensable for assessing purchasing power, transfer adequacy and macroeconomic shocks. Yet the same income can produce different outcomes when public health, schooling, water, prices, disability or household composition differ. MPI observes selected outcomes directly and reveals overlap.
 
-#### NAMED EVIDENCE AND MECHANISM
+Both approaches make normative and statistical choices. A poverty line fixes a monetary threshold and price adjustment. MPI fixes dimensions, indicators, deprivation cutoffs, weights and an overall poverty cutoff. Small movement around either threshold can change classification, although continuous measures and sensitivity checks can reduce over-interpretation.
 
-- UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
+The household is commonly the global and national MPI identification unit. If one child is out of school or a member is undernourished, all household members may inherit that indicator deprivation. This supports household targeting but can conceal unequal allocation by gender, age or disability. Survey periodicity, recall, missing data and data lag further constrain current claims.
 
-#### EXAMINER CAUTION
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
 
-- Do not say HDI directly measures political freedom; its formal dimensions are health, education and income.
+- **Claim:** Poverty measurement should triangulate monetary command, direct deprivations and subgroup evidence.
+- **Named evidence:** The 2020 GS-II routed demand explicitly contrasts incidence and intensity with income-based measurement; NITI's national MPI is designed as a complementary diagnostic.
+- **Analysis:** A combined dashboard distinguishes shortage of money from failures of service access, quality and household conversion.
+- **Qualification:** More dimensions do not automatically mean a better index; indicator validity, transparency and robustness matter.
 
-#### EXAM LINK
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-
-#### MINI RECAP
-
-- **Mechanism chain:** HDI architecture
-- **Qualified use:** Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: HDI dimensions and geometric aggregation
-EXACT TERMS: dimensions | geometric | aggregation | architecture | UNDP's | mean
-MECHANISM / ARGUMENT: connect HDI architecture through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-UPSC TRAP / ANSWER-USE: Do not say HDI directly measures political freedom; its formal dimensions are health, education and income.
-ANSWER-GRABBING FORMULATION: HDI dimensions and geometric aggregation converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 3 — FOUNDATION — How IHDI exposes inequality
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** How IHDI exposes inequality explains how IHDI inequality adjustment fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, How IHDI exposes inequality separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> How IHDI exposes inequality must be read through IHDI inequality adjustment, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **IHDI**
-- **exposes**
-- **inequality**
-- **adjustment**
-- **discounts**
-- **each**
-
-**How to use them:** Define IHDI, exposes, inequality; attach adjustment to its named source, period and status; then qualify the answer with this limit: Do not treat IHDI as a separate welfare basket; it inequality-adjusts the HDI dimensions.
-
-#### VISUAL FIRST
-
-```text
-HOW IHDI EXPOSES INEQUALITY
-01. IHDI inequality adjustment
-BOUNDARY -> Do not treat IHDI as a separate welfare basket; it inequality-adjusts the HDI dimensions.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-
-#### EXAMINER CAUTION
-
-- Do not treat IHDI as a separate welfare basket; it inequality-adjusts the HDI dimensions.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-
-#### MINI RECAP
-
-- **Mechanism chain:** IHDI inequality adjustment
-- **Qualified use:** End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: How IHDI exposes inequality
-EXACT TERMS: IHDI | exposes | inequality | adjustment | discounts | each
-MECHANISM / ARGUMENT: connect IHDI inequality adjustment through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-UPSC TRAP / ANSWER-USE: Do not treat IHDI as a separate welfare basket; it inequality-adjusts the HDI dimensions.
-ANSWER-GRABBING FORMULATION: How IHDI exposes inequality converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 4 — CORE — What multidimensional poverty measures
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** What multidimensional poverty measures explains how MPI purpose fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, What multidimensional poverty measures separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> What multidimensional poverty measures must be read through MPI purpose, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **What**
-- **multidimensional**
-- **poverty**
-- **measures**
-- **purpose**
-- **identifies**
-
-**How to use them:** Define What, multidimensional, poverty; attach measures to its named source, period and status; then qualify the answer with this limit: Do not reduce MPI to an income poverty-line headcount.
-
-#### VISUAL FIRST
-
-```text
-WHAT MULTIDIMENSIONAL POVERTY MEASURES
-01. MPI purpose
-BOUNDARY -> Do not reduce MPI to an income poverty-line headcount.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-
-#### EXAMINER CAUTION
-
-- Do not reduce MPI to an income poverty-line headcount.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-
-#### MINI RECAP
-
-- **Mechanism chain:** MPI purpose
-- **Qualified use:** Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: What multidimensional poverty measures
-EXACT TERMS: What | multidimensional | poverty | measures | purpose | identifies
-MECHANISM / ARGUMENT: connect MPI purpose through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-UPSC TRAP / ANSWER-USE: Do not reduce MPI to an income poverty-line headcount.
-ANSWER-GRABBING FORMULATION: What multidimensional poverty measures converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 5 — CORE — Social capital as a development resource
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Social capital as a development resource explains how Social capital fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Social capital as a development resource separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Social capital as a development resource must be read through Social capital, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Social**
-- **capital**
-- **development**
-- **resource**
-- **Trust**
-- **norms**
-
-**How to use them:** Define Social, capital, development; attach resource to its named source, period and status; then qualify the answer with this limit: Do not merge incidence H with intensity A; they answer how many and how deprived.
-
-#### VISUAL FIRST
-
-```text
-SOCIAL CAPITAL AS A DEVELOPMENT RESOURCE
-01. Social capital
-BOUNDARY -> Do not merge incidence H with intensity A; they answer how many and how deprived.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-
-#### EXAMINER CAUTION
-
-- Do not merge incidence H with intensity A; they answer how many and how deprived.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Social capital
-- **Qualified use:** Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Social capital as a development resource
-EXACT TERMS: Social | capital | development | resource | Trust | norms
-MECHANISM / ARGUMENT: connect Social capital through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-UPSC TRAP / ANSWER-USE: Do not merge incidence H with intensity A; they answer how many and how deprived.
-ANSWER-GRABBING FORMULATION: Social capital as a development resource converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 6 — CORE — Growth resources, composition and jobs
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Growth resources, composition and jobs explains how Growth-resource channel and Composition of growth fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Growth resources, composition and jobs separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Growth resources, composition and jobs must be read through Growth-resource channel and Composition of growth, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Growth**
-- **resources**
-- **composition**
-- **jobs**
-- **Growth-resource**
-- **channel**
-
-**How to use them:** Define Growth, resources, composition; attach jobs to its named source, period and status; then qualify the answer with this limit: Do not compare poverty lines across PPP revisions without stating the price basis.
-
-#### VISUAL FIRST
-
-```text
-GROWTH RESOURCES, COMPOSITION AND JOBS
-01. Growth-resource channel
-    |
-    v
-02. Composition of growth
-BOUNDARY -> Do not compare poverty lines across PPP revisions without stating the price basis.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-- Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-
-#### EXAMINER CAUTION
-
-- Do not compare poverty lines across PPP revisions without stating the price basis.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Growth-resource channel -> Composition of growth
-- **Qualified use:** End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Growth resources, composition and jobs
-EXACT TERMS: Growth | resources | composition | jobs | Growth-resource | channel
-MECHANISM / ARGUMENT: connect Growth-resource channel and Composition of growth through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-UPSC TRAP / ANSWER-USE: Do not compare poverty lines across PPP revisions without stating the price basis.
-ANSWER-GRABBING FORMULATION: Growth resources, composition and jobs converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 7 — CORE — Public services as conversion channels
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Public services as conversion channels explains how Public-service conversion fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Public services as conversion channels separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Public services as conversion channels must be read through Public-service conversion, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Public**
-- **services**
-- **conversion**
-- **channels**
-- **Public-service**
-- **Nutrition**
-
-**How to use them:** Define Public, services, conversion; attach channels to its named source, period and status; then qualify the answer with this limit: Do not treat a dashboard ranking gain as proof of durable transformation.
-
-#### VISUAL FIRST
-
-```text
-PUBLIC SERVICES AS CONVERSION CHANNELS
-01. Public-service conversion
-BOUNDARY -> Do not treat a dashboard ranking gain as proof of durable transformation.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-
-#### EXAMINER CAUTION
-
-- Do not treat a dashboard ranking gain as proof of durable transformation.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Public-service conversion
-- **Qualified use:** Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Public services as conversion channels
-EXACT TERMS: Public | services | conversion | channels | Public-service | Nutrition
-MECHANISM / ARGUMENT: connect Public-service conversion through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-UPSC TRAP / ANSWER-USE: Do not treat a dashboard ranking gain as proof of durable transformation.
-ANSWER-GRABBING FORMULATION: Public services as conversion channels converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 8 — CORE — Who produces each development index
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Who produces each development index explains how Institutional division fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Who produces each development index separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Who produces each development index must be read through Institutional division, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **produces**
-- **each**
-- **development**
-- **index**
-- **Institutional**
-- **division**
-
-**How to use them:** Define produces, each, development; attach index to its named source, period and status; then qualify the answer with this limit: Do not assume welfare access guarantees service quality or productive employment.
-
-#### VISUAL FIRST
-
-```text
-WHO PRODUCES EACH DEVELOPMENT INDEX
-01. Institutional division
-BOUNDARY -> Do not assume welfare access guarantees service quality or productive employment.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-
-#### EXAMINER CAUTION
-
-- Do not assume welfare access guarantees service quality or productive employment.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Institutional division
-- **Qualified use:** Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Who produces each development index
-EXACT TERMS: produces | each | development | index | Institutional | division
-MECHANISM / ARGUMENT: connect Institutional division through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-UPSC TRAP / ANSWER-USE: Do not assume welfare access guarantees service quality or productive employment.
-ANSWER-GRABBING FORMULATION: Who produces each development index converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 9 — CORE — State variation and the Kerala-Bihar lesson
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** State variation and the Kerala-Bihar lesson explains how Kerala-Bihar comparison fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, State variation and the Kerala-Bihar lesson separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> State variation and the Kerala-Bihar lesson must be read through Kerala-Bihar comparison, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **State**
-- **variation**
-- **Kerala-Bihar**
-- **lesson**
-- **comparison**
-- **familiar**
-
-**How to use them:** Define State, variation, Kerala-Bihar; attach lesson to its named source, period and status; then qualify the answer with this limit: Do not copy one state's development path mechanically across different histories and capacities.
-
-#### VISUAL FIRST
-
-```text
-STATE VARIATION AND THE KERALA-BIHAR LESSON
-01. Kerala-Bihar comparison
-BOUNDARY -> Do not copy one state's development path mechanically across different histories and capacities.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-
-#### EXAMINER CAUTION
-
-- Do not copy one state's development path mechanically across different histories and capacities.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Kerala-Bihar comparison
-- **Qualified use:** End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: State variation and the Kerala-Bihar lesson
-EXACT TERMS: State | variation | Kerala-Bihar | lesson | comparison | familiar
-MECHANISM / ARGUMENT: connect Kerala-Bihar comparison through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-UPSC TRAP / ANSWER-USE: Do not copy one state's development path mechanically across different histories and capacities.
-ANSWER-GRABBING FORMULATION: State variation and the Kerala-Bihar lesson converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 10 — CORE — National MPI and household targeting
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** National MPI and household targeting explains how National MPI targeting fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, National MPI and household targeting separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> National MPI and household targeting must be read through National MPI targeting, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **National**
-- **household**
-- **targeting**
-- **NITI**
-- **Aayog's**
-- **uses**
-
-**How to use them:** Define National, household, targeting; attach NITI to its named source, period and status; then qualify the answer with this limit: Do not treat social capital as a substitute for infrastructure, markets or public finance.
-
-#### VISUAL FIRST
-
-```text
-NATIONAL MPI AND HOUSEHOLD TARGETING
-01. National MPI targeting
-BOUNDARY -> Do not treat social capital as a substitute for infrastructure, markets or public finance.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-
-#### EXAMINER CAUTION
-
-- Do not treat social capital as a substitute for infrastructure, markets or public finance.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-
-#### MINI RECAP
-
-- **Mechanism chain:** National MPI targeting
-- **Qualified use:** Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: National MPI and household targeting
-EXACT TERMS: National | household | targeting | NITI | Aayog's | uses
-MECHANISM / ARGUMENT: connect National MPI targeting through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-UPSC TRAP / ANSWER-USE: Do not treat social capital as a substitute for infrastructure, markets or public finance.
-ANSWER-GRABBING FORMULATION: National MPI and household targeting converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 11 — CORE — District targeting and MGNREGA protection
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** District targeting and MGNREGA protection explains how Aspirational Districts lesson and MGNREGA conversion role fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, District targeting and MGNREGA protection separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> District targeting and MGNREGA protection must be read through Aspirational Districts lesson and MGNREGA conversion role, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **District**
-- **targeting**
-- **MGNREGA**
-- **protection**
-- **Aspirational**
-- **Districts**
-
-**How to use them:** Define District, targeting, MGNREGA; attach protection to its named source, period and status; then qualify the answer with this limit: Do not use an international poverty benchmark as India's official domestic poverty line.
-
-#### VISUAL FIRST
-
-```text
-DISTRICT TARGETING AND MGNREGA PROTECTION
-01. Aspirational Districts lesson
-    |
-    v
-02. MGNREGA conversion role
-BOUNDARY -> Do not use an international poverty benchmark as India's official domestic poverty line.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-- MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-
-#### EXAMINER CAUTION
-
-- Do not use an international poverty benchmark as India's official domestic poverty line.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Aspirational Districts lesson -> MGNREGA conversion role
-- **Qualified use:** Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: District targeting and MGNREGA protection
-EXACT TERMS: District | targeting | MGNREGA | protection | Aspirational | Districts
-MECHANISM / ARGUMENT: connect Aspirational Districts lesson and MGNREGA conversion role through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-UPSC TRAP / ANSWER-USE: Do not use an international poverty benchmark as India's official domestic poverty line.
-ANSWER-GRABBING FORMULATION: District targeting and MGNREGA protection converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 12 — CORE — Nutrition and schooling capability channels
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Nutrition and schooling capability channels explains how Nutrition and schooling interventions fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Nutrition and schooling capability channels separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Nutrition and schooling capability channels must be read through Nutrition and schooling interventions, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Nutrition**
-- **schooling**
-- **capability**
-- **channels**
-- **interventions**
-- **ICDS**
-
-**How to use them:** Define Nutrition, schooling, capability; attach channels to its named source, period and status; then qualify the answer with this limit: Do not let average HDI conceal caste, gender, tribal, regional or district inequality.
-
-#### VISUAL FIRST
-
-```text
-NUTRITION AND SCHOOLING CAPABILITY CHANNELS
-01. Nutrition and schooling interventions
-BOUNDARY -> Do not let average HDI conceal caste, gender, tribal, regional or district inequality.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-
-#### EXAMINER CAUTION
-
-- Do not let average HDI conceal caste, gender, tribal, regional or district inequality.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Nutrition and schooling interventions
-- **Qualified use:** End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Nutrition and schooling capability channels
-EXACT TERMS: Nutrition | schooling | capability | channels | interventions | ICDS
-MECHANISM / ARGUMENT: connect Nutrition and schooling interventions through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-UPSC TRAP / ANSWER-USE: Do not let average HDI conceal caste, gender, tribal, regional or district inequality.
-ANSWER-GRABBING FORMULATION: Nutrition and schooling capability channels converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 13 — CORE SYNTHESIS — Women's networks and collective agency
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Women's networks and collective agency explains how Kudumbashree and SHGs fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Women's networks and collective agency separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Women's networks and collective agency must be read through Kudumbashree and SHGs, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Women's**
-- **networks**
-- **collective**
-- **agency**
-- **Kudumbashree**
-- **SHGs**
-
-**How to use them:** Define Women's, networks, collective; attach agency to its named source, period and status; then qualify the answer with this limit: Do not infer development from nominal or aggregate GDP growth alone.
-
-#### VISUAL FIRST
-
-```text
-WOMEN'S NETWORKS AND COLLECTIVE AGENCY
-01. Kudumbashree and SHGs
-BOUNDARY -> Do not infer development from nominal or aggregate GDP growth alone.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-
-#### EXAMINER CAUTION
-
-- Do not infer development from nominal or aggregate GDP growth alone.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Kudumbashree and SHGs
-- **Qualified use:** Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Women's networks and collective agency
-EXACT TERMS: Women's | networks | collective | agency | Kudumbashree | SHGs
-MECHANISM / ARGUMENT: connect Kudumbashree and SHGs through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Treat growth as the resource base and institutions, jobs and public services as the conversion mechanism.
-UPSC TRAP / ANSWER-USE: Do not infer development from nominal or aggregate GDP growth alone.
-ANSWER-GRABBING FORMULATION: Women's networks and collective agency converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 14 — CORE SYNTHESIS — MPI incidence and intensity
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** MPI incidence and intensity explains how MPI incidence and MPI intensity fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, MPI incidence and intensity separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> MPI incidence and intensity must be read through MPI incidence and MPI intensity, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **incidence**
-- **intensity**
-- **proportion**
-- **people**
-- **identified**
-- **multidimensionally**
-
-**How to use them:** Define incidence, intensity, proportion; attach people to its named source, period and status; then qualify the answer with this limit: Do not say HDI directly measures political freedom; its formal dimensions are health, education and income.
-
-#### VISUAL FIRST
-
-```text
-MPI INCIDENCE AND INTENSITY
-01. MPI incidence
-    |
-    v
-02. MPI intensity
-BOUNDARY -> Do not say HDI directly measures political freedom; its formal dimensions are health, education and income.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-- In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-
-#### EXAMINER CAUTION
-
-- Do not say HDI directly measures political freedom; its formal dimensions are health, education and income.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-
-#### MINI RECAP
-
-- **Mechanism chain:** MPI incidence -> MPI intensity
-- **Qualified use:** Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: MPI incidence and intensity
-EXACT TERMS: incidence | intensity | proportion | people | identified | multidimensionally
-MECHANISM / ARGUMENT: connect MPI incidence and MPI intensity through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Compare average achievement with inequality and overlapping deprivation before judging inclusion.
-UPSC TRAP / ANSWER-USE: Do not say HDI directly measures political freedom; its formal dimensions are health, education and income.
-ANSWER-GRABBING FORMULATION: MPI incidence and intensity converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 15 — CORE SYNTHESIS — Income poverty, composite limits and PPP vintage
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Income poverty, composite limits and PPP vintage explains how Income-poverty contrast and Composite and benchmark caution fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Income poverty, composite limits and PPP vintage separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Income poverty, composite limits and PPP vintage must be read through Income-poverty contrast and Composite and benchmark caution, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Income**
-- **poverty**
-- **composite**
-- **vintage**
-- **Income-poverty**
-- **contrast**
-
-**How to use them:** Define Income, poverty, composite; attach vintage to its named source, period and status; then qualify the answer with this limit: Do not treat IHDI as a separate welfare basket; it inequality-adjusts the HDI dimensions.
-
-#### VISUAL FIRST
-
-```text
-INCOME POVERTY, COMPOSITE LIMITS AND PPP VINTAGE
-01. Income-poverty contrast
-    |
-    v
-02. Composite and benchmark caution
-BOUNDARY -> Do not treat IHDI as a separate welfare basket; it inequality-adjusts the HDI dimensions.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-- HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-
-#### EXAMINER CAUTION
-
-- Do not treat IHDI as a separate welfare basket; it inequality-adjusts the HDI dimensions.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Income-poverty contrast -> Composite and benchmark caution
-- **Qualified use:** End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Income poverty, composite limits and PPP vintage
-EXACT TERMS: Income | poverty | composite | vintage | Income-poverty | contrast
-MECHANISM / ARGUMENT: connect Income-poverty contrast and Composite and benchmark caution through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: End with disaggregated outcomes, service quality and employment-intensive productivity growth.
-UPSC TRAP / ANSWER-USE: Do not treat IHDI as a separate welfare basket; it inequality-adjusts the HDI dimensions.
-ANSWER-GRABBING FORMULATION: Income poverty, composite limits and PPP vintage converts a precise economic distinction into a qualified conclusion
-```
-
-#### COMPLETE BASIC OWNER EVIDENCE BANK
-
-> **Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims.
-> **Core area:** Inclusive growth and human development.
-> **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `../advanced/02_Growth-Development-HDI-IHDI-and-MPI.md`.*
-
-##### 1. Visual foundation
-
-```text
-1. REAL GROWTH
-   |
-   v
-2. PUBLIC AND PRIVATE RESOURCES
-   |
-   v
-3. HEALTH, EDUCATION AND PRODUCTIVE JOBS
-   |
-   v
-4. CAPABILITY EXPANSION
-   |
-   v
-5. DEVELOPMENT
-```
-
-**Core proposition:** Treat growth as the resource base, employment and public services as
-conversion channels, and IHDI/MPI as tests of distribution and deprivation.
-
-##### 2. Essential definitions
-
-| Concept | Exam-ready meaning |
+| Exam tool | Topic-specific use |
 |---|---|
-| ✅ **Economic growth** | Sustained quantitative increase in real output or real income. |
-| ✅ **Economic development** | Growth plus structural change, capability expansion and better distribution. |
-| ✅ **Capability approach (Amartya Sen)** | Development means expanding substantive freedoms and real opportunities to lead the kinds of lives people value, not merely raising income. |
-| ✅ **HDI** | UNDP composite of health, education and standard of living. |
-| ✅ **IHDI** | HDI discounted for inequality within each of its three dimensions. |
-| ✅ **MPI** | Deprivation measure using overlapping deficits in health, education and living standards. |
-| ✅ **Social capital** | Trust, norms and networks that help cooperation, collective action and development outcomes beyond private income alone. |
-
-##### 3. Topic mechanism
-
-1. Real productivity and output growth enlarge household incomes, profits and the tax base.
-2. The composition of growth determines whether new income reaches labour-intensive sectors,
-   lagging regions and vulnerable groups.
-3. Public revenue and household income finance nutrition, health, schooling, housing and
-   risk protection.
-4. Better health and education raise capabilities, employability and intergenerational
-   mobility.
-5. HDI records average achievement, IHDI exposes unequal distribution, and MPI identifies
-   overlapping household deprivations.
-
-##### 4. Institutions and policy tools
-
-- ✅ **UNDP:** publishes HDI and IHDI and co-presents the global MPI in its human-development reporting.
-- ✅ **Oxford Poverty and Human Development Initiative (OPHI):** co-develops the global MPI methodology used in international comparison.
-- ✅ **NITI Aayog:** tracks India's national MPI and supports state- and district-level development comparisons.
-- ✅ **MoSPI:** supplies national accounts and social statistics needed to read growth beside welfare outcomes.
-- ✅ **Union, state and local governments:** deliver the health, education, nutrition, water and housing services behind capability gains.
-
-##### 5. Indian applications and examples
-
-- ⚠️ **Claim:** Growth and development can diverge sharply across Indian states. **Named evidence/example:** The familiar Kerala-Bihar contrast in Indian policy discourse shows that strong social indicators and human-development outcomes do not move one-for-one with income or industrial scale alone. **Why it supports the claim:** It demonstrates why per-capita output is only a starting point; public health, schooling and state capacity change the conversion of income into capabilities. **Limit/status caution:** State comparisons are path-dependent because demography, migration, historical social reform and remittances affect outcomes.
-
-- ⚠️ **Claim:** Average poverty or income measures can miss overlapping household deprivation. **Named evidence/example:** NITI Aayog's national Multidimensional Poverty Index uses health, education and living-standard indicators drawn from household evidence such as NFHS-based deprivation mapping. **Why it supports the claim:** It identifies whether the same household faces simultaneous deficits in nutrition, schooling, sanitation, housing or basic amenities, making policy more targeted than an income line alone. **Limit/status caution:** MPI depends on chosen indicators and survey periodicity; it cannot by itself capture every urban service-quality gap or sudden economic shock.
-
-- ⚠️ **Claim:** State averages can hide severe district-level divergence. **Named evidence/example:** The Aspirational Districts Programme was created precisely because national and state growth narratives were not enough to identify lagging districts in health, education, agriculture and basic infrastructure. **Why it supports the claim:** It proves that development assessment must descend below state averages when answering inter-regional inequality questions. **Limit/status caution:** Dashboard improvement or ranking movement does not automatically establish durable structural transformation.
-
-- ⚠️ **Claim:** Employment programmes can convert growth resources into minimum social protection and capability support. **Named evidence/example:** MGNREGA links public expenditure with wage employment and rural asset creation. **Why it supports the claim:** It shows that inclusive growth is not only about output expansion; labour absorption and income security matter when households need to protect nutrition, schooling and resilience. **Limit/status caution:** It is primarily a protection instrument, not a substitute for long-term productivity growth or formal job creation.
-
-- ⚠️ **Claim:** Human development requires direct investment in nutrition and schooling, not income growth alone. **Named evidence/example:** ICDS and PM POSHAN (Mid-Day Meal) represent named Indian capability-building interventions in early childhood and school participation. **Why it supports the claim:** They illustrate Amartya Sen's insight that real freedom expands through nutrition, health and educational access that improve what people are able to do and become. **Limit/status caution:** Higher attendance or service access does not automatically ensure learning quality, health quality or later employability.
-
-- ⚠️ **Claim:** Social capital is a development resource, not a decorative concept. **Named evidence/example:** Kudumbashree and the broader self-help-group model later scaled through NRLM show how organised women's networks can support savings, credit, local problem-solving and agency. **Why it supports the claim:** They demonstrate that trust, participation and collective action help convert state schemes into durable capability gains. **Limit/status caution:** Social capital complements but cannot replace infrastructure, markets, public finance or formal institutional capacity.
-
-##### 5A. MPI methodology: incidence and intensity of poverty
-
-- ✅ **MPI formula:** MPI = H × A, where **H (headcount ratio / incidence)** is the proportion of the population identified as multidimensionally poor (deprived in at least one-third of the weighted indicators), and **A (intensity of poverty)** is the average proportion of weighted indicators in which the poor are deprived, averaged only across the poor. **Significance:** This decomposition separates *how many* people are poor (H) from *how deprived* the poor are (A) — two dimensions a single income-based headcount cannot distinguish. **Limitation:** Both H and A depend on the chosen deprivation cutoff (one-third weighted-indicator threshold) and indicator weights; changing either alters both numbers without any real change in living conditions.
-- ⚠️ **Claim:** Incidence and intensity can move in different directions, and this divergence is the precise analytical demand behind the 2020 GS-II Mains question. **Evidence:** A region can reduce the *number* of multidimensionally poor households (falling H) while the poor who remain face deeper, more concentrated deprivation (rising or stagnant A) — for instance if the easiest-to-lift households exit poverty first while the hardest-to-reach households remain deprived across more indicators. **Significance:** This is why "incidence and intensity of poverty against income-based measurement" (2020 GS-II, 15 marks) requires the H × A decomposition rather than a single poverty-reduction number. **Limitation:** Distinguishing whether H or A changed requires household-level panel or repeated cross-sectional data; a single survey round cannot show whether the same households moved out of poverty or different households entered and exited.
-- ✅ **Claim:** An income-based poverty line records only whether income or consumption crosses a threshold, so it cannot show the composition or overlap of deprivation the way MPI's H × A structure can. **Evidence:** An income/consumption poverty headcount ratio answers only "how many are below the line," while it is blind to whether the poor face simultaneous nutrition, schooling, sanitation or housing deficits, or only one, and blind to how deeply deprived they are. **Significance:** This is the core reason NITI Aayog's national MPI complements rather than replaces the income-poverty ratio, and it is the analytical basis for the 2020 GS-II "against income-based measurement" contrast. **Limitation:** MPI does not price deprivation in monetary terms, so it cannot substitute for income-poverty analysis when the adequacy of a monetary transfer needs to be assessed.
-
-##### 6A. Limitations and trade-offs
-
-- ⚠️ A fast-growth phase can still be job-poor or regionally concentrated, so GDP expansion may widen capability gaps unless labour-intensive sectors and public services also improve.
-- ⚠️ **HDI is an average**: it can show progress even when gender, caste, tribal or district-level deprivation remains deep; that is why IHDI and MPI matter for balance.
-- ⚠️ **IHDI and MPI are choice-dependent composites**: indicator selection, weights and survey periodicity shape the picture, so they guide policy but do not replace sector-wise diagnosis.
-- ⚠️ Welfare expansion can reduce measured deprivation quickly, but without productivity, learning quality and decent jobs, gains may remain shallow or fiscally difficult to sustain.
-- ⚠️ Inter-state comparison is useful, but historical social reform, migration, remittances, demography and administrative capacity mean one state's model cannot be copied mechanically elsewhere.
-- ⚠️ Per-capita or human-development progress can coexist with ecological stress, urban exclusion and unpaid care burdens, so development assessment must stay broader than headline composites.
-
-##### 6. Must-Know Facts for Prelims
-
-- ✅ HDI uses life expectancy, education and GNI per capita; it is not an income-only index.
-- ✅ IHDI equals HDI when there is no inequality and falls below HDI as inequality rises.
-- ✅ MPI is household-level and multidimensional; it is not computed from income alone.
-- ✅ MPI = H (incidence/headcount ratio) × A (intensity of poverty, the average deprivation share among the poor); incidence and intensity can move differently, which is why income-based poverty alone misses the composition of deprivation.
-- ✅ In standard MPI presentations, the three dimensions are health, education and living standards, with household indicators such as nutrition, child mortality, years of schooling, school attendance, cooking fuel, sanitation, drinking water, electricity, housing and assets.
-- ✅ Global MPI is associated with UNDP and OPHI, while NITI Aayog publishes India's national MPI for domestic policy use.
-- ✅ Growth is necessary for fiscal capacity but does not guarantee development or inclusion.
-- ✅ GNP/GDP per capita alone does not connote development because it can hide distribution, capability failure, unpaid work and ecological costs.
-- ✅ Per-capita income is an average and can hide distribution, unpaid work and ecological costs.
-- ✅ Amartya Sen's capability approach shifts the focus from commodities or income alone to the substantive freedoms people can actually exercise.
-- ✅ Social capital matters in development because trust, norms and networks can improve cooperation, local participation and scheme effectiveness.
-- ✅ The former World Bank Ease of Doing Business index tracked the business-regulation environment - such as starting a business, construction permits, electricity, property registration, credit, taxes, trade, contract enforcement and insolvency - not human development or inclusive growth.
-- ✅ The 2025 Mains PYQ directly asked why IHDI is a better indicator of inclusive growth.
-- ✅ HDI records average achievement; IHDI adjusts for inequality; MPI identifies overlapping household deprivation, so they answer different exam questions.
-
-##### 7. UPSC traps
-
-- ❌ HDI and IHDI measure identical outcomes. -> IHDI adjusts each HDI dimension for
-  inequality.
-- ❌ MPI is another poverty-line headcount. -> It identifies simultaneous non-income
-  deprivations.
-- ❌ A high GDP growth rate proves inclusive growth. -> Employment, distribution and access
-  must also improve.
-- ❌ HDI directly measures political freedom. -> Its three formal dimensions are health,
-  education and income.
-- ❌ Development can be inferred from nominal GDP. -> Real, per-capita and social indicators
-  are required.
+| Evidence | The 2020 GS-II routed demand explicitly contrasts incidence and intensity with income-based measurement; NITI's national MPI is designed as a complementary diagnostic. |
+| Prelims trap | MPI is not a monetary poverty line, and monetary headcount is not MPI incidence. |
+| Mains use | Compare unit, threshold, information revealed, policy use and blind spots in a compact matrix. |
 
-##### 8. 📰 Economic Survey 2025-26 / current anchor
+#### MINI RECAP
 
-- 📰 NITI MPI fell from 55.3% in 2005-06 to 14.96% in 2019-21 and was estimated at 11.28% in
-  2022-23.
-- 📰 Extreme poverty was 5.3% in 2022-23 using the revised World Bank USD 3/day line.
-- 📰 The Survey treats education, health, skills and productive employment as a connected
-  human-capital system.
+- Monetary and multidimensional poverty differ.
+- Threshold choices matter in both.
+- Household measures can hide individual inequality.
 
-⚠️ **Interpretation caution:** The Survey attributes the USD 3.00 line to the World
-Bank's June 2025 revision at **2021 PPP prices** and says the resulting estimates are
-not directly comparable with older poverty lines. It is an international benchmark, not
-India's official domestic poverty line. Composite indices also cannot display every
-intra-state, gender, caste or quality-of-service gap.
+---
+### SESSION 11 - Growth-development feedback, jobless growth and policy design
 
-##### 9. PYQ application
+#### VISUAL FIRST
 
-- ⚠️ 2025 GS-III: Distinguish HDI and IHDI and explain why IHDI better reflects inclusive
-  growth.
-- ⚠️ 2024 GS-III: Examine whether post-reform social-service expenditure has supported
-  inclusive growth.
-- ⚠️ 2020 GS-II: Analyse the incidence and intensity of poverty against income-based
-  measurement — answer with the MPI = H × A decomposition in **5A** and the reasoning why
-  income-only measurement cannot separate how many are poor from how deeply they are poor.
+```text
+PRODUCTIVITY / REAL GROWTH
+        |
+        +--> jobs and wages ------> nutrition, schooling, security
+        |
+        +--> profits/investment --> technology and capacity
+        |
+        '--> tax base -----------> public health, education, infrastructure
+                                      |
+                                      v
+                              HUMAN CAPITAL / AGENCY
+                                      |
+                                      +----> productivity feedback
 
-##### 10. Mains angles
+FAILURE MODES: jobless growth | inequality | weak services | pollution | climate risk
+```
 
-- ⚠️ Growth is an instrument; development is the expansion of capabilities, dignity and
-  resilience.
-- ⚠️ Use a five-part answer: income, jobs, health, education and distribution, followed by
-  sustainability.
-- ⚠️ Recommend disaggregated outcomes, quality public services and employment-intensive
-  productivity growth.
+*Visual purpose: establish the decision path before introducing prose.*
 
-> **Answer thesis:** Treat growth as the resource base, employment and public services as conversion channels, and IHDI/MPI as tests of distribution and deprivation.
+#### DEFINITION
 
-##### 11. Probable questions
+The growth-development feedback loop links productivity and output to jobs, incomes and fiscal capacity, then links health, education and security back to labour productivity and innovation.
 
-- ⚠️ **Prelims:** Which dimensions enter HDI, IHDI and MPI, and how do their units of
-  analysis differ?
-- ⚠️ **Mains (10 marks):** Why does IHDI reveal aspects of inclusive growth that HDI cannot?
-- ⚠️ **Mains (15 marks):** Economic growth expands resources, but institutions determine
-  whether it becomes human development. Discuss.
+#### ANSWER-GRABBING LINE
 
-##### 11A. Answer architecture (10/15/20-mark support)
+> Human development is not merely a distributional use of growth; it is productive infrastructure that can strengthen the quality and durability of future growth.
 
-###### Directive decoder
+#### MUST-WRITE KEYWORDS
 
-- ⚠️ **Discuss:** define growth, development and the relevant index first, then show how growth becomes capability expansion through jobs and public services.
-- ⚠️ **Examine / Analyse:** break the answer into mechanism, measurement and Indian variation - how HDI, IHDI and MPI reveal what GDP or per-capita averages miss.
-- ⚠️ **Critically examine / Evaluate:** after the main case for human-development indicators, add limits of composites, inter-state comparability issues and quality-versus-access cautions from **6A**.
-- ⚠️ **Compare / Justify:** for prompts such as *HDI vs IHDI* or *growth vs development*, compare unit, focus, what each captures, and conclude why the broader or inequality-adjusted measure is more suitable for inclusive-growth questions.
+- **virtuous cycle**
+- **employment elasticity**
+- **human-capital feedback**
+- **social protection**
+- **productive inclusion**
+- **just transition**
 
-**Evidence chain:** Kerala-Bihar contrast + NITI Aayog national MPI + Aspirational Districts Programme + MGNREGA + ICDS/PM POSHAN + Kudumbashree/SHG social-capital example.
+#### CORE EXPLANATION
 
-**Counter-evidence:** Use **6A. Limitations and trade-offs** to show why averages, composites and welfare gains need balance through quality, productivity and distribution cautions.
+Growth can reduce deprivation through jobs, wages, cheaper goods and public revenue. The channel weakens when output is concentrated in capital-intensive sectors, labour participation is constrained, wages lag productivity or public services are inaccessible. This is the jobless-growth problem: output rises without commensurate decent employment.
 
-**10/15/20-mark scaling:**
-- ⚠️ **10 marks:** thesis + 2-3 evidence units + one sharp distinction (for example, HDI vs IHDI).
-- ⚠️ **15 marks:** thesis + 4-5 evidence units across state variation, MPI mechanics and capability approach + one counter-dimension.
-- ⚠️ **20 marks:** thesis + 5-6 evidence units spanning growth, distribution, capability, institutions and district variation + balanced conclusion using **6A**.
+Inequality can obstruct capability formation by limiting nutrition, schooling, credit and voice; poor human capital then depresses productivity and mobility. Social protection cushions shocks and prevents distress sales or school withdrawal, while quality health, education, skills and infrastructure build productive capability. Protection and transformation are complements.
 
-**Reasoned verdict template:** ⚠️ *India's experience shows that growth is necessary but not sufficient; development becomes credible only when rising output is converted into health, education, dignity and reduced multidimensional deprivation across regions and groups.*
+Environmental trade-offs require more than attaching a green adjective. Pollution harms health and labour productivity; resource depletion shifts costs to future generations; climate shocks can reverse poverty exits. Policy should support employment-intensive productivity, universal quality basic services, targeted support for residual deprivation, regional investment and a just transition.
 
-##### 12. Study links
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
 
-- ✅ Advanced companion: `../advanced/02_Growth-Development-HDI-IHDI-and-MPI.md`.
-- ✅ `01_National-Income-GDP-GVA-and-Measurement.md` — output and per-capita measures.
-- ✅ `22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` — productive inclusion
-  through jobs.
-- ✅ `23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md` — distribution, poverty
-  and public services.
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
+- **Claim:** Inclusive development requires both productive participation and protection against capability-destroying shocks.
+- **Named evidence:** *Economic Survey 2025-26* links education, health, skilling and employment to productivity and social mobility; NITI MPI enables deprivation-specific territorial targeting.
+- **Analysis:** Public action can convert fiscal resources into human capital, which expands both welfare and future productive capacity.
+- **Qualification:** Higher expenditure is an input; access, quality, utilisation and outcomes must be separately demonstrated.
 
-##### 2026 PYQ Integration
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | *Economic Survey 2025-26* links education, health, skilling and employment to productivity and social mobility; NITI MPI enables deprivation-specific territorial targeting. |
+| Prelims trap | Inclusive growth is not synonymous with redistribution after growth or with welfare spending alone. |
+| Mains use | Organise policy under productive jobs, universal capabilities, targeted protection, territorial convergence and environmental resilience. |
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+#### MINI RECAP
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 100 | Multidimensional Poverty Index methodology, indicators, and institutional comparison | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+- Jobs transmit growth.
+- Capabilities feed productivity.
+- Expenditure must be tested against outcomes.
 
-###### What this owner must now support
+---
+### SESSION 12 - Comparison dashboard: HDI, IHDI, global MPI and national MPI
 
-- Multidimensional Poverty Index methodology, indicators, and institutional comparison
+#### VISUAL FIRST
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+```text
+QUESTION                  BEST STARTING MEASURE
+Average achievement       HDI
+Achievement after         IHDI
+inequality
+Acute overlapping         Global MPI
+deprivation, comparable
+Domestic State/district   India's National MPI
+policy diagnosis
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+No single index answers all four questions.
+```
 
-##### Recent PYQ Integration (2024-2025)
+*Visual purpose: establish the decision path before introducing prose.*
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+#### DEFINITION
 
-- **Years represented:** 2025
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
+A measurement dashboard assigns each index to the question it was designed to answer and prevents cross-index substitution.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | GS-III | 1 | HDI versus IHDI as an indicator of inclusive growth | Distinguish · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+#### ANSWER-GRABBING LINE
 
-###### What this owner must now support
+> Choose the metric after defining the policy question: averages, distribution, acute overlap and domestic targeting are distinct analytical tasks.
 
-- HDI versus IHDI as an indicator of inclusive growth
+#### MUST-WRITE KEYWORDS
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+- **average achievement**
+- **distribution adjustment**
+- **acute deprivation**
+- **national adaptation**
+- **dashboard**
+- **decomposition**
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+#### CORE EXPLANATION
 
-##### Historical PYQ Integration (2018-2023)
+HDI is country-level average achievement in three dimensions. IHDI retains those dimensions but discounts them for inequality. Global MPI identifies acute household deprivations using ten internationally comparable indicators. India's national MPI uses 12 nationally adapted indicators and NFHS data for domestic diagnosis.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+HDI and IHDI use achievement indices; MPI uses deprivation indicators and a dual-cutoff method. IHDI's inequality adjustment is not the same as MPI's identification of overlapping deprivation. Global and national MPI values are not interchangeable because indicator definitions and weights differ.
 
-- **Years represented:** 2018, 2019, 2020
-- **Paper(s):** GS-II, Prelims GS-I
-- **Routed question demands:** 4
+For Prelims, decode publisher, unit, dimensions, indicators, formula and threshold. For Mains, use a dashboard: real per-capita growth, employment and productivity; HDI components; IHDI loss; monetary poverty; MPI H, A and contributions; gender and regional disaggregation; environmental indicators.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 48 | GNP per capita not connoting economic development conditions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 77 | World Bank Ease of Doing Business Index components | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 80 | Social capital concept in national development economics | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | GS-II | 16 | Incidence and intensity of poverty against income-based measurement | Analyse · 15 marks · 250 words | Economy route terminates in answer-complete Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
 
-###### What this owner must now support
+- **Claim:** Measurement pluralism is disciplined when each index has a defined purpose rather than being treated as competing truth claims.
+- **Named evidence:** UNDP, OPHI and NITI Aayog publish distinct architectures for average achievement, inequality adjustment and multidimensional deprivation.
+- **Analysis:** Using complementary measures reduces the risk that progress in one aggregate masks failure in another dimension or group.
+- **Qualification:** A larger dashboard increases information but also demands consistent vintages, transparent metadata and careful communication.
 
-- GNP per capita not connoting economic development conditions
-- World Bank Ease of Doing Business Index components
-- Social capital concept in national development economics
-- Incidence and intensity of poverty against income-based measurement
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | UNDP, OPHI and NITI Aayog publish distinct architectures for average achievement, inequality adjustment and multidimensional deprivation. |
+| Prelims trap | HDI, IHDI and MPI cannot be ranked as broader and narrower versions of one formula. |
+| Mains use | Use the measure-purpose matrix as the analytical core and finish with disaggregated dashboard governance. |
 
-###### Semantic-completeness ownership and PYQ control
+#### MINI RECAP
 
-- **Official syllabus/index and owned core:** Development expands capabilities, health, education, income security, agency and sustainability; HDI combines dimension indices geometrically, IHDI discounts inequality, and MPI counts overlapping deprivations using stated indicators and cut-offs.
-- **Indispensable distinction and prerequisite taxonomy:** Growth is not development, per-capita average is not distribution, HDI is not IHDI, income poverty is not multidimensional poverty, and an index rank change is not automatically a welfare gain.
-- **Mechanism, implementation and evidence control:** Name publisher, edition/release date, reference year and methodology; compare levels with levels and ranks with ranks, preserve denominator and uncertainty, and do not infer causation from cross-country association.
-- **✅ Verified current fact (official sources rechecked 5 September 2026):**
-  Rechecked 6 September 2026 against the listed official publisher or regulator source. The UNDP HDI page was substantively retrievable on 2026-09-06 and is used only for its HDI dimensions, geometric-mean construction and stated limits. No live India rank, score, IHDI loss, MPI headcount or poverty estimate was taken from it. Sources: https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
-- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
-  registration, a report, a training completion, a disposal count or a ranking
-  can support a causal argument only after authority, capacity, incentives,
-  distribution, implementation, grievance, outcome and alternative explanations
-  are tested.
-- **Canonical and cross-owner boundary:** this Economy owner teaches the
-  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
-  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
-  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
-  evidence may be routed but is not silently duplicated or re-owned.
-- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
-  standard public-administration/economy taxonomy and complete verified PYQ
-  demands were checked for absent concepts, institutions, mechanisms,
-  classifications, exceptions, comparisons, criticisms, current status,
-  answer architecture and dependent artifacts.
-- **Verified PYQ ownership, 2018-2026:** The audited ledgers route 2020 GS-II on incidence and intensity of poverty, 2024 GS-III on social-service expenditure and inclusive growth, and 2025 GS-III on HDI versus IHDI here. Objective routes on GNP per capita, Ease of Doing Business, social capital and 2026 MPI methodology remain answer-letter free.
+- Match measure to question.
+- Do not mix architectures.
+- Metadata is part of the answer.
 
-### ECONOMY DEEP-REVIEW CORE CONTROL
+---
+### SESSION 13 - Exam synthesis: calculation, interpretation and qualified policy verdict
 
-- **Must remember:** Development expands capabilities, health, education, income security, agency and sustainability; HDI combines dimension indices geometrically, IHDI discounts inequality, and MPI counts overlapping deprivations using stated indicators and cut-offs.
-- **Close distinction:** Growth is not development, per-capita average is not distribution, HDI is not IHDI, income poverty is not multidimensional poverty, and an index rank change is not automatically a welfare gain.
-- **Formula / status / evidence / causal limit:** Name publisher, edition/release date, reference year and methodology; compare levels with levels and ranks with ranks, preserve denominator and uncertainty, and do not infer causation from cross-country association.
+#### VISUAL FIRST
+
+```text
+DEFINE THE QUESTION
+      |
+      v
+SELECT METRIC -> decode institution + unit + formula + threshold
+      |
+      v
+READ RESULT -> value + component + distribution + data year
+      |
+      v
+EXPLAIN MECHANISM -> growth/jobs/services/institutions/environment
+      |
+      v
+QUALIFY -> averages + cutoffs + household unit + lag + causation
+      |
+      v
+POLICY -> productive inclusion + capabilities + resilience
+```
+
+*Visual purpose: establish the decision path before introducing prose.*
+
+#### DEFINITION
+
+Exam synthesis connects a correctly decoded metric to an economic mechanism, named evidence, measurement qualification and feasible policy response.
+
+#### ANSWER-GRABBING LINE
+
+> The examiner rewards not the largest data dump but the cleanest chain from concept to measurement, mechanism, evidence, limitation and policy.
+
+#### MUST-WRITE KEYWORDS
+
+- **decode**
+- **calculate**
+- **interpret**
+- **disaggregate**
+- **qualify**
+- **policy feedback**
+
+#### CORE EXPLANATION
+
+For a calculation question, state the unit and apply the exact formula. For HDI, normalise indicators, average the two schooling indices, log-transform income and use the geometric mean. For MPI, identify indicator deprivations, apply weights and the poverty cutoff, censor non-poor deprivations, calculate H and A, then multiply.
+
+For an interpretive question, never infer a welfare story from rank alone. State publisher, release/report year, data/reference year and whether the value is a survey observation, estimate or projection. Compare like with like.
+
+For a policy question, distinguish growth creation from conversion. Productivity, investment and structural transformation supply resources; jobs, health, education, institutions and environmental resilience determine distribution and durability. Close by recommending a transparent, disaggregated dashboard rather than replacing GDP with one composite index.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** A strong development answer treats measurement as part of causal analysis, not as a decorative statistic.
+- **Named evidence:** The 2025 GS-III question directly requires HDI-IHDI distinction for inclusive growth, while the 2020 GS-II demand requires H-A decomposition against income poverty.
+- **Analysis:** Formula literacy prevents conceptual errors; mechanism and qualification convert description into evaluation.
+- **Qualification:** No index can establish causation without policy, institutional and counterfactual evidence.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | The 2025 GS-III question directly requires HDI-IHDI distinction for inclusive growth, while the 2020 GS-II demand requires H-A decomposition against income poverty. |
+| Prelims trap | Do not quote an undated rank, threshold or percentage; do not treat a publication year as the observation year. |
+| Mains use | Use the answer spine: define -> formula -> evidence -> mechanism -> limitation -> targeted and sustainable policy. |
+
+#### MINI RECAP
+
+- Decode before comparing.
+- Attach dates to statistics.
+- Conclude with capabilities, inclusion and sustainability.
+
+---
+
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Growth versus development?
+**Practice contract:** Exactly 32 original MCQs appear before PYQs. Correct answers follow `ABCD` repeated eight times. Every option receives a substantive question-specific explanation and every question ends with a unique examiner trap.
 
-A. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-B. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-C. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-D. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
+### MCQ 1
 
-**Answer: A.**
-**Explanation:** Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+Which observation is sufficient by itself to establish economic growth in the strict sense?
 
-### Q2. Which option preserves the accounting or regulatory boundary of Growth versus development?
-
-A. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-B. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-C. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-D. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-
-**Answer: B.**
-**Explanation:** Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses Growth versus development without losing its vintage, basket or legal status?
-
-A. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-B. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-C. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-D. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-
-**Answer: C.**
-**Explanation:** Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Growth versus development?
-
-A. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-B. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-C. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-D. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-
-**Answer: D.**
-**Explanation:** Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies Capability approach?
-
-A. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-B. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-C. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-D. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
+- A. Nominal GDP rose while the price level also rose
+- B. Real GDP increased over the stated period
+- C. The HDI rank improved
+- D. Public social expenditure increased
 
 **Answer: A.**
-**Explanation:** Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q6. Which option preserves the accounting or regulatory boundary of Capability approach?
+**Option-specific explanations:**
 
-A. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-B. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-C. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-D. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
+- **A - Correct:** Nominal expansion can be entirely price-driven, so it does not establish higher real output.
+- **B - Incorrect:** A rise in real GDP directly records a quantitative expansion of inflation-adjusted output.
+- **C - Incorrect:** HDI rank is a relative human-development position, not a growth measure.
+- **D - Incorrect:** Expenditure is an input and may rise without measured output growth.
+
+**Examiner trap 1:** Growth is established by a real quantity measure, not by a welfare or spending proxy.
+
+### MCQ 2
+
+Which statement best distinguishes development from growth?
+
+- A. Development excludes changes in output
+- B. Development adds structural, distributive, capability and sustainability dimensions to quantitative expansion
+- C. Development is measured only by per-capita GNI
+- D. Development begins only after growth has ended
 
 **Answer: B.**
-**Explanation:** Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q7. Which statement uses Capability approach without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-B. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-C. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-D. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
+- **A - Incorrect:** Development normally includes the resource gains produced by growth rather than excluding output.
+- **B - Correct:** Development asks how growth changes structure, capabilities, distribution and sustainability.
+- **C - Incorrect:** Per-capita GNI is one means and one average, not the sole definition.
+- **D - Incorrect:** Growth and development interact; they are not sequential non-overlapping eras.
+
+**Examiner trap 2:** Do not define development as growth plus any one social indicator.
+
+### MCQ 3
+
+A country records rapid real GDP growth but stagnant employment and widening regional deprivation. The most accurate description is
+
+- A. development without growth
+- B. negative growth with inclusion
+- C. job-poor growth with weak conversion into broad development
+- D. proof that productivity has fallen
 
 **Answer: C.**
-**Explanation:** Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Capability approach?
+**Option-specific explanations:**
 
-A. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-B. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-C. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-D. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
+- **A - Incorrect:** Real GDP growth rules out the description of no growth.
+- **B - Incorrect:** Stagnant employment and widening deprivation do not establish inclusion.
+- **C - Correct:** Output can expand with weak labour absorption and uneven capability conversion.
+- **D - Incorrect:** Productivity can rise in capital-intensive sectors even when employment stagnates.
+
+**Examiner trap 3:** Jobless growth concerns employment transmission, not necessarily absence of productivity.
+
+### MCQ 4
+
+Which policy package most directly supports sustainable inclusive growth?
+
+- A. Only raising aggregate investment
+- B. Only increasing cash transfers
+- C. Only improving the HDI rank
+- D. Employment-intensive productivity, quality basic services, protection against shocks and ecological resilience
 
 **Answer: D.**
-**Explanation:** Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q9. Which statement correctly identifies HDI architecture?
+**Option-specific explanations:**
 
-A. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-B. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-C. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-D. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
+- **A - Incorrect:** Investment matters but its sectoral, labour and environmental effects must be tested.
+- **B - Incorrect:** Transfers protect consumption but do not alone create capabilities or productive jobs.
+- **C - Incorrect:** A rank target can encourage indicator gaming and ignores mechanisms.
+- **D - Correct:** The package combines production, participation, capability, protection and sustainability.
+
+**Examiner trap 4:** Inclusive growth is both a process of participation and an outcome of shared capability.
+
+### MCQ 5
+
+How many formal dimensions and component indicators does the HDI have under UNDP's 2025 method?
+
+- A. Three dimensions and four indicators
+- B. Four dimensions and four indicators
+- C. Three dimensions and three indicators
+- D. Four dimensions and five indicators
 
 **Answer: A.**
-**Explanation:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q10. Which option preserves the accounting or regulatory boundary of HDI architecture?
+**Option-specific explanations:**
 
-A. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-B. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-C. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-D. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
+- **A - Correct:** Health, education and living standard are three dimensions; education has two indicators, making four indicators overall.
+- **B - Incorrect:** Inequality is not a fourth HDI dimension.
+- **C - Incorrect:** Education uses both mean and expected years, so there are more than three indicators.
+- **D - Incorrect:** Political freedom is not an HDI component indicator.
+
+**Examiner trap 5:** Do not count two education indicators as two dimensions.
+
+### MCQ 6
+
+Which is the HDI standard-of-living indicator?
+
+- A. Real GDP per capita at market exchange rates
+- B. GNI per capita in constant 2021 PPP dollars under the 2025 technical note
+- C. Household consumption below a poverty line
+- D. Average household wealth
 
 **Answer: B.**
-**Explanation:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q11. Which statement uses HDI architecture without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-B. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-C. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-D. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
+- **A - Incorrect:** GDP and market exchange rates do not match the UNDP definition.
+- **B - Correct:** UNDP uses GNI per capita in PPP terms and identifies the PPP/base vintage.
+- **C - Incorrect:** A poverty-line headcount belongs to monetary poverty measurement.
+- **D - Incorrect:** Wealth is not the formal HDI living-standard indicator.
+
+**Examiner trap 6:** HDI uses GNI, PPP and a dated methodology, not GDP alone.
+
+### MCQ 7
+
+Under the 2025 UNDP technical note, the education index is formed by
+
+- A. multiplying literacy and enrolment rates
+- B. using mean years of schooling alone
+- C. averaging the normalised expected-years and mean-years schooling indices
+- D. taking the geometric mean of school attendance and attainment
 
 **Answer: C.**
-**Explanation:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q12. Which option avoids the standard UPSC close-option trap about HDI architecture?
+**Option-specific explanations:**
 
-A. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-B. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-C. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-D. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
+- **A - Incorrect:** Literacy and enrolment are not the current component pair.
+- **B - Incorrect:** Mean years captures adult attainment but not expected schooling for entrants.
+- **C - Correct:** Each schooling indicator is normalised, then their indices are averaged arithmetically.
+- **D - Incorrect:** The named indicators and aggregation are incorrect.
+
+**Examiner trap 7:** The final HDI is geometric, but the two education subindices are arithmetically averaged.
+
+### MCQ 8
+
+Why is GNI per capita logarithmically transformed in HDI?
+
+- A. To remove all income inequality
+- B. To convert nominal income into real income
+- C. To make income equal in weight to population
+- D. To reflect diminishing capability gains from additional income
 
 **Answer: D.**
-**Explanation:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q13. Which statement correctly identifies IHDI inequality adjustment?
+**Option-specific explanations:**
 
-A. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-B. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-C. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-D. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
+- **A - Incorrect:** Inequality is addressed by IHDI, not removed by a log.
+- **B - Incorrect:** PPP and constant-price procedures address purchasing power and price comparability.
+- **C - Incorrect:** Weighting and transformation are different operations.
+- **D - Correct:** UNDP treats additional income as contributing less to capabilities at higher levels.
+
+**Examiner trap 8:** The logarithm is about diminishing returns, not inequality adjustment.
+
+### MCQ 9
+
+Which set gives the 2025 HDI goalposts correctly?
+
+- A. Life expectancy 20-85; EYS 0-18; MYS 0-15; GNIpc 100-75,000 in 2021 PPP dollars
+- B. Life expectancy 0-100; literacy 0-100; GDPpc 0-100,000
+- C. Life expectancy 25-80; EYS 0-15; MYS 0-12; GNIpc 500-50,000
+- D. The goalposts equal the lowest and highest country values each year
 
 **Answer: A.**
-**Explanation:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q14. Which option preserves the accounting or regulatory boundary of IHDI inequality adjustment?
+**Option-specific explanations:**
 
-A. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-B. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-C. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-D. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
+- **A - Correct:** These are the explicit minimum and maximum values in UNDP Technical Note 1 for HDR 2025.
+- **B - Incorrect:** The indicators and bounds do not match the current method.
+- **C - Incorrect:** These values are not the applicable technical-note goalposts.
+- **D - Incorrect:** The method uses fixed stated goalposts rather than automatically adopting each year's extremes.
+
+**Examiner trap 9:** Goalposts are methodology-specific; always state the report/technical-note vintage.
+
+### MCQ 10
+
+What does the geometric mean in HDI primarily do?
+
+- A. Makes every dimension perfectly substitutable
+- B. Penalises unbalanced achievement more than a simple arithmetic mean
+- C. Adjusts each dimension for inequality
+- D. Converts GNI into PPP dollars
 
 **Answer: B.**
-**Explanation:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q15. Which statement uses IHDI inequality adjustment without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-B. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-C. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-D. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
+- **A - Incorrect:** A geometric mean limits, rather than creates, perfect substitution.
+- **B - Correct:** A low dimension reduces the product and therefore the composite more strongly.
+- **C - Incorrect:** Dimension-level inequality discounting belongs to IHDI.
+- **D - Incorrect:** PPP conversion precedes aggregation and is not performed by the mean.
+
+**Examiner trap 10:** Geometric aggregation reduces but does not abolish substitutability.
+
+### MCQ 11
+
+A country improves its HDI value but falls in rank. Which inference is valid?
+
+- A. Its human development necessarily deteriorated
+- B. UNDP changed HDI into MPI
+- C. Other countries or the comparison set may have changed relatively faster
+- D. Its IHDI must have risen
 
 **Answer: C.**
-**Explanation:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q16. Which option avoids the standard UPSC close-option trap about IHDI inequality adjustment?
+**Option-specific explanations:**
 
-A. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-B. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-C. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-D. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
+- **A - Incorrect:** A higher comparable value indicates improvement, subject to revision, even if rank falls.
+- **B - Incorrect:** HDI and MPI remain distinct methods.
+- **C - Correct:** Rank is relative and can move differently from the country's value.
+- **D - Incorrect:** HDI movement does not determine IHDI movement.
+
+**Examiner trap 11:** Rank is ordinal and depends on peers, coverage and revisions.
+
+### MCQ 12
+
+Which statement about report year and data year is correct?
+
+- A. They are always identical
+- B. A rank has no publication vintage
+- C. Every component necessarily uses the same survey date
+- D. A report may publish values mainly referring to an earlier reference year, which must be stated
 
 **Answer: D.**
-**Explanation:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q17. Which statement correctly identifies MPI purpose?
+**Option-specific explanations:**
 
-A. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-B. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-C. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-D. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
+- **A - Incorrect:** International reports commonly use lagged inputs.
+- **B - Incorrect:** Rank is tied to a specific release and comparison set.
+- **C - Incorrect:** Component sources can have different vintages.
+- **D - Correct:** Separating publication and reference years prevents false currency.
+
+**Examiner trap 12:** Never call a report-year label the observation year without checking metadata.
+
+### MCQ 13
+
+What is the IHDI?
+
+- A. HDI after discounting each dimension for inequality
+- B. HDI plus a fourth inequality dimension
+- C. MPI divided by HDI
+- D. A gender-only version of HDI
 
 **Answer: A.**
-**Explanation:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q18. Which option preserves the accounting or regulatory boundary of MPI purpose?
+**Option-specific explanations:**
 
-A. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-B. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-C. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-D. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
+- **A - Correct:** IHDI adjusts health, education and income indices for their distribution.
+- **B - Incorrect:** Inequality is an adjustment, not an added dimension.
+- **C - Incorrect:** MPI and HDI use different architectures and cannot form this ratio.
+- **D - Incorrect:** GDI and GII are gender-focused measures.
+
+**Examiner trap 13:** IHDI retains exactly the three HDI dimensions.
+
+### MCQ 14
+
+When does IHDI equal HDI?
+
+- A. When income inequality alone is zero
+- B. When there is no inequality across people in all three dimensions
+- C. When MPI is zero
+- D. When a country has very high HDI
 
 **Answer: B.**
-**Explanation:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q19. Which statement uses MPI purpose without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-B. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-C. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-D. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
+- **A - Incorrect:** Equality in one dimension is insufficient if others are unequal.
+- **B - Correct:** With every dimension loss zero, adjusted and unadjusted indices coincide.
+- **C - Incorrect:** MPI zero does not mathematically determine IHDI.
+- **D - Incorrect:** A high average can coexist with large inequality.
+
+**Examiner trap 14:** The equality case is distributional, not a development-category threshold.
+
+### MCQ 15
+
+The proportional loss due to inequality is expressed as
+
+- A. HDI minus MPI
+- B. IHDI divided by MPI
+- C. 1 minus IHDI divided by HDI
+- D. HDI rank minus IHDI rank
 
 **Answer: C.**
-**Explanation:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q20. Which option avoids the standard UPSC close-option trap about MPI purpose?
+**Option-specific explanations:**
 
-A. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-B. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-C. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-D. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
+- **A - Incorrect:** MPI is not part of the IHDI loss formula.
+- **B - Incorrect:** The ratio has no such interpretation.
+- **C - Correct:** The difference relative to HDI gives the proportional loss.
+- **D - Incorrect:** Rank difference is ordinal and is calculated on a restricted comparison set.
+
+**Examiner trap 15:** Do not confuse value loss with rank difference.
+
+### MCQ 16
+
+Which limitation of IHDI is stated by UNDP?
+
+- A. It omits income completely
+- B. It has no health dimension
+- C. It is always greater than HDI
+- D. It is not association-sensitive because dimensions are not jointly observed for each person in one harmonised source
 
 **Answer: D.**
-**Explanation:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q21. Which statement correctly identifies Social capital?
+**Option-specific explanations:**
 
-A. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-B. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-C. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-D. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
+- **A - Incorrect:** Income is one of the adjusted dimensions.
+- **B - Incorrect:** Health remains a core dimension.
+- **C - Incorrect:** IHDI cannot exceed HDI under the adjustment.
+- **D - Correct:** The data architecture prevents observing overlapping inequalities for the same individuals.
+
+**Examiner trap 16:** IHDI distribution sensitivity is not the same as MPI-style joint deprivation identification.
+
+### MCQ 17
+
+Which list contains the global MPI's health indicators?
+
+- A. Nutrition and child mortality
+- B. Nutrition, maternal health and bank account
+- C. Life expectancy and morbidity
+- D. Infant mortality and insurance
 
 **Answer: A.**
-**Explanation:** Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q22. Which option preserves the accounting or regulatory boundary of Social capital?
+**Option-specific explanations:**
 
-A. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-B. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-C. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-D. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
+- **A - Correct:** The global method assigns nutrition and child mortality weight 1/6 each.
+- **B - Incorrect:** Maternal health and bank account are national-India adaptations in different dimensions.
+- **C - Incorrect:** Life expectancy belongs to HDI, and morbidity is not a named global MPI indicator.
+- **D - Incorrect:** The named pair is not the global architecture.
+
+**Examiner trap 17:** Do not import India's added indicators into the global MPI.
+
+### MCQ 18
+
+In the global MPI, each living-standard indicator carries what weight?
+
+- A. One-sixth
+- B. One-eighteenth
+- C. One-third
+- D. One-tenth
 
 **Answer: B.**
-**Explanation:** Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q23. Which statement uses Social capital without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-B. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-C. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-D. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
+- **A - Incorrect:** One-sixth applies to each health and education indicator.
+- **B - Correct:** Six indicators divide the one-third living-standard dimension equally.
+- **C - Incorrect:** One-third is the total dimension weight.
+- **D - Incorrect:** Ten indicators are not equally weighted.
+
+**Examiner trap 18:** Equal dimensions do not imply equal indicator weights.
+
+### MCQ 19
+
+Under the current global methodology, who is identified as MPI poor?
+
+- A. Anyone deprived in one indicator
+- B. Anyone below a monetary poverty line
+- C. A person in a household deprived in at least one-third of weighted indicators
+- D. Only a person deprived in all three dimensions
 
 **Answer: C.**
-**Explanation:** Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Social capital?
+**Option-specific explanations:**
 
-A. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-B. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-C. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-D. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
+- **A - Incorrect:** One low-weight indicator may be below the poverty cutoff.
+- **B - Incorrect:** MPI identification is non-monetary.
+- **C - Correct:** The weighted score must reach at least one-third.
+- **D - Incorrect:** Deprivation need not include every dimension.
+
+**Examiner trap 19:** The second cutoff applies to the weighted sum, not the raw number of indicators.
+
+### MCQ 20
+
+Which classification is correctly matched in the current global method?
+
+- A. Vulnerable means score below 10 percent
+- B. Severe means score above one-third
+- C. Vulnerable and severe use the same cutoff
+- D. Vulnerable: 20 percent to below one-third; severe: at least 50 percent
 
 **Answer: D.**
-**Explanation:** Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q25. Which statement correctly identifies Growth-resource channel?
+**Option-specific explanations:**
 
-A. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-B. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-C. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-D. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
+- **A - Incorrect:** The vulnerable band begins at one-fifth.
+- **B - Incorrect:** Severe poverty uses a higher one-half threshold.
+- **C - Incorrect:** The categories are distinct.
+- **D - Correct:** These are the verified current global thresholds.
+
+**Examiner trap 20:** Thresholds belong to the global method and should not be transferred automatically.
+
+### MCQ 21
+
+In MPI notation, incidence H means
+
+- A. The share of the population identified as multidimensionally poor
+- B. The average deprivation score among all households
+- C. The number of indicators in the index
+- D. The HDI loss due to inequality
 
 **Answer: A.**
-**Explanation:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q26. Which option preserves the accounting or regulatory boundary of Growth-resource channel?
+**Option-specific explanations:**
 
-A. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-B. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-C. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-D. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
+- **A - Correct:** H equals q divided by n after applying the poverty cutoff.
+- **B - Incorrect:** A, not H, is the poor's average intensity; averaging all households changes the concept.
+- **C - Incorrect:** Indicator count is part of architecture, not incidence.
+- **D - Incorrect:** HDI loss belongs to IHDI.
+
+**Examiner trap 21:** Monetary headcount and MPI incidence use different identification rules.
+
+### MCQ 22
+
+MPI intensity A is
+
+- A. The poverty cutoff
+- B. The average weighted deprivation share among the multidimensionally poor
+- C. The national poverty headcount
+- D. The sum of all uncensored deprivations in the population
 
 **Answer: B.**
-**Explanation:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q27. Which statement uses Growth-resource channel without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-B. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-C. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-D. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
+- **A - Incorrect:** The cutoff identifies poor households but is not A.
+- **B - Correct:** A averages censored deprivation scores over poor people.
+- **C - Incorrect:** H is the headcount ratio.
+- **D - Incorrect:** Aggregation over the full population corresponds to H times A, not A alone.
+
+**Examiner trap 22:** The denominator for A is the poor population.
+
+### MCQ 23
+
+In a population, H is 0.40 and A is 0.50. The MPI is
+
+- A. 0.90
+- B. 0.45
+- C. 0.20
+- D. 0.10
 
 **Answer: C.**
-**Explanation:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Growth-resource channel?
+**Option-specific explanations:**
 
-A. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-B. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-C. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-D. Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
+- **A - Incorrect:** Adding H and A is not the formula.
+- **B - Incorrect:** A simple average is not the adjusted headcount.
+- **C - Correct:** Multiplication gives 0.40 x 0.50 = 0.20.
+- **D - Incorrect:** 0.10 would understate the product.
+
+**Examiner trap 23:** MPI is a product, so preserve decimal or percentage units consistently.
+
+### MCQ 24
+
+If H falls while A among the remaining poor rises, what can be concluded?
+
+- A. Every poor household improved
+- B. Poverty necessarily worsened
+- C. The MPI must be unchanged
+- D. Fewer people are identified as poor, but those remaining may face more intense deprivation
 
 **Answer: D.**
-**Explanation:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q29. Which statement correctly identifies Composition of growth?
+**Option-specific explanations:**
 
-A. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-B. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-C. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-D. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
+- **A - Incorrect:** Cross-sectional H does not prove every household's trajectory.
+- **B - Incorrect:** The net MPI effect depends on the magnitude of both changes.
+- **C - Incorrect:** The product can rise, fall or stay constant.
+- **D - Correct:** The two components can legitimately move in opposite directions.
+
+**Examiner trap 24:** Report both H and A instead of narrating headcount alone.
+
+### MCQ 25
+
+Which institution publishes India's National MPI?
+
+- A. NITI Aayog
+- B. MoSPI alone
+- C. Reserve Bank of India
+- D. Finance Commission
 
 **Answer: A.**
-**Explanation:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q30. Which option preserves the accounting or regulatory boundary of Composition of growth?
+**Option-specific explanations:**
 
-A. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-B. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-C. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-D. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
+- **A - Correct:** NITI Aayog is the nodal publisher for the national MPI exercise.
+- **B - Incorrect:** MoSPI supplies important statistics but is not the publisher of this report.
+- **C - Incorrect:** RBI does not own the national MPI.
+- **D - Incorrect:** The Finance Commission does not publish it.
+
+**Examiner trap 25:** Publisher, survey producer and technical partner are different roles.
+
+### MCQ 26
+
+Which source periods underpin NITI Aayog's 2023 Progress Review comparison?
+
+- A. Census 2001 and 2011
+- B. NFHS-4 (2015-16) and NFHS-5 (2019-21)
+- C. PLFS 2021-22 and 2022-23
+- D. HDR 2022 and HDR 2023
 
 **Answer: B.**
-**Explanation:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q31. Which statement uses Composition of growth without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-B. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-C. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-D. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
+- **A - Incorrect:** The report is based on household health-survey rounds, not censuses.
+- **B - Correct:** These are the two survey periods named in the report.
+- **C - Incorrect:** PLFS is a labour-force survey and not the stated MPI source.
+- **D - Incorrect:** UNDP HDRs do not supply the national comparison microdata.
+
+**Examiner trap 26:** The report's 2023 release date is not its data period.
+
+### MCQ 27
+
+Which pair is added in India's national architecture relative to the global ten-indicator list?
+
+- A. Life expectancy and GNI per capita
+- B. Political participation and safety
+- C. Maternal health and bank account
+- D. Employment and consumption
 
 **Answer: C.**
-**Explanation:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Composition of growth?
+**Option-specific explanations:**
 
-A. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-B. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-C. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-D. Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
+- **A - Incorrect:** These are HDI indicators.
+- **B - Incorrect:** Neither is in the national 12-indicator architecture.
+- **C - Correct:** The national adaptation includes maternal health and bank-account access.
+- **D - Incorrect:** Employment and consumption are important but not the named added indicators.
+
+**Examiner trap 27:** National adaptation changes both the count and some weights.
+
+### MCQ 28
+
+Which national-MPI weighting statement is correct?
+
+- A. All 12 indicators receive one-twelfth
+- B. Health indicators all receive one-ninth
+- C. Living-standard indicators retain one-eighteenth despite adding bank account
+- D. Nutrition is 1/6; child/adolescent mortality and maternal health are 1/12 each; seven living-standard indicators are 1/21 each
 
 **Answer: D.**
-**Explanation:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q33. Which statement correctly identifies Public-service conversion?
+**Option-specific explanations:**
 
-A. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-B. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-C. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-D. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
+- **A - Incorrect:** Equal indicator weights would not preserve the reported architecture.
+- **B - Incorrect:** Health is not split into three equal weights.
+- **C - Incorrect:** Adding a seventh indicator requires the stated one-third dimension to be redistributed.
+- **D - Correct:** This matches the official 2023 national method.
+
+**Examiner trap 28:** Do not assume equal-within-dimension weights for India's health dimension.
+
+### MCQ 29
+
+What did NITI Aayog's 2023 report state for India's MPI headcount comparison?
+
+- A. 24.85 percent in NFHS-4 to 14.96 percent in NFHS-5
+- B. 14.96 percent in 2023 to 11.28 percent in 2026
+- C. 55.3 percent in Census 2011 to 5.3 percent in PLFS 2023
+- D. A current annual estimate with no survey lag
 
 **Answer: A.**
-**Explanation:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q34. Which option preserves the accounting or regulatory boundary of Public-service conversion?
+**Option-specific explanations:**
 
-A. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-B. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-C. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-D. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
+- **A - Correct:** The report ties these values to 2015-16 and 2019-21 survey periods.
+- **B - Incorrect:** The first value is not a 2023 observation, and the second pair is not the report comparison.
+- **C - Incorrect:** These numbers mix unrelated vintages and measures.
+- **D - Incorrect:** NFHS-based MPI is not an annual current series.
 
-**Answer: B.**
-**Explanation:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 29:** Always attach 24.85 and 14.96 to their NFHS periods and the 17 July 2023 report.
 
-### Q35. Which statement uses Public-service conversion without losing its vintage, basket or legal status?
+### MCQ 30
 
-A. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-B. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-C. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-D. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
+Which limitation follows from household-level MPI identification?
 
-**Answer: C.**
-**Explanation:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Public-service conversion?
-
-A. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-B. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-C. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-D. Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-
-**Answer: D.**
-**Explanation:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies Institutional division?
-
-A. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-B. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-C. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-D. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-
-**Answer: A.**
-**Explanation:** UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of Institutional division?
-
-A. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-B. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-C. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-D. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
+- A. It cannot be decomposed by indicator
+- B. It may conceal unequal deprivation among members of the same household
+- C. It uses only income
+- D. It has no poverty cutoff
 
 **Answer: B.**
-**Explanation:** UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q39. Which statement uses Institutional division without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-B. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-C. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-D. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
+- **A - Incorrect:** MPI is designed for indicator decomposition.
+- **B - Correct:** Assigning household status to members can hide gender, age or disability differences within the household.
+- **C - Incorrect:** MPI is explicitly multidimensional.
+- **D - Incorrect:** The poverty cutoff is central to identification.
 
-**Answer: C.**
-**Explanation:** UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 30:** Household targeting convenience comes with intra-household blindness.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Institutional division?
+### MCQ 31
 
-A. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-B. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-C. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-D. UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
+Which inference from rising social-service expenditure is strongest?
 
-**Answer: D.**
-**Explanation:** UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies Kerala-Bihar comparison?
-
-A. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-B. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-C. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-D. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-
-**Answer: A.**
-**Explanation:** The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of Kerala-Bihar comparison?
-
-A. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-B. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-C. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-D. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-
-**Answer: B.**
-**Explanation:** The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses Kerala-Bihar comparison without losing its vintage, basket or legal status?
-
-A. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-B. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-C. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-D. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
+- A. Inclusive growth is proven
+- B. HDI must rise by the same percentage
+- C. The spending creates a potential conversion channel whose access, quality and outcomes must be verified
+- D. Inequality has been eliminated
 
 **Answer: C.**
-**Explanation:** The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Kerala-Bihar comparison?
+**Option-specific explanations:**
 
-A. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-B. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-C. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-D. The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
+- **A - Incorrect:** An input increase alone cannot prove distributional outcomes.
+- **B - Incorrect:** HDI does not move mechanically with expenditure.
+- **C - Correct:** The chain from allocation to capability requires utilisation and quality evidence.
+- **D - Incorrect:** No expenditure series establishes equality by itself.
 
-**Answer: D.**
-**Explanation:** The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 31:** Budgetary input, service output and human outcome are separate stages.
 
-### Q45. Which statement correctly identifies National MPI targeting?
+### MCQ 32
 
-A. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-B. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-C. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-D. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
+Which conclusion best integrates growth, HDI, IHDI and MPI?
 
-**Answer: A.**
-**Explanation:** NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of National MPI targeting?
-
-A. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-B. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-C. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-D. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-
-**Answer: B.**
-**Explanation:** NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses National MPI targeting without losing its vintage, basket or legal status?
-
-A. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-B. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-C. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-D. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-
-**Answer: C.**
-**Explanation:** NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about National MPI targeting?
-
-A. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-B. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-C. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-D. NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
+- A. Replace GDP entirely with MPI
+- B. Use HDI rank as the sole target
+- C. Treat every index change as causal proof
+- D. Use real growth and jobs for resources, HDI for average achievement, IHDI for distribution and MPI for overlapping deprivation, with dated disaggregation
 
 **Answer: D.**
-**Explanation:** NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q49. Which statement correctly identifies Aspirational Districts lesson?
+**Option-specific explanations:**
 
-A. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-B. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-C. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-D. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
+- **A - Incorrect:** Production measurement remains necessary.
+- **B - Incorrect:** Rank suppresses components and relativity.
+- **C - Incorrect:** Index movement alone does not identify causes.
+- **D - Correct:** The dashboard matches each measure to its purpose and preserves metadata.
 
-**Answer: A.**
-**Explanation:** The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q50. Which option preserves the accounting or regulatory boundary of Aspirational Districts lesson?
-
-A. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-B. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-C. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-D. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-
-**Answer: B.**
-**Explanation:** The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses Aspirational Districts lesson without losing its vintage, basket or legal status?
-
-A. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-B. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-C. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-D. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-
-**Answer: C.**
-**Explanation:** The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Aspirational Districts lesson?
-
-A. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-B. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-C. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-D. The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-
-**Answer: D.**
-**Explanation:** The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies MGNREGA conversion role?
-
-A. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-B. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-C. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-D. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-
-**Answer: A.**
-**Explanation:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of MGNREGA conversion role?
-
-A. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-B. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-C. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-D. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-
-**Answer: B.**
-**Explanation:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses MGNREGA conversion role without losing its vintage, basket or legal status?
-
-A. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-B. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-C. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-D. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-
-**Answer: C.**
-**Explanation:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about MGNREGA conversion role?
-
-A. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-B. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-C. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-D. MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-
-**Answer: D.**
-**Explanation:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Nutrition and schooling interventions?
-
-A. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-B. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-C. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-D. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-
-**Answer: A.**
-**Explanation:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Nutrition and schooling interventions?
-
-A. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-B. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-C. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-D. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-
-**Answer: B.**
-**Explanation:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Nutrition and schooling interventions without losing its vintage, basket or legal status?
-
-A. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-B. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-C. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-D. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-
-**Answer: C.**
-**Explanation:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Nutrition and schooling interventions?
-
-A. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-B. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-C. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-D. ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-
-**Answer: D.**
-**Explanation:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies Kudumbashree and SHGs?
-
-A. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-B. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-C. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-D. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-
-**Answer: A.**
-**Explanation:** Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of Kudumbashree and SHGs?
-
-A. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-B. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-C. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-D. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-
-**Answer: B.**
-**Explanation:** Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses Kudumbashree and SHGs without losing its vintage, basket or legal status?
-
-A. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-B. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-C. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-D. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-
-**Answer: C.**
-**Explanation:** Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Kudumbashree and SHGs?
-
-A. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-B. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-C. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-D. Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-
-**Answer: D.**
-**Explanation:** Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies MPI incidence?
-
-A. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-B. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-C. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-D. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-
-**Answer: A.**
-**Explanation:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of MPI incidence?
-
-A. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-B. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-C. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-D. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-
-**Answer: B.**
-**Explanation:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses MPI incidence without losing its vintage, basket or legal status?
-
-A. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-B. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-C. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-D. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-
-**Answer: C.**
-**Explanation:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about MPI incidence?
-
-A. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-B. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-C. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-D. In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-
-**Answer: D.**
-**Explanation:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies MPI intensity?
-
-A. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-B. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-C. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-D. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-
-**Answer: A.**
-**Explanation:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of MPI intensity?
-
-A. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-B. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-C. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-D. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-
-**Answer: B.**
-**Explanation:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses MPI intensity without losing its vintage, basket or legal status?
-
-A. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-B. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-C. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-D. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-
-**Answer: C.**
-**Explanation:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about MPI intensity?
-
-A. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-B. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-C. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-D. In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-
-**Answer: D.**
-**Explanation:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Income-poverty contrast?
-
-A. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-B. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-C. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-D. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-
-**Answer: A.**
-**Explanation:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Income-poverty contrast?
-
-A. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-B. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-C. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-D. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-
-**Answer: B.**
-**Explanation:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Income-poverty contrast without losing its vintage, basket or legal status?
-
-A. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-B. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-C. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-D. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-
-**Answer: C.**
-**Explanation:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Income-poverty contrast?
-
-A. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-B. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-C. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-D. An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-
-**Answer: D.**
-**Explanation:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Composite and benchmark caution?
-
-A. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-B. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-C. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-D. Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-
-**Answer: A.**
-**Explanation:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Composite and benchmark caution?
-
-A. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-B. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-C. Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-D. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-
-**Answer: B.**
-**Explanation:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Composite and benchmark caution without losing its vintage, basket or legal status?
-
-A. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-B. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-C. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-D. UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-
-**Answer: C.**
-**Explanation:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Composite and benchmark caution?
-
-A. Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-B. IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-C. MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-D. HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-
-**Answer: D.**
-**Explanation:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 32:** The correct answer is a coordinated dashboard, not a contest for one supreme index.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### VERIFIED PYQ ROUTES AND KEY DISCIPLINE
 
-The audited ledgers route 2020 GS-II on incidence and intensity of poverty, 2024 GS-III on social-service expenditure and inclusive growth, and 2025 GS-III on HDI versus IHDI here. Objective routes on GNP per capita, Ease of Doing Business, social capital and 2026 MPI methodology remain answer-letter free.
+The following demands are verified through repository routing and locally held official papers where available. No final official/local answer key or official model answer is available for these entries, so no answer is inferred.
 
-### OWNER PYQ LEDGER EXTRACTS
+#### PYQ 1 - UPSC Prelims GS-I 2018, Q48
 
-#### 9. PYQ application
+**Verified routed demand:** Conditions under which rise in GNP per capita does not connote economic development.
 
-- ⚠️ 2025 GS-III: Distinguish HDI and IHDI and explain why IHDI better reflects inclusive
-  growth.
-- ⚠️ 2024 GS-III: Examine whether post-reform social-service expenditure has supported
-  inclusive growth.
-- ⚠️ 2020 GS-II: Analyse the incidence and intensity of poverty against income-based
-  measurement — answer with the MPI = H × A decomposition in **5A** and the reasoning why
-  income-only measurement cannot separate how many are poor from how deeply they are poor.
+Answer withheld pending official UPSC key.
 
-#### 2026 PYQ Integration
+#### PYQ 2 - UPSC Prelims GS-I 2019, Q77
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+**Verified routed demand:** Components of the then World Bank Ease of Doing Business index; used here only as an index-ownership and scope distinction.
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+Answer withheld pending official UPSC key.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 100 | Multidimensional Poverty Index methodology, indicators, and institutional comparison | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+#### PYQ 3 - UPSC Prelims GS-I 2019, Q80
 
-##### What this owner must now support
+**Verified routed demand:** Meaning of social capital in national development.
 
-- Multidimensional Poverty Index methodology, indicators, and institutional comparison
+Answer withheld pending official UPSC key.
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+#### PYQ 4 - UPSC Mains GS-II 2020, Q16
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Verified routed demand:** Analyse the incidence and intensity of poverty in comparison with income-based poverty measurement. **15 marks, 250 words.**
 
-#### Recent PYQ Integration (2024-2025)
+Answer withheld pending official UPSC key.
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+#### PYQ 5 - UPSC Mains GS-III 2024, Q1
 
-- **Years represented:** 2025
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
+**Official locally verified wording:** "Examine the pattern and trend of public expenditure on social services in the post-reforms period in India. To what extent this has been in consonance with achieving the objective of inclusive growth?" **10 marks, 150 words.**
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | GS-III | 1 | HDI versus IHDI as an indicator of inclusive growth | Distinguish · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+Answer withheld pending official UPSC key.
 
-##### What this owner must now support
+#### PYQ 6 - UPSC Mains GS-III 2025, Q1
 
-- HDI versus IHDI as an indicator of inclusive growth
+**Official locally verified wording:** "Distinguish between the Human Development Index (HDI) and the Inequality-adjusted Human Development Index (IHDI) with special reference to India. Why is the IHDI considered a better indicator of inclusive growth?" **10 marks, 150 words.**
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+Answer withheld pending official UPSC key.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+#### PYQ 7 - UPSC Prelims GS-I 2026, Q100
 
-#### Historical PYQ Integration (2018-2023)
+**Verified routed demand:** Global MPI methodology, indicators and institutional comparison. The locally held key is provisional, not final.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+Answer withheld pending official UPSC key.
 
-- **Years represented:** 2018, 2019, 2020
-- **Paper(s):** GS-II, Prelims GS-I
-- **Routed question demands:** 4
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 48 | GNP per capita not connoting economic development conditions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 77 | World Bank Ease of Doing Business Index components | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 80 | Social capital concept in national development economics | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | GS-II | 16 | Incidence and intensity of poverty against income-based measurement | Analyse · 15 marks · 250 words | Economy route terminates in answer-complete Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+### ORIGINAL MAINS 1 - 10 MARKS
 
-##### What this owner must now support
+**Question:** Distinguish economic growth from economic development. Answer in 150 words.
 
-- GNP per capita not connoting economic development conditions
-- World Bank Ease of Doing Business Index components
-- Social capital concept in national development economics
-- Incidence and intensity of poverty against income-based measurement
+**Model answer:**
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+Economic growth is the sustained expansion of real output or real income; development is the wider improvement in productive structure, distribution, capabilities and sustainability.
 
-#### 10. PYQ-based analytical application
+First, growth is quantitative. Real GDP, real GVA and real per-capita income show the size and pace of expansion. Development asks whether workers move into higher-productivity and decent employment. Second, Amartya Sen's capability approach shifts attention from income possessed to real freedom to be healthy, educated and secure. Third, distribution matters: a per-capita average can rise while regional, gender or social-group gaps widen. Fourth, environmental depletion can raise current output while weakening future welfare.
 
-- ⚠️ 2025 GS-III: Distinguish HDI and IHDI and explain why IHDI better reflects inclusive
-  growth.
-- ⚠️ 2024 GS-III: Examine whether post-reform social-service expenditure has supported
-  inclusive growth.
+Growth nevertheless remains essential because jobs, household income and tax revenue finance capability formation. The correct relationship is therefore conditional: productivity-led, employment-intensive and ecologically resilient growth becomes development when institutions and public services convert resources into widely shared freedoms.
 
-#### Historical PYQ Integration (2018-2023)
+**Answer method audit:** Claim -> named evidence -> analysis -> qualification -> reasoned verdict.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+### ORIGINAL MAINS 2 - 10 MARKS
 
-- **Years represented:** 2020
-- **Paper(s):** GS-II
-- **Routed question demands:** 1
+**Question:** Explain why the geometric mean and logarithmic income transformation are used in HDI. Answer in 150 words.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | GS-II | 16 | Incidence and intensity of poverty against income-based measurement | Analyse · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**Model answer:**
 
-##### What this owner must now support
+UNDP's HDI combines health, education and living-standard indices.
 
-- Incidence and intensity of poverty against income-based measurement
+The geometric mean, `HDI = (Ih x Ie x Ii)^(1/3)`, penalises imbalance. A very high income index cannot fully compensate for weak longevity or schooling as easily as under a simple arithmetic average. It therefore reflects the proposition that all three capabilities matter.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+The income index uses natural logarithms of GNI per capita. UNDP's 2025 Technical Note 1 explains the concave conversion of income into capabilities: an additional dollar normally expands choices more near subsistence than at a high income. Log transformation captures this diminishing contribution.
 
-### PYQ DEMAND CARD 1 — 2020 GS-II
+These choices improve conceptual discipline but do not make HDI a complete welfare measure. The index remains sensitive to goalposts and data revisions, and it omits distribution, poverty, security and environmental pressure. Hence HDI should be read with components, IHDI and other dashboards.
 
-**Demand:** Analyse incidence and intensity of poverty against income-based measurement.
+**Answer method audit:** Claim -> named evidence -> analysis -> qualification -> reasoned verdict.
 
-**Status:** Verified routed Mains demand; original model solution.
+### ORIGINAL MAINS 3 - 15 MARKS
 
-**Model solution:** **MPI incidence:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. **MPI intensity:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity. **Income-poverty contrast:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Question:** Discuss the drivers of economic growth and the conditions under which growth becomes inclusive and sustainable development. Answer in 250 words.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2020 GS-II”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Model answer:**
 
-**Detailed examiner-grade model answer:**
+Growth arises from labour, physical capital, human capital, technology and institutions. Capital accumulation expands capacity; education, health and skills improve labour quality; innovation and infrastructure raise productivity; and predictable institutions coordinate investment. Sustained per-capita growth ultimately requires productivity because factor accumulation faces diminishing returns.
 
-**Introduction and thesis:** **MPI incidence:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. **MPI intensity:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity. **Income-poverty contrast:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+The development outcome depends on transmission. Employment-intensive structural transformation must move workers from low-productivity vulnerability to more productive, secure work. Jobs and wages strengthen household nutrition and schooling, while profits and a broader tax base finance investment and public services. The *Economic Survey 2025-26* treats education, health, skills and employment as connected inputs into productivity and social mobility.
 
-**Analytical body:**
+Three failures can break this chain. First, capital-intensive enclaves may generate job-poor growth. Second, inequality and weak services may prevent poorer households from converting income into capabilities. Third, pollution, resource depletion and climate shocks can shift costs to vulnerable groups and future generations.
 
-1. **Claim and named evidence:** Demand: Analyse incidence and intensity of poverty against income-based measurement. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+Policy should therefore combine competitive investment and infrastructure with labour-intensive sectors, female participation, quality health and education, portable social protection, lagging-region investment and a just green transition. Outcomes, not expenditure alone, should be tracked through jobs, real wages, learning, health, HDI/IHDI, monetary poverty and MPI.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+Thus growth is the resource base, but inclusion, capability conversion and ecological resilience determine whether it becomes durable development.
 
-**Qualified conclusion:** **MPI incidence:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. **MPI intensity:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity. **Income-poverty contrast:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Answer method audit:** Claim -> named evidence -> analysis -> qualification -> reasoned verdict.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+### ORIGINAL MAINS 4 - 15 MARKS
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+**Question:** Compare HDI and IHDI and assess why IHDI is more relevant to inclusive growth. Answer in 250 words.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2020 GS-II”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Model answer:**
 
-### PYQ DEMAND CARD 2 — 2024 GS-III
+HDI and IHDI share the same three dimensions - health, education and standard of living - but answer different questions.
 
-**Demand:** Examine whether social-service expenditure has supported inclusive growth.
+HDI measures average achievement. It normalises life expectancy, expected and mean years of schooling, and GNI per capita in PPP terms, then takes the geometric mean of the three dimension indices. It can compare capability levels and expose why similar incomes yield different social outcomes.
 
-**Status:** Verified routed Mains demand; original model solution.
+IHDI adjusts each dimension for inequality. Under UNDP's 2025 Technical Note 2, an Atkinson-type inequality measure discounts the health, education and income indices; their geometric mean forms IHDI. With perfect equality IHDI equals HDI; as inequality rises IHDI falls below it. The proportional loss is `1 - IHDI/HDI`.
 
-**Model solution:** **Growth-resource channel:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Public-service conversion:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility. **MGNREGA conversion role:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs. **Nutrition and schooling interventions:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+IHDI is therefore more relevant to inclusive growth because it tests whether average achievement is broadly distributed. Two countries with the same HDI may have different IHDIs when longevity, schooling or income is concentrated.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2024 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+However, IHDI is not a fourth dimension, a poverty rate or a complete inclusion index. UNDP notes that it is not association-sensitive because all dimensions are not jointly observed for each individual. It also omits employment quality, voice and environment.
 
-**Detailed examiner-grade model answer:**
+For India, HDI should establish average capability and IHDI the distributional discount, supplemented by MPI, jobs and subgroup dashboards.
 
-**Introduction and thesis:** **Growth-resource channel:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Public-service conversion:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility. **MGNREGA conversion role:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs. **Nutrition and schooling interventions:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Answer method audit:** Claim -> named evidence -> analysis -> qualification -> reasoned verdict.
 
-**Analytical body:**
+### ORIGINAL MAINS 5 - 20 MARKS
 
-1. **Claim and named evidence:** Demand: Examine whether social-service expenditure has supported inclusive growth. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+**Question:** Explain the global MPI methodology and evaluate its advantages and limitations relative to income poverty. Answer in 250 words.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Model answer:**
 
-**Qualified conclusion:** **Growth-resource channel:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Public-service conversion:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility. **MGNREGA conversion role:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs. **Nutrition and schooling interventions:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+The global Multidimensional Poverty Index, developed by OPHI with UNDP, measures acute overlapping deprivation through the Alkire-Foster method.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+Its three equally weighted dimensions are health, education and living standards. Nutrition, child mortality, years of schooling and school attendance each weigh one-sixth. Cooking fuel, sanitation, drinking water, electricity, housing and assets each weigh one-eighteenth. Indicator-specific cutoffs identify each household deprivation; weights are summed into score `c`. A person in a household with `c >= 1/3` is MPI poor. Incidence `H` is the poor population share; intensity `A` is their average deprivation score; `MPI = H x A`.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+MPI improves on a monetary headcount in three ways. It reveals deprivation composition and overlap; it distinguishes how many are poor from how poor they are; and it can be decomposed by indicator, region and group for targeting. Public services may also improve direct outcomes without an immediate equivalent rise in household income.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2024 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+Yet MPI is not superior for every purpose. Indicator, weight and cutoff choices affect results. Household identification can hide intra-household inequality. Survey lag misses sudden shocks, and threshold crossing can create classification sensitivity. MPI does not estimate the cash shortfall required to cross a monetary line.
 
-### PYQ DEMAND CARD 3 — 2025 GS-III
+Policy should therefore use income poverty for resource adequacy and MPI for direct, overlapping capability deficits, supported by uncensored indicators and sensitivity analysis.
 
-**Demand:** Distinguish HDI and IHDI and explain why IHDI better indicates inclusive growth.
+**Answer method audit:** Claim -> named evidence -> analysis -> qualification -> reasoned verdict.
 
-**Status:** Verified routed Mains demand; original model solution.
+### ORIGINAL MAINS 6 - 20 MARKS
 
-**Model solution:** **HDI architecture:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **IHDI inequality adjustment:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Composite and benchmark caution:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Question:** Assess India's National MPI as a tool for federal and district development policy. Answer in 250 words.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2025 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Model answer:**
 
-**Detailed examiner-grade model answer:**
+India's National MPI translates the Alkire-Foster framework into a domestic diagnostic led by NITI Aayog and based principally on NFHS household microdata.
 
-**Introduction and thesis:** **HDI architecture:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **IHDI inequality adjustment:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Composite and benchmark caution:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+The index uses health, education and standard-of-living dimensions but adapts the global architecture to 12 indicators. It adds maternal health and bank account. Nutrition weighs one-sixth; child/adolescent mortality and maternal health one-twelfth each; the two education indicators one-sixth each; and seven living-standard indicators one-twenty-first each.
 
-**Analytical body:**
+Its principal strength is decomposability. The 2023 Progress Review compares NFHS-4 (2015-16) and NFHS-5 (2019-21), reports the national headcount falling from 24.85 to 14.96 percent, and provides State/UT and district evidence. Governments can identify whether nutrition, schooling, sanitation, housing or finance drives a local burden, assign departmental responsibility and target lagging districts.
 
-1. **Claim and named evidence:** Demand: Distinguish HDI and IHDI and explain why IHDI better indicates inclusive growth. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+However, the report's publication date is not the data year. NFHS periodicity creates lag; repeated cross-sections do not track the same households; district averages can hide social-group differences; and household classification can conceal unequal deprivation within families. National indicator definitions and weights also mean its values are not interchangeable with the global MPI.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+The tool should guide cooperative federalism through transparent district dashboards, outcome audits and convergence of health, education, nutrition and basic-service programmes, while monetary poverty, employment and individual-level gender evidence remain complementary.
 
-**Qualified conclusion:** **HDI architecture:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **IHDI inequality adjustment:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Composite and benchmark caution:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Answer method audit:** Claim -> named evidence -> analysis -> qualification -> reasoned verdict.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2025 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish economic growth from economic development. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Growth versus development. **Named evidence/example:** Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Capability approach. **Named evidence/example:** Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Growth-resource channel. **Named evidence/example:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-- Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-- Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-
-**Qualified conclusion:** **Claim:** Growth versus development. **Named evidence/example:** Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Capability approach. **Named evidence/example:** Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Growth-resource channel. **Named evidence/example:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish economic growth from economic development. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Growth versus development. **Named evidence/example:** Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Capability approach. **Named evidence/example:** Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Growth-resource channel. **Named evidence/example:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Growth versus development. **Named evidence/example:** Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Capability approach. **Named evidence/example:** Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Growth-resource channel. **Named evidence/example:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish economic growth from economic development. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Why does IHDI reveal dimensions of inclusive growth that HDI misses? Answer in about 150 words.
-
-**Model thesis:** **Claim:** HDI architecture. **Named evidence/example:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** IHDI inequality adjustment. **Named evidence/example:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-- IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-
-**Qualified conclusion:** **Claim:** HDI architecture. **Named evidence/example:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** IHDI inequality adjustment. **Named evidence/example:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why does IHDI reveal dimensions of inclusive growth that HDI misses? Answer in about 150…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** HDI architecture. **Named evidence/example:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** IHDI inequality adjustment. **Named evidence/example:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** HDI architecture. **Named evidence/example:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** IHDI inequality adjustment. **Named evidence/example:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Why does IHDI reveal dimensions of inclusive growth that HDI misses? Answer in about 150…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain the MPI incidence-intensity framework and its advantage over an income headcount. Answer in about 250 words.
-
-**Model thesis:** **Claim:** MPI purpose. **Named evidence/example:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MPI incidence. **Named evidence/example:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MPI intensity. **Named evidence/example:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-poverty contrast. **Named evidence/example:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-- In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-- In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-- An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-
-**Qualified conclusion:** **Claim:** MPI purpose. **Named evidence/example:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MPI incidence. **Named evidence/example:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MPI intensity. **Named evidence/example:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-poverty contrast. **Named evidence/example:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the MPI incidence-intensity framework and its advantage over an income headcount.…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** MPI purpose. **Named evidence/example:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MPI incidence. **Named evidence/example:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MPI intensity. **Named evidence/example:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-poverty contrast. **Named evidence/example:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** MPI purpose. **Named evidence/example:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MPI incidence. **Named evidence/example:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MPI intensity. **Named evidence/example:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-poverty contrast. **Named evidence/example:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Explain the MPI incidence-intensity framework and its advantage over an income headcount.…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Growth expands resources, but institutions determine human development. Discuss. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Growth-resource channel. **Named evidence/example:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Composition of growth. **Named evidence/example:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Public-service conversion. **Named evidence/example:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Institutional division. **Named evidence/example:** UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-- Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-- Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-- UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-
-**Qualified conclusion:** **Claim:** Growth-resource channel. **Named evidence/example:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Composition of growth. **Named evidence/example:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Public-service conversion. **Named evidence/example:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Institutional division. **Named evidence/example:** UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Growth expands resources, but institutions determine human development. Discuss. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Growth-resource channel. **Named evidence/example:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Composition of growth. **Named evidence/example:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Public-service conversion. **Named evidence/example:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Institutional division. **Named evidence/example:** UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Growth-resource channel. **Named evidence/example:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Composition of growth. **Named evidence/example:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Public-service conversion. **Named evidence/example:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Institutional division. **Named evidence/example:** UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Growth expands resources, but institutions determine human development. Discuss. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Assess India's growth-to-capability conversion using jobs, public services and local variation. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Composition of growth. **Named evidence/example:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Kerala-Bihar comparison. **Named evidence/example:** The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Aspirational Districts lesson. **Named evidence/example:** The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MGNREGA conversion role. **Named evidence/example:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Nutrition and schooling interventions. **Named evidence/example:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-- The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-- The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-- MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-- ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-
-**Qualified conclusion:** **Claim:** Composition of growth. **Named evidence/example:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Kerala-Bihar comparison. **Named evidence/example:** The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Aspirational Districts lesson. **Named evidence/example:** The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MGNREGA conversion role. **Named evidence/example:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Nutrition and schooling interventions. **Named evidence/example:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess India's growth-to-capability conversion using jobs, public services and local…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Composition of growth. **Named evidence/example:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Kerala-Bihar comparison. **Named evidence/example:** The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Aspirational Districts lesson. **Named evidence/example:** The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MGNREGA conversion role. **Named evidence/example:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Nutrition and schooling interventions. **Named evidence/example:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Composition of growth. **Named evidence/example:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Kerala-Bihar comparison. **Named evidence/example:** The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Aspirational Districts lesson. **Named evidence/example:** The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MGNREGA conversion role. **Named evidence/example:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Nutrition and schooling interventions. **Named evidence/example:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Assess India's growth-to-capability conversion using jobs, public services and local…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Critically evaluate composite development indices for inclusive-growth policy. Answer in about 300 words.
-
-**Model thesis:** **Claim:** HDI architecture. **Named evidence/example:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** IHDI inequality adjustment. **Named evidence/example:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MPI purpose. **Named evidence/example:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-poverty contrast. **Named evidence/example:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Composite and benchmark caution. **Named evidence/example:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-- IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-- MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-- An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-- HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
-
-**Qualified conclusion:** **Claim:** HDI architecture. **Named evidence/example:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** IHDI inequality adjustment. **Named evidence/example:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MPI purpose. **Named evidence/example:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-poverty contrast. **Named evidence/example:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Composite and benchmark caution. **Named evidence/example:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Critically evaluate composite development indices for inclusive-growth policy. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** HDI architecture. **Named evidence/example:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** IHDI inequality adjustment. **Named evidence/example:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MPI purpose. **Named evidence/example:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-poverty contrast. **Named evidence/example:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Composite and benchmark caution. **Named evidence/example:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** HDI architecture. **Named evidence/example:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** IHDI inequality adjustment. **Named evidence/example:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** MPI purpose. **Named evidence/example:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-poverty contrast. **Named evidence/example:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Composite and benchmark caution. **Named evidence/example:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Critically evaluate composite development indices for inclusive-growth policy. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims.
-> **Core area:** Inclusive growth and human development.
-> **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `../basic/02_Growth-Development-HDI-IHDI-and-MPI.md`.*
+### OPTIONAL ADVANCED 1 - Why geometric aggregation matters
 
-#### 1. Architecture
+The geometric mean reduces perfect substitutability across HDI dimensions: a weak dimension pulls the product down more strongly than under a simple arithmetic mean. It does not eliminate substitutability, because improvement in one dimension can still offset some weakness elsewhere. The education dimension itself uses an arithmetic average of the EYS and MYS indices under the 2025 method.
 
-```text
-1. real growth
-   |
-   v
-  2. public and private resources
-     |
-     v
-    3. health, education and productive jobs
-       |
-       v
-      4. capability expansion
-         |
-         v
-        5. development
-```
+### OPTIONAL ADVANCED 2 - IHDI's distributional method and association limit
 
-**Analytical claim:** Treat growth as the resource base, employment and public services as
-conversion channels, and IHDI/MPI as tests of distribution and deprivation.
+The 2025 IHDI uses Atkinson-type dimension losses with epsilon equal to one. Its subgroup-consistency property is useful, but UNDP explicitly notes that it is not association-sensitive: health, schooling and income inequalities are not observed jointly for every person from one harmonised global survey. IHDI therefore cannot identify the same people as simultaneously deprived across dimensions.
 
-#### 2. Concepts and distinctions
+### OPTIONAL ADVANCED 3 - Alkire-Foster robustness and governance
 
-| Concept | Precise meaning |
-|---|---|
-| ✅ **Economic growth** | Sustained quantitative increase in real output or real income. |
-| ✅ **Economic development** | Growth plus structural change, capability expansion and better distribution. |
-| ✅ **HDI** | UNDP composite of health, education and standard of living. |
-| ✅ **IHDI** | HDI discounted for inequality within each of its three dimensions. |
-| ✅ **MPI** | Deprivation measure using overlapping deficits in health, education and living standards. |
+The Alkire-Foster method is decomposable by subgroup and indicator. Responsible use should test whether broad conclusions survive reasonable changes in weights and cutoffs. Indicator improvement may arise through genuine capability gain, reporting change or movement just across a threshold; dashboards should preserve uncensored indicator information.
 
-#### 3. Detailed transmission
+### OPTIONAL ADVANCED 4 - GDI and GII as bounded comparisons
 
-1. Real productivity and output growth enlarge household incomes, profits and the tax base.
-2. The composition of growth determines whether new income reaches labour-intensive sectors,
-   lagging regions and vulnerable groups.
-3. Public revenue and household income finance nutrition, health, schooling, housing and
-   risk protection.
-4. Better health and education raise capabilities, employability and intergenerational
-   mobility.
-5. HDI records average achievement, IHDI exposes unequal distribution, and MPI identifies
-   overlapping household deprivations.
+GDI compares female and male HDI achievement in the same three dimensions using sex-disaggregated indicators. GII measures gender disadvantage through reproductive health, empowerment and labour-market dimensions. Neither is an extra HDI dimension; both belong to gender-focused analysis and should be used only to expose a limitation of aggregate HDI here.
 
-##### Deeper analytical layers
+### OPTIONAL ADVANCED 5 - Sustainable and inclusive measurement
 
-- ⚠️ Separate the level of human achievement from its distribution: HDI reports the former,
-  IHDI penalises unequal attainment.
-- ⚠️ MPI can reveal deprivations hidden by consumption poverty and permits dimension-wise
-  policy targeting.
-- ⚠️ Inclusive growth has process, outcome and opportunity dimensions; redistribution alone
-  cannot substitute for productive inclusion.
-- ⚠️ Capability expansion depends on service quality, not merely budget allocations or
-  physical access.
-- ⚠️ Demographic transition changes the policy mix from basic access towards learning,
-  health quality, care and employability.
-- ⚠️ A dashboard should combine output, jobs, distribution, capabilities, resilience and
-  environmental sustainability.
+Development evaluation can supplement production, employment, HDI/IHDI and poverty with emissions, material use, natural wealth, vulnerability and resilience. This does not authorise an improvised mega-index. A transparent dashboard usually preserves causal diagnosis better than compressing every concern into one number.
 
-#### 4. Institutional architecture
-
-- ✅ **UNDP:** publishes HDI, IHDI and global MPI methodology and reports.
-- ✅ **NITI Aayog:** tracks India's national MPI and supports state-level development
-  comparisons.
-- ✅ **MoSPI:** supplies national accounts and social statistics needed to read growth beside
-  welfare outcomes.
-- ✅ **Union, state and local governments:** deliver the health, education, nutrition, water
-  and housing services behind capability gains.
-
-#### 5. Indian applications and boundary cases
-
-- ⚠️ Two states with similar per-capita income can differ sharply in life expectancy,
-  schooling and multidimensional poverty.
-- ⚠️ School enrolment can improve HDI-related access while weak learning outcomes limit
-  actual capability formation.
-- ⚠️ A household above an income poverty line may still face simultaneous sanitation,
-  nutrition and schooling deprivation.
-
-#### 6. Limitations and trade-offs
-
-- ⚠️ Fast growth can finance welfare, yet growth concentrated in capital-intensive enclaves
-  may weakly reduce poverty.
-- ⚠️ Targeted transfers reduce immediate deprivation but universal public goods can build
-  longer-term capabilities.
-- ⚠️ Composite indices simplify comparison but hide internal variation, weights and data
-  lags.
-- ⚠️ National averages conceal state, gender, caste, rural-urban and disability gaps.
-- ⚠️ Outcome measurement improves accountability but must avoid teaching or governing only
-  to the indicator.
-
-⚠️ **Boundary condition:** Composite indices aid comparison but cannot display every intra-
-state, gender, caste or quality-of-service gap.
-
-#### 7. Must-Know Facts for Advanced Prelims
-
-- ✅ HDI uses life expectancy, education and GNI per capita; it is not an income-only index.
-- ✅ IHDI equals HDI when there is no inequality and falls below HDI as inequality rises.
-- ✅ MPI is household-level and multidimensional; it is not computed from income alone.
-- ✅ Growth is necessary for fiscal capacity but does not guarantee development or inclusion.
-- ✅ Per-capita income is an average and can hide distribution, unpaid work and ecological
-  costs.
-- ✅ The 2025 Mains PYQ directly asked why IHDI is a better indicator of inclusive growth.
-
-#### 8. Advanced Prelims traps
-
-- ❌ HDI and IHDI measure identical outcomes. -> IHDI adjusts each HDI dimension for
-  inequality.
-- ❌ MPI is another poverty-line headcount. -> It identifies simultaneous non-income
-  deprivations.
-- ❌ A high GDP growth rate proves inclusive growth. -> Employment, distribution and access
-  must also improve.
-- ❌ HDI directly measures political freedom. -> Its three formal dimensions are health,
-  education and income.
-- ❌ Development can be inferred from nominal GDP. -> Real, per-capita and social indicators
-  are required.
-
-#### 9. 📰 Survey 2025-26 analytical application
-
-| Verified current anchor | Topic-specific analytical use |
-|---|---|
-| 📰 NITI MPI fell from 55.3% in 2005-06 to 14.96% in 2019-21 and was estimated at 11.28% in 2022-23. | Use the fall to show broad deprivation reduction, then test whether state and social-group gaps persist. |
-| 📰 Extreme poverty was 5.3% in 2022-23 using the revised World Bank USD 3/day line. | It is a 2021-PPP international benchmark, not India's domestic poverty line; do not compare it mechanically with older-line estimates. |
-| 📰 The Survey treats education, health, skills and productive employment as a connected human-capital system. | Link education, health, skills and jobs as sequential capability investments rather than separate schemes. |
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ 2025 GS-III: Distinguish HDI and IHDI and explain why IHDI better reflects inclusive
-  growth.
-- ⚠️ 2024 GS-III: Examine whether post-reform social-service expenditure has supported
-  inclusive growth.
-
-#### 11. Mains-ready framework
-
-**Central thesis:** Treat growth as the resource base, employment and public services as conversion channels, and IHDI/MPI as tests of distribution and deprivation.
-
-1. Define **Economic growth** and distinguish it from **Economic development**.
-2. The composition of growth determines whether new income reaches labour-intensive sectors,
-   lagging regions and vulnerable groups.
-3. UNDP: publishes HDI, IHDI and global MPI methodology and reports.
-4. Fast growth can finance welfare, yet growth concentrated in capital-intensive enclaves
-   may weakly reduce poverty.
-5. Recommend disaggregated outcomes, quality public services and employment-intensive
-   productivity growth.
-
-#### 12. Probable questions
-
-- ⚠️ **Prelims:** Which dimensions enter HDI, IHDI and MPI, and how do their units of
-  analysis differ?
-- ⚠️ **Mains (10 marks):** Why does IHDI reveal aspects of inclusive growth that HDI cannot?
-- ⚠️ **Mains (15 marks):** Economic growth expands resources, but institutions determine
-  whether it becomes human development. Discuss.
-
-#### 13. Study links
-
-- ✅ Foundation companion: `../basic/02_Growth-Development-HDI-IHDI-and-MPI.md`.
-- ✅ `01_National-Income-GDP-GVA-and-Measurement.md` — output and per-capita measures.
-- ✅ `22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` — productive inclusion
-  through jobs.
-- ✅ `23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md` — distribution, poverty
-  and public services.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
-
-- **Years represented:** 2020
-- **Paper(s):** GS-II
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | GS-II | 16 | Incidence and intensity of poverty against income-based measurement | Analyse · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Incidence and intensity of poverty against income-based measurement
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
 ## CONSOLIDATED REGISTER NOTES
 
-### Growth, Development, HDI, IHDI and MPI: RAPID MEASURE, INSTITUTION AND VINTAGE MAP
+### 1. Growth-development distinction
 
-1. **Growth versus development:** Economic growth is a sustained quantitative increase in real output or income, whereas development adds structural change, capability expansion and better distribution.
-2. **Capability approach:** Amartya Sen's capability approach judges development by substantive freedoms and real opportunities to lead valued lives, not by income or commodity possession alone.
-3. **HDI architecture:** UNDP's HDI is the geometric mean of normalised health, education and standard-of-living indices, using life expectancy, schooling measures and GNI per capita.
-4. **IHDI inequality adjustment:** IHDI discounts each HDI dimension for inequality, equals HDI only in the absence of inequality and falls farther below HDI as unequal distribution increases.
-5. **MPI purpose:** MPI identifies overlapping household deprivations in health, education and living standards rather than classifying poverty from income alone.
-6. **Social capital:** Trust, norms and networks can improve cooperation, collective action and scheme effectiveness, making social capital a development resource beyond private income.
-7. **Growth-resource channel:** Real productivity and output growth enlarge household income, profits and the tax base, creating resources that can finance capabilities but not guaranteeing their conversion.
-8. **Composition of growth:** Labour intensity, sectoral composition, regional spread and access to productive jobs determine whether aggregate growth reaches lagging regions and vulnerable groups.
-9. **Public-service conversion:** Nutrition, health, education, housing and risk protection convert public revenue and household income into capabilities, employability and intergenerational mobility.
-10. **Institutional division:** UNDP publishes HDI and IHDI, UNDP and OPHI are associated with the global MPI, NITI Aayog publishes India's national MPI, and governments deliver capability-building services.
-11. **Kerala-Bihar comparison:** The familiar Kerala-Bihar contrast shows that per-capita output does not convert one-for-one into social outcomes because public services, history, migration, demography and state capacity matter.
-12. **National MPI targeting:** NITI Aayog's national MPI uses household evidence to identify simultaneous deficits such as nutrition, schooling, sanitation, housing and amenities for targeted policy.
-13. **Aspirational Districts lesson:** The Aspirational Districts Programme illustrates why state averages can hide district-level divergence, while dashboard or rank improvement alone does not prove structural transformation.
-14. **MGNREGA conversion role:** MGNREGA links public expenditure with wage employment and rural asset creation, supporting minimum protection without substituting for productivity growth or formal jobs.
-15. **Nutrition and schooling interventions:** ICDS and PM POSHAN show that direct nutrition and schooling support can expand capabilities, although access and attendance do not by themselves establish service quality or employability.
-16. **Kudumbashree and SHGs:** Kudumbashree and the wider self-help-group model show how organised women's networks can support savings, credit, agency and local problem-solving while remaining complements to formal capacity.
-17. **MPI incidence:** In MPI, H is the proportion of people identified as multidimensionally poor at the chosen weighted-deprivation cutoff; standard global methodology uses at least one-third of weighted indicators.
-18. **MPI intensity:** In MPI, A is the average share of weighted indicators in which multidimensionally poor people are deprived, so MPI equals H multiplied by A and incidence can move differently from intensity.
-19. **Income-poverty contrast:** An income or consumption poverty line records whether a monetary threshold is crossed but cannot show the overlap or composition of nutrition, schooling, sanitation and housing deprivation.
-20. **Composite and benchmark caution:** HDI, IHDI and MPI depend on dimensions, weights and survey timing, while the owner's USD 3-a-day extreme-poverty figure uses 2021 PPP prices and is not India's official domestic poverty line or directly comparable with older lines.
+- Growth = sustained quantitative rise in **real** output/income; per-capita growth adjusts for population but not distribution.
+- Development = growth plus structural transformation, capabilities, distribution, agency, resilience and sustainability.
+- Drivers: labour, physical capital, human capital, technology, infrastructure and institutions.
+- Transmission: productivity -> jobs/wages/profits/tax base -> household and public capability investment.
+- Failures: jobless growth, regional concentration, unequal access, weak service quality and environmental externalities.
 
-### Growth, Development, HDI, IHDI and MPI: BASE-YEAR, BASKET, INSTRUMENT AND LEGAL-STATUS TRAPS
+### 2. HDI rapid decoder
 
-- Do not infer development from nominal or aggregate GDP growth alone.
-- Do not say HDI directly measures political freedom; its formal dimensions are health, education and income.
-- Do not treat IHDI as a separate welfare basket; it inequality-adjusts the HDI dimensions.
-- Do not reduce MPI to an income poverty-line headcount.
-- Do not merge incidence H with intensity A; they answer how many and how deprived.
-- Do not compare poverty lines across PPP revisions without stating the price basis.
-- Do not treat a dashboard ranking gain as proof of durable transformation.
-- Do not assume welfare access guarantees service quality or productive employment.
-- Do not copy one state's development path mechanically across different histories and capacities.
-- Do not treat social capital as a substitute for infrastructure, markets or public finance.
-- Do not use an international poverty benchmark as India's official domestic poverty line.
-- Do not let average HDI conceal caste, gender, tribal, regional or district inequality.
+| Dimension | Indicator | 2025 Technical Note goalposts |
+|---|---|---|
+| Long and healthy life | Life expectancy at birth | 20-85 years |
+| Knowledge | Expected years of schooling | 0-18 years |
+| Knowledge | Mean years of schooling, adults 25+ | 0-15 years |
+| Decent standard of living | GNI per capita | 100-75,000 constant 2021 PPP dollars |
 
-### Growth, Development, HDI, IHDI and MPI: ANSWER-WRITING SPINE
+- `Education index = (EYS index + MYS index)/2`.
+- `Income index = [ln(actual)-ln(100)]/[ln(75,000)-ln(100)]`.
+- `HDI = (Health x Education x Income)^(1/3)`.
+- Geometric mean limits compensation across dimensions; logarithmic income reflects diminishing capability gains.
+- Rank is relative; value is the composite score; report year and data year must be stated separately.
 
-```text
-DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE
--> STATE FORMULA, PRICE BASIS, BASE YEAR, BASKET OR LEGAL POWER
--> NAME THE PERIOD, ESTIMATE VINTAGE AND ISSUING BODY
--> TRACE THE TRANSMISSION OR ACCOUNTING RECONCILIATION
--> ADD ONE INDIA-SPECIFIC EVIDENCE UNIT AND ITS LIMIT
--> TEST DISTRIBUTION, OUTPUT, PRICE OR FINANCIAL-STABILITY EFFECTS
--> CONCLUDE WITH A GRADED VERDICT, NOT A TIMELESS NUMBER
-```
+### 3. IHDI rapid decoder
 
-### Growth, Development, HDI, IHDI and MPI: LIVE-SOURCE AND ESTIMATE-STATUS BOUNDARY
+- Same three HDI dimensions; **not a fourth inequality dimension**.
+- `I-adjusted = (1-Ax) x I`; `IHDI = (Health-adjusted x Education-adjusted x Income-adjusted)^(1/3)`.
+- `Loss = 1 - IHDI/HDI`.
+- Equality case: all dimension inequalities zero -> IHDI equals HDI.
+- Limitation: not association-sensitive across the same individuals; smaller data coverage.
 
-The UNDP HDI page was substantively retrievable on 2026-09-03 and is used only for its HDI dimensions, geometric-mean construction and stated limits. No live India rank, score, IHDI loss, MPI headcount or poverty estimate was taken from it.
+### 4. Global MPI rapid decoder
+
+- OPHI + UNDP; Alkire-Foster; acute overlapping deprivation.
+- Health: nutrition and child mortality, 1/6 each.
+- Education: years of schooling and school attendance, 1/6 each.
+- Living standards: fuel, sanitation, water, electricity, housing and assets, 1/18 each.
+- Dual cutoff: indicator deprivation first; overall `c >= 1/3` identifies MPI poor.
+- Current global bands checked 9 September 2026: vulnerable `1/5 <= c < 1/3`; severe `c >= 1/2`.
+- `H = q/n`; `A = poor people's average weighted deprivation`; `MPI = H x A`.
+
+### 5. India's National MPI rapid decoder
+
+- Nodal publisher: NITI Aayog; household source: NFHS.
+- 12 indicators: adds maternal health and bank account to the global indicator themes.
+- Weights: nutrition 1/6; child/adolescent mortality 1/12; maternal health 1/12; both education indicators 1/6; seven living-standard indicators 1/21.
+- 2023 Progress Review, released 17 July 2023, compares NFHS-4 (2015-16) with NFHS-5 (2019-21).
+- Report facts: headcount 24.85% -> 14.96%; estimated 13.5 crore people moved out of multidimensional poverty.
+- Uses: national, State/UT, district and indicator decomposition; limitation: lag and national/global non-equivalence.
+
+### 6. Comparison and limitation matrix
+
+| Measure | Core question | Principal blind spot |
+|---|---|---|
+| Real GDP/per capita | How large and fast is output? | Distribution and non-market capabilities |
+| HDI | What is average achievement? | Within-country distribution and omitted dimensions |
+| IHDI | What remains after inequality discount? | Joint overlap across the same people |
+| Monetary poverty | Is command over resources below a line? | Direct service/capability overlap |
+| MPI | Who crosses a weighted deprivation cutoff and how intensely? | Indicator/cutoff choice, intra-household inequality and lag |
+
+### 7. Must-not-miss traps
+
+- HDI: 3 dimensions, 4 indicators; GNIpc PPP, not GDP alone.
+- Final HDI geometric mean; education subindices arithmetic mean.
+- IHDI <= HDI; the gap is not a poverty rate.
+- Global MPI has 10 indicators; India's national MPI has 12.
+- Equal dimension weights do not imply equal weights for all indicators.
+- H asks how many; A asks how deprived among the poor.
+- Publication year is not data year; rank movement is not value movement.
+- Expenditure is an input; verify access, quality, utilisation and outcome.
+
+### 8. Mains answer spine
+
+`Define -> decode formula/institution -> date evidence -> explain growth/jobs/services mechanism -> compare distribution/deprivation -> qualify averages, cutoffs, household unit, lag and causation -> recommend productive inclusion, quality public services and ecological resilience.`
 
 ### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
 
-#### ASCII MASTER FLOW — PANEL 1/12: Growth is the input, not the verdict
-
-```ascii-master
-REAL OUTPUT GROWTH
--> income + profits + fiscal capacity
--> jobs + public services + household investment
-DEVELOPMENT ONLY IF capabilities broaden
-MUST REMEMBER: Development expands capabilities, health, education, income security,...
-```
-
-#### ASCII MASTER FLOW — PANEL 2/12: Capability conversion
-
-```ascii-master
-RESOURCES
--> health + education + nutrition
--> substantive freedoms
-LIMIT -> income can rise without conversion
-```
-
-#### ASCII MASTER FLOW — PANEL 3/12: HDI three-dimension frame
-
-```ascii-master
-HEALTH -> life expectancy
-EDUCATION -> expected + mean years of schooling
-LIVING STANDARD -> GNI per capita
-AGGREGATION -> geometric mean
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: HDI-to-IHDI discount
-
-```ascii-master
-HDI -> average achievement
-INEQUALITY WITHIN EACH DIMENSION
--> achievement discounted
-ZERO INEQUALITY -> IHDI equals HDI
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: MPI household lens
-
-```ascii-master
-HEALTH | EDUCATION | LIVING STANDARDS
-HOUSEHOLD -> overlapping deficits
-NOT AN INCOME-ONLY CLASSIFICATION
-USE -> composition and targeting
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: H times A formula
-
-```ascii-master
-H -> incidence: how many are poor
-A -> intensity: how deprived the poor are
-MPI = H x A
-TRAP -> H and A can move differently
-CLOSE DISTINCTION: Growth is not development, per-capita average is not distribution, HDI...
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Income line versus MPI
-
-```ascii-master
-INCOME LINE -> monetary threshold
-MPI -> weighted deprivation overlap
-INCOME -> transfer adequacy
-MPI -> sectoral composition of deprivation
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: Institutions map
-
-```ascii-master
-UNDP -> HDI and IHDI
-UNDP + OPHI -> global MPI
-NITI AAYOG -> national MPI
-GOVERNMENTS -> service delivery
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Below-state diagnosis
-
-```ascii-master
-NATIONAL AVERAGE
--> STATE DIVERGENCE
--> DISTRICT DIVERGENCE
-RULE -> ranking change is not transformation
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Protection versus transformation
-
-```ascii-master
-MGNREGA -> wage floor + rural assets
-ICDS / PM POSHAN -> nutrition + schooling
-SHGs -> savings + agency + networks
-LIMIT -> productivity and decent jobs remain necessary
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Composite-index limits
-
-```ascii-master
-AVERAGE -> can hide distribution
-WEIGHTS -> shape results
-SURVEY TIMING -> misses sudden shocks
-QUALITY -> may differ from access
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Inclusive-growth answer spine
-
-```ascii-master
-DEFINE growth and development
-TRACE jobs + services + capabilities
-COMPARE HDI / IHDI / MPI
-QUALIFY with inequality, quality and ecology
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name publisher, edition/release date,...
+```text
+PANEL 1/12 - CORE CONCEPT: GROWTH IS A MEANS, DEVELOPMENT THE TEST
++----------------------------------------------------------------------------+
+| REAL GROWTH = sustained increase in inflation-adjusted output or income     |
+| DEVELOPMENT = growth + structural change + distribution + capabilities     |
+|               + agency + resilience + environmental sustainability         |
+| REAL GDP -> aggregate quantity; REAL GDP PER CAPITA -> average quantity     |
+| Neither alone proves decent jobs, equal access, security or future welfare. |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 2/12 - GROWTH ENGINE AND CONVERSION CHAIN
++----------------------------------------------------------------------------+
+| labour + physical capital + human capital + technology + institutions       |
+|                         -> productivity -> real output                       |
+| output -> jobs/wages + profits/investment + tax base                        |
+| jobs/services -> nutrition + health + schooling + agency -> productivity    |
+| Failure modes: jobless growth, enclave growth, inequality, weak services.   |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 3/12 - HDI TIMELINE, PURPOSE AND FOUR INDICATORS
++----------------------------------------------------------------------------+
+| 1990: first UNDP Human Development Report                                   |
+| PURPOSE: average achievement, not complete welfare                          |
+| HEALTH: life expectancy at birth                                             |
+| EDUCATION: expected years schooling + mean years schooling (age 25+)        |
+| LIVING STANDARD: GNI per capita in PPP terms                                |
+| Three dimensions; four indicators; publisher = UNDP.                        |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 4/12 - HDI DECODER, 2025 TECHNICAL NOTE
++----------------------------------------------------------------------------+
+| Linear index = (actual - minimum)/(maximum - minimum)                        |
+| LE goalposts 20-85; EYS 0-18; MYS 0-15                                     |
+| GNIpc goalposts 100-75,000 constant 2021 PPP dollars                        |
+| Education index = arithmetic mean of EYS and MYS indices                    |
+| Income index uses ln values: diminishing capability return to income        |
+| HDI = (Health x Education x Income)^(1/3): geometric mean                    |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 5/12 - HDI INTERPRETATION FIREWALL
++----------------------------------------------------------------------------+
+| VALUE = composite achievement; RANK = relative order in a stated release    |
+| REPORT YEAR != DATA YEAR; components may have different source vintages     |
+| Rank can move because peers, coverage or revisions change.                  |
+| Limits: average hides inequality; only 3 dimensions; omits poverty, voice,  |
+| security, service quality, unpaid care and environmental pressure.          |
+| GDI/GII are bounded gender complements, not fourth HDI dimensions.          |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 6/12 - IHDI: SAME DIMENSIONS, DISTRIBUTION DISCOUNT
++----------------------------------------------------------------------------+
+| Atkinson-type inequality Ax for health, education and income                 |
+| Adjusted dimension I-adjusted = (1 - Ax) x I                                |
+| IHDI = (Health-adjusted x Education-adjusted x Income-adjusted)^(1/3)       |
+| Loss = 1 - IHDI/HDI; perfect equality -> IHDI = HDI; always IHDI <= HDI     |
+| Not a fourth dimension; gap is not a poverty rate.                          |
+| UNDP limit: not association-sensitive across the same individuals.          |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 7/12 - GLOBAL MPI: 3 DIMENSIONS, 10 INDICATORS
++----------------------------------------------------------------------------+
+| OPHI + UNDP; acute household-level overlapping deprivation                  |
+| Health 1/3: nutrition 1/6; child mortality 1/6                              |
+| Education 1/3: years schooling 1/6; attendance 1/6                          |
+| Living standards 1/3: fuel, sanitation, water, electricity, housing, assets |
+|                       each 1/18                                              |
+| Equal dimension weights do not mean equal weights for all 10 indicators.    |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 8/12 - DUAL CUTOFF AND MPI = H x A
++----------------------------------------------------------------------------+
+| 1st cutoff: indicator-specific deprivation; sum weights -> score c           |
+| 2nd cutoff: c >= 1/3 -> MPI poor                                             |
+| Current global bands: vulnerable 1/5 to <1/3; severe c >= 1/2               |
+| H = poor population / total population                                      |
+| A = average weighted deprivation score among the poor                       |
+| MPI = H x A; H and A can move in opposite directions.                       |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 9/12 - INDIA'S NATIONAL MPI IS AN ADAPTATION
++----------------------------------------------------------------------------+
+| Publisher/nodal institution: NITI Aayog; source: NFHS household microdata    |
+| 12 indicators: global spine + maternal health + bank account                |
+| Health: nutrition 1/6; mortality 1/12; maternal health 1/12                 |
+| Education: MYS 1/6; attendance 1/6                                          |
+| Living standards: 7 indicators, each 1/21                                  |
+| Used at national, State/UT and district levels; not interchangeable globally.|
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 10/12 - DATED INDIA EVIDENCE AND DATA-LAG RULE
++----------------------------------------------------------------------------+
+| NITI Progress Review released 17 July 2023                                  |
+| compares NFHS-4 (2015-16) with NFHS-5 (2019-21)                            |
+| headcount ratio: 24.85% -> 14.96%; report estimate: 13.5 crore exited       |
+| These are survey-period comparisons, not observations made in 2023.         |
+| Limits: periodic survey, repeated cross-section, household assignment,      |
+| district/social-group averages and indicator/cutoff sensitivity.            |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 11/12 - COMPARISON, LIMITS AND PRELIMS TRAPS
++----------------------------------------------------------------------------+
+| Income poverty: monetary command below line; MPI: direct overlapping deficits|
+| HDI: average achievement; IHDI: inequality-adjusted achievement             |
+| Global MPI: 10 indicators; India national MPI: 12 indicators                |
+| H != A; IHDI loss != MPI; GNIpc != GDPpc; rank != value                     |
+| Household MPI can hide intra-household gender/age/disability inequality.     |
+| Expenditure != access != quality != utilisation != outcome.                 |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 12/12 - ANSWER SPINE AND QUALIFIED VERDICT
++----------------------------------------------------------------------------+
+| DEFINE -> select metric -> decode institution/unit/formula/threshold         |
+| -> attach report year + data year -> calculate/compare components           |
+| -> explain productivity/jobs/services/distribution/environment mechanism     |
+| -> qualify averages, cutoff sensitivity, household unit, lag and causation  |
+| -> prescribe productive inclusion + quality capabilities + resilience       |
+| VERDICT: use a dated, disaggregated dashboard; no single index is development.|
++----------------------------------------------------------------------------+
 ```

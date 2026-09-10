@@ -1,74 +1,106 @@
-ASCII MASTER FLOW — PANEL 1/12: MSME classification clock
-1 JULY 2020 -> earlier composite thresholds
-21 MARCH 2025 -> S.O. 1364(E)
-1 APRIL 2025 -> revised thresholds effective
-ALWAYS attach investment + turnover + vintage
-MUST REMEMBER: MSME, PLI, semiconductor and manufacturing strategies address scale,...
+ECONOMY TOPIC 17 — ASCII MASTER
+Current-source cutoff: 9 September 2026
 
-ASCII MASTER FLOW — PANEL 2/12: Current threshold matrix
-MICRO -> 2.5 investment / 10 turnover
-SMALL -> 25 investment / 100 turnover
-MEDIUM -> 125 investment / 500 turnover
-UNIT -> Rs crore; both ceilings apply
+PANEL 01: MASTER SPINE
++--------------------------------------------------------------------------+
+| MSME ladder -> productive graduation                                     |
+| PLI -> verified incremental performance                                  |
+| Ecosystem -> competitive manufacturing                                   |
+| Semiconductors -> full value chain                                       |
++--------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: MSME constraint map
-IDENTITY -> Udyam
-COLLATERAL RISK -> CGTMSE
-RECEIVABLES DELAY -> TReDS
-CAPABILITY -> clusters + standards + technology
+PANEL 02: MSME CLASSIFICATION
++--------------------------------------------------------------------------+
+| 1 Apr 2025 composite limits                                              |
+| Micro 2.5/10                                                             |
+| Small 25/100                                                             |
+| Medium 125/500                                                           |
+| Both investment and turnover                                             |
++--------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: TReDS transaction rail
-MSME SUPPLIER -> invoice
-BUYER -> accepts receivable
-FINANCIER -> discounts accepted claim
-PLATFORM -> M1xchange / other RBI-regulated TReDS
+PANEL 03: FORMALISATION
++--------------------------------------------------------------------------+
+| Udyam identity                                                           |
+| Administrative data caveat                                               |
+| Registration != credit/quality                                           |
+| Measure active firms and productivity                                    |
++--------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: PLI status ladder
-SCHEME OUTLAY
--> APPLICANT SELECTION
--> ANNOUNCED / ACTUAL INVESTMENT
--> VERIFIED OUTPUT -> DISBURSEMENT
+PANEL 04: FINANCE AND PAYMENT
++--------------------------------------------------------------------------+
+| SIDBI development finance                                                |
+| CGTMSE guarantee                                                         |
+| 45-day MSE payment limit                                                 |
+| TReDS/factoring/ODR                                                      |
++--------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: PLI scorecard
-ADDITIONAL INVESTMENT + OUTPUT
-DOMESTIC VALUE + PRODUCTIVITY
-JOBS + EXPORTS
-SUPPLIER / R&D SPILLOVERS - FISCAL COST
-CLOSE DISTINCTION: MSME classification is not informality, registration is not survival,...
+PANEL 05: CAPABILITY TOOLS
++--------------------------------------------------------------------------+
+| MSE procurement 25-4-3                                                   |
+| MSE-CDP shared facilities                                                |
+| ZED Bronze/Silver/Gold                                                   |
+| RAMP FY2022-FY2027                                                       |
+| ECLGS closed 31 Mar 2023                                                 |
++--------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Anchor-supplier bridge
-LARGE ANCHOR FIRM
--> QUALITY / COST / DELIVERY REQUIREMENTS
--> MSME SUPPLIER UPGRADING
--> BROADER DOMESTIC SPILLOVERS
+PANEL 06: PLI LOGIC
++--------------------------------------------------------------------------+
+| Eligibility and base year                                                |
+| Incremental eligible sales                                               |
+| Verification before disbursement                                         |
+| Sector-specific rules                                                    |
+| Sunset/review                                                            |
++--------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Semiconductor chain
-DESIGN + IP
--> MATERIALS + EQUIPMENT
--> WAFER FABRICATION
--> ATMP / OSAT -> DOWNSTREAM ELECTRONICS
+PANEL 07: INSTRUMENT MAP
++--------------------------------------------------------------------------+
+| PLI: output                                                              |
+| Capex support: investment                                                |
+| Tariff: import price                                                     |
+| Procurement: buyer demand                                                |
++--------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Fab versus packaging
-FAB -> manufactures wafers
-ATMP / OSAT -> assembly + test + mark + package
-DESIGN -> architecture + IP
-ASSEMBLY -> final electronics; not automatically a fab
+PANEL 08: PLI SCORECARD
++--------------------------------------------------------------------------+
+| Output and investment                                                    |
+| Domestic value addition                                                  |
+| Productive jobs and exports                                              |
+| Supplier/R&D spillovers                                                  |
+| Counterfactual additionality                                             |
++--------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Fab enabling ecosystem
-RELIABLE POWER + ULTRA-PURE WATER
-PROCESS TALENT + TECHNOLOGY PARTNER
-CLEAN LOGISTICS + MATERIALS
-DEMAND + SUPPLIERS + LONG GESTATION
+PANEL 09: MANUFACTURING FOUNDATIONS
++--------------------------------------------------------------------------+
+| Power and logistics                                                      |
+| Land, labour and skills                                                  |
+| Finance, standards and R&D                                               |
+| Competition and exports                                                  |
+| Clusters/agglomeration                                                   |
++--------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: Domestic-value trap
-GROSS OUTPUT RISES
-BUT HIGH-VALUE INPUTS MAY REMAIN IMPORTED
--> SHALLOW LOCAL VALUE ADDITION
--> MEASURE stage-wise capability
+PANEL 10: CHIP VALUE CHAIN
++--------------------------------------------------------------------------+
+| Design/EDA/IP                                                            |
+| Materials/equipment                                                      |
+| Wafer fab                                                                |
+| ATMP/OSAT                                                                |
+| Electronics integration                                                  |
++--------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: Manufacturing answer spine
-CLASSIFY firm + bind constraint
-MATCH instrument to finance / scale / technology
-TRACE semiconductor stages and status
-EVALUATE additionality + spillovers + exit rules
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use current notified thresholds/status only...
+PANEL 11: ISM STATUS
++--------------------------------------------------------------------------+
+| Semicon 1.0: 15 Dec 2021                                                 |
+| Micron/Kaynes production 2026                                            |
+| CG Semi inauguration Jul 2026                                            |
+| Semicon 2.0: 15 Jul 2026                                                 |
+| Six pillars notified 31 Aug                                              |
++--------------------------------------------------------------------------+
+
+PANEL 12: ANSWER ENGINE
++--------------------------------------------------------------------------+
+| Exact dated status                                                       |
+| Claim -> evidence -> analysis -> qualification                           |
+| Approval != outcome                                                      |
+| Output != DVA/additionality                                              |
+| Review, competition and sunset                                           |
++--------------------------------------------------------------------------+

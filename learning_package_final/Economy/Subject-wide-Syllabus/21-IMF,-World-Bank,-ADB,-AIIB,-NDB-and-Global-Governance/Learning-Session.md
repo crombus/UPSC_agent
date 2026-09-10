@@ -1,2979 +1,4237 @@
-# IMF, World Bank, ADB, AIIB, NDB and Global Governance — Learner-v2 Complete Learning Session
+---
+title: "IMF, World Bank, ADB, AIIB, NDB and Global Governance - Complete Learning Session"
+topic_key: economy-topic-21
+---
+# IMF, World Bank, ADB, AIIB, NDB and Global Governance - Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.
+## SOURCE, TIMELINE AND CURRENT-STATUS CONTROL
 
-### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
+**Current-source cutoff:** 9 September 2026.
 
-- **Generation date:** 2026-09-03.
-- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
-- **OCR evidence:** Repository Markdown was primary. OCR-searchable local official General Studies papers were used only to confirm printed routed demands. No answer key, marking scheme, unsupported page precision or current macroeconomic statistic was inferred from them.
-- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
-- **PYQ integrity:** Audited Prelims ledgers route objective concepts on AIIB, the reserve or gold tranche, the Rapid Financing Instrument, the G20 Common Framework, ADB's Nature Solutions Finance Hub and IBRD. No direct Economy Mains demand is claimed and no objective answer letter is inferred.
-- **Live-link boundary:** Official institutional pages or official-domain search results supported qualitative mandates and lending-window distinctions. Direct IMF access was blocked and the World Bank landing page was only partially retrievable, so current quota, voting, membership, capital and finance figures were not used.
-- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
+**Mandatory source order used**
+1. Canonical Economy Basic/Core and Optional Advanced Markdown.
+2. OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26*.
+3. Official IMF, World Bank Group, ADB, AIIB, NDB, G20, FSB, BIS and Paris Club sources.
+4. Qdrant was not required.
 
-### LIVE OFFICIAL-SOURCE ATTEMPT LOG
+**Evidence discipline:** Membership, leadership, capital, voting power, eligibility and facility status are dated. Authorised capital, subscribed capital, approvals, commitments and disbursements remain separate.
 
-The checks below were made on 2026-09-03. Substantive official text is used only for the proposition it actually supports; binary files, dynamic shells, stubs and undated dashboard snippets are recorded but not converted into current claims.
+### OFFICIAL SOURCE REGISTER
 
-- https://www.imf.org/en/about/faq/quotas — direct factsheet access returned HTTP 403 on 2026-09-03; official-domain search exposed only qualitative quota functions, so no current figure was imported.
-- https://www.worldbank.org/en/about/articles-of-agreement — official-domain results substantively distinguished IBRD, IDA, IFC and MIGA mandates; the redesigned landing page itself exposed only partial raw content.
-- https://www.adb.org/what-we-do — official-domain search substantively exposed ADB's Asia-Pacific development mandate; no target or portfolio total was imported.
-- https://www.aiib.org/en/about-aiib/index.html — official-domain search substantively exposed the sustainable-infrastructure mandate; membership and finance counts were excluded.
-- https://www.ndb.int/about-ndb/ — official-domain search substantively exposed the infrastructure and sustainable-development mandate; strategy targets were excluded.
+- IMF membership and Liechtenstein: https://www.imf.org/en/news/articles/2024/10/21/pr-24387-liechtenstein-principality-of-liechtenstein-becomes-imfs-191st-member
+- IMF Managing Director second term: https://www.imf.org/en/news/articles/2024/04/12/pr24113-imf-executive-board-selects-kristalina-georgieva-to-serve-a-second-term-as-managing-director
+- IMF India quota and voting: https://www.imf.org/en/about/executive-board/members-quotas
+- IMF Sixteenth General Review status: https://www.imf.org/en/publications/policy-papers/issues/2026/05/13/extension-of-the-period-for-consent-to-increase-quotas-under-the-sixteenth-general-review-576053
+- IMF SDR basket: https://www.imf.org/en/news/articles/2022/05/14/pr22153-imf-board-concludes-sdr-valuation-review
+- IMF RFI: https://www.imf.org/en/about/factsheets/sheets/2023/rapid-financing-instrument-rfi
+- World Bank Group membership/governance: https://www.worldbank.org/en/about/leadership/members
+- World Bank Group boards: https://www.worldbank.org/en/about/annual-report/one-world-bank-group
+- World Bank President: https://www.worldbank.org/en/news/press-release/2023/05/03/ajay-banga-selected-14th-president-of-the-world-bank
+- IDA eligibility: https://ida.worldbank.org/en/about/borrowing-countries
+- IFC governance: https://www.ifc.org/en/about/governance-and-financial-sustainability
+- MIGA membership: https://www.miga.org/member-countries
+- ICSID member-state database: https://icsid.worldbank.org/about/member-states/database-of-member-states
+- World Bank project cycle: https://projects.worldbank.org/en/projects-operations/products-and-services/brief/projectcycle
+- World Bank procurement framework: https://www.worldbank.org/ext/en/what-we-do/project-procurement/framework
+- ADB mandate and membership: https://www.adb.org/who-we-are/about
+- ADB India facts: https://www.adb.org/who-we-are/partners/india/overview
+- ADB President: https://www.adb.org/news/new-adb-president-masato-kanda-assumes-office
+- ADB Nature Solutions Finance Hub: https://www.adb.org/node/928441/printable/print
+- AIIB membership/voting table: https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html
+- AIIB President/current facts: https://www.aiib.org/en/news-events/news/2026/zou-jiayi-assumes-presidency-asian-infrastructure-investment-bank.html
+- NDB members: https://www.ndb.int/about-ndb/members/
+- NDB shareholding: https://www.ndb.int/about-ndb/shareholding/
+- NDB President: https://www.ndb.int/news/board-of-governors-re-elects-h-e-mrs-dilma-rousseff-as-ndb-president/
+- G20 2026: https://www.g20.org/about-g20/
+- FSB mandate/governance: https://www.fsb.org/about/
+- FSB organisation: https://www.fsb.org/about/organisation-and-governance/
+- BIS members: https://www.bis.org/about/organisation/members
+- BCBS overview/charter: https://www.bis.org/committees/bcbs/overview
+- Paris Club principles: https://clubdeparis.org/en/sites/clubdeparis/accueil/club-de-paris/roles-et-missions.html
+
+### ORIGIN AND TIMELINE
+
+| Date | Development | Boundary |
+|---|---|---|
+| July 1944 | Bretton Woods conference | Designed IMF and IBRD architecture |
+| December 1945 | IMF and IBRD came into existence | Operations followed later |
+| 1947 | IMF and IBRD began operations | Distinct stabilisation/development mandates |
+| 1956 / 1960 / 1966 / 1988 | IFC / IDA / ADB / MIGA established | ICSID Convention entered into force in 1966 |
+| 1999 / 2008 | G20 finance forum / leaders' forum | Informal coordination, not treaty government |
+| 2009 | FSB succeeded the Financial Stability Forum | Standards coordination, no direct legal force |
+| 2014-16 | NDB and AIIB created and began operations | New MDBs complement older institutions |
+| November 2020 | G20 Common Framework agreed | Restructuring beyond DSSI payment suspension |
+| 23 August 2021 | General SDR allocation effective | SDR 456.5 billion allocated by quota shares |
+| 1 August 2022 | Current SDR basket weights effective | Next scheduled review in 2027 |
+| December 2023 | IMF approved 50% equiproportional quota increase | Effectiveness remained conditional |
+| 21 October 2024 | Liechtenstein became IMF member 191 | Dated membership count |
+| 24 February 2025 | Masato Kanda assumed ADB presidency | Current at cutoff |
+| 7 July 2025 | Dilma Rousseff's new NDB term began | Runs to 6 July 2030 |
+| 16 January 2026 | Zou Jiayi assumed AIIB presidency | AIIB's tenth anniversary |
+| 5 June 2026 | Uzbekistan became NDB member | Prospective members remain separate |
+
+### DATED CURRENT FACT RAIL
+
+| Institution/item | Status at 9 September 2026 | Qualification |
+|---|---|---|
+| IMF | 191 members; Kristalina Georgieva's second term began 1 October 2024 | Membership is not equal voting |
+| India at IMF | Quota SDR 13,114.4 million; voting share 2.63% | Quota and vote are distinct |
+| IMF 16th Review | 50% equiproportional increase; 149 consents/76.66% by 29 April 2026; 85% needed; deadline 15 November 2026 | Not effective at cutoff |
+| SDR basket | USD 43.38%; EUR 29.31%; CNY 12.28%; JPY 7.59%; GBP 7.44% | Effective 1 August 2022; next review 2027 |
+| IBRD / IDA | 189 IBRD members; 78 IDA-eligible borrowers in FY2027 | Membership and eligibility differ |
+| IFC / MIGA / ICSID | 186 / 182 members; ICSID 158 Contracting States and 166 signatories in August 2026 | India is not an ICSID signatory or Contracting State |
+| ADB | 69 members, 50 regional; Masato Kanda President | Current official page |
+| India at ADB | 6.317% shares; 5.343% total votes | Valued at 31 December 2025 |
+| AIIB | 111 approved members; USD 100 billion authorised capital; Zou Jiayi President | Approved/member accession stages differ |
+| India at AIIB | USD 8,367.3 million subscription; 8.5702% capital; 7.5268% voting power | Live table checked at cutoff |
+| NDB | Ten full members; five prospective; Dilma Rousseff term to 6 July 2030 | Prospective is not full membership |
+| India at NDB | USD 10 billion subscription; 18.72% of current subscribed capital | Live table checked at cutoff |
+| BIS / BCBS | BIS 63 central-bank owners; BCBS 45 members from 28 jurisdictions | BCBS standards lack direct legal force |
+| FSB | Andrew Bailey Chair; 59 Plenary representatives from 25 jurisdictions plus institutional/standard-setter seats | Recommendations rely on national implementation |
+| G20 | 19 countries + EU + AU; US presidency in 2026 | Informal, consensus-based, no permanent secretariat |
 
 ## BASIC LEARNING SESSION
 
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Economy Basic/Core is answer-complete before optional Advanced depth. |
-| Formula boundary | Formula, numerator, denominator, unit, stock/flow, nominal/real, base year, level/rate and accounting identity are explicit. |
-| Institutional boundary | Constitution, statute, delegated rule, regulator mandate, policy, recommendation, scheme and implementation outcome remain distinct. |
-| Transmission method | Shock or instrument → prices/quantities/balance sheets/incentives → institution and market response → output, employment, distribution, stability and external effect → lag and trade-off. |
-| Current-data method | Source → release date → reference period → unit/denominator → provisional/revised/final status; incompatible Budget, Survey or statistical vintages are never mixed. |
-| Programme-status method | Announced → approved → notified/guidelines issued → funded → operational → utilised → output → outcome are separate stages. |
-| External/WTO method | Agreement text, member category, box, limit, notification, consultation, dispute and ruling are qualified without invented thresholds. |
-| Causal method | Accounting identity, chronology and correlation are not promoted into behavioural or causal claims without mechanism, counterfactual and alternatives. |
-| Answer balance | Model answers balance growth, distribution, stability, sustainability and federal dimensions with India-centric evidence. |
-| Practice contract | Every solved item has demand decoding, a detailed examiner-grade model, executable timed/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Economy\basic\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`  
-**Substantive canonical provenance owner:** `upsc-ai-kit\knowledge\Economy\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance_Learner-V2-Complete-Topic-Package.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Economy\advanced\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Economy\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- Every data-heavy table states unit, denominator, geography, reference period and source/status.
-- GDP/GVA, gross/net, domestic/national, nominal/real and level/rate distinctions remain exact.
-- Monetary, fiscal and external chains state intermediaries, balance-sheet channels, lags, leakages and trade-offs.
-- Budget and Economic Survey editions are never mixed; BE, RE, Actual, advance/provisional/revised/final estimates remain labelled.
-- Scheme and programme claims distinguish announcement, approval, notification, operation, coverage, utilisation and measured outcome.
-- WTO boxes, limits, de minimis, special treatment, notifications and disputes are qualified from authoritative rules.
-- PYQ wording is preserved only where verified; reconstructed or routed demands remain labelled.
-- **Current-status note, rechecked 2026-09-06:** volatile rates, estimates, scheme status, trade rules and institutional claims retain official source, release date, reference period and revision status.
-
-**Generation-local live/current sources:**
-- `https://www.imf.org/en/about/faq/quotas — direct factsheet access returned HTTP 403 on 2026-09-03; official-domain search exposed only qualitative quota functions, so no current figure was imported.`
-- `https://www.worldbank.org/en/about/articles-of-agreement — official-domain results substantively distinguished IBRD, IDA, IFC and MIGA mandates; the redesigned landing page itself exposed only partial raw content.`
-- `https://www.adb.org/what-we-do — official-domain search substantively exposed ADB's Asia-Pacific development mandate; no target or portfolio total was imported.`
-- `https://www.aiib.org/en/about-aiib/index.html — official-domain search substantively exposed the sustainable-infrastructure mandate; membership and finance counts were excluded.`
-- `https://www.ndb.int/about-ndb/ — official-domain search substantively exposed the infrastructure and sustainable-development mandate; strategy targets were excluded.`
-
-### SESSION 1 — FOUNDATION — How to compare international economic institutions
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** How to compare international economic institutions explains how Institution-comparison frame and IMF mandate fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, How to compare international economic institutions separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> How to compare international economic institutions must be read through Institution-comparison frame and IMF mandate, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **compare**
-- **international**
-- **institutions**
-- **Institution-comparison**
-- **frame**
-- **mandate**
-
-**How to use them:** Define compare, international, institutions; attach Institution-comparison to its named source, period and status; then qualify the answer with this limit: Do not describe IMF balance-of-payments support as ordinary infrastructure project lending.
+### CORE SESSION 1 - Institution-comparison frame
 
 #### VISUAL FIRST
 
 ```text
-HOW TO COMPARE INTERNATIONAL ECONOMIC INSTITUTIONS
-01. Institution-comparison frame
-    |
-    v
-02. IMF mandate
-BOUNDARY -> Do not describe IMF balance-of-payments support as ordinary infrastructure project lending.
+INSTITUTION-COMPARISON FRAME
+mandate -> client -> instrument -> governance -> conditions -> outcome
+BOUNDARY -> Institutional labels do not prove effectiveness; assess additionality, implementation, distribution and repayment.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
+International economic institutions must be compared by mandate, client, instrument, governance and conditionality rather than treated as one pool of foreign finance.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Institution-comparison frame matters because the same dollar amount can have different economic meaning because a reserve asset, programme loan, project loan, equity investment and guarantee allocate risk differently.
 
-- International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-- The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
+**MUST-WRITE KEYWORDS:** mandate, client, instrument, governance, conditionality, additionality
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not describe IMF balance-of-payments support as ordinary infrastructure project lending.
+- **Claim:** Institution-comparison frame matters because the same dollar amount can have different economic meaning because a reserve asset, programme loan, project loan, equity investment and guarantee allocate risk differently.
+- **Named evidence:** The canonical Economy owners distinguish stabilisation finance, sovereign development lending, private investment, guarantees, dispute settlement and standard setting.
+- **Analysis:** The same dollar amount can have different economic meaning because a reserve asset, programme loan, project loan, equity investment and guarantee allocate risk differently.
+- **Qualification / demand link:** Institutional labels do not prove effectiveness; assess additionality, implementation, distribution and repayment.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
+- **Fact/evidence:** The canonical Economy owners distinguish stabilisation finance, sovereign development lending, private investment, guarantees, dispute settlement and standard setting.
+- **Analytical inference:** The same dollar amount can have different economic meaning because a reserve asset, programme loan, project loan, equity investment and guarantee allocate risk differently.
+- **Qualification:** Institutional labels do not prove effectiveness; assess additionality, implementation, distribution and repayment.
+
+#### PRELIMS TRAP
+
+Do not call every international institution a bank or every external resource a loan.
+
+#### MAINS USE
+
+Use this five-part frame as the introduction to any institution-comparison answer.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Institution-comparison frame -> IMF mandate
-- **Qualified use:** Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
+- Definition: International economic institutions must be compared by mandate, client, instrument, governance and conditionality rather than treated as one pool of foreign finance.
+- Evidence anchor: The canonical Economy owners distinguish stabilisation finance, sovereign development lending, private investment, guarantees, dispute settlement and standard setting.
+- Verdict: Institution-comparison frame matters because the same dollar amount can have different economic meaning because a reserve asset, programme loan, project loan, equity investment and guarantee allocate risk differently.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: How to compare international economic institutions
-EXACT TERMS: compare | international | institutions | Institution-comparison | frame | mandate
-MECHANISM / ARGUMENT: connect Institution-comparison frame and IMF mandate through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
-UPSC TRAP / ANSWER-USE: Do not describe IMF balance-of-payments support as ordinary infrastructure project lending.
-ANSWER-GRABBING FORMULATION: How to compare international economic institutions converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 2 — FOUNDATION — IMF mandate and surveillance
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** IMF mandate and surveillance explains how IMF quota functions fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, IMF mandate and surveillance separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> IMF mandate and surveillance must be read through IMF quota functions, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **mandate**
-- **surveillance**
-- **quota**
-- **functions**
-- **member's**
-- **relates**
-
-**How to use them:** Define mandate, surveillance, quota; attach functions to its named source, period and status; then qualify the answer with this limit: Do not quote quota, voting, membership or finance figures without a dated institutional source.
+### CORE SESSION 2 - Bretton Woods origin
 
 #### VISUAL FIRST
 
 ```text
-IMF MANDATE AND SURVEILLANCE
-01. IMF quota functions
-BOUNDARY -> Do not quote quota, voting, membership or finance figures without a dated institutional source.
+BRETTON WOODS ORIGIN
+inter-war instability -> 1944 conference -> IMF/IBRD -> 1945 legal birth -> 1947 operations
+BOUNDARY -> The later World Bank Group, floating exchange rates and new MDBs were not fully formed at Bretton Woods.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
+The 1944 Bretton Woods conference designed a post-war monetary and reconstruction architecture from which the IMF and IBRD emerged.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Bretton Woods origin matters because the design separated short-to-medium-term external stabilisation from long-term reconstruction and development finance.
 
-- An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
+**MUST-WRITE KEYWORDS:** Bretton Woods, 1944, IMF, IBRD, reconstruction, monetary cooperation
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not quote quota, voting, membership or finance figures without a dated institutional source.
+- **Claim:** Bretton Woods origin matters because the design separated short-to-medium-term external stabilisation from long-term reconstruction and development finance.
+- **Named evidence:** The IMF and IBRD Articles were negotiated at Bretton Woods in July 1944; both institutions formally came into existence in December 1945.
+- **Analysis:** The design separated short-to-medium-term external stabilisation from long-term reconstruction and development finance.
+- **Qualification / demand link:** The later World Bank Group, floating exchange rates and new MDBs were not fully formed at Bretton Woods.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate reserve assets, stabilisation finance, development loans and guarantees.
+- **Fact/evidence:** The IMF and IBRD Articles were negotiated at Bretton Woods in July 1944; both institutions formally came into existence in December 1945.
+- **Analytical inference:** The design separated short-to-medium-term external stabilisation from long-term reconstruction and development finance.
+- **Qualification:** The later World Bank Group, floating exchange rates and new MDBs were not fully formed at Bretton Woods.
+
+#### PRELIMS TRAP
+
+Do not say the WTO or all five World Bank Group institutions were created at Bretton Woods.
+
+#### MAINS USE
+
+Use origin to explain why the IMF and World Bank have different balance-sheet and policy functions.
 
 #### MINI RECAP
 
-- **Mechanism chain:** IMF quota functions
-- **Qualified use:** Separate reserve assets, stabilisation finance, development loans and guarantees.
+- Definition: The 1944 Bretton Woods conference designed a post-war monetary and reconstruction architecture from which the IMF and IBRD emerged.
+- Evidence anchor: The IMF and IBRD Articles were negotiated at Bretton Woods in July 1944; both institutions formally came into existence in December 1945.
+- Verdict: Bretton Woods origin matters because the design separated short-to-medium-term external stabilisation from long-term reconstruction and development finance.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: IMF mandate and surveillance
-EXACT TERMS: mandate | surveillance | quota | functions | member's | relates
-MECHANISM / ARGUMENT: connect IMF quota functions through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate reserve assets, stabilisation finance, development loans and guarantees.
-UPSC TRAP / ANSWER-USE: Do not quote quota, voting, membership or finance figures without a dated institutional source.
-ANSWER-GRABBING FORMULATION: IMF mandate and surveillance converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 3 — FOUNDATION — IMF quotas
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** IMF quotas explains how SDR boundary fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, IMF quotas separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> IMF quotas must be read through SDR boundary, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **quotas**
-- **boundary**
-- **Special**
-- **Drawing**
-- **Right**
-- **IMF-created**
-
-**How to use them:** Define quotas, boundary, Special; attach Drawing to its named source, period and status; then qualify the answer with this limit: Do not call SDRs currency, budget revenue or an IMF loan.
+### CORE SESSION 3 - IMF versus World Bank mandate
 
 #### VISUAL FIRST
 
 ```text
-IMF QUOTAS
-01. SDR boundary
-BOUNDARY -> Do not call SDRs currency, budget revenue or an IMF loan.
+IMF VERSUS WORLD BANK MANDATE
+external financing gap -> IMF stabilisation | development gap -> World Bank finance
+BOUNDARY -> World Bank development-policy finance can support reforms, but it is not identical to IMF crisis lending.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
+The IMF supports monetary cooperation, surveillance and balance-of-payments adjustment; the World Bank finances development and institutional capacity.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** IMF versus World Bank mandate matters because a liquidity or macro-adjustment problem requires different maturity, conditionality and expertise from a road, health or education project.
 
-- A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
+**MUST-WRITE KEYWORDS:** balance-of-payments, surveillance, development finance, project lending, policy finance
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not call SDRs currency, budget revenue or an IMF loan.
+- **Claim:** IMF versus World Bank mandate matters because a liquidity or macro-adjustment problem requires different maturity, conditionality and expertise from a road, health or education project.
+- **Named evidence:** IMF Articles centre on monetary cooperation and exchange stability, while IBRD and IDA lend for reconstruction and development.
+- **Analysis:** A liquidity or macro-adjustment problem requires different maturity, conditionality and expertise from a road, health or education project.
+- **Qualification / demand link:** World Bank development-policy finance can support reforms, but it is not identical to IMF crisis lending.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
+- **Fact/evidence:** IMF Articles centre on monetary cooperation and exchange stability, while IBRD and IDA lend for reconstruction and development.
+- **Analytical inference:** A liquidity or macro-adjustment problem requires different maturity, conditionality and expertise from a road, health or education project.
+- **Qualification:** World Bank development-policy finance can support reforms, but it is not identical to IMF crisis lending.
+
+#### PRELIMS TRAP
+
+Do not assign dams and roads as the IMF's primary function.
+
+#### MAINS USE
+
+Contrast problem, borrower, maturity, instrument and monitoring rather than merely expanding acronyms.
 
 #### MINI RECAP
 
-- **Mechanism chain:** SDR boundary
-- **Qualified use:** Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
+- Definition: The IMF supports monetary cooperation, surveillance and balance-of-payments adjustment; the World Bank finances development and institutional capacity.
+- Evidence anchor: IMF Articles centre on monetary cooperation and exchange stability, while IBRD and IDA lend for reconstruction and development.
+- Verdict: IMF versus World Bank mandate matters because a liquidity or macro-adjustment problem requires different maturity, conditionality and expertise from a road, health or education project.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: IMF quotas
-EXACT TERMS: quotas | boundary | Special | Drawing | Right | IMF-created
-MECHANISM / ARGUMENT: connect SDR boundary through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
-UPSC TRAP / ANSWER-USE: Do not call SDRs currency, budget revenue or an IMF loan.
-ANSWER-GRABBING FORMULATION: IMF quotas converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 4 — CORE — Special Drawing Rights
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Special Drawing Rights explains how Reserve tranche position fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Special Drawing Rights separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Special Drawing Rights must be read through Reserve tranche position, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Special**
-- **Drawing**
-- **Rights**
-- **Reserve**
-- **tranche**
-- **position**
-
-**How to use them:** Define Special, Drawing, Rights; attach Reserve to its named source, period and status; then qualify the answer with this limit: Do not treat gold tranche and reserve tranche position as separate facilities.
+### CORE SESSION 4 - International institution is not supranational government
 
 #### VISUAL FIRST
 
 ```text
-SPECIAL DRAWING RIGHTS
-01. Reserve tranche position
-BOUNDARY -> Do not treat gold tranche and reserve tranche position as separate facilities.
+INTERNATIONAL INSTITUTION IS NOT SUPRANATIONAL GOVERNMENT
+member treaty -> delegated mandate -> recommendation/loan condition -> domestic implementation
+BOUNDARY -> A binding loan covenant or arbitral award has a specific legal basis and should not be generalised into unlimited authority.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
+A multilateral institution acts under treaties, charters and member decisions; it does not possess general sovereign legislative power over member states.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** International institution is not supranational government matters because influence can be powerful through finance, expertise and peer pressure without converting the institution into a world government.
 
-- A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
+**MUST-WRITE KEYWORDS:** treaty mandate, member-driven, sovereignty, covenant, national implementation
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not treat gold tranche and reserve tranche position as separate facilities.
+- **Claim:** International institution is not supranational government matters because influence can be powerful through finance, expertise and peer pressure without converting the institution into a world government.
+- **Named evidence:** IMF Article IV advice, MDB project covenants and FSB standards operate through agreed mandates and national implementation.
+- **Analysis:** Influence can be powerful through finance, expertise and peer pressure without converting the institution into a world government.
+- **Qualification / demand link:** A binding loan covenant or arbitral award has a specific legal basis and should not be generalised into unlimited authority.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
+- **Fact/evidence:** IMF Article IV advice, MDB project covenants and FSB standards operate through agreed mandates and national implementation.
+- **Analytical inference:** Influence can be powerful through finance, expertise and peer pressure without converting the institution into a world government.
+- **Qualification:** A binding loan covenant or arbitral award has a specific legal basis and should not be generalised into unlimited authority.
+
+#### PRELIMS TRAP
+
+Do not call an institutional recommendation automatically binding domestic law.
+
+#### MAINS USE
+
+State the source of authority and the domestic implementation channel.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Reserve tranche position
-- **Qualified use:** Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
+- Definition: A multilateral institution acts under treaties, charters and member decisions; it does not possess general sovereign legislative power over member states.
+- Evidence anchor: IMF Article IV advice, MDB project covenants and FSB standards operate through agreed mandates and national implementation.
+- Verdict: International institution is not supranational government matters because influence can be powerful through finance, expertise and peer pressure without converting the institution into a world government.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Special Drawing Rights
-EXACT TERMS: Special | Drawing | Rights | Reserve | tranche | position
-MECHANISM / ARGUMENT: connect Reserve tranche position through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
-UPSC TRAP / ANSWER-USE: Do not treat gold tranche and reserve tranche position as separate facilities.
-ANSWER-GRABBING FORMULATION: Special Drawing Rights converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 5 — CORE — Reserve tranche position and gold tranche
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Reserve tranche position and gold tranche explains how Gold tranche terminology fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Reserve tranche position and gold tranche separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Reserve tranche position and gold tranche must be read through Gold tranche terminology, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Reserve**
-- **tranche**
-- **position**
-- **gold**
-- **terminology**
-- **historical**
-
-**How to use them:** Define Reserve, tranche, position; attach gold to its named source, period and status; then qualify the answer with this limit: Do not merge RFI emergency support with phased SBA or EFF programme lending.
+### CORE SESSION 5 - IMF membership and leadership
 
 #### VISUAL FIRST
 
 ```text
-RESERVE TRANCHE POSITION AND GOLD TRANCHE
-01. Gold tranche terminology
-BOUNDARY -> Do not merge RFI emergency support with phased SBA or EFF programme lending.
+IMF MEMBERSHIP AND LEADERSHIP
+membership -> quota -> votes/resources -> surveillance/access
+BOUNDARY -> Membership count and officeholder are current facts dated to the 9 September 2026 cutoff.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
+IMF membership confers participation in surveillance, quota-based governance and access to Fund resources subject to its Articles and policies.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** IMF membership and leadership matters because near-universal membership gives the IMF broad surveillance reach, while quota-weighted governance prevents one-state-one-vote equality.
 
-- Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
+**MUST-WRITE KEYWORDS:** 191 members, Managing Director, quota, surveillance, dated status
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not merge RFI emergency support with phased SBA or EFF programme lending.
+- **Claim:** IMF membership and leadership matters because near-universal membership gives the IMF broad surveillance reach, while quota-weighted governance prevents one-state-one-vote equality.
+- **Named evidence:** Liechtenstein became the IMF's 191st member on 21 October 2024; Kristalina Georgieva's second five-year term as Managing Director began on 1 October 2024.
+- **Analysis:** Near-universal membership gives the IMF broad surveillance reach, while quota-weighted governance prevents one-state-one-vote equality.
+- **Qualification / demand link:** Membership count and officeholder are current facts dated to the 9 September 2026 cutoff.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate reserve assets, stabilisation finance, development loans and guarantees.
+- **Fact/evidence:** Liechtenstein became the IMF's 191st member on 21 October 2024; Kristalina Georgieva's second five-year term as Managing Director began on 1 October 2024.
+- **Analytical inference:** Near-universal membership gives the IMF broad surveillance reach, while quota-weighted governance prevents one-state-one-vote equality.
+- **Qualification:** Membership count and officeholder are current facts dated to the 9 September 2026 cutoff.
+
+#### PRELIMS TRAP
+
+Do not confuse universal reach with equal voting power.
+
+#### MAINS USE
+
+Use dated membership and leadership only as governance context, not as proof of legitimacy.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Gold tranche terminology
-- **Qualified use:** Separate reserve assets, stabilisation finance, development loans and guarantees.
+- Definition: IMF membership confers participation in surveillance, quota-based governance and access to Fund resources subject to its Articles and policies.
+- Evidence anchor: Liechtenstein became the IMF's 191st member on 21 October 2024; Kristalina Georgieva's second five-year term as Managing Director began on 1 October 2024.
+- Verdict: IMF membership and leadership matters because near-universal membership gives the IMF broad surveillance reach, while quota-weighted governance prevents one-state-one-vote equality.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Reserve tranche position and gold tranche
-EXACT TERMS: Reserve | tranche | position | gold | terminology | historical
-MECHANISM / ARGUMENT: connect Gold tranche terminology through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate reserve assets, stabilisation finance, development loans and guarantees.
-UPSC TRAP / ANSWER-USE: Do not merge RFI emergency support with phased SBA or EFF programme lending.
-ANSWER-GRABBING FORMULATION: Reserve tranche position and gold tranche converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 6 — CORE — Rapid Financing Instrument and programme arrangements
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Rapid Financing Instrument and programme arrangements explains how RFI and programme lending and World Bank boundary fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Rapid Financing Instrument and programme arrangements separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Rapid Financing Instrument and programme arrangements must be read through RFI and programme lending and World Bank boundary, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Rapid**
-- **Financing**
-- **Instrument**
-- **programme**
-- **arrangements**
-- **lending**
-
-**How to use them:** Define Rapid, Financing, Instrument; attach programme to its named source, period and status; then qualify the answer with this limit: Do not use World Bank and World Bank Group as exact synonyms.
+### CORE SESSION 6 - IMF governance bodies
 
 #### VISUAL FIRST
 
 ```text
-RAPID FINANCING INSTRUMENT AND PROGRAMME ARRANGEMENTS
-01. RFI and programme lending
-    |
-    v
-02. World Bank boundary
-BOUNDARY -> Do not use World Bank and World Bank Group as exact synonyms.
+IMF GOVERNANCE BODIES
+Board of Governors -> Executive Board -> management/staff -> member programme
+BOUNDARY -> The International Monetary and Financial Committee advises; it is not the IMF's supreme legal organ.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
+The Board of Governors holds ultimate authority, while the Executive Board conducts regular business under a Managing Director who chairs it.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** IMF governance bodies matters because delegation permits continuous decisions, but weighted votes and constituency representation shape voice.
 
-- The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-- The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
+**MUST-WRITE KEYWORDS:** Board of Governors, Executive Board, constituency, Managing Director, IMFC
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not use World Bank and World Bank Group as exact synonyms.
+- **Claim:** IMF governance bodies matters because delegation permits continuous decisions, but weighted votes and constituency representation shape voice.
+- **Named evidence:** Each member appoints a Governor; the Executive Board represents members and constituencies and approves surveillance and financing decisions.
+- **Analysis:** Delegation permits continuous decisions, but weighted votes and constituency representation shape voice.
+- **Qualification / demand link:** The International Monetary and Financial Committee advises; it is not the IMF's supreme legal organ.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
+- **Fact/evidence:** Each member appoints a Governor; the Executive Board represents members and constituencies and approves surveillance and financing decisions.
+- **Analytical inference:** Delegation permits continuous decisions, but weighted votes and constituency representation shape voice.
+- **Qualification:** The International Monetary and Financial Committee advises; it is not the IMF's supreme legal organ.
+
+#### PRELIMS TRAP
+
+Do not describe the Managing Director as a unilateral lender.
+
+#### MAINS USE
+
+Map legal authority, delegated board power and staff analysis separately.
 
 #### MINI RECAP
 
-- **Mechanism chain:** RFI and programme lending -> World Bank boundary
-- **Qualified use:** Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
+- Definition: The Board of Governors holds ultimate authority, while the Executive Board conducts regular business under a Managing Director who chairs it.
+- Evidence anchor: Each member appoints a Governor; the Executive Board represents members and constituencies and approves surveillance and financing decisions.
+- Verdict: IMF governance bodies matters because delegation permits continuous decisions, but weighted votes and constituency representation shape voice.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Rapid Financing Instrument and programme arrangements
-EXACT TERMS: Rapid | Financing | Instrument | programme | arrangements | lending
-MECHANISM / ARGUMENT: connect RFI and programme lending and World Bank boundary through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
-UPSC TRAP / ANSWER-USE: Do not use World Bank and World Bank Group as exact synonyms.
-ANSWER-GRABBING FORMULATION: Rapid Financing Instrument and programme arrangements converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 7 — CORE — World Bank and World Bank Group
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** World Bank and World Bank Group explains how IBRD and IDA fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, World Bank and World Bank Group separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> World Bank and World Bank Group must be read through IBRD and IDA, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **World**
-- **Bank**
-- **Group**
-- **IBRD**
-- **both**
-- **support**
-
-**How to use them:** Define World, Bank, Group; attach IBRD to its named source, period and status; then qualify the answer with this limit: Do not merge IBRD, IDA, IFC and MIGA clients or instruments.
+### CORE SESSION 7 - IMF quota functions
 
 #### VISUAL FIRST
 
 ```text
-WORLD BANK AND WORLD BANK GROUP
-01. IBRD and IDA
-BOUNDARY -> Do not merge IBRD, IDA, IFC and MIGA clients or instruments.
+IMF QUOTA FUNCTIONS
+relative position -> quota -> contribution + votes + access + SDR allocation
+BOUNDARY -> Exceptional access and basic votes mean quota is influential but not the sole determinant of every decision or loan amount.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
+An IMF quota is a member's subscription and a central determinant of contribution, voting power, normal access and share in general SDR allocations.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** IMF quota functions matters because quota is simultaneously a funding and governance mechanism, so formula reform changes both capacity and representation.
 
-- IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
+**MUST-WRITE KEYWORDS:** subscription, quota formula, voting power, access, SDR allocation
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not merge IBRD, IDA, IFC and MIGA clients or instruments.
+- **Claim:** IMF quota functions matters because quota is simultaneously a funding and governance mechanism, so formula reform changes both capacity and representation.
+- **Named evidence:** The IMF quotas factsheet links quotas to resources, voting, access and SDR allocations.
+- **Analysis:** Quota is simultaneously a funding and governance mechanism, so formula reform changes both capacity and representation.
+- **Qualification / demand link:** Exceptional access and basic votes mean quota is influential but not the sole determinant of every decision or loan amount.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
+- **Fact/evidence:** The IMF quotas factsheet links quotas to resources, voting, access and SDR allocations.
+- **Analytical inference:** Quota is simultaneously a funding and governance mechanism, so formula reform changes both capacity and representation.
+- **Qualification:** Exceptional access and basic votes mean quota is influential but not the sole determinant of every decision or loan amount.
+
+#### PRELIMS TRAP
+
+Do not treat quota as a periodic membership fee without governance consequences.
+
+#### MAINS USE
+
+Explain quota reform through its four functions.
 
 #### MINI RECAP
 
-- **Mechanism chain:** IBRD and IDA
-- **Qualified use:** Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
+- Definition: An IMF quota is a member's subscription and a central determinant of contribution, voting power, normal access and share in general SDR allocations.
+- Evidence anchor: The IMF quotas factsheet links quotas to resources, voting, access and SDR allocations.
+- Verdict: IMF quota functions matters because quota is simultaneously a funding and governance mechanism, so formula reform changes both capacity and representation.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: World Bank and World Bank Group
-EXACT TERMS: World | Bank | Group | IBRD | both | support
-MECHANISM / ARGUMENT: connect IBRD and IDA through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
-UPSC TRAP / ANSWER-USE: Do not merge IBRD, IDA, IFC and MIGA clients or instruments.
-ANSWER-GRABBING FORMULATION: World Bank and World Bank Group converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 8 — CORE — IBRD and IDA
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** IBRD and IDA explains how IFC and MIGA fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, IBRD and IDA separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> IBRD and IDA must be read through IFC and MIGA, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **IBRD**
-- **MIGA**
-- **supports**
-- **private-sector**
-- **development**
-- **through**
-
-**How to use them:** Define IBRD, MIGA, supports; attach private-sector to its named source, period and status; then qualify the answer with this limit: Do not treat ADB, AIIB and NDB as interchangeable or as replacements for the IMF.
+### CORE SESSION 8 - Quota votes and basic votes
 
 #### VISUAL FIRST
 
 ```text
-IBRD AND IDA
-01. IFC and MIGA
-BOUNDARY -> Do not treat ADB, AIIB and NDB as interchangeable or as replacements for the IMF.
+QUOTA VOTES AND BASIC VOTES
+basic votes + quota votes -> total voting power -> board decision
+BOUNDARY -> A voting share is not identical to quota share because basic votes affect the denominator.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
+IMF voting combines equal basic votes with quota-based votes, producing limited formal equality within a predominantly weighted system.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Quota votes and basic votes matters because basic votes protect a minimum voice for small members, while quota votes align influence with financial stake and measured economic weight.
 
-- IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
+**MUST-WRITE KEYWORDS:** basic votes, quota votes, weighted voting, representation, legitimacy
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not treat ADB, AIIB and NDB as interchangeable or as replacements for the IMF.
+- **Claim:** Quota votes and basic votes matters because basic votes protect a minimum voice for small members, while quota votes align influence with financial stake and measured economic weight.
+- **Named evidence:** IMF governance rules allocate each member basic votes plus one additional vote for each specified portion of quota.
+- **Analysis:** Basic votes protect a minimum voice for small members, while quota votes align influence with financial stake and measured economic weight.
+- **Qualification / demand link:** A voting share is not identical to quota share because basic votes affect the denominator.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate reserve assets, stabilisation finance, development loans and guarantees.
+- **Fact/evidence:** IMF governance rules allocate each member basic votes plus one additional vote for each specified portion of quota.
+- **Analytical inference:** Basic votes protect a minimum voice for small members, while quota votes align influence with financial stake and measured economic weight.
+- **Qualification:** A voting share is not identical to quota share because basic votes affect the denominator.
+
+#### PRELIMS TRAP
+
+Do not quote quota share as voting share.
+
+#### MAINS USE
+
+Use the distinction to assess voice without falsely claiming one-country-one-vote.
 
 #### MINI RECAP
 
-- **Mechanism chain:** IFC and MIGA
-- **Qualified use:** Separate reserve assets, stabilisation finance, development loans and guarantees.
+- Definition: IMF voting combines equal basic votes with quota-based votes, producing limited formal equality within a predominantly weighted system.
+- Evidence anchor: IMF governance rules allocate each member basic votes plus one additional vote for each specified portion of quota.
+- Verdict: Quota votes and basic votes matters because basic votes protect a minimum voice for small members, while quota votes align influence with financial stake and measured economic weight.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: IBRD and IDA
-EXACT TERMS: IBRD | MIGA | supports | private-sector | development | through
-MECHANISM / ARGUMENT: connect IFC and MIGA through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate reserve assets, stabilisation finance, development loans and guarantees.
-UPSC TRAP / ANSWER-USE: Do not treat ADB, AIIB and NDB as interchangeable or as replacements for the IMF.
-ANSWER-GRABBING FORMULATION: IBRD and IDA converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 9 — CORE — IFC and MIGA
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** IFC and MIGA explains how ADB mandate fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, IFC and MIGA separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> IFC and MIGA must be read through ADB mandate, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **MIGA**
-- **mandate**
-- **Asian**
-- **Development**
-- **Bank**
-- **regional**
-
-**How to use them:** Define MIGA, mandate, Asian; attach Development to its named source, period and status; then qualify the answer with this limit: Do not equate DSSI payment suspension with Common Framework debt treatment.
+### CORE SESSION 9 - Sixteenth General Review of Quotas
 
 #### VISUAL FIRST
 
 ```text
-IFC AND MIGA
-01. ADB mandate
-BOUNDARY -> Do not equate DSSI payment suspension with Common Framework debt treatment.
+SIXTEENTH GENERAL REVIEW OF QUOTAS
+2023 resolution -> member consents -> 85% threshold -> effectiveness -> NAB rollback
+BOUNDARY -> Approval in 2023 did not itself make the increase effective; the dated consent condition remained pending at the cutoff.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
+The Sixteenth General Review approved an equiproportional 50 percent quota increase, intended to strengthen quota resources without reallocating relative shares.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Sixteenth General Review of Quotas matters because the increase would shift the resource mix toward quotas, but an equiproportional design does not correct representation gaps.
 
-- The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
+**MUST-WRITE KEYWORDS:** 16th GRQ, 50 percent, equiproportional, 85 percent, consent, NAB
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not equate DSSI payment suspension with Common Framework debt treatment.
+- **Claim:** Sixteenth General Review of Quotas matters because the increase would shift the resource mix toward quotas, but an equiproportional design does not correct representation gaps.
+- **Named evidence:** An IMF policy paper records 149 consents representing 76.66 percent of quotas by 29 April 2026, below the 85 percent threshold; the consent deadline was extended to 15 November 2026.
+- **Analysis:** The increase would shift the resource mix toward quotas, but an equiproportional design does not correct representation gaps.
+- **Qualification / demand link:** Approval in 2023 did not itself make the increase effective; the dated consent condition remained pending at the cutoff.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
+- **Fact/evidence:** An IMF policy paper records 149 consents representing 76.66 percent of quotas by 29 April 2026, below the 85 percent threshold; the consent deadline was extended to 15 November 2026.
+- **Analytical inference:** The increase would shift the resource mix toward quotas, but an equiproportional design does not correct representation gaps.
+- **Qualification:** Approval in 2023 did not itself make the increase effective; the dated consent condition remained pending at the cutoff.
+
+#### PRELIMS TRAP
+
+Do not state that all member quotas had already risen by 50 percent.
+
+#### MAINS USE
+
+Separate decision, consent threshold, effectiveness and distribution.
 
 #### MINI RECAP
 
-- **Mechanism chain:** ADB mandate
-- **Qualified use:** Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
+- Definition: The Sixteenth General Review approved an equiproportional 50 percent quota increase, intended to strengthen quota resources without reallocating relative shares.
+- Evidence anchor: An IMF policy paper records 149 consents representing 76.66 percent of quotas by 29 April 2026, below the 85 percent threshold; the consent deadline was extended to 15 November 2026.
+- Verdict: Sixteenth General Review of Quotas matters because the increase would shift the resource mix toward quotas, but an equiproportional design does not correct representation gaps.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: IFC and MIGA
-EXACT TERMS: MIGA | mandate | Asian | Development | Bank | regional
-MECHANISM / ARGUMENT: connect ADB mandate through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
-UPSC TRAP / ANSWER-USE: Do not equate DSSI payment suspension with Common Framework debt treatment.
-ANSWER-GRABBING FORMULATION: IFC and MIGA converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 10 — CORE — Asian Development Bank
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Asian Development Bank explains how AIIB mandate fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Asian Development Bank separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Asian Development Bank must be read through AIIB mandate, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Asian**
-- **Development**
-- **Bank**
-- **AIIB**
-- **mandate**
-- **Infrastructure**
-
-**How to use them:** Define Asian, Development, Bank; attach AIIB to its named source, period and status; then qualify the answer with this limit: Do not infer an objective PYQ answer letter from a routed concept.
+### CORE SESSION 10 - India's IMF quota and vote
 
 #### VISUAL FIRST
 
 ```text
-ASIAN DEVELOPMENT BANK
-01. AIIB mandate
-BOUNDARY -> Do not infer an objective PYQ answer letter from a routed concept.
+INDIA'S IMF QUOTA AND VOTE
+India subscription -> quota share -> basic/quota votes -> voice
+BOUNDARY -> The pending equiproportional Sixteenth Review does not by itself raise India's relative share.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
+India's current IMF position combines a quota denominated in SDRs with a separately calculated voting share.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** India's IMF quota and vote matters because india's stake gives material voice but remains central to arguments that dynamic emerging economies are under-represented relative to current output.
 
-- The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
+**MUST-WRITE KEYWORDS:** India, SDR 13,114.4 million, 2.63 percent, quota reform
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not infer an objective PYQ answer letter from a routed concept.
+- **Claim:** India's IMF quota and vote matters because india's stake gives material voice but remains central to arguments that dynamic emerging economies are under-represented relative to current output.
+- **Named evidence:** The IMF member table checked at the 9 September 2026 cutoff lists India's quota at SDR 13,114.4 million and voting share at 2.63 percent.
+- **Analysis:** India's stake gives material voice but remains central to arguments that dynamic emerging economies are under-represented relative to current output.
+- **Qualification / demand link:** The pending equiproportional Sixteenth Review does not by itself raise India's relative share.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
+- **Fact/evidence:** The IMF member table checked at the 9 September 2026 cutoff lists India's quota at SDR 13,114.4 million and voting share at 2.63 percent.
+- **Analytical inference:** India's stake gives material voice but remains central to arguments that dynamic emerging economies are under-represented relative to current output.
+- **Qualification:** The pending equiproportional Sixteenth Review does not by itself raise India's relative share.
+
+#### PRELIMS TRAP
+
+Do not convert SDR millions into US dollars without a date-specific SDR value.
+
+#### MAINS USE
+
+Use India's exact dated figure to ground quota-reform analysis.
 
 #### MINI RECAP
 
-- **Mechanism chain:** AIIB mandate
-- **Qualified use:** Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
+- Definition: India's current IMF position combines a quota denominated in SDRs with a separately calculated voting share.
+- Evidence anchor: The IMF member table checked at the 9 September 2026 cutoff lists India's quota at SDR 13,114.4 million and voting share at 2.63 percent.
+- Verdict: India's IMF quota and vote matters because india's stake gives material voice but remains central to arguments that dynamic emerging economies are under-represented relative to current output.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Asian Development Bank
-EXACT TERMS: Asian | Development | Bank | AIIB | mandate | Infrastructure
-MECHANISM / ARGUMENT: connect AIIB mandate through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
-UPSC TRAP / ANSWER-USE: Do not infer an objective PYQ answer letter from a routed concept.
-ANSWER-GRABBING FORMULATION: Asian Development Bank converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 11 — CORE — AIIB
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** AIIB explains how NDB mandate and Nature Solutions Finance Hub fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, AIIB separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> AIIB must be read through NDB mandate and Nature Solutions Finance Hub, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **AIIB**
-- **mandate**
-- **Nature**
-- **Solutions**
-- **Finance**
-- **Development**
-
-**How to use them:** Define AIIB, mandate, Nature; attach Solutions to its named source, period and status; then qualify the answer with this limit: Do not describe IMF balance-of-payments support as ordinary infrastructure project lending.
+### CORE SESSION 11 - Article IV surveillance
 
 #### VISUAL FIRST
 
 ```text
-AIIB
-01. NDB mandate
-    |
-    v
-02. Nature Solutions Finance Hub
-BOUNDARY -> Do not describe IMF balance-of-payments support as ordinary infrastructure project lending.
+ARTICLE IV SURVEILLANCE
+data and mission -> staff assessment -> board discussion -> published report
+BOUNDARY -> Advice is not an IMF programme condition unless linked through a separate financing arrangement.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
+Article IV consultation is the IMF's regular bilateral assessment of a member's macroeconomic, financial and exchange-rate policies.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Article IV surveillance matters because surveillance can identify risks and improve transparency without supplying financing.
 
-- The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-- The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
+**MUST-WRITE KEYWORDS:** Article IV, bilateral surveillance, staff report, Executive Board, advice
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not describe IMF balance-of-payments support as ordinary infrastructure project lending.
+- **Claim:** Article IV surveillance matters because surveillance can identify risks and improve transparency without supplying financing.
+- **Named evidence:** IMF surveillance practice generally conducts consultations annually, with timing adapted to country circumstances.
+- **Analysis:** Surveillance can identify risks and improve transparency without supplying financing.
+- **Qualification / demand link:** Advice is not an IMF programme condition unless linked through a separate financing arrangement.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate reserve assets, stabilisation finance, development loans and guarantees.
+- **Fact/evidence:** IMF surveillance practice generally conducts consultations annually, with timing adapted to country circumstances.
+- **Analytical inference:** Surveillance can identify risks and improve transparency without supplying financing.
+- **Qualification:** Advice is not an IMF programme condition unless linked through a separate financing arrangement.
+
+#### PRELIMS TRAP
+
+Do not say every Article IV consultation is a bailout.
+
+#### MAINS USE
+
+Distinguish diagnosis and advice from lending and conditionality.
 
 #### MINI RECAP
 
-- **Mechanism chain:** NDB mandate -> Nature Solutions Finance Hub
-- **Qualified use:** Separate reserve assets, stabilisation finance, development loans and guarantees.
+- Definition: Article IV consultation is the IMF's regular bilateral assessment of a member's macroeconomic, financial and exchange-rate policies.
+- Evidence anchor: IMF surveillance practice generally conducts consultations annually, with timing adapted to country circumstances.
+- Verdict: Article IV surveillance matters because surveillance can identify risks and improve transparency without supplying financing.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: AIIB
-EXACT TERMS: AIIB | mandate | Nature | Solutions | Finance | Development
-MECHANISM / ARGUMENT: connect NDB mandate and Nature Solutions Finance Hub through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate reserve assets, stabilisation finance, development loans and guarantees.
-UPSC TRAP / ANSWER-USE: Do not describe IMF balance-of-payments support as ordinary infrastructure project lending.
-ANSWER-GRABBING FORMULATION: AIIB converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 12 — CORE — New Development Bank
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** New Development Bank explains how Conditionality and safeguards fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, New Development Bank separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> New Development Bank must be read through Conditionality and safeguards, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Development**
-- **Bank**
-- **Conditionality**
-- **safeguards**
-- **Macroeconomic**
-- **programme**
-
-**How to use them:** Define Development, Bank, Conditionality; attach safeguards to its named source, period and status; then qualify the answer with this limit: Do not quote quota, voting, membership or finance figures without a dated institutional source.
+### CORE SESSION 12 - Multilateral surveillance
 
 #### VISUAL FIRST
 
 ```text
-NEW DEVELOPMENT BANK
-01. Conditionality and safeguards
-BOUNDARY -> Do not quote quota, voting, membership or finance figures without a dated institutional source.
+MULTILATERAL SURVEILLANCE
+country policies -> spillovers -> global outlook -> collective risk response
+BOUNDARY -> Forecasts are conditional projections, not guaranteed outcomes or binding instructions.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
+Multilateral surveillance assesses cross-border spillovers and the stability of the international monetary system rather than one member alone.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Multilateral surveillance matters because system-wide analysis can reveal synchronized risks that bilateral reports miss.
 
-- Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
+**MUST-WRITE KEYWORDS:** WEO, GFSR, Fiscal Monitor, spillover, global surveillance
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not quote quota, voting, membership or finance figures without a dated institutional source.
+- **Claim:** Multilateral surveillance matters because system-wide analysis can reveal synchronized risks that bilateral reports miss.
+- **Named evidence:** The IMF's World Economic Outlook, Global Financial Stability Report and Fiscal Monitor are recurring multilateral-surveillance outputs.
+- **Analysis:** System-wide analysis can reveal synchronized risks that bilateral reports miss.
+- **Qualification / demand link:** Forecasts are conditional projections, not guaranteed outcomes or binding instructions.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
+- **Fact/evidence:** The IMF's World Economic Outlook, Global Financial Stability Report and Fiscal Monitor are recurring multilateral-surveillance outputs.
+- **Analytical inference:** System-wide analysis can reveal synchronized risks that bilateral reports miss.
+- **Qualification:** Forecasts are conditional projections, not guaranteed outcomes or binding instructions.
+
+#### PRELIMS TRAP
+
+Do not mix an IMF forecast with an official Indian estimate without naming source and period.
+
+#### MAINS USE
+
+Use multilateral surveillance for spillovers, fragmentation and policy-coordination questions.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Conditionality and safeguards
-- **Qualified use:** Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
+- Definition: Multilateral surveillance assesses cross-border spillovers and the stability of the international monetary system rather than one member alone.
+- Evidence anchor: The IMF's World Economic Outlook, Global Financial Stability Report and Fiscal Monitor are recurring multilateral-surveillance outputs.
+- Verdict: Multilateral surveillance matters because system-wide analysis can reveal synchronized risks that bilateral reports miss.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: New Development Bank
-EXACT TERMS: Development | Bank | Conditionality | safeguards | Macroeconomic | programme
-MECHANISM / ARGUMENT: connect Conditionality and safeguards through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
-UPSC TRAP / ANSWER-USE: Do not quote quota, voting, membership or finance figures without a dated institutional source.
-ANSWER-GRABBING FORMULATION: New Development Bank converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 13 — CORE SYNTHESIS — Nature Solutions Finance Hub
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Nature Solutions Finance Hub explains how Project and policy-based lending fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Nature Solutions Finance Hub separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Nature Solutions Finance Hub must be read through Project and policy-based lending, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Nature**
-- **Solutions**
-- **Finance**
-- **Project**
-- **policy-based**
-- **lending**
-
-**How to use them:** Define Nature, Solutions, Finance; attach Project to its named source, period and status; then qualify the answer with this limit: Do not call SDRs currency, budget revenue or an IMF loan.
+### CORE SESSION 13 - Financial Sector Assessment Program
 
 #### VISUAL FIRST
 
 ```text
-NATURE SOLUTIONS FINANCE HUB
-01. Project and policy-based lending
-BOUNDARY -> Do not call SDRs currency, budget revenue or an IMF loan.
+FINANCIAL SECTOR ASSESSMENT PROGRAM
+system data -> stress/risk assessment -> standards review -> recommendations
+BOUNDARY -> FSAP recommendations require national implementation and are not the same as BCBS rules or an IMF loan.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
+The FSAP is an IMF-World Bank assessment framework for financial-sector resilience and development, with roles varying by country type and issue.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Financial Sector Assessment Program matters because a joint diagnostic can connect macro-financial vulnerabilities with institutional and developmental constraints.
 
-- Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
+**MUST-WRITE KEYWORDS:** FSAP, financial stability, development, standards, stress assessment
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not call SDRs currency, budget revenue or an IMF loan.
+- **Claim:** Financial Sector Assessment Program matters because a joint diagnostic can connect macro-financial vulnerabilities with institutional and developmental constraints.
+- **Named evidence:** IMF and World Bank material links FSAPs to financial stability, development needs and observance of standards.
+- **Analysis:** A joint diagnostic can connect macro-financial vulnerabilities with institutional and developmental constraints.
+- **Qualification / demand link:** FSAP recommendations require national implementation and are not the same as BCBS rules or an IMF loan.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
+- **Fact/evidence:** IMF and World Bank material links FSAPs to financial stability, development needs and observance of standards.
+- **Analytical inference:** A joint diagnostic can connect macro-financial vulnerabilities with institutional and developmental constraints.
+- **Qualification:** FSAP recommendations require national implementation and are not the same as BCBS rules or an IMF loan.
+
+#### PRELIMS TRAP
+
+Do not call FSAP a financing facility.
+
+#### MAINS USE
+
+Use it to connect surveillance, standards and domestic supervisory reform.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Project and policy-based lending
-- **Qualified use:** Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
+- Definition: The FSAP is an IMF-World Bank assessment framework for financial-sector resilience and development, with roles varying by country type and issue.
+- Evidence anchor: IMF and World Bank material links FSAPs to financial stability, development needs and observance of standards.
+- Verdict: Financial Sector Assessment Program matters because a joint diagnostic can connect macro-financial vulnerabilities with institutional and developmental constraints.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Nature Solutions Finance Hub
-EXACT TERMS: Nature | Solutions | Finance | Project | policy-based | lending
-MECHANISM / ARGUMENT: connect Project and policy-based lending through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Compare mandate, borrower, lending window, governance and conditionality before evaluating performance.
-UPSC TRAP / ANSWER-USE: Do not call SDRs currency, budget revenue or an IMF loan.
-ANSWER-GRABBING FORMULATION: Nature Solutions Finance Hub converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 14 — CORE SYNTHESIS — Development lending, guarantees and currency risk
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Development lending, guarantees and currency risk explains how Guarantees and co-financing and Currency-risk boundary fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Development lending, guarantees and currency risk separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Development lending, guarantees and currency risk must be read through Guarantees and co-financing and Currency-risk boundary, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Development**
-- **lending**
-- **guarantees**
-- **currency**
-- **risk**
-- **co-financing**
-
-**How to use them:** Define Development, lending, guarantees; attach currency to its named source, period and status; then qualify the answer with this limit: Do not treat gold tranche and reserve tranche position as separate facilities.
+### CORE SESSION 14 - IMF lending architecture
 
 #### VISUAL FIRST
 
 ```text
-DEVELOPMENT LENDING, GUARANTEES AND CURRENCY RISK
-01. Guarantees and co-financing
-    |
-    v
-02. Currency-risk boundary
-BOUNDARY -> Do not treat gold tranche and reserve tranche position as separate facilities.
+IMF LENDING ARCHITECTURE
+need and eligibility -> facility -> access -> conditionality -> review/disbursement
+BOUNDARY -> Access limits, charges and maturities change and must be taken from a dated factsheet.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
+IMF financial support is organised by resource account, borrower eligibility, balance-of-payments need, maturity and conditionality.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** IMF lending architecture matters because facility choice should match the shock's duration, structural depth and repayment capacity.
 
-- A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-- Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
+**MUST-WRITE KEYWORDS:** GRA, PRGT, RST, eligibility, maturity, access
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not treat gold tranche and reserve tranche position as separate facilities.
+- **Claim:** IMF lending architecture matters because facility choice should match the shock's duration, structural depth and repayment capacity.
+- **Named evidence:** General Resources Account facilities serve the membership broadly; Poverty Reduction and Growth Trust facilities provide concessional support to eligible low-income countries; the Resilience and Sustainability Trust has a longer-horizon resilience mandate.
+- **Analysis:** Facility choice should match the shock's duration, structural depth and repayment capacity.
+- **Qualification / demand link:** Access limits, charges and maturities change and must be taken from a dated factsheet.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate reserve assets, stabilisation finance, development loans and guarantees.
+- **Fact/evidence:** General Resources Account facilities serve the membership broadly; Poverty Reduction and Growth Trust facilities provide concessional support to eligible low-income countries; the Resilience and Sustainability Trust has a longer-horizon resilience mandate.
+- **Analytical inference:** Facility choice should match the shock's duration, structural depth and repayment capacity.
+- **Qualification:** Access limits, charges and maturities change and must be taken from a dated factsheet.
+
+#### PRELIMS TRAP
+
+Do not treat RFI, RCF, SBA, EFF and RSF as interchangeable acronyms.
+
+#### MAINS USE
+
+Classify the resource pool before discussing conditions.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Guarantees and co-financing -> Currency-risk boundary
-- **Qualified use:** Separate reserve assets, stabilisation finance, development loans and guarantees.
+- Definition: IMF financial support is organised by resource account, borrower eligibility, balance-of-payments need, maturity and conditionality.
+- Evidence anchor: General Resources Account facilities serve the membership broadly; Poverty Reduction and Growth Trust facilities provide concessional support to eligible low-income countries; the Resilience and Sustainability Trust has a longer-horizon resilience mandate.
+- Verdict: IMF lending architecture matters because facility choice should match the shock's duration, structural depth and repayment capacity.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Development lending, guarantees and currency risk
-EXACT TERMS: Development | lending | guarantees | currency | risk | co-financing
-MECHANISM / ARGUMENT: connect Guarantees and co-financing and Currency-risk boundary through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate reserve assets, stabilisation finance, development loans and guarantees.
-UPSC TRAP / ANSWER-USE: Do not treat gold tranche and reserve tranche position as separate facilities.
-ANSWER-GRABBING FORMULATION: Development lending, guarantees and currency risk converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 15 — CORE SYNTHESIS — DSSI, Common Framework and global-governance reform
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** DSSI, Common Framework and global-governance reform explains how DSSI and Common Framework and Global-governance reform fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, DSSI, Common Framework and global-governance reform separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> DSSI, Common Framework and global-governance reform must be read through DSSI and Common Framework and Global-governance reform, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **DSSI**
-- **Common**
-- **Framework**
-- **global-governance**
-- **reform**
-- **Debt**
-
-**How to use them:** Define DSSI, Common, Framework; attach global-governance to its named source, period and status; then qualify the answer with this limit: Do not merge RFI emergency support with phased SBA or EFF programme lending.
+### CORE SESSION 15 - IMF resource layers
 
 #### VISUAL FIRST
 
 ```text
-DSSI, COMMON FRAMEWORK AND GLOBAL-GOVERNANCE REFORM
-01. DSSI and Common Framework
-    |
-    v
-02. Global-governance reform
-BOUNDARY -> Do not merge RFI emergency support with phased SBA or EFF programme lending.
+IMF RESOURCE LAYERS
+quotas -> NAB -> bilateral borrowing -> lending capacity
+BOUNDARY -> Committed borrowing capacity is not identical to disbursed programme credit.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
+The IMF finances lending through quota resources supplemented by standing borrowing arrangements and, when activated, bilateral borrowed resources.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** IMF resource layers matters because a stronger quota base can improve permanence and legitimacy relative to reliance on creditor coalitions.
 
-- The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-- Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
+**MUST-WRITE KEYWORDS:** quota resources, NAB, bilateral borrowing, lending capacity, permanence
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not merge RFI emergency support with phased SBA or EFF programme lending.
+- **Claim:** IMF resource layers matters because a stronger quota base can improve permanence and legitimacy relative to reliance on creditor coalitions.
+- **Named evidence:** The Sixteenth Review links a 50 percent quota increase to a planned rollback of New Arrangements to Borrow resources.
+- **Analysis:** A stronger quota base can improve permanence and legitimacy relative to reliance on creditor coalitions.
+- **Qualification / demand link:** Committed borrowing capacity is not identical to disbursed programme credit.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
+- **Fact/evidence:** The Sixteenth Review links a 50 percent quota increase to a planned rollback of New Arrangements to Borrow resources.
+- **Analytical inference:** A stronger quota base can improve permanence and legitimacy relative to reliance on creditor coalitions.
+- **Qualification:** Committed borrowing capacity is not identical to disbursed programme credit.
+
+#### PRELIMS TRAP
+
+Do not add quotas, NAB and bilateral lines as if all were simultaneously cash on loan.
+
+#### MAINS USE
+
+Use resource composition to analyse adequacy and governance.
 
 #### MINI RECAP
 
-- **Mechanism chain:** DSSI and Common Framework -> Global-governance reform
-- **Qualified use:** Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
+- Definition: The IMF finances lending through quota resources supplemented by standing borrowing arrangements and, when activated, bilateral borrowed resources.
+- Evidence anchor: The Sixteenth Review links a 50 percent quota increase to a planned rollback of New Arrangements to Borrow resources.
+- Verdict: IMF resource layers matters because a stronger quota base can improve permanence and legitimacy relative to reliance on creditor coalitions.
 
-#### CLOSING RECALL FLOW
+### CORE SESSION 16 - Stand-By Arrangement
 
-```closure-flow
-START / CONCEPT: DSSI, Common Framework and global-governance reform
-EXACT TERMS: DSSI | Common | Framework | global-governance | reform | Debt
-MECHANISM / ARGUMENT: connect DSSI and Common Framework and Global-governance reform through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Judge reform through representation, policy ownership, additionality, safeguards and debt sustainability.
-UPSC TRAP / ANSWER-USE: Do not merge RFI emergency support with phased SBA or EFF programme lending.
-ANSWER-GRABBING FORMULATION: DSSI, Common Framework and global-governance reform converts a precise economic distinction into a qualified conclusion
-```
-
-#### COMPLETE BASIC OWNER EVIDENCE BANK
-
-> **Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims.
-> **Core area:** International economic institutions.
-> **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `../advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`.*
-
-##### 1. Visual foundation
+#### VISUAL FIRST
 
 ```text
-1. MEMBER CAPITAL AND GOVERNANCE
-   |
-   v
-2. SURVEILLANCE OR PROJECT APPRAISAL
-   |
-   v
-3. LOAN, GUARANTEE, TECHNICAL SUPPORT OR POLICY ADVICE
-   |
-   v
-4. DOMESTIC REFORM AND INVESTMENT
-   |
-   v
-5. DEVELOPMENT OUTCOME AND REPAYMENT
+STAND-BY ARRANGEMENT
+short-term gap -> SBA approval -> performance tests -> reviews -> tranches
+BOUNDARY -> Precautionary treatment is possible; an approved amount need not all be drawn.
 ```
 
-**Core proposition:** Compare international institutions by mandate, client, instrument,
-governance and conditionality rather than grouping all external finance together.
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-##### 2. Essential definitions
+#### DEFINITION
 
-| Concept | Exam-ready meaning |
-|---|---|
-| ✅ **IMF** | Institution supporting monetary cooperation, surveillance and balance-of-payments financing. |
-| ✅ **World Bank Group** | Institutions financing development, reconstruction, private investment and risk mitigation. |
-| ✅ **ADB** | Regional development bank focused on Asia and the Pacific. |
-| ✅ **AIIB** | Multilateral development bank with infrastructure and related development focus. |
-| ✅ **NDB** | BRICS-founded multilateral development bank financing infrastructure and sustainable development. |
-| ✅ **SDR** | IMF-created international reserve asset valued from a currency basket; it is not a currency in everyday circulation. |
+A Stand-By Arrangement supports short-term or potential balance-of-payments needs through phased access under an agreed programme.
 
-##### 3. Topic mechanism
+> **ANSWER-GRABBING LINE:** Stand-By Arrangement matters because phasing links disbursement to policy implementation and continuing need.
 
-1. Member contributions, quotas or subscribed capital determine institutional resources and
-   aspects of governance.
-2. Surveillance or project appraisal diagnoses macroeconomic, financial, social and
-   environmental risks.
-3. Institutions provide balance-of-payments finance, sovereign loans, private-sector
-   support, guarantees or technical assistance according to mandate.
-4. Conditionality, procurement and safeguard rules shape domestic implementation.
-5. Repayment, development outcomes and policy ownership determine programme legitimacy and
-   future access.
+**MUST-WRITE KEYWORDS:** SBA, phased access, precautionary, programme review, external gap
 
-##### 4. Institutions and policy tools
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- ✅ **IMF:** macroeconomic surveillance, crisis lending, SDR-related functions and monetary
-  cooperation.
-- ✅ **IBRD and IDA:** sovereign development finance on different terms for eligible
-  borrowers.
-- ✅ **IFC and MIGA:** private-sector finance and political-risk guarantees within the World
-  Bank Group.
-- ✅ **ADB, AIIB and NDB:** regional or member-led development finance with differing
-  governance and sector emphasis.
+- **Claim:** Stand-By Arrangement matters because phasing links disbursement to policy implementation and continuing need.
+- **Named evidence:** IMF facility guidance identifies the SBA as the Fund's traditional instrument for emerging and advanced economies facing actual or potential external financing needs.
+- **Analysis:** Phasing links disbursement to policy implementation and continuing need.
+- **Qualification / demand link:** Precautionary treatment is possible; an approved amount need not all be drawn.
 
-##### 5. Indian applications and examples
+#### EVIDENCE AND INFERENCE
 
-- ✅ **Claim:** IMF quotas determine both financial contribution and voting power, and
-  reform of this system is a live governance debate. **Evidence:** Each IMF member is
-  assigned a quota (subscription) broadly reflecting its relative economic size, which
-  determines its financial contribution, voting weight, and access limits to IMF resources;
-  periodic General Quota Reviews have been used (with contested pace and adequacy) to
-  rebalance shares towards dynamic emerging economies including India. **Significance:**
-  This grounds "governance reform" debates in a specific, examinable mechanism rather than a
-  vague call for "more voice." **Limitation/status caution:** Actual quota-share changes
-  depend on completed review rounds and ratification; cite India's current specific quota
-  share only from a dated IMF source, not as a fixed historical figure.
-- ✅ **Claim:** IMF lending comes attached to policy conditions, and this conditionality is
-  the central point of contestation around its role. **Evidence:** IMF financial assistance
-  (e.g., Stand-By Arrangements, Extended Fund Facility) is typically conditional on
-  agreed macroeconomic and structural policy commitments monitored through programme
-  reviews. **Significance:** This operationalises the "conditionality shapes domestic
-  implementation" step of the topic mechanism. **Limitation:** Conditionality can protect
-  programme credibility and repayment capacity but raises debates on national policy
-  ownership and the social costs of front-loaded fiscal/monetary adjustment.
-- ✅ **Claim:** "World Bank" commonly refers to two distinct institutions with different
-  client terms, a frequently tested distinction. **Evidence:** The International Bank for
-  Reconstruction and Development (IBRD) lends to creditworthy middle-income and eligible
-  sovereign borrowers on near-market terms, while the International Development Association
-  (IDA) provides concessional loans/credits and grants to the poorest eligible countries.
-  **Significance:** This is the precise conceptual anchor tested in the 2025 Prelims IBRD
-  question. **Limitation:** Eligibility for IDA versus IBRD terms depends on a country's per-
-  capita income and creditworthiness classification, which can change over time.
-- ✅ **Claim:** India was a founding shareholder and remains a significant voice in an Asia-
-  focused multilateral development bank distinct from the AIIB. **Evidence:** The Asian
-  Development Bank (ADB), headquartered in Manila, is a regional development bank financing
-  infrastructure, poverty-reduction and climate-related projects across Asia and the
-  Pacific, with India as a founding and major borrowing member. **Significance:** This
-  situates India's engagement with regional (not only global) development finance
-  architecture. **Limitation:** ADB project data, lending volumes and India-specific
-  portfolio size change yearly; cite only from a dated ADB/official source.
-- ✅ **Claim:** India co-founded and holds a leading capital share in an infrastructure-
-  focused bank headquartered in Beijing, distinct in origin from the World Bank/ADB.
-  **Evidence:** The Asian Infrastructure Investment Bank (AIIB), founded in 2016 and
-  headquartered in Beijing, was launched with India among its largest shareholders and
-  borrowing members, financing infrastructure and connectivity projects.
-  **Significance:** This operationalises "AIIB and NDB complement rather than replace" with
-  a named example of India's dual engagement in both older (World Bank/ADB) and newer
-  (AIIB/NDB) institutions. **Limitation:** AIIB's project pipeline and geographic emphasis
-  continue to evolve; do not assume its portfolio mirrors the World Bank's in scale.
-- ✅ **Claim:** The BRICS-founded New Development Bank gives India co-ownership of a
-  development bank outside traditional Bretton Woods governance. **Evidence:** The New
-  Development Bank (NDB), established by Brazil, Russia, India, China and South Africa
-  (headquartered in Shanghai), finances infrastructure and sustainable-development projects
-  among its members with equal initial shareholding across the five founding members.
-  **Significance:** This is the concrete evidence for "reformed multilateralism rather than
-  fragmentation," since NDB membership has since expanded to include additional countries
-  while retaining founding-member parity. **Limitation:** Equal founding shareholding does
-  not mean identical borrowing volumes or influence in practice; and NDB's smaller balance
-  sheet relative to the World Bank Group limits its ability to substitute for it.
-- ✅ **Claim:** The 1991 crisis is India's foundational, named example of IMF conditionality
-  in practice. **Evidence:** Facing a severe balance-of-payments crisis in 1991, India
-  approached the IMF for financial assistance, which came with conditions requiring
-  structural adjustment (trade liberalisation, industrial delicensing, fiscal correction,
-  exchange-rate reform). **Significance:** This is the standard, examinable case
-  distinguishing IMF's stabilisation role from a development bank's project-financing role.
-  **Limitation:** The 1991 conditionality package reflected that specific crisis's severity;
-  it should not be used to imply all IMF engagement with India today involves similar
-  conditionality, since India has not required IMF financial assistance since.
-- ✅ **Claim:** ADB runs a dedicated platform channelling finance specifically into nature-
-  based solutions across Asia and the Pacific, distinct from its general infrastructure or
-  climate lending. **Evidence:** The Asian Development Bank (ADB) launched the **Nature
-  Solutions Finance Hub for Asia and the Pacific** at COP28 (December 2023), with a stated
-  ambition to catalyse at least USD 2 billion (aiming toward USD 5 billion) for nature-based
-  solutions — such as mangrove restoration, wetland reforestation and watershed
-  rehabilitation — that combine biodiversity, carbon-sequestration, climate-resilience and
-  livelihood benefits, structured through blended-finance instruments (bonds, guarantees,
-  risk-sharing mechanisms) developed with partners including the OPEC Fund for
-  International Development, Agence Française de Développement and international
-  conservation organisations. **Significance:** This equips a "who launched the Nature
-  Solutions Finance Hub for Asia and the Pacific" objective item with the correct
-  institution (ADB), venue/date (COP28, December 2023) and purpose (mobilising blended
-  finance for nature-based solutions), distinguishing it from a government-run or UN-run
-  climate fund. **Limitation/status caution:** The Hub's mobilised-finance figures and
-  project pipeline (reported at around 20 projects across several countries by 2024-25) are
-  evolving; cite a specific funding total or project count only from a dated ADB or
-  partner-organisation source.
-- ✅ **Claim:** "Reserve tranche position" and "gold tranche" are not two different IMF
-  facilities but the same concept under an old and a current name, and treating them as
-  distinct instruments is a precise Prelims trap. **Evidence:** A member's quota
-  subscription to the IMF has historically been paid partly in a reserve asset (gold before
-  1978, now typically Special Drawing Rights or freely usable currency) and mostly in the
-  member's own currency; the portion equal to the IMF's holdings of a member's currency
-  falling below its quota is the member's Reserve Tranche Position (RTP) — drawable
-  essentially on demand, without conditionality or a service fee, because it represents a
-  withdrawal of the member's own prior contribution rather than a new loan. "Gold tranche"
-  is the historical name for this same reserve-asset-funded portion of quota from the
-  pre-1978 gold-based system; modern IMF usage treats "gold tranche" and "reserve tranche
-  position" as synonymous, not as two separate tranches. **Significance:** This distinction
-  is a recurring Prelims trap — testing whether a candidate wrongly treats "gold tranche"
-  as a distinct, additional facility alongside the reserve tranche, or wrongly assumes RTP
-  is IMF borrowing rather than a country's own reserve asset. **Limitation/status
-  caution:** RTP counts as part of a member's own foreign-exchange reserves (unlike credit-
-  tranche IMF borrowing, which is a liability); do not conflate the RTP with any of India's
-  conditional or programme-based IMF borrowing, since India currently holds no active IMF
-  programme.
-- ✅ **Claim:** The IMF's Rapid Financing Instrument (RFI) is categorically different from
-  its programme-based lending arrangements (such as a Stand-By Arrangement or Extended Fund
-  Facility) in conditionality, disbursement structure and intended use, and conflating the
-  two is a routed Prelims trap. **Evidence:** The RFI provides rapid, limited-access
-  balance-of-payments support as a single, one-off disbursement for urgent needs (natural
-  disasters, commodity shocks, emergencies) with minimal or no ongoing conditionality and no
-  periodic programme reviews; programme-based arrangements (Stand-By Arrangement for
-  short-term needs, Extended Fund Facility for deeper structural/medium-term needs) instead
-  phase disbursements across a multi-year programme subject to quantitative performance
-  criteria, structural benchmarks and periodic reviews before each tranche is released.
-  **Significance:** This equips the routed "IMF Rapid Financing Instrument and Credit
-  Facility" objective item with the correct conditionality/structure distinction — RFI as
-  emergency, low-conditionality, single-disbursement support versus programme arrangements
-  as phased, conditionality-linked, multi-review lending — rather than treating all IMF
-  lending as identical. **Limitation/status caution:** Specific access limits, review
-  frequencies and programme durations are periodically revised by the IMF Executive Board;
-  state only the qualitative conditionality/structure distinction here and verify any
-  current numerical limit from a dated IMF factsheet.
-- ✅ **Claim:** The G20 Common Framework for Debt Treatment is a distinct, broader successor
-  mechanism to the Debt Service Suspension Initiative (DSSI), not merely an extension of it,
-  and its implementation record remains uneven rather than a settled success. **Evidence:**
-  The DSSI (2020) offered eligible low-income countries only a temporary suspension of
-  official bilateral debt-service payments and formally ended in December 2021; the G20
-  Common Framework for Debt Treatment beyond the DSSI (agreed November 2020) instead aims at
-  actual case-by-case debt restructuring (not just suspension), coordinating official
-  bilateral creditors (including, notably, non-Paris-Club creditors such as China) and
-  seeking "comparable treatment" from private creditors, for eligible low-income countries
-  that request it. **Significance:** This equips the routed "G20 Common Framework for
-  sovereign debt restructuring" objective item with the correct DSSI-versus-Common-Framework
-  distinction (temporary suspension versus actual restructuring) and the named creditor-
-  coordination challenge. **Limitation/status caution:** As of the latest confirmed
-  reporting, only a small number of countries (such as Chad, Zambia, Ethiopia and Ghana) have
-  processed cases under the Common Framework, with slow negotiation timelines, transparency
-  gaps and creditor-coordination difficulty widely flagged; treat its implementation as
-  ongoing and uneven, not resolved, and verify current country-case status from a dated
-  IMF/World Bank/G20 source before citing specifics.
+- **Fact/evidence:** IMF facility guidance identifies the SBA as the Fund's traditional instrument for emerging and advanced economies facing actual or potential external financing needs.
+- **Analytical inference:** Phasing links disbursement to policy implementation and continuing need.
+- **Qualification:** Precautionary treatment is possible; an approved amount need not all be drawn.
 
-##### Core limitations and trade-offs
+#### PRELIMS TRAP
 
-- ⚠️ Quota-based governance ties voting power to historical economic weight, so reform
-  toward "dynamic" emerging-economy representation is often slower than the pace of their
-  actual GDP growth.
-- ⚠️ IMF conditionality can restore external credibility and access to finance but risks
-  contractionary short-term effects (reduced subsidies, tighter fiscal space) that fall
-  disproportionately on vulnerable groups if not carefully sequenced.
-- ⚠️ A proliferation of development banks (World Bank, ADB, AIIB, NDB) expands financing
-  choice but can also fragment standards (safeguards, procurement, environmental/social
-  conditions), creating a "race to the bottom" risk if institutions compete for borrowers
-  on lax terms.
-- ⚠️ AIIB and NDB give founding members like India more governance voice than in older
-  institutions, but their smaller capital base limits the scale of crisis-level or very
-  large infrastructure financing they alone can provide.
-- ⚠️ Guarantees and co-financing by multilateral banks can mobilise private capital, but
-  crowding-in is not automatic; weak project appraisal or country risk can still deter
-  private lenders regardless of a multilateral guarantee.
-- ⚠️ India's growing shareholder role in AIIB/NDB gives it a stake in complementary
-  institution-building, but does not resolve the fact that its formal voting share in the
-  IMF/World Bank remains below its relative economic weight pending further quota reform.
+Do not call every SBA a single emergency disbursement.
 
-##### 6. Must-Know Facts for Prelims
+#### MAINS USE
 
-- ✅ IMF mainly addresses macroeconomic and external stability; development banks primarily
-  finance projects and development policy.
-- ✅ World Bank Group institutions have different mandates; the term World Bank commonly
-  refers to IBRD and IDA.
-- ✅ SDRs are reserve assets allocated by the IMF; they are not IMF loans, a national
-  currency or ordinary budget revenue.
-- ✅ Voting power, quotas, capital contributions and governance arrangements differ across
-  institutions.
-- ✅ Conditionality can protect programme credibility but raises ownership and social-impact
-  debates.
-- ✅ Multilateral development banks can mobilise private capital through guarantees and co-
-  financing.
-- ✅ ADB launched the Nature Solutions Finance Hub for Asia and the Pacific at COP28
-  (December 2023) to catalyse blended finance for nature-based solutions across the region.
-- ✅ Reserve assets, development loans and trade rules belong to different institutional
-  architectures.
-- ✅ "Gold tranche" and "reserve tranche position" are the same concept under an old and a
-  current name (the reserve-asset-funded portion of quota, drawable without conditionality
-  as part of a member's own reserves), not two separate IMF facilities.
-- ✅ The IMF's Rapid Financing Instrument is a low-conditionality, single-disbursement
-  emergency facility, distinct from phased, conditionality-linked programme arrangements
-  such as the Stand-By Arrangement or Extended Fund Facility.
-- ✅ The G20 Common Framework for Debt Treatment beyond the DSSI targets actual case-by-case
-  debt restructuring (not mere payment suspension) for eligible low-income countries,
-  coordinating official bilateral and private creditors; implementation to date has covered
-  only a small number of countries and remains slow and uneven.
+Contrast programme reviews with the rapid instruments.
 
-##### 7. UPSC traps
+#### MINI RECAP
 
-- ❌ IMF mainly finances roads and dams. -> Its core role is monetary and balance-of-payments
-  support.
-- ❌ IDA and IFC perform identical functions. -> IDA lends to eligible sovereigns on
-  concessional terms; IFC focuses on private-sector development.
-- ❌ All members have one equal vote. -> Governance often reflects quota or shareholding
-  arrangements.
-- ❌ AIIB and NDB replace the World Bank. -> They complement a plural multilateral financing
-  system.
-- ❌ A loan recommendation is binding domestic law. -> Implementation depends on agreements
-  and domestic institutions.
-- ❌ The Nature Solutions Finance Hub for Asia and the Pacific is a UN or Indian government
-  initiative. -> It was launched by the Asian Development Bank at COP28 (December 2023).
-- ❌ Gold tranche and reserve tranche position are two different IMF facilities, or drawing
-  on the reserve tranche is a new IMF loan. -> They are the same concept under an old and
-  current name; drawing on it is a withdrawal of the member's own reserve contribution, not
-  new borrowing.
-- ❌ The IMF's Rapid Financing Instrument carries the same conditionality and phased-review
-  structure as a Stand-By Arrangement or Extended Fund Facility. -> RFI is a low/no-
-  conditionality, single-disbursement emergency facility; programme arrangements are
-  phased, reviewed and conditionality-linked.
-- ❌ The G20 Common Framework for Debt Treatment is the same as the DSSI, or it has already
-  resolved most eligible countries' debt distress. -> The DSSI only suspended bilateral
-  debt-service payments temporarily and ended in 2021; the Common Framework aims at actual
-  restructuring but has processed only a handful of cases with slow, uneven progress.
+- Definition: A Stand-By Arrangement supports short-term or potential balance-of-payments needs through phased access under an agreed programme.
+- Evidence anchor: IMF facility guidance identifies the SBA as the Fund's traditional instrument for emerging and advanced economies facing actual or potential external financing needs.
+- Verdict: Stand-By Arrangement matters because phasing links disbursement to policy implementation and continuing need.
 
-##### 8. 📰 Economic Survey 2025-26 / current anchor
+### CORE SESSION 17 - Extended Fund Facility
 
-- 📰 The Survey frames global fragmentation as a reason for resilience, diversified
-  partnerships and stronger state capacity.
-- 📰 FY27 real GDP growth is projected at 6.8-7.2% by the Survey; institutional projections
-  must always be quoted with source and period.
-- 📰 Global governance debates centre on voice, representation, climate finance, debt and
-  development additionality.
-
-⚠️ **Interpretation caution:** A new multilateral bank expands financing choice but does not
-automatically guarantee additional, well-appraised or debt-sustainable investment.
-
-##### 9. PYQ application
-
-- ⚠️ Use institution-matching questions to distinguish mandate, membership, instrument and
-  governance.
-- ⚠️ Apply the 2025 protectionism PYQ to explain why multilateral institutions face
-  legitimacy and coordination pressures.
-- ⚠️ 2025 Prelims: Launcher of the Nature Solutions Finance Hub for Asia and the Pacific —
-  answer with ADB, COP28 (December 2023) and its blended-finance purpose above.
-
-##### 10. Mains angles
-
-- ⚠️ Compare institutions through mandate, clients, instruments, governance and India's
-  interest.
-- ⚠️ Assess reform through representation, resources, conditionality, climate finance and
-  debt sustainability.
-- ⚠️ Argue for reformed multilateralism rather than institutional fragmentation or
-  withdrawal.
-
-> **Answer thesis:** Compare international institutions by mandate, client, instrument, governance and conditionality rather than grouping all external finance together.
-
-##### 11. Probable questions
-
-- ⚠️ **Prelims:** Match IMF, IBRD, IDA, IFC, MIGA, ADB, AIIB and NDB with clients and
-  instruments.
-- ⚠️ **Mains (10 marks):** Why are IMF conditionality and development-bank safeguards
-  analytically different?
-- ⚠️ **Mains (15 marks):** What reforms would make global economic governance more
-  representative without weakening financial discipline?
-
-##### 11A. Answer architecture (10/15/20-mark support)
-
-**Directive decoder**
-- "Compare/Distinguish IMF, World Bank Group, ADB, AIIB, NDB" -> requires mandate, client
-  type, instrument and governance for each, not a single generic description of "global
-  finance."
-- "Discuss IMF conditionality" -> requires the mechanism (programme reviews, policy
-  commitments) plus the named 1991 India case and its interpretive limitation.
-- "Evaluate global economic governance reform" -> requires the quota/voting-share mechanism,
-  named India-relevant institutions (ADB founding member, AIIB/NDB major shareholder), and
-  an explicit limitation — not a call for "more representation" alone.
-
-**Evidence chain** (claim -> named evidence -> significance -> limitation)
-Use the Section 5 bank: institution-comparison questions draw on the IBRD/IDA/ADB/AIIB/NDB
-units; conditionality questions draw on the IMF-quota/1991-crisis units.
-
-**Counter-evidence and balance**
-Pair every institution's stated mandate with its Core-limitation caution (slow quota
-reform, conditionality's social cost, standards fragmentation, limited capital base) so
-comparisons remain analytical rather than descriptive.
-
-**10/15/20-mark scaling**
-- 10 marks (~150 words): thesis + 2-3 evidence units (e.g., IMF conditionality + IBRD/IDA
-  distinction) + one limitation + verdict.
-- 15 marks (~250 words): thesis + institution-by-institution structure (mandate -> client ->
-  instrument -> governance) + 4-5 evidence units + counter-evidence + verdict.
-- 20 marks (~250-300 words): add a comparative/reform dimension (Bretton Woods institutions
-  versus AIIB/NDB as complementary or competing architecture) + 5-7 evidence units +
-  explicit trade-offs + a fully reasoned verdict.
-
-**Reasoned verdict template**
-"International economic institutions differ sharply in mandate, client and governance —
-IMF stabilises balance of payments with conditionality (as in India's 1991 episode), while
-IBRD/IDA, ADB, AIIB and NDB finance development projects with differing shareholding — and
-India's growing stake in AIIB/NDB reflects demand for [name the specific representation/
-capital/standards gap the question asks about] — therefore [qualified, directive-matching
-conclusion]."
-
-##### 12. Study links
-
-- ✅ Advanced companion: `../advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`.
-- ✅ `19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md` — crisis finance and
-  reserve adequacy.
-- ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — multilateral project
-  finance.
-- ✅ `25_Climate-Economics-Green-Finance-and-Circular-Economy.md` — climate-finance and
-  development additionality.
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-##### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
-
-- **Years represented:** 2025
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | Prelims GS-I | 35 | Launcher of the 'Nature Solutions Finance Hub for Asia and the Pacific' (ADB) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2025 | Prelims GS-I | 67 | International Bank for Reconstruction and Development (IBRD) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-###### What this owner must now support
-
-- Launcher of the 'Nature Solutions Finance Hub for Asia and the Pacific' (ADB)
-- International Bank for Reconstruction and Development (IBRD)
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-##### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2019, 2020, 2022
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 4
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | Prelims GS-I | 71 | Asian Infrastructure Investment Bank membership and shareholding | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 17 | Gold Tranche Reserve Tranche IMF credit system | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 1 | IMF Rapid Financing Instrument and Credit Facility | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 4 | G20 Common Framework for sovereign debt restructuring | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-###### What this owner must now support
-
-- Asian Infrastructure Investment Bank membership and shareholding
-- Gold Tranche Reserve Tranche IMF credit system
-- IMF Rapid Financing Instrument and Credit Facility
-- G20 Common Framework for sovereign debt restructuring
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-###### Semantic-completeness ownership and PYQ control
-
-- **Official syllabus/index and owned core:** IMF, World Bank Group, ADB, AIIB and NDB differ in membership, voting, instruments, mandates and conditionality while influencing macro stability, development finance and global economic governance.
-- **Indispensable distinction and prerequisite taxonomy:** IMF quota is not World Bank capital, SDR is not a currency, project loan is not balance-of-payments support, board approval is not disbursement, and institutional recommendation is not binding domestic law.
-- **Mechanism, implementation and evidence control:** Verify institution, window, borrower eligibility, approval and disbursement status; distinguish subscribed capital, lending capacity and annual flow, and analyse representation, safeguards, debt, conditionality and policy space.
-- **✅ Verified current fact (official sources rechecked 5 September 2026):**
-  Rechecked 6 September 2026 against the listed official publisher or regulator source. Official institutional pages or official-domain search results supported qualitative mandates and lending-window distinctions. Direct IMF access was blocked and the World Bank landing page was only partially retrievable, so current quota, voting, membership, capital and finance figures were not used. Sources: https://www.imf.org/en/about/faq/quotas; https://www.worldbank.org/en/about/articles-of-agreement; https://www.adb.org/what-we-do; https://www.aiib.org/en/about-aiib/index.html; https://www.ndb.int/about-ndb/
-- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
-  registration, a report, a training completion, a disposal count or a ranking
-  can support a causal argument only after authority, capacity, incentives,
-  distribution, implementation, grievance, outcome and alternative explanations
-  are tested.
-- **Canonical and cross-owner boundary:** this Economy owner teaches the
-  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
-  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
-  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
-  evidence may be routed but is not silently duplicated or re-owned.
-- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
-  standard public-administration/economy taxonomy and complete verified PYQ
-  demands were checked for absent concepts, institutions, mechanisms,
-  classifications, exceptions, comparisons, criticisms, current status,
-  answer architecture and dependent artifacts.
-- **Verified PYQ ownership, 2018-2026:** Audited Prelims ledgers route objective concepts on AIIB, the reserve or gold tranche, the Rapid Financing Instrument, the G20 Common Framework, ADB's Nature Solutions Finance Hub and IBRD. No direct Economy Mains demand is claimed and no objective answer letter is inferred.
-
-### ECONOMY DEEP-REVIEW CORE CONTROL
-
-- **Must remember:** IMF, World Bank Group, ADB, AIIB and NDB differ in membership, voting, instruments, mandates and conditionality while influencing macro stability, development finance and global economic governance.
-- **Close distinction:** IMF quota is not World Bank capital, SDR is not a currency, project loan is not balance-of-payments support, board approval is not disbursement, and institutional recommendation is not binding domestic law.
-- **Formula / status / evidence / causal limit:** Verify institution, window, borrower eligibility, approval and disbursement status; distinguish subscribed capital, lending capacity and annual flow, and analyse representation, safeguards, debt, conditionality and policy space.
-
-## BASIC MCQS / REMEDIATION
-
-### Q1. Which statement correctly identifies Institution-comparison frame?
-
-A. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-B. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-C. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-D. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-
-**Answer: A.**
-**Explanation:** International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q2. Which option preserves the accounting or regulatory boundary of Institution-comparison frame?
-
-A. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-B. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-C. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-D. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-
-**Answer: B.**
-**Explanation:** International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses Institution-comparison frame without losing its vintage, basket or legal status?
-
-A. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-B. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-C. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-D. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-
-**Answer: C.**
-**Explanation:** International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Institution-comparison frame?
-
-A. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-B. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-C. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-D. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-
-**Answer: D.**
-**Explanation:** International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies IMF mandate?
-
-A. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-B. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-C. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-D. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-
-**Answer: A.**
-**Explanation:** The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q6. Which option preserves the accounting or regulatory boundary of IMF mandate?
-
-A. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-B. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-C. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-D. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-
-**Answer: B.**
-**Explanation:** The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q7. Which statement uses IMF mandate without losing its vintage, basket or legal status?
-
-A. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-B. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-C. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-D. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-
-**Answer: C.**
-**Explanation:** The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q8. Which option avoids the standard UPSC close-option trap about IMF mandate?
-
-A. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-B. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-C. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-D. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-
-**Answer: D.**
-**Explanation:** The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q9. Which statement correctly identifies IMF quota functions?
-
-A. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-B. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-C. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-D. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-
-**Answer: A.**
-**Explanation:** An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q10. Which option preserves the accounting or regulatory boundary of IMF quota functions?
-
-A. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-B. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-C. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-D. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-
-**Answer: B.**
-**Explanation:** An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q11. Which statement uses IMF quota functions without losing its vintage, basket or legal status?
-
-A. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-B. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-C. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-D. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-
-**Answer: C.**
-**Explanation:** An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q12. Which option avoids the standard UPSC close-option trap about IMF quota functions?
-
-A. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-B. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-C. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-D. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-
-**Answer: D.**
-**Explanation:** An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q13. Which statement correctly identifies SDR boundary?
-
-A. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-B. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-C. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-D. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-
-**Answer: A.**
-**Explanation:** A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q14. Which option preserves the accounting or regulatory boundary of SDR boundary?
-
-A. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-B. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-C. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-D. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-
-**Answer: B.**
-**Explanation:** A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q15. Which statement uses SDR boundary without losing its vintage, basket or legal status?
-
-A. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-B. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-C. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-D. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-
-**Answer: C.**
-**Explanation:** A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q16. Which option avoids the standard UPSC close-option trap about SDR boundary?
-
-A. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-B. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-C. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-D. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-
-**Answer: D.**
-**Explanation:** A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q17. Which statement correctly identifies Reserve tranche position?
-
-A. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-B. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-C. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-D. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-
-**Answer: A.**
-**Explanation:** A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q18. Which option preserves the accounting or regulatory boundary of Reserve tranche position?
-
-A. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-B. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-C. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-D. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-
-**Answer: B.**
-**Explanation:** A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q19. Which statement uses Reserve tranche position without losing its vintage, basket or legal status?
-
-A. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-B. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-C. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-D. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-
-**Answer: C.**
-**Explanation:** A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q20. Which option avoids the standard UPSC close-option trap about Reserve tranche position?
-
-A. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-B. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-C. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-D. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-
-**Answer: D.**
-**Explanation:** A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q21. Which statement correctly identifies Gold tranche terminology?
-
-A. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-B. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-C. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-D. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-
-**Answer: A.**
-**Explanation:** Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q22. Which option preserves the accounting or regulatory boundary of Gold tranche terminology?
-
-A. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-B. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-C. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-D. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-
-**Answer: B.**
-**Explanation:** Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q23. Which statement uses Gold tranche terminology without losing its vintage, basket or legal status?
-
-A. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-B. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-C. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-D. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-
-**Answer: C.**
-**Explanation:** Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q24. Which option avoids the standard UPSC close-option trap about Gold tranche terminology?
-
-A. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-B. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-C. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-D. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-
-**Answer: D.**
-**Explanation:** Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q25. Which statement correctly identifies RFI and programme lending?
-
-A. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-B. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-C. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-D. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-
-**Answer: A.**
-**Explanation:** The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q26. Which option preserves the accounting or regulatory boundary of RFI and programme lending?
-
-A. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-B. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-C. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-D. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-
-**Answer: B.**
-**Explanation:** The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q27. Which statement uses RFI and programme lending without losing its vintage, basket or legal status?
-
-A. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-B. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-C. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-D. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-
-**Answer: C.**
-**Explanation:** The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q28. Which option avoids the standard UPSC close-option trap about RFI and programme lending?
-
-A. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-B. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-C. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-D. The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-
-**Answer: D.**
-**Explanation:** The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q29. Which statement correctly identifies World Bank boundary?
-
-A. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-B. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-C. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-D. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-
-**Answer: A.**
-**Explanation:** The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q30. Which option preserves the accounting or regulatory boundary of World Bank boundary?
-
-A. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-B. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-C. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-D. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-
-**Answer: B.**
-**Explanation:** The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q31. Which statement uses World Bank boundary without losing its vintage, basket or legal status?
-
-A. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-B. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-C. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-D. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-
-**Answer: C.**
-**Explanation:** The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q32. Which option avoids the standard UPSC close-option trap about World Bank boundary?
-
-A. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-B. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-C. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-D. The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-
-**Answer: D.**
-**Explanation:** The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q33. Which statement correctly identifies IBRD and IDA?
-
-A. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-B. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-C. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-D. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-
-**Answer: A.**
-**Explanation:** IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q34. Which option preserves the accounting or regulatory boundary of IBRD and IDA?
-
-A. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-B. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-C. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-D. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-
-**Answer: B.**
-**Explanation:** IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q35. Which statement uses IBRD and IDA without losing its vintage, basket or legal status?
-
-A. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-B. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-C. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-D. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-
-**Answer: C.**
-**Explanation:** IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about IBRD and IDA?
-
-A. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-B. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-C. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-D. IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-
-**Answer: D.**
-**Explanation:** IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies IFC and MIGA?
-
-A. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-B. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-C. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-D. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-
-**Answer: A.**
-**Explanation:** IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of IFC and MIGA?
-
-A. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-B. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-C. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-D. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-
-**Answer: B.**
-**Explanation:** IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q39. Which statement uses IFC and MIGA without losing its vintage, basket or legal status?
-
-A. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-B. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-C. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-D. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-
-**Answer: C.**
-**Explanation:** IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q40. Which option avoids the standard UPSC close-option trap about IFC and MIGA?
-
-A. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-B. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-C. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-D. IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-
-**Answer: D.**
-**Explanation:** IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies ADB mandate?
-
-A. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-B. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-C. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-D. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-
-**Answer: A.**
-**Explanation:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of ADB mandate?
-
-A. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-B. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-C. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-D. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-
-**Answer: B.**
-**Explanation:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses ADB mandate without losing its vintage, basket or legal status?
-
-A. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-B. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-C. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-D. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-
-**Answer: C.**
-**Explanation:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q44. Which option avoids the standard UPSC close-option trap about ADB mandate?
-
-A. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-B. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-C. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-D. The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-
-**Answer: D.**
-**Explanation:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q45. Which statement correctly identifies AIIB mandate?
-
-A. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-B. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-C. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-D. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-
-**Answer: A.**
-**Explanation:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of AIIB mandate?
-
-A. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-B. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-C. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-D. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-
-**Answer: B.**
-**Explanation:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses AIIB mandate without losing its vintage, basket or legal status?
-
-A. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-B. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-C. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-D. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-
-**Answer: C.**
-**Explanation:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about AIIB mandate?
-
-A. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-B. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-C. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-D. The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-
-**Answer: D.**
-**Explanation:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q49. Which statement correctly identifies NDB mandate?
-
-A. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-B. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-C. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-D. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-
-**Answer: A.**
-**Explanation:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q50. Which option preserves the accounting or regulatory boundary of NDB mandate?
-
-A. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-B. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-C. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-D. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-
-**Answer: B.**
-**Explanation:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses NDB mandate without losing its vintage, basket or legal status?
-
-A. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-B. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-C. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-D. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-
-**Answer: C.**
-**Explanation:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about NDB mandate?
-
-A. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-B. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-C. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-D. The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-
-**Answer: D.**
-**Explanation:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies Nature Solutions Finance Hub?
-
-A. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-B. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-C. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-D. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-
-**Answer: A.**
-**Explanation:** The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of Nature Solutions Finance Hub?
-
-A. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-B. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-C. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-D. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-
-**Answer: B.**
-**Explanation:** The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses Nature Solutions Finance Hub without losing its vintage, basket or legal status?
-
-A. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-B. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-C. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-D. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-
-**Answer: C.**
-**Explanation:** The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Nature Solutions Finance Hub?
-
-A. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-B. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-C. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-D. The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-
-**Answer: D.**
-**Explanation:** The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Conditionality and safeguards?
-
-A. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-B. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-C. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-D. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-
-**Answer: A.**
-**Explanation:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Conditionality and safeguards?
-
-A. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-B. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-C. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-D. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-
-**Answer: B.**
-**Explanation:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Conditionality and safeguards without losing its vintage, basket or legal status?
-
-A. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-B. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-C. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-D. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-
-**Answer: C.**
-**Explanation:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Conditionality and safeguards?
-
-A. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-B. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-C. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-D. Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-
-**Answer: D.**
-**Explanation:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies Project and policy-based lending?
-
-A. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-B. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-C. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-D. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-
-**Answer: A.**
-**Explanation:** Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of Project and policy-based lending?
-
-A. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-B. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-C. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-D. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-
-**Answer: B.**
-**Explanation:** Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses Project and policy-based lending without losing its vintage, basket or legal status?
-
-A. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-B. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-C. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-D. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-
-**Answer: C.**
-**Explanation:** Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Project and policy-based lending?
-
-A. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-B. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-C. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-D. Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-
-**Answer: D.**
-**Explanation:** Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Guarantees and co-financing?
-
-A. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-B. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-C. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-D. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-
-**Answer: A.**
-**Explanation:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Guarantees and co-financing?
-
-A. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-B. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-C. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-D. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-
-**Answer: B.**
-**Explanation:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Guarantees and co-financing without losing its vintage, basket or legal status?
-
-A. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-B. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-C. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-D. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-
-**Answer: C.**
-**Explanation:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Guarantees and co-financing?
-
-A. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-B. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-C. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-D. A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-
-**Answer: D.**
-**Explanation:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Currency-risk boundary?
-
-A. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-B. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-C. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-D. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-
-**Answer: A.**
-**Explanation:** Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Currency-risk boundary?
-
-A. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-B. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-C. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-D. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-
-**Answer: B.**
-**Explanation:** Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Currency-risk boundary without losing its vintage, basket or legal status?
-
-A. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-B. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-C. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-D. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-
-**Answer: C.**
-**Explanation:** Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Currency-risk boundary?
-
-A. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-B. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-C. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-D. Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-
-**Answer: D.**
-**Explanation:** Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies DSSI and Common Framework?
-
-A. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-B. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-C. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-D. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-
-**Answer: A.**
-**Explanation:** The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of DSSI and Common Framework?
-
-A. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-B. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-C. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-D. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-
-**Answer: B.**
-**Explanation:** The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses DSSI and Common Framework without losing its vintage, basket or legal status?
-
-A. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-B. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-C. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-D. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-
-**Answer: C.**
-**Explanation:** The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about DSSI and Common Framework?
-
-A. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-B. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-C. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-D. The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-
-**Answer: D.**
-**Explanation:** The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Global-governance reform?
-
-A. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-B. International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-C. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-D. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-
-**Answer: A.**
-**Explanation:** Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Global-governance reform?
-
-A. The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-B. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-C. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-D. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-
-**Answer: B.**
-**Explanation:** Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Global-governance reform without losing its vintage, basket or legal status?
-
-A. An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-B. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-C. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-D. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-
-**Answer: C.**
-**Explanation:** Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Global-governance reform?
-
-A. A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-B. A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-C. Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-D. Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-
-**Answer: D.**
-**Explanation:** Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-## PYQS AND ANSWER PRACTICE
-
-### TRANSPARENT OBJECTIVE-ONLY PYQ AUDIT
-
-Audited Prelims ledgers route objective concepts on AIIB, the reserve or gold tranche, the Rapid Financing Instrument, the G20 Common Framework, ADB's Nature Solutions Finance Hub and IBRD. No direct Economy Mains demand is claimed and no objective answer letter is inferred.
-
-### OWNER PYQ LEDGER EXTRACTS
-
-#### 9. PYQ application
-
-- ⚠️ Use institution-matching questions to distinguish mandate, membership, instrument and
-  governance.
-- ⚠️ Apply the 2025 protectionism PYQ to explain why multilateral institutions face
-  legitimacy and coordination pressures.
-- ⚠️ 2025 Prelims: Launcher of the Nature Solutions Finance Hub for Asia and the Pacific —
-  answer with ADB, COP28 (December 2023) and its blended-finance purpose above.
-
-#### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
-
-- **Years represented:** 2025
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | Prelims GS-I | 35 | Launcher of the 'Nature Solutions Finance Hub for Asia and the Pacific' (ADB) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2025 | Prelims GS-I | 67 | International Bank for Reconstruction and Development (IBRD) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Launcher of the 'Nature Solutions Finance Hub for Asia and the Pacific' (ADB)
-- International Bank for Reconstruction and Development (IBRD)
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2019, 2020, 2022
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 4
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | Prelims GS-I | 71 | Asian Infrastructure Investment Bank membership and shareholding | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | Prelims GS-I | 17 | Gold Tranche Reserve Tranche IMF credit system | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 1 | IMF Rapid Financing Instrument and Credit Facility | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 4 | G20 Common Framework for sovereign debt restructuring | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Asian Infrastructure Investment Bank membership and shareholding
-- Gold Tranche Reserve Tranche IMF credit system
-- IMF Rapid Financing Instrument and Credit Facility
-- G20 Common Framework for sovereign debt restructuring
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ Use institution-matching questions to distinguish mandate, membership, instrument and
-  governance.
-- ⚠️ Apply the 2025 protectionism PYQ to explain why multilateral institutions face
-  legitimacy and coordination pressures.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish SDRs, the reserve tranche position and IMF programme borrowing. Answer in about 150 words.
-
-**Model thesis:** **Claim:** SDR boundary. **Named evidence/example:** A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve tranche position. **Named evidence/example:** A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Gold tranche terminology. **Named evidence/example:** Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** RFI and programme lending. **Named evidence/example:** The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-- A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-- Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-- The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-
-**Qualified conclusion:** **Claim:** SDR boundary. **Named evidence/example:** A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve tranche position. **Named evidence/example:** A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Gold tranche terminology. **Named evidence/example:** Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** RFI and programme lending. **Named evidence/example:** The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish SDRs, the reserve tranche position and IMF programme borrowing. Answer in about…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** SDR boundary. **Named evidence/example:** A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve tranche position. **Named evidence/example:** A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Gold tranche terminology. **Named evidence/example:** Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** RFI and programme lending. **Named evidence/example:** The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** SDR boundary. **Named evidence/example:** A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Reserve tranche position. **Named evidence/example:** A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Gold tranche terminology. **Named evidence/example:** Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** RFI and programme lending. **Named evidence/example:** The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish SDRs, the reserve tranche position and IMF programme borrowing. Answer in about…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Differentiate IBRD, IDA, IFC and MIGA by client and instrument. Answer in about 150 words.
-
-**Model thesis:** **Claim:** World Bank boundary. **Named evidence/example:** The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IBRD and IDA. **Named evidence/example:** IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IFC and MIGA. **Named evidence/example:** IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-- IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-- IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-
-**Qualified conclusion:** **Claim:** World Bank boundary. **Named evidence/example:** The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IBRD and IDA. **Named evidence/example:** IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IFC and MIGA. **Named evidence/example:** IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Differentiate IBRD, IDA, IFC and MIGA by client and instrument. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** World Bank boundary. **Named evidence/example:** The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IBRD and IDA. **Named evidence/example:** IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IFC and MIGA. **Named evidence/example:** IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** World Bank boundary. **Named evidence/example:** The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IBRD and IDA. **Named evidence/example:** IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IFC and MIGA. **Named evidence/example:** IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Differentiate IBRD, IDA, IFC and MIGA by client and instrument. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Compare the IMF with multilateral development banks. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Institution-comparison frame. **Named evidence/example:** International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IMF mandate. **Named evidence/example:** The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** ADB mandate. **Named evidence/example:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AIIB mandate. **Named evidence/example:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NDB mandate. **Named evidence/example:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Conditionality and safeguards. **Named evidence/example:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-- The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-- The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-- The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-- The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-- Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-
-**Qualified conclusion:** **Claim:** Institution-comparison frame. **Named evidence/example:** International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IMF mandate. **Named evidence/example:** The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** ADB mandate. **Named evidence/example:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AIIB mandate. **Named evidence/example:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NDB mandate. **Named evidence/example:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Conditionality and safeguards. **Named evidence/example:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare the IMF with multilateral development banks. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Institution-comparison frame. **Named evidence/example:** International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IMF mandate. **Named evidence/example:** The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** ADB mandate. **Named evidence/example:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AIIB mandate. **Named evidence/example:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NDB mandate. **Named evidence/example:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Conditionality and safeguards. **Named evidence/example:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Institution-comparison frame. **Named evidence/example:** International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** IMF mandate. **Named evidence/example:** The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** ADB mandate. **Named evidence/example:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AIIB mandate. **Named evidence/example:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NDB mandate. **Named evidence/example:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Conditionality and safeguards. **Named evidence/example:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Compare the IMF with multilateral development banks. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Why do project loans, policy-based loans and guarantees require different evaluation criteria? Answer in about 250 words.
-
-**Model thesis:** **Claim:** Conditionality and safeguards. **Named evidence/example:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Project and policy-based lending. **Named evidence/example:** Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Guarantees and co-financing. **Named evidence/example:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-- Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-- A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-
-**Qualified conclusion:** **Claim:** Conditionality and safeguards. **Named evidence/example:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Project and policy-based lending. **Named evidence/example:** Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Guarantees and co-financing. **Named evidence/example:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why do project loans, policy-based loans and guarantees require different evaluation…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Conditionality and safeguards. **Named evidence/example:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Project and policy-based lending. **Named evidence/example:** Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Guarantees and co-financing. **Named evidence/example:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Conditionality and safeguards. **Named evidence/example:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Project and policy-based lending. **Named evidence/example:** Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Guarantees and co-financing. **Named evidence/example:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Why do project loans, policy-based loans and guarantees require different evaluation…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate the role of ADB, AIIB and NDB in a plural development-finance architecture. Answer in about 300 words.
-
-**Model thesis:** **Claim:** ADB mandate. **Named evidence/example:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AIIB mandate. **Named evidence/example:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NDB mandate. **Named evidence/example:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Nature Solutions Finance Hub. **Named evidence/example:** The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Guarantees and co-financing. **Named evidence/example:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Currency-risk boundary. **Named evidence/example:** Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-- The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-- The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-- The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-- A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-- Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-
-**Qualified conclusion:** **Claim:** ADB mandate. **Named evidence/example:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AIIB mandate. **Named evidence/example:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NDB mandate. **Named evidence/example:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Nature Solutions Finance Hub. **Named evidence/example:** The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Guarantees and co-financing. **Named evidence/example:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Currency-risk boundary. **Named evidence/example:** Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the role of ADB, AIIB and NDB in a plural development-finance architecture. Answer…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** ADB mandate. **Named evidence/example:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AIIB mandate. **Named evidence/example:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NDB mandate. **Named evidence/example:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Nature Solutions Finance Hub. **Named evidence/example:** The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Guarantees and co-financing. **Named evidence/example:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Currency-risk boundary. **Named evidence/example:** Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** ADB mandate. **Named evidence/example:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** AIIB mandate. **Named evidence/example:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** NDB mandate. **Named evidence/example:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Nature Solutions Finance Hub. **Named evidence/example:** The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Guarantees and co-financing. **Named evidence/example:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Currency-risk boundary. **Named evidence/example:** Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Evaluate the role of ADB, AIIB and NDB in a plural development-finance architecture. Answer…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** What reforms can improve representation and effectiveness in global economic governance? Answer in about 300 words.
-
-**Model thesis:** **Claim:** IMF quota functions. **Named evidence/example:** An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Conditionality and safeguards. **Named evidence/example:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** DSSI and Common Framework. **Named evidence/example:** The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Global-governance reform. **Named evidence/example:** Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-- Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-- The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-- Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-
-**Qualified conclusion:** **Claim:** IMF quota functions. **Named evidence/example:** An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Conditionality and safeguards. **Named evidence/example:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** DSSI and Common Framework. **Named evidence/example:** The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Global-governance reform. **Named evidence/example:** Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “What reforms can improve representation and effectiveness in global economic governance?…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** IMF quota functions. **Named evidence/example:** An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Conditionality and safeguards. **Named evidence/example:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** DSSI and Common Framework. **Named evidence/example:** The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Global-governance reform. **Named evidence/example:** Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** IMF quota functions. **Named evidence/example:** An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Conditionality and safeguards. **Named evidence/example:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** DSSI and Common Framework. **Named evidence/example:** The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Global-governance reform. **Named evidence/example:** Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “What reforms can improve representation and effectiveness in global economic governance?…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
-
-> **Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims.
-> **Core area:** International economic institutions.
-> **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `../basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`.*
-
-#### 1. Architecture
+#### VISUAL FIRST
 
 ```text
-1. member capital and governance
-   |
-   v
-  2. surveillance or project appraisal
-     |
-     v
-    3. loan, guarantee, technical support or policy advice
-       |
-       v
-      4. domestic reform and investment
-         |
-         v
-        5. development outcome and repayment
+EXTENDED FUND FACILITY
+structural constraint -> extended programme -> reforms -> reviews -> repayment
+BOUNDARY -> Longer maturity does not remove conditionality or the need for debt sustainability.
 ```
 
-**Analytical claim:** Compare international institutions by mandate, client, instrument,
-governance and conditionality rather than grouping all external finance together.
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-#### 2. Concepts and distinctions
+#### DEFINITION
 
-| Concept | Precise meaning |
-|---|---|
-| ✅ **IMF** | Institution supporting monetary cooperation, surveillance and balance-of-payments financing. |
-| ✅ **World Bank Group** | Institutions financing development, reconstruction, private investment and risk mitigation. |
-| ✅ **ADB** | Regional development bank focused on Asia and the Pacific. |
-| ✅ **AIIB** | Multilateral development bank with infrastructure and related development focus. |
-| ✅ **NDB** | BRICS-founded multilateral development bank financing infrastructure and sustainable development. |
-| ✅ **SDR** | IMF-created international reserve asset valued from a currency basket, not a retail currency or an IMF loan. |
+The Extended Fund Facility supports countries with serious medium-term balance-of-payments problems rooted in structural weaknesses.
 
-#### 3. Detailed transmission
+> **ANSWER-GRABBING LINE:** Extended Fund Facility matters because longer horizons can match reforms whose payoff and adjustment take time.
 
-1. Member contributions, quotas or subscribed capital determine institutional resources and
-   aspects of governance.
-2. Surveillance or project appraisal diagnoses macroeconomic, financial, social and
-   environmental risks.
-3. Institutions provide balance-of-payments finance, sovereign loans, private-sector
-   support, guarantees or technical assistance according to mandate.
-4. Conditionality, procurement and safeguard rules shape domestic implementation.
-5. Repayment, development outcomes and policy ownership determine programme legitimacy and
-   future access.
+**MUST-WRITE KEYWORDS:** EFF, structural reform, medium term, reviews, debt sustainability
 
-##### Deeper analytical layers
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- ⚠️ IMF quotas influence contributions, access, voting power and SDR allocation shares.
-- ⚠️ Development-bank additionality asks whether finance, risk absorption or knowledge would
-  otherwise be unavailable.
-- ⚠️ Project lending faces environmental, social, procurement and debt-sustainability
-  safeguards.
-- ⚠️ Policy-based lending supports reform programmes rather than a single physical asset.
-- ⚠️ Co-financing expands scale but can complicate standards, procurement and
-  accountability.
-- ⚠️ Reform proposals concern quota realignment, leadership selection, voice of developing
-  countries and crisis resources.
+- **Claim:** Extended Fund Facility matters because longer horizons can match reforms whose payoff and adjustment take time.
+- **Named evidence:** IMF facility guidance distinguishes the EFF's longer engagement and structural reform orientation from the shorter SBA.
+- **Analysis:** Longer horizons can match reforms whose payoff and adjustment take time.
+- **Qualification / demand link:** Longer maturity does not remove conditionality or the need for debt sustainability.
 
-#### 4. Institutional architecture
+#### EVIDENCE AND INFERENCE
 
-- ✅ **IMF:** macroeconomic surveillance, crisis lending, SDR-related functions and monetary
-  cooperation.
-- ✅ **IBRD and IDA:** sovereign development finance on different terms for eligible
-  borrowers.
-- ✅ **IFC and MIGA:** private-sector finance and political-risk guarantees within the World
-  Bank Group.
-- ✅ **ADB, AIIB and NDB:** regional or member-led development finance with differing
-  governance and sector emphasis.
+- **Fact/evidence:** IMF facility guidance distinguishes the EFF's longer engagement and structural reform orientation from the shorter SBA.
+- **Analytical inference:** Longer horizons can match reforms whose payoff and adjustment take time.
+- **Qualification:** Longer maturity does not remove conditionality or the need for debt sustainability.
 
-#### 5. Indian applications and boundary cases
+#### PRELIMS TRAP
 
-- ⚠️ An IMF programme addresses an external financing gap; a development-bank road loan
-  finances a specific long-lived asset.
-- ⚠️ A guarantee can mobilise private finance by absorbing defined political or credit risks
-  rather than funding the entire project.
-- ⚠️ Foreign-currency development debt may be concessional yet still create exchange-rate
-  exposure for the borrower.
+Do not reduce the EFF to ordinary long-term development-project finance.
 
-#### 6. Limitations and trade-offs
+#### MAINS USE
 
-- ⚠️ Conditionality can correct imbalances but may impose pro-cyclical or distributional
-  costs if poorly sequenced.
-- ⚠️ Cheap development finance accelerates investment while weak projects can worsen debt
-  stress.
-- ⚠️ New institutions increase choice but fragmentation can duplicate standards and dilute
-  coordination.
-- ⚠️ Borrowing in foreign currency lowers some costs but creates exchange-rate risk.
-- ⚠️ National ownership improves legitimacy yet lenders require safeguards for shared
-  resources.
+Use it where the external gap reflects deep structural imbalance.
 
-⚠️ **Boundary condition:** A new multilateral bank expands financing choice but does not
-automatically guarantee additional, well-appraised or debt-sustainable investment.
+#### MINI RECAP
 
-#### 7. Must-Know Facts for Advanced Prelims
+- Definition: The Extended Fund Facility supports countries with serious medium-term balance-of-payments problems rooted in structural weaknesses.
+- Evidence anchor: IMF facility guidance distinguishes the EFF's longer engagement and structural reform orientation from the shorter SBA.
+- Verdict: Extended Fund Facility matters because longer horizons can match reforms whose payoff and adjustment take time.
 
-- ✅ IMF mainly addresses macroeconomic and external stability; development banks primarily
-  finance projects and development policy.
-- ✅ World Bank Group institutions have different mandates; the term World Bank commonly
-  refers to IBRD and IDA.
-- ✅ SDRs supplement official reserves through IMF allocation; their existence does not make
-  a country solvent or replace external adjustment.
-- ✅ Voting power, quotas, capital contributions and governance arrangements differ across
-  institutions.
-- ✅ Conditionality can protect programme credibility but raises ownership and social-impact
-  debates.
-- ✅ Multilateral development banks can mobilise private capital through guarantees and co-
-  financing.
-- ✅ Reserve assets, development loans and trade rules belong to different institutional
-  architectures.
+### CORE SESSION 18 - Rapid Financing Instrument and Rapid Credit Facility
 
-#### 8. Advanced Prelims traps
+#### VISUAL FIRST
 
-- ❌ IMF mainly finances roads and dams. -> Its core role is monetary and balance-of-payments
-  support.
-- ❌ IDA and IFC perform identical functions. -> IDA lends to eligible sovereigns on
-  concessional terms; IFC focuses on private-sector development.
-- ❌ All members have one equal vote. -> Governance often reflects quota or shareholding
-  arrangements.
-- ❌ AIIB and NDB replace the World Bank. -> They complement a plural multilateral financing
-  system.
-- ❌ A loan recommendation is binding domestic law. -> Implementation depends on agreements
-  and domestic institutions.
+```text
+RAPID FINANCING INSTRUMENT AND RAPID CREDIT FACILITY
+urgent shock -> rapid assessment -> single disbursement -> policy cooperation
+BOUNDARY -> Rapid access is not unconditional money; qualification, need, safeguards and repayment rules remain.
+```
 
-#### 9. 📰 Survey 2025-26 analytical application
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
 
-| Verified current anchor | Topic-specific analytical use |
-|---|---|
-| 📰 The Survey frames global fragmentation as a reason for resilience, diversified partnerships and stronger state capacity. | Global fragmentation increases the value of diversified finance, institutions and partnerships. |
-| 📰 FY27 real GDP growth is projected at 6.8-7.2% by the Survey; institutional projections must always be quoted with source and period. | Quote the Survey projection separately from IMF, World Bank or other institutional forecasts. |
-| 📰 Global governance debates centre on voice, representation, climate finance, debt and development additionality. | Assess governance reform through voting voice, resources, conditionality, debt and climate-finance needs. |
+#### DEFINITION
 
-#### 10. PYQ-based analytical application
+RFI and RCF provide rapid support for urgent balance-of-payments needs, with RCF reserved for PRGT-eligible low-income countries.
 
-- ⚠️ Use institution-matching questions to distinguish mandate, membership, instrument and
-  governance.
-- ⚠️ Apply the 2025 protectionism PYQ to explain why multilateral institutions face
-  legitimacy and coordination pressures.
+> **ANSWER-GRABBING LINE:** Rapid Financing Instrument and Rapid Credit Facility matters because speed helps disaster or shock response where a full programme is unnecessary or infeasible.
 
-#### 11. Mains-ready framework
+**MUST-WRITE KEYWORDS:** RFI, RCF, urgent need, single disbursement, PRGT
 
-**Central thesis:** Compare international institutions by mandate, client, instrument, governance and conditionality rather than grouping all external finance together.
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-1. Define **IMF** and distinguish it from **World Bank Group**.
-2. Surveillance or project appraisal diagnoses macroeconomic, financial, social and
-   environmental risks.
-3. IMF: macroeconomic surveillance, crisis lending, SDR-related functions and monetary
-   cooperation.
-4. Conditionality can correct imbalances but may impose pro-cyclical or distributional costs
-   if poorly sequenced.
-5. Argue for reformed multilateralism rather than institutional fragmentation or withdrawal.
+- **Claim:** Rapid Financing Instrument and Rapid Credit Facility matters because speed helps disaster or shock response where a full programme is unnecessary or infeasible.
+- **Named evidence:** IMF factsheets distinguish the GRA-based RFI from the concessional PRGT-based RCF and describe limited ex-post programme conditionality.
+- **Analysis:** Speed helps disaster or shock response where a full programme is unnecessary or infeasible.
+- **Qualification / demand link:** Rapid access is not unconditional money; qualification, need, safeguards and repayment rules remain.
 
-#### 12. Probable questions
+#### EVIDENCE AND INFERENCE
 
-- ⚠️ **Prelims:** Match IMF, IBRD, IDA, IFC, MIGA, ADB, AIIB and NDB with clients and
-  instruments.
-- ⚠️ **Mains (10 marks):** Why are IMF conditionality and development-bank safeguards
-  analytically different?
-- ⚠️ **Mains (15 marks):** What reforms would make global economic governance more
-  representative without weakening financial discipline?
+- **Fact/evidence:** IMF factsheets distinguish the GRA-based RFI from the concessional PRGT-based RCF and describe limited ex-post programme conditionality.
+- **Analytical inference:** Speed helps disaster or shock response where a full programme is unnecessary or infeasible.
+- **Qualification:** Rapid access is not unconditional money; qualification, need, safeguards and repayment rules remain.
 
-#### 13. Study links
+#### PRELIMS TRAP
 
-- ✅ Foundation companion: `../basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md`.
-- ✅ `19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md` — crisis finance and
-  reserve adequacy.
-- ✅ `18_Infrastructure-PPPs-Logistics-and-Public-Investment.md` — multilateral project
-  finance.
-- ✅ `25_Climate-Economics-Green-Finance-and-Circular-Economy.md` — climate-finance and
-  development additionality.
+Do not describe RFI and RCF as identical windows for all members.
+
+#### MAINS USE
+
+State resource account, eligibility and disbursement structure.
+
+#### MINI RECAP
+
+- Definition: RFI and RCF provide rapid support for urgent balance-of-payments needs, with RCF reserved for PRGT-eligible low-income countries.
+- Evidence anchor: IMF factsheets distinguish the GRA-based RFI from the concessional PRGT-based RCF and describe limited ex-post programme conditionality.
+- Verdict: Rapid Financing Instrument and Rapid Credit Facility matters because speed helps disaster or shock response where a full programme is unnecessary or infeasible.
+
+### CORE SESSION 19 - Concessional IMF facilities
+
+#### VISUAL FIRST
+
+```text
+CONCESSIONAL IMF FACILITIES
+low-income eligibility -> protracted/short/urgent need -> ECF/SCF/RCF
+BOUNDARY -> Eligibility and interest terms are policy variables that must be dated.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The ECF, SCF and RCF are PRGT instruments for eligible low-income countries with different duration and programme structures.
+
+> **ANSWER-GRABBING LINE:** Concessional IMF facilities matters because concessional terms address capacity constraints, while facility design still differentiates persistent, short-term and urgent needs.
+
+**MUST-WRITE KEYWORDS:** ECF, SCF, RCF, PRGT, concessional, low-income
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Concessional IMF facilities matters because concessional terms address capacity constraints, while facility design still differentiates persistent, short-term and urgent needs.
+- **Named evidence:** IMF lending architecture distinguishes the Extended Credit Facility, Standby Credit Facility and Rapid Credit Facility.
+- **Analysis:** Concessional terms address capacity constraints, while facility design still differentiates persistent, short-term and urgent needs.
+- **Qualification / demand link:** Eligibility and interest terms are policy variables that must be dated.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** IMF lending architecture distinguishes the Extended Credit Facility, Standby Credit Facility and Rapid Credit Facility.
+- **Analytical inference:** Concessional terms address capacity constraints, while facility design still differentiates persistent, short-term and urgent needs.
+- **Qualification:** Eligibility and interest terms are policy variables that must be dated.
+
+#### PRELIMS TRAP
+
+Do not expand ECF as the non-concessional Extended Fund Facility.
+
+#### MAINS USE
+
+Use the ECF-EFF and RCF-RFI contrasts as close-option controls.
+
+#### MINI RECAP
+
+- Definition: The ECF, SCF and RCF are PRGT instruments for eligible low-income countries with different duration and programme structures.
+- Evidence anchor: IMF lending architecture distinguishes the Extended Credit Facility, Standby Credit Facility and Rapid Credit Facility.
+- Verdict: Concessional IMF facilities matters because concessional terms address capacity constraints, while facility design still differentiates persistent, short-term and urgent needs.
+
+### CORE SESSION 20 - Resilience and Sustainability Facility
+
+#### VISUAL FIRST
+
+```text
+RESILIENCE AND SUSTAINABILITY FACILITY
+long-horizon vulnerability -> reform package -> RSF financing -> resilience
+BOUNDARY -> It is not a general climate project fund and depends on eligibility and programme conditions.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The RSF provides longer-term financing for reforms that reduce macro-critical risks from climate change and pandemic preparedness.
+
+> **ANSWER-GRABBING LINE:** Resilience and Sustainability Facility matters because it extends IMF support beyond immediate liquidity while retaining a macro-critical link.
+
+**MUST-WRITE KEYWORDS:** RST, RSF, climate risk, pandemic preparedness, macro-critical
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Resilience and Sustainability Facility matters because it extends IMF support beyond immediate liquidity while retaining a macro-critical link.
+- **Named evidence:** The IMF created the Resilience and Sustainability Trust in 2022 and lends through the RSF alongside a qualifying upper-credit-tranche-quality programme.
+- **Analysis:** It extends IMF support beyond immediate liquidity while retaining a macro-critical link.
+- **Qualification / demand link:** It is not a general climate project fund and depends on eligibility and programme conditions.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The IMF created the Resilience and Sustainability Trust in 2022 and lends through the RSF alongside a qualifying upper-credit-tranche-quality programme.
+- **Analytical inference:** It extends IMF support beyond immediate liquidity while retaining a macro-critical link.
+- **Qualification:** It is not a general climate project fund and depends on eligibility and programme conditions.
+
+#### PRELIMS TRAP
+
+Do not substitute RSF for MDB project finance.
+
+#### MAINS USE
+
+Use RSF to show the evolving IMF mandate without erasing its stabilisation core.
+
+#### MINI RECAP
+
+- Definition: The RSF provides longer-term financing for reforms that reduce macro-critical risks from climate change and pandemic preparedness.
+- Evidence anchor: The IMF created the Resilience and Sustainability Trust in 2022 and lends through the RSF alongside a qualifying upper-credit-tranche-quality programme.
+- Verdict: Resilience and Sustainability Facility matters because it extends IMF support beyond immediate liquidity while retaining a macro-critical link.
+
+### CORE SESSION 21 - IMF conditionality toolkit
+
+#### VISUAL FIRST
+
+```text
+IMF CONDITIONALITY TOOLKIT
+programme objective -> policy measure -> monitored target -> review -> tranche
+BOUNDARY -> Too many or poorly sequenced conditions can weaken ownership and impose avoidable social cost.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Conditionality links financing to policy actions through prior actions, quantitative performance criteria, indicative targets, structural benchmarks and programme reviews.
+
+> **ANSWER-GRABBING LINE:** IMF conditionality toolkit matters because monitoring reduces lender risk and can anchor adjustment expectations.
+
+**MUST-WRITE KEYWORDS:** prior action, performance criterion, benchmark, review, ownership
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** IMF conditionality toolkit matters because monitoring reduces lender risk and can anchor adjustment expectations.
+- **Named evidence:** IMF guidance describes conditionality as a safeguard for Fund resources and a means to restore external viability.
+- **Analysis:** Monitoring reduces lender risk and can anchor adjustment expectations.
+- **Qualification / demand link:** Too many or poorly sequenced conditions can weaken ownership and impose avoidable social cost.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** IMF guidance describes conditionality as a safeguard for Fund resources and a means to restore external viability.
+- **Analytical inference:** Monitoring reduces lender risk and can anchor adjustment expectations.
+- **Qualification:** Too many or poorly sequenced conditions can weaken ownership and impose avoidable social cost.
+
+#### PRELIMS TRAP
+
+Do not call every IMF recommendation a binding condition.
+
+#### MAINS USE
+
+Name the condition type and connect it to the programme objective.
+
+#### MINI RECAP
+
+- Definition: Conditionality links financing to policy actions through prior actions, quantitative performance criteria, indicative targets, structural benchmarks and programme reviews.
+- Evidence anchor: IMF guidance describes conditionality as a safeguard for Fund resources and a means to restore external viability.
+- Verdict: IMF conditionality toolkit matters because monitoring reduces lender risk and can anchor adjustment expectations.
+
+### CORE SESSION 22 - Programme reviews and disbursement
+
+#### VISUAL FIRST
+
+```text
+PROGRAMME REVIEWS AND DISBURSEMENT
+approval -> first purchase -> performance -> review -> later purchase
+BOUNDARY -> Board approval is not the same as full disbursement.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+In programme arrangements, approved access is normally phased and subsequent purchases depend on reviews, waivers and observance of agreed conditions.
+
+> **ANSWER-GRABBING LINE:** Programme reviews and disbursement matters because phasing creates accountability but can intensify uncertainty if targets become unrealistic after a shock.
+
+**MUST-WRITE KEYWORDS:** phasing, tranche, review, waiver, disbursement, outstanding credit
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Programme reviews and disbursement matters because phasing creates accountability but can intensify uncertainty if targets become unrealistic after a shock.
+- **Named evidence:** SBA and EFF programme documents distinguish total approved access from amounts actually made available after reviews.
+- **Analysis:** Phasing creates accountability but can intensify uncertainty if targets become unrealistic after a shock.
+- **Qualification / demand link:** Board approval is not the same as full disbursement.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** SBA and EFF programme documents distinguish total approved access from amounts actually made available after reviews.
+- **Analytical inference:** Phasing creates accountability but can intensify uncertainty if targets become unrealistic after a shock.
+- **Qualification:** Board approval is not the same as full disbursement.
+
+#### PRELIMS TRAP
+
+Do not report an approved envelope as money already received.
+
+#### MAINS USE
+
+Track approval, availability, purchase and outstanding credit separately.
+
+#### MINI RECAP
+
+- Definition: In programme arrangements, approved access is normally phased and subsequent purchases depend on reviews, waivers and observance of agreed conditions.
+- Evidence anchor: SBA and EFF programme documents distinguish total approved access from amounts actually made available after reviews.
+- Verdict: Programme reviews and disbursement matters because phasing creates accountability but can intensify uncertainty if targets become unrealistic after a shock.
+
+### CORE SESSION 23 - Conditionality and policy ownership
+
+#### VISUAL FIRST
+
+```text
+CONDITIONALITY AND POLICY OWNERSHIP
+diagnosis -> domestic choice -> credible measures -> social protection -> implementation
+BOUNDARY -> Domestic ownership cannot excuse opaque targets, distributional harm or misuse of funds.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Policy ownership means domestic authorities understand, choose and can implement the adjustment programme rather than merely complying with an external checklist.
+
+> **ANSWER-GRABBING LINE:** Conditionality and policy ownership matters because ownership can improve compliance and durability, while independent scrutiny protects against weak diagnosis.
+
+**MUST-WRITE KEYWORDS:** ownership, parsimony, criticality, sequencing, social protection
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Conditionality and policy ownership matters because ownership can improve compliance and durability, while independent scrutiny protects against weak diagnosis.
+- **Named evidence:** IMF programme design guidance emphasises parsimony, criticality and national ownership.
+- **Analysis:** Ownership can improve compliance and durability, while independent scrutiny protects against weak diagnosis.
+- **Qualification / demand link:** Domestic ownership cannot excuse opaque targets, distributional harm or misuse of funds.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** IMF programme design guidance emphasises parsimony, criticality and national ownership.
+- **Analytical inference:** Ownership can improve compliance and durability, while independent scrutiny protects against weak diagnosis.
+- **Qualification:** Domestic ownership cannot excuse opaque targets, distributional harm or misuse of funds.
+
+#### PRELIMS TRAP
+
+Do not frame conditionality as either pure coercion or automatic discipline.
+
+#### MAINS USE
+
+Evaluate necessity, sequencing, distribution and democratic accountability.
+
+#### MINI RECAP
+
+- Definition: Policy ownership means domestic authorities understand, choose and can implement the adjustment programme rather than merely complying with an external checklist.
+- Evidence anchor: IMF programme design guidance emphasises parsimony, criticality and national ownership.
+- Verdict: Conditionality and policy ownership matters because ownership can improve compliance and durability, while independent scrutiny protects against weak diagnosis.
+
+### CORE SESSION 24 - Reserve tranche position
+
+#### VISUAL FIRST
+
+```text
+RESERVE TRANCHE POSITION
+quota contribution -> IMF use of currency -> reserve claim -> on-demand drawing
+BOUNDARY -> Its size changes with IMF transactions and should not be equated to the full quota.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+A reserve tranche position is a member's liquid claim on the IMF arising when the Fund's holdings of its currency are below quota.
+
+> **ANSWER-GRABBING LINE:** Reserve tranche position matters because drawing it is closer to using one's reserve claim than taking a new conditional IMF loan.
+
+**MUST-WRITE KEYWORDS:** reserve tranche position, liquid claim, quota, reserve asset, unconditional
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Reserve tranche position matters because drawing it is closer to using one's reserve claim than taking a new conditional IMF loan.
+- **Named evidence:** The reserve tranche position is recorded as an official reserve asset and can generally be drawn without programme conditionality.
+- **Analysis:** Drawing it is closer to using one's reserve claim than taking a new conditional IMF loan.
+- **Qualification / demand link:** Its size changes with IMF transactions and should not be equated to the full quota.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The reserve tranche position is recorded as an official reserve asset and can generally be drawn without programme conditionality.
+- **Analytical inference:** Drawing it is closer to using one's reserve claim than taking a new conditional IMF loan.
+- **Qualification:** Its size changes with IMF transactions and should not be equated to the full quota.
+
+#### PRELIMS TRAP
+
+Do not treat the reserve tranche as a credit facility.
+
+#### MAINS USE
+
+Use it to separate reserve assets from IMF borrowing.
+
+#### MINI RECAP
+
+- Definition: A reserve tranche position is a member's liquid claim on the IMF arising when the Fund's holdings of its currency are below quota.
+- Evidence anchor: The reserve tranche position is recorded as an official reserve asset and can generally be drawn without programme conditionality.
+- Verdict: Reserve tranche position matters because drawing it is closer to using one's reserve claim than taking a new conditional IMF loan.
+
+### CORE SESSION 25 - Gold tranche terminology
+
+#### VISUAL FIRST
+
+```text
+GOLD TRANCHE TERMINOLOGY
+pre-1978 gold subscription -> reserve portion -> modern RTP terminology
+BOUNDARY -> Modern reserve assets are not defined by a current gold payment requirement.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Gold tranche is the historical expression associated with the modern reserve tranche position, not an additional parallel IMF facility.
+
+> **ANSWER-GRABBING LINE:** Gold tranche terminology matters because terminological history explains why a reserve claim may appear under two names.
+
+**MUST-WRITE KEYWORDS:** gold tranche, reserve tranche, historical term, reserve asset
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Gold tranche terminology matters because terminological history explains why a reserve claim may appear under two names.
+- **Named evidence:** The routed 2020 Prelims demand tests the relationship between the old gold-tranche label and the reserve tranche.
+- **Analysis:** Terminological history explains why a reserve claim may appear under two names.
+- **Qualification / demand link:** Modern reserve assets are not defined by a current gold payment requirement.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The routed 2020 Prelims demand tests the relationship between the old gold-tranche label and the reserve tranche.
+- **Analytical inference:** Terminological history explains why a reserve claim may appear under two names.
+- **Qualification:** Modern reserve assets are not defined by a current gold payment requirement.
+
+#### PRELIMS TRAP
+
+Do not count gold tranche and reserve tranche as two facilities.
+
+#### MAINS USE
+
+State the historical synonym and current accounting treatment.
+
+#### MINI RECAP
+
+- Definition: Gold tranche is the historical expression associated with the modern reserve tranche position, not an additional parallel IMF facility.
+- Evidence anchor: The routed 2020 Prelims demand tests the relationship between the old gold-tranche label and the reserve tranche.
+- Verdict: Gold tranche terminology matters because terminological history explains why a reserve claim may appear under two names.
+
+### CORE SESSION 26 - Special Drawing Right
+
+#### VISUAL FIRST
+
+```text
+SPECIAL DRAWING RIGHT
+IMF allocation -> member SDR holding -> exchange/use -> reserve position
+BOUNDARY -> The SDR is neither retail money nor a claim on the IMF itself; it is a potential claim on freely usable currencies.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The SDR is an IMF-created international reserve asset and unit of account whose value is based on a basket of five currencies.
+
+> **ANSWER-GRABBING LINE:** Special Drawing Right matters because sDRs supplement reserves and can be exchanged for freely usable currency among participants.
+
+**MUST-WRITE KEYWORDS:** SDR, reserve asset, unit of account, freely usable currency, basket
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Special Drawing Right matters because sDRs supplement reserves and can be exchanged for freely usable currency among participants.
+- **Named evidence:** The current basket contains the US dollar, euro, Chinese renminbi, Japanese yen and pound sterling.
+- **Analysis:** SDRs supplement reserves and can be exchanged for freely usable currency among participants.
+- **Qualification / demand link:** The SDR is neither retail money nor a claim on the IMF itself; it is a potential claim on freely usable currencies.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The current basket contains the US dollar, euro, Chinese renminbi, Japanese yen and pound sterling.
+- **Analytical inference:** SDRs supplement reserves and can be exchanged for freely usable currency among participants.
+- **Qualification:** The SDR is neither retail money nor a claim on the IMF itself; it is a potential claim on freely usable currencies.
+
+#### PRELIMS TRAP
+
+Do not call SDR a global currency circulating among households.
+
+#### MAINS USE
+
+Define its asset, accounting and exchange roles separately.
+
+#### MINI RECAP
+
+- Definition: The SDR is an IMF-created international reserve asset and unit of account whose value is based on a basket of five currencies.
+- Evidence anchor: The current basket contains the US dollar, euro, Chinese renminbi, Japanese yen and pound sterling.
+- Verdict: Special Drawing Right matters because sDRs supplement reserves and can be exchanged for freely usable currency among participants.
+
+### CORE SESSION 27 - SDR allocation
+
+#### VISUAL FIRST
+
+```text
+SDR ALLOCATION
+global long-term reserve need -> 85% approval -> quota-proportionate allocation
+BOUNDARY -> It is not targeted by need, creates an equal allocation and liability entry, and using acquired SDRs can involve charges.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+A general SDR allocation distributes newly created SDRs to participants broadly in proportion to IMF quota shares.
+
+> **ANSWER-GRABBING LINE:** SDR allocation matters because allocation can add reserve liquidity without a country-specific loan negotiation.
+
+**MUST-WRITE KEYWORDS:** general allocation, quota proportion, reserve liquidity, holdings, allocations
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** SDR allocation matters because allocation can add reserve liquidity without a country-specific loan negotiation.
+- **Named evidence:** The IMF made a general allocation of SDR 456.5 billion effective 23 August 2021.
+- **Analysis:** Allocation can add reserve liquidity without a country-specific loan negotiation.
+- **Qualification / demand link:** It is not targeted by need, creates an equal allocation and liability entry, and using acquired SDRs can involve charges.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The IMF made a general allocation of SDR 456.5 billion effective 23 August 2021.
+- **Analytical inference:** Allocation can add reserve liquidity without a country-specific loan negotiation.
+- **Qualification:** It is not targeted by need, creates an equal allocation and liability entry, and using acquired SDRs can involve charges.
+
+#### PRELIMS TRAP
+
+Do not record an SDR allocation as free fiscal revenue.
+
+#### MAINS USE
+
+Use allocation design to discuss unequal distribution and rechannelling.
+
+#### MINI RECAP
+
+- Definition: A general SDR allocation distributes newly created SDRs to participants broadly in proportion to IMF quota shares.
+- Evidence anchor: The IMF made a general allocation of SDR 456.5 billion effective 23 August 2021.
+- Verdict: SDR allocation matters because allocation can add reserve liquidity without a country-specific loan negotiation.
+
+### CORE SESSION 28 - SDR valuation basket
+
+#### VISUAL FIRST
+
+```text
+SDR VALUATION BASKET
+five-currency basket -> fixed amounts -> daily exchange rates -> SDR value
+BOUNDARY -> Weights are not the same as the fixed currency amounts used in daily valuation, and the dollar value changes daily.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The SDR's daily value is calculated from fixed currency amounts derived from reviewed basket weights and market exchange rates.
+
+> **ANSWER-GRABBING LINE:** SDR valuation basket matters because a diversified basket reduces dependence on one currency for the unit of account.
+
+**MUST-WRITE KEYWORDS:** valuation basket, USD, euro, renminbi, yen, sterling, daily value
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** SDR valuation basket matters because a diversified basket reduces dependence on one currency for the unit of account.
+- **Named evidence:** Weights effective 1 August 2022 are US dollar 43.38%, euro 29.31%, renminbi 12.28%, yen 7.59% and sterling 7.44%; the next review is scheduled for 2027.
+- **Analysis:** A diversified basket reduces dependence on one currency for the unit of account.
+- **Qualification / demand link:** Weights are not the same as the fixed currency amounts used in daily valuation, and the dollar value changes daily.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Weights effective 1 August 2022 are US dollar 43.38%, euro 29.31%, renminbi 12.28%, yen 7.59% and sterling 7.44%; the next review is scheduled for 2027.
+- **Analytical inference:** A diversified basket reduces dependence on one currency for the unit of account.
+- **Qualification:** Weights are not the same as the fixed currency amounts used in daily valuation, and the dollar value changes daily.
+
+#### PRELIMS TRAP
+
+Do not freeze one day's SDR-dollar rate as a permanent conversion.
+
+#### MAINS USE
+
+Date the basket and distinguish weights from currency amounts.
+
+#### MINI RECAP
+
+- Definition: The SDR's daily value is calculated from fixed currency amounts derived from reviewed basket weights and market exchange rates.
+- Evidence anchor: Weights effective 1 August 2022 are US dollar 43.38%, euro 29.31%, renminbi 12.28%, yen 7.59% and sterling 7.44%; the next review is scheduled for 2027.
+- Verdict: SDR valuation basket matters because a diversified basket reduces dependence on one currency for the unit of account.
+
+### CORE SESSION 29 - IMF crisis finance in the global safety net
+
+#### VISUAL FIRST
+
+```text
+IMF CRISIS FINANCE IN THE GLOBAL SAFETY NET
+shock -> reserves/market response -> regional or swap support -> IMF programme
+BOUNDARY -> Access remains uneven, and solvency problems require restructuring rather than liquidity alone.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+IMF lending is the near-universal pooled layer of the global financial safety net when reserves and market access are insufficient.
+
+> **ANSWER-GRABBING LINE:** IMF crisis finance in the global safety net matters because pooling can be more efficient than universal self-insurance through costly reserve accumulation.
+
+**MUST-WRITE KEYWORDS:** global financial safety net, liquidity, solvency, pooling, access
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** IMF crisis finance in the global safety net matters because pooling can be more efficient than universal self-insurance through costly reserve accumulation.
+- **Named evidence:** The IMF's 2025 safety-net stocktaking identifies reserves, bilateral swaps, regional financing arrangements and the Fund as complementary layers.
+- **Analysis:** Pooling can be more efficient than universal self-insurance through costly reserve accumulation.
+- **Qualification / demand link:** Access remains uneven, and solvency problems require restructuring rather than liquidity alone.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The IMF's 2025 safety-net stocktaking identifies reserves, bilateral swaps, regional financing arrangements and the Fund as complementary layers.
+- **Analytical inference:** Pooling can be more efficient than universal self-insurance through costly reserve accumulation.
+- **Qualification:** Access remains uneven, and solvency problems require restructuring rather than liquidity alone.
+
+#### PRELIMS TRAP
+
+Do not use a liquidity facility to conceal unsustainable debt.
+
+#### MAINS USE
+
+Diagnose liquidity, solvency and adjustment before prescribing the layer.
+
+#### MINI RECAP
+
+- Definition: IMF lending is the near-universal pooled layer of the global financial safety net when reserves and market access are insufficient.
+- Evidence anchor: The IMF's 2025 safety-net stocktaking identifies reserves, bilateral swaps, regional financing arrangements and the Fund as complementary layers.
+- Verdict: IMF crisis finance in the global safety net matters because pooling can be more efficient than universal self-insurance through costly reserve accumulation.
+
+### CORE SESSION 30 - India and the 1991 IMF episode
+
+#### VISUAL FIRST
+
+```text
+INDIA AND THE 1991 IMF EPISODE
+reserve stress -> external assistance -> stabilisation -> structural reform -> recovery
+BOUNDARY -> Not every 1991 reform was mechanically dictated by one IMF condition, and India has no current IMF programme.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+India's 1991 IMF engagement was part of a severe balance-of-payments adjustment alongside domestic structural reforms.
+
+> **ANSWER-GRABBING LINE:** India and the 1991 IMF episode matters because the episode shows how crisis finance can support adjustment while domestic political choices determine reform design.
+
+**MUST-WRITE KEYWORDS:** 1991 crisis, stabilisation, structural reform, policy ownership, historical case
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** India and the 1991 IMF episode matters because the episode shows how crisis finance can support adjustment while domestic political choices determine reform design.
+- **Named evidence:** Ramesh Singh's historical account and the canonical owner use 1991 to distinguish IMF stabilisation from development-project finance.
+- **Analysis:** The episode shows how crisis finance can support adjustment while domestic political choices determine reform design.
+- **Qualification / demand link:** Not every 1991 reform was mechanically dictated by one IMF condition, and India has no current IMF programme.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Ramesh Singh's historical account and the canonical owner use 1991 to distinguish IMF stabilisation from development-project finance.
+- **Analytical inference:** The episode shows how crisis finance can support adjustment while domestic political choices determine reform design.
+- **Qualification:** Not every 1991 reform was mechanically dictated by one IMF condition, and India has no current IMF programme.
+
+#### PRELIMS TRAP
+
+Do not project 1991 conditionality onto routine Article IV surveillance today.
+
+#### MAINS USE
+
+Use 1991 as a bounded historical example, not a universal template.
+
+#### MINI RECAP
+
+- Definition: India's 1991 IMF engagement was part of a severe balance-of-payments adjustment alongside domestic structural reforms.
+- Evidence anchor: Ramesh Singh's historical account and the canonical owner use 1991 to distinguish IMF stabilisation from development-project finance.
+- Verdict: India and the 1991 IMF episode matters because the episode shows how crisis finance can support adjustment while domestic political choices determine reform design.
+
+### CORE SESSION 31 - IMF governance reform debate
+
+#### VISUAL FIRST
+
+```text
+IMF GOVERNANCE REFORM DEBATE
+economic weights change -> representation gap -> reform bargain -> ratification
+BOUNDARY -> A larger quota envelope is not the same as voice reform.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+IMF reform concerns quota realignment, basic votes, board representation, resource adequacy, leadership selection and programme legitimacy.
+
+> **ANSWER-GRABBING LINE:** IMF governance reform debate matters because more representative governance can improve legitimacy, but resource contributions and creditor confidence remain relevant.
+
+**MUST-WRITE KEYWORDS:** quota realignment, basic votes, legitimacy, leadership selection, resources
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** IMF governance reform debate matters because more representative governance can improve legitimacy, but resource contributions and creditor confidence remain relevant.
+- **Named evidence:** The 16th Review raises total quotas equiproportionally while leaving relative shares unchanged.
+- **Analysis:** More representative governance can improve legitimacy, but resource contributions and creditor confidence remain relevant.
+- **Qualification / demand link:** A larger quota envelope is not the same as voice reform.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The 16th Review raises total quotas equiproportionally while leaving relative shares unchanged.
+- **Analytical inference:** More representative governance can improve legitimacy, but resource contributions and creditor confidence remain relevant.
+- **Qualification:** A larger quota envelope is not the same as voice reform.
+
+#### PRELIMS TRAP
+
+Do not equate institutional reform with simply increasing total lending.
+
+#### MAINS USE
+
+Frame reform around voice, capacity, accountability and effectiveness.
+
+#### MINI RECAP
+
+- Definition: IMF reform concerns quota realignment, basic votes, board representation, resource adequacy, leadership selection and programme legitimacy.
+- Evidence anchor: The 16th Review raises total quotas equiproportionally while leaving relative shares unchanged.
+- Verdict: IMF governance reform debate matters because more representative governance can improve legitimacy, but resource contributions and creditor confidence remain relevant.
+
+### CORE SESSION 32 - World Bank versus World Bank Group
+
+#### VISUAL FIRST
+
+```text
+WORLD BANK VERSUS WORLD BANK GROUP
+World Bank = IBRD + IDA | Group = plus IFC + MIGA + ICSID
+BOUNDARY -> Coordination under one group does not erase separate Articles, membership and balance sheets.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+World Bank commonly means IBRD and IDA; World Bank Group additionally includes IFC, MIGA and ICSID.
+
+> **ANSWER-GRABBING LINE:** World Bank versus World Bank Group matters because the distinction prevents sovereign lending from being confused with private finance, guarantees or arbitration facilities.
+
+**MUST-WRITE KEYWORDS:** World Bank, World Bank Group, IBRD, IDA, IFC, MIGA, ICSID
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** World Bank versus World Bank Group matters because the distinction prevents sovereign lending from being confused with private finance, guarantees or arbitration facilities.
+- **Named evidence:** Official World Bank pages identify five legally distinct institutions with related development purposes.
+- **Analysis:** The distinction prevents sovereign lending from being confused with private finance, guarantees or arbitration facilities.
+- **Qualification / demand link:** Coordination under one group does not erase separate Articles, membership and balance sheets.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Official World Bank pages identify five legally distinct institutions with related development purposes.
+- **Analytical inference:** The distinction prevents sovereign lending from being confused with private finance, guarantees or arbitration facilities.
+- **Qualification:** Coordination under one group does not erase separate Articles, membership and balance sheets.
+
+#### PRELIMS TRAP
+
+Do not list IFC as an IMF arm or call ICSID a lender.
+
+#### MAINS USE
+
+Start any World Bank answer with the two-versus-five distinction.
+
+#### MINI RECAP
+
+- Definition: World Bank commonly means IBRD and IDA; World Bank Group additionally includes IFC, MIGA and ICSID.
+- Evidence anchor: Official World Bank pages identify five legally distinct institutions with related development purposes.
+- Verdict: World Bank versus World Bank Group matters because the distinction prevents sovereign lending from being confused with private finance, guarantees or arbitration facilities.
+
+### CORE SESSION 33 - IBRD mandate
+
+#### VISUAL FIRST
+
+```text
+IBRD MANDATE
+shareholder capital -> bond borrowing -> sovereign loan/guarantee -> repayment
+BOUNDARY -> IBRD is not the only institution working to reduce poverty and does not target only the poorest countries.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+IBRD lends to creditworthy middle-income and eligible lower-income sovereign borrowers and raises most lending funds in capital markets.
+
+> **ANSWER-GRABBING LINE:** IBRD mandate matters because its market-based funding and preferred-creditor standing support long maturities at terms linked to funding and risk.
+
+**MUST-WRITE KEYWORDS:** IBRD, creditworthy sovereign, bonds, loans, guarantees, reconstruction
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** IBRD mandate matters because its market-based funding and preferred-creditor standing support long maturities at terms linked to funding and risk.
+- **Named evidence:** The 2025 UPSC question correctly links IBRD to post-war reconstruction and loans or guarantees for middle-income countries.
+- **Analysis:** Its market-based funding and preferred-creditor standing support long maturities at terms linked to funding and risk.
+- **Qualification / demand link:** IBRD is not the only institution working to reduce poverty and does not target only the poorest countries.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The 2025 UPSC question correctly links IBRD to post-war reconstruction and loans or guarantees for middle-income countries.
+- **Analytical inference:** Its market-based funding and preferred-creditor standing support long maturities at terms linked to funding and risk.
+- **Qualification:** IBRD is not the only institution working to reduce poverty and does not target only the poorest countries.
+
+#### PRELIMS TRAP
+
+Do not merge IBRD with IDA's concessional window.
+
+#### MAINS USE
+
+Connect creditworthiness, market borrowing and sovereign development finance.
+
+#### MINI RECAP
+
+- Definition: IBRD lends to creditworthy middle-income and eligible lower-income sovereign borrowers and raises most lending funds in capital markets.
+- Evidence anchor: The 2025 UPSC question correctly links IBRD to post-war reconstruction and loans or guarantees for middle-income countries.
+- Verdict: IBRD mandate matters because its market-based funding and preferred-creditor standing support long maturities at terms linked to funding and risk.
+
+### CORE SESSION 34 - IDA mandate and eligibility
+
+#### VISUAL FIRST
+
+```text
+IDA MANDATE AND ELIGIBILITY
+donor replenishment + repayments -> concessional credit/grant -> development
+BOUNDARY -> The cutoff and eligible list are updated; blend countries can access both IDA and IBRD.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+IDA provides concessional credits and grants to eligible poorer countries, with eligibility based mainly on income and creditworthiness.
+
+> **ANSWER-GRABBING LINE:** IDA mandate and eligibility matters because concessionality expands fiscal space for high-development-return investments where market borrowing is costly.
+
+**MUST-WRITE KEYWORDS:** IDA, concessional credit, grant, FY2027, USD 1,365, blend country
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** IDA mandate and eligibility matters because concessionality expands fiscal space for high-development-return investments where market borrowing is costly.
+- **Named evidence:** The official IDA page states that 78 countries are eligible in FY2027 and uses a GNI-per-capita operational cutoff of USD 1,365, with exceptions including some small economies.
+- **Analysis:** Concessionality expands fiscal space for high-development-return investments where market borrowing is costly.
+- **Qualification / demand link:** The cutoff and eligible list are updated; blend countries can access both IDA and IBRD.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The official IDA page states that 78 countries are eligible in FY2027 and uses a GNI-per-capita operational cutoff of USD 1,365, with exceptions including some small economies.
+- **Analytical inference:** Concessionality expands fiscal space for high-development-return investments where market borrowing is costly.
+- **Qualification:** The cutoff and eligible list are updated; blend countries can access both IDA and IBRD.
+
+#### PRELIMS TRAP
+
+Do not say every low-income country receives grants or that all IDA members borrow.
+
+#### MAINS USE
+
+Date eligibility and distinguish members, donors, recipients and blend countries.
+
+#### MINI RECAP
+
+- Definition: IDA provides concessional credits and grants to eligible poorer countries, with eligibility based mainly on income and creditworthiness.
+- Evidence anchor: The official IDA page states that 78 countries are eligible in FY2027 and uses a GNI-per-capita operational cutoff of USD 1,365, with exceptions including some small economies.
+- Verdict: IDA mandate and eligibility matters because concessionality expands fiscal space for high-development-return investments where market borrowing is costly.
+
+### CORE SESSION 35 - IFC mandate
+
+#### VISUAL FIRST
+
+```text
+IFC MANDATE
+private project -> IFC appraisal -> debt/equity/mobilisation -> development impact
+BOUNDARY -> Commercial discipline and development additionality must both be tested; IFC is not a grant agency.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+IFC finances and mobilises private investment in developing countries through loans, equity, guarantees and advisory work without sovereign guarantees as its ordinary model.
+
+> **ANSWER-GRABBING LINE:** IFC mandate matters because iFC can absorb risk, demonstrate viability and mobilise capital where markets underprovide.
+
+**MUST-WRITE KEYWORDS:** IFC, private sector, equity, loan, mobilisation, additionality
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** IFC mandate matters because iFC can absorb risk, demonstrate viability and mobilise capital where markets underprovide.
+- **Named evidence:** IFC's official governance page states that it is owned by 186 members and uses share-capital-weighted voting.
+- **Analysis:** IFC can absorb risk, demonstrate viability and mobilise capital where markets underprovide.
+- **Qualification / demand link:** Commercial discipline and development additionality must both be tested; IFC is not a grant agency.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** IFC's official governance page states that it is owned by 186 members and uses share-capital-weighted voting.
+- **Analytical inference:** IFC can absorb risk, demonstrate viability and mobilise capital where markets underprovide.
+- **Qualification:** Commercial discipline and development additionality must both be tested; IFC is not a grant agency.
+
+#### PRELIMS TRAP
+
+Do not call IFC a sovereign concessional lender.
+
+#### MAINS USE
+
+Use client type and instrument to distinguish IFC from IBRD and IDA.
+
+#### MINI RECAP
+
+- Definition: IFC finances and mobilises private investment in developing countries through loans, equity, guarantees and advisory work without sovereign guarantees as its ordinary model.
+- Evidence anchor: IFC's official governance page states that it is owned by 186 members and uses share-capital-weighted voting.
+- Verdict: IFC mandate matters because iFC can absorb risk, demonstrate viability and mobilise capital where markets underprovide.
+
+### CORE SESSION 36 - MIGA mandate
+
+#### VISUAL FIRST
+
+```text
+MIGA MANDATE
+eligible investment -> guarantee -> risk reduction -> private capital mobilisation
+BOUNDARY -> A guarantee covers defined risks and terms; it does not eliminate commercial failure or all sovereign risk.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+MIGA promotes cross-border investment through political-risk insurance and credit enhancement rather than ordinary project lending.
+
+> **ANSWER-GRABBING LINE:** MIGA mandate matters because risk transfer can make projects financeable by protecting against specified non-commercial risks.
+
+**MUST-WRITE KEYWORDS:** MIGA, political-risk insurance, credit enhancement, expropriation, mobilisation
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** MIGA mandate matters because risk transfer can make projects financeable by protecting against specified non-commercial risks.
+- **Named evidence:** MIGA's current member page lists 182 members: 154 developing and 28 industrialised countries.
+- **Analysis:** Risk transfer can make projects financeable by protecting against specified non-commercial risks.
+- **Qualification / demand link:** A guarantee covers defined risks and terms; it does not eliminate commercial failure or all sovereign risk.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** MIGA's current member page lists 182 members: 154 developing and 28 industrialised countries.
+- **Analytical inference:** Risk transfer can make projects financeable by protecting against specified non-commercial risks.
+- **Qualification:** A guarantee covers defined risks and terms; it does not eliminate commercial failure or all sovereign risk.
+
+#### PRELIMS TRAP
+
+Do not describe MIGA as paying grants to governments.
+
+#### MAINS USE
+
+Explain risk covered, beneficiary and mobilisation channel.
+
+#### MINI RECAP
+
+- Definition: MIGA promotes cross-border investment through political-risk insurance and credit enhancement rather than ordinary project lending.
+- Evidence anchor: MIGA's current member page lists 182 members: 154 developing and 28 industrialised countries.
+- Verdict: MIGA mandate matters because risk transfer can make projects financeable by protecting against specified non-commercial risks.
+
+### CORE SESSION 37 - ICSID mandate and India's status
+
+#### VISUAL FIRST
+
+```text
+ICSID MANDATE AND INDIA'S STATUS
+consent -> registration -> tribunal -> award -> recognition/enforcement
+BOUNDARY -> Jurisdiction depends on consent and the applicable treaty or contract; ICSID does not finance projects.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+ICSID administers conciliation and arbitration of qualifying investment disputes between states and foreign investors under consent-based legal instruments.
+
+> **ANSWER-GRABBING LINE:** ICSID mandate and India's status matters because a specialised forum can depoliticise disputes and support investment confidence.
+
+**MUST-WRITE KEYWORDS:** ICSID, arbitration, consent, Contracting State, India non-member
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** ICSID mandate and India's status matters because a specialised forum can depoliticise disputes and support investment confidence.
+- **Named evidence:** Official ICSID lists dated August 2026 record 166 signatories and 158 Contracting States; India is neither a signatory nor a Contracting State.
+- **Analysis:** A specialised forum can depoliticise disputes and support investment confidence.
+- **Qualification / demand link:** Jurisdiction depends on consent and the applicable treaty or contract; ICSID does not finance projects.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Official ICSID lists dated August 2026 record 166 signatories and 158 Contracting States; India is neither a signatory nor a Contracting State.
+- **Analytical inference:** A specialised forum can depoliticise disputes and support investment confidence.
+- **Qualification:** Jurisdiction depends on consent and the applicable treaty or contract; ICSID does not finance projects.
+
+#### PRELIMS TRAP
+
+Do not list India as an ICSID Convention member merely because it belongs to the World Bank.
+
+#### MAINS USE
+
+Separate institutional affiliation, treaty membership, jurisdiction and award enforcement.
+
+#### MINI RECAP
+
+- Definition: ICSID administers conciliation and arbitration of qualifying investment disputes between states and foreign investors under consent-based legal instruments.
+- Evidence anchor: Official ICSID lists dated August 2026 record 166 signatories and 158 Contracting States; India is neither a signatory nor a Contracting State.
+- Verdict: ICSID mandate and India's status matters because a specialised forum can depoliticise disputes and support investment confidence.
+
+### CORE SESSION 38 - World Bank Group membership and governance
+
+#### VISUAL FIRST
+
+```text
+WORLD BANK GROUP MEMBERSHIP AND GOVERNANCE
+membership -> subscription -> governors -> executive directors -> operations
+BOUNDARY -> ICSID membership is separate, and member counts differ across the five institutions.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+World Bank Group institutions are owned by member governments but have institution-specific membership and weighted voting arrangements.
+
+> **ANSWER-GRABBING LINE:** World Bank Group membership and governance matters because weighted governance connects financial stake to voice while boards enable continuous oversight.
+
+**MUST-WRITE KEYWORDS:** member government, Board of Governors, Executive Directors, weighted voting
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** World Bank Group membership and governance matters because weighted governance connects financial stake to voice while boards enable continuous oversight.
+- **Named evidence:** World Bank governance material checked at the cutoff lists 189 IBRD members, 182 MIGA members and 25 resident Executive Directors; IDA, IFC and MIGA membership requires prior IBRD membership.
+- **Analysis:** Weighted governance connects financial stake to voice while boards enable continuous oversight.
+- **Qualification / demand link:** ICSID membership is separate, and member counts differ across the five institutions.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** World Bank governance material checked at the cutoff lists 189 IBRD members, 182 MIGA members and 25 resident Executive Directors; IDA, IFC and MIGA membership requires prior IBRD membership.
+- **Analytical inference:** Weighted governance connects financial stake to voice while boards enable continuous oversight.
+- **Qualification:** ICSID membership is separate, and member counts differ across the five institutions.
+
+#### PRELIMS TRAP
+
+Do not apply one institution's vote share or membership list to all five.
+
+#### MAINS USE
+
+Date the institution-specific count and identify its governing board.
+
+#### MINI RECAP
+
+- Definition: World Bank Group institutions are owned by member governments but have institution-specific membership and weighted voting arrangements.
+- Evidence anchor: World Bank governance material checked at the cutoff lists 189 IBRD members, 182 MIGA members and 25 resident Executive Directors; IDA, IFC and MIGA membership requires prior IBRD membership.
+- Verdict: World Bank Group membership and governance matters because weighted governance connects financial stake to voice while boards enable continuous oversight.
+
+### CORE SESSION 39 - World Bank leadership
+
+#### VISUAL FIRST
+
+```text
+WORLD BANK LEADERSHIP
+Executive Directors select -> President leads -> Boards approve
+BOUNDARY -> The officeholder and term are current facts and require a dated source.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The World Bank Group President chairs the IBRD and IDA Executive Boards and leads Group strategy, subject to member governance.
+
+> **ANSWER-GRABBING LINE:** World Bank leadership matters because leadership matters for operational priorities but cannot replace Board approvals or member Articles.
+
+**MUST-WRITE KEYWORDS:** Ajay Banga, 2 June 2023, five-year term, Board, leadership
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** World Bank leadership matters because leadership matters for operational priorities but cannot replace Board approvals or member Articles.
+- **Named evidence:** Ajay Banga began a five-year term as the 14th World Bank President on 2 June 2023.
+- **Analysis:** Leadership matters for operational priorities but cannot replace Board approvals or member Articles.
+- **Qualification / demand link:** The officeholder and term are current facts and require a dated source.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Ajay Banga began a five-year term as the 14th World Bank President on 2 June 2023.
+- **Analytical inference:** Leadership matters for operational priorities but cannot replace Board approvals or member Articles.
+- **Qualification:** The officeholder and term are current facts and require a dated source.
+
+#### PRELIMS TRAP
+
+Do not attribute every institutional decision personally to the President.
+
+#### MAINS USE
+
+Use leadership only after explaining formal governance.
+
+#### MINI RECAP
+
+- Definition: The World Bank Group President chairs the IBRD and IDA Executive Boards and leads Group strategy, subject to member governance.
+- Evidence anchor: Ajay Banga began a five-year term as the 14th World Bank President on 2 June 2023.
+- Verdict: World Bank leadership matters because leadership matters for operational priorities but cannot replace Board approvals or member Articles.
+
+### CORE SESSION 40 - IBRD financing model
+
+#### VISUAL FIRST
+
+```text
+IBRD FINANCING MODEL
+capital strength -> AAA borrowing -> long-term finance -> repayment -> recycled capacity
+BOUNDARY -> Callable capital is a backstop, not routine cash available for immediate spending.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+IBRD combines paid-in and callable shareholder capital, retained earnings and market borrowing to fund sovereign loans and guarantees.
+
+> **ANSWER-GRABBING LINE:** IBRD financing model matters because leverage expands development lending beyond paid-in capital while risk controls preserve borrowing costs.
+
+**MUST-WRITE KEYWORDS:** paid-in capital, callable capital, bonds, AAA, lending capacity
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** IBRD financing model matters because leverage expands development lending beyond paid-in capital while risk controls preserve borrowing costs.
+- **Named evidence:** World Bank financial material identifies bond issuance as a central IBRD funding source.
+- **Analysis:** Leverage expands development lending beyond paid-in capital while risk controls preserve borrowing costs.
+- **Qualification / demand link:** Callable capital is a backstop, not routine cash available for immediate spending.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** World Bank financial material identifies bond issuance as a central IBRD funding source.
+- **Analytical inference:** Leverage expands development lending beyond paid-in capital while risk controls preserve borrowing costs.
+- **Qualification:** Callable capital is a backstop, not routine cash available for immediate spending.
+
+#### PRELIMS TRAP
+
+Do not equate authorised capital with annual lending.
+
+#### MAINS USE
+
+Distinguish subscribed, paid-in, callable, borrowed and disbursed amounts.
+
+#### MINI RECAP
+
+- Definition: IBRD combines paid-in and callable shareholder capital, retained earnings and market borrowing to fund sovereign loans and guarantees.
+- Evidence anchor: World Bank financial material identifies bond issuance as a central IBRD funding source.
+- Verdict: IBRD financing model matters because leverage expands development lending beyond paid-in capital while risk controls preserve borrowing costs.
+
+### CORE SESSION 41 - IDA replenishment model
+
+#### VISUAL FIRST
+
+```text
+IDA REPLENISHMENT MODEL
+donor negotiation -> replenishment envelope -> country allocation -> credit/grant
+BOUNDARY -> Pledges, commitments and disbursements are different stages, and grant allocation depends on debt risk and policy rules.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+IDA resources are periodically replenished by donor contributions, internal transfers, repayments and market funding to support concessional finance.
+
+> **ANSWER-GRABBING LINE:** IDA replenishment model matters because replenishment converts collective contributions into predictable development capacity.
+
+**MUST-WRITE KEYWORDS:** replenishment, concessionality, donor, allocation, grant, credit
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** IDA replenishment model matters because replenishment converts collective contributions into predictable development capacity.
+- **Named evidence:** IDA financing pages describe multi-year replenishments and concessional terms for eligible borrowers.
+- **Analysis:** Replenishment converts collective contributions into predictable development capacity.
+- **Qualification / demand link:** Pledges, commitments and disbursements are different stages, and grant allocation depends on debt risk and policy rules.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** IDA financing pages describe multi-year replenishments and concessional terms for eligible borrowers.
+- **Analytical inference:** Replenishment converts collective contributions into predictable development capacity.
+- **Qualification:** Pledges, commitments and disbursements are different stages, and grant allocation depends on debt risk and policy rules.
+
+#### PRELIMS TRAP
+
+Do not report a replenishment headline as money already disbursed to one country.
+
+#### MAINS USE
+
+Use stage, eligibility and financing terms in any IDA statistic.
+
+#### MINI RECAP
+
+- Definition: IDA resources are periodically replenished by donor contributions, internal transfers, repayments and market funding to support concessional finance.
+- Evidence anchor: IDA financing pages describe multi-year replenishments and concessional terms for eligible borrowers.
+- Verdict: IDA replenishment model matters because replenishment converts collective contributions into predictable development capacity.
+
+### CORE SESSION 42 - Country Partnership Framework
+
+#### VISUAL FIRST
+
+```text
+COUNTRY PARTNERSHIP FRAMEWORK
+diagnostic -> country priorities -> CPF objectives -> operations -> learning review
+BOUNDARY -> The framework guides programming but does not guarantee finance or substitute for project approval.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+A Country Partnership Framework aligns World Bank Group engagement with a country's development priorities and the Group's comparative advantage.
+
+> **ANSWER-GRABBING LINE:** Country Partnership Framework matters because a common framework can coordinate IBRD, IDA, IFC and MIGA instruments around outcomes.
+
+**MUST-WRITE KEYWORDS:** CPF, diagnostic, selectivity, country ownership, outcomes
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Country Partnership Framework matters because a common framework can coordinate IBRD, IDA, IFC and MIGA instruments around outcomes.
+- **Named evidence:** World Bank guidance uses country diagnostics and partnership frameworks to organise multi-year engagement.
+- **Analysis:** A common framework can coordinate IBRD, IDA, IFC and MIGA instruments around outcomes.
+- **Qualification / demand link:** The framework guides programming but does not guarantee finance or substitute for project approval.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** World Bank guidance uses country diagnostics and partnership frameworks to organise multi-year engagement.
+- **Analytical inference:** A common framework can coordinate IBRD, IDA, IFC and MIGA instruments around outcomes.
+- **Qualification:** The framework guides programming but does not guarantee finance or substitute for project approval.
+
+#### PRELIMS TRAP
+
+Do not treat a strategy document as a sovereign loan agreement.
+
+#### MAINS USE
+
+Link country ownership, selectivity and measurable outcomes.
+
+#### MINI RECAP
+
+- Definition: A Country Partnership Framework aligns World Bank Group engagement with a country's development priorities and the Group's comparative advantage.
+- Evidence anchor: World Bank guidance uses country diagnostics and partnership frameworks to organise multi-year engagement.
+- Verdict: Country Partnership Framework matters because a common framework can coordinate IBRD, IDA, IFC and MIGA instruments around outcomes.
+
+### CORE SESSION 43 - MDB project cycle
+
+#### VISUAL FIRST
+
+```text
+MDB PROJECT CYCLE
+identify -> prepare -> appraise -> negotiate/approve -> implement -> evaluate
+BOUNDARY -> Stages overlap and differ by instrument; Board approval is not disbursement or successful completion.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The project cycle moves from identification and preparation through appraisal, negotiation, approval, implementation, completion and evaluation.
+
+> **ANSWER-GRABBING LINE:** MDB project cycle matters because sequencing tests technical, economic, financial, environmental and implementation readiness before resources are committed.
+
+**MUST-WRITE KEYWORDS:** identification, preparation, appraisal, approval, implementation, evaluation
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** MDB project cycle matters because sequencing tests technical, economic, financial, environmental and implementation readiness before resources are committed.
+- **Named evidence:** The World Bank project-cycle guidance assigns preparation mainly to the borrower and appraisal and approval roles to Bank teams and the Board.
+- **Analysis:** Sequencing tests technical, economic, financial, environmental and implementation readiness before resources are committed.
+- **Qualification / demand link:** Stages overlap and differ by instrument; Board approval is not disbursement or successful completion.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The World Bank project-cycle guidance assigns preparation mainly to the borrower and appraisal and approval roles to Bank teams and the Board.
+- **Analytical inference:** Sequencing tests technical, economic, financial, environmental and implementation readiness before resources are committed.
+- **Qualification:** Stages overlap and differ by instrument; Board approval is not disbursement or successful completion.
+
+#### PRELIMS TRAP
+
+Do not call a proposed or approved project completed.
+
+#### MAINS USE
+
+Use the lifecycle to diagnose delay, redesign and accountability.
+
+#### MINI RECAP
+
+- Definition: The project cycle moves from identification and preparation through appraisal, negotiation, approval, implementation, completion and evaluation.
+- Evidence anchor: The World Bank project-cycle guidance assigns preparation mainly to the borrower and appraisal and approval roles to Bank teams and the Board.
+- Verdict: MDB project cycle matters because sequencing tests technical, economic, financial, environmental and implementation readiness before resources are committed.
+
+### CORE SESSION 44 - IPF, DPF and Program-for-Results
+
+#### VISUAL FIRST
+
+```text
+IPF, DPF AND PROGRAM-FOR-RESULTS
+physical investment | policy action | verified programme result
+BOUNDARY -> A DPF operation is not an IMF programme, and PforR is not reimbursement for any expenditure.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Investment Project Financing funds defined activities, Development Policy Financing supports policy and institutional actions, and Program-for-Results links disbursement to verified results using country systems.
+
+> **ANSWER-GRABBING LINE:** IPF, DPF and Program-for-Results matters because instrument choice changes fiduciary controls, timing and the transmission from finance to outcomes.
+
+**MUST-WRITE KEYWORDS:** IPF, DPF, PforR, disbursement-linked result, policy action
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** IPF, DPF and Program-for-Results matters because instrument choice changes fiduciary controls, timing and the transmission from finance to outcomes.
+- **Named evidence:** World Bank operational categories distinguish IPF, DPF and PforR by object and disbursement logic.
+- **Analysis:** Instrument choice changes fiduciary controls, timing and the transmission from finance to outcomes.
+- **Qualification / demand link:** A DPF operation is not an IMF programme, and PforR is not reimbursement for any expenditure.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** World Bank operational categories distinguish IPF, DPF and PforR by object and disbursement logic.
+- **Analytical inference:** Instrument choice changes fiduciary controls, timing and the transmission from finance to outcomes.
+- **Qualification:** A DPF operation is not an IMF programme, and PforR is not reimbursement for any expenditure.
+
+#### PRELIMS TRAP
+
+Do not infer a project asset from every World Bank loan.
+
+#### MAINS USE
+
+Name the financing instrument before evaluating conditions.
+
+#### MINI RECAP
+
+- Definition: Investment Project Financing funds defined activities, Development Policy Financing supports policy and institutional actions, and Program-for-Results links disbursement to verified results using country systems.
+- Evidence anchor: World Bank operational categories distinguish IPF, DPF and PforR by object and disbursement logic.
+- Verdict: IPF, DPF and Program-for-Results matters because instrument choice changes fiduciary controls, timing and the transmission from finance to outcomes.
+
+### CORE SESSION 45 - Environmental and social safeguards
+
+#### VISUAL FIRST
+
+```text
+ENVIRONMENTAL AND SOCIAL SAFEGUARDS
+risk screening -> assessment -> mitigation plan -> consultation -> monitoring/remedy
+BOUNDARY -> Compliance can raise preparation time and cost, but weak safeguards can shift losses to communities and ecosystems.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+MDB safeguards are rules and processes for identifying, avoiding, mitigating and remedying environmental and social harm.
+
+> **ANSWER-GRABBING LINE:** Environmental and social safeguards matters because safeguards internalise project externalities and improve legitimacy and durability.
+
+**MUST-WRITE KEYWORDS:** ESF, ESS, consultation, mitigation hierarchy, grievance, externality
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Environmental and social safeguards matters because safeguards internalise project externalities and improve legitimacy and durability.
+- **Named evidence:** The World Bank Environmental and Social Framework has applied to new investment projects since 2018 through ten Environmental and Social Standards.
+- **Analysis:** Safeguards internalise project externalities and improve legitimacy and durability.
+- **Qualification / demand link:** Compliance can raise preparation time and cost, but weak safeguards can shift losses to communities and ecosystems.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The World Bank Environmental and Social Framework has applied to new investment projects since 2018 through ten Environmental and Social Standards.
+- **Analytical inference:** Safeguards internalise project externalities and improve legitimacy and durability.
+- **Qualification:** Compliance can raise preparation time and cost, but weak safeguards can shift losses to communities and ecosystems.
+
+#### PRELIMS TRAP
+
+Do not describe safeguards as optional charity.
+
+#### MAINS USE
+
+Balance speed with risk proportionality, participation and remedy.
+
+#### MINI RECAP
+
+- Definition: MDB safeguards are rules and processes for identifying, avoiding, mitigating and remedying environmental and social harm.
+- Evidence anchor: The World Bank Environmental and Social Framework has applied to new investment projects since 2018 through ten Environmental and Social Standards.
+- Verdict: Environmental and social safeguards matters because safeguards internalise project externalities and improve legitimacy and durability.
+
+### CORE SESSION 46 - MDB procurement
+
+#### VISUAL FIRST
+
+```text
+MDB PROCUREMENT
+needs plan -> procurement strategy -> competition -> contract -> oversight
+BOUNDARY -> Lowest bid alone may not provide best value, and domestic procurement law still interacts with loan requirements.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+MDB procurement frameworks govern how financed contracts are planned, competed, awarded and monitored to achieve value for money and integrity.
+
+> **ANSWER-GRABBING LINE:** MDB procurement matters because transparent procurement can reduce corruption and lifecycle cost while allowing project-specific methods.
+
+**MUST-WRITE KEYWORDS:** procurement framework, value for money, competition, integrity, complaint
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** MDB procurement matters because transparent procurement can reduce corruption and lifecycle cost while allowing project-specific methods.
+- **Named evidence:** World Bank procurement guidance emphasises value for money, fit-for-purpose design, economy, integrity and sustainable procurement.
+- **Analysis:** Transparent procurement can reduce corruption and lifecycle cost while allowing project-specific methods.
+- **Qualification / demand link:** Lowest bid alone may not provide best value, and domestic procurement law still interacts with loan requirements.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** World Bank procurement guidance emphasises value for money, fit-for-purpose design, economy, integrity and sustainable procurement.
+- **Analytical inference:** Transparent procurement can reduce corruption and lifecycle cost while allowing project-specific methods.
+- **Qualification:** Lowest bid alone may not provide best value, and domestic procurement law still interacts with loan requirements.
+
+#### PRELIMS TRAP
+
+Do not equate international competitive procurement with automatic foreign award.
+
+#### MAINS USE
+
+Assess competition, capability, lifecycle value and complaints.
+
+#### MINI RECAP
+
+- Definition: MDB procurement frameworks govern how financed contracts are planned, competed, awarded and monitored to achieve value for money and integrity.
+- Evidence anchor: World Bank procurement guidance emphasises value for money, fit-for-purpose design, economy, integrity and sustainable procurement.
+- Verdict: MDB procurement matters because transparent procurement can reduce corruption and lifecycle cost while allowing project-specific methods.
+
+### CORE SESSION 47 - MDB accountability mechanisms
+
+#### VISUAL FIRST
+
+```text
+MDB ACCOUNTABILITY MECHANISMS
+harm allegation -> eligibility -> compliance/problem solving -> action plan -> monitoring
+BOUNDARY -> Mechanisms do not replace national courts, compensation law or every project grievance channel.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Independent accountability mechanisms allow project-affected people to raise compliance or problem-solving claims outside normal management channels.
+
+> **ANSWER-GRABBING LINE:** MDB accountability mechanisms matters because independent review can reveal whether safeguard commitments translated into implementation.
+
+**MUST-WRITE KEYWORDS:** accountability mechanism, compliance review, problem solving, remedy, affected people
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** MDB accountability mechanisms matters because independent review can reveal whether safeguard commitments translated into implementation.
+- **Named evidence:** World Bank, ADB and AIIB each maintain institution-specific accountability or project-affected-people mechanisms.
+- **Analysis:** Independent review can reveal whether safeguard commitments translated into implementation.
+- **Qualification / demand link:** Mechanisms do not replace national courts, compensation law or every project grievance channel.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** World Bank, ADB and AIIB each maintain institution-specific accountability or project-affected-people mechanisms.
+- **Analytical inference:** Independent review can reveal whether safeguard commitments translated into implementation.
+- **Qualification:** Mechanisms do not replace national courts, compensation law or every project grievance channel.
+
+#### PRELIMS TRAP
+
+Do not claim a complaint automatically cancels a project.
+
+#### MAINS USE
+
+Use remedy access as a governance-quality indicator.
+
+#### MINI RECAP
+
+- Definition: Independent accountability mechanisms allow project-affected people to raise compliance or problem-solving claims outside normal management channels.
+- Evidence anchor: World Bank, ADB and AIIB each maintain institution-specific accountability or project-affected-people mechanisms.
+- Verdict: MDB accountability mechanisms matters because independent review can reveal whether safeguard commitments translated into implementation.
+
+### CORE SESSION 48 - Debt sustainability in development lending
+
+#### VISUAL FIRST
+
+```text
+DEBT SUSTAINABILITY IN DEVELOPMENT LENDING
+debt stock + terms + growth + revenue + shocks -> DSA -> financing terms
+BOUNDARY -> A risk rating is a forward-looking assessment, not certainty; domestic debt and contingent liabilities also matter.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Debt sustainability asks whether a borrower can service obligations under plausible shocks without unrealistic adjustment or arrears.
+
+> **ANSWER-GRABBING LINE:** Debt sustainability in development lending matters because concessional finance can improve affordability, but a weak project or large foreign-currency exposure can still increase distress.
+
+**MUST-WRITE KEYWORDS:** DSA, debt service, concessionality, stress test, currency risk
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Debt sustainability in development lending matters because concessional finance can improve affordability, but a weak project or large foreign-currency exposure can still increase distress.
+- **Named evidence:** The joint IMF-World Bank Debt Sustainability Framework uses baseline and stress scenarios for low-income countries.
+- **Analysis:** Concessional finance can improve affordability, but a weak project or large foreign-currency exposure can still increase distress.
+- **Qualification / demand link:** A risk rating is a forward-looking assessment, not certainty; domestic debt and contingent liabilities also matter.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The joint IMF-World Bank Debt Sustainability Framework uses baseline and stress scenarios for low-income countries.
+- **Analytical inference:** Concessional finance can improve affordability, but a weak project or large foreign-currency exposure can still increase distress.
+- **Qualification:** A risk rating is a forward-looking assessment, not certainty; domestic debt and contingent liabilities also matter.
+
+#### PRELIMS TRAP
+
+Do not infer sustainability from a low interest rate alone.
+
+#### MAINS USE
+
+Connect project returns, currency, maturity and fiscal capacity.
+
+#### MINI RECAP
+
+- Definition: Debt sustainability asks whether a borrower can service obligations under plausible shocks without unrealistic adjustment or arrears.
+- Evidence anchor: The joint IMF-World Bank Debt Sustainability Framework uses baseline and stress scenarios for low-income countries.
+- Verdict: Debt sustainability in development lending matters because concessional finance can improve affordability, but a weak project or large foreign-currency exposure can still increase distress.
+
+### CORE SESSION 49 - MDB additionality and co-financing
+
+#### VISUAL FIRST
+
+```text
+MDB ADDITIONALITY AND CO-FINANCING
+market gap -> MDB finance/guarantee -> private co-finance -> development result
+BOUNDARY -> Mobilisation must be measured against a counterfactual; public support can also displace private finance.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Additionality means an MDB provides finance, risk absorption, standards or knowledge that would not otherwise be available on comparable terms.
+
+> **ANSWER-GRABBING LINE:** MDB additionality and co-financing matters because risk sharing can crowd in investors and scale projects beyond the MDB's own balance sheet.
+
+**MUST-WRITE KEYWORDS:** additionality, mobilisation, co-financing, guarantee, counterfactual
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** MDB additionality and co-financing matters because risk sharing can crowd in investors and scale projects beyond the MDB's own balance sheet.
+- **Named evidence:** MDB strategies use guarantees, syndication and co-financing to mobilise public and private resources.
+- **Analysis:** Risk sharing can crowd in investors and scale projects beyond the MDB's own balance sheet.
+- **Qualification / demand link:** Mobilisation must be measured against a counterfactual; public support can also displace private finance.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** MDB strategies use guarantees, syndication and co-financing to mobilise public and private resources.
+- **Analytical inference:** Risk sharing can crowd in investors and scale projects beyond the MDB's own balance sheet.
+- **Qualification:** Mobilisation must be measured against a counterfactual; public support can also displace private finance.
+
+#### PRELIMS TRAP
+
+Do not count all project finance as mobilised solely by the MDB.
+
+#### MAINS USE
+
+Use a counterfactual, risk-transfer and development-impact test.
+
+#### MINI RECAP
+
+- Definition: Additionality means an MDB provides finance, risk absorption, standards or knowledge that would not otherwise be available on comparable terms.
+- Evidence anchor: MDB strategies use guarantees, syndication and co-financing to mobilise public and private resources.
+- Verdict: MDB additionality and co-financing matters because risk sharing can crowd in investors and scale projects beyond the MDB's own balance sheet.
+
+### CORE SESSION 50 - Asian Development Bank origin and mandate
+
+#### VISUAL FIRST
+
+```text
+ASIAN DEVELOPMENT BANK ORIGIN AND MANDATE
+regional membership -> capital -> sovereign/nonsovereign finance -> development
+BOUNDARY -> Regional ownership does not mean every Asian economy has equal voting power or borrowing status.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+ADB is a regional multilateral development bank founded in 1966 to support sustainable, inclusive and resilient development in Asia and the Pacific.
+
+> **ANSWER-GRABBING LINE:** Asian Development Bank origin and mandate matters because regional knowledge and long-term finance can address infrastructure, social and climate constraints.
+
+**MUST-WRITE KEYWORDS:** ADB, 1966, Manila, 69 members, 50 regional
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Asian Development Bank origin and mandate matters because regional knowledge and long-term finance can address infrastructure, social and climate constraints.
+- **Named evidence:** ADB's current official page states that it has 69 members, 50 from the region, at the 9 September 2026 cutoff.
+- **Analysis:** Regional knowledge and long-term finance can address infrastructure, social and climate constraints.
+- **Qualification / demand link:** Regional ownership does not mean every Asian economy has equal voting power or borrowing status.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** ADB's current official page states that it has 69 members, 50 from the region, at the 9 September 2026 cutoff.
+- **Analytical inference:** Regional knowledge and long-term finance can address infrastructure, social and climate constraints.
+- **Qualification:** Regional ownership does not mean every Asian economy has equal voting power or borrowing status.
+
+#### PRELIMS TRAP
+
+Do not confuse Manila-based ADB with Beijing-based AIIB.
+
+#### MAINS USE
+
+Compare ADB by region, age, capital and instruments.
+
+#### MINI RECAP
+
+- Definition: ADB is a regional multilateral development bank founded in 1966 to support sustainable, inclusive and resilient development in Asia and the Pacific.
+- Evidence anchor: ADB's current official page states that it has 69 members, 50 from the region, at the 9 September 2026 cutoff.
+- Verdict: Asian Development Bank origin and mandate matters because regional knowledge and long-term finance can address infrastructure, social and climate constraints.
+
+### CORE SESSION 51 - ADB governance and leadership
+
+#### VISUAL FIRST
+
+```text
+ADB GOVERNANCE AND LEADERSHIP
+shareholding -> governors/directors -> president -> operations
+BOUNDARY -> The President manages under Board authority; nationality convention is not a treaty rule for all MDBs.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+ADB is governed by member shareholders through a Board of Governors and resident Board of Directors, with voting weighted by capital and basic votes.
+
+> **ANSWER-GRABBING LINE:** ADB governance and leadership matters because weighted governance supports creditor commitment but sustains representation debates.
+
+**MUST-WRITE KEYWORDS:** Board of Governors, Board of Directors, weighted voting, Masato Kanda
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** ADB governance and leadership matters because weighted governance supports creditor commitment but sustains representation debates.
+- **Named evidence:** Masato Kanda assumed office as ADB's 11th President on 24 February 2025.
+- **Analysis:** Weighted governance supports creditor commitment but sustains representation debates.
+- **Qualification / demand link:** The President manages under Board authority; nationality convention is not a treaty rule for all MDBs.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Masato Kanda assumed office as ADB's 11th President on 24 February 2025.
+- **Analytical inference:** Weighted governance supports creditor commitment but sustains representation debates.
+- **Qualification:** The President manages under Board authority; nationality convention is not a treaty rule for all MDBs.
+
+#### PRELIMS TRAP
+
+Do not say ADB follows one-member-one-vote.
+
+#### MAINS USE
+
+Link leadership to formal board powers and shareholding.
+
+#### MINI RECAP
+
+- Definition: ADB is governed by member shareholders through a Board of Governors and resident Board of Directors, with voting weighted by capital and basic votes.
+- Evidence anchor: Masato Kanda assumed office as ADB's 11th President on 24 February 2025.
+- Verdict: ADB governance and leadership matters because weighted governance supports creditor commitment but sustains representation debates.
+
+### CORE SESSION 52 - India in ADB
+
+#### VISUAL FIRST
+
+```text
+INDIA IN ADB
+capital share -> voting share -> country partnership -> approvals/disbursements
+BOUNDARY -> Shareholding, voting power, cumulative commitments and current portfolio are different measures.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+India is an ADB founding member, shareholder and major borrower whose governance stake and project exposure must be separately measured.
+
+> **ANSWER-GRABBING LINE:** India in ADB matters because india's role combines influence over strategy with access to regional development finance.
+
+**MUST-WRITE KEYWORDS:** India, founding member, 6.317 percent shares, 5.343 percent votes
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** India in ADB matters because india's role combines influence over strategy with access to regional development finance.
+- **Named evidence:** ADB's India page, valued at 31 December 2025, lists 672,030 shares or 6.317 percent and 710,577 votes or 5.343 percent of total membership.
+- **Analysis:** India's role combines influence over strategy with access to regional development finance.
+- **Qualification / demand link:** Shareholding, voting power, cumulative commitments and current portfolio are different measures.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** ADB's India page, valued at 31 December 2025, lists 672,030 shares or 6.317 percent and 710,577 votes or 5.343 percent of total membership.
+- **Analytical inference:** India's role combines influence over strategy with access to regional development finance.
+- **Qualification:** Shareholding, voting power, cumulative commitments and current portfolio are different measures.
+
+#### PRELIMS TRAP
+
+Do not call India the largest shareholder without checking the dated table.
+
+#### MAINS USE
+
+Use the exact dated share and vote only for governance analysis.
+
+#### MINI RECAP
+
+- Definition: India is an ADB founding member, shareholder and major borrower whose governance stake and project exposure must be separately measured.
+- Evidence anchor: ADB's India page, valued at 31 December 2025, lists 672,030 shares or 6.317 percent and 710,577 votes or 5.343 percent of total membership.
+- Verdict: India in ADB matters because india's role combines influence over strategy with access to regional development finance.
+
+### CORE SESSION 53 - ADB financing instruments
+
+#### VISUAL FIRST
+
+```text
+ADB FINANCING INSTRUMENTS
+borrower/problem -> sovereign or private window -> instrument -> result
+BOUNDARY -> Approval volume does not equal disbursement or development impact.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+ADB uses sovereign and nonsovereign loans, grants, guarantees, equity, technical assistance and co-financing according to country and project needs.
+
+> **ANSWER-GRABBING LINE:** ADB financing instruments matters because instrument diversity can match risk, revenue model and institutional capacity.
+
+**MUST-WRITE KEYWORDS:** sovereign, nonsovereign, guarantee, equity, technical assistance
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** ADB financing instruments matters because instrument diversity can match risk, revenue model and institutional capacity.
+- **Named evidence:** ADB operational material describes public-sector and private-sector operations and technical assistance.
+- **Analysis:** Instrument diversity can match risk, revenue model and institutional capacity.
+- **Qualification / demand link:** Approval volume does not equal disbursement or development impact.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** ADB operational material describes public-sector and private-sector operations and technical assistance.
+- **Analytical inference:** Instrument diversity can match risk, revenue model and institutional capacity.
+- **Qualification:** Approval volume does not equal disbursement or development impact.
+
+#### PRELIMS TRAP
+
+Do not call every ADB operation a sovereign loan.
+
+#### MAINS USE
+
+Classify borrower, instrument, currency and implementation stage.
+
+#### MINI RECAP
+
+- Definition: ADB uses sovereign and nonsovereign loans, grants, guarantees, equity, technical assistance and co-financing according to country and project needs.
+- Evidence anchor: ADB operational material describes public-sector and private-sector operations and technical assistance.
+- Verdict: ADB financing instruments matters because instrument diversity can match risk, revenue model and institutional capacity.
+
+### CORE SESSION 54 - ADB Nature Solutions Finance Hub
+
+#### VISUAL FIRST
+
+```text
+ADB NATURE SOLUTIONS FINANCE HUB
+COP28 launch -> upstream support + blended finance -> nature projects
+BOUNDARY -> Targets are ambitions, not realised mobilisation; every project count requires a dated source.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The Nature Solutions Finance Hub for Asia and the Pacific is an ADB-led platform to catalyse finance for nature-based solutions.
+
+> **ANSWER-GRABBING LINE:** ADB Nature Solutions Finance Hub matters because blended finance and guarantees can convert ecosystem benefits into investable programmes.
+
+**MUST-WRITE KEYWORDS:** Nature Solutions Finance Hub, ADB, COP28, blended finance, target
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** ADB Nature Solutions Finance Hub matters because blended finance and guarantees can convert ecosystem benefits into investable programmes.
+- **Named evidence:** ADB launched the Hub at COP28 in December 2023 with an initial ambition to catalyse at least USD 2 billion; later project material references an expanded USD 5 billion ambition.
+- **Analysis:** Blended finance and guarantees can convert ecosystem benefits into investable programmes.
+- **Qualification / demand link:** Targets are ambitions, not realised mobilisation; every project count requires a dated source.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** ADB launched the Hub at COP28 in December 2023 with an initial ambition to catalyse at least USD 2 billion; later project material references an expanded USD 5 billion ambition.
+- **Analytical inference:** Blended finance and guarantees can convert ecosystem benefits into investable programmes.
+- **Qualification:** Targets are ambitions, not realised mobilisation; every project count requires a dated source.
+
+#### PRELIMS TRAP
+
+Do not attribute the Hub to AIIB, NDB, IBRD or the UN.
+
+#### MAINS USE
+
+Use the exact launcher and distinguish target from achieved finance.
+
+#### MINI RECAP
+
+- Definition: The Nature Solutions Finance Hub for Asia and the Pacific is an ADB-led platform to catalyse finance for nature-based solutions.
+- Evidence anchor: ADB launched the Hub at COP28 in December 2023 with an initial ambition to catalyse at least USD 2 billion; later project material references an expanded USD 5 billion ambition.
+- Verdict: ADB Nature Solutions Finance Hub matters because blended finance and guarantees can convert ecosystem benefits into investable programmes.
+
+### CORE SESSION 55 - AIIB origin and mandate
+
+#### VISUAL FIRST
+
+```text
+AIIB ORIGIN AND MANDATE
+2015 Articles -> 2016 operations -> infrastructure finance -> connectivity
+BOUNDARY -> Approved membership is not the same as every prospective member completing domestic accession.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+AIIB is a multilateral development bank that began operations in 2016 and finances sustainable infrastructure and other productive sectors.
+
+> **ANSWER-GRABBING LINE:** AIIB origin and mandate matters because a newer MDB adds financing capacity and may innovate in partnership and project design.
+
+**MUST-WRITE KEYWORDS:** AIIB, 2016, Beijing, 111 approved members, USD 100 billion
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** AIIB origin and mandate matters because a newer MDB adds financing capacity and may innovate in partnership and project design.
+- **Named evidence:** AIIB's 16 January 2026 release states that it has 111 approved members, authorised capital of USD 100 billion and an Infrastructure for Tomorrow mandate.
+- **Analysis:** A newer MDB adds financing capacity and may innovate in partnership and project design.
+- **Qualification / demand link:** Approved membership is not the same as every prospective member completing domestic accession.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** AIIB's 16 January 2026 release states that it has 111 approved members, authorised capital of USD 100 billion and an Infrastructure for Tomorrow mandate.
+- **Analytical inference:** A newer MDB adds financing capacity and may innovate in partnership and project design.
+- **Qualification:** Approved membership is not the same as every prospective member completing domestic accession.
+
+#### PRELIMS TRAP
+
+Do not call AIIB a bilateral Chinese policy bank.
+
+#### MAINS USE
+
+Compare its multilateral governance, infrastructure focus and co-financing.
+
+#### MINI RECAP
+
+- Definition: AIIB is a multilateral development bank that began operations in 2016 and finances sustainable infrastructure and other productive sectors.
+- Evidence anchor: AIIB's 16 January 2026 release states that it has 111 approved members, authorised capital of USD 100 billion and an Infrastructure for Tomorrow mandate.
+- Verdict: AIIB origin and mandate matters because a newer MDB adds financing capacity and may innovate in partnership and project design.
+
+### CORE SESSION 56 - AIIB governance and leadership
+
+#### VISUAL FIRST
+
+```text
+AIIB GOVERNANCE AND LEADERSHIP
+subscription + basic/founding votes -> total votes -> board governance
+BOUNDARY -> The President does not possess a national veto and acts under the Board and Articles.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+AIIB uses weighted voting based on shares plus basic and founding-member votes under its Articles.
+
+> **ANSWER-GRABBING LINE:** AIIB governance and leadership matters because weighted voting creates large-shareholder influence while basic votes preserve a common member component.
+
+**MUST-WRITE KEYWORDS:** weighted voting, basic votes, founding votes, Zou Jiayi, Board
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** AIIB governance and leadership matters because weighted voting creates large-shareholder influence while basic votes preserve a common member component.
+- **Named evidence:** Zou Jiayi assumed office as AIIB President and Board Chair on 16 January 2026 after election by the Board of Governors in June 2025.
+- **Analysis:** Weighted voting creates large-shareholder influence while basic votes preserve a common member component.
+- **Qualification / demand link:** The President does not possess a national veto and acts under the Board and Articles.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Zou Jiayi assumed office as AIIB President and Board Chair on 16 January 2026 after election by the Board of Governors in June 2025.
+- **Analytical inference:** Weighted voting creates large-shareholder influence while basic votes preserve a common member component.
+- **Qualification:** The President does not possess a national veto and acts under the Board and Articles.
+
+#### PRELIMS TRAP
+
+Do not describe AIIB governance as one-country-one-vote.
+
+#### MAINS USE
+
+Separate capital share, voting share and management authority.
+
+#### MINI RECAP
+
+- Definition: AIIB uses weighted voting based on shares plus basic and founding-member votes under its Articles.
+- Evidence anchor: Zou Jiayi assumed office as AIIB President and Board Chair on 16 January 2026 after election by the Board of Governors in June 2025.
+- Verdict: AIIB governance and leadership matters because weighted voting creates large-shareholder influence while basic votes preserve a common member component.
+
+### CORE SESSION 57 - India in AIIB
+
+#### VISUAL FIRST
+
+```text
+INDIA IN AIIB
+subscription -> voting power -> project pipeline -> development outcome
+BOUNDARY -> Share and vote percentages differ because basic and founding votes affect total voting power.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+India is a founding regional member, the second-largest shareholder and a major borrower in AIIB.
+
+> **ANSWER-GRABBING LINE:** India in AIIB matters because a large stake gives India voice and access while preserving the need for project-level evaluation.
+
+**MUST-WRITE KEYWORDS:** India, AIIB, USD 8,367.3 million, 8.5702 percent, 7.5268 percent
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** India in AIIB matters because a large stake gives India voice and access while preserving the need for project-level evaluation.
+- **Named evidence:** AIIB's live voting table checked 9 September 2026 lists India's subscription at USD 8,367.3 million or 8.5702 percent and voting power at 7.5268 percent.
+- **Analysis:** A large stake gives India voice and access while preserving the need for project-level evaluation.
+- **Qualification / demand link:** Share and vote percentages differ because basic and founding votes affect total voting power.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** AIIB's live voting table checked 9 September 2026 lists India's subscription at USD 8,367.3 million or 8.5702 percent and voting power at 7.5268 percent.
+- **Analytical inference:** A large stake gives India voice and access while preserving the need for project-level evaluation.
+- **Qualification:** Share and vote percentages differ because basic and founding votes affect total voting power.
+
+#### PRELIMS TRAP
+
+Do not quote India's capital share as its voting share.
+
+#### MAINS USE
+
+Use both dated percentages and explain the denominator.
+
+#### MINI RECAP
+
+- Definition: India is a founding regional member, the second-largest shareholder and a major borrower in AIIB.
+- Evidence anchor: AIIB's live voting table checked 9 September 2026 lists India's subscription at USD 8,367.3 million or 8.5702 percent and voting power at 7.5268 percent.
+- Verdict: India in AIIB matters because a large stake gives India voice and access while preserving the need for project-level evaluation.
+
+### CORE SESSION 58 - AIIB project and partnership model
+
+#### VISUAL FIRST
+
+```text
+AIIB PROJECT AND PARTNERSHIP MODEL
+infrastructure gap -> appraisal -> AIIB/partner finance -> implementation
+BOUNDARY -> Partner standards and institutional responsibility must be identified project by project.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+AIIB finances sovereign-backed and nonsovereign infrastructure through loans, guarantees, equity and co-financing.
+
+> **ANSWER-GRABBING LINE:** AIIB project and partnership model matters because co-financing can scale resources and harmonise standards while building institutional experience.
+
+**MUST-WRITE KEYWORDS:** sovereign-backed, nonsovereign, co-financing, green infrastructure, connectivity
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** AIIB project and partnership model matters because co-financing can scale resources and harmonise standards while building institutional experience.
+- **Named evidence:** AIIB official material emphasises collaboration with other MDBs and investment in green, connected, technology-enabled and private-capital-mobilising infrastructure.
+- **Analysis:** Co-financing can scale resources and harmonise standards while building institutional experience.
+- **Qualification / demand link:** Partner standards and institutional responsibility must be identified project by project.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** AIIB official material emphasises collaboration with other MDBs and investment in green, connected, technology-enabled and private-capital-mobilising infrastructure.
+- **Analytical inference:** Co-financing can scale resources and harmonise standards while building institutional experience.
+- **Qualification:** Partner standards and institutional responsibility must be identified project by project.
+
+#### PRELIMS TRAP
+
+Do not assume co-financing makes AIIB and World Bank governance identical.
+
+#### MAINS USE
+
+Evaluate additionality, standards and debt implications.
+
+#### MINI RECAP
+
+- Definition: AIIB finances sovereign-backed and nonsovereign infrastructure through loans, guarantees, equity and co-financing.
+- Evidence anchor: AIIB official material emphasises collaboration with other MDBs and investment in green, connected, technology-enabled and private-capital-mobilising infrastructure.
+- Verdict: AIIB project and partnership model matters because co-financing can scale resources and harmonise standards while building institutional experience.
+
+### CORE SESSION 59 - NDB origin and mandate
+
+#### VISUAL FIRST
+
+```text
+NDB ORIGIN AND MANDATE
+2014 agreement -> 2015 legal establishment -> 2016 operations -> expansion
+BOUNDARY -> Uruguay, Colombia, Ethiopia, Angola and Zimbabwe were prospective at the cutoff and become members only after depositing accession instruments.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+NDB was established by the five BRICS founders to mobilise resources for infrastructure and sustainable development in members and other emerging and developing economies.
+
+> **ANSWER-GRABBING LINE:** NDB origin and mandate matters because member expansion broadens capital and development reach beyond the founding BRICS.
+
+**MUST-WRITE KEYWORDS:** NDB, BRICS, infrastructure, sustainable development, accession
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** NDB origin and mandate matters because member expansion broadens capital and development reach beyond the founding BRICS.
+- **Named evidence:** The founding members are Brazil, Russia, India, China and South Africa; the official member page lists Bangladesh, UAE, Egypt, Algeria and Uzbekistan as full new members by 5 June 2026.
+- **Analysis:** Member expansion broadens capital and development reach beyond the founding BRICS.
+- **Qualification / demand link:** Uruguay, Colombia, Ethiopia, Angola and Zimbabwe were prospective at the cutoff and become members only after depositing accession instruments.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The founding members are Brazil, Russia, India, China and South Africa; the official member page lists Bangladesh, UAE, Egypt, Algeria and Uzbekistan as full new members by 5 June 2026.
+- **Analytical inference:** Member expansion broadens capital and development reach beyond the founding BRICS.
+- **Qualification:** Uruguay, Colombia, Ethiopia, Angola and Zimbabwe were prospective at the cutoff and become members only after depositing accession instruments.
+
+#### PRELIMS TRAP
+
+Do not count prospective members as full members.
+
+#### MAINS USE
+
+Use admission, accession deposit and membership date as separate stages.
+
+#### MINI RECAP
+
+- Definition: NDB was established by the five BRICS founders to mobilise resources for infrastructure and sustainable development in members and other emerging and developing economies.
+- Evidence anchor: The founding members are Brazil, Russia, India, China and South Africa; the official member page lists Bangladesh, UAE, Egypt, Algeria and Uzbekistan as full new members by 5 June 2026.
+- Verdict: NDB origin and mandate matters because member expansion broadens capital and development reach beyond the founding BRICS.
+
+### CORE SESSION 60 - NDB capital and governance
+
+#### VISUAL FIRST
+
+```text
+NDB CAPITAL AND GOVERNANCE
+subscription -> votes -> governors/directors -> project approval
+BOUNDARY -> Equal founder shares do not mean equal borrowing, influence in every coalition or equal shares for new members.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+NDB voting is linked to subscribed shares, with equal founding subscriptions initially and safeguards against a single-member veto.
+
+> **ANSWER-GRABBING LINE:** NDB capital and governance matters because founding parity differentiates NDB from institutions with one dominant shareholder.
+
+**MUST-WRITE KEYWORDS:** subscribed shares, founder parity, USD 10 billion, 18.72 percent, no veto
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** NDB capital and governance matters because founding parity differentiates NDB from institutions with one dominant shareholder.
+- **Named evidence:** The live NDB shareholding page checked 9 September 2026 lists each founder, including India, at 100,000 shares and USD 10 billion subscribed capital, equal to 18.72 percent after expansion.
+- **Analysis:** Founding parity differentiates NDB from institutions with one dominant shareholder.
+- **Qualification / demand link:** Equal founder shares do not mean equal borrowing, influence in every coalition or equal shares for new members.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The live NDB shareholding page checked 9 September 2026 lists each founder, including India, at 100,000 shares and USD 10 billion subscribed capital, equal to 18.72 percent after expansion.
+- **Analytical inference:** Founding parity differentiates NDB from institutions with one dominant shareholder.
+- **Qualification:** Equal founder shares do not mean equal borrowing, influence in every coalition or equal shares for new members.
+
+#### PRELIMS TRAP
+
+Do not continue quoting 20 percent after membership expansion.
+
+#### MAINS USE
+
+Date the share table and distinguish founding design from current percentage.
+
+#### MINI RECAP
+
+- Definition: NDB voting is linked to subscribed shares, with equal founding subscriptions initially and safeguards against a single-member veto.
+- Evidence anchor: The live NDB shareholding page checked 9 September 2026 lists each founder, including India, at 100,000 shares and USD 10 billion subscribed capital, equal to 18.72 percent after expansion.
+- Verdict: NDB capital and governance matters because founding parity differentiates NDB from institutions with one dominant shareholder.
+
+### CORE SESSION 61 - NDB leadership and local-currency finance
+
+#### VISUAL FIRST
+
+```text
+NDB LEADERSHIP AND LOCAL-CURRENCY FINANCE
+member demand -> local/global funding -> project loan -> currency-risk allocation
+BOUNDARY -> Local funding is not available in every market or project and can carry domestic interest-rate risk.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+NDB seeks infrastructure and sustainable-development additionality, including local-currency financing where feasible.
+
+> **ANSWER-GRABBING LINE:** NDB leadership and local-currency finance matters because local-currency finance can reduce borrower exchange-rate mismatch and deepen domestic capital markets.
+
+**MUST-WRITE KEYWORDS:** Dilma Rousseff, local currency, currency mismatch, capital market
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** NDB leadership and local-currency finance matters because local-currency finance can reduce borrower exchange-rate mismatch and deepen domestic capital markets.
+- **Named evidence:** Dilma Rousseff was re-elected on 19 March 2025 for a term from 7 July 2025 to 6 July 2030.
+- **Analysis:** Local-currency finance can reduce borrower exchange-rate mismatch and deepen domestic capital markets.
+- **Qualification / demand link:** Local funding is not available in every market or project and can carry domestic interest-rate risk.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Dilma Rousseff was re-elected on 19 March 2025 for a term from 7 July 2025 to 6 July 2030.
+- **Analytical inference:** Local-currency finance can reduce borrower exchange-rate mismatch and deepen domestic capital markets.
+- **Qualification:** Local funding is not available in every market or project and can carry domestic interest-rate risk.
+
+#### PRELIMS TRAP
+
+Do not claim NDB lending is free of all policy, procurement or safeguard requirements.
+
+#### MAINS USE
+
+Use currency denomination and development result, not rhetoric, to assess NDB value.
+
+#### MINI RECAP
+
+- Definition: NDB seeks infrastructure and sustainable-development additionality, including local-currency financing where feasible.
+- Evidence anchor: Dilma Rousseff was re-elected on 19 March 2025 for a term from 7 July 2025 to 6 July 2030.
+- Verdict: NDB leadership and local-currency finance matters because local-currency finance can reduce borrower exchange-rate mismatch and deepen domestic capital markets.
+
+### CORE SESSION 62 - India in NDB
+
+#### VISUAL FIRST
+
+```text
+INDIA IN NDB
+founder capital -> board voice -> Indian projects -> repayment/results
+BOUNDARY -> A project approved for India is not proof of disbursement, additionality or successful completion.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+India combines equal founding subscription with borrowing and governance participation in NDB.
+
+> **ANSWER-GRABBING LINE:** India in NDB matters because the institution diversifies India's development-finance partnerships and supports South-South cooperation.
+
+**MUST-WRITE KEYWORDS:** India, founder, shareholder, borrower, South-South cooperation
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** India in NDB matters because the institution diversifies India's development-finance partnerships and supports South-South cooperation.
+- **Named evidence:** The official current table gives India USD 10 billion subscribed capital and 18.72 percent of total subscribed capital at the cutoff.
+- **Analysis:** The institution diversifies India's development-finance partnerships and supports South-South cooperation.
+- **Qualification / demand link:** A project approved for India is not proof of disbursement, additionality or successful completion.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The official current table gives India USD 10 billion subscribed capital and 18.72 percent of total subscribed capital at the cutoff.
+- **Analytical inference:** The institution diversifies India's development-finance partnerships and supports South-South cooperation.
+- **Qualification:** A project approved for India is not proof of disbursement, additionality or successful completion.
+
+#### PRELIMS TRAP
+
+Do not equate shareholder status with grant finance.
+
+#### MAINS USE
+
+Assess India through governance, project quality, currency and outcomes.
+
+#### MINI RECAP
+
+- Definition: India combines equal founding subscription with borrowing and governance participation in NDB.
+- Evidence anchor: The official current table gives India USD 10 billion subscribed capital and 18.72 percent of total subscribed capital at the cutoff.
+- Verdict: India in NDB matters because the institution diversifies India's development-finance partnerships and supports South-South cooperation.
+
+### CORE SESSION 63 - Comparing ADB, AIIB and NDB
+
+#### VISUAL FIRST
+
+```text
+COMPARING ADB, AIIB AND NDB
+ADB regional development | AIIB infrastructure | NDB BRICS-founded development
+BOUNDARY -> Different mandates overlap, and raw member or capital counts do not measure project quality.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+ADB, AIIB and NDB are distinct MDBs differentiated by origin, membership, governance, regional scope and strategic emphasis.
+
+> **ANSWER-GRABBING LINE:** Comparing ADB, AIIB and NDB matters because plural institutions expand financing choice, competition and co-financing possibilities.
+
+**MUST-WRITE KEYWORDS:** ADB, AIIB, NDB, regional, infrastructure, BRICS, complementarity
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Comparing ADB, AIIB and NDB matters because plural institutions expand financing choice, competition and co-financing possibilities.
+- **Named evidence:** ADB dates from 1966 and has 69 members; AIIB began operations in 2016 with 111 approved members; NDB began operations in 2016 and had ten full members at the cutoff.
+- **Analysis:** Plural institutions expand financing choice, competition and co-financing possibilities.
+- **Qualification / demand link:** Different mandates overlap, and raw member or capital counts do not measure project quality.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** ADB dates from 1966 and has 69 members; AIIB began operations in 2016 with 111 approved members; NDB began operations in 2016 and had ten full members at the cutoff.
+- **Analytical inference:** Plural institutions expand financing choice, competition and co-financing possibilities.
+- **Qualification:** Different mandates overlap, and raw member or capital counts do not measure project quality.
+
+#### PRELIMS TRAP
+
+Do not say newer MDBs have replaced the World Bank or ADB.
+
+#### MAINS USE
+
+Compare mandate, borrower, capital, governance, instrument and India stake.
+
+#### MINI RECAP
+
+- Definition: ADB, AIIB and NDB are distinct MDBs differentiated by origin, membership, governance, regional scope and strategic emphasis.
+- Evidence anchor: ADB dates from 1966 and has 69 members; AIIB began operations in 2016 with 111 approved members; NDB began operations in 2016 and had ten full members at the cutoff.
+- Verdict: Comparing ADB, AIIB and NDB matters because plural institutions expand financing choice, competition and co-financing possibilities.
+
+### CORE SESSION 64 - Liquidity crisis versus development gap
+
+#### VISUAL FIRST
+
+```text
+LIQUIDITY CRISIS VERSUS DEVELOPMENT GAP
+liquidity gap -> IMF | development gap -> MDB | insolvency -> restructuring
+BOUNDARY -> Liquidity and solvency can coexist, requiring financing plus debt treatment and reform.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+A liquidity crisis is an inability to meet near-term external payments; a development gap is a shortage of long-term capital, infrastructure or capability.
+
+> **ANSWER-GRABBING LINE:** Liquidity crisis versus development gap matters because correct diagnosis prevents long-term project lending from being used as short-term reserve support or vice versa.
+
+**MUST-WRITE KEYWORDS:** liquidity, solvency, development gap, maturity mismatch, restructuring
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Liquidity crisis versus development gap matters because correct diagnosis prevents long-term project lending from being used as short-term reserve support or vice versa.
+- **Named evidence:** IMF facilities, World Bank Group finance and sovereign debt frameworks target different problems.
+- **Analysis:** Correct diagnosis prevents long-term project lending from being used as short-term reserve support or vice versa.
+- **Qualification / demand link:** Liquidity and solvency can coexist, requiring financing plus debt treatment and reform.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** IMF facilities, World Bank Group finance and sovereign debt frameworks target different problems.
+- **Analytical inference:** Correct diagnosis prevents long-term project lending from being used as short-term reserve support or vice versa.
+- **Qualification:** Liquidity and solvency can coexist, requiring financing plus debt treatment and reform.
+
+#### PRELIMS TRAP
+
+Do not prescribe an infrastructure loan for an immediate reserve run.
+
+#### MAINS USE
+
+Begin with liquidity, solvency and development diagnosis.
+
+#### MINI RECAP
+
+- Definition: A liquidity crisis is an inability to meet near-term external payments; a development gap is a shortage of long-term capital, infrastructure or capability.
+- Evidence anchor: IMF facilities, World Bank Group finance and sovereign debt frameworks target different problems.
+- Verdict: Liquidity crisis versus development gap matters because correct diagnosis prevents long-term project lending from being used as short-term reserve support or vice versa.
+
+### CORE SESSION 65 - Infrastructure lending comparison
+
+#### VISUAL FIRST
+
+```text
+INFRASTRUCTURE LENDING COMPARISON
+project preparation -> finance -> construction -> service -> repayment
+BOUNDARY -> Institution name does not make an unbankable or socially harmful project viable.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Infrastructure finance combines long maturity, construction risk, demand risk, safeguards and often sovereign or regulatory commitments.
+
+> **ANSWER-GRABBING LINE:** Infrastructure lending comparison matters because the suitable institution depends on borrower, risk allocation, currency and additionality.
+
+**MUST-WRITE KEYWORDS:** infrastructure, long maturity, construction risk, guarantee, lifecycle
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Infrastructure lending comparison matters because the suitable institution depends on borrower, risk allocation, currency and additionality.
+- **Named evidence:** IBRD, ADB, AIIB and NDB can all finance infrastructure, while IFC and MIGA can mobilise private participation through investment and guarantees.
+- **Analysis:** The suitable institution depends on borrower, risk allocation, currency and additionality.
+- **Qualification / demand link:** Institution name does not make an unbankable or socially harmful project viable.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** IBRD, ADB, AIIB and NDB can all finance infrastructure, while IFC and MIGA can mobilise private participation through investment and guarantees.
+- **Analytical inference:** The suitable institution depends on borrower, risk allocation, currency and additionality.
+- **Qualification:** Institution name does not make an unbankable or socially harmful project viable.
+
+#### PRELIMS TRAP
+
+Do not compare infrastructure banks by approval volume alone.
+
+#### MAINS USE
+
+Use lifecycle service quality and fiscal risk as the verdict.
+
+#### MINI RECAP
+
+- Definition: Infrastructure finance combines long maturity, construction risk, demand risk, safeguards and often sovereign or regulatory commitments.
+- Evidence anchor: IBRD, ADB, AIIB and NDB can all finance infrastructure, while IFC and MIGA can mobilise private participation through investment and guarantees.
+- Verdict: Infrastructure lending comparison matters because the suitable institution depends on borrower, risk allocation, currency and additionality.
+
+### CORE SESSION 66 - Global financial safety net layers
+
+#### VISUAL FIRST
+
+```text
+GLOBAL FINANCIAL SAFETY NET LAYERS
+self-insurance -> bilateral liquidity -> regional pool -> global pool
+BOUNDARY -> Availability is unequal and coordination can be slow; not every swap is a crisis guarantee.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The global financial safety net combines national reserves, bilateral swap lines, regional financing arrangements and IMF resources.
+
+> **ANSWER-GRABBING LINE:** Global financial safety net layers matters because layering can provide speed, scale and risk sharing across different shocks.
+
+**MUST-WRITE KEYWORDS:** GFSN, reserves, swap line, RFA, IMF, uneven access
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Global financial safety net layers matters because layering can provide speed, scale and risk sharing across different shocks.
+- **Named evidence:** The IMF's October 2025 stocktaking uses these four layers and notes uneven access.
+- **Analysis:** Layering can provide speed, scale and risk sharing across different shocks.
+- **Qualification / demand link:** Availability is unequal and coordination can be slow; not every swap is a crisis guarantee.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The IMF's October 2025 stocktaking uses these four layers and notes uneven access.
+- **Analytical inference:** Layering can provide speed, scale and risk sharing across different shocks.
+- **Qualification:** Availability is unequal and coordination can be slow; not every swap is a crisis guarantee.
+
+#### PRELIMS TRAP
+
+Do not count all announced swap lines as immediately drawable reserves.
+
+#### MAINS USE
+
+Compare coverage, conditionality, currency, speed and predictability.
+
+#### MINI RECAP
+
+- Definition: The global financial safety net combines national reserves, bilateral swap lines, regional financing arrangements and IMF resources.
+- Evidence anchor: The IMF's October 2025 stocktaking uses these four layers and notes uneven access.
+- Verdict: Global financial safety net layers matters because layering can provide speed, scale and risk sharing across different shocks.
+
+### CORE SESSION 67 - Foreign-exchange reserves as self-insurance
+
+#### VISUAL FIRST
+
+```text
+FOREIGN-EXCHANGE RESERVES AS SELF-INSURANCE
+current-account/capital shock -> reserve use -> adjustment time
+BOUNDARY -> Accumulation has fiscal and opportunity costs and may be inadequate against a large solvency shock.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Official reserves are liquid external assets held by monetary authorities to meet intervention, payment and confidence needs.
+
+> **ANSWER-GRABBING LINE:** Foreign-exchange reserves as self-insurance matters because reserves provide fast national control and reduce reliance on external approval.
+
+**MUST-WRITE KEYWORDS:** self-insurance, liquidity, reserve adequacy, opportunity cost
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Foreign-exchange reserves as self-insurance matters because reserves provide fast national control and reduce reliance on external approval.
+- **Named evidence:** Topic 19 establishes that reserves include foreign currency assets, gold, SDRs and the reserve tranche position.
+- **Analysis:** Reserves provide fast national control and reduce reliance on external approval.
+- **Qualification / demand link:** Accumulation has fiscal and opportunity costs and may be inadequate against a large solvency shock.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Topic 19 establishes that reserves include foreign currency assets, gold, SDRs and the reserve tranche position.
+- **Analytical inference:** Reserves provide fast national control and reduce reliance on external approval.
+- **Qualification:** Accumulation has fiscal and opportunity costs and may be inadequate against a large solvency shock.
+
+#### PRELIMS TRAP
+
+Do not compare a reserve stock directly with annual MDB commitments.
+
+#### MAINS USE
+
+Keep the reserve detail in Topic 19 and use only its safety-net role here.
+
+#### MINI RECAP
+
+- Definition: Official reserves are liquid external assets held by monetary authorities to meet intervention, payment and confidence needs.
+- Evidence anchor: Topic 19 establishes that reserves include foreign currency assets, gold, SDRs and the reserve tranche position.
+- Verdict: Foreign-exchange reserves as self-insurance matters because reserves provide fast national control and reduce reliance on external approval.
+
+### CORE SESSION 68 - Regional financing arrangements
+
+#### VISUAL FIRST
+
+```text
+REGIONAL FINANCING ARRANGEMENTS
+regional contributions -> surveillance/activation -> crisis facility
+BOUNDARY -> Activation rules, currency coverage and IMF links vary; many facilities remain lightly used.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Regional financing arrangements pool member resources for crisis support within a regional agreement.
+
+> **ANSWER-GRABBING LINE:** Regional financing arrangements matters because regional knowledge and shared interest can complement the IMF and increase available resources.
+
+**MUST-WRITE KEYWORDS:** RFA, ESM, CMIM, pooled resources, crisis support
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Regional financing arrangements matters because regional knowledge and shared interest can complement the IMF and increase available resources.
+- **Named evidence:** Examples include the European Stability Mechanism and Chiang Mai Initiative Multilateralisation.
+- **Analysis:** Regional knowledge and shared interest can complement the IMF and increase available resources.
+- **Qualification / demand link:** Activation rules, currency coverage and IMF links vary; many facilities remain lightly used.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Examples include the European Stability Mechanism and Chiang Mai Initiative Multilateralisation.
+- **Analytical inference:** Regional knowledge and shared interest can complement the IMF and increase available resources.
+- **Qualification:** Activation rules, currency coverage and IMF links vary; many facilities remain lightly used.
+
+#### PRELIMS TRAP
+
+Do not call every regional development bank a regional crisis-financing arrangement.
+
+#### MAINS USE
+
+Distinguish an RFA from an MDB by purpose and activation.
+
+#### MINI RECAP
+
+- Definition: Regional financing arrangements pool member resources for crisis support within a regional agreement.
+- Evidence anchor: Examples include the European Stability Mechanism and Chiang Mai Initiative Multilateralisation.
+- Verdict: Regional financing arrangements matters because regional knowledge and shared interest can complement the IMF and increase available resources.
+
+### CORE SESSION 69 - Bilateral central-bank swaps
+
+#### VISUAL FIRST
+
+```text
+BILATERAL CENTRAL-BANK SWAPS
+central-bank agreement -> currency exchange -> domestic liquidity -> reversal
+BOUNDARY -> Access is selective, temporary and currency-specific; it does not automatically finance a fiscal deficit.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+A bilateral swap line permits two central banks to exchange currencies under agreed terms to supply liquidity.
+
+> **ANSWER-GRABBING LINE:** Bilateral central-bank swaps matters because swaps can rapidly relieve key-currency funding stress and limit contagion.
+
+**MUST-WRITE KEYWORDS:** bilateral swap, central bank, liquidity, selectivity, reversal
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Bilateral central-bank swaps matters because swaps can rapidly relieve key-currency funding stress and limit contagion.
+- **Named evidence:** IMF safety-net analysis treats bilateral swaps as a distinct layer alongside reserves, RFAs and Fund resources.
+- **Analysis:** Swaps can rapidly relieve key-currency funding stress and limit contagion.
+- **Qualification / demand link:** Access is selective, temporary and currency-specific; it does not automatically finance a fiscal deficit.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** IMF safety-net analysis treats bilateral swaps as a distinct layer alongside reserves, RFAs and Fund resources.
+- **Analytical inference:** Swaps can rapidly relieve key-currency funding stress and limit contagion.
+- **Qualification:** Access is selective, temporary and currency-specific; it does not automatically finance a fiscal deficit.
+
+#### PRELIMS TRAP
+
+Do not call a swap an unconditional permanent transfer.
+
+#### MAINS USE
+
+Explain counterparties, currency, maturity and repayment.
+
+#### MINI RECAP
+
+- Definition: A bilateral swap line permits two central banks to exchange currencies under agreed terms to supply liquidity.
+- Evidence anchor: IMF safety-net analysis treats bilateral swaps as a distinct layer alongside reserves, RFAs and Fund resources.
+- Verdict: Bilateral central-bank swaps matters because swaps can rapidly relieve key-currency funding stress and limit contagion.
+
+### CORE SESSION 70 - G20 origin and membership
+
+#### VISUAL FIRST
+
+```text
+G20 ORIGIN AND MEMBERSHIP
+Asian crisis -> 1999 finance forum -> 2008 leaders -> broader agenda
+BOUNDARY -> Its representativeness remains incomplete and presidency priorities rotate annually.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The G20 is an informal forum for international economic cooperation created at finance-minister level in 1999 and elevated to leaders' level during the global financial crisis.
+
+> **ANSWER-GRABBING LINE:** G20 origin and membership matters because the forum concentrates major economies and can coordinate responses faster than universal treaty bodies.
+
+**MUST-WRITE KEYWORDS:** G20, 1999, leaders, EU, AU, US presidency 2026
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** G20 origin and membership matters because the forum concentrates major economies and can coordinate responses faster than universal treaty bodies.
+- **Named evidence:** The current G20 comprises 19 countries, the European Union and the African Union; the United States holds the 2026 presidency.
+- **Analysis:** The forum concentrates major economies and can coordinate responses faster than universal treaty bodies.
+- **Qualification / demand link:** Its representativeness remains incomplete and presidency priorities rotate annually.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The current G20 comprises 19 countries, the European Union and the African Union; the United States holds the 2026 presidency.
+- **Analytical inference:** The forum concentrates major economies and can coordinate responses faster than universal treaty bodies.
+- **Qualification:** Its representativeness remains incomplete and presidency priorities rotate annually.
+
+#### PRELIMS TRAP
+
+Do not call the G20 a treaty organisation with universal membership.
+
+#### MAINS USE
+
+Use it as a coordination forum, not a supranational legislature.
+
+#### MINI RECAP
+
+- Definition: The G20 is an informal forum for international economic cooperation created at finance-minister level in 1999 and elevated to leaders' level during the global financial crisis.
+- Evidence anchor: The current G20 comprises 19 countries, the European Union and the African Union; the United States holds the 2026 presidency.
+- Verdict: G20 origin and membership matters because the forum concentrates major economies and can coordinate responses faster than universal treaty bodies.
+
+### CORE SESSION 71 - G20 Finance Track
+
+#### VISUAL FIRST
+
+```text
+G20 FINANCE TRACK
+presidency agenda -> deputies/working groups -> FMCBG -> leaders
+BOUNDARY -> Finance Track conclusions are generally commitments and coordination signals, not self-executing law.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The Finance Track is the G20 stream led by finance ministries and central banks on macroeconomic, financial, tax, debt and development-finance issues.
+
+> **ANSWER-GRABBING LINE:** G20 Finance Track matters because technical groups can build shared diagnostics and political consensus before leaders endorse outcomes.
+
+**MUST-WRITE KEYWORDS:** Finance Track, FMCBG, deputies, working group, communique
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** G20 Finance Track matters because technical groups can build shared diagnostics and political consensus before leaders endorse outcomes.
+- **Named evidence:** Official G20 material identifies Finance Ministers and Central Bank Governors meetings as a core part of the process.
+- **Analysis:** Technical groups can build shared diagnostics and political consensus before leaders endorse outcomes.
+- **Qualification / demand link:** Finance Track conclusions are generally commitments and coordination signals, not self-executing law.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Official G20 material identifies Finance Ministers and Central Bank Governors meetings as a core part of the process.
+- **Analytical inference:** Technical groups can build shared diagnostics and political consensus before leaders endorse outcomes.
+- **Qualification:** Finance Track conclusions are generally commitments and coordination signals, not self-executing law.
+
+#### PRELIMS TRAP
+
+Do not assign Sherpa Track social and diplomatic issues entirely to finance officials.
+
+#### MAINS USE
+
+Trace the route from working group to communique and national action.
+
+#### MINI RECAP
+
+- Definition: The Finance Track is the G20 stream led by finance ministries and central banks on macroeconomic, financial, tax, debt and development-finance issues.
+- Evidence anchor: Official G20 material identifies Finance Ministers and Central Bank Governors meetings as a core part of the process.
+- Verdict: G20 Finance Track matters because technical groups can build shared diagnostics and political consensus before leaders endorse outcomes.
+
+### CORE SESSION 72 - G20 consensus and non-treaty status
+
+#### VISUAL FIRST
+
+```text
+G20 CONSENSUS AND NON-TREATY STATUS
+rotating presidency -> agenda/meetings -> consensus -> voluntary implementation
+BOUNDARY -> Political commitments can still shape IMF, MDB, FSB and national agendas.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+G20 decisions are reached by consensus in an informal forum without a permanent treaty secretariat.
+
+> **ANSWER-GRABBING LINE:** G20 consensus and non-treaty status matters because flexibility supports rapid coordination but weakens legal enforcement and institutional memory.
+
+**MUST-WRITE KEYWORDS:** consensus, informal forum, rotating presidency, non-binding, implementation
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** G20 consensus and non-treaty status matters because flexibility supports rapid coordination but weakens legal enforcement and institutional memory.
+- **Named evidence:** The official 2026 G20 site describes the forum as informal, consensus-based and without a permanent secretariat.
+- **Analysis:** Flexibility supports rapid coordination but weakens legal enforcement and institutional memory.
+- **Qualification / demand link:** Political commitments can still shape IMF, MDB, FSB and national agendas.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The official 2026 G20 site describes the forum as informal, consensus-based and without a permanent secretariat.
+- **Analytical inference:** Flexibility supports rapid coordination but weakens legal enforcement and institutional memory.
+- **Qualification:** Political commitments can still shape IMF, MDB, FSB and national agendas.
+
+#### PRELIMS TRAP
+
+Do not call a G20 communique directly enforceable in Indian courts.
+
+#### MAINS USE
+
+Assess agenda-setting, peer pressure and implementation rather than treaty compliance.
+
+#### MINI RECAP
+
+- Definition: G20 decisions are reached by consensus in an informal forum without a permanent treaty secretariat.
+- Evidence anchor: The official 2026 G20 site describes the forum as informal, consensus-based and without a permanent secretariat.
+- Verdict: G20 consensus and non-treaty status matters because flexibility supports rapid coordination but weakens legal enforcement and institutional memory.
+
+### CORE SESSION 73 - DSSI and Common Framework
+
+#### VISUAL FIRST
+
+```text
+DSSI AND COMMON FRAMEWORK
+DSSI pause -> expiry 2021 -> Common Framework request -> creditor committee -> treatment
+BOUNDARY -> Slow cases, data gaps and coordination with private and non-Paris creditors limit effectiveness.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+DSSI temporarily suspended eligible debt service during 2020-21; the Common Framework seeks case-by-case restructuring beyond mere suspension.
+
+> **ANSWER-GRABBING LINE:** DSSI and Common Framework matters because broader creditor coordination can address debt stock and maturity rather than only near-term cash flow.
+
+**MUST-WRITE KEYWORDS:** DSSI, Common Framework, restructuring, creditor committee, comparable treatment
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** DSSI and Common Framework matters because broader creditor coordination can address debt stock and maturity rather than only near-term cash flow.
+- **Named evidence:** The G20 and Paris Club launched the Common Framework in November 2020 for eligible low-income countries, with comparable treatment sought from other creditors.
+- **Analysis:** Broader creditor coordination can address debt stock and maturity rather than only near-term cash flow.
+- **Qualification / demand link:** Slow cases, data gaps and coordination with private and non-Paris creditors limit effectiveness.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The G20 and Paris Club launched the Common Framework in November 2020 for eligible low-income countries, with comparable treatment sought from other creditors.
+- **Analytical inference:** Broader creditor coordination can address debt stock and maturity rather than only near-term cash flow.
+- **Qualification:** Slow cases, data gaps and coordination with private and non-Paris creditors limit effectiveness.
+
+#### PRELIMS TRAP
+
+Do not describe DSSI and the Common Framework as the same instrument.
+
+#### MAINS USE
+
+Contrast suspension, restructuring, eligibility and creditor coordination.
+
+#### MINI RECAP
+
+- Definition: DSSI temporarily suspended eligible debt service during 2020-21; the Common Framework seeks case-by-case restructuring beyond mere suspension.
+- Evidence anchor: The G20 and Paris Club launched the Common Framework in November 2020 for eligible low-income countries, with comparable treatment sought from other creditors.
+- Verdict: DSSI and Common Framework matters because broader creditor coordination can address debt stock and maturity rather than only near-term cash flow.
+
+### CORE SESSION 74 - Paris Club
+
+#### VISUAL FIRST
+
+```text
+PARIS CLUB
+debtor request + IMF-supported programme -> creditor negotiation -> agreed minutes
+BOUNDARY -> It is neither a treaty organisation nor the forum for all private creditors.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The Paris Club is an informal group of official bilateral creditors that coordinates sovereign debt treatments by consensus.
+
+> **ANSWER-GRABBING LINE:** Paris Club matters because coordination reduces free riding and can align maturity or relief across official creditors.
+
+**MUST-WRITE KEYWORDS:** Paris Club, bilateral creditor, consensus, conditionality, comparability
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Paris Club matters because coordination reduces free riding and can align maturity or relief across official creditors.
+- **Named evidence:** Its official site lists 22 permanent members and six operating principles: solidarity, consensus, information sharing, case-by-case treatment, conditionality and comparability.
+- **Analysis:** Coordination reduces free riding and can align maturity or relief across official creditors.
+- **Qualification / demand link:** It is neither a treaty organisation nor the forum for all private creditors.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Its official site lists 22 permanent members and six operating principles: solidarity, consensus, information sharing, case-by-case treatment, conditionality and comparability.
+- **Analytical inference:** Coordination reduces free riding and can align maturity or relief across official creditors.
+- **Qualification:** It is neither a treaty organisation nor the forum for all private creditors.
+
+#### PRELIMS TRAP
+
+Do not confuse Paris Club official creditors with London Club bank creditors.
+
+#### MAINS USE
+
+Use creditor type, IMF link and comparability principle.
+
+#### MINI RECAP
+
+- Definition: The Paris Club is an informal group of official bilateral creditors that coordinates sovereign debt treatments by consensus.
+- Evidence anchor: Its official site lists 22 permanent members and six operating principles: solidarity, consensus, information sharing, case-by-case treatment, conditionality and comparability.
+- Verdict: Paris Club matters because coordination reduces free riding and can align maturity or relief across official creditors.
+
+### CORE SESSION 75 - BIS role
+
+#### VISUAL FIRST
+
+```text
+BIS ROLE
+central-bank membership -> meetings/research/services -> cooperation
+BOUNDARY -> Its publications and committee standards require national adoption to have domestic legal effect.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The Bank for International Settlements is a bank for central banks and a forum supporting monetary and financial cooperation.
+
+> **ANSWER-GRABBING LINE:** BIS role matters because the BIS supplies a trusted platform, research and banking services without becoming a global central bank.
+
+**MUST-WRITE KEYWORDS:** BIS, central banks, Basel, research, banking services, cooperation
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** BIS role matters because the BIS supplies a trusted platform, research and banking services without becoming a global central bank.
+- **Named evidence:** BIS official material states that it is owned by 63 central banks representing economies accounting for about 95 percent of world GDP.
+- **Analysis:** The BIS supplies a trusted platform, research and banking services without becoming a global central bank.
+- **Qualification / demand link:** Its publications and committee standards require national adoption to have domestic legal effect.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** BIS official material states that it is owned by 63 central banks representing economies accounting for about 95 percent of world GDP.
+- **Analytical inference:** The BIS supplies a trusted platform, research and banking services without becoming a global central bank.
+- **Qualification:** Its publications and committee standards require national adoption to have domestic legal effect.
+
+#### PRELIMS TRAP
+
+Do not call the BIS a lender to households or ordinary firms.
+
+#### MAINS USE
+
+Use it as institutional infrastructure for central-bank cooperation.
+
+#### MINI RECAP
+
+- Definition: The Bank for International Settlements is a bank for central banks and a forum supporting monetary and financial cooperation.
+- Evidence anchor: BIS official material states that it is owned by 63 central banks representing economies accounting for about 95 percent of world GDP.
+- Verdict: BIS role matters because the BIS supplies a trusted platform, research and banking services without becoming a global central bank.
+
+### CORE SESSION 76 - Basel Committee on Banking Supervision
+
+#### VISUAL FIRST
+
+```text
+BASEL COMMITTEE ON BANKING SUPERVISION
+supervisory problem -> Basel standard -> national rule -> monitoring
+BOUNDARY -> Implementation timing and legal form differ by jurisdiction; Basel capital detail belongs to Topic 6.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+BCBS is the primary global standard setter for prudential bank regulation and a forum for supervisory cooperation hosted at the BIS.
+
+> **ANSWER-GRABBING LINE:** Basel Committee on Banking Supervision matters because common standards can reduce regulatory arbitrage and strengthen comparability.
+
+**MUST-WRITE KEYWORDS:** BCBS, prudential standard, 45 members, 28 jurisdictions, no legal force
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Basel Committee on Banking Supervision matters because common standards can reduce regulatory arbitrage and strengthen comparability.
+- **Named evidence:** BIS material lists 45 BCBS members from 28 jurisdictions and states that the Committee has no formal supranational authority or legal force.
+- **Analysis:** Common standards can reduce regulatory arbitrage and strengthen comparability.
+- **Qualification / demand link:** Implementation timing and legal form differ by jurisdiction; Basel capital detail belongs to Topic 6.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** BIS material lists 45 BCBS members from 28 jurisdictions and states that the Committee has no formal supranational authority or legal force.
+- **Analytical inference:** Common standards can reduce regulatory arbitrage and strengthen comparability.
+- **Qualification:** Implementation timing and legal form differ by jurisdiction; Basel capital detail belongs to Topic 6.
+
+#### PRELIMS TRAP
+
+Do not treat a Basel standard as automatically enforceable Indian law.
+
+#### MAINS USE
+
+Bound the answer to standard setting, cooperation and national implementation.
+
+#### MINI RECAP
+
+- Definition: BCBS is the primary global standard setter for prudential bank regulation and a forum for supervisory cooperation hosted at the BIS.
+- Evidence anchor: BIS material lists 45 BCBS members from 28 jurisdictions and states that the Committee has no formal supranational authority or legal force.
+- Verdict: Basel Committee on Banking Supervision matters because common standards can reduce regulatory arbitrage and strengthen comparability.
+
+### CORE SESSION 77 - Financial Stability Board
+
+#### VISUAL FIRST
+
+```text
+FINANCIAL STABILITY BOARD
+vulnerability assessment -> policy coordination -> standard/recommendation -> peer review
+BOUNDARY -> FSB decisions are not legally binding and operate through national authorities, moral suasion and peer pressure.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The FSB monitors global financial vulnerabilities and coordinates national authorities and standard setters to promote coherent reform.
+
+> **ANSWER-GRABBING LINE:** Financial Stability Board matters because coordination closes cross-border regulatory gaps and monitors implementation after crises.
+
+**MUST-WRITE KEYWORDS:** FSB, Plenary, Andrew Bailey, peer review, moral suasion
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Financial Stability Board matters because coordination closes cross-border regulatory gaps and monitors implementation after crises.
+- **Named evidence:** The FSB page checked at the cutoff lists a Plenary of 59 representatives from 25 jurisdictions plus international institutions and standard-setting bodies; Andrew Bailey is Chair.
+- **Analysis:** Coordination closes cross-border regulatory gaps and monitors implementation after crises.
+- **Qualification / demand link:** FSB decisions are not legally binding and operate through national authorities, moral suasion and peer pressure.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The FSB page checked at the cutoff lists a Plenary of 59 representatives from 25 jurisdictions plus international institutions and standard-setting bodies; Andrew Bailey is Chair.
+- **Analytical inference:** Coordination closes cross-border regulatory gaps and monitors implementation after crises.
+- **Qualification:** FSB decisions are not legally binding and operate through national authorities, moral suasion and peer pressure.
+
+#### PRELIMS TRAP
+
+Do not call the FSB a global financial regulator with direct enforcement power.
+
+#### MAINS USE
+
+Use vulnerability, coordination, implementation and peer-review functions.
+
+#### MINI RECAP
+
+- Definition: The FSB monitors global financial vulnerabilities and coordinates national authorities and standard setters to promote coherent reform.
+- Evidence anchor: The FSB page checked at the cutoff lists a Plenary of 59 representatives from 25 jurisdictions plus international institutions and standard-setting bodies; Andrew Bailey is Chair.
+- Verdict: Financial Stability Board matters because coordination closes cross-border regulatory gaps and monitors implementation after crises.
+
+### CORE SESSION 78 - BIS, BCBS and FSB comparison
+
+#### VISUAL FIRST
+
+```text
+BIS, BCBS AND FSB COMPARISON
+BIS platform | BCBS banking standards | FSB cross-sector coordination
+BOUNDARY -> None is a supranational legislature; national regulators implement standards.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+BIS is the hosting and cooperation institution, BCBS sets bank-supervision standards, and FSB coordinates system-wide financial-stability policy.
+
+> **ANSWER-GRABBING LINE:** BIS, BCBS and FSB comparison matters because institutional nesting supports coordination but does not merge mandates or memberships.
+
+**MUST-WRITE KEYWORDS:** BIS, BCBS, FSB, host, standard setter, coordinator
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** BIS, BCBS and FSB comparison matters because institutional nesting supports coordination but does not merge mandates or memberships.
+- **Named evidence:** The FSB Secretariat is hosted by the BIS, while BCBS is a distinct BIS-hosted committee.
+- **Analysis:** Institutional nesting supports coordination but does not merge mandates or memberships.
+- **Qualification / demand link:** None is a supranational legislature; national regulators implement standards.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The FSB Secretariat is hosted by the BIS, while BCBS is a distinct BIS-hosted committee.
+- **Analytical inference:** Institutional nesting supports coordination but does not merge mandates or memberships.
+- **Qualification:** None is a supranational legislature; national regulators implement standards.
+
+#### PRELIMS TRAP
+
+Do not say the FSB writes only bank-capital rules or that BIS and BCBS are identical.
+
+#### MAINS USE
+
+Use the three-column mandate-governance-output comparison.
+
+#### MINI RECAP
+
+- Definition: BIS is the hosting and cooperation institution, BCBS sets bank-supervision standards, and FSB coordinates system-wide financial-stability policy.
+- Evidence anchor: The FSB Secretariat is hosted by the BIS, while BCBS is a distinct BIS-hosted committee.
+- Verdict: BIS, BCBS and FSB comparison matters because institutional nesting supports coordination but does not merge mandates or memberships.
+
+### CORE SESSION 79 - Climate and development finance
+
+#### VISUAL FIRST
+
+```text
+CLIMATE AND DEVELOPMENT FINANCE
+climate risk -> project/policy pipeline -> MDB finance -> measurable result
+BOUNDARY -> Climate labels do not prove additionality, adaptation benefit or a just distribution.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Climate-development finance supports mitigation, adaptation, resilience and nature while preserving poverty-reduction and country-development objectives.
+
+> **ANSWER-GRABBING LINE:** Climate and development finance matters because mDB balance sheets, guarantees and country platforms can mobilise long-horizon finance beyond public budgets.
+
+**MUST-WRITE KEYWORDS:** climate finance, adaptation, mitigation, country platform, measurement
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Climate and development finance matters because mDB balance sheets, guarantees and country platforms can mobilise long-horizon finance beyond public budgets.
+- **Named evidence:** MDBs welcomed the November 2024 G20 Roadmap for better, bigger and more effective MDBs and adopted common approaches to climate-result measurement.
+- **Analysis:** MDB balance sheets, guarantees and country platforms can mobilise long-horizon finance beyond public budgets.
+- **Qualification / demand link:** Climate labels do not prove additionality, adaptation benefit or a just distribution.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** MDBs welcomed the November 2024 G20 Roadmap for better, bigger and more effective MDBs and adopted common approaches to climate-result measurement.
+- **Analytical inference:** MDB balance sheets, guarantees and country platforms can mobilise long-horizon finance beyond public budgets.
+- **Qualification:** Climate labels do not prove additionality, adaptation benefit or a just distribution.
+
+#### PRELIMS TRAP
+
+Do not count every green-labelled commitment as verified emissions reduction.
+
+#### MAINS USE
+
+Test development additionality, climate integrity, debt and local ownership.
+
+#### MINI RECAP
+
+- Definition: Climate-development finance supports mitigation, adaptation, resilience and nature while preserving poverty-reduction and country-development objectives.
+- Evidence anchor: MDBs welcomed the November 2024 G20 Roadmap for better, bigger and more effective MDBs and adopted common approaches to climate-result measurement.
+- Verdict: Climate and development finance matters because mDB balance sheets, guarantees and country platforms can mobilise long-horizon finance beyond public budgets.
+
+### CORE SESSION 80 - MDB reform agenda
+
+#### VISUAL FIRST
+
+```text
+MDB REFORM AGENDA
+capital adequacy reform -> balance-sheet headroom -> better projects -> outcomes
+BOUNDARY -> Bigger lending can worsen debt or safeguards if project quality and accountability weaken.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+MDB reform seeks greater lending capacity, faster delivery, stronger coordination, private-capital mobilisation and broader global-public-goods support.
+
+> **ANSWER-GRABBING LINE:** MDB reform agenda matters because capital optimisation and guarantees can expand capacity without abandoning risk discipline.
+
+**MUST-WRITE KEYWORDS:** MDB reform, capital adequacy, headroom, guarantees, effectiveness
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** MDB reform agenda matters because capital optimisation and guarantees can expand capacity without abandoning risk discipline.
+- **Named evidence:** The G20-endorsed 2024 roadmap describes MDBs becoming better, bigger and more effective through coordinated reforms.
+- **Analysis:** Capital optimisation and guarantees can expand capacity without abandoning risk discipline.
+- **Qualification / demand link:** Bigger lending can worsen debt or safeguards if project quality and accountability weaken.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The G20-endorsed 2024 roadmap describes MDBs becoming better, bigger and more effective through coordinated reforms.
+- **Analytical inference:** Capital optimisation and guarantees can expand capacity without abandoning risk discipline.
+- **Qualification:** Bigger lending can worsen debt or safeguards if project quality and accountability weaken.
+
+#### PRELIMS TRAP
+
+Do not measure reform only by a larger commitment envelope.
+
+#### MAINS USE
+
+Judge speed, additionality, leverage, safeguards, debt and results together.
+
+#### MINI RECAP
+
+- Definition: MDB reform seeks greater lending capacity, faster delivery, stronger coordination, private-capital mobilisation and broader global-public-goods support.
+- Evidence anchor: The G20-endorsed 2024 roadmap describes MDBs becoming better, bigger and more effective through coordinated reforms.
+- Verdict: MDB reform agenda matters because capital optimisation and guarantees can expand capacity without abandoning risk discipline.
+
+### CORE SESSION 81 - Voice, legitimacy and representation
+
+#### VISUAL FIRST
+
+```text
+VOICE, LEGITIMACY AND REPRESENTATION
+representation gap -> trust deficit -> reform -> stronger cooperation
+BOUNDARY -> Representation alone cannot substitute for transparent selection, accountability and operational performance.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Institutional legitimacy depends on whether governance reflects members' contemporary economic weight, contribution, vulnerability and stake in decisions.
+
+> **ANSWER-GRABBING LINE:** Voice, legitimacy and representation matters because greater emerging-economy voice can improve ownership and compliance with collective decisions.
+
+**MUST-WRITE KEYWORDS:** voice, legitimacy, representation, quota reform, accountability
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Voice, legitimacy and representation matters because greater emerging-economy voice can improve ownership and compliance with collective decisions.
+- **Named evidence:** IMF quota reform, World Bank shareholding debates and newer MDB governance provide distinct models of weighted representation.
+- **Analysis:** Greater emerging-economy voice can improve ownership and compliance with collective decisions.
+- **Qualification / demand link:** Representation alone cannot substitute for transparent selection, accountability and operational performance.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** IMF quota reform, World Bank shareholding debates and newer MDB governance provide distinct models of weighted representation.
+- **Analytical inference:** Greater emerging-economy voice can improve ownership and compliance with collective decisions.
+- **Qualification:** Representation alone cannot substitute for transparent selection, accountability and operational performance.
+
+#### PRELIMS TRAP
+
+Do not assume a newer institution is automatically more democratic.
+
+#### MAINS USE
+
+Use voice, resources, accountability and results as four reform tests.
+
+#### MINI RECAP
+
+- Definition: Institutional legitimacy depends on whether governance reflects members' contemporary economic weight, contribution, vulnerability and stake in decisions.
+- Evidence anchor: IMF quota reform, World Bank shareholding debates and newer MDB governance provide distinct models of weighted representation.
+- Verdict: Voice, legitimacy and representation matters because greater emerging-economy voice can improve ownership and compliance with collective decisions.
+
+### CORE SESSION 82 - Conditionality debate
+
+#### VISUAL FIRST
+
+```text
+CONDITIONALITY DEBATE
+finance need -> conditions -> implementation -> review -> continuation
+BOUNDARY -> Poor design can be pro-cyclical, distributionally harmful, intrusive or beyond institutional expertise.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Conditionality is the linking of finance or debt treatment to specified policy, fiduciary or performance requirements.
+
+> **ANSWER-GRABBING LINE:** Conditionality debate matters because conditions can safeguard pooled resources and correct policy weaknesses.
+
+**MUST-WRITE KEYWORDS:** conditionality, covenant, criticality, ownership, sequencing
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Conditionality debate matters because conditions can safeguard pooled resources and correct policy weaknesses.
+- **Named evidence:** IMF programme conditions, MDB project covenants and Paris Club IMF-program requirements operate through different legal and economic channels.
+- **Analysis:** Conditions can safeguard pooled resources and correct policy weaknesses.
+- **Qualification / demand link:** Poor design can be pro-cyclical, distributionally harmful, intrusive or beyond institutional expertise.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** IMF programme conditions, MDB project covenants and Paris Club IMF-program requirements operate through different legal and economic channels.
+- **Analytical inference:** Conditions can safeguard pooled resources and correct policy weaknesses.
+- **Qualification:** Poor design can be pro-cyclical, distributionally harmful, intrusive or beyond institutional expertise.
+
+#### PRELIMS TRAP
+
+Do not use one blanket judgment for macro conditionality, procurement rules and safeguards.
+
+#### MAINS USE
+
+Assess criticality, sequencing, ownership, social protection and review.
+
+#### MINI RECAP
+
+- Definition: Conditionality is the linking of finance or debt treatment to specified policy, fiduciary or performance requirements.
+- Evidence anchor: IMF programme conditions, MDB project covenants and Paris Club IMF-program requirements operate through different legal and economic channels.
+- Verdict: Conditionality debate matters because conditions can safeguard pooled resources and correct policy weaknesses.
+
+### CORE SESSION 83 - Development policy debate
+
+#### VISUAL FIRST
+
+```text
+DEVELOPMENT POLICY DEBATE
+external finance/knowledge -> domestic institutions -> investment/reform -> outcomes
+BOUNDARY -> Advice can reflect lender incentives, weak local knowledge or ideological fashion; domestic institutions remain decisive.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Development-finance debate concerns whether external institutions support country-owned transformation or impose standardised models and debt burdens.
+
+> **ANSWER-GRABBING LINE:** Development policy debate matters because knowledge and long maturities can overcome market failures and coordination gaps.
+
+**MUST-WRITE KEYWORDS:** development model, policy ownership, state capacity, knowledge, debt
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Development policy debate matters because knowledge and long maturities can overcome market failures and coordination gaps.
+- **Named evidence:** World Bank and MDB frameworks combine finance with technical assistance, safeguards and results measurement.
+- **Analysis:** Knowledge and long maturities can overcome market failures and coordination gaps.
+- **Qualification / demand link:** Advice can reflect lender incentives, weak local knowledge or ideological fashion; domestic institutions remain decisive.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** World Bank and MDB frameworks combine finance with technical assistance, safeguards and results measurement.
+- **Analytical inference:** Knowledge and long maturities can overcome market failures and coordination gaps.
+- **Qualification:** Advice can reflect lender incentives, weak local knowledge or ideological fashion; domestic institutions remain decisive.
+
+#### PRELIMS TRAP
+
+Do not attribute national development success or failure to one lender alone.
+
+#### MAINS USE
+
+Use counterfactual, ownership, capacity and distribution.
+
+#### MINI RECAP
+
+- Definition: Development-finance debate concerns whether external institutions support country-owned transformation or impose standardised models and debt burdens.
+- Evidence anchor: World Bank and MDB frameworks combine finance with technical assistance, safeguards and results measurement.
+- Verdict: Development policy debate matters because knowledge and long maturities can overcome market failures and coordination gaps.
+
+### CORE SESSION 84 - Crisis coordination and early warning
+
+#### VISUAL FIRST
+
+```text
+CRISIS COORDINATION AND EARLY WARNING
+risk signal -> IMF/FSB assessment -> G20 coordination -> national action
+BOUNDARY -> Warnings are probabilistic and can fail because of data, incentives or political delay.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+Global crisis prevention links surveillance, vulnerability assessment, central-bank cooperation and coordinated financing before and during shocks.
+
+> **ANSWER-GRABBING LINE:** Crisis coordination and early warning matters because combining macroeconomic and financial-system lenses can identify feedback loops and contagion.
+
+**MUST-WRITE KEYWORDS:** early warning, vulnerability, contagion, IMF, FSB, coordination
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Crisis coordination and early warning matters because combining macroeconomic and financial-system lenses can identify feedback loops and contagion.
+- **Named evidence:** The IMF and FSB conduct an Early Warning Exercise, while BIS-hosted forums support central-bank information exchange.
+- **Analysis:** Combining macroeconomic and financial-system lenses can identify feedback loops and contagion.
+- **Qualification / demand link:** Warnings are probabilistic and can fail because of data, incentives or political delay.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The IMF and FSB conduct an Early Warning Exercise, while BIS-hosted forums support central-bank information exchange.
+- **Analytical inference:** Combining macroeconomic and financial-system lenses can identify feedback loops and contagion.
+- **Qualification:** Warnings are probabilistic and can fail because of data, incentives or political delay.
+
+#### PRELIMS TRAP
+
+Do not present an early-warning report as a forecast certainty.
+
+#### MAINS USE
+
+Explain information, coordination, action and residual uncertainty.
+
+#### MINI RECAP
+
+- Definition: Global crisis prevention links surveillance, vulnerability assessment, central-bank cooperation and coordinated financing before and during shocks.
+- Evidence anchor: The IMF and FSB conduct an Early Warning Exercise, while BIS-hosted forums support central-bank information exchange.
+- Verdict: Crisis coordination and early warning matters because combining macroeconomic and financial-system lenses can identify feedback loops and contagion.
+
+### CORE SESSION 85 - India's multi-institution strategy
+
+#### VISUAL FIRST
+
+```text
+INDIA'S MULTI-INSTITUTION STRATEGY
+IMF/WBG + ADB + AIIB + NDB + G20 -> finance + standards + reform voice
+BOUNDARY -> Membership does not imply acceptance of every policy, active borrowing from every window or equal influence.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+India engages legacy and newer institutions simultaneously to secure stability, development finance, voice and diversified partnerships.
+
+> **ANSWER-GRABBING LINE:** India's multi-institution strategy matters because portfolio engagement can combine global scale, regional expertise and greater voice in newer institutions.
+
+**MUST-WRITE KEYWORDS:** India, strategic pluralism, shareholder, borrower, reform voice, ICSID
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** India's multi-institution strategy matters because portfolio engagement can combine global scale, regional expertise and greater voice in newer institutions.
+- **Named evidence:** At the cutoff India is an IMF and World Bank Group shareholder, an ADB founding member, AIIB's second-largest shareholder and an equal-subscription NDB founder, while remaining outside the ICSID Convention.
+- **Analysis:** Portfolio engagement can combine global scale, regional expertise and greater voice in newer institutions.
+- **Qualification / demand link:** Membership does not imply acceptance of every policy, active borrowing from every window or equal influence.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** At the cutoff India is an IMF and World Bank Group shareholder, an ADB founding member, AIIB's second-largest shareholder and an equal-subscription NDB founder, while remaining outside the ICSID Convention.
+- **Analytical inference:** Portfolio engagement can combine global scale, regional expertise and greater voice in newer institutions.
+- **Qualification:** Membership does not imply acceptance of every policy, active borrowing from every window or equal influence.
+
+#### PRELIMS TRAP
+
+Do not infer India has an IMF programme or ICSID membership from institutional participation.
+
+#### MAINS USE
+
+Conclude with strategic pluralism plus project and governance discipline.
+
+#### MINI RECAP
+
+- Definition: India engages legacy and newer institutions simultaneously to secure stability, development finance, voice and diversified partnerships.
+- Evidence anchor: At the cutoff India is an IMF and World Bank Group shareholder, an ADB founding member, AIIB's second-largest shareholder and an equal-subscription NDB founder, while remaining outside the ICSID Convention.
+- Verdict: India's multi-institution strategy matters because portfolio engagement can combine global scale, regional expertise and greater voice in newer institutions.
+
+### CORE SESSION 86 - Final institutional decision matrix
+
+#### VISUAL FIRST
+
+```text
+FINAL INSTITUTIONAL DECISION MATRIX
+diagnose problem -> choose institution/instrument -> assess governance -> test outcome
+BOUNDARY -> Real cases may require several institutions, and coordination costs must be recognised.
+```
+
+*Visual reading:* Identify the institution, resource or rule first; then trace authority, transmission, risk and implementation.
+
+#### DEFINITION
+
+The correct institution follows from the problem: liquidity, macro adjustment, sovereign development, private investment, guarantee, arbitration, infrastructure or regulatory coordination.
+
+> **ANSWER-GRABBING LINE:** Final institutional decision matrix matters because a decision matrix prevents acronym recall from replacing economic diagnosis.
+
+**MUST-WRITE KEYWORDS:** diagnosis, mandate, instrument, risk, accountability, coordination
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Final institutional decision matrix matters because a decision matrix prevents acronym recall from replacing economic diagnosis.
+- **Named evidence:** IMF, five World Bank Group institutions, ADB, AIIB, NDB, G20, Paris Club, BIS, BCBS and FSB occupy different cells of this matrix.
+- **Analysis:** A decision matrix prevents acronym recall from replacing economic diagnosis.
+- **Qualification / demand link:** Real cases may require several institutions, and coordination costs must be recognised.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** IMF, five World Bank Group institutions, ADB, AIIB, NDB, G20, Paris Club, BIS, BCBS and FSB occupy different cells of this matrix.
+- **Analytical inference:** A decision matrix prevents acronym recall from replacing economic diagnosis.
+- **Qualification:** Real cases may require several institutions, and coordination costs must be recognised.
+
+#### PRELIMS TRAP
+
+Do not recommend one institution as a universal solution.
+
+#### MAINS USE
+
+End answers by matching mandate, instrument, risk and accountability.
+
+#### MINI RECAP
+
+- Definition: The correct institution follows from the problem: liquidity, macro adjustment, sovereign development, private investment, guarantee, arbitration, infrastructure or regulatory coordination.
+- Evidence anchor: IMF, five World Bank Group institutions, ADB, AIIB, NDB, G20, Paris Club, BIS, BCBS and FSB occupy different cells of this matrix.
+- Verdict: Final institutional decision matrix matters because a decision matrix prevents acronym recall from replacing economic diagnosis.
+
+## OPTIONAL ADVANCED
+
+### Advanced 1 - Quota formula and representation
+
+```text
+GDP + openness + variability + reserves -> compression -> calculated quota share
+```
+
+The IMF quota formula is an input to negotiation, not an automatic allocation rule. Market and purchasing-power-parity GDP, openness, variability and reserves are combined and compressed; political agreement, minimum shares and ratification determine actual outcomes. A technically updated formula can still fail to deliver redistribution if the review is equiproportional.
+
+### Advanced 2 - SDR balance-sheet logic
+
+```text
+allocation creates SDR holding + matching allocation liability
+holding below allocation -> net charge | above allocation -> net interest
+```
+
+An allocation increases gross reserve assets but also creates a long-term allocation liability. The SDR interest rate applies symmetrically to holdings and allocations, so a member pays net charges after exchanging SDRs and holding fewer than allocated. This is why allocation is neither a fiscal grant nor ordinary IMF credit.
+
+### Advanced 3 - MDB leverage and callable capital
+
+```text
+paid-in capital + retained earnings + callable backing -> market borrowing -> loans
+```
+
+MDBs magnify shareholder capital by borrowing against strong balance sheets. Capital-adequacy reform can release headroom through risk transfer, portfolio guarantees and revised limits, but excessive leverage can weaken ratings and raise funding costs. Callable capital is a remote shareholder commitment, not cash available for routine disbursement.
+
+### Advanced 4 - Preferred creditor treatment
+
+MDB claims often receive de facto priority because borrowers seek continuing access and shareholders protect institutional balance sheets. This convention can lower funding cost, yet it complicates burden sharing in sovereign restructuring and is not identical to a universal statutory lien.
+
+### Advanced 5 - Institutional competition versus regime complexity
+
+New MDBs can improve borrower choice, governance voice and experimentation. They can also create duplicated appraisal, inconsistent safeguards and creditor-coordination problems. The policy goal is interoperable standards and co-financing without cartelisation or a race to the bottom.
+
+### Advanced 6 - Global public goods and mandate expansion
+
+Climate stability, pandemic preparedness and cross-border resilience produce benefits beyond one borrower. MDB reform therefore seeks finance for global challenges while protecting country ownership and poverty reduction. The tension is allocation: scarce concessional resources should not be diverted from the poorest merely because global benefits are large.
 
 ## CONSOLIDATED REGISTER NOTES
 
-### IMF, World Bank, ADB, AIIB, NDB and Global Governance: RAPID CONCEPT, INSTITUTION AND STATUS MAP
-
-1. **Institution-comparison frame:** International institutions must be compared by mandate, client, instrument, governance, conditionality and lending window rather than grouped as one pool of external finance.
-2. **IMF mandate:** The IMF supports monetary cooperation, surveillance and balance-of-payments financing; its core function is not long-lived project construction.
-3. **IMF quota functions:** An IMF member's quota relates to financial contribution, voting power, access to resources and its share in general SDR allocations; the current numerical share requires a dated IMF source.
-4. **SDR boundary:** A Special Drawing Right is an IMF-created international reserve asset valued from a currency basket; it is neither retail currency, budget revenue nor automatically an IMF loan.
-5. **Reserve tranche position:** A reserve tranche position is a member's liquid claim on the IMF arising from quota resources and is treated as a reserve asset; it is distinct from conditional programme borrowing.
-6. **Gold tranche terminology:** Gold tranche is the historical name associated with what modern IMF usage calls the reserve tranche position, not an additional separate lending facility.
-7. **RFI and programme lending:** The Rapid Financing Instrument provides urgent balance-of-payments support with limited ex-post programme structure, while arrangements such as the SBA or EFF involve phased access and programme reviews.
-8. **World Bank boundary:** The term World Bank commonly refers to IBRD and IDA, while the World Bank Group also includes institutions with private-investment and guarantee mandates.
-9. **IBRD and IDA:** IBRD and IDA both support sovereign development but on different eligibility and financing terms; they must not be presented as identical lending windows.
-10. **IFC and MIGA:** IFC supports private-sector development through finance and mobilisation, while MIGA provides political-risk insurance or credit enhancement; neither is an IMF stabilisation window.
-11. **ADB mandate:** The Asian Development Bank is a regional development bank serving Asia and the Pacific through sovereign, private-sector, knowledge and technical-assistance operations.
-12. **AIIB mandate:** The Asian Infrastructure Investment Bank is a multilateral development bank focused on sustainable infrastructure and connectivity; current membership or voting figures require a dated institutional source.
-13. **NDB mandate:** The New Development Bank was founded by BRICS countries to mobilise resources for infrastructure and sustainable development in member emerging and developing economies.
-14. **Nature Solutions Finance Hub:** The Nature Solutions Finance Hub for Asia and the Pacific is an ADB initiative, an audited 2025 Prelims concept; any current financing total or project count requires a dated ADB source.
-15. **Conditionality and safeguards:** Macroeconomic programme conditionality, project procurement rules and environmental-social safeguards serve different purposes and should not be collapsed into one generic lender condition.
-16. **Project and policy-based lending:** Project lending finances a bounded investment, while policy-based lending supports an agreed reform programme; disbursement conditions and evaluation units therefore differ.
-17. **Guarantees and co-financing:** A guarantee absorbs specified risks and co-financing combines institutions or financiers; neither means that one lender funds or bears every project risk.
-18. **Currency-risk boundary:** Foreign-currency development finance can be concessional or long-term yet still create exchange-rate exposure for a borrower whose revenues are in domestic currency.
-19. **DSSI and Common Framework:** The Debt Service Suspension Initiative temporarily deferred eligible official bilateral payments, while the G20 Common Framework aims at case-specific debt treatment beyond mere suspension.
-20. **Global-governance reform:** Governance reform concerns voice, quota or shareholding representation, leadership, crisis resources, debt coordination and development additionality; creating a new bank does not by itself solve each deficit.
-
-### IMF, World Bank, ADB, AIIB, NDB and Global Governance: SCOPE, ELIGIBILITY, STOCK-FLOW AND IMPLEMENTATION TRAPS
-
-- Do not describe IMF balance-of-payments support as ordinary infrastructure project lending.
-- Do not quote quota, voting, membership or finance figures without a dated institutional source.
-- Do not call SDRs currency, budget revenue or an IMF loan.
-- Do not treat gold tranche and reserve tranche position as separate facilities.
-- Do not merge RFI emergency support with phased SBA or EFF programme lending.
-- Do not use World Bank and World Bank Group as exact synonyms.
-- Do not merge IBRD, IDA, IFC and MIGA clients or instruments.
-- Do not treat ADB, AIIB and NDB as interchangeable or as replacements for the IMF.
-- Do not equate DSSI payment suspension with Common Framework debt treatment.
-- Do not infer an objective PYQ answer letter from a routed concept.
-
-### IMF, World Bank, ADB, AIIB, NDB and Global Governance: ANSWER-WRITING SPINE
+### Core decision tree
 
 ```text
-DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE
--> STATE FORMULA, CROP, GEOGRAPHY, ELIGIBILITY OR LEGAL POWER
--> NAME THE PERIOD, ESTIMATE VINTAGE AND ISSUING BODY
--> SEPARATE ANNOUNCEMENT, IMPLEMENTATION, STOCK AND FLOW OUTCOMES
--> ADD ONE INDIA-SPECIFIC EVIDENCE UNIT AND ITS LIMIT
--> TEST DISTRIBUTION, OUTPUT, PRICE OR FINANCIAL-STABILITY EFFECTS
--> CONCLUDE WITH A GRADED VERDICT, NOT A TIMELESS NUMBER
+SHORT-TERM EXTERNAL GAP -> IMF surveillance/lending
+LONG-TERM SOVEREIGN DEVELOPMENT -> IBRD/IDA/ADB/AIIB/NDB
+PRIVATE ENTERPRISE -> IFC or nonsovereign MDB window
+POLITICAL-RISK TRANSFER -> MIGA/guarantee
+INVESTMENT DISPUTE -> consent-based ICSID route
+SOVEREIGN DEBT TREATMENT -> Paris Club/Common Framework
+SYSTEMIC FINANCIAL STANDARD -> BIS-hosted BCBS / FSB coordination
+POLITICAL ECONOMIC COORDINATION -> G20
 ```
 
-### IMF, World Bank, ADB, AIIB, NDB and Global Governance: LIVE-SOURCE, VINTAGE AND EVIDENCE BOUNDARY
+### Prelims master comparison
 
-Official institutional pages or official-domain search results supported qualitative mandates and lending-window distinctions. Direct IMF access was blocked and the World Bank landing page was only partially retrievable, so current quota, voting, membership, capital and finance figures were not used.
+| Institution/instrument | Core function | Decisive trap |
+|---|---|---|
+| IMF | Surveillance and balance-of-payments support | Not infrastructure project finance |
+| SDR | Reserve asset and unit of account | Not currency, grant or loan |
+| Reserve tranche | Member's liquid IMF reserve claim | Not conditional programme credit |
+| IBRD | Market-funded sovereign development finance | Not the concessional poorest-country window |
+| IDA | Concessional credits/grants for eligible poorer countries | Eligibility differs from membership |
+| IFC | Private-sector finance and mobilisation | Ordinary model lacks sovereign guarantee |
+| MIGA | Political-risk insurance/credit enhancement | Not a lender or dispute tribunal |
+| ICSID | Consent-based investment dispute settlement | India is not a Contracting State |
+| ADB | Asia-Pacific regional development bank | Distinct from AIIB |
+| AIIB | Multilateral sustainable-infrastructure bank | Approved members and full accession differ |
+| NDB | BRICS-founded infrastructure/sustainable-development bank | Prospective members are not full members |
+| BIS | Central-bank cooperation and banking services | Not a global central bank |
+| BCBS | Prudential banking standards | No direct supranational legal force |
+| FSB | System-wide financial-stability coordination | Recommendations need national implementation |
+| G20 | Informal political coordination | No treaty or permanent secretariat |
 
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+### Current-number controls
 
-#### ASCII MASTER FLOW — PANEL 1/12: Institution comparison grid
+- IMF: 191 members; India quota SDR 13,114.4 million and voting share 2.63 percent.
+- 16th Review: 50 percent equiproportional increase remained below the 85 percent consent threshold on 29 April 2026; deadline 15 November 2026.
+- ADB: 69 members, 50 regional; India 6.317 percent shares and 5.343 percent votes at 31 December 2025.
+- AIIB: 111 approved members; India 8.5702 percent subscription and 7.5268 percent voting power at cutoff.
+- NDB: ten full members; India USD 10 billion subscription, 18.72 percent of subscribed capital.
+- IBRD 189 members; IFC 186; MIGA 182; ICSID 158 Contracting States/166 signatories in August 2026.
 
-```ascii-master
-MANDATE -> stabilisation or development purpose
-CLIENT -> sovereign or private counterparty
-INSTRUMENT -> loan, guarantee, surveillance or advice
-GOVERNANCE + CONDITIONALITY -> voice and implementation rules
-MUST REMEMBER: IMF, World Bank Group, ADB, AIIB and NDB differ in membership, voting,...
-```
+### Mains reform architecture
 
-#### ASCII MASTER FLOW — PANEL 2/12: IMF function rail
+1. Diagnose liquidity, solvency, development or regulatory-coordination failure.
+2. Match institution, client and instrument.
+3. State governance: quota/share votes, boards, consensus or peer pressure.
+4. Trace finance or standard through domestic implementation.
+5. Evaluate ownership, safeguards, procurement, debt and distribution.
+6. Test additionality and measurable development outcomes.
+7. Propose voice reform, capital adequacy, faster delivery and accountability together.
+8. Conclude that multilateral institutions coordinate sovereigns; they do not replace them.
 
-```ascii-master
-SURVEILLANCE
--> EXTERNAL FINANCING NEED
--> FACILITY + CONDITIONALITY
--> REVIEWS + REPAYMENT
-```
+### Final boundaries
 
-#### ASCII MASTER FLOW — PANEL 3/12: Quota and SDR map
-
-```ascii-master
-QUOTA -> contribution
-QUOTA -> voting + access
-QUOTA -> general SDR allocation share
-SDR -> reserve asset; not loan
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: Reserve tranche trap
-
-```ascii-master
-RESERVE TRANCHE POSITION -> liquid IMF claim
-GOLD TRANCHE -> historical name
-PROGRAMME CREDIT -> separate borrowing
-RESERVE ASSET != fiscal receipt
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: IMF facility ladder
-
-```ascii-master
-RFI -> urgent one-off support
-SBA -> shorter stabilisation arrangement
-EFF -> medium-term structural need
-VERIFY current access limits separately
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: World Bank Group map
-
-```ascii-master
-IBRD -> eligible sovereign borrowers
-IDA -> concessional sovereign window
-IFC -> private sector
-MIGA -> political-risk guarantees
-CLOSE DISTINCTION: IMF quota is not World Bank capital, SDR is not a currency, project...
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Development-bank family
-
-```ascii-master
-ADB -> Asia-Pacific regional bank
-AIIB -> sustainable infrastructure + connectivity
-NDB -> BRICS-founded development bank
-MANDATES overlap but governance differs
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: ADB PYQ anchor
-
-```ascii-master
-NATURE SOLUTIONS FINANCE HUB
-LAUNCHED BY ADB
-ASIA AND THE PACIFIC
-DO NOT invent current finance totals
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Lending-window distinction
-
-```ascii-master
-PROJECT LOAN -> asset + appraisal
-POLICY LOAN -> reform programme
-GUARANTEE -> defined risk
-CO-FINANCE -> shared funding structure
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Foreign-currency risk chain
-
-```ascii-master
-FOREIGN-CURRENCY LIABILITY
-DOMESTIC-CURRENCY REVENUE
-DEPRECIATION -> repayment burden
-CONCESSIONAL TERMS do not erase mismatch
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Debt-treatment timeline
-
-```ascii-master
-DSSI -> temporary suspension
-COMMON FRAMEWORK -> treatment beyond DSSI
-OFFICIAL + PRIVATE creditor coordination
-CASE STATUS -> verify by date
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Global-governance answer spine
-
-```ascii-master
-COMPARE mandate + window
-TEST voice + ownership
-ASSESS additionality + debt
-CONCLUDE reformed plural multilateralism
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Verify institution, window, borrower...
-```
+- WTO rules and trade negotiations belong to Topic 20.
+- Reserve composition and exchange-rate operations belong to Topic 19.
+- Basel capital ratios and Indian bank implementation belong to Topic 6.
+- Infrastructure project-model detail belongs to Topic 18.
+- Climate-finance depth belongs to Topic 25.

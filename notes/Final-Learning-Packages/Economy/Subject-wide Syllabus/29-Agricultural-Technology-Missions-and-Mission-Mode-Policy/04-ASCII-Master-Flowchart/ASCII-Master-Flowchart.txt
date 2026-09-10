@@ -1,74 +1,74 @@
-ASCII MASTER FLOW — PANEL 1/12: Mission-mode policy rail
-DEFINED BOTTLENECK
--> TECHNOLOGY PORTFOLIO
--> DELIVERY + ADOPTION
--> OUTCOME + FEEDBACK
-MUST REMEMBER: Mission-mode agricultural policy coordinates a defined commodity or...
+ECONOMY TOPIC 29 - AGRICULTURAL TECHNOLOGY MISSIONS AND MISSION-MODE POLICY
+CURRENT-STATUS CUTOFF: 10 SEPTEMBER 2026
+============================================================================
+PANEL 1 MISSION TEST
+----------------------------------------------------------------------------
+defined bottleneck -> time-bound target -> coordinated institutions
+technology + complements -> adoption -> outcome -> feedback/sunset
+mission title alone does not satisfy this test
 
-ASCII MASTER FLOW — PANEL 2/12: Mission-versus-scheme test
-MISSION -> outcome + convergence
-ROUTINE SCHEME -> activity risk
-TITLE != design
-TEST theory of change
+PANEL 2 RESULTS CHAIN
+----------------------------------------------------------------------------
+input -> activity -> output -> adoption -> outcome -> impact
+allocation != expenditure != reach != sustained use != welfare
+every arrow requires evidence and a counterfactual
 
-ASCII MASTER FLOW — PANEL 3/12: Research-to-market chain
-RESEARCH -> TRIAL
--> MULTIPLICATION + EXTENSION
--> FINANCE + COMPLEMENTS
--> MARKET + REPEATED USE
+PANEL 3 LAB-TO-LAND-TO-MARKET
+----------------------------------------------------------------------------
+ICAR/SAU research -> adaptive trial -> quality seed/material
+-> KVK demonstration -> ATMA/state extension -> finance/service
+-> farmer adoption -> FPO/processor/market -> feedback
 
-ASCII MASTER FLOW — PANEL 4/12: Technology family map
-BIOLOGICAL + AGRONOMIC
-MECHANICAL + WATER
-DIGITAL + POST-HARVEST
-INSTITUTIONAL innovation
+PANEL 4 DIFFUSION MECHANISMS
+----------------------------------------------------------------------------
+FLD/CFLD | seed hubs | SRR/VRR | cluster | custom hiring
+trusted advice | repair | water/input access | market demand
+one near-zero complement can defeat a strong technology
 
-ASCII MASTER FLOW — PANEL 5/12: Adoption threshold
-EXPECTED RETURN
-- PURCHASE + LEARNING
-- FAILURE + MARKET RISK
-> EXISTING PRACTICE
+PANEL 5 OILSEED AND OIL-PALM TIMELINE
+----------------------------------------------------------------------------
+TMO May 1986 -> ISOPOM 2004 -> NMOOP 2014-15 -> NFSM-OS
+-> NMEO-OS 2024-25--2030-31
+NMEO-OP approved 2021-22--2025-26; FY 2026-27 targets retained
 
-ASCII MASTER FLOW — PANEL 6/12: Mission chronology spine
-1986 -> OILSEEDS
-2000 -> COTTON
-2005-06 -> NHM
-2007-08 -> NFSM
-CLOSE DISTINCTION: Technology Mission is not every scheme, Cabinet approval is not...
+PANEL 6 FOOD, PULSES AND MILLETS
+----------------------------------------------------------------------------
+NFSM Oct 2007 -> NFSNM: 7 current components in FY 2026-27
+Pulses mission: 2025-26--2030-31, separate approval
+millets: current NFSNM Sub-Mission on Nutri-Cereals, not invented standalone
 
-ASCII MASTER FLOW — PANEL 7/12: Oilseed system split
-NMEO-OS -> annual oilseeds
-NMEO-OP -> perennial oil palm
-APPROVAL != reach
-TARGET != outcome
+PANEL 7 SUSTAINABILITY STATUS
+----------------------------------------------------------------------------
+NMSA under NAPCC -> current functions spread through PM-RKVY
+RAD | PDMC | SH&F | PKVY | agroforestry
+NMNF first phase ended Mar 2026; proposed next phase approval-qualified
 
-ASCII MASTER FLOW — PANEL 8/12: Horticulture income chain
-PLANTING MATERIAL
--> PRODUCTION + QUALITY
--> COLD CHAIN + MARKET
--> NET INCOME only after cost + price
+PANEL 8 HORTICULTURE AND ALLIED MISSIONS
+----------------------------------------------------------------------------
+NHM 2005-06 -> MIDH 2014-15
+2026 MIDH: NHM | HMNEH | NHB | CDB | NBM | CIH
+NBHM approved phase ended 2025-26; no later extension located
 
-ASCII MASTER FLOW — PANEL 9/12: Diffusion institution map
-UNION + ICAR
-STATE + DISTRICT
-KVK + EXTENSION + FPO
-FARMER FEEDBACK closes loop
+PANEL 9 EXTENSION AND NMAET SUCCESSORS
+----------------------------------------------------------------------------
+classic NMAET: SMAE | SMSP | SMAM | SMPPQ
+current: Extension/Krishonnati | Seeds/NFSNM | SMAM/PM-RKVY
+plant protection/quarantine continues as regulatory-programme system
 
-ASCII MASTER FLOW — PANEL 10/12: Mission complementarity and weakest-link diagnostic
-QUALITY SEED
-TRUSTED EXTENSION
-FINANCE + WATER ACCESS
-MARKET + REPAIR SERVICE
+PANEL 10 COTTON AND JUTE
+----------------------------------------------------------------------------
+historical TMC 2000: research | transfer | market | ginning/pressing
+current cotton mission 2026-27--2030-31: three new mini-missions
+Jute Technology Mission: historical/closed value-chain example
 
-ASCII MASTER FLOW — PANEL 11/12: Mission evaluation and attribution ladder
-BUDGET INPUT
--> DELIVERY ACTIVITY
--> MEASURABLE OUTPUT
--> OUTCOME -> LONG-TERM IMPACT
+PANEL 11 FAILURE AND EVALUATION
+----------------------------------------------------------------------------
+fragmentation | target gaming | exclusion | market mismatch | ecological rebound
+evaluate additionality | outcomes | regional equity | convergence | public cost
+administrative dashboard must be checked against farmer and field evidence
 
-ASCII MASTER FLOW — PANEL 12/12: Technology-mission answer spine
-DEFINE problem + mission
-TRACE research to market
-TEST inclusion + ecology
-EVALUATE outcome + redesign
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name mission, ministry, legal/executive...
+PANEL 12 ANSWER SPINE
+----------------------------------------------------------------------------
+define mission -> date status/outlay/target -> trace research-to-market
+-> test adoption/equity/ecology -> assess additionality and convergence
+-> verdict: continue | scale | redesign | mainstream | sunset/close

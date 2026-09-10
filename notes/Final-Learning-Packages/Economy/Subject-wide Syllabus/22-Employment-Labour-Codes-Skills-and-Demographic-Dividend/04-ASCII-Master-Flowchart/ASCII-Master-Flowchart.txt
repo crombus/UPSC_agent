@@ -1,74 +1,100 @@
-ASCII MASTER FLOW — PANEL 1/12: Jobs quality dashboard
-QUANTITY + HOURS
-PRODUCTIVITY + REAL EARNINGS
-SECURITY + CONDITIONS
-MOBILITY + PROTECTION
-MUST REMEMBER: Employment analysis separates labour force, workforce, unemployment,...
-
-ASCII MASTER FLOW — PANEL 2/12: Labour indicators matrix
-LFPR = labour force / specified population
-WPR = employed / specified population
-UR = unemployed / labour force
-DENOMINATOR must be named
-
-ASCII MASTER FLOW — PANEL 3/12: PLFS reference-period clock
-USUAL STATUS -> longer reference
-CURRENT WEEKLY STATUS -> seven-day reference
-AGE + RURAL/URBAN -> always state
-ONE headline cannot replace disaggregation
-
-ASCII MASTER FLOW — PANEL 4/12: Unemployment mechanism tree
-FRICTIONAL -> transition
-STRUCTURAL -> mismatch
-SEASONAL / CYCLICAL -> timing + demand
-DISGUISED -> surplus labour
-
-ASCII MASTER FLOW — PANEL 5/12: Human-capital chain
-HEALTH + FOUNDATION LEARNING
--> SKILL + EXPERIENCE
--> PRODUCTIVE MATCH
--> EARNINGS + ADAPTABILITY
-
-ASCII MASTER FLOW — PANEL 6/12: Certification-to-outcome ladder
-ENROLLED
--> TRAINED
--> CERTIFIED
--> PLACED -> RETAINED -> WAGE GAIN
-CLOSE DISTINCTION: Unemployment rate denominator is labour force, not population; labour-...
-
-ASCII MASTER FLOW — PANEL 7/12: Demographic dividend converter
-WORKING-AGE SHARE
-x HEALTH + EDUCATION
-x PARTICIPATION + JOBS
-x PRODUCTIVITY -> DIVIDEND
-
-ASCII MASTER FLOW — PANEL 8/12: Care-economy constraint map
-UNPAID CARE -> time constraint
-CARE SERVICES -> participation support
-GDP BOUNDARY -> not value judgement
-3R -> recognise + reduce + redistribute
-
-ASCII MASTER FLOW — PANEL 9/12: Labour Codes map
-WAGES 2019
-INDUSTRIAL RELATIONS 2020
-SOCIAL SECURITY 2020
-OSHWC 2020
-
-ASCII MASTER FLOW — PANEL 10/12: Implementation status rail
-ENACTED 2019-20
--> COMMENCEMENT 21 NOV 2025
--> FINAL CENTRAL RULES MAY 2026
--> STATE RULES + ENFORCEMENT vary
-
-ASCII MASTER FLOW — PANEL 11/12: New-work boundary
-FIXED-TERM
-CASUAL / CONTRACT
-GIG / PLATFORM
-TEST wages + security + bargaining separately
-
-ASCII MASTER FLOW — PANEL 12/12: Employment answer spine
-DEFINE indicator + denominator
-DIAGNOSE unemployment type
-LINK skills to demand
-CONCLUDE jobs + earnings + portable protection
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name PLFS status, reference period,...
+ECONOMY TOPIC 22 | EMPLOYMENT, LABOUR CODES, SKILLS AND DEMOGRAPHIC DIVIDEND
+CURRENT-SOURCE CUTOFF: 9 September 2026
+READ TOP-TO-BOTTOM: MEASURE -> DIAGNOSE -> BUILD CAPABILITY -> REGULATE -> PROTECT -> EVALUATE
+================================================================================================================
+[01 LABOUR-MARKET ACCOUNTING]
+  |- specified population -> labour force + outside labour force
+  |- LFPR = labour force / population
+  |- WPR = employed / population
+  |- UR = unemployed / labour force
+  |- outside labour force is not unemployed
+  `- UPSC rule: preserve definition, date, denominator and legal status
+----------------------------------------------------------------------------------------------------------------
+[02 REFERENCE-PERIOD MAP]
+  |- usual status ps+ss -> 365 days
+  |- CWS -> seven days; one hour work qualifies
+  |- CDS -> day/half-day person-days
+  |- annual usual status != monthly CWS
+  |- state age group and geography
+  `- UPSC rule: preserve definition, date, denominator and legal status
+----------------------------------------------------------------------------------------------------------------
+[03 UNEMPLOYMENT TYPES]
+  |- open -> seeking/available, no work
+  |- disguised -> surplus labour, near-zero marginal product
+  |- seasonal -> calendar-linked gap
+  |- structural -> skill/location/occupation mismatch
+  |- frictional / cyclical / underemployment remain distinct
+  `- UPSC rule: preserve definition, date, denominator and legal status
+----------------------------------------------------------------------------------------------------------------
+[04 PLFS CURRENT RAIL]
+  |- 2025 usual status age 15+: LFPR 59.3, WPR 57.4, UR 3.1
+  |- 2025 female: LFPR 40.0, WPR 38.8
+  |- 2025 youth age 15-29 UR: 9.9
+  |- July 2026 CWS age 15+: LFPR 55.4, WPR 52.5, UR 5.1
+  |- never compare unlike series directly
+  `- UPSC rule: preserve definition, date, denominator and legal status
+----------------------------------------------------------------------------------------------------------------
+[05 EMPLOYMENT QUALITY]
+  |- quantity -> hours -> real earnings
+  |- contract continuity -> voice -> safety
+  |- self-employed / regular wage / casual are statuses
+  |- formal job != organised enterprise
+  |- wage, job and benefit formalisation differ
+  `- UPSC rule: preserve definition, date, denominator and legal status
+----------------------------------------------------------------------------------------------------------------
+[06 STRUCTURAL TRANSFORMATION]
+  |- farm productivity releases labour
+  |- manufacturing + construction + services absorb labour
+  |- MSME capability and market demand matter
+  |- migration needs housing, transport and portability
+  |- evaluate productivity and destination job quality
+  `- UPSC rule: preserve definition, date, denominator and legal status
+----------------------------------------------------------------------------------------------------------------
+[07 DEMOGRAPHIC DIVIDEND]
+  |- favourable age structure = potential
+  |- health + learning + female participation
+  |- productive jobs + saving + investment
+  |- state windows differ; migration can connect them
+  |- window closes into ageing and care pressure
+  `- UPSC rule: preserve definition, date, denominator and legal status
+----------------------------------------------------------------------------------------------------------------
+[08 SKILLS ARCHITECTURE]
+  |- foundational learning -> TVET
+  |- PMKVY 4.0 -> STT + RPL + Special Projects
+  |- PM-NAPS -> apprenticeship + partial stipend support
+  |- NSDC / SSC -> ecosystem and occupational standards
+  |- measure placement, retention and real wage gain
+  `- UPSC rule: preserve definition, date, denominator and legal status
+----------------------------------------------------------------------------------------------------------------
+[09 FOUR LABOUR CODES]
+  |- Wages 2019
+  |- Industrial Relations 2020
+  |- Social Security 2020
+  |- OSHWC 2020
+  |- 29 central laws consolidated
+  `- UPSC rule: preserve definition, date, denominator and legal status
+----------------------------------------------------------------------------------------------------------------
+[10 LEGAL STATUS AND FEDERALISM]
+  |- commencement notifications -> 21 Nov 2025
+  |- final Central Rules GSR 342-345(E) -> 8 May 2026
+  |- Wages/Social Security notices specify provisions
+  |- labour is concurrent
+  |- state final rules and enforcement vary
+  `- UPSC rule: preserve definition, date, denominator and legal status
+----------------------------------------------------------------------------------------------------------------
+[11 SOCIAL SECURITY AND GIG WORK]
+  |- EPFO -> EPF + EPS + EDLI
+  |- ESIC -> medical and cash benefits
+  |- e-Shram -> database and linkage, not automatic benefit
+  |- gig/platform/aggregator are distinct
+  |- aggregator: 1-2% turnover, cap 5% worker payments
+  `- UPSC rule: preserve definition, date, denominator and legal status
+----------------------------------------------------------------------------------------------------------------
+[12 MAINS ANSWER SPINE]
+  |- diagnose participation / demand / mismatch / precarity
+  |- name indicator, status, age group and date
+  |- match institution and instrument
+  |- test quantity + hours + earnings + security + productivity
+  |- conclude with enforceable flexicurity and inclusion
+  `- UPSC rule: preserve definition, date, denominator and legal status
+----------------------------------------------------------------------------------------------------------------

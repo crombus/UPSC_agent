@@ -1,1301 +1,768 @@
 ---
 title: "APMC, e-NAM, FPOs and Agricultural Supply Chains — Solved Practice Workbook"
-topic_key: economy-13
+topic_key: economy-topic-13
 ---
 # APMC, e-NAM, FPOs and Agricultural Supply Chains — Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies APMC legal layer?
+Exactly 32 original questions appear before PYQs. Correct answers rotate A -> B -> C -> D eight times.
 
-A. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-B. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-C. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-D. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
+### MCQ 1
 
-**Answer: A.**
-**Explanation:** An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+Which sequence best represents an agricultural marketing chain?
 
-### Q2. Which option preserves the accounting or regulatory boundary of APMC legal layer?
-
-A. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-B. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-C. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-D. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-
-**Answer: B.**
-**Explanation:** An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses APMC legal layer without losing its vintage, basket or legal status?
-
-A. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-B. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-C. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-D. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-
-**Answer: C.**
-**Explanation:** An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about APMC legal layer?
-
-A. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-B. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-C. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-D. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-
-**Answer: D.**
-**Explanation:** An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies Market committee function?
-
-A. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-B. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-C. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-D. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
+A. Farmgate, aggregation, assaying, price discovery, settlement, storage or movement, and buyer.
+B. MSP announcement followed automatically by universal procurement.
+C. Only production followed by household consumption.
+D. Only online bidding followed by export.
 
 **Answer: A.**
-**Explanation:** APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q6. Which option preserves the accounting or regulatory boundary of Market committee function?
+**Option-wise explanation:**
+- **A - Correct:** It preserves physical, information and payment stages. The option states: Farmgate, aggregation, assaying, price discovery, settlement, storage or movement, and buyer.
+- **B - Incorrect:** MSP and procurement belong to a public-support chain. The option states: MSP announcement followed automatically by universal procurement.
+- **C - Incorrect:** Marketing contains several post-harvest functions. The option states: Only production followed by household consumption.
+- **D - Incorrect:** Digital bidding is only one possible stage. The option states: Only online bidding followed by export.
 
-A. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-B. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-C. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-D. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
+**Examiner trap 1:** A chain is more than the visible sale.
+
+### MCQ 2
+
+Which statement correctly distinguishes supply chain from value chain?
+
+A. They are legally identical terms under every APMC Act.
+B. A supply chain maps flows; a value chain also studies value creation, governance and margin distribution.
+C. A value chain excludes logistics and payment.
+D. A supply chain measures only farmer profit.
 
 **Answer: B.**
-**Explanation:** APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q7. Which statement uses Market committee function without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** No uniform statutory identity exists. The option states: They are legally identical terms under every APMC Act.
+- **B - Correct:** The distinction separates operations from value capture. The option states: A supply chain maps flows; a value chain also studies value creation, governance and margin distribution.
+- **C - Incorrect:** Value analysis includes rather than excludes operations. The option states: A value chain excludes logistics and payment.
+- **D - Incorrect:** Supply chains map more than one income measure. The option states: A supply chain measures only farmer profit.
 
-A. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-B. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-C. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-D. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
+**Examiner trap 2:** Efficiency does not guarantee equitable value sharing.
+
+### MCQ 3
+
+A primary agricultural market is best understood as:
+
+A. The final statutory court for market disputes.
+B. Only an export terminal at a seaport.
+C. A local assembly point where farmers or aggregators first bring produce into organised trade.
+D. A national electronic exchange without produce.
 
 **Answer: C.**
-**Explanation:** APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Market committee function?
+**Option-wise explanation:**
+- **A - Incorrect:** Dispute institutions are separate. The option states: The final statutory court for market disputes.
+- **B - Incorrect:** Terminal and primary functions differ. The option states: Only an export terminal at a seaport.
+- **C - Correct:** Its central function is first-stage assembly and exchange. The option states: A local assembly point where farmers or aggregators first bring produce into organised trade.
+- **D - Incorrect:** Physical and institutional trade cannot be assumed away. The option states: A national electronic exchange without produce.
 
-A. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-B. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-C. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-D. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
+**Examiner trap 3:** Market-level labels describe functions, not one uniform legal ladder.
+
+### MCQ 4
+
+Why is assaying important for distant bidding?
+
+A. It guarantees that every bid will settle.
+B. It fixes the government support price.
+C. It removes all sampling and dispute risk.
+D. It provides a credible, test-based quality description that remote buyers can price.
 
 **Answer: D.**
-**Explanation:** APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q9. Which statement correctly identifies e-NAM boundary?
+**Option-wise explanation:**
+- **A - Incorrect:** Settlement still needs payment and delivery. The option states: It guarantees that every bid will settle.
+- **B - Incorrect:** MSP is an administered policy price. The option states: It fixes the government support price.
+- **C - Incorrect:** Testing protocols retain error and challenge risk. The option states: It removes all sampling and dispute risk.
+- **D - Correct:** Remote buyers need a verifiable quality basis. The option states: It provides a credible, test-based quality description that remote buyers can price.
 
-A. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-B. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-C. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-D. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
+**Examiner trap 4:** Assay result is evidence, not a universal guarantee.
+
+### MCQ 5
+
+Which statement about APMC law is correct?
+
+A. APMCs operate under applicable State marketing laws whose notified produce, areas, licences and fees vary.
+B. Parliament enacted one uniform APMC Act for all States.
+C. e-NAM automatically repealed every APMC statute.
+D. CCI directly administers all market yards.
 
 **Answer: A.**
-**Explanation:** e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q10. Which option preserves the accounting or regulatory boundary of e-NAM boundary?
+**Option-wise explanation:**
+- **A - Correct:** Agricultural-market architecture is State-shaped. The option states: APMCs operate under applicable State marketing laws whose notified produce, areas, licences and fees vary.
+- **B - Incorrect:** No single central APMC Act governs every State. The option states: Parliament enacted one uniform APMC Act for all States.
+- **C - Incorrect:** The platform works within legal arrangements. The option states: e-NAM automatically repealed every APMC statute.
+- **D - Incorrect:** CCI's antitrust role differs from market administration. The option states: CCI directly administers all market yards.
 
-A. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-B. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-C. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-D. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
+**Examiner trap 5:** State law, central model and electronic platform are separate.
+
+### MCQ 6
+
+What does a notified market area ordinarily identify?
+
+A. The national area covered by MSP procurement.
+B. The territorial perimeter within which specified State-law market provisions apply to notified produce.
+C. The service area of every FPO in India.
+D. The jurisdiction of the WTO Agreement on Agriculture.
 
 **Answer: B.**
-**Explanation:** e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q11. Which statement uses e-NAM boundary without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Public procurement has a different perimeter. The option states: The national area covered by MSP procurement.
+- **B - Correct:** Notification defines commodity and territorial reach. The option states: The territorial perimeter within which specified State-law market provisions apply to notified produce.
+- **C - Incorrect:** FPO operations are organisation-specific. The option states: The service area of every FPO in India.
+- **D - Incorrect:** WTO jurisdiction is not a State mandi area. The option states: The jurisdiction of the WTO Agreement on Agriculture.
 
-A. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-B. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-C. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-D. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
+**Examiner trap 6:** Read the State notification before inferring coverage.
+
+### MCQ 7
+
+Unified trader licensing is intended mainly to:
+
+A. Eliminate every trader qualification.
+B. Turn mandi fees into GST.
+C. Reduce repeated market-level permissions while preserving applicable compliance and accountability.
+D. Guarantee the same buyer count in every market.
 
 **Answer: C.**
-**Explanation:** e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q12. Which option avoids the standard UPSC close-option trap about e-NAM boundary?
+**Option-wise explanation:**
+- **A - Incorrect:** Unregulated entry is not the objective. The option states: Eliminate every trader qualification.
+- **B - Incorrect:** Market fees and GST are distinct. The option states: Turn mandi fees into GST.
+- **C - Correct:** Portability can lower entry friction without ending oversight. The option states: Reduce repeated market-level permissions while preserving applicable compliance and accountability.
+- **D - Incorrect:** Participation depends on commercial incentives. The option states: Guarantee the same buyer count in every market.
 
-A. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-B. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-C. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-D. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
+**Examiner trap 7:** Licence portability is not automatic competition.
+
+### MCQ 8
+
+Which statement best explains economic incidence of a mandi fee?
+
+A. The farmer necessarily bears exactly the stated rate.
+B. The fee is always identical to commission.
+C. The fee is a central MSP deduction fixed nationwide.
+D. The statutory payer may shift some burden through the bid, so legal liability and economic incidence can differ.
 
 **Answer: D.**
-**Explanation:** e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q13. Which statement correctly identifies e-NAM launch?
+**Option-wise explanation:**
+- **A - Incorrect:** Exact incidence cannot be assumed. The option states: The farmer necessarily bears exactly the stated rate.
+- **B - Incorrect:** Commission and statutory fee differ. The option states: The fee is always identical to commission.
+- **C - Incorrect:** APMC charges are State-law instruments, not MSP. The option states: The fee is a central MSP deduction fixed nationwide.
+- **D - Correct:** Bargaining and market structure shape burden sharing. The option states: The statutory payer may shift some burden through the bid, so legal liability and economic incidence can differ.
 
-A. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-B. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-C. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-D. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
+**Examiner trap 8:** Statutory payer is not always the final bearer.
+
+### MCQ 9
+
+The Model APMC Act, 2003 is best described as:
+
+A. A Union reform template for State adaptation, promoting alternative markets, direct purchase and contract farming.
+B. A binding constitutional amendment.
+C. The current national law replacing all State Acts.
+D. The 2021 statute that repealed the farm laws.
 
 **Answer: A.**
-**Explanation:** The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q14. Which option preserves the accounting or regulatory boundary of e-NAM launch?
+**Option-wise explanation:**
+- **A - Correct:** It was advisory model legislation. The option states: A Union reform template for State adaptation, promoting alternative markets, direct purchase and contract farming.
+- **B - Incorrect:** It did not amend the Constitution. The option states: A binding constitutional amendment.
+- **C - Incorrect:** States retained legislative choice. The option states: The current national law replacing all State Acts.
+- **D - Incorrect:** The repeal Act is a separate law. The option states: The 2021 statute that repealed the farm laws.
 
-A. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-B. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-C. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-D. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
+**Examiner trap 9:** Model text is not operative law by itself.
+
+### MCQ 10
+
+Which feature is associated with the Model APLM Act, 2017?
+
+A. Mandatory universal procurement at MSP.
+B. A unified State-market approach with e-trading, broader market places, unified licensing and rationalised fees.
+C. Abolition of all quality standards.
+D. Transfer of agricultural land to market committees.
 
 **Answer: B.**
-**Explanation:** The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q15. Which statement uses e-NAM launch without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** MSP belongs to Topic 12. The option states: Mandatory universal procurement at MSP.
+- **B - Correct:** The model sought less fragmented marketing regulation. The option states: A unified State-market approach with e-trading, broader market places, unified licensing and rationalised fees.
+- **C - Incorrect:** Standards support trade. The option states: Abolition of all quality standards.
+- **D - Incorrect:** Market reform does not transfer farm ownership. The option states: Transfer of agricultural land to market committees.
 
-A. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-B. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-C. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-D. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
+**Examiner trap 10:** The 2017 model still requires State adoption.
+
+### MCQ 11
+
+The Model Contract Farming Act, 2018 primarily provides:
+
+A. A national warehouse-receipt repository.
+B. A compulsory sale of every crop to the sponsor.
+C. A template for pre-production agreements, farmer safeguards, service terms and dispute resolution.
+D. A transfer of farmer land title to the contracting firm.
 
 **Answer: C.**
-**Explanation:** The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q16. Which option avoids the standard UPSC close-option trap about e-NAM launch?
+**Option-wise explanation:**
+- **A - Incorrect:** WDRA governs warehouse receipts. The option states: A national warehouse-receipt repository.
+- **B - Incorrect:** Contract quantity follows agreed terms, not all production universally. The option states: A compulsory sale of every crop to the sponsor.
+- **C - Correct:** It structures contract relationships without itself binding every State. The option states: A template for pre-production agreements, farmer safeguards, service terms and dispute resolution.
+- **D - Incorrect:** Land-transfer protection is a core safeguard. The option states: A transfer of farmer land title to the contracting firm.
 
-A. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-B. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-C. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-D. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
+**Examiner trap 11:** A model contract law is not a land-acquisition law.
+
+### MCQ 12
+
+Which legal-status sequence is correct?
+
+A. Model text, automatic all-India enforcement, identical State outcome.
+B. Platform launch, constitutional amendment, State repeal.
+C. Committee report, Supreme Court decree, universal licence.
+D. Central model text, State enactment, rules or notifications, institutional capacity, and implementation outcome.
 
 **Answer: D.**
-**Explanation:** The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q17. Which statement correctly identifies Assaying?
+**Option-wise explanation:**
+- **A - Incorrect:** Model laws do not self-enact nationally. The option states: Model text, automatic all-India enforcement, identical State outcome.
+- **B - Incorrect:** Platform and constitutional change are unrelated. The option states: Platform launch, constitutional amendment, State repeal.
+- **C - Incorrect:** Recommendations do not become decrees. The option states: Committee report, Supreme Court decree, universal licence.
+- **D - Correct:** Each stage has a distinct authority and implementation status. The option states: Central model text, State enactment, rules or notifications, institutional capacity, and implementation outcome.
 
-A. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-B. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-C. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-D. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
+**Examiner trap 12:** Never jump from publication to outcome.
+
+### MCQ 13
+
+What is the current legal status of the three central farm laws enacted in 2020?
+
+A. They were repealed by the Farm Laws Repeal Act, 2021, which received assent on 30 November 2021.
+B. They remain fully operative in every State.
+C. Only the Essential Commodities amendment was repealed.
+D. They became the Model APLM Act, 2017.
 
 **Answer: A.**
-**Explanation:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q18. Which option preserves the accounting or regulatory boundary of Assaying?
+**Option-wise explanation:**
+- **A - Correct:** The repeal covered all three 2020 laws. The option states: They were repealed by the Farm Laws Repeal Act, 2021, which received assent on 30 November 2021.
+- **B - Incorrect:** Repealed provisions are not current law. The option states: They remain fully operative in every State.
+- **C - Incorrect:** The repeal package was not partial in that way. The option states: Only the Essential Commodities amendment was repealed.
+- **D - Incorrect:** Model legislation has a separate chronology. The option states: They became the Model APLM Act, 2017.
 
-A. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-B. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-C. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-D. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
+**Examiner trap 13:** Repeal did not abolish State APMC Acts or e-NAM.
+
+### MCQ 14
+
+Who operates e-NAM under the official institutional design?
+
+A. CCI as the national mandi regulator.
+B. SFAC operates the common platform with Ministry of Agriculture support and State-mandi participation.
+C. WDRA as the sole commodity exchange.
+D. Every FPO jointly as statutory owner.
 
 **Answer: B.**
-**Explanation:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q19. Which statement uses Assaying without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** CCI has a different competition mandate. The option states: CCI as the national mandi regulator.
+- **B - Correct:** SFAC is the implementation operator identified in its official FAQ. The option states: SFAC operates the common platform with Ministry of Agriculture support and State-mandi participation.
+- **C - Incorrect:** WDRA regulates warehousing. The option states: WDRA as the sole commodity exchange.
+- **D - Incorrect:** FPOs may participate but do not jointly own the programme. The option states: Every FPO jointly as statutory owner.
 
-A. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-B. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-C. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-D. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
+**Examiner trap 14:** Operator, regulator, State law and participant are different roles.
+
+### MCQ 15
+
+Which dated e-NAM statement is accurate?
+
+A. 1,656 means every mandi in India was integrated.
+B. The count proves every registered farmer traded.
+C. A PIB backgrounder dated 13 April 2026 reported 1,656 integrated mandis across 23 States and 4 UTs by March 2026.
+D. The count is an undated permanent statutory threshold.
 
 **Answer: C.**
-**Explanation:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Assaying?
+**Option-wise explanation:**
+- **A - Incorrect:** It is a programme count, not the national universe. The option states: 1,656 means every mandi in India was integrated.
+- **B - Incorrect:** Registration or integration does not prove use. The option states: The count proves every registered farmer traded.
+- **C - Correct:** The claim retains source, date and denominator. The option states: A PIB backgrounder dated 13 April 2026 reported 1,656 integrated mandis across 23 States and 4 UTs by March 2026.
+- **D - Incorrect:** Administrative counts change over time. The option states: The count is an undated permanent statutory threshold.
 
-A. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-B. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-C. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-D. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
+**Examiner trap 15:** Platform reach is not transaction depth.
+
+### MCQ 16
+
+Electronic integration becomes genuine market integration only when:
+
+A. All physical markets are closed.
+B. One common login replaces State law.
+C. Every commodity has the same quality standard.
+D. Legal permission, assaying, payment, logistics, title and dispute resolution also interoperate.
 
 **Answer: D.**
-**Explanation:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q21. Which statement correctly identifies Settlement and logistics?
+**Option-wise explanation:**
+- **A - Incorrect:** Physical markets remain useful. The option states: All physical markets are closed.
+- **B - Incorrect:** Software cannot override law. The option states: One common login replaces State law.
+- **C - Incorrect:** Commodity attributes differ. The option states: Every commodity has the same quality standard.
+- **D - Correct:** A trade must move from bid to enforceable settlement. The option states: Legal permission, assaying, payment, logistics, title and dispute resolution also interoperate.
 
-A. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-B. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-C. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-D. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
+**Examiner trap 16:** Platform-only reform creates a screen-based illusion.
+
+### MCQ 17
+
+What does electronic payment improve most directly?
+
+A. Traceability and potential timeliness of settlement, subject to account and reconciliation safeguards.
+B. Quality of the physical commodity.
+C. Legal title to every warehouse.
+D. The number of competing buyers automatically.
 
 **Answer: A.**
-**Explanation:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q22. Which option preserves the accounting or regulatory boundary of Settlement and logistics?
+**Option-wise explanation:**
+- **A - Correct:** Payment records strengthen the money leg of trade. The option states: Traceability and potential timeliness of settlement, subject to account and reconciliation safeguards.
+- **B - Incorrect:** Quality requires assay. The option states: Quality of the physical commodity.
+- **C - Incorrect:** Warehouse title follows receipt rules. The option states: Legal title to every warehouse.
+- **D - Incorrect:** Competition requires participation. The option states: The number of competing buyers automatically.
 
-A. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-B. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-C. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-D. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
+**Examiner trap 17:** Initiated payment is not final credit.
+
+### MCQ 18
+
+Why may an inter-State e-NAM bid fail to become a trade?
+
+A. Inter-State trade is constitutionally impossible.
+B. Freight, licences, fees, quality acceptance or delivery risk may make the netback unattractive.
+C. e-NAM permits only local cash sales.
+D. A higher gross bid always guarantees a higher farm realisation.
 
 **Answer: B.**
-**Explanation:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q23. Which statement uses Settlement and logistics without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Inter-State trade is possible. The option states: Inter-State trade is constitutionally impossible.
+- **B - Correct:** Economic and legal frictions can block physical completion. The option states: Freight, licences, fees, quality acceptance or delivery risk may make the netback unattractive.
+- **C - Incorrect:** The platform supports wider trade modes. The option states: e-NAM permits only local cash sales.
+- **D - Incorrect:** Costs must be deducted from the gross bid. The option states: A higher gross bid always guarantees a higher farm realisation.
 
-A. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-B. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-C. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-D. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
+**Examiner trap 18:** Compare freight-adjusted netback, not headline bid.
+
+### MCQ 19
+
+Which statement correctly defines an FPO?
+
+A. It is necessarily a Producer Company only.
+B. It is any trader association registered in a mandi.
+C. It is a farmer-member producer organisation that may use more than one eligible legal form.
+D. It is a government department purchasing MSP crops.
 
 **Answer: C.**
-**Explanation:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Settlement and logistics?
+**Option-wise explanation:**
+- **A - Incorrect:** Producer Company is one legal form. The option states: It is necessarily a Producer Company only.
+- **B - Incorrect:** Trader associations are not farmer producer organisations. The option states: It is any trader association registered in a mandi.
+- **C - Correct:** FPO is a functional membership umbrella. The option states: It is a farmer-member producer organisation that may use more than one eligible legal form.
+- **D - Incorrect:** Procurement agencies have a different role. The option states: It is a government department purchasing MSP crops.
 
-A. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-B. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-C. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-D. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
+**Examiner trap 19:** FPO and FPC are not universal synonyms.
+
+### MCQ 20
+
+A Farmer Producer Company is currently governed principally through:
+
+A. The Farm Laws Repeal Act, 2021.
+B. The Warehousing Act, 2007 alone.
+C. The Model APMC Act, 2003 as binding company law.
+D. Chapter XXIA, sections 378A-378ZU, of the Companies Act, 2013.
 
 **Answer: D.**
-**Explanation:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q25. Which statement correctly identifies FPO definition?
+**Option-wise explanation:**
+- **A - Incorrect:** The repeal statute concerns different laws. The option states: The Farm Laws Repeal Act, 2021.
+- **B - Incorrect:** Warehousing law does not incorporate companies. The option states: The Warehousing Act, 2007 alone.
+- **C - Incorrect:** A model market law is not company legislation. The option states: The Model APMC Act, 2003 as binding company law.
+- **D - Correct:** Chapter XXIA provides the current producer-company route. The option states: Chapter XXIA, sections 378A-378ZU, of the Companies Act, 2013.
 
-A. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-B. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-C. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-D. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
+**Examiner trap 20:** Use the current re-enacted statutory location.
+
+### MCQ 21
+
+How does a cooperative FPO differ from an FPC?
+
+A. Its governing statute, registration, capital and governance framework arise under applicable cooperative law rather than company law.
+B. It cannot market produce.
+C. It has no legal personality in any State.
+D. It is automatically controlled by SFAC.
 
 **Answer: A.**
-**Explanation:** An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q26. Which option preserves the accounting or regulatory boundary of FPO definition?
+**Option-wise explanation:**
+- **A - Correct:** Similar producer functions can sit under different legal frameworks. The option states: Its governing statute, registration, capital and governance framework arise under applicable cooperative law rather than company law.
+- **B - Incorrect:** Cooperatives can undertake marketing. The option states: It cannot market produce.
+- **C - Incorrect:** Legal status depends on the applicable statute. The option states: It has no legal personality in any State.
+- **D - Incorrect:** SFAC support does not equal ownership. The option states: It is automatically controlled by SFAC.
 
-A. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-B. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-C. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-D. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
+**Examiner trap 21:** Compare statutes before asserting voting or surplus rules.
+
+### MCQ 22
+
+The main economy-of-scale benefit of an FPO is:
+
+A. Eliminating all production risk.
+B. Pooling volume and services to lower unit transaction costs and improve buyer or input terms.
+C. Converting every member's land into common ownership.
+D. Guaranteeing an MSP sale.
 
 **Answer: B.**
-**Explanation:** An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q27. Which statement uses FPO definition without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Weather and production risks remain. The option states: Eliminating all production risk.
+- **B - Correct:** Collective volume can spread fixed costs and strengthen negotiation. The option states: Pooling volume and services to lower unit transaction costs and improve buyer or input terms.
+- **C - Incorrect:** Aggregation need not pool land title. The option states: Converting every member's land into common ownership.
+- **D - Incorrect:** MSP procurement is separate. The option states: Guaranteeing an MSP sale.
 
-A. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-B. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-C. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-D. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
+**Examiner trap 22:** Member count must translate into actual throughput.
+
+### MCQ 23
+
+Which is the strongest indicator of FPO governance quality?
+
+A. Registration certificate alone.
+B. A one-time grant alone.
+C. Transparent accounts, accountable board decisions, active member participation and fair benefit distribution.
+D. The largest possible inventory regardless of sales.
 
 **Answer: C.**
-**Explanation:** An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q28. Which option avoids the standard UPSC close-option trap about FPO definition?
+**Option-wise explanation:**
+- **A - Incorrect:** Registration is only legal formation. The option states: Registration certificate alone.
+- **B - Incorrect:** Grant receipt is not sustainability. The option states: A one-time grant alone.
+- **C - Correct:** Governance concerns control, information and member outcomes. The option states: Transparent accounts, accountable board decisions, active member participation and fair benefit distribution.
+- **D - Incorrect:** Unsold inventory can destroy value. The option states: The largest possible inventory regardless of sales.
 
-A. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-B. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-C. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-D. An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
+**Examiner trap 23:** Collective ownership without accountability can produce elite capture.
+
+### MCQ 24
+
+Which statement accurately dates the 10,000-FPO scheme?
+
+A. Launched under the repealed 2020 farm laws and ended in 2021.
+B. It makes every FPO profitable by statute.
+C. It requires every FPO to be an APMC.
+D. Launched 29 February 2020; the target was reported achieved on 28 February 2025, with scheme support structured through 2027-28.
 
 **Answer: D.**
-**Explanation:** An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q29. Which statement correctly identifies FPO legal forms?
+**Option-wise explanation:**
+- **A - Incorrect:** The scheme is institutionally separate from those laws. The option states: Launched under the repealed 2020 farm laws and ended in 2021.
+- **B - Incorrect:** Commercial success is not guaranteed. The option states: It makes every FPO profitable by statute.
+- **C - Incorrect:** FPO and APMC are different entities. The option states: It requires every FPO to be an APMC.
+- **D - Correct:** The dates separate launch, formation milestone and support horizon. The option states: Launched 29 February 2020; the target was reported achieved on 28 February 2025, with scheme support structured through 2027-28.
 
-A. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-B. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-C. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-D. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
+**Examiner trap 24:** Formation target is not a viability outcome.
+
+### MCQ 25
+
+A well-designed contract-farming agreement should clearly specify:
+
+A. Price or formula, quality test, quantity, services, delivery, payment, force majeure and dispute route.
+B. Transfer of farmer land title to sponsor.
+C. A ban on every alternative buyer regardless of law.
+D. Only the crop name and sponsor logo.
 
 **Answer: A.**
-**Explanation:** The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q30. Which option preserves the accounting or regulatory boundary of FPO legal forms?
+**Option-wise explanation:**
+- **A - Correct:** Complete terms allocate risk and reduce later ambiguity. The option states: Price or formula, quality test, quantity, services, delivery, payment, force majeure and dispute route.
+- **B - Incorrect:** Land protection is essential. The option states: Transfer of farmer land title to sponsor.
+- **C - Incorrect:** Exclusivity needs lawful and proportionate terms. The option states: A ban on every alternative buyer regardless of law.
+- **D - Incorrect:** Minimal detail cannot govern quality or payment. The option states: Only the crop name and sponsor logo.
 
-A. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-B. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-C. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-D. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
+**Examiner trap 25:** Assured buyer does not mean risk-free contract.
+
+### MCQ 26
+
+What is the correct view of direct purchase and private markets?
+
+A. Private means legally unregulated.
+B. They can widen channel choice where State law permits, but still need competition, disclosure, payment and remedies.
+C. Direct purchase always gives the highest price.
+D. They automatically eliminate all intermediating functions.
 
 **Answer: B.**
-**Explanation:** The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q31. Which statement uses FPO legal forms without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Private markets remain subject to law. The option states: Private means legally unregulated.
+- **B - Correct:** Alternative channels require credible rules and buyer diversity. The option states: They can widen channel choice where State law permits, but still need competition, disclosure, payment and remedies.
+- **C - Incorrect:** Price depends on competition and costs. The option states: Direct purchase always gives the highest price.
+- **D - Incorrect:** Aggregation and logistics still occur. The option states: They automatically eliminate all intermediating functions.
 
-A. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-B. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-C. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-D. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
+**Examiner trap 26:** Choice without contestability can create private monopsony.
+
+### MCQ 27
+
+What is WDRA's role?
+
+A. It fixes MSP for warehouse commodities.
+B. It operates every APMC auction.
+C. It regulates registered warehouses and the negotiable warehouse-receipt framework under the 2007 Act.
+D. It is the competition regulator for traders.
 
 **Answer: C.**
-**Explanation:** The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q32. Which option avoids the standard UPSC close-option trap about FPO legal forms?
+**Option-wise explanation:**
+- **A - Incorrect:** MSP decisions have another institution. The option states: It fixes MSP for warehouse commodities.
+- **B - Incorrect:** Market committees operate yards. The option states: It operates every APMC auction.
+- **C - Correct:** WDRA's statutory perimeter is warehousing and receipts. The option states: It regulates registered warehouses and the negotiable warehouse-receipt framework under the 2007 Act.
+- **D - Incorrect:** CCI handles general competition law. The option states: It is the competition regulator for traders.
 
-A. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-B. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-C. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-D. The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
+**Examiner trap 27:** Regulated warehouse does not mean government-owned warehouse.
+
+### MCQ 28
+
+Which statement about e-NWR is correct?
+
+A. Every informal storage slip is an e-NWR.
+B. An e-NWR guarantees a bank loan at zero risk.
+C. Pledging an e-NWR always transfers ownership to the lender immediately.
+D. For WDRA-registered warehouses, electronic NWR issuance became mandatory from 1 June 2019 through recognised repositories.
 
 **Answer: D.**
-**Explanation:** The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q33. Which statement correctly identifies FPO functions?
+**Option-wise explanation:**
+- **A - Incorrect:** Informal slips lack the regulated framework. The option states: Every informal storage slip is an e-NWR.
+- **B - Incorrect:** Lenders still appraise credit and collateral. The option states: An e-NWR guarantees a bank loan at zero risk.
+- **C - Incorrect:** Pledge and ownership transfer are distinct. The option states: Pledging an e-NWR always transfers ownership to the lender immediately.
+- **D - Correct:** The date and registered-warehouse perimeter are essential. The option states: For WDRA-registered warehouses, electronic NWR issuance became mandatory from 1 June 2019 through recognised repositories.
 
-A. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-B. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-C. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-D. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
+**Examiner trap 28:** Receipt, pledge, ownership and commodity are separate.
+
+### MCQ 29
+
+Which reform best addresses post-harvest loss?
+
+A. Commodity-specific coordination of handling, packing, storage, transport and processing at the failing stage.
+B. A universal wastage percentage applied to every crop.
+C. Only a new mobile application.
+D. Only higher production regardless of handling.
 
 **Answer: A.**
-**Explanation:** The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q34. Which option preserves the accounting or regulatory boundary of FPO functions?
+**Option-wise explanation:**
+- **A - Correct:** Loss type and chain stage determine the remedy. The option states: Commodity-specific coordination of handling, packing, storage, transport and processing at the failing stage.
+- **B - Incorrect:** Loss estimates vary. The option states: A universal wastage percentage applied to every crop.
+- **C - Incorrect:** Digital information cannot replace physical controls. The option states: Only a new mobile application.
+- **D - Incorrect:** More output may increase unmanaged loss. The option states: Only higher production regardless of handling.
 
-A. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-B. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-C. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-D. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
+**Examiner trap 29:** Diagnose quantity loss, quality loss and value loss separately.
 
-**Answer: B.**
-**Explanation:** The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 30
 
-### Q35. Which statement uses FPO functions without losing its vintage, basket or legal status?
+Why do supermarkets not literally eliminate all intermediaries?
 
-A. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-B. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-C. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-D. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-
-**Answer: C.**
-**Explanation:** The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about FPO functions?
-
-A. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-B. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-C. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-D. The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-
-**Answer: D.**
-**Explanation:** The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies FPO viability?
-
-A. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-B. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-C. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-D. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-
-**Answer: A.**
-**Explanation:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of FPO viability?
-
-A. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-B. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-C. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-D. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
+A. They purchase without quality standards.
+B. They internalise or contract aggregation, grading, finance and logistics even when bypassing commission agents.
+C. They never exercise buyer power.
+D. They replace all State law with private contracts.
 
 **Answer: B.**
-**Explanation:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q39. Which statement uses FPO viability without losing its vintage, basket or legal status?
+**Option-wise explanation:**
+- **A - Incorrect:** Retail chains usually specify quality. The option states: They purchase without quality standards.
+- **B - Correct:** Functions persist although the performer changes. The option states: They internalise or contract aggregation, grading, finance and logistics even when bypassing commission agents.
+- **C - Incorrect:** Buyer concentration can create monopsony risk. The option states: They never exercise buyer power.
+- **D - Incorrect:** Private sourcing remains legally bounded. The option states: They replace all State law with private contracts.
 
-A. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-B. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-C. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-D. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
+**Examiner trap 30:** Middleman identity can change while intermediation remains.
 
-**Answer: C.**
-**Explanation:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 31
 
-### Q40. Which option avoids the standard UPSC close-option trap about FPO viability?
+Which statement correctly maps competition oversight?
 
-A. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-B. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-C. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-D. Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-
-**Answer: D.**
-**Explanation:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies Warehouse-receipt finance?
-
-A. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-B. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-C. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-D. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-
-**Answer: A.**
-**Explanation:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of Warehouse-receipt finance?
-
-A. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-B. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-C. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-D. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-
-**Answer: B.**
-**Explanation:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses Warehouse-receipt finance without losing its vintage, basket or legal status?
-
-A. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-B. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-C. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-D. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
+A. CCI writes every State APMC Act.
+B. APMC committees decide all national cartel cases.
+C. State market authorities shape mandi architecture, while CCI addresses anti-competitive conduct under the Competition Act where applicable.
+D. A large buyer is automatically an unlawful cartel.
 
 **Answer: C.**
-**Explanation:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Warehouse-receipt finance?
+**Option-wise explanation:**
+- **A - Incorrect:** State legislatures and authorities control APMC law. The option states: CCI writes every State APMC Act.
+- **B - Incorrect:** CCI has the general antitrust mandate. The option states: APMC committees decide all national cartel cases.
+- **C - Correct:** Architecture and conduct oversight have different legal homes. The option states: State market authorities shape mandi architecture, while CCI addresses anti-competitive conduct under the Competition Act where applicable.
+- **D - Incorrect:** Size alone does not prove prohibited conduct. The option states: A large buyer is automatically an unlawful cartel.
 
-A. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-B. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-C. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-D. A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
+**Examiner trap 31:** Separate market structure, conduct, evidence and remedy.
 
-**Answer: D.**
-**Explanation:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+### MCQ 32
 
-### Q45. Which statement correctly identifies WDRA layer?
+What is the best integrated reform package?
 
-A. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-B. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-C. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-D. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-
-**Answer: A.**
-**Explanation:** The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of WDRA layer?
-
-A. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-B. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-C. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-D. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-
-**Answer: B.**
-**Explanation:** The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses WDRA layer without losing its vintage, basket or legal status?
-
-A. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-B. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-C. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
-D. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-
-**Answer: C.**
-**Explanation:** The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about WDRA layer?
-
-A. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-B. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-C. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-D. The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
+A. Platform expansion alone.
+B. Repeal of all market institutions alone.
+C. Compulsory procurement of every crop by FCI.
+D. State-law interoperability, competitive entry, FPO capacity, trusted assaying, storage finance, logistics, payment and accessible dispute resolution.
 
 **Answer: D.**
-**Explanation:** The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q49. Which statement correctly identifies Supply and value chains?
+**Option-wise explanation:**
+- **A - Incorrect:** Digital reach needs supporting institutions. The option states: Platform expansion alone.
+- **B - Incorrect:** Removal without replacement can leave thin markets. The option states: Repeal of all market institutions alone.
+- **C - Incorrect:** Universal procurement is not Topic 13 reform. The option states: Compulsory procurement of every crop by FCI.
+- **D - Correct:** The package completes legal, physical and financial links. The option states: State-law interoperability, competitive entry, FPO capacity, trusted assaying, storage finance, logistics, payment and accessible dispute resolution.
 
-A. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-B. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-C. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-D. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-
-**Answer: A.**
-**Explanation:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q50. Which option preserves the accounting or regulatory boundary of Supply and value chains?
-
-A. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-B. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-C. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-D. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-
-**Answer: B.**
-**Explanation:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses Supply and value chains without losing its vintage, basket or legal status?
-
-A. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-B. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-C. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-D. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-
-**Answer: C.**
-**Explanation:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Supply and value chains?
-
-A. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-B. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-C. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-D. A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-
-**Answer: D.**
-**Explanation:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies Karnataka ReMS?
-
-A. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-B. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-C. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-D. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-
-**Answer: A.**
-**Explanation:** Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of Karnataka ReMS?
-
-A. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-B. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-C. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-D. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-
-**Answer: B.**
-**Explanation:** Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses Karnataka ReMS without losing its vintage, basket or legal status?
-
-A. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-B. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-C. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-D. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-
-**Answer: C.**
-**Explanation:** Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Karnataka ReMS?
-
-A. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-B. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-C. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-D. Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-
-**Answer: D.**
-**Explanation:** Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Bihar repeal lesson?
-
-A. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-B. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-C. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-D. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-
-**Answer: A.**
-**Explanation:** Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Bihar repeal lesson?
-
-A. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-B. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-C. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-D. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-
-**Answer: B.**
-**Explanation:** Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Bihar repeal lesson without losing its vintage, basket or legal status?
-
-A. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-B. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-C. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-D. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-
-**Answer: C.**
-**Explanation:** Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Bihar repeal lesson?
-
-A. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-B. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-C. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-D. Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-
-**Answer: D.**
-**Explanation:** Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies Farm-law episode?
-
-A. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-B. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-C. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-D. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-
-**Answer: A.**
-**Explanation:** The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of Farm-law episode?
-
-A. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-B. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-C. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-D. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-
-**Answer: B.**
-**Explanation:** The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses Farm-law episode without losing its vintage, basket or legal status?
-
-A. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-B. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-C. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-D. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-
-**Answer: C.**
-**Explanation:** The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Farm-law episode?
-
-A. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-B. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-C. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-D. The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
-
-**Answer: D.**
-**Explanation:** The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Contract asymmetry?
-
-A. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-B. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-C. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-D. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-
-**Answer: A.**
-**Explanation:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Contract asymmetry?
-
-A. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-B. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-C. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-D. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-
-**Answer: B.**
-**Explanation:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Contract asymmetry without losing its vintage, basket or legal status?
-
-A. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-B. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-C. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-D. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-
-**Answer: C.**
-**Explanation:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Contract asymmetry?
-
-A. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-B. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-C. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-D. Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-
-**Answer: D.**
-**Explanation:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Intermediary function?
-
-A. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-B. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-C. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-D. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-
-**Answer: A.**
-**Explanation:** Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Intermediary function?
-
-A. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-B. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-C. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-D. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-
-**Answer: B.**
-**Explanation:** Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Intermediary function without losing its vintage, basket or legal status?
-
-A. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-B. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-C. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-D. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-
-**Answer: C.**
-**Explanation:** Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Intermediary function?
-
-A. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-B. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-C. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-D. Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-
-**Answer: D.**
-**Explanation:** Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Direct-procurement examples?
-
-A. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-B. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-C. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-D. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-
-**Answer: A.**
-**Explanation:** The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Direct-procurement examples?
-
-A. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-B. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-C. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-D. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-
-**Answer: B.**
-**Explanation:** The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Direct-procurement examples without losing its vintage, basket or legal status?
-
-A. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-B. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-C. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-D. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-
-**Answer: C.**
-**Explanation:** The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Direct-procurement examples?
-
-A. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-B. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-C. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-D. The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-
-**Answer: D.**
-**Explanation:** The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies High-value crop chain?
-
-A. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-B. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-C. An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-D. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-
-**Answer: A.**
-**Explanation:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of High-value crop chain?
-
-A. APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-B. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-C. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-D. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-
-**Answer: B.**
-**Explanation:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses High-value crop chain without losing its vintage, basket or legal status?
-
-A. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-B. e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-C. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-D. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-
-**Answer: C.**
-**Explanation:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about High-value crop chain?
-
-A. Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-B. A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
-C. The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
-D. High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
-
-**Answer: D.**
-**Explanation:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 32:** Agricultural-market reform is institutions plus infrastructure, not an app.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### VERIFIED ROUTED MAINS DEMANDS
 
-Audited ledgers route Mains demands on supermarkets, transport and marketing constraints, upstream and downstream bottlenecks, high-value crops and supply-chain management. Objective demands on Tea Board and Small Farmer Large Field are retained as concept routes without inferred answer letters.
+These demands are verified through audited official-paper routing ledgers. The formulations below are neutral demand renderings and the solutions are original models, not official UPSC answers.
 
-### OWNER PYQ LEDGER EXTRACTS
+### 2018 GS-III ROUTE — SUPERMARKETS AND INTERMEDIARIES
 
-#### 9. PYQ application
+**Demand:** Examine whether supermarkets can eliminate intermediaries in agricultural marketing.
 
-- ⚠️ 2025 GS-III: Scope and significance of supply-chain management of agricultural commodities.
-- ⚠️ 2025 GS-III: Factors shaping farmers' choice of high-value crops.
-- ⚠️ **Supply-chain answer route:** trace aggregation, grading, warehousing, finance, transport, processing, standards and final market access; then identify where value, spoilage risk or bargaining power gets concentrated.
-- ⚠️ **High-value-crop answer route:** add perishability, irrigation reliability, buyer contracts, cold-chain depth, FPO support and logistics to the usual price-and-water discussion.
-- ⚠️ **Unfamiliar-question route:** if the paper asks whether reform should focus on APMC laws or logistics, compare Karnataka ReMS, Bihar repeal, e-NAM, NWRs and FPOs rather than arguing in absolutes.
-- ⚠️ **2018 GS-III Q4 route (supermarkets and intermediary elimination):** use Section 5A — name Reliance Retail/e-Choupal/Safal, explain why the aggregation-grading-logistics function is retained even as the traditional commission-agent layer is bypassed, and add the monopsony/bargaining-power counter-evidence before concluding.
+**Model solution:** Supermarkets can bypass commission agents through direct sourcing, but aggregation, grading, finance, transport and quality control do not disappear. Retailers internalise these functions or contract them to collection centres and logistics providers. This may reduce repeated handling and improve demand signals. Yet dispersed farmers can face monopsony-like bargaining where only a few organised buyers operate. FPO aggregation, transparent specifications, prompt payment, competing channels and enforceable contracts are therefore essential. The correct conclusion is functional substitution, not the literal disappearance of intermediation.
 
-**Demand decoding:** The directive **answer** requires a direct position on “9. PYQ application”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+### 2020 GS-III ROUTE — TRANSPORT AND MARKETING CONSTRAINTS
 
-**Detailed examiner-grade model answer:**
+**Demand:** Identify constraints in transporting and marketing agricultural produce.
 
-**Introduction and thesis:** The answer must resolve the Economy demand in “9. PYQ application”.
+**Model solution:** Constraints begin with small, scattered lots, weak first-mile collection, poor packing and limited assaying. Inadequate storage and working capital force harvest-time sales. Unreliable transport, fragmented loads, perishability and missing cold links raise delivered cost. State-level licences, fees and market rules can restrict buyer reach, while thin competition and tied credit weaken bargaining. Digital price information cannot solve these physical and institutional gaps alone. Aggregation, packhouses, scientific storage, warehouse finance, interoperable markets and accountable settlement must advance together.
 
-**Analytical body:**
+### 2022 GS-III ROUTE — UPSTREAM AND DOWNSTREAM BOTTLENECKS
 
-1. **Claim and named evidence:** ⚠️ 2025 GS-III: Scope and significance of supply-chain management of agricultural commodities. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** ⚠️ 2025 GS-III: Factors shaping farmers' choice of high-value crops. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** ⚠️ Supply-chain answer route: trace aggregation, grading, warehousing, finance, transport, processing, standards and final market access; then identify where value, spoilage risk or bargaining power gets concentrated. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** ⚠️ High-value-crop answer route: add perishability, irrigation reliability, buyer contracts, cold-chain depth, FPO support and logistics to the usual price-and-water discussion. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** ⚠️ Unfamiliar-question route: if the paper asks whether reform should focus on APMC laws or logistics, compare Karnataka ReMS, Bihar repeal, e-NAM, NWRs and FPOs rather than arguing in absolutes. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+**Demand:** Discuss upstream and downstream bottlenecks in agricultural marketing.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Model solution:** Upstream bottlenecks include fragmented production, uneven quality, poor aggregation, missing extension for standards and inadequate harvest planning. Downstream constraints include assaying, storage, working capital, transport, processing, buyer concentration, payment delay and weak dispute resolution. APMC reform can widen legal choice; e-NAM can improve discovery; FPOs can create scale; WDRA receipts can finance inventory. However, each tool addresses only part of the chain. Reform should measure completed, paid and delivered trades and member benefit rather than portals, licences or registrations alone.
 
-**Qualified conclusion:** The answer must resolve the Economy demand in “9. PYQ application”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “9. PYQ application”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-#### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
-
-- **Years represented:** 2025
-- **Paper(s):** GS-III
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | GS-III | 3 | Factors influencing farmers' selection of high-value crops | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2025 | GS-III | 4 | Scope and significance of supply-chain management of agricultural commodities | Elaborate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Factors influencing farmers' selection of high-value crops
-- Scope and significance of supply-chain management of agricultural commodities
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2018, 2020, 2022, 2023
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 5
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 4 | Supermarkets in agricultural supply chain and intermediary elimination | Examine · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 3 | Constraints in transport and marketing of agricultural produce | What are · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 13 | Bottlenecks in upstream and downstream agricultural marketing in India | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | Prelims GS-I | 79 | Tea Board India statutory body ministry and overseas offices | Objective question; official key unavailable locally | Commodity-sector specialist plus statutory-body classification Core; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 26 | Small Farmer Large Field cooperative agricultural concept | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Supermarkets in agricultural supply chain and intermediary elimination
-- Constraints in transport and marketing of agricultural produce
-- Bottlenecks in upstream and downstream agricultural marketing in India
-- Tea Board India statutory body ministry and overseas offices
-- Small Farmer Large Field cooperative agricultural concept
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ 2025 GS-III: Supply-chain management of agricultural commodities.
-- ⚠️ 2025 GS-III: Factors shaping farmers' choice of high-value crops.
-- ⚠️ **Supply-chain answer engine:** map product, information, payment and risk flows from
-  farm gate to consumer; assess aggregation, assaying, cold/ordinary storage, working
-  capital, logistics, processing, standards and contracts before prescribing an app or
-  a new mandi.
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2018, 2020, 2022
-- **Paper(s):** GS-III
-- **Routed question demands:** 3
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-III | 4 | Supermarkets in agricultural supply chain and intermediary elimination | Examine · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 3 | Constraints in transport and marketing of agricultural produce | What are · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 13 | Bottlenecks in upstream and downstream agricultural marketing in India | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Supermarkets in agricultural supply chain and intermediary elimination
-- Constraints in transport and marketing of agricultural produce
-- Bottlenecks in upstream and downstream agricultural marketing in India
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### PYQ DEMAND CARD 1 — 2018 GS-III
-
-**Demand:** Examine whether supermarkets can eliminate intermediaries in agricultural supply chains.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **Intermediary function:** Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed. **Direct-procurement examples:** The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary. **FPO viability:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Contract asymmetry:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2018 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Intermediary function:** Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed. **Direct-procurement examples:** The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary. **FPO viability:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Contract asymmetry:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Examine whether supermarkets can eliminate intermediaries in agricultural supply chains. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Intermediary function:** Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed. **Direct-procurement examples:** The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary. **FPO viability:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Contract asymmetry:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2018 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 2 — 2020 GS-III
-
-**Demand:** Identify constraints in transport and marketing of agricultural produce.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **Market committee function:** APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade. **Assaying:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Settlement and logistics:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **Warehouse-receipt finance:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. **High-value crop chain:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2020 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Market committee function:** APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade. **Assaying:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Settlement and logistics:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **Warehouse-receipt finance:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. **High-value crop chain:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Identify constraints in transport and marketing of agricultural produce. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Market committee function:** APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade. **Assaying:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Settlement and logistics:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **Warehouse-receipt finance:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. **High-value crop chain:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2020 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 3 — 2022 GS-III
-
-**Demand:** Discuss bottlenecks in upstream and downstream agricultural marketing.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **Assaying:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Settlement and logistics:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **FPO viability:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Supply and value chains:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. **Contract asymmetry:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. **High-value crop chain:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2022 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Assaying:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Settlement and logistics:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **FPO viability:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Supply and value chains:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. **Contract asymmetry:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. **High-value crop chain:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Discuss bottlenecks in upstream and downstream agricultural marketing. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Assaying:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Settlement and logistics:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **FPO viability:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Supply and value chains:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. **Contract asymmetry:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. **High-value crop chain:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2022 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 4 — 2025 GS-III
-
-**Demand:** Elaborate the scope and significance of supply-chain management for agricultural commodities.
-
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
-
-**Model solution:** **Supply and value chains:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. **Assaying:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Settlement and logistics:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **Warehouse-receipt finance:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. **High-value crop chain:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 4 — 2025 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Supply and value chains:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. **Assaying:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Settlement and logistics:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **Warehouse-receipt finance:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. **High-value crop chain:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Elaborate the scope and significance of supply-chain management for agricultural commodities. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Supply and value chains:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. **Assaying:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Settlement and logistics:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **Warehouse-receipt finance:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. **High-value crop chain:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 4 — 2025 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 5 — 2025 GS-III
+### 2025 GS-III ROUTE — HIGH-VALUE CROP CHOICE
 
 **Demand:** Explain factors influencing farmers' selection of high-value crops.
 
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
+**Model solution:** Expected net return matters, but farmers also assess water, climate, skill, seed, labour, perishability, buyer specifications and price volatility. High-value crops require reliable collection, grading, cold-chain continuity, processing or retail demand and timely payment. Contract farming or FPO marketing can reduce search and aggregation costs, while weak enforcement can increase rejection risk. Credit and insurance belong mainly to Topic 14 and cold-chain scheme design to Topic 15. Crop choice is therefore a farm-to-market risk decision, not a response to headline price alone.
 
-**Model solution:** **FPO viability:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Contract asymmetry:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. **High-value crop chain:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+### 2025 GS-III ROUTE — SUPPLY-CHAIN MANAGEMENT
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 5 — 2025 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Demand:** Elaborate the scope and significance of agricultural supply-chain management.
 
-**Detailed examiner-grade model answer:**
+**Model solution:** Supply-chain management coordinates product, information, money and risk from farmgate through aggregation, grading, storage, transport, processing and final sale. It reduces avoidable loss, matches quality with demand, improves traceability and can expand farmer market access. FPOs create scale; e-NAM supports discovery; WDRA e-NWRs connect inventory with finance. Yet value distribution depends on buyer competition, contracts and governance. Successful management must therefore optimise the whole chain while preserving farmer bargaining and accessible dispute resolution.
 
-**Introduction and thesis:** **FPO viability:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Contract asymmetry:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. **High-value crop chain:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+### OBJECTIVE PYQ ROUTING — KEY WITHHELD WHERE NOT LOCALLY VERIFIED
 
-**Analytical body:**
+| Year / paper | Routed official-paper demand | Key discipline |
+|---|---|---|
+| 2022 Prelims GS-I Q79 | Tea Board statutory-body, ministry and overseas-office statements | Answer withheld pending official UPSC key. |
+| 2023 Prelims GS-I Q26 | Small Farmer Large Field cooperative agricultural concept | Answer withheld pending official UPSC key. |
 
-1. **Claim and named evidence:** Demand: Explain factors influencing farmers' selection of high-value crops. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **FPO viability:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Contract asymmetry:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. **High-value crop chain:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 5 — 2025 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish APMC regulation from e-NAM trading. Answer in about 150 words.
+**Question:** Why is e-NAM necessary but insufficient for a national agricultural market? Answer in 150 words.
 
-**Model thesis:** **Claim:** APMC legal layer. **Named evidence/example:** An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Market committee function. **Named evidence/example:** APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** e-NAM boundary. **Named evidence/example:** e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** e-NAM launch. **Named evidence/example:** The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+e-NAM is a common electronic trading and price-information layer operated by SFAC through participating mandis. It can widen bid visibility, create transaction records and reduce dependence on purely local information.
 
-- An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ.
-- APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade.
-- e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics.
-- The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard.
+However, software does not create a national market by itself. State law must permit electronic trade and portable participation. Lots need trusted assaying and grading; buyers need title clarity, payment settlement, logistics, delivery acceptance and an accessible dispute route. For bulky or perishable produce, a distant bid may disappear after freight and quality risk are deducted.
 
-**Qualified conclusion:** **Claim:** APMC legal layer. **Named evidence/example:** An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Market committee function. **Named evidence/example:** APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** e-NAM boundary. **Named evidence/example:** e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** e-NAM launch. **Named evidence/example:** The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+The PIB status of 1,656 integrated mandis by March 2026 measures platform reach, not active competition or completed inter-State trade. Therefore reform must join digital connectivity with legal interoperability, quality infrastructure, transport, finance and remedies.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish APMC regulation from e-NAM trading. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Native-body word count:** 142 / 150.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** APMC legal layer. **Named evidence/example:** An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Market committee function. **Named evidence/example:** APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** e-NAM boundary. **Named evidence/example:** e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** e-NAM launch. **Named evidence/example:** The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** APMC legal layer. **Named evidence/example:** An Agricultural Produce Market Committee operates under the applicable state marketing law for notified produce, market yards, licensing, fees and local practices; state designs differ. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Market committee function. **Named evidence/example:** APMC regulation supplies a legal and institutional market layer, but competition, assaying, storage, payment and dispute resolution determine the quality of actual trade. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** e-NAM boundary. **Named evidence/example:** e-NAM is an electronic trading and price-discovery layer connecting participating mandis; it does not itself abolish APMC laws or create physical logistics. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** e-NAM launch. **Named evidence/example:** The repository owner records e-NAM as launched in 2016; any current count of mandis, states, lots or participants requires a dated official dashboard. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish APMC regulation from e-NAM trading. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named statutory or institutional evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Why are assaying and settlement indispensable to digital trade? Answer in about 150 words.
+**Question:** Distinguish FPO, Farmer Producer Company and cooperative FPO. Answer in 150 words.
 
-**Model thesis:** **Claim:** Assaying. **Named evidence/example:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Settlement and logistics. **Named evidence/example:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+FPO is the functional umbrella: a farmer-member legal entity that aggregates inputs, services, produce or marketing. It does not prescribe one statute.
 
-- Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements.
-- A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work.
+A Farmer Producer Company is an FPO incorporated under Chapter XXIA of the Companies Act, 2013. The company route provides legal personality, share capital, board governance and producer-oriented objects. A cooperative FPO instead follows the applicable State cooperative law or Multi-State Cooperative Societies law.
 
-**Qualified conclusion:** **Claim:** Assaying. **Named evidence/example:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Settlement and logistics. **Named evidence/example:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+All three labels may pursue scale and bargaining, but registration, voting, capital, audit and surplus rules depend on the governing statute and organisational documents. The central 10,000-FPO scheme can support eligible forms; it does not make them legally identical. Registration also does not prove active membership, professional management, working capital or commercial viability.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why are assaying and settlement indispensable to digital trade? Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Native-body word count:** 140 / 150.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Assaying. **Named evidence/example:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Settlement and logistics. **Named evidence/example:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Assaying. **Named evidence/example:** Assaying and grading convert heterogeneous produce into credible tradable categories, enabling comparison and distant bidding while imposing quality-measurement requirements. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Settlement and logistics. **Named evidence/example:** A displayed bid becomes a completed trade only when payment, title, loading, transport, delivery, grievance handling and quality settlement work. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Why are assaying and settlement indispensable to digital trade? Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named statutory or institutional evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Explain the legal role and commercial constraints of FPOs. Answer in about 250 words.
+**Question:** Critically examine the role and limitations of APMC markets in India. Answer in 250 words.
 
-**Model thesis:** **Claim:** FPO definition. **Named evidence/example:** An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FPO legal forms. **Named evidence/example:** The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FPO functions. **Named evidence/example:** The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FPO viability. **Named evidence/example:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+APMC systems are State-law institutions for notified produce, market areas, yards, trader licensing, fees and trade practices. Their original economic role was to create an organised venue with auction, weighment, records, payment norms and dispute channels for dispersed farmers.
 
-- An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical.
-- The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members.
-- The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects.
-- Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
+These functions remain valuable where private buyer density and enforcement are weak. A common yard lowers search cost, and licensing can improve traceability. Yet performance varies across States. Restricted entry, multiple permissions, opaque fees, congestion and inadequate reinvestment can fragment markets. Local trader concentration, tied credit and perishability may turn formal auctions into weak competition. Mandatory routing can also raise transport and handling costs.
 
-**Qualified conclusion:** **Claim:** FPO definition. **Named evidence/example:** An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FPO legal forms. **Named evidence/example:** The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FPO functions. **Named evidence/example:** The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FPO viability. **Named evidence/example:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+The Union's Model APMC Act, 2003 and Model APLM Act, 2017 promoted private markets, direct purchase, unified licensing, electronic trade and wider market places. They are templates, not binding national statutes; State enactment, rules and capacity determine results. Bihar's repeal and Karnataka's unified-market approach show why legal labels alone cannot establish outcomes.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the legal role and commercial constraints of FPOs. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Reform should preserve useful public-market functions while making entry contestable, fees transparent and licences portable. Assaying, storage finance, logistics, e-payments and quick disputes must accompany legal choice. APMC reform should therefore replace territorial monopoly with accountable competition, not simply remove institutions and assume markets will emerge.
 
-**Detailed examiner-grade model answer:**
+**Native-body word count:** 221 / 250.
 
-**Introduction and thesis:** **Claim:** FPO definition. **Named evidence/example:** An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FPO legal forms. **Named evidence/example:** The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FPO functions. **Named evidence/example:** The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FPO viability. **Named evidence/example:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** FPO definition. **Named evidence/example:** An FPO is a producer organisation whose members are farmers; a producer organisation may take more than one legal form, so FPO and cooperative are not universally identical. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FPO legal forms. **Named evidence/example:** The official SFAC FAQ states that a producer organisation can be a producer company, cooperative society or another legal form that shares benefits among members. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FPO functions. **Named evidence/example:** The SFAC FAQ lists production, procurement, grading, pooling, marketing, processing, member services, resource conservation, insurance and finance among possible producer-company objects. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** FPO viability. **Named evidence/example:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Explain the legal role and commercial constraints of FPOs. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named statutory or institutional evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** How does warehouse-receipt finance reduce distress sale? Answer in about 250 words.
+**Question:** Assess e-NAM as an instrument of agricultural-market integration. Answer in 250 words.
 
-**Model thesis:** **Claim:** Warehouse-receipt finance. **Named evidence/example:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** WDRA layer. **Named evidence/example:** The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+The National Agriculture Market, launched in 2016 and operated by SFAC, provides a common electronic layer for participating mandis. Online bidding, price information, assaying support and electronic payment can widen the potential buyer set and improve transaction traceability.
 
-- A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted.
-- The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse.
+Its scale is substantial but must be dated. A PIB backgrounder of 13 April 2026 reported 1,656 integrated mandis across 23 States and four Union Territories by March 2026, covering 247 commodities. Integration, however, is an administrative platform measure rather than proof that every lot is assayed, sold remotely, paid promptly or moved across States.
 
-**Qualified conclusion:** **Claim:** Warehouse-receipt finance. **Named evidence/example:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** WDRA layer. **Named evidence/example:** The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+Three interoperabilities determine outcomes. Legal interoperability requires State authority for e-trading, valid licences, fee treatment and enforceable title. Physical interoperability requires sampling, common grades, packing, transport, delivery and re-testing. Financial interoperability requires reliable payment, reconciliation, warehouse finance and remedies. Low-value bulky produce and perishables may remain local because freight or spoilage destroys the distant-price advantage.
 
-**Demand decoding:** The directive **answer** requires a direct position on “How does warehouse-receipt finance reduce distress sale? Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Performance should therefore be judged by competitive bids, assayed lots, completed delivery, settlement time, farmer netback and dispute resolution, not registration alone. e-NAM is best treated as digital public market infrastructure that complements State-law reform, FPO aggregation, WDRA-linked storage, logistics and local mandi capacity.
 
-**Detailed examiner-grade model answer:**
+**Native-body word count:** 213 / 250.
 
-**Introduction and thesis:** **Claim:** Warehouse-receipt finance. **Named evidence/example:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** WDRA layer. **Named evidence/example:** The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Warehouse-receipt finance. **Named evidence/example:** A negotiable warehouse receipt can separate harvest-time cash need from sale timing by supporting credit against stored produce, provided storage, grading and documentation are trusted. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** WDRA layer. **Named evidence/example:** The Warehousing Development and Regulatory Authority anchors the regulated warehousing and negotiable-receipt framework; a receipt is not credible merely because a building is called a warehouse. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “How does warehouse-receipt finance reduce distress sale? Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named statutory or institutional evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Compare Karnataka integration, Bihar repeal and the 2020-2021 farm-law episode. Answer in about 300 words.
+**Question:** Evaluate FPOs as a response to smallholder disadvantages in agricultural markets. Answer in 250 words.
 
-**Model thesis:** **Claim:** Karnataka ReMS. **Named evidence/example:** Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Bihar repeal lesson. **Named evidence/example:** Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Farm-law episode. **Named evidence/example:** The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Smallholders sell small, heterogeneous lots and face high per-unit costs of information, assaying, transport and negotiation. An FPO can aggregate produce and input demand, create common quality lots, hire professional services, obtain storage or working capital and negotiate with processors, retailers or exporters.
 
-- Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions.
-- Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement.
-- The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated.
+The legal form matters. An FPO may be a Producer Company under Companies Act Chapter XXIA or a cooperative under applicable cooperative law. Governance, capital, voting and audit rules therefore cannot be generalised. The Central Sector Scheme launched on 29 February 2020 supported formation, handholding, equity and credit guarantees; PIB reported the 10,000 target achieved on 28 February 2025, with support architecture extending through 2027-28.
 
-**Qualified conclusion:** **Claim:** Karnataka ReMS. **Named evidence/example:** Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Bihar repeal lesson. **Named evidence/example:** Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Farm-law episode. **Named evidence/example:** The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+Formation is only the first stage. Commercial viability requires active member supply, reliable quality, working capital, capable management, repeat buyers and transparent benefit distribution. Side-selling can weaken volumes, while inventory price falls or buyer default can damage the balance sheet. Grant dependence, elite capture and weak board oversight can distance the enterprise from members.
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare Karnataka integration, Bihar repeal and the 2020-2021 farm-law episode. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Policy should measure throughput, repeat transactions, prompt member payment and net benefit rather than registrations. Cluster design must follow viable commodities and market demand. FPOs are institutions for scale and bargaining, but they complement rather than replace competition, infrastructure, credit appraisal and State capacity.
 
-**Detailed examiner-grade model answer:**
+**Native-body word count:** 227 / 250.
 
-**Introduction and thesis:** **Claim:** Karnataka ReMS. **Named evidence/example:** Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Bihar repeal lesson. **Named evidence/example:** Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Farm-law episode. **Named evidence/example:** The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Karnataka ReMS. **Named evidence/example:** Karnataka's ReMS model illustrates unified rules, assaying and electronic processes within a reformed mandi architecture rather than digitisation detached from physical institutions. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Bihar repeal lesson. **Named evidence/example:** Bihar's APMC repeal illustrates that removing a statutory mandi does not automatically create assaying, private competition, storage, roads or enforceable settlement. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Farm-law episode. **Named evidence/example:** The Farmers' Produce Trade and Commerce Act, 2020 created an outside-APMC channel and was repealed through the Farm Laws Repeal Act, 2021; legal status and federal trust must be dated. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Compare Karnataka integration, Bihar repeal and the 2020-2021 farm-law episode. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named statutory or institutional evidence -> economic analysis -> qualification -> concise conclusion.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Design an agricultural supply chain that improves price realisation without replacing one monopsony with another. Answer in about 300 words.
+**Question:** Design an integrated reform strategy for India's agricultural supply chains. Answer in 250 words.
 
-**Model thesis:** **Claim:** FPO viability. **Named evidence/example:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Supply and value chains. **Named evidence/example:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Contract asymmetry. **Named evidence/example:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intermediary function. **Named evidence/example:** Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Direct-procurement examples. **Named evidence/example:** The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** High-value crop chain. **Named evidence/example:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+Reform should begin with the complete chain: farmgate aggregation, quality measurement, competitive discovery, settlement, storage, finance, logistics, processing and final demand. A failure at any link lowers farmer net realisation.
 
-- Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability.
-- A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate.
-- Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal.
-- Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed.
-- The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary.
-- High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss.
+First, States should adapt market law to permit contestable public, private, direct and electronic channels, with unified licensing, transparent single-point fees and accessible disputes. Central model Acts remain advisory; enactment and rules must reflect local commodities and safeguards. CCI can address anti-competitive conduct where its statute applies, while State authorities remain responsible for mandi architecture.
 
-**Qualified conclusion:** **Claim:** FPO viability. **Named evidence/example:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Supply and value chains. **Named evidence/example:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Contract asymmetry. **Named evidence/example:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intermediary function. **Named evidence/example:** Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Direct-procurement examples. **Named evidence/example:** The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** High-value crop chain. **Named evidence/example:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+Second, e-NAM should be deepened from onboarding to completed trade through accredited assaying, common data standards, electronic payment, logistics and delivery acceptance. Third, FPOs need member equity, accountable boards, professional management, working capital and repeat buyers, not registration alone. Fourth, WDRA e-NWRs can connect scientific storage with pledge finance, provided warehouse quality and lender confidence are credible.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Design an agricultural supply chain that improves price realisation without replacing one…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Perishable chains require packhouses and uninterrupted cold movement, whose detailed scheme design belongs to Topic 15. Export and organised-retail channels need traceability and balanced contracts. MSP and public procurement remain Topic 12; production credit and insurance remain Topic 14.
 
-**Detailed examiner-grade model answer:**
+Success should be measured by freight-adjusted farmer netback, lower loss, timely payment, buyer participation and effective remedies. Agricultural-market reform is institutions plus infrastructure and standards, not platform expansion alone.
 
-**Introduction and thesis:** **Claim:** FPO viability. **Named evidence/example:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Supply and value chains. **Named evidence/example:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Contract asymmetry. **Named evidence/example:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intermediary function. **Named evidence/example:** Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Direct-procurement examples. **Named evidence/example:** The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** High-value crop chain. **Named evidence/example:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
+**Native-body word count:** 230 / 250.
 
-**Analytical body:**
-
-1. **Claim and named evidence:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** FPO viability. **Named evidence/example:** Aggregation can reduce transaction cost and improve bargaining, but working capital, professional management, member trust, business volume and reliable buyers determine viability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Supply and value chains. **Named evidence/example:** A supply chain traces product, information, payment and risk from inputs to retail, while a value-chain lens additionally asks where value is created and margins or power accumulate. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Contract asymmetry. **Named evidence/example:** Contract farming may reduce buyer uncertainty but can shift quality, rejection, price and enforcement risk onto small farmers when bargaining and dispute-resolution capacity are unequal. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intermediary function. **Named evidence/example:** Organised retail or direct procurement can replace the traditional commission-agent layer, but aggregation, grading, finance and logistics functions still have to be performed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Direct-procurement examples. **Named evidence/example:** The owner uses ITC e-Choupal, Mother Dairy Safal and organised retail sourcing as named examples, while cautioning that reach, commodity scope and bargaining outcomes vary. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** High-value crop chain. **Named evidence/example:** High-value crop choice depends on water, perishability, cold-chain depth, standards, contract terms and buyer access; production promotion without downstream demand can increase loss. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Design an agricultural supply chain that improves price realisation without replacing one…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Answer audit:** Definition and thesis -> named statutory or institutional evidence -> economic analysis -> qualification -> concise conclusion.

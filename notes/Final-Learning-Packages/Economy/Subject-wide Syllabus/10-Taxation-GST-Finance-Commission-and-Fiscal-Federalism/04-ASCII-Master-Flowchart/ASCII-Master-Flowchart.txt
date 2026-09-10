@@ -1,74 +1,108 @@
-ASCII MASTER FLOW — PANEL 1/12: Tax-incidence fork
-DIRECT TAX -> legal incidence on income/profit base
-INDIRECT TAX -> transaction/consumption levy
-BURDEN may shift through prices
-PROGRESSIVITY requires incidence and base analysis
-MUST REMEMBER: Tax design balances revenue, equity, efficiency, certainty and compliance;...
+ECONOMY TOPIC 10 — TAXATION, GST, FINANCE COMMISSION AND FISCAL FEDERALISM
+Current-source cutoff: 9 September 2026
 
-ASCII MASTER FLOW — PANEL 2/12: GST value-add chain
-OUTPUT TAX
-minus ELIGIBLE INPUT TAX CREDIT
--> TAX ON VALUE ADDITION
--> DESTINATION-JURISDICTION REVENUE
+MASTER ANSWER SPINE
+Tax design -> constitutional assignment -> statutory levy -> administration
+-> incidence and revenue -> devolution/grants -> equity, efficiency and federal trust
 
-ASCII MASTER FLOW — PANEL 3/12: Subsumed-tax map
-UNION -> excise on covered items + service tax + CVD/SAD
-STATE -> VAT/CST + entry + luxury + specified entertainment
-RESULT -> reduced cascading through ITC
-VERIFY item and legal vintage
++----------------------------------------------------------------------------+
+| 1/12 TAX PRINCIPLES                                                        |
+|  -> Tax base + rate -> liability                                           |
+|  -> Statutory incidence != economic incidence                              |
+|  -> Equity | efficiency | certainty | simplicity                           |
+|  -> Buoyancy includes policy change; elasticity excludes it                |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Outside-GST boundary
-BASIC CUSTOMS DUTY
-STAMP / PROPERTY / ELECTRICITY DUTIES
-ALCOHOL FOR HUMAN CONSUMPTION
-SPECIFIED PETROLEUM PRODUCTS -> owner-vintage status
++----------------------------------------------------------------------------+
+| 2/12 CONSTITUTIONAL POWER                                                  |
+|  -> Art 246: Seventh Schedule                                              |
+|  -> Art 246A: special GST power                                            |
+|  -> Art 248: residuary power subject to 246A                               |
+|  -> Inter-State GST: Parliament exclusive                                  |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: GST Council voting board
-ARTICLE 279A
-CENTRE -> 1/3 weighted votes
-STATES -> 2/3 weighted votes
-DECISION -> at least 3/4 weighted votes
++----------------------------------------------------------------------------+
+| 3/12 GST LEGAL LADDER                                                      |
+|  -> Council recommends                                                     |
+|  -> Legislature enacts                                                     |
+|  -> Executive notifies within authority                                    |
+|  -> Effective date controls liability                                      |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Inter-state settlement rail
-INTER-STATE SUPPLY
--> IGST COLLECTION
--> INPUT-CREDIT ADJUSTMENT
--> DESTINATION SETTLEMENT
-CLOSE DISTINCTION: Direct is not always progressive, GST rate recommendation is not levy...
++----------------------------------------------------------------------------+
+| 4/12 GST SUPPLY MAP                                                        |
+|  -> Supply -> place -> time -> value -> rate                               |
+|  -> Intra-State: CGST + SGST/UTGST                                         |
+|  -> Inter-State/import: IGST                                               |
+|  -> Destination assignment through settlement                              |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Compensation timeline
-2015-16 -> protected-revenue base
-2017-2022 -> five-year guarantee
-14% -> stated annual protected growth
-TRANSITIONAL -> not permanent entitlement
++----------------------------------------------------------------------------+
+| 5/12 INPUT CREDIT                                                          |
+|  -> Output tax - eligible input tax = net payment                          |
+|  -> Blocked/exempt-use credit can become cost                              |
+|  -> Zero-rated retains credit route                                        |
+|  -> Exempt/nil/non-GST are distinct                                        |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Finance Commission map
-VERTICAL -> Union versus states share
-HORIZONTAL -> distribution among states
-XV-FC -> owner records 41%
-XVI-FC -> 2026-27 to 2030-31; accepted 41%
++----------------------------------------------------------------------------+
+| 6/12 PERIMETER                                                             |
+|  -> Subsumed: service tax, VAT and named covered levies                    |
+|  -> Outside: alcohol for human consumption                                 |
+|  -> Petroleum basket awaits Art 279A(5) date                               |
+|  -> Customs/stamp/electricity/property levies survive                      |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Divisible-pool boundary
-ORDINARY SHAREABLE UNION TAXES
--> DIVISIBLE POOL
-CESSES / SURCHARGES -> distinct treatment
-FEDERAL EFFECT -> state untied-space concern
++----------------------------------------------------------------------------+
+| 7/12 COUNCIL AND COURT                                                     |
+|  -> Centre weight 1/3; States together 2/3                                 |
+|  -> Decision threshold: 3/4 weighted votes                                 |
+|  -> Mohit Minerals, 19 May 2022                                            |
+|  -> Recommendations persuasive, enacted law binding                        |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Administration and enforcement
-CBDT -> Union direct taxes
-CBIC + STATE ADMIN -> indirect tax / GST
-ED / DRI / DGGI -> Revenue Department agencies
-FUNCTIONS remain legally distinct
++----------------------------------------------------------------------------+
+| 8/12 CURRENT GST                                                           |
+|  -> Most rate changes: 22 Sep 2025                                         |
+|  -> Broad: 5 merit | 18 standard | 40 special                              |
+|  -> Compensation cess specified entries nil: 1 Feb 2026                    |
+|  -> Always check item notification                                         |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: Tax-base edge cases
-ALLIED RURAL ACTIVITY != automatic agricultural income
-RURAL AGRICULTURAL LAND -> statutory conditions
-EQUALISATION LEVY -> specified digital-service history
-INDIRECT TRANSFER -> offshore form, Indian-value link
++----------------------------------------------------------------------------+
+| 9/12 COMPLIANCE                                                            |
+|  -> Registration threshold != composition threshold                        |
+|  -> Invoice-return-credit data chain                                       |
+|  -> Inversion -> credit accumulation/refund issue                          |
+|  -> Fake invoice -> wrongful ITC network risk                              |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: Fiscal-federal answer spine
-DEFINE base, incidence and destination
-MAP collection, ITC and settlement
-SEPARATE devolution, grants and cesses
-BALANCE harmonisation, autonomy and trust
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Separate Constitution, statute, Council...
++----------------------------------------------------------------------------+
+| 10/12 DIRECT TAX                                                           |
+|  -> Income-tax Act 2025 + Rules 2026                                       |
+|  -> Commenced 1 Apr 2026                                                   |
+|  -> Personal | company | capital gains                                     |
+|  -> TDS/TCS = collection + information + credit                            |
++----------------------------------------------------------------------------+
+
++----------------------------------------------------------------------------+
+| 11/12 FINANCE COMMISSION                                                   |
+|  -> Arts 280-281                                                           |
+|  -> Vertical: Union versus States                                          |
+|  -> Horizontal: among States                                               |
+|  -> Art 275 grants; Art 282 public-purpose grants                          |
++----------------------------------------------------------------------------+
+
++----------------------------------------------------------------------------+
+| 12/12 XVI-FC 2026-31                                                       |
+|  -> Vertical accepted: 41% of divisible-pool net proceeds                  |
+|  -> Weights: 42.5 income distance; 17.5 population                         |
+|  -> 10 each: demography, area, forest, GDP contribution                    |
+|  -> Council != Commission != Budget                                        |
++----------------------------------------------------------------------------+
+
+FINAL TRAP CONTROL
+- Recommendation != statute != notification != implementation.
+- 41% applies to divisible-pool net proceeds, not gross receipts.
+- Zero-rated != exempt != nil-rated != non-GST.
+- Vertical division is between levels; horizontal division is among States.

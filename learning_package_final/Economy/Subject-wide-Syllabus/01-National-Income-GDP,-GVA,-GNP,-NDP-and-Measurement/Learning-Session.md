@@ -1,3039 +1,2284 @@
----
-title: "National Income: GDP, GVA, GNP, NDP and Measurement — Learner-v2 Refreshed"
-topic_key: economy-01
-cover_image: assets/economy-01_Teaching-Navigation_2026-09-03.png
----
-# National Income: GDP, GVA, GNP, NDP and Measurement — Learner-v2 Complete Learning Session
+# National Income: GDP, GVA, GNI/GNP, NDP, NNI and Measurement - Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.
+**Subject:** Economy | **UPSC:** Prelims and GS-III | **Current-data cutoff:** 9 September 2026
 
-### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
+### SOURCE AND STATUS CONTROL
 
-- **Generation date:** 2026-09-03.
-- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
-- **OCR evidence:** Repository Markdown was primary. OCR-searchable local official General Studies papers were used only to confirm printed routed demands. No answer key, marking scheme, unsupported page precision or current macroeconomic statistic was inferred from them.
-- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
-- **PYQ integrity:** Audited Economy ledgers route 2020 GS-III on potential GDP and output gap and 2021 GS-III on the pre/post-2015 GDP methodology change to this Basic owner. Objective routes on ICOR, PPP, sector classification, physical capital and intangible investment are retained as concepts without inventing answer letters.
-- **Live-link boundary:** Live official checks on 2026-09-03 did not yield independently extractable national-accounts text. The package therefore preserves the owner's exact 27 February 2026 release date, 2022-23 base, back-series cutoff and estimate-vintage cautions without manufacturing a fresh growth number.
-- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
+| Layer | Sources checked | Use |
+|---|---|---|
+| Canonical Core | `upsc-ai-kit\knowledge\Economy\basic\01_National-Income-GDP-GVA-and-Measurement.md` and complete Topic 1 package | Complete syllabus spine and routed PYQs |
+| Optional Advanced | `upsc-ai-kit\knowledge\Economy\advanced\01_National-Income-GDP-GVA-and-Measurement.md` | Clearly separated enrichment |
+| OCR books | Ramesh Singh, *Indian Economy*, local PDF pp. 83-95; Economic Survey 2025-26, local PDF pp. 67-74 | Deeper explanation and 2015/measurement context |
+| Official current | MoSPI press notes dated 7 January, 27 February and 5 June 2026; MoSPI NAS release dated 31 August 2026; ARC updated 25 May 2026 | Current base, methods, estimates and release cycle |
+| Official PYQs | Local UPSC papers and official 2024 Set-A key | Exact wording and key discipline |
 
-### LIVE OFFICIAL-SOURCE ATTEMPT LOG
-
-The checks below were made on 2026-09-03. Substantive official text is used only for the proposition it actually supports; binary files, dynamic shells, stubs and undated dashboard snippets are recorded but not converted into current claims.
-
-- https://mospi.gov.in/uploads/release_calendar/1772190058170_Press_Note_on_New_Series_of_GDP_Estimates_with_Base_Year_2022-23_27022026.pdf — attempted 2026-09-03; the official PDF was retrievable only as binary content through the live fetcher, so no text or number was extracted from that attempt and the repository owner's dated record was used unchanged.
-- https://esankhyiki.mospi.gov.in/macroindicators?product=cpi&tab=metadata — attempted 2026-09-03; only the Ministry title shell was returned, so no national-accounts claim was taken from it.
+**Static/current rule:** Definitions and identities below are stable accounting concepts. Every
+current Indian estimate, release-stage statement or methodology status is labelled with its
+official source date. The local Ramesh Singh edition is used for conceptual history, but its loose
+treatment of private remittances as factor income is corrected: personal transfers are secondary
+income, whereas labour/property returns are primary income.
 
 ## BASIC LEARNING SESSION
 
-### DEEP-REVIEW LEARNING CONTRACT
+### LEARNING CONTRACT
 
-| Control | Binding rule for this package |
+- Core teaching is visual first and independent of Optional Advanced material.
+- Every session includes a definition, answer-grabbing line, keywords, named evidence, a
+  claim-evidence-analysis-qualification paragraph, a Prelims trap, Mains use and recap.
+- Current figures retain period, base year, price basis and estimate vintage.
+- Topic boundaries are explicit: HDI/MPI detail belongs to Economy Topic 2; green accounting to
+  Topic 25.
+
+### SESSION 1 - Circular flow and the three measurement approaches
+
+#### VISUAL FIRST
+
+```text
+HOUSEHOLDS --labour/capital--> FIRMS --goods/services--> HOUSEHOLDS
+     ^                           |                         |
+     | wages, rent, interest,    | value added             | final spending
+     | mixed income, profits     v                         v
+     +---------------------- INCOME = OUTPUT = EXPENDITURE
+
+Production approach: sum value added
+Income approach: sum incomes generated in production
+Expenditure approach: sum final expenditure on domestic output
+```
+
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
+
+#### DEFINITION
+
+National accounting is a double-entry system that records production, the incomes generated by that production and final expenditure on that production over a stated period.
+
+#### ANSWER-GRABBING LINE
+
+> The three approaches converge because they observe one transaction chain from three sides: output creates income, and final expenditure purchases that output.
+
+#### MUST-WRITE KEYWORDS
+
+- **circular flow**
+- **value added**
+- **primary income**
+- **final expenditure**
+- **accounting identity**
+- **statistical discrepancy**
+
+#### CORE EXPLANATION
+
+The production approach starts with output and deducts intermediate consumption. The income approach allocates the resulting value added to compensation of employees, operating surplus, mixed income and relevant taxes less subsidies on production. The expenditure approach records private and government final consumption, capital formation and net exports.
+Conceptual equality does not imply that separately compiled estimates will match exactly. Survey frames, company filings, government accounts, customs records, price indices, inventory valuation and reporting dates differ. The residual needed to reconcile independently estimated totals is a statistical discrepancy, not a fourth source of output.
+A behavioural claim must not be smuggled into an identity. `GDP = C + I + G + (X-M)` records how measured output is finally used; it does not prove that raising any one component mechanically causes an equal persistent rise in real GDP.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** A credible GDP answer begins with an accounting identity rather than a causal slogan.
+- **Named evidence:** MoSPI's 27 February 2026 new-series press note states that Supply and Use Table integration is used to improve reconciliation between production- and expenditure-side estimates.
+- **Analysis:** The identity disciplines inclusion and prevents double counting, while separate source systems explain why measured routes can diverge.
+- **Qualification:** Reconciliation improves consistency, but revisions remain necessary as fuller source data arrive.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
 |---|---|
-| Syllabus boundary | Complete Economy Basic/Core is answer-complete before optional Advanced depth. |
-| Formula boundary | Formula, numerator, denominator, unit, stock/flow, nominal/real, base year, level/rate and accounting identity are explicit. |
-| Institutional boundary | Constitution, statute, delegated rule, regulator mandate, policy, recommendation, scheme and implementation outcome remain distinct. |
-| Transmission method | Shock or instrument → prices/quantities/balance sheets/incentives → institution and market response → output, employment, distribution, stability and external effect → lag and trade-off. |
-| Current-data method | Source → release date → reference period → unit/denominator → provisional/revised/final status; incompatible Budget, Survey or statistical vintages are never mixed. |
-| Programme-status method | Announced → approved → notified/guidelines issued → funded → operational → utilised → output → outcome are separate stages. |
-| External/WTO method | Agreement text, member category, box, limit, notification, consultation, dispute and ruling are qualified without invented thresholds. |
-| Causal method | Accounting identity, chronology and correlation are not promoted into behavioural or causal claims without mechanism, counterfactual and alternatives. |
-| Answer balance | Model answers balance growth, distribution, stability, sustainability and federal dimensions with India-centric evidence. |
-| Practice contract | Every solved item has demand decoding, a detailed examiner-grade model, executable timed/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
+| Evidence | MoSPI's 27 February 2026 new-series press note states that Supply and Use Table integration is used to improve reconciliation between production- and expenditure-side estimates. |
+| Prelims trap | Statistical discrepancy is a reconciliation item; it is not unrecorded GDP added as a separate activity. |
+| Mains use | Use the circular-flow diagram to introduce any question on methods, discrepancies or revisions. |
 
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Economy\basic\01_National-Income-GDP-GVA-and-Measurement.md`  
-**Substantive canonical provenance owner:** `upsc-ai-kit\knowledge\Economy\01_National-Income-GDP-GVA-GNP-NDP-and-Measurement_Learner-V2-Complete-Topic-Package.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Economy\advanced\01_National-Income-GDP-GVA-and-Measurement.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Economy\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
+#### MINI RECAP
 
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
+- One economy, three accounting windows.
+- Output equals income equals final expenditure conceptually.
+- Different data sources create measured discrepancies.
 
-- Every data-heavy table states unit, denominator, geography, reference period and source/status.
-- GDP/GVA, gross/net, domestic/national, nominal/real and level/rate distinctions remain exact.
-- Monetary, fiscal and external chains state intermediaries, balance-sheet channels, lags, leakages and trade-offs.
-- Budget and Economic Survey editions are never mixed; BE, RE, Actual, advance/provisional/revised/final estimates remain labelled.
-- Scheme and programme claims distinguish announcement, approval, notification, operation, coverage, utilisation and measured outcome.
-- WTO boxes, limits, de minimis, special treatment, notifications and disputes are qualified from authoritative rules.
-- PYQ wording is preserved only where verified; reconstructed or routed demands remain labelled.
-- **Current-status note, rechecked 2026-09-06:** volatile rates, estimates, scheme status, trade rules and institutional claims retain official source, release date, reference period and revision status.
+---
 
-**Generation-local live/current sources:**
-- `https://mospi.gov.in/uploads/release_calendar/1772190058170_Press_Note_on_New_Series_of_GDP_Estimates_with_Base_Year_2022-23_27022026.pdf — attempted 2026-09-03; the official PDF was retrievable only as binary content through the live fetcher, so no text or number was extracted from that attempt and the repository owner's dated record was used unchanged.`
-- `https://esankhyiki.mospi.gov.in/macroindicators?product=cpi&tab=metadata — attempted 2026-09-03; only the Ministry title shell was returned, so no national-accounts claim was taken from it.`
-
-![Refreshed teaching navigation](assets/economy-01_Teaching-Navigation_2026-09-03.png)
-
-*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
-
-### SESSION 1 — FOUNDATION — Territory, residence and final expenditure
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Territory, residence and final expenditure explains how Territory-residence boundary and GDP expenditure identity fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Territory, residence and final expenditure separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Territory, residence and final expenditure must be read through Territory-residence boundary and GDP expenditure identity, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Territory**
-- **residence**
-- **final**
-- **expenditure**
-- **Territory-residence**
-- **boundary**
-
-**How to use them:** Define Territory, residence, final; attach expenditure to its named source, period and status; then qualify the answer with this limit: Do not treat every market transaction as current production; old-asset resale and transfers are excluded.
+### SESSION 2 - Production boundary, final use and value added
 
 #### VISUAL FIRST
 
 ```text
-TERRITORY, RESIDENCE AND FINAL EXPENDITURE
-01. Territory-residence boundary
-    |
-    v
-02. GDP expenditure identity
-BOUNDARY -> Do not treat every market transaction as current production; old-asset resale and transfers are excluded.
+WHEAT 20 --> FLOUR 35 --> BREAD 50 --> FINAL CONSUMER
+ VA 20       VA 15        VA 15
+
+SUM OF SALES = 105  [wrong if added]
+SUM OF VALUE ADDED = 20 + 15 + 15 = 50
+FINAL BREAD VALUE = 50
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
+The production boundary identifies which productive activities enter national accounts; value added equals output minus intermediate consumption.
 
-#### NAMED EVIDENCE AND MECHANISM
+#### ANSWER-GRABBING LINE
 
-- GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-- GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-
-#### EXAMINER CAUTION
-
-- Do not treat every market transaction as current production; old-asset resale and transfers are excluded.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Open with the accounting boundary, reconcile the formula, and only then assess performance.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Territory-residence boundary -> GDP expenditure identity
-- **Qualified use:** Open with the accounting boundary, reconcile the formula, and only then assess performance.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Territory, residence and final expenditure
-EXACT TERMS: Territory | residence | final | expenditure | Territory-residence | boundary
-MECHANISM / ARGUMENT: connect Territory-residence boundary and GDP expenditure identity through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Open with the accounting boundary, reconcile the formula, and only then assess performance.
-UPSC TRAP / ANSWER-USE: Do not treat every market transaction as current production; old-asset resale and transfers are excluded.
-ANSWER-GRABBING FORMULATION: Territory, residence and final expenditure converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 2 — FOUNDATION — Producer value added and purchaser prices
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Producer value added and purchaser prices explains how GDP-GVA reconciliation fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Producer value added and purchaser prices separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Producer value added and purchaser prices must be read through GDP-GVA reconciliation, with the formula or legal perimeter stated before the policy inference.
+> GDP counts the value created, not every invoice: the final-product method and the value-added method are alternative routes to the same total.
 
 #### MUST-WRITE KEYWORDS
 
-- **Producer**
-- **value**
-- **added**
-- **purchaser**
-- **prices**
-- **GDP-GVA**
+- **production boundary**
+- **intermediate consumption**
+- **final use**
+- **gross output**
+- **value added**
+- **double counting**
 
-**How to use them:** Define Producer, value, added; attach purchaser to its named source, period and status; then qualify the answer with this limit: Do not equate domestic territory with resident income; GDP and GNP answer different boundary questions.
+#### CORE EXPLANATION
+
+Whether a good is intermediate or final depends on its use, not its physical identity. Milk bought by a household is final consumption; the same milk bought by a confectioner is intermediate consumption. A machine purchased for repeated production is capital formation, not intermediate consumption.
+Own-account production of goods, qualifying own-account construction and recognised intellectual-property products can enter output. Most unpaid household services for own consumption remain outside the conventional boundary, but owner-occupied housing services are imputed.
+Inventory change is included in capital formation because output is recorded when produced, even if not yet sold. A stock accumulation may be intended or may signal weak demand; the accounting inclusion does not settle the economic interpretation.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** Value-added accounting is the operational defence against double counting.
+- **Named evidence:** MoSPI's National Accounts Statistics 2026 lists output, intermediate consumption, sectoral GVA, inventory-related capital formation and asset-type capital formation as separate published statements.
+- **Analysis:** Subtracting intermediate inputs at each stage attributes only newly created value, allowing sectoral contributions to sum consistently.
+- **Qualification:** Boundary decisions and imputations improve completeness but introduce classification and valuation uncertainty.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | MoSPI's National Accounts Statistics 2026 lists output, intermediate consumption, sectoral GVA, inventory-related capital formation and asset-type capital formation as separate published statements. |
+| Prelims trap | Final good does not mean physically finished; it means purchased for final use rather than further production in the accounting period. |
+| Mains use | Use the wheat-flour-bread example to explain value addition in two lines. |
+
+#### MINI RECAP
+
+- Use decides intermediate versus final.
+- Inventories count when produced.
+- Sum value added, not gross sales.
+
+---
+
+### SESSION 3 - Domestic territory, normal residence and primary income
 
 #### VISUAL FIRST
 
 ```text
-PRODUCER VALUE ADDED AND PURCHASER PRICES
-01. GDP-GVA reconciliation
-BOUNDARY -> Do not equate domestic territory with resident income; GDP and GNP answer different boundary questions.
+PRODUCTION INSIDE INDIA ------------------------------> GDP
+        |
+        + foreign-owned unit operating in India: INCLUDED
+
+GDP + primary income receivable from rest of world
+    - primary income payable to rest of world --------> GNI (legacy: GNP)
+
+PERSONAL REMITTANCE / GIFT = current transfer, not automatically primary income
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
+A domestic aggregate follows the location of production; a national aggregate follows the income of resident institutional units, not citizenship.
 
-#### NAMED EVIDENCE AND MECHANISM
+#### ANSWER-GRABBING LINE
 
-- GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-
-#### EXAMINER CAUTION
-
-- Do not equate domestic territory with resident income; GDP and GNP answer different boundary questions.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate measurement change from real economic change before drawing a growth conclusion.
-
-#### MINI RECAP
-
-- **Mechanism chain:** GDP-GVA reconciliation
-- **Qualified use:** Separate measurement change from real economic change before drawing a growth conclusion.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Producer value added and purchaser prices
-EXACT TERMS: Producer | value | added | purchaser | prices | GDP-GVA
-MECHANISM / ARGUMENT: connect GDP-GVA reconciliation through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate measurement change from real economic change before drawing a growth conclusion.
-UPSC TRAP / ANSWER-USE: Do not equate domestic territory with resident income; GDP and GNP answer different boundary questions.
-ANSWER-GRABBING FORMULATION: Producer value added and purchaser prices converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 3 — FOUNDATION — Gross output and depreciation
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Gross output and depreciation explains how Gross-net distinction fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Gross output and depreciation separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Gross output and depreciation must be read through Gross-net distinction, with the formula or legal perimeter stated before the policy inference.
+> Territory answers where production occurred; residence answers whose primary income accrued, and the bridge is net primary income from abroad.
 
 #### MUST-WRITE KEYWORDS
 
-- **Gross**
-- **output**
+- **domestic territory**
+- **normal residence**
+- **GNI**
+- **GNP**
+- **net primary income from abroad**
+- **current transfer**
+
+#### CORE EXPLANATION
+
+GDP includes production by resident and foreign-controlled units located within the domestic territory. GNI adds primary income receivable by residents from abroad and subtracts primary income payable to non-residents. GNP is the older product terminology commonly used as a synonym for GNI.
+Primary income includes compensation of employees and property income linked to labour or ownership of financial and productive assets. A household transfer sent without a quid pro quo is secondary income/current transfer, not automatically net factor or primary income from abroad.
+Residence is an economic-centre-of-interest concept and is not identical to nationality. An Indian citizen may be a non-resident for national-accounts purposes; a foreign citizen may belong to a resident institutional unit.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** Remittances must be classified by economic nature before entering any national-income formula.
+- **Named evidence:** The 2026 MoSPI release separately publishes GDP, national income and external transactions, preserving the domestic-to-national bridge.
+- **Analysis:** Compensation or investment income affects GNI, whereas personal transfers bridge national income to national disposable income.
+- **Qualification:** Popular textbooks often use 'income from abroad' loosely; exam answers should use net primary income from abroad and distinguish current transfers.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | The 2026 MoSPI release separately publishes GDP, national income and external transactions, preserving the domestic-to-national bridge. |
+| Prelims trap | Do not equate residence with citizenship or all remittances with factor income. |
+| Mains use | Draw the GDP-to-GNI bridge and explicitly separate primary income from transfers. |
+
+#### MINI RECAP
+
+- GDP is territorial.
+- GNI/GNP is resident-based.
+- Current transfers do not convert GDP into GNI.
+
+---
+
+### SESSION 4 - Gross versus net and consumption of fixed capital
+
+#### VISUAL FIRST
+
+```text
+GDP -- minus CFC/depreciation --> NDP
+GNI -- minus CFC/depreciation --> NNI
+
+GROSS: replacement cost of used-up fixed capital not deducted
+NET:   capital consumption deducted
+```
+
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
+
+#### DEFINITION
+
+Consumption of fixed capital (CFC) is the national-accounts estimate of the decline in the current value of fixed assets used in production because of wear, obsolescence and normal accidental damage.
+
+#### ANSWER-GRABBING LINE
+
+> Gross records production before the capital-maintenance charge; net asks how much remains after using up fixed capital.
+
+#### MUST-WRITE KEYWORDS
+
+- **gross**
+- **net**
+- **consumption of fixed capital**
 - **depreciation**
-- **Gross-net**
-- **distinction**
-- **measures**
+- **capital stock**
+- **NDP**
 
-**How to use them:** Define Gross, output, depreciation; attach Gross-net to its named source, period and status; then qualify the answer with this limit: Do not say net measures include depreciation; net measures deduct consumption of fixed capital.
+#### CORE EXPLANATION
+
+CFC is not simply the cash spent on repairs, nor is it identical to tax depreciation in company accounts. National accountants estimate the current replacement-value consumption of assets through service lives and asset-price information.
+NDP is GDP minus CFC. NNI is GNI minus CFC. Net aggregates can be analytically useful for sustainable income, but gross measures are often timelier and more robust because CFC is model-dependent.
+Natural-resource depletion is not the same as ordinary CFC in headline GDP. Environmental-economic accounts can adjust broader wealth or depletion, which belongs to green-accounting analysis rather than being silently deducted from conventional GDP.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** The gross-net distinction is a capital-maintenance adjustment, not a judgment about whether output is good or bad.
+- **Named evidence:** MoSPI's 31 August 2026 NAS release identifies CFC and Net Fixed Capital Stock as explicit revision channels affected by the new Producer Price Index inputs.
+- **Analysis:** Deducting CFC moves from total current production to production net of fixed-capital consumption.
+- **Qualification:** Because asset lives and replacement prices are estimated, net aggregates contain additional measurement uncertainty.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | MoSPI's 31 August 2026 NAS release identifies CFC and Net Fixed Capital Stock as explicit revision channels affected by the new Producer Price Index inputs. |
+| Prelims trap | Depreciation here is an accounting estimate of capital consumed, not a same-year cash transfer. |
+| Mains use | Use gross-to-net as one axis in the formula ladder and flag estimation uncertainty. |
+
+#### MINI RECAP
+
+- Gross includes CFC.
+- Net deducts CFC.
+- CFC is not repair expenditure or resource depletion.
+
+---
+
+### SESSION 5 - Basic prices, market prices and factor-cost legacy
 
 #### VISUAL FIRST
 
 ```text
-GROSS OUTPUT AND DEPRECIATION
-01. Gross-net distinction
-BOUNDARY -> Do not say net measures include depreciation; net measures deduct consumption of fixed capital.
+GVA AT BASIC PRICES
+ + taxes on products
+ - subsidies on products
+ = GDP AT MARKET PRICES
+
+FACTOR COST (legacy bridge)
+ = basic prices - other taxes on production + other subsidies on production
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
+Basic price is the amount retained by the producer per unit before product taxes and after product subsidies; market price is the purchaser-facing valuation after net taxes on products.
 
-#### NAMED EVIDENCE AND MECHANISM
+#### ANSWER-GRABBING LINE
 
-- Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-
-#### EXAMINER CAUTION
-
-- Do not say net measures include depreciation; net measures deduct consumption of fixed capital.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Use one named Indian revision, one method limitation and one welfare qualification.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Gross-net distinction
-- **Qualified use:** Use one named Indian revision, one method limitation and one welfare qualification.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Gross output and depreciation
-EXACT TERMS: Gross | output | depreciation | Gross-net | distinction | measures
-MECHANISM / ARGUMENT: connect Gross-net distinction through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Use one named Indian revision, one method limitation and one welfare qualification.
-UPSC TRAP / ANSWER-USE: Do not say net measures include depreciation; net measures deduct consumption of fixed capital.
-ANSWER-GRABBING FORMULATION: Gross output and depreciation converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 4 — CORE — Three routes to the same aggregate
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Three routes to the same aggregate explains how Three measurement methods fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Three routes to the same aggregate separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Three routes to the same aggregate must be read through Three measurement methods, with the formula or legal perimeter stated before the policy inference.
+> The GDP-GVA bridge is a valuation bridge: net product taxes convert producer-side basic-price value added into purchaser-side market-price GDP.
 
 #### MUST-WRITE KEYWORDS
 
-- **Three**
-- **routes**
-- **same**
-- **aggregate**
-- **methods**
-- **Production**
+- **basic prices**
+- **market prices**
+- **taxes on products**
+- **subsidies on products**
+- **other production taxes**
+- **factor cost**
 
-**How to use them:** Define Three, routes, same; attach aggregate to its named source, period and status; then qualify the answer with this limit: Do not splice 2011-12-base and 2022-23-base growth or levels without an official comparable series.
+#### CORE EXPLANATION
+
+Taxes on products are payable per unit or value of a good or service, such as GST-type product taxation; product subsidies lower the purchaser-facing price. Other taxes on production relate to the act of producing or employing factors and are not the GDP-GVA bridge.
+Factor cost is a legacy valuation concept. It excludes both product taxes and other production taxes while adding corresponding subsidies. Therefore basic prices and factor cost are close but not identical.
+GDP growth and aggregate GVA growth can diverge when net product taxes change. That divergence need not mean statisticians disagree about physical output; it may reflect the valuation bridge.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** A tax-driven GDP-GVA gap must be interpreted before attributing it to sectoral production.
+- **Named evidence:** India's 2015 revision made GDP at market prices the headline aggregate and GVA at basic prices the producer-side measure; MoSPI's 2022-23-base series retains the bridge.
+- **Analysis:** GVA isolates producer value added, while GDP includes the net product-tax component paid in final purchasers' prices.
+- **Qualification:** Tax accruals and subsidy recording can themselves be revised, so the gap is both economically meaningful and data-vintage sensitive.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | India's 2015 revision made GDP at market prices the headline aggregate and GVA at basic prices the producer-side measure; MoSPI's 2022-23-base series retains the bridge. |
+| Prelims trap | GVA at basic prices does not mean GDP at factor cost. |
+| Mains use | Write the bridge formula and explain one reason GDP and GVA growth can differ. |
+
+#### MINI RECAP
+
+- Product taxes/subsidies connect GVA and GDP.
+- Production taxes are a different category.
+- Factor cost is legacy, not a synonym for basic price.
+
+---
+
+### SESSION 6 - The complete aggregate and disposable-income ladder
 
 #### VISUAL FIRST
 
 ```text
-THREE ROUTES TO THE SAME AGGREGATE
-01. Three measurement methods
-BOUNDARY -> Do not splice 2011-12-base and 2022-23-base growth or levels without an official comparable series.
+GVA basic + net product taxes = GDP market prices
+GDP + NPIFA = GNI (GNP)
+GDP - CFC = NDP
+GNI - CFC = NNI
+GNI + net current transfers from abroad = GNDI
+NNI + net current transfers from abroad = NNDI
+Per-capita NNI = NNI / population
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
+The aggregate ladder changes one accounting axis at a time: valuation, territory-to-residence, gross-to-net and income-to-disposable-income.
 
-#### NAMED EVIDENCE AND MECHANISM
+#### ANSWER-GRABBING LINE
 
-- Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-
-#### EXAMINER CAUTION
-
-- Do not splice 2011-12-base and 2022-23-base growth or levels without an official comparable series.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Open with the accounting boundary, reconcile the formula, and only then assess performance.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Three measurement methods
-- **Qualified use:** Open with the accounting boundary, reconcile the formula, and only then assess performance.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Three routes to the same aggregate
-EXACT TERMS: Three | routes | same | aggregate | methods | Production
-MECHANISM / ARGUMENT: connect Three measurement methods through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Open with the accounting boundary, reconcile the formula, and only then assess performance.
-UPSC TRAP / ANSWER-USE: Do not splice 2011-12-base and 2022-23-base growth or levels without an official comparable series.
-ANSWER-GRABBING FORMULATION: Three routes to the same aggregate converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 5 — CORE — Value added and double-counting control
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Value added and double-counting control explains how Double-counting boundary fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Value added and double-counting control separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Value added and double-counting control must be read through Double-counting boundary, with the formula or legal perimeter stated before the policy inference.
+> Clean national-income arithmetic is a sequence of bridges, not a bag of abbreviations.
 
 #### MUST-WRITE KEYWORDS
 
-- **Value**
-- **added**
-- **double-counting**
-- **control**
-- **boundary**
-- **production**
+- **GDP**
+- **GVA**
+- **GNI/GNP**
+- **NDP**
+- **NNI**
+- **national disposable income**
 
-**How to use them:** Define Value, added, double-counting; attach control to its named source, period and status; then qualify the answer with this limit: Do not use nominal GDP growth as proof of volume growth or welfare improvement.
+#### CORE EXPLANATION
+
+Net primary income from abroad converts a domestic aggregate into a national aggregate. CFC converts gross into net. Net current transfers from abroad convert national income into national disposable income because transfers alter resources available for consumption or saving without being generated by current production.
+Per-capita income is an average. It controls for population size but says nothing by itself about distribution. The denominator and the price basis must match the analytical purpose.
+The ladder should preserve valuation labels. If the question gives GDP at market prices, do not silently report NNI at factor cost without making every tax/subsidy adjustment explicit.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** The safest formula answer states both the adjustment and the economic reason for it.
+- **Named evidence:** NAS 2026 publishes GDP, national income, per-capita income, consumption and external-transaction statements as related but distinct aggregates.
+- **Analysis:** Each bridge changes exactly one boundary, preventing remittances, depreciation and product taxes from being mixed.
+- **Qualification:** GNP remains common in exams, but GNI is the current income terminology; state the equivalence and use the source's label.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | NAS 2026 publishes GDP, national income, per-capita income, consumption and external-transaction statements as related but distinct aggregates. |
+| Prelims trap | National disposable income is not GDP plus all remittances; it follows GNI/NNI and adds net current transfers. |
+| Mains use | Use the ladder as the central diagram for definition/distinction questions. |
+
+#### MINI RECAP
+
+- Change one axis at a time.
+- NPIFA is not net current transfers.
+- Per-capita is an average, not distribution.
+
+---
+
+### SESSION 7 - Expenditure components, inventories and discrepancy
 
 #### VISUAL FIRST
 
 ```text
-VALUE ADDED AND DOUBLE-COUNTING CONTROL
-01. Double-counting boundary
-BOUNDARY -> Do not use nominal GDP growth as proof of volume growth or welfare improvement.
+GDP = PFCE + GFCE + GFCF + change in stocks + valuables
+      + exports - imports + statistical discrepancy
+
+Imports are subtracted because they may already appear inside C, I or G,
+not because imports are economically undesirable.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
+The expenditure approach totals final uses of domestically produced goods and services, with imports removed and independently estimated totals reconciled.
 
-#### NAMED EVIDENCE AND MECHANISM
+#### ANSWER-GRABBING LINE
 
-- The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-
-#### EXAMINER CAUTION
-
-- Do not use nominal GDP growth as proof of volume growth or welfare improvement.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate measurement change from real economic change before drawing a growth conclusion.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Double-counting boundary
-- **Qualified use:** Separate measurement change from real economic change before drawing a growth conclusion.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Value added and double-counting control
-EXACT TERMS: Value | added | double-counting | control | boundary | production
-MECHANISM / ARGUMENT: connect Double-counting boundary through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate measurement change from real economic change before drawing a growth conclusion.
-UPSC TRAP / ANSWER-USE: Do not use nominal GDP growth as proof of volume growth or welfare improvement.
-ANSWER-GRABBING FORMULATION: Value added and double-counting control converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 6 — CORE — Income coverage and expenditure boundaries
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Income coverage and expenditure boundaries explains how Income-side coverage and Expenditure-side boundary fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Income coverage and expenditure boundaries separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Income coverage and expenditure boundaries must be read through Income-side coverage and Expenditure-side boundary, with the formula or legal perimeter stated before the policy inference.
+> Expenditure GDP is a use-of-output account: classify final demand first, then remove the foreign-produced component.
 
 #### MUST-WRITE KEYWORDS
 
-- **Income**
-- **coverage**
-- **expenditure**
-- **boundaries**
-- **Income-side**
-- **Expenditure-side**
+- **PFCE**
+- **GFCE**
+- **GFCF**
+- **change in stocks**
+- **net exports**
+- **discrepancy**
 
-**How to use them:** Define Income, coverage, expenditure; attach boundaries to its named source, period and status; then qualify the answer with this limit: Do not describe every intangible outlay as investment; national-accounting capitalisation has a defined boundary.
+#### CORE EXPLANATION
+
+Private Final Consumption Expenditure covers household and relevant non-profit consumption. Government Final Consumption Expenditure measures current non-market services supplied by government. Gross Fixed Capital Formation records qualifying fixed assets, while change in stocks records inventories.
+Government capital expenditure is not the same as GFCE. Asset-creating public expenditure contributes to capital formation; salaries and intermediate purchases used to provide current public services enter government production and final consumption through national-accounting conventions.
+Exports add domestic production purchased abroad. Imports are deducted once because domestic final-use totals can include foreign products. The statistical discrepancy reconciles the expenditure estimate with the headline production-side estimate.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** Imports are a boundary correction, not a negative welfare score.
+- **Named evidence:** The 5 June 2026 MoSPI PE release publishes GDP expenditure components at current and constant 2022-23 prices and explains that Q4 information revised the annual estimate.
+- **Analysis:** Subtracting imports ensures the expenditure total measures domestic output even when residents consume or invest in foreign goods and services.
+- **Qualification:** Net exports can reduce expenditure GDP arithmetically while imports may still support investment, technology and future capacity.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | The 5 June 2026 MoSPI PE release publishes GDP expenditure components at current and constant 2022-23 prices and explains that Q4 information revised the annual estimate. |
+| Prelims trap | Do not equate government budget capital expenditure with GFCE. |
+| Mains use | Decode C, I, G and net exports into Indian national-accounts labels. |
+
+#### MINI RECAP
+
+- PFCE and GFCE are consumption.
+- GFCF and stocks are investment.
+- Imports correct the domestic boundary.
+
+---
+
+### SESSION 8 - Nominal, real, deflators, growth and per-capita change
 
 #### VISUAL FIRST
 
 ```text
-INCOME COVERAGE AND EXPENDITURE BOUNDARIES
-01. Income-side coverage
-    |
-    v
-02. Expenditure-side boundary
-BOUNDARY -> Do not describe every intangible outlay as investment; national-accounting capitalisation has a defined boundary.
+NOMINAL GDP = current-year quantities x current-year prices
+REAL GDP    = current-year quantities valued at reference prices/volume measures
+
+GDP DEFLATOR = (Nominal GDP / Real GDP) x 100
+REAL GROWTH  = [(Real GDP_t / Real GDP_t-1) - 1] x 100
+PER-CAPITA REAL GROWTH approximately real GDP growth - population growth
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
+Nominal aggregates combine price and volume change; real or constant-price aggregates aim to isolate changes in the volume of production.
 
-#### NAMED EVIDENCE AND MECHANISM
+#### ANSWER-GRABBING LINE
 
-- The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-- The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-
-#### EXAMINER CAUTION
-
-- Do not describe every intangible outlay as investment; national-accounting capitalisation has a defined boundary.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Use one named Indian revision, one method limitation and one welfare qualification.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Income-side coverage -> Expenditure-side boundary
-- **Qualified use:** Use one named Indian revision, one method limitation and one welfare qualification.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Income coverage and expenditure boundaries
-EXACT TERMS: Income | coverage | expenditure | boundaries | Income-side | Expenditure-side
-MECHANISM / ARGUMENT: connect Income-side coverage and Expenditure-side boundary through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Use one named Indian revision, one method limitation and one welfare qualification.
-UPSC TRAP / ANSWER-USE: Do not describe every intangible outlay as investment; national-accounting capitalisation has a defined boundary.
-ANSWER-GRABBING FORMULATION: Income coverage and expenditure boundaries converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 7 — CORE — Nominal output, real output and the deflator
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Nominal output, real output and the deflator explains how Nominal-real-deflator triangle fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Nominal output, real output and the deflator separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Nominal output, real output and the deflator must be read through Nominal-real-deflator triangle, with the formula or legal perimeter stated before the policy inference.
+> A growth claim is incomplete until the price basis, reference period and estimate vintage are stated.
 
 #### MUST-WRITE KEYWORDS
 
-- **Nominal**
-- **output**
-- **real**
+- **current prices**
+- **constant prices**
+- **volume**
+- **GDP deflator**
+- **growth rate**
+- **per-capita income**
+
+#### CORE EXPLANATION
+
+The GDP deflator is an implicit price index derived from the ratio of current-price to constant-price GDP. It covers domestically produced final output and therefore differs from CPI, which tracks a household consumption basket and can include imported consumption goods.
+Sectoral real GVA requires suitable price and volume indicators. A single WPI or CPI cannot accurately deflate every activity. Service quality, new products and informal activity make volume estimation especially difficult.
+A level, a growth rate and a share answer different questions. Sectoral contribution to growth depends on both a sector's weight and its growth; a small fast-growing sector may add less to aggregate growth than a large moderately growing sector.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** Real growth is an estimate of volume change, not a direct physical count of every service.
+- **Named evidence:** MoSPI's 2022-23-base series uses double deflation for agriculture and manufacturing and volume/single extrapolation for remaining sectors, according to the 27 February 2026 press note.
+- **Analysis:** Deflators and volume indicators remove estimated price movements, allowing inter-temporal comparison.
+- **Qualification:** Quality change and imperfect sector-specific price measures mean real growth remains estimated rather than observed without error.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | MoSPI's 2022-23-base series uses double deflation for agriculture and manufacturing and volume/single extrapolation for remaining sectors, according to the 27 February 2026 press note. |
+| Prelims trap | The GDP deflator is not CPI and does not directly include imported production. |
+| Mains use | Use a nominal-real-deflator triangle before quoting any growth number. |
+
+#### MINI RECAP
+
+- Nominal mixes prices and quantities.
+- Real targets volume.
+- Always label level, growth, share, base and vintage.
+
+---
+
+### SESSION 9 - Base year, constant prices and chain-volume caution
+
+#### VISUAL FIRST
+
+```text
+BASE REVISION
+  prices/weights + classifications + surveys + administrative data + methods
+                              |
+                              v
+NEW CONSTANT-PRICE SERIES ----+----> better current structure
+                              |
+                              '---> series break; use official back series
+
+CHAIN VOLUME = annually updated weights in some systems
+INDIA 2026 HEADLINE = 2022-23-base constant-price series; do not relabel it
+as a chain-linked GDP series without an explicit MoSPI statement.
+```
+
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
+
+#### DEFINITION
+
+A base year supplies a reference price and weight structure for constant-price estimates; rebasing updates the benchmark and may also update sources, classifications and methods.
+
+#### ANSWER-GRABBING LINE
+
+> Rebasing changes the measuring instrument, not the economy on the release date.
+
+#### MUST-WRITE KEYWORDS
+
+- **base year**
+- **constant prices**
+- **weights**
+- **back series**
+- **volume measure**
+- **series break**
+
+#### CORE EXPLANATION
+
+A distant base year can misrepresent new products, relative prices and sector weights. Revision can improve relevance but can alter both levels and growth rates because the source universe and methodology may change alongside prices.
+Chain-volume methods update weights frequently and link adjacent-period volume changes. They can reduce substitution bias but lose simple additivity across components. The concept is useful comparatively, but India's February 2026 headline GDP release is explicitly a constant-price series with base 2022-23.
+The 2026 Economic Survey discussed chain-based indices for the rebased IIP. That does not by itself establish that headline GDP is an annually chain-linked volume measure. Keep index methodology and national-accounts methodology separate.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** A new series should be compared through an official bridge, not by casually splicing old and new levels.
+- **Named evidence:** MoSPI, 27 February 2026: base year 2022-23 replaced 2011-12; MoSPI NAS release, 31 August 2026: updated PPI, IIP and Banking Services Price Index inputs revised estimates from 2022-23 onward.
+- **Analysis:** Rebasing improves contemporary representation but breaks naive time comparability.
+- **Qualification:** The degree of break depends on available overlapping estimates and official back-series documentation.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | MoSPI, 27 February 2026: base year 2022-23 replaced 2011-12; MoSPI NAS release, 31 August 2026: updated PPI, IIP and Banking Services Price Index inputs revised estimates from 2022-23 onward. |
+| Prelims trap | A base-year change cannot itself create real output. |
+| Mains use | Balance relevance gains against comparability and transparency costs. |
+
+#### MINI RECAP
+
+- Base is a measurement benchmark.
+- Revisions can alter weights and methods.
+- Do not call India chain-linked without official support.
+
+---
+
+### SESSION 10 - Sectoral contribution and structural reading
+
+#### VISUAL FIRST
+
+```text
+ACTIVITY VIEW                         CONTRIBUTION TO GROWTH
+Primary: agriculture, forestry,      sector weight x sector growth
+         fishing, mining
+Secondary: manufacturing,            SHARE != GROWTH RATE
+           utilities, construction
+Tertiary: services                    ACTIVITY != OWNERSHIP
+
+Institutional sectors: households | corporations | government | NPISH | rest of world
+```
+
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
+
+#### DEFINITION
+
+Sectoral GVA classifies production by economic activity, while institutional-sector accounts classify units by economic role and ownership form.
+
+#### ANSWER-GRABBING LINE
+
+> Structural transformation is read through shares, growth, productivity and employment together—not through a sector label alone.
+
+#### MUST-WRITE KEYWORDS
+
+- **primary sector**
+- **secondary sector**
+- **tertiary sector**
+- **sectoral GVA**
+- **contribution to growth**
+- **institutional sector**
+
+#### CORE EXPLANATION
+
+Storage is a service even when the stored item is agricultural. Weaving is manufacturing even when its raw material is farm output. Mineral extraction and exploration are tied to the primary/extractive domain in standard exam classification.
+A public-sector bank remains a financial service; ownership does not change the activity. Conversely, a household enterprise may produce manufacturing output while belonging to the household institutional sector.
+Sector share is sector GVA divided by aggregate GVA. Contribution to aggregate growth depends on both weight and growth. Employment share should be compared separately because output shares do not reveal labour absorption.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** Sectoral contribution is a weighted-growth question, not a ranking of growth rates.
+- **Named evidence:** NAS 2026 publishes GVA by economic activity, percentage shares and percentage changes as separate statements, underscoring that level, share and growth are distinct.
+- **Analysis:** Combining GVA shares with growth rates reveals which sectors drive aggregate change, while employment data test inclusiveness.
+- **Qualification:** Sector boundaries and deflators can be revised, especially for mixed and digital activities.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | NAS 2026 publishes GVA by economic activity, percentage shares and percentage changes as separate statements, underscoring that level, share and growth are distinct. |
+| Prelims trap | Do not classify an activity by who owns it or by the origin of its input. |
+| Mains use | Use share-growth-employment as a three-column structural transformation test. |
+
+#### MINI RECAP
+
+- Activity and institution are different classifications.
+- Share is not growth.
+- Contribution depends on weight and growth.
+
+---
+
+### SESSION 11 - Imputations, government output and non-market services
+
+#### VISUAL FIRST
+
+```text
+OBSERVED MARKET PRICE? --YES--> use transaction value under accounting rules
+          |
+          NO
+          v
+IS OUTPUT INSIDE PRODUCTION BOUNDARY?
+  |-- owner-occupied housing --> imputed rental service
+  |-- government non-market service --> sum of production costs
+  |-- financial intermediation --> explicit fees + FISIM allocation
+  '-- unpaid household care for own use --> generally outside core GDP
+```
+
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
+
+#### DEFINITION
+
+Imputation assigns an accounting value to production that is inside the production boundary but lacks an observable market transaction.
+
+#### ANSWER-GRABBING LINE
+
+> Non-market does not mean non-productive; national accounts use explicit conventions to value output when no market price exists.
+
+#### MUST-WRITE KEYWORDS
+
+- **imputation**
+- **owner-occupied housing**
+- **non-market output**
+- **cost valuation**
+- **FISIM**
+- **unpaid care**
+
+#### CORE EXPLANATION
+
+Owner-occupiers consume housing services from assets they own, so an imputed rental value improves comparability with tenants. Paid domestic services are market production; unpaid household care for own household members is generally excluded.
+Government education, health, administration and defence services are usually valued by costs because no economically significant market price exists. Cost valuation measures resources used, not the quality or outcome of the service.
+Financial Intermediation Services Indirectly Measured allocates part of the interest margin as service output rather than treating every interest flow as pure property income.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** Imputation closes a comparability gap but does not turn an estimated price into a directly observed transaction.
+- **Named evidence:** MoSPI's 27 February 2026 note records improved general-government coverage and inclusion of imputed housing services supplied by government to employees; NAS 2026 separately publishes FISIM by uses.
+- **Analysis:** The convention allows economically similar services to be counted consistently across ownership and payment forms.
+- **Qualification:** Valuation assumptions can affect levels and revisions, while output quantity and service quality remain separate.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | MoSPI's 27 February 2026 note records improved general-government coverage and inclusion of imputed housing services supplied by government to employees; NAS 2026 separately publishes FISIM by uses. |
+| Prelims trap | Government output is not measured by tax receipts or profit. |
+| Mains use | Use housing, government services and FISIM to show why GDP is broader than cash transactions. |
+
+#### MINI RECAP
+
+- Imputation requires production inside the boundary.
+- Government output is mainly cost-valued.
+- Unpaid care remains largely outside.
+
+---
+
+### SESSION 12 - Informal, unorganised, underground and illegal activity
+
+#### VISUAL FIRST
+
+```text
+ECONOMIC ACTIVITY
+  |-- formal/registered and observed ----------> direct records
+  |-- informal/unincorporated -----------------> surveys + benchmarks + indicators
+  |-- underground legal activity --------------> inside boundary in principle,
+  |                                               hard to observe
+  |-- mutually agreed illegal production ------> inside SNA boundary in principle
+  '-- theft/extortion without production ------> redistribution, not production
+```
+
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
+
+#### DEFINITION
+
+Informality concerns organisation and registration; underground activity concerns concealment; illegality concerns legal status. These categories overlap but are not identical.
+
+#### ANSWER-GRABBING LINE
+
+> Unrecorded is not automatically unproductive, and illegal is not automatically outside the SNA production boundary.
+
+#### MUST-WRITE KEYWORDS
+
+- **informal sector**
+- **unincorporated enterprise**
+- **underground economy**
+- **illegal production**
+- **benchmark-indicator method**
+- **ASUSE**
+
+#### CORE EXPLANATION
+
+India estimates unincorporated activity through enterprise and labour surveys, administrative sources and extrapolation. Informal output is not excluded merely because accounts are incomplete.
+The 2022-23-base series reports improved annual survey coverage of the unincorporated sector and use of ASUSE-related information. During shocks, old ratios between formal indicators and informal activity may fail, making extrapolation contentious.
+International national-accounting practice seeks exhaustive production, including mutually agreed illegal market production where measurable. Theft is not production because it transfers an existing asset without creating output. Practical estimates remain constrained by legality, safety and data quality.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** The main measurement risk is not a simple formal-versus-informal omission but the quality of benchmarks and short-period indicators.
+- **Named evidence:** Economic Survey 2025-26, chapter 1, PDF pp. 72-74, identifies ASUSE/PLFS strengthening and Supply and Use Table reconciliation; MoSPI's 27 February 2026 release states improved unincorporated-sector coverage using annual survey data.
+- **Analysis:** Direct survey benchmarks improve levels, while indicators carry them forward; structural shocks can break that relationship.
+- **Qualification:** No single proxy proves the direction or size of error, so criticism should demand transparent methods rather than assert a predetermined bias.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | Economic Survey 2025-26, chapter 1, PDF pp. 72-74, identifies ASUSE/PLFS strengthening and Supply and Use Table reconciliation; MoSPI's 27 February 2026 release states improved unincorporated-sector coverage using annual survey data. |
+| Prelims trap | Informal activity is not synonymous with illegal activity or with exclusion from GDP. |
+| Mains use | Frame the debate as benchmark quality, indicator validity, shock sensitivity and revision transparency. |
+
+#### MINI RECAP
+
+- Informal, underground and illegal are distinct.
+- Informal output is estimated.
+- Shocks can weaken proxy relationships.
+
+---
+
+### SESSION 13 - NSO architecture and the release-revision cycle
+
+#### VISUAL FIRST
+
+```text
+MoSPI
+ '-- National Statistical Office (NSO)
+      '-- National Accounts Division (NAD): compiles GDP/GVA/GNI/NAS
+           |
+           + inputs: surveys, MCA21, GST, government accounts, RBI/sector data
+           + coordination: State Directorates of Economics & Statistics
+           '-- release vintages: FAE -> SAE -> PE -> revised/final estimates
+
+2026 dated sequence: 7 Jan FAE | 27 Feb SAE/new series | 5 Jun PE
+31 Aug 2026: National Accounts Statistics 2026 publication
+```
+
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
+
+#### DEFINITION
+
+The National Accounts Division of the NSO under MoSPI compiles and publishes India's national accounts using survey, administrative and sectoral source systems.
+
+#### ANSWER-GRABBING LINE
+
+> GDP is not one survey result; it is an integrated statistical product whose vintage changes as the source pyramid fills.
+
+#### MUST-WRITE KEYWORDS
+
+- **MoSPI**
+- **NSO**
+- **National Accounts Division**
+- **advance estimates**
+- **provisional estimates**
+- **revised estimates**
+
+#### CORE EXPLANATION
+
+The NSO is the official statistical producer; its National Accounts Division compiles national aggregates. State Directorates of Economics and Statistics compile regional accounts with national guidance. RBI, ministries, tax systems and regulators supply inputs but do not replace NSO as the GDP compiler.
+Advance estimates use partial-year information and indicators. Provisional and revised estimates incorporate fuller annual accounts, surveys and administrative data. A revision is therefore part of the design, not evidence by itself of error or manipulation.
+Dates are calendar-specific. For FY2025-26, official releases were FAE on 7 January 2026, SAE/new-series estimates on 27 February and PE on 5 June. MoSPI's Advance Release Calendar, updated 25 May 2026, governs future dates and can change.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** Estimate vintage is part of the fact, not a footnote.
+- **Named evidence:** MoSPI press notes dated 7 January, 27 February and 5 June 2026, and NAS 2026 release dated 31 August 2026.
+- **Analysis:** Later vintages replace assumptions and partial indicators with fuller evidence, improving accuracy while changing the published number.
+- **Qualification:** Never freeze a generic release date; cite the applicable Advance Release Calendar and the exact press-note date.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | MoSPI press notes dated 7 January, 27 February and 5 June 2026, and NAS 2026 release dated 31 August 2026. |
+| Prelims trap | RBI analyses GDP but NSO/NAD compiles the official national accounts. |
+| Mains use | Explain revision as a source-maturation cycle and demand transparent revision tables. |
+
+#### MINI RECAP
+
+- NSO/NAD compiles.
+- Inputs come from many agencies.
+- Always attach the vintage and release date.
+
+---
+
+### SESSION 14 - India's 2015 and 2022-23-base methodology changes
+
+#### VISUAL FIRST
+
+```text
+PRE-2015 HEADLINE             2015 SERIES                  2026 SERIES
+2004-05 base                 2011-12 base                 2022-23 base
+GDP at factor cost focus --> GDP market prices focus --> retained modern valuation
+limited company sample   --> MCA21 corporate filings --> activity segregation + GST checks
+older benchmarks         --> updated surveys         --> annual unincorporated surveys
+single/proxy deflation   --> revised deflators       --> double deflation in agri/manufacturing
+                                                        + PPI/IIP/BkSPI updates + SUT integration
+```
+
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
+
+#### DEFINITION
+
+A national-accounts revision can change the base, valuation, coverage, data sources, classification and constant-price methods together.
+
+#### ANSWER-GRABBING LINE
+
+> The 2015 and 2026 revisions should be judged by coverage, classification, deflation, reconciliation and back-series transparency—not by the growth number alone.
+
+#### MUST-WRITE KEYWORDS
+
+- **2011-12 series**
+- **2022-23 series**
+- **MCA21**
+- **GST data**
+- **double deflation**
+- **Supply and Use Tables**
+
+#### CORE EXPLANATION
+
+The January 2015 revision shifted the base from 2004-05 to 2011-12, adopted GDP at market prices as the headline, presented GVA at basic prices and expanded corporate coverage through MCA21 filings. It also aligned more closely with SNA 2008 concepts.
+The 27 February 2026 series changed the base to 2022-23. Officially stated improvements include activity segregation in multi-activity enterprises, annual unincorporated-sector survey coverage, GST and administrative data, double deflation in agriculture and manufacturing, volume/single extrapolation elsewhere, Proportional Denton quarterly benchmarking, COICOP 2018 for PFCE and Supply and Use Table integration.
+The 31 August 2026 NAS release reports use of rebased PPI, IIP and Banking Services Price Index inputs and resulting revisions from 2022-23 onward. Comparisons must identify whether figures come from the February SAE, June PE or August NAS revision.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** Methodology changes can alter measured growth without implying that real activity changed on the revision date.
+- **Named evidence:** MoSPI new-series press note, 27 February 2026; PE release, 5 June 2026; NAS 2026 release, 31 August 2026.
+- **Analysis:** New sources and deflators change coverage and the price-volume split, while SUT integration changes reconciliation.
+- **Qualification:** Improved design does not eliminate source error; transparent concordances, revision studies and back series remain essential.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | MoSPI new-series press note, 27 February 2026; PE release, 5 June 2026; NAS 2026 release, 31 August 2026. |
+| Prelims trap | MCA21 is a corporate-sector source, not a database of the entire informal economy. |
+| Mains use | Use a before/2015/2026 comparison with one gain and one limitation per change. |
+
+#### MINI RECAP
+
+- 2015 changed base, headline valuation and corporate coverage.
+- 2026 changed base and multiple methods.
+- A series change is not a real-time output shock.
+
+---
+
+### SESSION 15 - Measurement debates: MCA21, deflators and informal proxies
+
+#### VISUAL FIRST
+
+```text
+CLAIM OF IMPROVEMENT                 TEST / COUNTER-QUESTION
+more MCA21 coverage --------------> active firms? duplicates? misclassification?
+administrative data --------------> statistical concept aligned with filing purpose?
+sector deflator ------------------> output price and input price both represented?
+formal indicator proxy ----------> does informal activity move the same way in shocks?
+revised growth -------------------> source change, price method, real activity, or all three?
+```
+
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
+
+#### DEFINITION
+
+A measurement debate evaluates whether data sources and estimation methods represent the target concept without systematic coverage, classification or price-volume error.
+
+#### ANSWER-GRABBING LINE
+
+> Neutral scrutiny asks which source changed, which concept it measures and how the revision propagates—not whether one politically preferred growth rate is correct.
+
+#### MUST-WRITE KEYWORDS
+
+- **MCA21**
+- **active company**
 - **deflator**
-- **Nominal-real-deflator**
-- **triangle**
+- **double deflation**
+- **informal proxy**
+- **revision study**
 
-**How to use them:** Define Nominal, output, real; attach deflator to its named source, period and status; then qualify the answer with this limit: Do not compare PPP and market-exchange-rate ranks without the reference year and purpose.
+#### CORE EXPLANATION
+
+MCA21 expanded corporate coverage relative to the earlier sample approach. Concerns raised in the public debate include inactive or misclassified companies, the treatment of multi-activity firms and reproducibility. The 2026 method's activity segregation and additional administrative checks address parts of this problem but do not make source validation unnecessary.
+Single deflation can over- or understate real GVA when output and input prices move differently. Double deflation separately deflates output and intermediate consumption, conceptually improving volume estimation but increasing data requirements and sensitivity to price-index quality.
+Informal-sector proxies may work in stable periods but fail after demonetisation, GST transition, pandemic disruption or rapid formalisation. Direct annual surveys improve the benchmark, while lagged and high-frequency estimation still requires assumptions.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** The existence of a proxy is not proof of bias; the relevant question is whether its relationship to the target remains stable.
+- **Named evidence:** RBI Bulletin research on unorganised-sector indicators; Economic Survey 2025-26 pp. 72-74; MoSPI 2026 methodology changes on annual unincorporated surveys, double deflation and SUT reconciliation.
+- **Analysis:** Triangulation across surveys, tax data, corporate filings and labour indicators can reveal divergence and guide revisions.
+- **Qualification:** Publicly available aggregates may not permit outsiders to reproduce every micro-level estimate, so conclusions about magnitude should remain bounded.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | RBI Bulletin research on unorganised-sector indicators; Economic Survey 2025-26 pp. 72-74; MoSPI 2026 methodology changes on annual unincorporated surveys, double deflation and SUT reconciliation. |
+| Prelims trap | Do not treat 'administrative data' as automatically superior to a purpose-designed statistical survey. |
+| Mains use | Structure the debate as coverage, classification, deflation, proxy stability, transparency and revisions. |
+
+#### MINI RECAP
+
+- MCA21 improves reach but needs validation.
+- Double deflation needs good input and output prices.
+- Proxy stability is an empirical question.
+
+---
+
+### SESSION 16 - GDP limits, welfare and the dashboard principle
 
 #### VISUAL FIRST
 
 ```text
-NOMINAL OUTPUT, REAL OUTPUT AND THE DEFLATOR
-01. Nominal-real-deflator triangle
-BOUNDARY -> Do not compare PPP and market-exchange-rate ranks without the reference year and purpose.
+GDP SAYS: market/non-market production measured inside the boundary expanded or fell
+
+GDP DOES NOT SETTLE:
+distribution | unpaid care | leisure | health/education outcomes | safety
+environmental depletion | pollution | service quality | job security
+
+DISASTER: destruction lowers wealth; reconstruction can raise current GDP
+DASHBOARD: real per-capita output + jobs + distribution + HDI/MPI + environment
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
+GDP is a production-flow measure, not a complete measure of welfare, distribution or wealth.
 
-#### NAMED EVIDENCE AND MECHANISM
+#### ANSWER-GRABBING LINE
 
-- Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-
-#### EXAMINER CAUTION
-
-- Do not compare PPP and market-exchange-rate ranks without the reference year and purpose.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Open with the accounting boundary, reconcile the formula, and only then assess performance.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Nominal-real-deflator triangle
-- **Qualified use:** Open with the accounting boundary, reconcile the formula, and only then assess performance.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Nominal output, real output and the deflator
-EXACT TERMS: Nominal | output | real | deflator | Nominal-real-deflator | triangle
-MECHANISM / ARGUMENT: connect Nominal-real-deflator triangle through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Open with the accounting boundary, reconcile the formula, and only then assess performance.
-UPSC TRAP / ANSWER-USE: Do not compare PPP and market-exchange-rate ranks without the reference year and purpose.
-ANSWER-GRABBING FORMULATION: Nominal output, real output and the deflator converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 8 — CORE — Inside the production boundary
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Inside the production boundary explains how Production boundary fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Inside the production boundary separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Inside the production boundary must be read through Production boundary, with the formula or legal perimeter stated before the policy inference.
+> GDP is an indispensable production anchor but an incomplete social report card.
 
 #### MUST-WRITE KEYWORDS
 
-- **Inside**
-- **production**
-- **boundary**
-- **final**
-- **goods**
-- **services**
-
-**How to use them:** Define Inside, production, boundary; attach final to its named source, period and status; then qualify the answer with this limit: Do not treat a First Advance Estimate or projection as a final actual.
-
-#### VISUAL FIRST
-
-```text
-INSIDE THE PRODUCTION BOUNDARY
-01. Production boundary
-BOUNDARY -> Do not treat a First Advance Estimate or projection as a final actual.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-
-#### EXAMINER CAUTION
-
-- Do not treat a First Advance Estimate or projection as a final actual.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate measurement change from real economic change before drawing a growth conclusion.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Production boundary
-- **Qualified use:** Separate measurement change from real economic change before drawing a growth conclusion.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Inside the production boundary
-EXACT TERMS: Inside | production | boundary | final | goods | services
-MECHANISM / ARGUMENT: connect Production boundary through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate measurement change from real economic change before drawing a growth conclusion.
-UPSC TRAP / ANSWER-USE: Do not treat a First Advance Estimate or projection as a final actual.
-ANSWER-GRABBING FORMULATION: Inside the production boundary converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 9 — CORE — Transfers, resales and current services
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Transfers, resales and current services explains how Transfer and resale exclusions fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Transfers, resales and current services separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Transfers, resales and current services must be read through Transfer and resale exclusions, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Transfers**
-- **resales**
-- **services**
-- **Transfer**
-- **resale**
-- **exclusions**
-
-**How to use them:** Define Transfers, resales, services; attach Transfer to its named source, period and status; then qualify the answer with this limit: Do not count intermediate inputs again inside final output.
-
-#### VISUAL FIRST
-
-```text
-TRANSFERS, RESALES AND CURRENT SERVICES
-01. Transfer and resale exclusions
-BOUNDARY -> Do not count intermediate inputs again inside final output.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-
-#### EXAMINER CAUTION
-
-- Do not count intermediate inputs again inside final output.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Use one named Indian revision, one method limitation and one welfare qualification.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Transfer and resale exclusions
-- **Qualified use:** Use one named Indian revision, one method limitation and one welfare qualification.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Transfers, resales and current services
-EXACT TERMS: Transfers | resales | services | Transfer | resale | exclusions
-MECHANISM / ARGUMENT: connect Transfer and resale exclusions through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Use one named Indian revision, one method limitation and one welfare qualification.
-UPSC TRAP / ANSWER-USE: Do not count intermediate inputs again inside final output.
-ANSWER-GRABBING FORMULATION: Transfers, resales and current services converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 10 — CORE — Unpaid work and the welfare boundary
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Unpaid work and the welfare boundary explains how Unpaid work and welfare limit fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Unpaid work and the welfare boundary separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Unpaid work and the welfare boundary must be read through Unpaid work and welfare limit, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Unpaid**
-- **work**
 - **welfare**
-- **boundary**
-- **Conventional**
-- **excludes**
+- **distribution**
+- **unpaid care**
+- **environmental depletion**
+- **quality change**
+- **disaster reconstruction**
 
-**How to use them:** Define Unpaid, work, welfare; attach boundary to its named source, period and status; then qualify the answer with this limit: Do not infer that high saving guarantees high growth when ICOR and implementation quality can weaken conversion.
+#### CORE EXPLANATION
+
+Per-capita GDP adjusts the aggregate for population but remains an average. Two economies with the same per-capita output can differ sharply in inequality, access to services, health, education and security.
+Unpaid care can generate substantial welfare yet fall outside the production boundary; shifting the same service from household provision to a paid market provider can raise GDP without necessarily increasing total welfare by the same amount.
+Pollution control and disaster reconstruction may add current expenditure and output, while the prior loss of natural or produced wealth is not symmetrically deducted from GDP. Quality improvements are also difficult to price, particularly in health, education and digital services.
+
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
+
+- **Claim:** The right response to GDP's limits is supplementation, not abandonment.
+- **Named evidence:** The Economic Survey and MoSPI treat GDP as a production measure; HDI/IHDI/MPI belong to Economy Topic 2, while environmental-economic and green-accounting detail belongs to Topic 25.
+- **Analysis:** Fiscal capacity, debt ratios and business-cycle management still require output accounts, while welfare assessment requires distributional, capability, employment and environmental indicators.
+- **Qualification:** No single alternative index is free of weighting, valuation and data-quality choices.
+
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
+
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | The Economic Survey and MoSPI treat GDP as a production measure; HDI/IHDI/MPI belong to Economy Topic 2, while environmental-economic and green-accounting detail belongs to Topic 25. |
+| Prelims trap | A rise in reconstruction expenditure can raise GDP while society remains poorer because destroyed wealth is a stock loss. |
+| Mains use | Conclude with a dashboard and explicitly preserve the Topic 2 and Topic 25 boundaries. |
+
+#### MINI RECAP
+
+- GDP measures flow, not total wealth.
+- Per-capita is not distribution.
+- Supplement GDP with jobs, capabilities and environment.
+
+---
+
+### SESSION 17 - Prelims trap grid and Mains answer architecture
 
 #### VISUAL FIRST
 
 ```text
-UNPAID WORK AND THE WELFARE BOUNDARY
-01. Unpaid work and welfare limit
-BOUNDARY -> Do not infer that high saving guarantees high growth when ICOR and implementation quality can weaken conversion.
+QUESTION --> IDENTIFY AXIS --> WRITE FORMULA --> ATTACH SOURCE/VINTAGE
+             | territory/residence
+             | gross/net
+             | basic/market/factor cost
+             | nominal/real
+             | flow/stock
+             '-- estimate/projection/revision
+                         |
+                         v
+CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION -> VERDICT
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual purpose: establish the accounting boundary before using a formula or current number.*
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
+Answer architecture is the deliberate sequencing of definition, accounting bridge, evidence, analysis and limitation to meet the directive.
 
-#### NAMED EVIDENCE AND MECHANISM
+#### ANSWER-GRABBING LINE
 
-- Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-
-#### EXAMINER CAUTION
-
-- Do not infer that high saving guarantees high growth when ICOR and implementation quality can weaken conversion.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Open with the accounting boundary, reconcile the formula, and only then assess performance.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Unpaid work and welfare limit
-- **Qualified use:** Open with the accounting boundary, reconcile the formula, and only then assess performance.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Unpaid work and the welfare boundary
-EXACT TERMS: Unpaid | work | welfare | boundary | Conventional | excludes
-MECHANISM / ARGUMENT: connect Unpaid work and welfare limit through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Open with the accounting boundary, reconcile the formula, and only then assess performance.
-UPSC TRAP / ANSWER-USE: Do not infer that high saving guarantees high growth when ICOR and implementation quality can weaken conversion.
-ANSWER-GRABBING FORMULATION: Unpaid work and the welfare boundary converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 11 — CORE — The 2015 and 2022-23-base revisions
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** The 2015 and 2022-23-base revisions explains how 2015 national-accounts revision and 2026 series revision fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, The 2015 and 2022-23-base revisions separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> The 2015 and 2022-23-base revisions must be read through 2015 national-accounts revision and 2026 series revision, with the formula or legal perimeter stated before the policy inference.
+> National-income marks are usually lost at the boundary—territory, valuation, price basis, period or vintage—not in the arithmetic.
 
 #### MUST-WRITE KEYWORDS
 
-- **base**
-- **revisions**
-- **national-accounts**
-- **revision**
-- **series**
-- **India's**
-
-**How to use them:** Define base, revisions, national-accounts; attach revision to its named source, period and status; then qualify the answer with this limit: Do not treat potential GDP as directly observed; it is method-dependent.
-
-#### VISUAL FIRST
-
-```text
-THE 2015 AND 2022-23-BASE REVISIONS
-01. 2015 national-accounts revision
-    |
-    v
-02. 2026 series revision
-BOUNDARY -> Do not treat potential GDP as directly observed; it is method-dependent.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+- **directive**
+- **formula spine**
+- **source date**
+- **estimate vintage**
+- **qualification**
+- **balanced verdict**
 
 #### CORE EXPLANATION
 
-India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
+For Prelims, test each statement against one axis at a time. Imports are subtracted because they are foreign production; net means CFC deducted; GNI concerns primary income; transfers affect disposable income; inventories count when produced.
+For a 10-marker, define and draw one bridge, then use two named evidence points and one limitation. For 15 marks, add measurement architecture and a balanced debate. For 20 marks, integrate methods, Indian institutions, revisions, welfare limits and reforms without drifting into a full HDI or green-accounting answer.
+Use dated evidence precisely: 'MoSPI PE dated 5 June 2026 estimated FY2025-26 real GDP growth at 7.7 per cent' is valid; 'India grows at 7.7 per cent' is an unlabeled and soon-stale claim.
 
-#### NAMED EVIDENCE AND MECHANISM
+#### CLAIM -> NAMED EVIDENCE -> ANALYSIS -> QUALIFICATION
 
-- India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-- MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
+- **Claim:** A strong answer converts an accounting distinction into a policy-relevant but bounded inference.
+- **Named evidence:** Official dated anchors: MoSPI new series, 27 February 2026; FY2025-26 PE, 5 June 2026; NAS 2026 publication, 31 August 2026.
+- **Analysis:** Named evidence earns value only when the mechanism explains why it bears on the demand.
+- **Qualification:** Current figures must always retain period, price basis, base year and vintage.
 
-#### EXAMINER CAUTION
+#### EVIDENCE, PRELIMS TRAP AND MAINS USE
 
-- Do not treat potential GDP as directly observed; it is method-dependent.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate measurement change from real economic change before drawing a growth conclusion.
-
-#### MINI RECAP
-
-- **Mechanism chain:** 2015 national-accounts revision -> 2026 series revision
-- **Qualified use:** Separate measurement change from real economic change before drawing a growth conclusion.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: The 2015 and 2022-23-base revisions
-EXACT TERMS: base | revisions | national-accounts | revision | series | India's
-MECHANISM / ARGUMENT: connect 2015 national-accounts revision and 2026 series revision through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate measurement change from real economic change before drawing a growth conclusion.
-UPSC TRAP / ANSWER-USE: Do not treat potential GDP as directly observed; it is method-dependent.
-ANSWER-GRABBING FORMULATION: The 2015 and 2022-23-base revisions converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 12 — CORE — Potential GDP and the output gap
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Potential GDP and the output gap explains how Potential GDP and output gap fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Potential GDP and the output gap separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Potential GDP and the output gap must be read through Potential GDP and output gap, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Potential**
-- **output**
-- **sustainable**
-- **capacity**
-- **implied**
-- **labour**
-
-**How to use them:** Define Potential, output, sustainable; attach capacity to its named source, period and status; then qualify the answer with this limit: Do not infer welfare, distribution or ecological sustainability from GDP alone.
-
-#### VISUAL FIRST
-
-```text
-POTENTIAL GDP AND THE OUTPUT GAP
-01. Potential GDP and output gap
-BOUNDARY -> Do not infer welfare, distribution or ecological sustainability from GDP alone.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-
-#### EXAMINER CAUTION
-
-- Do not infer welfare, distribution or ecological sustainability from GDP alone.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Use one named Indian revision, one method limitation and one welfare qualification.
+| Exam tool | Topic-specific use |
+|---|---|
+| Evidence | Official dated anchors: MoSPI new series, 27 February 2026; FY2025-26 PE, 5 June 2026; NAS 2026 publication, 31 August 2026. |
+| Prelims trap | Do not use a superseded FAE as though it were the latest estimate when a PE exists. |
+| Mains use | End with 'production anchor plus wider dashboard' rather than 'GDP is useless'. |
 
 #### MINI RECAP
 
-- **Mechanism chain:** Potential GDP and output gap
-- **Qualified use:** Use one named Indian revision, one method limitation and one welfare qualification.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Potential GDP and the output gap
-EXACT TERMS: Potential | output | sustainable | capacity | implied | labour
-MECHANISM / ARGUMENT: connect Potential GDP and output gap through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Use one named Indian revision, one method limitation and one welfare qualification.
-UPSC TRAP / ANSWER-USE: Do not infer welfare, distribution or ecological sustainability from GDP alone.
-ANSWER-GRABBING FORMULATION: Potential GDP and the output gap converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 13 — CORE SYNTHESIS — ICOR and investment efficiency
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** ICOR and investment efficiency explains how ICOR and investment efficiency fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, ICOR and investment efficiency separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> ICOR and investment efficiency must be read through ICOR and investment efficiency, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **ICOR**
-- **investment**
-- **efficiency**
-- **Incremental**
-- **Capital-Output**
-- **Ratio**
-
-**How to use them:** Define ICOR, investment, efficiency; attach Incremental to its named source, period and status; then qualify the answer with this limit: Do not treat every market transaction as current production; old-asset resale and transfers are excluded.
-
-#### VISUAL FIRST
-
-```text
-ICOR AND INVESTMENT EFFICIENCY
-01. ICOR and investment efficiency
-BOUNDARY -> Do not treat every market transaction as current production; old-asset resale and transfers are excluded.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-
-#### EXAMINER CAUTION
-
-- Do not treat every market transaction as current production; old-asset resale and transfers are excluded.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Open with the accounting boundary, reconcile the formula, and only then assess performance.
-
-#### MINI RECAP
-
-- **Mechanism chain:** ICOR and investment efficiency
-- **Qualified use:** Open with the accounting boundary, reconcile the formula, and only then assess performance.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: ICOR and investment efficiency
-EXACT TERMS: ICOR | investment | efficiency | Incremental | Capital-Output | Ratio
-MECHANISM / ARGUMENT: connect ICOR and investment efficiency through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Open with the accounting boundary, reconcile the formula, and only then assess performance.
-UPSC TRAP / ANSWER-USE: Do not treat every market transaction as current production; old-asset resale and transfers are excluded.
-ANSWER-GRABBING FORMULATION: ICOR and investment efficiency converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 14 — CORE SYNTHESIS — PPP comparison and intangible investment
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** PPP comparison and intangible investment explains how PPP versus market exchange rate and Intangible capital formation fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, PPP comparison and intangible investment separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> PPP comparison and intangible investment must be read through PPP versus market exchange rate and Intangible capital formation, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **comparison**
-- **intangible**
-- **investment**
-- **versus**
-- **market**
-- **exchange**
-
-**How to use them:** Define comparison, intangible, investment; attach versus to its named source, period and status; then qualify the answer with this limit: Do not equate domestic territory with resident income; GDP and GNP answer different boundary questions.
-
-#### VISUAL FIRST
-
-```text
-PPP COMPARISON AND INTANGIBLE INVESTMENT
-01. PPP versus market exchange rate
-    |
-    v
-02. Intangible capital formation
-BOUNDARY -> Do not equate domestic territory with resident income; GDP and GNP answer different boundary questions.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-- Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-
-#### EXAMINER CAUTION
-
-- Do not equate domestic territory with resident income; GDP and GNP answer different boundary questions.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Separate measurement change from real economic change before drawing a growth conclusion.
-
-#### MINI RECAP
-
-- **Mechanism chain:** PPP versus market exchange rate -> Intangible capital formation
-- **Qualified use:** Separate measurement change from real economic change before drawing a growth conclusion.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: PPP comparison and intangible investment
-EXACT TERMS: comparison | intangible | investment | versus | market | exchange
-MECHANISM / ARGUMENT: connect PPP versus market exchange rate and Intangible capital formation through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Separate measurement change from real economic change before drawing a growth conclusion.
-UPSC TRAP / ANSWER-USE: Do not equate domestic territory with resident income; GDP and GNP answer different boundary questions.
-ANSWER-GRABBING FORMULATION: PPP comparison and intangible investment converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 15 — CORE SYNTHESIS — Sector, capital and estimate-vintage classification
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Sector, capital and estimate-vintage classification explains how Sector and capital classification and Estimate-vintage discipline fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Sector, capital and estimate-vintage classification separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Sector, capital and estimate-vintage classification must be read through Sector and capital classification and Estimate-vintage discipline, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Sector**
-- **capital**
-- **estimate-vintage**
-- **classification**
-- **discipline**
-- **Primary**
-
-**How to use them:** Define Sector, capital, estimate-vintage; attach classification to its named source, period and status; then qualify the answer with this limit: Do not say net measures include depreciation; net measures deduct consumption of fixed capital.
-
-#### VISUAL FIRST
-
-```text
-SECTOR, CAPITAL AND ESTIMATE-VINTAGE CLASSIFICATION
-01. Sector and capital classification
-    |
-    v
-02. Estimate-vintage discipline
-BOUNDARY -> Do not say net measures include depreciation; net measures deduct consumption of fixed capital.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-- A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-
-#### EXAMINER CAUTION
-
-- Do not say net measures include depreciation; net measures deduct consumption of fixed capital.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Use one named Indian revision, one method limitation and one welfare qualification.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Sector and capital classification -> Estimate-vintage discipline
-- **Qualified use:** Use one named Indian revision, one method limitation and one welfare qualification.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Sector, capital and estimate-vintage classification
-EXACT TERMS: Sector | capital | estimate-vintage | classification | discipline | Primary
-MECHANISM / ARGUMENT: connect Sector and capital classification and Estimate-vintage discipline through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Use one named Indian revision, one method limitation and one welfare qualification.
-UPSC TRAP / ANSWER-USE: Do not say net measures include depreciation; net measures deduct consumption of fixed capital.
-ANSWER-GRABBING FORMULATION: Sector, capital and estimate-vintage classification converts a precise economic distinction into a qualified conclusion
-```
-
-#### COMPLETE BASIC OWNER EVIDENCE BANK
-
-> **Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims.
-> **Grounded in:** Ramesh Singh, Ch. 1; Economic Survey 2025-26, Ch. 1.
-> ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey hook.
-> *Companion: `../advanced/01_National-Income-GDP-GVA-and-Measurement.md`.*
-
-##### 1. Visual foundation
-
-```text
-DOMESTIC output
-GDP ---- minus depreciation ----> NDP
- |
- +---- plus net factor income from abroad (NFIA) ----> GNP
-                                                        |
-                                      minus depreciation
-                                                        v
-                                                       NNP
-```
-
-**Core rule:** domestic concepts follow the location of production; national
-concepts follow the income of normal residents.
-
-##### 2. Essential definitions
-
-| Measure | Definition | Formula |
-|---|---|---|
-| ✅ GDP | Final goods and services produced within domestic territory during a period | `C + I + G + (X-M)` |
-| ✅ GVA | Value of output minus intermediate consumption | Sum of producer value added |
-| ✅ NDP | Net domestic output after capital consumption | `GDP - depreciation` |
-| ✅ GNP | GDP adjusted for net factor income from abroad | `GDP + NFIA` |
-| ✅ NNP | Net national product | `GNP - depreciation` |
-| ✅ Per-capita income | Average income per person | National income / population |
-
-> 🔑 **Mnemonic:** **D = Domestic territory; N = Net of depreciation; National =
-> residents.**
-
-##### 3. GDP and GVA
-
-```text
-GVA at basic prices
- + product taxes
- - product subsidies
- = GDP at market prices
-```
-
-- ✅ GVA shows the contribution of producers and sectors.
-- ✅ GDP at market prices shows the value paid by final purchasers.
-- ⚠️ GDP and GVA growth can differ when net product taxes change sharply.
-
-##### 4. Three methods of measurement
-
-| Method | Adds | Main caution |
-|---|---|---|
-| Production/value-added | Value added at every production stage | Avoid double counting |
-| Income | Wages, profits, rent and mixed income | Capture informal activity |
-| Expenditure | Consumption, investment, government demand and net exports | Exclude intermediate purchases |
-
-The three approaches should theoretically converge because one person's
-expenditure becomes another person's income and corresponds to produced output.
-
-##### 5. Nominal and real GDP
-
-| Measure | Prices used | Best use |
-|---|---|---|
-| Nominal GDP | Current-year prices | Size of the economy, debt/tax ratios |
-| Real GDP | Constant/base-year prices | Volume growth over time |
-| GDP deflator | Ratio of nominal to real GDP | Broad domestic price movement |
-
-`GDP deflator = (Nominal GDP / Real GDP) x 100`
-
-##### 6. What is included and excluded?
-
-###### Included
-
-- ✅ Final goods and services produced during the accounting period.
-- ✅ Imputed values used under national-accounting rules, where applicable.
-- ✅ Government services valued mainly through production costs.
-
-###### Excluded
-
-- ✅ Intermediate goods when their value is already embedded in final output.
-- ✅ Pure transfer payments because no current good/service is produced in return.
-- ✅ Sale of an existing asset; only current brokerage or service value is added.
-- ✅ Unpaid household work that lies outside the conventional production boundary.
-
-##### 6A. Indian applications and evidence units
-
-- ✅ **Claim:** Methodology and base-year revisions can change the picture of
-  India's output without any real change in production.
-  **Named evidence:** the **2015 national-accounts revision** shifted India to
-  the 2011-12 base and greater use of corporate administrative data, changing
-  sector weights and methodology.
-  **Significance:** base revision can improve coverage and relevance.
-  **Limitation:** it creates comparability disputes unless a reliable back
-  series is used.
-- 📰 **Claim:** Series revisions remain a live, recurring measurement issue and
-  not a one-time 2015 event.
-  **Named evidence:** MoSPI's **2026 GDP-series revision** released the
-  2022-23-base series on 27 February 2026.
-  **Significance:** newer data sources and weights can better reflect
-  structural change.
-  **Limitation:** the absence of a complete comparable back series prevents
-  casual splicing with older growth rates.
-- ✅ **Claim:** Growth must be judged against sustainable capacity, not only
-  against last year's output.
-  **Named evidence:** the **2020 GS-III potential-GDP/output-gap demand**
-  requires separating actual output from the sustainable capacity implied by
-  labour, capital and productivity.
-  **Significance:** a negative gap supports cyclical demand repair, while a
-  capacity constraint requires supply-side investment.
-  **Limitation:** potential output is estimated, not directly observed, and
-  results vary by method.
-- ✅ **Claim:** A high saving or investment rate does not automatically
-  translate into high growth.
-  **Named evidence:** the **Incremental Capital-Output Ratio (ICOR)** rises
-  when investment efficiency falls, so growth can lag saving/investment effort.
-  **Significance:** productivity and project execution mediate the
-  saving-investment-growth chain.
-  **Limitation:** ICOR is an aggregate diagnostic and does not identify the
-  sector or institutional cause by itself.
-- ✅ **Claim:** National accounts must estimate, not merely record, a large part
-  of the economy.
-  **Named evidence:** **informal-sector measurement** in India uses surveys,
-  administrative sources and benchmark-indicator methods where complete
-  enterprise accounts are unavailable.
-  **Significance:** national accounts must estimate a large unorganised sector
-  rather than equate recorded corporate activity with the whole economy.
-  **Limitation:** shocks can break the stability of ratios used to extrapolate
-  informal activity.
-- ⚠️ **Claim:** GDP growth is necessary but not sufficient evidence of
-  development.
-  **Named evidence:** **GDP versus welfare** gaps show that unpaid care work,
-  distribution, ecological depletion and service quality are not fully
-  captured by GDP.
-  **Significance:** HDI, employment, inequality and environmental indicators
-  are required to judge development.
-  **Limitation:** supplementary indicators do not make output measurement
-  dispensable.
-- ✅ **Claim:** Comparing national output across countries requires a
-  price-adjusted measure, not raw exchange-rate conversion.
-  **Named evidence:** **Purchasing Power Parity (PPP)** converts GDP using a
-  common basket of goods and services rather than the market exchange rate;
-  on a PPP basis, India is regularly cited among the world's largest economies
-  even though its market-exchange-rate GDP ranking is lower.
-  **Significance:** PPP corrects for cross-country price-level differences and
-  is the standard basis for comparing living standards and real purchasing
-  power, whereas nominal (market exchange rate) GDP is the standard basis for
-  external trade, debt and market-size comparisons.
-  **Limitation:** PPP conversion factors depend on international price surveys
-  (such as the World Bank's International Comparison Program) that are
-  periodically rebased, so the exact PPP rank/multiple is time- and
-  source-specific and should not be quoted without stating the reference year.
-- ✅ **Claim:** Investment in national-accounting terms is broader than
-  physical construction and machinery alone.
-  **Named evidence:** **intangible investment** — spending on research and
-  development, software, databases, mineral exploration and artistic originals
-  — is classified as gross fixed
-  capital formation in the System of National Accounts framework, alongside
-  conventional physical (tangible) capital formation.
-  **Significance:** classifying qualifying intangible spending as investment
-  (rather than as a current expense) affects measured GDP, capital formation
-  and depreciation, and is increasingly important as knowledge- and
-  service-intensive activity grows.
-  **Limitation:** valuing and depreciating intangible assets is harder than for
-  physical assets because some intangible outlays, including advertising,
-  brand creation, staff training and much organisational capital, are not
-  capitalised under national-accounting rules and remain treated as
-  intermediate consumption.
-
-##### 6B. Limitations and trade-offs
-
-- More comprehensive administrative data may improve coverage while making old
-  and new series less comparable.
-- Nominal GDP is useful for fiscal ratios but can rise without real welfare
-  gains when prices increase.
-- Real GDP removes price change but remains insensitive to distribution and
-  much unpaid work.
-- Imputation improves completeness but introduces model and assumption risk.
-- Quarterly estimates improve timeliness but are revised as fuller data arrive.
-
-##### 7. Must-Know Facts for Prelims
-
-- ✅ Gross measures include depreciation; net measures deduct it.
-- ✅ GDP can exceed GNP when NFIA is negative.
-- ✅ GDP is territorial; GNP is resident-income based.
-- ✅ Real GDP removes price effects; nominal GDP does not.
-- ✅ GVA is not GDP: net product taxes connect the two.
-- ✅ Imports are subtracted because consumption/investment totals may include
-  foreign production.
-- ✅ PPP-based GDP uses a common price basket to compare living standards
-  across countries; market-exchange-rate GDP is the basis for external-sector
-  and market-size comparisons — the two rankings need not match.
-- ✅ Qualifying intangible spending (R&D, software/databases, mineral
-  exploration, artistic originals) is treated as capital formation under the
-  System of National Accounts, alongside physical/tangible investment.
-
-##### 8. UPSC traps
-
-- ❌ Every market transaction raises current GDP. -> Resale of an old asset does not.
-- ❌ A pension payment directly adds to GDP. -> It is a transfer payment.
-- ❌ Higher nominal GDP always means more output. -> It may reflect inflation.
-- ❌ GDP measures national welfare. -> It measures production, not distribution,
-  unpaid work, ecological loss or all aspects of well-being.
-- ❌ GNP must always exceed GDP. -> It depends on the sign of NFIA.
-- ❌ PPP and market-exchange-rate GDP always rank countries identically. ->
-  Price-level differences mean PPP and nominal rankings can diverge sharply.
-- ❌ Only physical construction and machinery count as investment. -> Qualifying
-  intangible spending (R&D, software, mineral exploration) is also capital
-  formation, though not every intangible outlay is capitalised.
-
-##### 9. 📰 Economic Survey 2025-26 anchor
-
-| Indicator | Survey figure |
-|---|---:|
-| ✅ Real GDP growth, FY26 First Advance Estimate | 7.4% |
-| ✅ Real GVA growth, FY26 First Advance Estimate | 7.3% |
-| ✅ PFCE share in GDP, FY26 | 61.5% |
-| ✅ Services growth, FY26 FAE | 9.1% |
-| ✅ FY27 real GDP projection | 6.8-7.2% |
-
-⚠️ **Interpretation:** consumption remains the largest demand component, while
-the GDP-GVA difference reflects net product taxes. Always quote the period with
-the figure.
-
-###### 📰 National-accounts series update — 27 February 2026
-
-- ✅ MoSPI released a **new GDP series with base year 2022-23**, replacing 2011-12,
-  with revised coverage, data sources and methods.
-- ✅ The release provides annual and quarterly estimates from 2022-23; the
-  comparable back-series was still pending at the 19 July 2026 cutoff.
-- ⚠️ The FY26 FAE figures above are Survey-period estimates. Always identify the
-  **series, estimate vintage and period** before comparing them with the new series.
-- Source: [MoSPI press note, 27 February 2026](https://mospi.gov.in/uploads/release_calendar/1772190058170_Press_Note_on_New_Series_of_GDP_Estimates_with_Base_Year_2022-23_27022026.pdf).
-
-##### 10. PYQ status
-
-- ⚠️ No direct national-income-measurement question appears in the audited
-  2024-2026 Economy corpus; use the distinctions above for adjacent sector,
-  growth and deficit questions. See the exact routing table in `../README.md`.
-
-##### 11. Mains angles
-
-- ⚠️ Why GDP growth is necessary but insufficient for development.
-- ⚠️ How base-year and methodology revisions improve measurement but can disrupt
-  comparison with older series.
-- ⚠️ Why India needs GDP/GVA data alongside employment, inequality, human
-  development and environmental indicators.
-
-> **Answer thesis:** GDP measures the value of domestic production; a sound growth
-> assessment must then separate prices from volumes, GDP from GVA, and aggregate
-> output from distribution, jobs and ecological sustainability.
-
-##### 12. Probable questions
-
-- ⚠️ **Prelims:** Which adjustment converts GDP at market prices into GVA at basic
-  prices, and which adjustment converts gross into net output?
-- ⚠️ **Mains (10 marks):** Why can GDP and GVA tell different but complementary
-  stories about the same year's growth?
-- ⚠️ **Mains (15 marks):** Explain why a change of national-accounts base year
-  improves relevance but demands careful treatment of historical comparisons.
-
-##### 12A. Answer architecture (10/15/20-mark support)
-
-- **Define/Distinguish:** state territory versus residence, gross versus net,
-  current versus constant prices and GDP versus GVA before application.
-- **Explain/Elucidate:** use the production-income-expenditure identity or the
-  `saving → investment → capital productivity → output` chain.
-- **Examine/Analyse:** separate measurement change from real economic change;
-  test coverage, prices, base year, informal-sector method and revision vintage.
-- **Critically examine/Evaluate:** judge relevance gains against comparability,
-  estimation and welfare limitations.
-- **Evidence chain:** 2015 methodology revision; 2022-23-base series; potential
-  GDP/output gap; ICOR; informal-sector estimation; PPP versus nominal
-  cross-country comparison; intangible-investment classification; unpaid
-  care/ecological gap.
-- **Directive decoder — Distinguish (PPP demand):** contrast PPP-based and
-  market-exchange-rate GDP explicitly — same production, different price
-  basis, different comparative purpose — before citing any rank or multiple.
-- **Directive decoder — Classify (intangible-investment demand):** state that
-  R&D, software/databases, mineral exploration and artistic originals are
-  capital formation under SNA rules, then flag which routine intangible
-  spending remains outside capitalisation.
-
-**10 marks:** define the tested measures, use 2-3 named applications and one
-measurement caution. **15 marks:** add methodology, informal-sector and
-comparability evidence with a balanced verdict, drawing on PPP or
-intangible-investment distinctions where the question is comparative or
-investment-classification-based. **20 marks:** integrate output, prices,
-capacity, distribution, employment and sustainability while separating
-measurement revisions from actual performance.
-
-> **Reasoned verdict:** GDP is indispensable for measuring production, but its
-> interpretation is marks-worthy only when the series, price basis, estimate
-> vintage, coverage and welfare limits are stated explicitly.
-
-##### 13. Study links
-
-- ✅ Advanced companion: `../advanced/01_National-Income-GDP-GVA-and-Measurement.md`.
-- ✅ `02_Growth-Development-HDI-IHDI-and-MPI.md` — output versus welfare.
-- ✅ `03_Inflation-Price-Indices-and-Business-Cycles.md` — deflators and price
-  measurement.
-- ✅ `26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md` — estimate
-  vintage and macro interpretation.
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-##### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
-
-- **Years represented:** 2024
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | Prelims GS-I | 45 | Economic activity-to-sector matching (primary/secondary/tertiary) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2024 | Prelims GS-I | 47 | Physical-capital pairs - working versus fixed capital (plough, computer, yarn, petrol) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-###### What this owner must now support
-
-- Economic activity-to-sector matching (primary/secondary/tertiary)
-- Physical-capital pairs - working versus fixed capital (plough, computer, yarn, petrol)
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-##### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 6
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 50 | High saving economy low output and capital-output ratio | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 82 | Purchasing Power Parity and India world economy size | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | GS-III | 2 | Potential GDP definition determinants and India's output gap | Define · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-III | 1 | GDP computation methodology change in India before and after 2015 | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | Prelims GS-I | 7 | Real sector economic activities in Indian economy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 28 | Intangible investments classification in economic accounting | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-###### What this owner must now support
-
-- High saving economy low output and capital-output ratio
-- Purchasing Power Parity and India world economy size
-- Potential GDP definition determinants and India's output gap
-- GDP computation methodology change in India before and after 2015
-- Real sector economic activities in Indian economy
-- Intangible investments classification in economic accounting
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-###### Semantic-completeness ownership and PYQ control
-
-- **Official syllabus/index and owned core:** National accounts measure production, income and expenditure consistently: GDP is domestic, GNP/GNI adds net primary income from abroad, NDP/NNP deduct depreciation, and GVA plus product taxes less product subsidies yields GDP.
-- **Indispensable distinction and prerequisite taxonomy:** Nominal is current-price value, real is constant-price volume, a level is not a growth rate, gross is not net, domestic is not national, and an accounting identity is not a behavioural causal claim.
-- **Mechanism, implementation and evidence control:** State factor cost/basic/market-price convention, base year, deflator, coverage, informal-sector method and revision status; reconcile output, income and expenditure approaches without adding transfer payments or financial-asset trades to production.
-- **✅ Verified current fact (official sources rechecked 5 September 2026):**
-  Rechecked 6 September 2026 against the listed official publisher or regulator source. Live official checks on 2026-09-06 did not yield independently extractable national-accounts text. The package therefore preserves the owner's exact 27 February 2026 release date, 2022-23 base, back-series cutoff and estimate-vintage cautions without manufacturing a fresh growth number. Sources: https://mospi.gov.in/uploads/release_calendar/1772190058170_Press_Note_on_New_Series_of_GDP_Estimates_with_Base_Year_2022-23_27022026.pdf; https://esankhyiki.mospi.gov.in/macroindicators?product=cpi&tab=metadata
-- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
-  registration, a report, a training completion, a disposal count or a ranking
-  can support a causal argument only after authority, capacity, incentives,
-  distribution, implementation, grievance, outcome and alternative explanations
-  are tested.
-- **Canonical and cross-owner boundary:** this Economy owner teaches the
-  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
-  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
-  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
-  evidence may be routed but is not silently duplicated or re-owned.
-- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
-  standard public-administration/economy taxonomy and complete verified PYQ
-  demands were checked for absent concepts, institutions, mechanisms,
-  classifications, exceptions, comparisons, criticisms, current status,
-  answer architecture and dependent artifacts.
-- **Verified PYQ ownership, 2018-2026:** Audited Economy ledgers route 2020 GS-III on potential GDP and output gap and 2021 GS-III on the pre/post-2015 GDP methodology change to this Basic owner. Objective routes on ICOR, PPP, sector classification, physical capital and intangible investment are retained as concepts without inventing answer letters.
-
-### ECONOMY DEEP-REVIEW CORE CONTROL
-
-- **Must remember:** National accounts measure production, income and expenditure consistently: GDP is domestic, GNP/GNI adds net primary income from abroad, NDP/NNP deduct depreciation, and GVA plus product taxes less product subsidies yields GDP.
-- **Close distinction:** Nominal is current-price value, real is constant-price volume, a level is not a growth rate, gross is not net, domestic is not national, and an accounting identity is not a behavioural causal claim.
-- **Formula / status / evidence / causal limit:** State factor cost/basic/market-price convention, base year, deflator, coverage, informal-sector method and revision status; reconcile output, income and expenditure approaches without adding transfer payments or financial-asset trades to production.
+- Identify the axis.
+- Write the formula.
+- Date the evidence.
+- Qualify the inference.
+
+---
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Territory-residence boundary?
+**Practice contract:** Exactly 32 original MCQs appear before PYQs. Correct answers follow `ABCD` repeated eight times. Each option receives a substantive question-specific explanation, and every question ends with a unique examiner trap.
 
-A. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-B. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-C. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-D. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
+### MCQ 1
 
-**Answer: A.**
-**Explanation:** GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+Why do the production, income and expenditure approaches converge conceptually?
 
-### Q2. Which option preserves the accounting or regulatory boundary of Territory-residence boundary?
-
-A. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-B. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-C. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-D. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-
-**Answer: B.**
-**Explanation:** GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses Territory-residence boundary without losing its vintage, basket or legal status?
-
-A. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-B. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-C. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-D. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-
-**Answer: C.**
-**Explanation:** GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Territory-residence boundary?
-
-A. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-B. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-C. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-D. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-
-**Answer: D.**
-**Explanation:** GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies GDP expenditure identity?
-
-A. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-B. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-C. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-D. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
+- A. Because one production event creates value added, distributes income and is absorbed in final expenditure.
+- B. Because NSO forces all three estimates to use the same survey returns.
+- C. Because transfer payments are counted once under each approach.
+- D. Because statistical discrepancy is treated as an additional sector.
 
 **Answer: A.**
-**Explanation:** GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q6. Which option preserves the accounting or regulatory boundary of GDP expenditure identity?
+**Option-specific explanations:**
 
-A. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-B. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-C. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-D. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
+- **A - Correct:** This states the circular-flow identity linking the same activity across three accounts.
+- **B - Incorrect:** The approaches use different source systems; identical surveys are not the reason for conceptual equality.
+- **C - Incorrect:** Transfers redistribute purchasing power and are not current production under each route.
+- **D - Incorrect:** Discrepancy reconciles estimates; it is not a producing sector.
+
+**Examiner trap 1:** Conceptual equality does not mean separately estimated totals are data-identical.
+
+### MCQ 2
+
+What best explains a statistical discrepancy in national accounts?
+
+- A. Unpaid household care is deliberately added as a balancing output.
+- B. Different data sources, timing, coverage and revisions leave a residual between estimates.
+- C. Imports are excluded from every expenditure component before compilation.
+- D. CFC is counted twice and then cancelled.
 
 **Answer: B.**
-**Explanation:** GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q7. Which statement uses GDP expenditure identity without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-B. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-C. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-D. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
+- **A - Incorrect:** Unpaid care is generally outside the core boundary and is not a balancing plug.
+- **B - Correct:** Independent source systems and vintages create a residual even though the identity holds conceptually.
+- **C - Incorrect:** Imports can be embedded in final uses and are deducted in the net-export bridge.
+- **D - Incorrect:** CFC distinguishes gross from net; it does not explain the routine discrepancy.
+
+**Examiner trap 2:** Do not interpret the discrepancy as hidden production or deliberate falsification.
+
+### MCQ 3
+
+A mill buys wheat for 30 and sells flour for 50. What is its GVA?
+
+- A. 80, because both transactions are market sales.
+- B. 50, because gross output alone equals GVA.
+- C. 20, because intermediate consumption is deducted from output.
+- D. 30, because the input value is the producer contribution.
 
 **Answer: C.**
-**Explanation:** GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q8. Which option avoids the standard UPSC close-option trap about GDP expenditure identity?
+**Option-specific explanations:**
 
-A. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-B. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-C. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-D. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
+- **A - Incorrect:** Adding input and output double counts the wheat embodied in flour.
+- **B - Incorrect:** Gross output must be reduced by intermediate consumption.
+- **C - Correct:** The mill creates 20 of value: 50 output minus 30 input.
+- **D - Incorrect:** Thirty is the value transferred from the farmer, not newly created by the mill.
+
+**Examiner trap 3:** A product can be final in one use and intermediate in another; classify by use.
+
+### MCQ 4
+
+A firm produces unsold finished goods during the year. How are they treated?
+
+- A. Excluded until a buyer pays cash.
+- B. Recorded only as intermediate consumption.
+- C. Added to household final consumption.
+- D. Included as change in inventories when produced.
 
 **Answer: D.**
-**Explanation:** GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q9. Which statement correctly identifies GDP-GVA reconciliation?
+**Option-specific explanations:**
 
-A. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-B. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-C. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-D. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
+- **A - Incorrect:** National accounts record production when it occurs, not only when cash is received.
+- **B - Incorrect:** Finished unsold goods are output held as assets, not inputs consumed in production.
+- **C - Incorrect:** No household final purchase has occurred.
+- **D - Correct:** Inventory accumulation is capital formation and can be intended or unintended.
+
+**Examiner trap 4:** Inventory inclusion is an accounting fact; whether it signals healthy demand is a separate inference.
+
+### MCQ 5
+
+Which transaction enters India's GDP but need not enter India's GNI by the same amount?
+
+- A. Production in India by a foreign-controlled resident enterprise, before cross-border primary-income adjustment.
+- B. A gift received by an Indian household from a relative abroad.
+- C. A rise in the market price of an existing share.
+- D. The resale of an old imported machine.
 
 **Answer: A.**
-**Explanation:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q10. Which option preserves the accounting or regulatory boundary of GDP-GVA reconciliation?
+**Option-specific explanations:**
 
-A. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-B. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-C. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-D. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
+- **A - Correct:** Location places current production in GDP; primary income payable abroad can alter the GNI bridge.
+- **B - Incorrect:** A personal gift is a current transfer and affects disposable income, not current production.
+- **C - Incorrect:** A holding gain is not output.
+- **D - Incorrect:** Resale transfers an existing asset; only a current service margin may enter GDP.
+
+**Examiner trap 5:** Domestic territory is not the same as ownership, citizenship or residence.
+
+### MCQ 6
+
+Which item is normally a current transfer rather than primary income from abroad?
+
+- A. Interest received by a resident on a foreign bond.
+- B. A personal remittance sent without a labour or property-income claim.
+- C. Compensation earned by a resident temporary worker abroad.
+- D. Distributed income received on foreign equity.
 
 **Answer: B.**
-**Explanation:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q11. Which statement uses GDP-GVA reconciliation without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-B. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-C. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-D. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
+- **A - Incorrect:** Interest is property income and therefore primary income.
+- **B - Correct:** A personal transfer changes disposable resources without being generated by current production.
+- **C - Incorrect:** Compensation of employees is primary income when residence rules place it cross-border.
+- **D - Incorrect:** Distributed corporate income is property income.
+
+**Examiner trap 6:** Do not add all remittances to GDP or GNI without classifying their economic nature.
+
+### MCQ 7
+
+Which formula correctly converts GDP into GNI?
+
+- A. GDP minus net current transfers from abroad.
+- B. GDP minus consumption of fixed capital.
+- C. GDP plus net primary income from abroad.
+- D. GDP plus taxes on products less subsidies on products.
 
 **Answer: C.**
-**Explanation:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q12. Which option avoids the standard UPSC close-option trap about GDP-GVA reconciliation?
+**Option-specific explanations:**
 
-A. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-B. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-C. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-D. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
+- **A - Incorrect:** Current transfers bridge national income to disposable income.
+- **B - Incorrect:** Deducting CFC converts gross domestic product into NDP.
+- **C - Correct:** Resident primary income receivable less payable converts domestic output to national income.
+- **D - Incorrect:** Net product taxes bridge GVA at basic prices to GDP at market prices.
+
+**Examiner trap 7:** GNP is the legacy product label corresponding broadly to GNI, not GDP plus all foreign receipts.
+
+### MCQ 8
+
+Which bridge gives gross national disposable income (GNDI)?
+
+- A. GDP plus net exports.
+- B. GNI minus CFC.
+- C. NNI plus product taxes.
+- D. GNI plus net current transfers from abroad.
 
 **Answer: D.**
-**Explanation:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q13. Which statement correctly identifies Gross-net distinction?
+**Option-specific explanations:**
 
-A. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-B. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-C. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-D. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
+- **A - Incorrect:** Net exports are already in GDP expenditure.
+- **B - Incorrect:** GNI minus CFC gives NNI.
+- **C - Incorrect:** Product taxes are part of the valuation bridge, not the disposable-income bridge.
+- **D - Correct:** Current transfers add resources available to the nation without being primary income.
+
+**Examiner trap 8:** Disposable income follows the national-income bridge; it is not a synonym for GDP.
+
+### MCQ 9
+
+What does 'gross' signify in GDP?
+
+- A. Consumption of fixed capital has not been deducted.
+- B. All intermediate sales have been added.
+- C. Foreign primary income has been included.
+- D. Inflation has been removed.
 
 **Answer: A.**
-**Explanation:** Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q14. Which option preserves the accounting or regulatory boundary of Gross-net distinction?
+**Option-specific explanations:**
 
-A. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-B. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-C. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-D. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
+- **A - Correct:** Gross retains the capital-consumption charge.
+- **B - Incorrect:** Intermediate inputs are excluded through value-added accounting.
+- **C - Incorrect:** Foreign primary income distinguishes domestic from national.
+- **D - Incorrect:** Price adjustment distinguishes nominal from real.
+
+**Examiner trap 9:** Gross/net and nominal/real are independent axes.
+
+### MCQ 10
+
+How is GDP at market prices obtained from GVA at basic prices?
+
+- A. Subtract all production taxes and add all subsidies.
+- B. Add taxes on products and subtract subsidies on products.
+- C. Add CFC and subtract imports.
+- D. Add net primary income from abroad.
 
 **Answer: B.**
-**Explanation:** Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q15. Which statement uses Gross-net distinction without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-B. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-C. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-D. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
+- **A - Incorrect:** This describes a factor-cost-related bridge incompletely, not GDP from basic-price GVA.
+- **B - Correct:** Net taxes on products convert producer basic-price valuation to purchaser market-price valuation.
+- **C - Incorrect:** CFC and imports belong to different accounting axes.
+- **D - Incorrect:** NPIFA converts domestic to national.
+
+**Examiner trap 10:** Only taxes and subsidies on products form the direct GDP-GVA bridge.
+
+### MCQ 11
+
+Which statement about product taxes is correct?
+
+- A. They are identical to all direct taxes paid by households.
+- B. They are deducted when moving from GVA basic prices to GDP market prices.
+- C. They are linked to units or value of products and are added net of product subsidies.
+- D. They convert gross aggregates into net aggregates.
 
 **Answer: C.**
-**Explanation:** Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Gross-net distinction?
+**Option-specific explanations:**
 
-A. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-B. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-C. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-D. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
+- **A - Incorrect:** Household income taxes are not taxes on products.
+- **B - Incorrect:** The bridge adds, not subtracts, net product taxes.
+- **C - Correct:** Product taxes are purchaser-price components linked to goods and services.
+- **D - Incorrect:** CFC, not product taxes, converts gross to net.
+
+**Examiner trap 11:** Separate taxes on products from other taxes on production.
+
+### MCQ 12
+
+Why is factor cost called a legacy concept in current Indian GDP discussion?
+
+- A. It is identical to current market prices.
+- B. It is used only for household income.
+- C. It means constant prices.
+- D. Headline GDP shifted to market prices while producer GVA is presented at basic prices; factor cost remains a distinct older valuation.
 
 **Answer: D.**
-**Explanation:** Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q17. Which statement correctly identifies Three measurement methods?
+**Option-specific explanations:**
 
-A. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-B. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-C. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-D. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
+- **A - Incorrect:** Factor cost excludes relevant taxes and is not market price.
+- **B - Incorrect:** It is an economy-wide valuation concept, not household-only.
+- **C - Incorrect:** Price basis over time is a separate nominal-real distinction.
+- **D - Correct:** The 2015 framework changed the headline presentation without making basic price and factor cost synonyms.
+
+**Examiner trap 12:** Do not write 'basic prices/factor cost' as if the slash removes their difference.
+
+### MCQ 13
+
+Which measure is best suited to compare changes in output volume over time?
+
+- A. Real GDP at a consistent price basis and series.
+- B. Nominal GDP at current prices.
+- C. Market capitalisation.
+- D. Gross national disposable income at current prices alone.
 
 **Answer: A.**
-**Explanation:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q18. Which option preserves the accounting or regulatory boundary of Three measurement methods?
+**Option-specific explanations:**
 
-A. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-B. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-C. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-D. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
+- **A - Correct:** Real GDP aims to remove estimated price change and preserve a comparable series.
+- **B - Incorrect:** Nominal GDP mixes price and volume changes.
+- **C - Incorrect:** Market capitalisation values financial claims, not current production.
+- **D - Incorrect:** Current-price disposable income still mixes prices and quantities.
+
+**Examiner trap 13:** A real series must still be labelled by base year and vintage.
+
+### MCQ 14
+
+What is the GDP deflator?
+
+- A. A fixed household cost-of-living basket.
+- B. Nominal GDP divided by real GDP, multiplied by 100.
+- C. WPI after excluding food.
+- D. The exchange rate used to convert GDP into dollars.
 
 **Answer: B.**
-**Explanation:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q19. Which statement uses Three measurement methods without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-B. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-C. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-D. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
+- **A - Incorrect:** That describes a CPI-type concept, not the implicit GDP price index.
+- **B - Correct:** The ratio provides the implicit price measure for domestically produced final output.
+- **C - Incorrect:** WPI has a different goods-oriented basket and purpose.
+- **D - Incorrect:** Exchange-rate conversion is unrelated to domestic deflation.
+
+**Examiner trap 14:** The deflator can differ from CPI because coverage and weights differ.
+
+### MCQ 15
+
+If real GDP rises from 200 to 210, what is the real growth rate?
+
+- A. 10 per cent.
+- B. 4 per cent.
+- C. 5 per cent.
+- D. The rate cannot be computed without nominal GDP.
 
 **Answer: C.**
-**Explanation:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Three measurement methods?
+**Option-specific explanations:**
 
-A. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-B. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-C. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-D. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
+- **A - Incorrect:** A 10-unit rise is not a 10 per cent rise from a base of 200.
+- **B - Incorrect:** Four per cent would imply an increase of 8.
+- **C - Correct:** `(210/200 - 1) x 100 = 5 per cent`.
+- **D - Incorrect:** Real growth can be computed directly from consistent real GDP levels.
+
+**Examiner trap 15:** Do not confuse an absolute change, percentage-point change and growth rate.
+
+### MCQ 16
+
+What does real per-capita income primarily add to real aggregate income analysis?
+
+- A. A direct inequality measure.
+- B. An environmental-depletion adjustment.
+- C. A labour-force participation adjustment.
+- D. A population denominator.
 
 **Answer: D.**
-**Explanation:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q21. Which statement correctly identifies Double-counting boundary?
+**Option-specific explanations:**
 
-A. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-B. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-C. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-D. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
+- **A - Incorrect:** An average does not reveal the distribution around it.
+- **B - Incorrect:** Green accounting requires separate environmental adjustments.
+- **C - Incorrect:** Employment analysis needs labour-market indicators.
+- **D - Correct:** Dividing by population distinguishes aggregate scale from average output or income per person.
+
+**Examiner trap 16:** Per-capita income is an average, not median income or an inequality index.
+
+### MCQ 17
+
+Which activity is inside the conventional production boundary?
+
+- A. Imputed housing services consumed by owner-occupiers.
+- B. Unpaid care by a parent for their own child.
+- C. A capital gain on an old house.
+- D. A pension transfer with no current service in return.
 
 **Answer: A.**
-**Explanation:** The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q22. Which option preserves the accounting or regulatory boundary of Double-counting boundary?
+**Option-specific explanations:**
 
-A. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-B. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-C. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-D. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
+- **A - Correct:** Owner-occupied housing is imputed to make tenant and owner housing services comparable.
+- **B - Incorrect:** Most unpaid household services for own use remain outside core GDP.
+- **C - Incorrect:** Holding gains are changes in asset value, not production.
+- **D - Incorrect:** A pension redistributes income; later purchases may enter GDP.
+
+**Examiner trap 17:** Non-cash does not always mean excluded; check the production boundary and imputation rule.
+
+### MCQ 18
+
+How are owner-occupied housing services treated?
+
+- A. Ignored because no rent is paid.
+- B. Included through an imputed rental value.
+- C. Counted as a current transfer.
+- D. Added only when the house is sold.
 
 **Answer: B.**
-**Explanation:** The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q23. Which statement uses Double-counting boundary without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-B. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-C. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-D. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
+- **A - Incorrect:** Exclusion would make identical housing services depend on tenure.
+- **B - Correct:** Imputation treats the owner as supplying and consuming a housing service.
+- **C - Incorrect:** No transfer between institutional units explains the service.
+- **D - Incorrect:** Sale is an asset transaction and does not create the annual housing service.
+
+**Examiner trap 18:** Imputed rent is a flow of housing services, not the market value of the dwelling.
+
+### MCQ 19
+
+How is most government non-market output valued?
+
+- A. By tax revenue collected.
+- B. By the market value of government land.
+- C. By the sum of production costs under national-accounting conventions.
+- D. By the number of beneficiaries alone.
 
 **Answer: C.**
-**Explanation:** The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Double-counting boundary?
+**Option-specific explanations:**
 
-A. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-B. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-C. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-D. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
+- **A - Incorrect:** Taxes finance activity but do not price each service.
+- **B - Incorrect:** Land value is a balance-sheet item, not current service output.
+- **C - Correct:** Compensation, intermediate consumption, CFC and relevant production items provide the cost valuation.
+- **D - Incorrect:** Beneficiary counts may be volume indicators but do not alone give value.
+
+**Examiner trap 19:** Cost-valued output is not the same as quality or outcome.
+
+### MCQ 20
+
+Which statement about illegal or underground activity is most accurate?
+
+- A. All illegal activity is automatically excluded from the SNA production boundary.
+- B. Theft is counted as production because money changes hands.
+- C. Informal and illegal are synonyms.
+- D. Mutually agreed illegal market production is inside the boundary in principle, though measurement is difficult; theft is redistribution.
 
 **Answer: D.**
-**Explanation:** The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q25. Which statement correctly identifies Income-side coverage?
+**Option-specific explanations:**
 
-A. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-B. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-C. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-D. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
+- **A - Incorrect:** The production boundary is concept-based, not simply the criminal-law boundary.
+- **B - Incorrect:** Theft transfers an existing asset without producing a good or service.
+- **C - Incorrect:** Many informal enterprises conduct legal activity.
+- **D - Correct:** This distinction preserves conceptual exhaustiveness while recognising practical data limits.
+
+**Examiner trap 20:** Do not use 'black economy' as an undifferentiated synonym for informal output.
+
+### MCQ 21
+
+Why are imports subtracted in the expenditure identity?
+
+- A. Because C, I and G can contain foreign production that must be removed from domestic output.
+- B. Because imports always reduce welfare.
+- C. Because customs duties are excluded from market-price GDP.
+- D. Because imported capital goods are intermediate consumption.
 
 **Answer: A.**
-**Explanation:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q26. Which option preserves the accounting or regulatory boundary of Income-side coverage?
+**Option-specific explanations:**
 
-A. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-B. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-C. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-D. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
+- **A - Correct:** The subtraction corrects the territorial production boundary after gross final-use totals.
+- **B - Incorrect:** Welfare effects depend on use, prices and financing; the identity is not a moral judgment.
+- **C - Incorrect:** Product-tax treatment is a separate valuation issue.
+- **D - Incorrect:** Imported machinery can be fixed capital formation.
+
+**Examiner trap 21:** Imports are subtracted once as a boundary correction, not deleted from every component first.
+
+### MCQ 22
+
+What determines a sector's contribution to aggregate GVA growth?
+
+- A. Its growth rate alone.
+- B. Its weight in GVA together with its growth rate.
+- C. Its employment share alone.
+- D. Whether it is publicly owned.
 
 **Answer: B.**
-**Explanation:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q27. Which statement uses Income-side coverage without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-B. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-C. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-D. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
+- **A - Incorrect:** A small fast-growing sector may contribute little in absolute terms.
+- **B - Correct:** Weight and growth jointly determine the addition to aggregate growth.
+- **C - Incorrect:** Employment share answers a labour-absorption question.
+- **D - Incorrect:** Ownership does not determine activity contribution.
+
+**Examiner trap 22:** Share, growth rate and contribution to growth are three different statistics.
+
+### MCQ 23
+
+Which institution compiles India's official national accounts?
+
+- A. Reserve Bank of India.
+- B. National Statistical Commission.
+- C. National Accounts Division of the NSO under MoSPI.
+- D. GST Council.
 
 **Answer: C.**
-**Explanation:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Income-side coverage?
+**Option-specific explanations:**
 
-A. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-B. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-C. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-D. The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
+- **A - Incorrect:** RBI supplies and analyses data but is not the official GDP compiler.
+- **B - Incorrect:** The NSC advises on statistical matters; it does not itself compile the accounts.
+- **C - Correct:** NAD integrates sources and publishes official national-account aggregates.
+- **D - Incorrect:** The GST Council recommends GST policy and is not a statistical compiler.
+
+**Examiner trap 23:** Name the division and its function; do not substitute a prominent data user.
+
+### MCQ 24
+
+Which statement correctly handles estimate vintage?
+
+- A. An FAE is final because it is official.
+- B. A projection and a provisional estimate are interchangeable.
+- C. A revised estimate must always be lower than an advance estimate.
+- D. Each figure should carry period, base, price basis and release vintage because later information can revise it.
 
 **Answer: D.**
-**Explanation:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q29. Which statement correctly identifies Expenditure-side boundary?
+**Option-specific explanations:**
 
-A. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-B. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-C. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-D. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
+- **A - Incorrect:** Official status does not make an early estimate final.
+- **B - Incorrect:** A projection is a forecast; a PE is an official estimate using realised data available by release.
+- **C - Incorrect:** Revisions can move in either direction.
+- **D - Correct:** These labels allow valid comparison and prevent stale figures from being frozen.
+
+**Examiner trap 24:** Latest does not mean final, and official does not erase the estimate label.
+
+### MCQ 25
+
+What was a central feature of India's 2015 national-accounts revision?
+
+- A. Shift to the 2011-12 base, headline GDP at market prices and wider MCA21 corporate coverage.
+- B. Adoption of 2022-23 as base year.
+- C. Replacement of GDP by HDI.
+- D. Exclusion of the services sector.
 
 **Answer: A.**
-**Explanation:** The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q30. Which option preserves the accounting or regulatory boundary of Expenditure-side boundary?
+**Option-specific explanations:**
 
-A. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-B. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-C. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-D. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
+- **A - Correct:** These were defining changes in the 2015 series.
+- **B - Incorrect:** The 2022-23 base belongs to the February 2026 revision.
+- **C - Incorrect:** HDI complements rather than replaces production accounts.
+- **D - Incorrect:** Services remained a major component and received wider data coverage.
+
+**Examiner trap 25:** The 2015 revision changed more than the base year; include valuation and data coverage.
+
+### MCQ 26
+
+Which feature belongs to MoSPI's 27 February 2026 GDP series?
+
+- A. A return to GDP at factor cost as the headline.
+- B. Base year 2022-23 with improved unincorporated coverage, double deflation in agriculture/manufacturing and SUT integration.
+- C. Permanent elimination of future revisions.
+- D. Classification of all household training as capital formation.
 
 **Answer: B.**
-**Explanation:** The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q31. Which statement uses Expenditure-side boundary without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-B. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-C. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-D. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
+- **A - Incorrect:** The modern headline remains GDP at market prices with GVA at basic prices.
+- **B - Correct:** These are explicitly listed improvements in the official press note.
+- **C - Incorrect:** New source information still requires revisions.
+- **D - Incorrect:** Routine training is not automatically capitalised.
+
+**Examiner trap 26:** Attach the 27 February 2026 source date and do not mix its SAE with later PE/NAS vintages.
+
+### MCQ 27
+
+What is the fairest interpretation of MCA21 in GDP measurement?
+
+- A. It directly measures every informal enterprise.
+- B. It is an inflation index for corporate output.
+- C. It broadens corporate administrative coverage but still requires validation, classification and complementary sources.
+- D. It removes the need for company surveys and revisions.
 
 **Answer: C.**
-**Explanation:** The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Expenditure-side boundary?
+**Option-specific explanations:**
 
-A. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-B. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-C. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-D. The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
+- **A - Incorrect:** MCA21 concerns registered corporate filings, not every unincorporated unit.
+- **B - Incorrect:** It is an administrative database, not a price index.
+- **C - Correct:** Its strength is coverage; its limits include filing quality, active-unit identification and activity classification.
+- **D - Incorrect:** Administrative data do not eliminate statistical validation.
+
+**Examiner trap 27:** Avoid both extremes: MCA21 is neither the whole economy nor inherently unusable.
+
+### MCQ 28
+
+Why can a formal-sector proxy mismeasure informal output during a shock?
+
+- A. Informal activity is legally excluded from GDP.
+- B. Formal firms never respond to shocks.
+- C. GDP is compiled only every ten years.
+- D. The historical relationship between the indicator and target may break when sectors are affected differently.
 
 **Answer: D.**
-**Explanation:** The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q33. Which statement correctly identifies Nominal-real-deflator triangle?
+**Option-specific explanations:**
 
-A. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-B. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-C. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-D. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
+- **A - Incorrect:** Informal production is estimated inside GDP where within the boundary.
+- **B - Incorrect:** Formal activity responds too, but possibly with different magnitude and timing.
+- **C - Incorrect:** Annual and quarterly estimates use multiple frequencies.
+- **D - Correct:** A structural break undermines extrapolation even when the proxy worked earlier.
+
+**Examiner trap 28:** A broken proxy can bias either direction; do not assert the sign without evidence.
+
+### MCQ 29
+
+Which limitation remains even after converting GDP to a per-capita basis?
+
+- A. Income distribution within the population.
+- B. Population size.
+- C. The distinction between aggregate and average.
+- D. The arithmetic division by population.
 
 **Answer: A.**
-**Explanation:** Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q34. Which option preserves the accounting or regulatory boundary of Nominal-real-deflator triangle?
+**Option-specific explanations:**
 
-A. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-B. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-C. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-D. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
+- **A - Correct:** Per-capita GDP can rise while gains are concentrated.
+- **B - Incorrect:** Population is precisely the denominator added by the conversion.
+- **C - Incorrect:** Per-capita converts aggregate to average.
+- **D - Incorrect:** The calculation itself is what the measure performs.
 
-**Answer: B.**
-**Explanation:** Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 29:** Average income is not median income and does not reveal inequality.
 
-### Q35. Which statement uses Nominal-real-deflator triangle without losing its vintage, basket or legal status?
+### MCQ 30
 
-A. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-B. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-C. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-D. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
+Why can disaster reconstruction raise GDP without restoring welfare?
 
-**Answer: C.**
-**Explanation:** Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Nominal-real-deflator triangle?
-
-A. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-B. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-C. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-D. Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-
-**Answer: D.**
-**Explanation:** Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies Production boundary?
-
-A. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-B. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-C. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-D. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-
-**Answer: A.**
-**Explanation:** Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of Production boundary?
-
-A. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-B. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-C. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-D. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
+- A. GDP deducts all destroyed wealth before adding reconstruction.
+- B. Reconstruction is current production, while the prior destruction is mainly a wealth-stock loss outside GDP.
+- C. Natural disasters are treated as exports.
+- D. Government reconstruction is excluded from output.
 
 **Answer: B.**
-**Explanation:** Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q39. Which statement uses Production boundary without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-B. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-C. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-D. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
+- **A - Incorrect:** Headline GDP does not symmetrically deduct the full destroyed asset stock.
+- **B - Correct:** This flow-stock asymmetry explains the apparent paradox.
+- **C - Incorrect:** No export classification follows from a domestic disaster.
+- **D - Incorrect:** Construction and public services can enter current production.
 
-**Answer: C.**
-**Explanation:** Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 30:** GDP is a flow; wealth destruction is primarily a balance-sheet event.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Production boundary?
+### MCQ 31
 
-A. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-B. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-C. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-D. Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
+Which statement about chain-volume measures is safest for India?
 
-**Answer: D.**
-**Explanation:** Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies Transfer and resale exclusions?
-
-A. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-B. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-C. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-D. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-
-**Answer: A.**
-**Explanation:** Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of Transfer and resale exclusions?
-
-A. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-B. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-C. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-D. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-
-**Answer: B.**
-**Explanation:** Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses Transfer and resale exclusions without losing its vintage, basket or legal status?
-
-A. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-B. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-C. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-D. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
+- A. India's 2026 GDP is officially described as an annual chain-linked series.
+- B. Chain linking guarantees additive sector totals.
+- C. Chain volume is a useful concept, but the 2026 headline is a 2022-23-base constant-price series unless MoSPI states otherwise.
+- D. Chain indices and current-price estimates are identical.
 
 **Answer: C.**
-**Explanation:** Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Transfer and resale exclusions?
+**Option-specific explanations:**
 
-A. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-B. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-C. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-D. Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
+- **A - Incorrect:** The cited official GDP release identifies a fixed base year.
+- **B - Incorrect:** Chain measures commonly lose simple additivity.
+- **C - Correct:** This avoids importing another system's label into India's published methodology.
+- **D - Incorrect:** Current-price values retain current prices and are not chain-volume estimates.
 
-**Answer: D.**
-**Explanation:** Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 31:** Do not infer GDP methodology from the Survey's separate discussion of chain-based IIP.
 
-### Q45. Which statement correctly identifies Unpaid work and welfare limit?
+### MCQ 32
 
-A. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-B. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-C. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-D. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
+Which opening is strongest for a Mains answer on GDP measurement?
 
-**Answer: A.**
-**Explanation:** Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of Unpaid work and welfare limit?
-
-A. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-B. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-C. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-D. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-
-**Answer: B.**
-**Explanation:** Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses Unpaid work and welfare limit without losing its vintage, basket or legal status?
-
-A. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-B. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-C. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-D. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-
-**Answer: C.**
-**Explanation:** Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Unpaid work and welfare limit?
-
-A. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-B. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-C. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-D. Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
+- A. GDP is the best measure of happiness.
+- B. India's latest growth rate proves the methodology is correct.
+- C. All GDP estimates are unreliable because revisions occur.
+- D. National accounts measure one production flow through defined territory, valuation, price and vintage boundaries; interpretation begins by stating those boundaries.
 
 **Answer: D.**
-**Explanation:** Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q49. Which statement correctly identifies 2015 national-accounts revision?
+**Option-specific explanations:**
 
-A. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-B. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-C. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-D. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
+- **A - Incorrect:** GDP is not a complete welfare index.
+- **B - Incorrect:** A growth outcome cannot validate every source and method.
+- **C - Incorrect:** Revision is a normal design feature and does not make all estimates useless.
+- **D - Correct:** The opening supplies the conceptual frame and creates room for evidence and qualification.
 
-**Answer: A.**
-**Explanation:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 32:** A memorable opening should be precise enough to control the rest of the answer.
 
-### Q50. Which option preserves the accounting or regulatory boundary of 2015 national-accounts revision?
-
-A. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-B. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-C. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-D. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-
-**Answer: B.**
-**Explanation:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses 2015 national-accounts revision without losing its vintage, basket or legal status?
-
-A. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-B. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-C. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-D. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-
-**Answer: C.**
-**Explanation:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about 2015 national-accounts revision?
-
-A. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-B. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-C. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-D. India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-
-**Answer: D.**
-**Explanation:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies 2026 series revision?
-
-A. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-B. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-C. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-D. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-
-**Answer: A.**
-**Explanation:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of 2026 series revision?
-
-A. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-B. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-C. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-D. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-
-**Answer: B.**
-**Explanation:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses 2026 series revision without losing its vintage, basket or legal status?
-
-A. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-B. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-C. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-D. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-
-**Answer: C.**
-**Explanation:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about 2026 series revision?
-
-A. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-B. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-C. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-D. MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-
-**Answer: D.**
-**Explanation:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Potential GDP and output gap?
-
-A. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-B. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-C. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-D. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-
-**Answer: A.**
-**Explanation:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Potential GDP and output gap?
-
-A. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-B. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-C. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-D. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-
-**Answer: B.**
-**Explanation:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Potential GDP and output gap without losing its vintage, basket or legal status?
-
-A. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-B. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-C. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-D. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-
-**Answer: C.**
-**Explanation:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Potential GDP and output gap?
-
-A. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-B. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-C. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-D. Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-
-**Answer: D.**
-**Explanation:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies ICOR and investment efficiency?
-
-A. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-B. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-C. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-D. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-
-**Answer: A.**
-**Explanation:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of ICOR and investment efficiency?
-
-A. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-B. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-C. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-D. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-
-**Answer: B.**
-**Explanation:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses ICOR and investment efficiency without losing its vintage, basket or legal status?
-
-A. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-B. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-C. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-D. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-
-**Answer: C.**
-**Explanation:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about ICOR and investment efficiency?
-
-A. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-B. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-C. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-D. The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-
-**Answer: D.**
-**Explanation:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies PPP versus market exchange rate?
-
-A. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-B. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-C. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-D. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-
-**Answer: A.**
-**Explanation:** Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of PPP versus market exchange rate?
-
-A. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-B. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-C. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-D. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-
-**Answer: B.**
-**Explanation:** Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses PPP versus market exchange rate without losing its vintage, basket or legal status?
-
-A. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-B. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-C. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-D. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-
-**Answer: C.**
-**Explanation:** Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about PPP versus market exchange rate?
-
-A. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-B. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-C. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-D. Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-
-**Answer: D.**
-**Explanation:** Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Intangible capital formation?
-
-A. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-B. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-C. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-D. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-
-**Answer: A.**
-**Explanation:** Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Intangible capital formation?
-
-A. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-B. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-C. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-D. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-
-**Answer: B.**
-**Explanation:** Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Intangible capital formation without losing its vintage, basket or legal status?
-
-A. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-B. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-C. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-D. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-
-**Answer: C.**
-**Explanation:** Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Intangible capital formation?
-
-A. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-B. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-C. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-D. Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-
-**Answer: D.**
-**Explanation:** Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Sector and capital classification?
-
-A. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-B. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-C. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-D. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-
-**Answer: A.**
-**Explanation:** Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Sector and capital classification?
-
-A. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-B. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-C. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-D. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-
-**Answer: B.**
-**Explanation:** Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Sector and capital classification without losing its vintage, basket or legal status?
-
-A. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-B. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-C. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-D. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-
-**Answer: C.**
-**Explanation:** Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Sector and capital classification?
-
-A. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-B. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-C. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-D. Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-
-**Answer: D.**
-**Explanation:** Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Estimate-vintage discipline?
-
-A. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-B. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-C. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-D. GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-
-**Answer: A.**
-**Explanation:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Estimate-vintage discipline?
-
-A. GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-B. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-C. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-D. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-
-**Answer: B.**
-**Explanation:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Estimate-vintage discipline without losing its vintage, basket or legal status?
-
-A. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-B. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-C. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-D. GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-
-**Answer: C.**
-**Explanation:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Estimate-vintage discipline?
-
-A. Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-B. The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-C. Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-D. A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-
-**Answer: D.**
-**Explanation:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### Verified PYQ 1 - UPSC Prelims 2018, GS Paper I, Question 50
 
-Audited Economy ledgers route 2020 GS-III on potential GDP and output gap and 2021 GS-III on the pre/post-2015 GDP methodology change to this Basic owner. Objective routes on ICOR, PPP, sector classification, physical capital and intangible investment are retained as concepts without inventing answer letters.
+**Question:** Despite being a high saving economy, capital formation may not result in significant
+increase in output due to:
 
-### OWNER PYQ LEDGER EXTRACTS
+- A. weak administrative machinery
+- B. illiteracy
+- C. high population density
+- D. high capital-output ratio
 
-#### 10. PYQ status
+Answer withheld pending official UPSC key.
 
-- ⚠️ No direct national-income-measurement question appears in the audited
-  2024-2026 Economy corpus; use the distinctions above for adjacent sector,
-  growth and deficit questions. See the exact routing table in `../README.md`.
+### Verified PYQ 2 - UPSC Prelims 2019, GS Paper I, Question 82
 
-#### Recent PYQ Integration (2024-2025)
+**Question:** Consider the following statements:
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+1. Purchasing Power Parity (PPP) exchange rates are calculated by comparing the prices of the same
+   basket of goods and services in different countries.
+2. In terms of PPP dollars, India is the sixth largest economy in the world.
 
-- **Years represented:** 2024
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+Which of the statements given above is/are correct?
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | Prelims GS-I | 45 | Economic activity-to-sector matching (primary/secondary/tertiary) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2024 | Prelims GS-I | 47 | Physical-capital pairs - working versus fixed capital (plough, computer, yarn, petrol) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+- A. 1 only
+- B. 2 only
+- C. Both 1 and 2
+- D. Neither 1 nor 2
 
-##### What this owner must now support
+Answer withheld pending official UPSC key.
 
-- Economic activity-to-sector matching (primary/secondary/tertiary)
-- Physical-capital pairs - working versus fixed capital (plough, computer, yarn, petrol)
+### Verified PYQ 3 - UPSC Mains 2020, GS Paper III, Question 2
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Question:** Define potential GDP and explain its determinants. What are the factors that have
+been inhibiting India from realizing its potential GDP? (Answer in 150 words)
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+Answer withheld pending official UPSC key.
 
-#### Historical PYQ Integration (2018-2023)
+### Verified PYQ 4 - UPSC Mains 2021, GS Paper III, Question 1
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+**Question:** Explain the difference between computing methodology of India's Gross Domestic
+Product (GDP) before the year 2015 and after the year 2015. (Answer in 150 words)
 
-- **Years represented:** 2018, 2019, 2020, 2021, 2022, 2023
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 6
+Answer withheld pending official UPSC key.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 50 | High saving economy low output and capital-output ratio | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 82 | Purchasing Power Parity and India world economy size | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | GS-III | 2 | Potential GDP definition determinants and India's output gap | Define · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-III | 1 | GDP computation methodology change in India before and after 2015 | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | Prelims GS-I | 7 | Real sector economic activities in Indian economy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 28 | Intangible investments classification in economic accounting | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+### Verified PYQ 5 - UPSC Prelims 2022, GS Paper I, Question 7
 
-##### What this owner must now support
+**Question:** Which of the following activities constitute real sector in the economy?
 
-- High saving economy low output and capital-output ratio
-- Purchasing Power Parity and India world economy size
-- Potential GDP definition determinants and India's output gap
-- GDP computation methodology change in India before and after 2015
-- Real sector economic activities in Indian economy
-- Intangible investments classification in economic accounting
+1. Farmers harvesting their crops
+2. Textile mills converting raw cotton into fabrics
+3. A commercial bank lending money to a trading company
+4. A corporate body issuing Rupee Denominated Bonds overseas
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+Select the correct answer using the code given below:
 
-#### 12. PYQ status
+- A. 1 and 2 only
+- B. 2, 3 and 4 only
+- C. 1, 3 and 4 only
+- D. 1, 2, 3 and 4
 
-- ⚠️ No direct national-income-measurement question appears in the audited
-  2024-2026 Economy corpus; see the exact route audit in `../README.md`.
+Answer withheld pending official UPSC key.
 
-#### Historical PYQ Integration (2018-2023)
+### Verified PYQ 6 - UPSC Prelims 2023, GS Paper I, Question 28
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+**Question:** Consider the investments in the following assets:
 
-- **Years represented:** 2020, 2021
-- **Paper(s):** GS-III
-- **Routed question demands:** 2
+1. Brand recognition
+2. Inventory
+3. Intellectual property
+4. Mailing list of clients
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | GS-III | 2 | Potential GDP definition determinants and India's output gap | Define · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-III | 1 | GDP computation methodology change in India before and after 2015 | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+How many of the above are considered intangible investments?
 
-##### What this owner must now support
+- A. Only one
+- B. Only two
+- C. Only three
+- D. All four
 
-- Potential GDP definition determinants and India's output gap
-- GDP computation methodology change in India before and after 2015
+Answer withheld pending official UPSC key.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+### Verified PYQ 7 - UPSC Prelims 2024, GS Paper I, Set A, Question 45
 
-### PYQ DEMAND CARD 1 — 2020 GS-III
+**Question:** With reference to the sectors of the Indian economy, consider the following pairs:
 
-**Demand:** Define potential GDP, explain its determinants and examine India's output gap.
+| Economic activity | Sector |
+|---|---|
+| Storage of agricultural produce | Secondary |
+| Dairy farm | Primary |
+| Mineral exploration | Tertiary |
+| Weaving cloth | Secondary |
 
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
+How many of the pairs given above are correctly matched?
 
-**Model solution:** **Potential GDP and output gap:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed. **ICOR and investment efficiency:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth. **Estimate-vintage discipline:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+- A. Only one
+- B. Only two
+- C. Only three
+- D. All four
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2020 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Official Set-A answer: B.**
 
-**Detailed examiner-grade model answer:**
+**Solution:** Storage is a tertiary service; dairy farming is primary; mineral exploration belongs
+to the extractive/primary domain in this classification; weaving cloth is secondary manufacturing.
+Pairs 2 and 4 are correct.
 
-**Introduction and thesis:** **Potential GDP and output gap:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed. **ICOR and investment efficiency:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth. **Estimate-vintage discipline:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+### Verified PYQ 8 - UPSC Prelims 2024, GS Paper I, Set A, Question 47
 
-**Analytical body:**
+**Question:** With reference to physical capital in Indian economy, consider the following pairs:
 
-1. **Claim and named evidence:** Demand: Define potential GDP, explain its determinants and examine India's output gap. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+| Item | Category |
+|---|---|
+| Farmer's plough | Working capital |
+| Computer | Fixed capital |
+| Yarn used by the weaver | Fixed capital |
+| Petrol | Working capital |
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+How many of the above pairs are correctly matched?
 
-**Qualified conclusion:** **Potential GDP and output gap:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed. **ICOR and investment efficiency:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth. **Estimate-vintage discipline:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+- A. Only one
+- B. Only two
+- C. Only three
+- D. All four
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Official Set-A answer: B.**
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+**Solution:** A plough and computer provide services over multiple production periods and are fixed
+capital. Yarn and petrol are used up in production and are working capital. Pairs 2 and 4 are
+correct. The local official Set-A answer key records B for Question 47.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2020 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+### ORIGINAL MAINS PRACTICE
 
-### PYQ DEMAND CARD 2 — 2021 GS-III
+### ORIGINAL MAINS 1 - 10 MARKS
 
-**Demand:** Explain changes in India's GDP computation methodology before and after the 2015 revision.
+**Question:** Distinguish GDP, GVA, GNI and NDP. Answer in 150 words.
 
-**Status:** Verified routed Mains demand; original model solution, not an official answer.
+**Model answer:**
 
-**Model solution:** **Three measurement methods:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk. **Income-side coverage:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. **2015 national-accounts revision:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. **2026 series revision:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+GDP measures final production within domestic territory. GVA measures producers' value added:
+output minus intermediate consumption. GDP at market prices equals GVA at basic prices plus taxes
+on products minus subsidies on products. GNI, corresponding to legacy GNP, adds net primary income from abroad to GDP.
+NDP subtracts consumption of fixed capital from GDP and shows domestic production net of used-up
+fixed assets.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2021 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+The distinctions matter analytically. A change in net product taxes can separate GDP growth from
+GVA growth; negative net primary income from abroad can make GNI lower than GDP; and gross output
+can overstate the amount remaining after capital maintenance. Thus an answer should identify four
+axes before comparison: domestic or national, gross or net, basic or market prices, and nominal or
+real. The correct aggregate follows the question's boundary, not a hierarchy in which one measure
+is always superior.
 
-**Detailed examiner-grade model answer:**
+### ORIGINAL MAINS 2 - 10 MARKS
 
-**Introduction and thesis:** **Three measurement methods:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk. **Income-side coverage:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. **2015 national-accounts revision:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. **2026 series revision:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Question:** Why do the three methods of measuring GDP converge conceptually yet diverge statistically? Answer in 150 words.
 
-**Analytical body:**
+**Model answer:**
 
-1. **Claim and named evidence:** Demand: Explain changes in India's GDP computation methodology before and after the 2015 revision. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution, not an official answer. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+The production, income and expenditure methods observe the same circular flow. Production
+creates value added; that value becomes compensation, operating surplus and mixed income; final
+users absorb the resulting output through consumption, capital formation and net exports.
+Conceptually, therefore, output equals income equals final expenditure.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+Measured totals differ because the routes use distinct evidence. Production estimates combine
+enterprise surveys, crop and industrial indicators and administrative records. Income data face
+mixed household-enterprise accounts and under-reporting. Expenditure estimates depend on
+consumption, inventory, trade and government data with different reporting dates. Price
+adjustment, informal-sector extrapolation and later returns add further variation.
 
-**Qualified conclusion:** **Three measurement methods:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk. **Income-side coverage:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. **2015 national-accounts revision:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. **2026 series revision:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+MoSPI's 27 February 2026 methodology uses Supply and Use Table integration to improve production-
+expenditure reconciliation. The residual remains a statistical discrepancy, not additional
+production. Better surveys, coherent classifications and transparent revision tables can reduce
+it, but independent estimation means a zero discrepancy is not a realistic proof of quality.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+### ORIGINAL MAINS 3 - 15 MARKS
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+**Question:** Explain the national-income aggregate ladder and the treatment of cross-border remittances. Answer in 250 words.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2021 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Model answer:**
 
-### ORIGINAL MAINS 1 — 10 MARKS
+National-income aggregates change one accounting boundary at a time. GVA at basic prices plus
+net taxes on products gives GDP at market prices. GDP measures production within domestic
+territory. Adding primary income receivable from the rest of the world and subtracting primary
+income payable gives GNI, commonly called GNP in older texts. Deducting consumption of fixed
+capital gives NDP from GDP and NNI from GNI.
 
-**Question:** Distinguish GDP, GVA, GNP and NDP and explain why the distinctions matter. Answer in about 150 words.
+The next bridge concerns disposable resources rather than production income. Gross national
+disposable income equals GNI plus net current transfers from abroad; the net version deducts CFC.
+This is why all remittances cannot be added to GDP or treated as net factor income. Compensation
+for labour and property income are primary income when residence rules make them cross-border.
+A personal transfer sent without a corresponding labour, capital or service claim is secondary
+income/current transfer and affects disposable income.
 
-**Model thesis:** **Claim:** Territory-residence boundary. **Named evidence/example:** GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GDP-GVA reconciliation. **Named evidence/example:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Gross-net distinction. **Named evidence/example:** Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Named evidence comes from MoSPI's National Accounts Statistics 2026, which publishes GDP,
+national income, per-capita income and external transactions as distinct statements. The
+analytical gain is precision: GDP answers where production occurred; GNI answers whose primary
+income accrued; disposable income answers what resources residents can consume or save.
 
-**Claim → named evidence → analysis → qualification:**
+The qualification is measurement. Residence is not citizenship, transfer classifications depend
+on transaction characteristics, and CFC is estimated. A sound answer therefore writes every
+bridge explicitly and avoids the textbook shortcut 'income from abroad' unless it is decomposed.
 
-- GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-- GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-- Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
+### ORIGINAL MAINS 4 - 15 MARKS
 
-**Qualified conclusion:** **Claim:** Territory-residence boundary. **Named evidence/example:** GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GDP-GVA reconciliation. **Named evidence/example:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Gross-net distinction. **Named evidence/example:** Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Question:** Examine the significance and limitations of India's 2022-23-base GDP series. Answer in 250 words.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Distinguish GDP, GVA, GNP and NDP and explain why the distinctions matter. Answer in about…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+**Model answer:**
 
-**Detailed examiner-grade model answer:**
+The 2022-23-base series, released by MoSPI on 27 February 2026, updates the benchmark used to
+measure India's changing economy. Its significance lies in five improvements. First, it separates
+activities within multi-activity companies rather than classifying the whole enterprise by one
+dominant activity. Second, annual survey data improve unincorporated-sector coverage. Third, GST
+and other administrative data widen corroboration. Fourth, agriculture and manufacturing use
+double deflation, while other sectors use stated volume or single-extrapolation methods. Fifth,
+Supply and Use Table integration and Proportional Denton quarterly benchmarking improve
+reconciliation and temporal consistency.
 
-**Introduction and thesis:** **Claim:** Territory-residence boundary. **Named evidence/example:** GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GDP-GVA reconciliation. **Named evidence/example:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Gross-net distinction. **Named evidence/example:** Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+MoSPI's 31 August 2026 NAS publication also records the incorporation of rebased PPI, IIP and
+Banking Services Price Index inputs, which revised estimates from 2022-23 onward. This illustrates
+why a base revision is more than changing one year's prices: sources, classifications, weights and
+methods can all change.
 
-**Analytical body:**
+Limitations remain. Administrative filings require validation; granular deflators demand reliable
+output and input prices; informal estimates still combine benchmarks with indicators; and
+methodological change creates a series break. February Second Advance Estimates, June Provisional
+Estimates and August NAS revisions are not interchangeable vintages.
 
-1. **Claim and named evidence:** GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+Therefore the revision should neither be accepted uncritically nor dismissed politically.
+Credibility depends on published concordances, revision studies, back series, accessible
+methodology and continuing survey improvement. Rebasing can improve relevance, but only
+transparent bridges preserve historical comparability and public trust.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+### ORIGINAL MAINS 5 - 20 MARKS
 
-**Qualified conclusion:** **Claim:** Territory-residence boundary. **Named evidence/example:** GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GDP-GVA reconciliation. **Named evidence/example:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Gross-net distinction. **Named evidence/example:** Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Question:** Critically examine India's GDP measurement debates concerning MCA21, deflators and the informal sector. Answer in 250 words.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+**Model answer:**
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+India's GDP debate concerns whether sources and methods represent the target concept, not whether
+one preferred growth rate should prevail. The 2015 series widened corporate coverage through the
+MCA21 database and shifted the headline to GDP at market prices with GVA at basic prices. This
+reduced dependence on a narrow company sample. Critics nevertheless questioned active-company
+identification, filing quality, multi-activity classification and reproducibility.
 
-**How to improve this answer:** For “Distinguish GDP, GVA, GNP and NDP and explain why the distinctions matter. Answer in about…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+The 2022-23-base series responds partly through activity segregation, GST corroboration and
+updated administrative sources. Yet administrative data are collected for legal or tax purposes;
+statistical concepts still require cleaning and validation.
 
-### ORIGINAL MAINS 2 — 10 MARKS
+Deflation is a second fault line. Single deflation can misstate real GVA when output and input
+prices move differently. MoSPI's 27 February 2026 release adopts double deflation for agriculture
+and manufacturing, conceptually improving the price-volume split. Its quality, however, depends
+on representative output and intermediate-input price indices. Services and quality change
+remain difficult.
 
-**Question:** Why can GDP and GVA growth tell different stories in the same year? Answer in about 150 words.
+Third, unincorporated enterprises lack complete accounts. ASUSE, PLFS, tax data and benchmark-
+indicator methods expand coverage, but shocks can break the historical relation between formal
+indicators and informal output. Neither omission nor overstatement can be presumed without
+triangulated evidence.
 
-**Model thesis:** **Claim:** GDP-GVA reconciliation. **Named evidence/example:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+The reform route is transparent source maps, annual surveys, published revision decompositions,
+Supply and Use Tables, stronger service-price statistics and an official back series. GDP remains
+indispensable; neutrality requires distinguishing a documented measurement risk from an
+unsupported allegation about its direction or magnitude.
 
-**Claim → named evidence → analysis → qualification:**
+### ORIGINAL MAINS 6 - 20 MARKS
 
-- GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-- A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
+**Question:** GDP growth is necessary but insufficient for judging development. Discuss with reference to measurement boundaries. Answer in 250 words.
 
-**Qualified conclusion:** **Claim:** GDP-GVA reconciliation. **Named evidence/example:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why can GDP and GVA growth tell different stories in the same year? Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Real GDP growth is necessary because it records expansion of domestic production. It supports
+analysis of business cycles, fiscal capacity, debt ratios, sectoral transformation and the
+resource base available for public and private investment. Real per-capita output further
+separates aggregate expansion from population growth.
 
-**Detailed examiner-grade model answer:**
+It is insufficient because the production boundary is not a welfare boundary. First, an average
+does not reveal distribution: gains may be concentrated. Second, most unpaid household care is
+excluded, so marketisation can raise GDP without an equal welfare gain. Third, government
+non-market output is mainly cost-valued, which does not directly measure service quality or
+outcomes. Fourth, pollution and natural-resource depletion can accompany current production.
+Fifth, destruction of wealth in a disaster is largely a stock loss, while reconstruction is
+current production and can raise GDP. Sixth, informal activity, digital services and quality
+change remain difficult to measure.
 
-**Introduction and thesis:** **Claim:** GDP-GVA reconciliation. **Named evidence/example:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Named Indian evidence is the NSO's continuing use of surveys, administrative data and revisions,
+including the 2022-23-base series and Supply and Use Table reconciliation. These strengthen the
+production anchor but do not transform it into a complete social index.
 
-**Analytical body:**
+The correct response is a dashboard: real per-capita GDP and sectoral GVA with employment,
+consumption distribution, health, education and poverty indicators. HDI and MPI are developed in
+Economy Topic 2; environmental-economic and green-accounting adjustments belong to Topic 25.
+GDP should therefore be neither worshipped nor discarded: it measures production, while
+development requires evidence on capabilities, distribution, decent work and sustainable
+wealth.
 
-1. **Claim and named evidence:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** GDP-GVA reconciliation. **Named evidence/example:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Why can GDP and GVA growth tell different stories in the same year? Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain how the three methods of national-income measurement converge and where Indian data risks arise. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Three measurement methods. **Named evidence/example:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Double-counting boundary. **Named evidence/example:** The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-side coverage. **Named evidence/example:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Expenditure-side boundary. **Named evidence/example:** The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-- The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-- The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-- The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-
-**Qualified conclusion:** **Claim:** Three measurement methods. **Named evidence/example:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Double-counting boundary. **Named evidence/example:** The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-side coverage. **Named evidence/example:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Expenditure-side boundary. **Named evidence/example:** The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how the three methods of national-income measurement converge and where Indian data…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Three measurement methods. **Named evidence/example:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Double-counting boundary. **Named evidence/example:** The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-side coverage. **Named evidence/example:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Expenditure-side boundary. **Named evidence/example:** The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Three measurement methods. **Named evidence/example:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Double-counting boundary. **Named evidence/example:** The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Income-side coverage. **Named evidence/example:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Expenditure-side boundary. **Named evidence/example:** The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Explain how the three methods of national-income measurement converge and where Indian data…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** A base-year revision improves relevance but complicates historical comparison. Examine. Answer in about 250 words.
-
-**Model thesis:** **Claim:** 2015 national-accounts revision. **Named evidence/example:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** 2026 series revision. **Named evidence/example:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-- MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-- A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-
-**Qualified conclusion:** **Claim:** 2015 national-accounts revision. **Named evidence/example:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** 2026 series revision. **Named evidence/example:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **examine** requires a direct position on “A base-year revision improves relevance but complicates historical comparison. Examine.…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** 2015 national-accounts revision. **Named evidence/example:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** 2026 series revision. **Named evidence/example:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** 2015 national-accounts revision. **Named evidence/example:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** 2026 series revision. **Named evidence/example:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “A base-year revision improves relevance but complicates historical comparison. Examine.…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Critically assess GDP as a measure of India's economic performance and welfare. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Nominal-real-deflator triangle. **Named evidence/example:** Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Unpaid work and welfare limit. **Named evidence/example:** Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Potential GDP and output gap. **Named evidence/example:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** PPP versus market exchange rate. **Named evidence/example:** Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-- Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-- Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-- Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-- A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-
-**Qualified conclusion:** **Claim:** Nominal-real-deflator triangle. **Named evidence/example:** Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Unpaid work and welfare limit. **Named evidence/example:** Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Potential GDP and output gap. **Named evidence/example:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** PPP versus market exchange rate. **Named evidence/example:** Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **critically assess** requires a direct position on “Critically assess GDP as a measure of India's economic performance and welfare. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Nominal-real-deflator triangle. **Named evidence/example:** Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Unpaid work and welfare limit. **Named evidence/example:** Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Potential GDP and output gap. **Named evidence/example:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** PPP versus market exchange rate. **Named evidence/example:** Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Nominal-real-deflator triangle. **Named evidence/example:** Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Unpaid work and welfare limit. **Named evidence/example:** Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Potential GDP and output gap. **Named evidence/example:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** PPP versus market exchange rate. **Named evidence/example:** Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Critically assess GDP as a measure of India's economic performance and welfare. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Analyse the saving-investment-growth chain with ICOR, intangible capital and measurement limitations. Answer in about 300 words.
-
-**Model thesis:** **Claim:** ICOR and investment efficiency. **Named evidence/example:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Intangible capital formation. **Named evidence/example:** Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Sector and capital classification. **Named evidence/example:** Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-- Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-- Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-- A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
-
-**Qualified conclusion:** **Claim:** ICOR and investment efficiency. **Named evidence/example:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Intangible capital formation. **Named evidence/example:** Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Sector and capital classification. **Named evidence/example:** Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse the saving-investment-growth chain with ICOR, intangible capital and measurement…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** ICOR and investment efficiency. **Named evidence/example:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Intangible capital formation. **Named evidence/example:** Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Sector and capital classification. **Named evidence/example:** Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** ICOR and investment efficiency. **Named evidence/example:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Intangible capital formation. **Named evidence/example:** Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Sector and capital classification. **Named evidence/example:** Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Estimate-vintage discipline. **Named evidence/example:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Analyse the saving-investment-growth chain with ICOR, intangible capital and measurement…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims.
-> **Grounded in:** Ramesh Singh, Ch. 1; Economic Survey 2025-26, Ch. 1;
-> System of National Accounts concepts used in India's national accounting.
-> ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey hook.
-> *Companion: `../basic/01_National-Income-GDP-GVA-and-Measurement.md`.*
+### A1. Potential GDP and the output gap
 
-#### 1. Measurement Architecture
+Potential GDP is the sustainable level of output consistent with normal utilisation of labour and
+capital and stable inflation; it is not the engineering maximum. It depends on labour supply and
+skills, capital stock, technology and total factor productivity, infrastructure, institutions and
+resource allocation. The output gap is commonly written as `(actual output - potential output) /
+potential output x 100`. A negative gap suggests slack; a positive gap can indicate demand beyond
+sustainable capacity. Both potential output and the gap are model-dependent estimates.
 
-```text
-Production account          Income account          Expenditure account
-Output                      Compensation            PFCE
-- intermediate inputs       + operating surplus     + GFCE
-= GVA                       + mixed income          + capital formation
-                                                    + (exports-imports)
-             \                  |                  /
-              \_________________|_________________/
-                       Same economic activity
-```
+### A2. Saving, investment and ICOR
 
-Statistical discrepancies arise because the three methods use different data
-sources, timing and estimation procedures.
+In a simplified relation, growth is associated with the investment rate divided by the Incremental
+Capital-Output Ratio (ICOR). A higher ICOR means more additional capital is associated with each
+unit of additional output and therefore weaker capital efficiency, other things equal. The ratio
+is an aggregate diagnostic, not an immutable causal law: capacity utilisation, lags, imported
+capital goods, human capital, institutions and technology matter.
 
-#### 2. Domestic territory vs normal residence
+### A3. PPP and market-exchange-rate GDP
 
-| Test | Domestic measure | National measure |
-|---|---|---|
-| Governing principle | Location of production | Normal residence of income earner |
-| Main aggregate | GDP/NDP | GNP/NNP |
-| Adjustment | None for cross-border factor income | Add NFIA |
+Purchasing Power Parity converts output using relative prices for a common basket and is useful for
+real-volume and living-standard comparisons. Market-exchange-rate GDP values output at currency
+market rates and is more relevant for external purchasing power, trade, debt service and market
+size in internationally traded currency. Rankings must carry the source and reference year.
 
-**NFIA = factor income received from abroad - factor income paid abroad.**
+### A4. Intangible capital and knowledge production
 
-Remittances that are personal transfers are recorded differently from factor or
-primary income. Do not treat every inward remittance as NFIA.
+Qualifying research and development, software and databases, mineral exploration and artistic
+originals can be capital formation because they provide services beyond the current period.
+Advertising, routine training, brand-building and much organisational capital are generally not
+capitalised in core national accounts. Classification affects GDP, investment and CFC and remains
+valuation-intensive.
 
-#### 3. Gross, net, basic and market prices
+### A5. Supply and Use Tables and balancing
 
-| Distinction | Adjustment |
-|---|---|
-| Gross -> Net | Subtract consumption of fixed capital/depreciation |
-| GVA at basic prices -> GDP at market prices | Add product taxes; subtract product subsidies |
-| Nominal -> Real | Deflate with appropriate price indices/base-year prices |
+A Supply and Use Table confronts product supply from domestic output and imports with intermediate
+and final uses. It helps reveal impossible product balances and reconcile production and
+expenditure estimates. It improves coherence but cannot manufacture missing primary data.
 
-- ✅ **Production taxes/subsidies** relate to production activity.
-- ✅ **Product taxes/subsidies** relate to units of goods/services and bridge GVA
-  at basic prices with GDP at market prices.
-- ⚠️ A tax cut can narrow GDP growth relative to GVA growth even when underlying
-  production is unchanged.
+### A6. Reform agenda
 
-#### 4. Expenditure-side components
-
-| Component | Meaning | Analytical use |
-|---|---|---|
-| PFCE | Household/private consumption | Consumption strength |
-| GFCE | Government final consumption | Government current-service demand |
-| GFCF | Fixed capital formation | Investment/capacity creation |
-| Change in stocks | Inventory accumulation or drawdown | Business-cycle signal |
-| Valuables | Acquisitions such as precious assets under SNA treatment | Saving/asset preference |
-| Net exports | Exports minus imports | External contribution to demand |
-
-> 🔑 **Trap:** Government capital expenditure is not the same as GFCE. Capital
-> expenditure can create assets and enters capital formation; GFCE measures
-> government consumption of current services.
-
-#### 5. Value added and double counting
-
-Example:
-
-| Stage | Sale value | Intermediate input | Value added |
-|---|---:|---:|---:|
-| Farmer sells wheat | 20 | 0 | 20 |
-| Miller sells flour | 35 | 20 | 15 |
-| Baker sells bread | 50 | 35 | 15 |
-| **Total** | 105 | - | **50** |
-
-GDP counts the final bread value of 50 or the sum of value added (20+15+15), not
-all sales of 105.
-
-#### 6. Real growth, deflation and base-year revision
-
-- ✅ Constant-price estimates separate output-volume change from price change.
-- ✅ Different sectors require suitable deflators; one economy-wide price index
-  cannot perfectly represent every activity.
-- ✅ Base-year revision updates prices, weights, databases, classifications and
-  coverage as the economy changes.
-- ⚠️ A new series can alter levels and growth rates because both the base and
-  methodology change; this does not automatically imply manipulation.
-- ⚠️ Informal-sector estimation, rapidly changing digital services and quality
-  improvements remain difficult measurement areas.
-
-#### 7. GDP deflator vs CPI/WPI
-
-| Index | Coverage | Imports | Weights |
-|---|---|---|---|
-| GDP deflator | Domestically produced final output | Excluded as foreign output | Current composition |
-| CPI | Household consumption basket | Can include imported consumer goods | Fixed/revised basket |
-| WPI | Mainly wholesale goods | Includes relevant traded goods | Fixed/revised basket |
-
-The GDP deflator is broader than CPI in domestic output coverage but is not a
-cost-of-living index.
-
-#### 8. Limits of GDP as a welfare measure
-
-```text
-GDP growth
-  |
-  +-- says: output expanded
-  |
-  +-- does not by itself say:
-      distribution | job quality | unpaid care | health | learning
-      ecological damage | safety | leisure | institutional quality
-```
-
-- ⚠️ Per-capita GDP corrects for population size but not inequality.
-- ⚠️ Disaster reconstruction can add to GDP although the original welfare loss
-  is not subtracted fully.
-- ⚠️ Resource depletion may raise current output while reducing future wealth.
-- ⚠️ HDI, IHDI, MPI, employment and environmental accounts complement GDP; they
-  do not replace the need to measure production.
-
-#### 9. Advanced Prelims traps
-
-- ❌ NFIA equals all remittances. -> Personal transfers and primary income differ.
-- ❌ GVA at basic prices already includes product taxes. -> Product taxes are
-  added when moving to GDP at market prices.
-- ❌ GDP deflator includes imported production. -> It covers domestic output.
-- ❌ A rise in inventories always means healthy demand. -> It may be intended
-  accumulation or unsold stock.
-- ❌ Depreciation is a cash payment made during the year. -> It is an accounting
-  estimate of fixed-capital consumption.
-
-#### 10. 📰 Survey-based analytical reading
-
-✅ The Economic Survey 2025-26 reports FY26 FAE growth of **7.4% for real GDP**
-and **7.3% for real GVA**, with PFCE at **61.5% of GDP**.
-
-⚠️ Use these figures in three steps:
-
-1. **State the period and estimate type:** FY26, First Advance Estimate.
-2. **Identify the driver:** strong private consumption and services.
-3. **Add the caveat:** advance estimates are revised as fuller data arrive.
-
-##### Series-break discipline after 27 February 2026
-
-- ✅ MoSPI's new national-accounts series uses **2022-23 as base year**, replacing
-  2011-12, and introduces revised sources/coverage/methods.
-- ✅ Estimates from 2022-23 onward were released; a comparable back-series was
-  not yet available at the 19 July 2026 cutoff.
-- ⚠️ Do not splice growth levels across the two series without the official
-  back-series. Label every number by base, estimate vintage and reference period.
-- Source: [MoSPI press note](https://mospi.gov.in/uploads/release_calendar/1772190058170_Press_Note_on_New_Series_of_GDP_Estimates_with_Base_Year_2022-23_27022026.pdf).
-
-#### 11. Mains-ready frameworks
-
-**Central thesis:** National accounts measure production through consistent identities,
-but a credible growth assessment must preserve price, coverage and estimate-vintage
-distinctions and test output against jobs, distribution and sustainability.
-
-##### "GDP is necessary but insufficient"
-
-1. GDP measures production and fiscal capacity.
-2. Per-capita and sectoral GVA reveal scale and structure.
-3. Employment and distribution determine inclusiveness.
-4. Human-development indicators capture capabilities.
-5. Environmental accounts capture sustainability.
-
-##### "Improving India's national accounts"
-
-- More frequent enterprise and household surveys.
-- Better informal-sector and gig/digital-economy measurement.
-- Transparent back-series and revision policy.
-- Stronger state-level GSDP capacity.
-- Satellite accounts for environment, health, care and digital activity.
-
-#### 12. PYQ status
-
-- ⚠️ No direct national-income-measurement question appears in the audited
-  2024-2026 Economy corpus; see the exact route audit in `../README.md`.
-
-#### 13. Probable questions
-
-- ⚠️ **Prelims:** Differentiate GDP, GVA, GNP, NDP, nominal GDP and real GDP.
-- ⚠️ **Mains:** "India's growth debate should move from the rate of GDP growth to
-  the composition, employment intensity and sustainability of growth." Discuss.
-- ⚠️ **Mains:** Explain why revisions in base year and national-accounting
-  methodology are necessary, while examining the challenges they create for
-  comparability and public trust.
-
-#### 14. Study links
-
-- ✅ Foundation companion: `../basic/01_National-Income-GDP-GVA-and-Measurement.md`.
-- ✅ `02_Growth-Development-HDI-IHDI-and-MPI.md` — welfare complements to output.
-- ✅ `03_Inflation-Price-Indices-and-Business-Cycles.md` — deflators, CPI and WPI.
-- ✅ `26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md` — estimates,
-  revisions and macro dashboard use.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2020, 2021
-- **Paper(s):** GS-III
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | GS-III | 2 | Potential GDP definition determinants and India's output gap | Define · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | GS-III | 1 | GDP computation methodology change in India before and after 2015 | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Potential GDP definition determinants and India's output gap
-- GDP computation methodology change in India before and after 2015
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+- publish clear source-method-revision bridges and back series;
+- strengthen annual enterprise and household surveys, especially unincorporated activity;
+- improve service-sector output prices and quality adjustment;
+- integrate corporate, GST and survey data with transparent validation;
+- improve State GSDP capacity and inter-state comparability;
+- expand satellite accounts for care, health, environment and digital activity without confusing
+  them with the core GDP boundary.
 
 ## CONSOLIDATED REGISTER NOTES
 
-### National Income: GDP, GVA, GNP, NDP and Measurement: RAPID MEASURE, INSTITUTION AND VINTAGE MAP
+### Formula spine
 
-1. **Territory-residence boundary:** GDP follows production within domestic territory, whereas GNP follows income accruing to normal residents; the sign of net factor income from abroad determines whether GNP is above or below GDP.
-2. **GDP expenditure identity:** GDP at market prices can be read from final expenditure as C + I + G + (X - M); imports are subtracted because consumption and investment totals can contain foreign production.
-3. **GDP-GVA reconciliation:** GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies, so changing net product taxes can make GDP and GVA growth diverge.
-4. **Gross-net distinction:** Gross measures include consumption of fixed capital, while NDP equals GDP minus depreciation and NNP equals GNP minus depreciation.
-5. **Three measurement methods:** Production or value-added, income and expenditure methods should theoretically converge because produced output creates income and is purchased as final expenditure; each method has a different data risk.
-6. **Double-counting boundary:** The production method sums value added at each stage rather than gross sales, preventing the value of intermediate inputs from being counted again inside final output.
-7. **Income-side coverage:** The income method adds wages, profits, rent and mixed income, but India's large informal sector requires survey, administrative and benchmark-indicator estimation rather than complete enterprise accounts.
-8. **Expenditure-side boundary:** The expenditure method counts private and government final consumption, capital formation and net exports while excluding intermediate purchases and pure financial transfers.
-9. **Nominal-real-deflator triangle:** Nominal GDP uses current prices, real GDP uses constant or base-year prices, and the GDP deflator equals nominal GDP divided by real GDP multiplied by 100.
-10. **Production boundary:** Current final goods and services, applicable imputations and government services valued mainly by production cost enter GDP; intermediate goods already embodied in final output do not.
-11. **Transfer and resale exclusions:** Pure transfer payments and resale of an existing asset do not add current production, although the current brokerage or service associated with a resale can add value.
-12. **Unpaid work and welfare limit:** Conventional GDP excludes much unpaid household work and does not directly measure distribution, ecological depletion, service quality or every dimension of welfare.
-13. **2015 national-accounts revision:** India's 2015 revision shifted the national-accounts base to 2011-12 and expanded use of corporate administrative data, improving relevance while creating a comparability need for a reliable back series.
-14. **2026 series revision:** MoSPI released the 2022-23-base GDP series on 27 February 2026 with revised coverage, sources and methods; the owner records that a complete comparable back series was still pending at its 19 July 2026 cutoff.
-15. **Potential GDP and output gap:** Potential GDP is sustainable capacity implied by labour, capital and productivity, while the output gap compares actual output with that estimated capacity; potential output is not directly observed.
-16. **ICOR and investment efficiency:** The Incremental Capital-Output Ratio links additional capital to additional output; a higher ICOR signals weaker aggregate investment efficiency, so high saving or investment need not produce high growth.
-17. **PPP versus market exchange rate:** Purchasing Power Parity uses a common price basket for real purchasing-power comparison, whereas market-exchange-rate GDP is suited to external trade, debt and market-size comparison; ranks are reference-year specific.
-18. **Intangible capital formation:** Research and development, software and databases, mineral exploration and artistic originals can be gross fixed capital formation, while advertising, routine training and much brand creation remain intermediate consumption.
-19. **Sector and capital classification:** Primary, secondary and tertiary activity classification concerns the nature of production, while working capital is used up in production and fixed capital provides services over multiple periods.
-20. **Estimate-vintage discipline:** A national-accounts number must retain its period, series base and estimate vintage such as First Advance Estimate, later advance estimate or revised estimate; a projection or old-series estimate is not an actual on a new series.
+| Bridge | Formula | Meaning |
+|---|---|---|
+| Producer to purchaser | `GDPmp = GVA basic + product taxes - product subsidies` | valuation |
+| Domestic to national | `GNI/GNP = GDP + net primary income from abroad` | residence |
+| Gross to net | `NDP = GDP - CFC`; `NNI = GNI - CFC` | capital consumption |
+| Income to disposable income | `GNDI = GNI + net current transfers from abroad` | disposable resources |
+| Expenditure | `GDP = PFCE + GFCE + GFCF + stocks + valuables + X - M + discrepancy` | final uses |
+| Price | `GDP deflator = nominal GDP / real GDP x 100` | implicit domestic-output price |
 
-### National Income: GDP, GVA, GNP, NDP and Measurement: BASE-YEAR, BASKET, INSTRUMENT AND LEGAL-STATUS TRAPS
+### Boundary rules
 
-- Do not treat every market transaction as current production; old-asset resale and transfers are excluded.
-- Do not equate domestic territory with resident income; GDP and GNP answer different boundary questions.
-- Do not say net measures include depreciation; net measures deduct consumption of fixed capital.
-- Do not splice 2011-12-base and 2022-23-base growth or levels without an official comparable series.
-- Do not use nominal GDP growth as proof of volume growth or welfare improvement.
-- Do not describe every intangible outlay as investment; national-accounting capitalisation has a defined boundary.
-- Do not compare PPP and market-exchange-rate ranks without the reference year and purpose.
-- Do not treat a First Advance Estimate or projection as a final actual.
-- Do not count intermediate inputs again inside final output.
-- Do not infer that high saving guarantees high growth when ICOR and implementation quality can weaken conversion.
-- Do not treat potential GDP as directly observed; it is method-dependent.
-- Do not infer welfare, distribution or ecological sustainability from GDP alone.
+- Domestic means production territory; national means resident primary income.
+- Residence is not citizenship. GNP is the legacy product label broadly corresponding to GNI.
+- Primary income is labour/property income; a personal gift/remittance is normally a current
+  transfer and belongs in the disposable-income bridge.
+- Gross retains CFC; net deducts it. CFC is not repairs, a cash payment or natural depletion.
+- Basic prices exclude product taxes and include product subsidies. Factor cost additionally
+  removes other production taxes and adds other production subsidies.
+- Intermediate/final is determined by use. Inventories count when produced. Existing-asset resale,
+  capital gains and pure transfers do not add current production; current brokerage does.
 
-### National Income: GDP, GVA, GNP, NDP and Measurement: ANSWER-WRITING SPINE
+### Measurement process
 
-```text
-DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE
--> STATE FORMULA, PRICE BASIS, BASE YEAR, BASKET OR LEGAL POWER
--> NAME THE PERIOD, ESTIMATE VINTAGE AND ISSUING BODY
--> TRACE THE TRANSMISSION OR ACCOUNTING RECONCILIATION
--> ADD ONE INDIA-SPECIFIC EVIDENCE UNIT AND ITS LIMIT
--> TEST DISTRIBUTION, OUTPUT, PRICE OR FINANCIAL-STABILITY EFFECTS
--> CONCLUDE WITH A GRADED VERDICT, NOT A TIMELESS NUMBER
-```
+- Production, income and expenditure converge conceptually through circular flow.
+- Statistical discrepancy reflects source, timing, valuation and revision differences.
+- Owner-occupied housing is imputed; government non-market output is mainly cost-valued; FISIM
+  records indirectly measured financial services.
+- Informal output is estimated rather than automatically excluded. Underground legal and mutually
+  agreed illegal production are inside the SNA boundary in principle where measurable; theft is
+  redistribution, not production.
+- Sector share, sector growth and contribution to aggregate growth are distinct. Activity sector
+  is not institutional ownership.
 
-### National Income: GDP, GVA, GNP, NDP and Measurement: LIVE-SOURCE AND ESTIMATE-STATUS BOUNDARY
+### India methodology and institution rail
 
-Live official checks on 2026-09-03 did not yield independently extractable national-accounts text. The package therefore preserves the owner's exact 27 February 2026 release date, 2022-23 base, back-series cutoff and estimate-vintage cautions without manufacturing a fresh growth number.
+- **NSO/NAD:** official compiler of GDP, GVA, national income and NAS under MoSPI.
+- **State DES:** regional/GSDP compilation with national coordination.
+- **RBI and ministries:** important input providers and analysts, not substitutes for NSO.
+- **2015 revision:** 2011-12 base, GDP at market prices headline, GVA at basic prices, wider
+  MCA21 corporate coverage.
+- **27 February 2026:** 2022-23-base series; activity segregation, annual unincorporated surveys,
+  GST/administrative data, double deflation in agriculture/manufacturing, volume or single
+  extrapolation elsewhere, Proportional Denton quarterly benchmarking, COICOP 2018 and SUT
+  integration.
+- **5 June 2026 PE:** FY2025-26 real GDP growth estimated at 7.7 per cent and real GVA at
+  7.9 per cent, both at constant 2022-23 prices. This is a dated provisional estimate.
+- **31 August 2026 NAS:** updated PPI, IIP and BkSPI inputs and revised estimates from 2022-23.
+- Release dates are calendar-specific: use the applicable MoSPI ARC, period and vintage.
+
+### Debate and limitation rail
+
+- MCA21 widens corporate coverage but requires active-unit validation and correct activity
+  classification.
+- Double deflation is conceptually stronger when output and input prices diverge but needs
+  high-quality granular prices.
+- Informal proxies can fail during structural shocks; triangulate ASUSE, PLFS, tax and other data.
+- GDP does not settle distribution, unpaid care, environment, leisure, service quality or job
+  security. Disaster reconstruction may raise GDP after a wealth-stock loss.
+- Use a dashboard: real per-capita GDP, sectoral GVA, employment, distribution, capability and
+  environmental indicators.
+
+### Prelims trap grid
+
+1. GDP is domestic; GNI/GNP is resident-based.
+2. Net means CFC deducted; real means price effects estimated out.
+3. GDP-GVA uses net product taxes; factor cost is not basic price.
+4. Imports are subtracted to remove foreign output, not because they are undesirable.
+5. Inventories count; transfers, capital gains and old-asset value do not.
+6. Imputed rent counts; most unpaid household care does not.
+7. Informal is not illegal; illegal market production is not automatically outside the boundary.
+8. FAE, SAE, PE and revised estimates are different vintages.
+9. PPP and market-rate GDP answer different comparison questions.
+10. India publishes a 2022-23-base constant-price GDP series; do not invent chain-linked status.
+
+### Mains answer spine
+
+`Define boundary -> write formula -> explain mechanism -> cite dated Indian evidence -> examine
+coverage/deflator/revision -> add welfare limit -> give qualified dashboard conclusion.`
 
 ### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
 
-#### ASCII MASTER FLOW — PANEL 1/12: Territory before arithmetic
-
-```ascii-master
-DOMESTIC TERRITORY -> GDP
-NORMAL RESIDENCE -> GNP
-NFIA BRIDGE -> GDP + NFIA
-TRAP -> location and ownership are not the same boundary
-MUST REMEMBER: National accounts measure production, income and expenditure consistently:...
-```
-
-#### ASCII MASTER FLOW — PANEL 2/12: Gross-to-net ladder
-
-```ascii-master
-GDP -> minus depreciation -> NDP
-GNP -> minus depreciation -> NNP
-GROSS -> capital consumption retained
-NET -> capital consumption deducted
-```
-
-#### ASCII MASTER FLOW — PANEL 3/12: Three-method convergence
-
-```ascii-master
-PRODUCTION -> value added
-INCOME -> wages + profits + rent + mixed income
-EXPENDITURE -> C + I + G + (X - M)
-IDENTITY -> one output, three measurement routes
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: GDP-GVA tax bridge
-
-```ascii-master
-GVA AT BASIC PRICES
-+ PRODUCT TAXES
-- PRODUCT SUBSIDIES
-= GDP AT MARKET PRICES
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Nominal-real decoder
-
-```ascii-master
-NOMINAL -> current prices -> size and ratios
-REAL -> base-year prices -> volume growth
-DEFLATOR -> nominal / real x 100
-LIMIT -> base revision changes the comparison frame
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: Production-boundary gate
-
-```ascii-master
-IN -> current final goods and services
-IN -> permitted imputations and government services
-OUT -> embedded intermediate inputs and pure transfers
-OUT -> old assets except current brokerage
-CLOSE DISTINCTION: Nominal is current-price value, real is constant-price volume, a level...
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Informal-sector estimation
-
-```ascii-master
-MISSING COMPLETE ACCOUNTS
--> surveys + administrative sources
--> benchmark-indicator extrapolation
-LIMIT -> shocks can break historical ratios
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: Base-year revision timeline
-
-```ascii-master
-2015 -> shift to 2011-12 base
-27 FEB 2026 -> release of 2022-23-base series
-19 JUL 2026 CUTOFF -> full back series pending
-RULE -> never splice unsupported series
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Capacity diagnosis
-
-```ascii-master
-ACTUAL < POTENTIAL -> negative output gap
-ACTUAL NEAR CAPACITY -> demand stimulus meets supply limits
-POTENTIAL -> labour + capital + productivity
-LIMIT -> capacity is estimated, not observed
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Saving-to-growth conversion
-
-```ascii-master
-SAVING -> INVESTMENT
-INVESTMENT -> capital formation
-ICOR -> capital needed per extra output
-HIGH ICOR -> weak conversion efficiency
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Cross-country comparison fork
-
-```ascii-master
-PPP -> common basket -> purchasing power
-MARKET RATE -> external value -> trade and debt
-SAME OUTPUT, DIFFERENT PRICE BASIS
-RULE -> quote source and reference year
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Examiner closing spine
-
-```ascii-master
-DEFINE -> boundary + formula
-VERIFY -> base year + period + vintage
-ANALYSE -> coverage + method + efficiency
-QUALIFY -> distribution + unpaid work + ecology
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State factor cost/basic/market-price...
+```text
++----------------------------------------------------------------------------------------------+
+| 1/12 - Circular flow                                                                         |
++----------------------------------------------------------------------------------------------+
+| PRODUCTION -> VALUE ADDED -> PRIMARY INCOME -> FINAL EXPENDITURE                             |
+| Conceptual identity: output = income = expenditure                                           |
+| Measured difference: statistical discrepancy from sources/timing/revisions                   |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 2/12 - Production boundary                                                                   |
++----------------------------------------------------------------------------------------------+
+| Output - intermediate consumption = GVA                                                      |
+| Final use, qualifying own-account output, inventories and imputations enter                  |
+| Transfers, capital gains and old-asset value do not; current service margins can             |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 3/12 - Territory and residence                                                               |
++----------------------------------------------------------------------------------------------+
+| Domestic territory -> GDP/NDP                                                                |
+| Normal residence -> GNI(GNP)/NNI                                                             |
+| GDP + net primary income from abroad = GNI                                                   |
+| Personal current transfers belong to disposable income, not automatically GNI                |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 4/12 - Gross and net                                                                         |
++----------------------------------------------------------------------------------------------+
+| GDP - CFC = NDP                                                                              |
+| GNI - CFC = NNI                                                                              |
+| CFC is estimated capital consumption, not repair cash or resource depletion                  |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 5/12 - Valuation bridge                                                                      |
++----------------------------------------------------------------------------------------------+
+| GVA basic + taxes on products - subsidies on products = GDP market prices                    |
+| Factor cost = basic price - other production taxes + other production subsidies              |
+| Basic price != factor cost; product tax != every tax                                         |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 6/12 - Aggregate ladder                                                                      |
++----------------------------------------------------------------------------------------------+
+| GDP -> +NPIFA -> GNI/GNP                                                                     |
+| GDP -> -CFC -> NDP                                                                           |
+| GNI -> -CFC -> NNI                                                                           |
+| GNI/NNI -> +net current transfers -> GNDI/NNDI                                               |
+| Per-capita NNI = NNI / population                                                            |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 7/12 - Expenditure route                                                                     |
++----------------------------------------------------------------------------------------------+
+| PFCE + GFCE + GFCF + stocks + valuables + exports - imports                                  |
+| Imports correct the domestic boundary                                                        |
+| Government capex != GFCE; inventory inclusion != healthy demand                              |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 8/12 - Price-volume decoder                                                                  |
++----------------------------------------------------------------------------------------------+
+| Nominal = current prices; real = constant/reference prices                                   |
+| Deflator = nominal / real x 100                                                              |
+| State level/share/growth, base year, period and vintage                                      |
+| India 2026: fixed 2022-23 base; do not invent chain-linked headline GDP                      |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 9/12 - Indian measurement process                                                            |
++----------------------------------------------------------------------------------------------+
+| NSO/NAD compiles using surveys + MCA21 + GST + government + RBI/sector inputs                |
+| FAE -> SAE -> PE -> revised/final estimates                                                  |
+| 2026 dates: 7 Jan | 27 Feb | 5 Jun; NAS publication 31 Aug                                   |
+| State DES compile regional accounts with national guidance                                   |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 10/12 - 2015 to 2026 methodology                                                             |
++----------------------------------------------------------------------------------------------+
+| 2015: 2011-12 base, GDP market-price headline, GVA basic, wider MCA21                        |
+| 2026: 2022-23 base, activity segregation, annual unincorporated surveys                      |
+| Double deflation in agriculture/manufacturing; PPI/IIP/BkSPI; SUT integration                |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 11/12 - Debates and limits                                                                   |
++----------------------------------------------------------------------------------------------+
+| Test MCA21 coverage/classification, deflator quality, proxy stability and transparency       |
+| GDP misses distribution, most unpaid care, depletion and many quality changes                |
+| Disaster reconstruction can raise flow GDP after wealth loss                                 |
+| HDI/MPI -> Topic 2; green accounting -> Topic 25                                             |
++----------------------------------------------------------------------------------------------+
+                                               |
+                                               v
++----------------------------------------------------------------------------------------------+
+| 12/12 - Exam spine                                                                           |
++----------------------------------------------------------------------------------------------+
+| PRELIMS: territory/residence -> gross/net -> basic/market -> nominal/real -> flow/stock      |
+| MAINS: define -> formula -> named dated evidence -> mechanism -> qualification               |
+| Verdict: GDP is the production anchor; use a wider dashboard for development                 |
++----------------------------------------------------------------------------------------------+
 ```

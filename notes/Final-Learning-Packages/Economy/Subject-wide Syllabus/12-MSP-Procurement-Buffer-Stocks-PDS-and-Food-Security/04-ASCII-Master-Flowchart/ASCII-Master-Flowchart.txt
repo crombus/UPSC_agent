@@ -1,74 +1,215 @@
-ASCII MASTER FLOW — PANEL 1/12: Price-to-food rail
-CACP RECOMMENDATION
--> CCEA MSP ANNOUNCEMENT
--> AGENCY PROCUREMENT
--> STOCK / PDS / MARKET RELEASE
-MUST REMEMBER: MSP is an announced price policy, procurement is an actual purchase...
+ECONOMY TOPIC 12 — PANEL 1/12
+PRICE-TO-FOOD CHAIN
+===================
 
-ASCII MASTER FLOW — PANEL 2/12: Cost-concept ladder
-A2 -> paid-out cultivation expense
-A2+FL -> A2 + imputed family labour
-C2 -> A2+FL + owned-land rent + fixed-capital interest
-MARGIN CLAIM -> always name the base
+1. CACP evidence -> CCEA MSP -> procurement.
 
-ASCII MASTER FLOW — PANEL 3/12: Announcement-procurement fork
-MSP -> announced signal
-PROCUREMENT -> actual eligible purchase
-SCOPE -> crop + grade + season + place
-REALISATION -> agency access + arrivals
+2. Central pool -> storage / movement.
 
-ASCII MASTER FLOW — PANEL 4/12: FCI cost chain
-PURCHASE PRICE
-+ PROCUREMENT INCIDENTALS
-+ MOVEMENT + STORAGE + CARRYING
--> ECONOMIC COST; not MSP alone
+3. NFSA fulfils rights; OMSS affects market supply.
 
-ASCII MASTER FLOW — PANEL 5/12: Public-stock board
-BUFFER NORM -> desired benchmark
-ACTUAL STOCK -> dated inventory
-OPERATIONAL -> distribution need
-STRATEGIC -> emergency / stabilisation reserve
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
 
-ASCII MASTER FLOW — PANEL 6/12: Release-channel fork
-PDS -> entitled household access
-OMSS -> wider market supply
-PROCUREMENT -> stock inflow
-OFFTAKE / RELEASE -> stock outflow
-CLOSE DISTINCTION: MSP coverage is not procurement coverage, recommendation is not...
+BOUNDARY
+APMC/e-NAM/FPO market architecture remains in Topic 13.
+
+ECONOMY TOPIC 12 — PANEL 2/12
+MSP INSTITUTIONS
+================
 
-ASCII MASTER FLOW — PANEL 7/12: NFSA architecture
-NFSA -> legal entitlement
-TPDS -> delivery network
-PHH -> person-based entitlement unit
-AAY -> household-based entitlement unit
+1. MSP is a price signal, not universal purchase.
 
-ASCII MASTER FLOW — PANEL 8/12: Delivery-outcome ladder
-ENTITLEMENT
--> ALLOCATION
--> OFFTAKE
--> HOUSEHOLD RECEIPT -> NUTRITIONAL USE
+2. CACP recommends; CCEA decides.
 
-ASCII MASTER FLOW — PANEL 9/12: Portability and authentication
-ONORC -> portable entitlement
-ePoS -> transaction record
-AADHAAR MATCH -> identity check
-FAILURE RISK -> connectivity / device / seeding
+3. 22 mandated crops; derived prices for toria/de-husked coconut.
 
-ASCII MASTER FLOW — PANEL 10/12: Farmer-consumer balance
-FARMER -> price assurance + purchase access
-CONSUMER -> affordable access + stability
-STATE -> fiscal + storage cost
-ECOLOGY -> crop / water incentive
+4. Sugarcane uses separate FRP.
 
-ASCII MASTER FLOW — PANEL 11/12: Nutrition diversification
-AVAILABILITY
-ACCESS
-UTILISATION / NUTRITION
-STABILITY -> cereals alone are insufficient
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
 
-ASCII MASTER FLOW — PANEL 12/12: Food-policy answer spine
-SEPARATE announcement, purchase and stock
-TRACE inflow, carrying and release
-TEST entitlement against actual delivery
-BALANCE farm, consumer, fiscal and ecology
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State crop, season, agency, unit, date and...
+BOUNDARY
+APMC/e-NAM/FPO market architecture remains in Topic 13.
+
+ECONOMY TOPIC 12 — PANEL 3/12
+COST LADDER
+===========
+
+1. A2 = paid-out cost.
+
+2. A2+FL adds imputed family labour.
+
+3. C2 adds owned-land rent and fixed-capital interest.
+
+4. Official floor = at least 1.5 x all-India weighted average A2+FL.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+BOUNDARY
+APMC/e-NAM/FPO market architecture remains in Topic 13.
+
+ECONOMY TOPIC 12 — PANEL 4/12
+PROCUREMENT
+===========
+
+1. Actual agency purchase requires crop, FAQ, season and place.
+
+2. Open-ended paddy/wheat remains operationally bounded.
+
+3. Pulses/oilseeds use conditional PSS operations.
+
+4. DCP expands State operational responsibility.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+BOUNDARY
+APMC/e-NAM/FPO market architecture remains in Topic 13.
+
+ECONOMY TOPIC 12 — PANEL 5/12
+FCI AND CENTRAL POOL
+====================
+
+1. FCI procures, stores, moves, distributes and manages buffers.
+
+2. Central pool serves NFSA, welfare, emergencies and OMSS.
+
+3. State agencies can procure into the pool.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+BOUNDARY
+APMC/e-NAM/FPO market architecture remains in Topic 13.
+
+ECONOMY TOPIC 12 — PANEL 6/12
+COST ACCOUNTING
+===============
+
+1. Acquisition = MSP + procurement incidentals.
+
+2. Economic cost = acquisition + distribution cost.
+
+3. Carrying cost depends on quantity and duration.
+
+4. Subsidy bridges economic cost and issue/free distribution.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+BOUNDARY
+APMC/e-NAM/FPO market architecture remains in Topic 13.
+
+ECONOMY TOPIC 12 — PANEL 7/12
+BUFFER NORMS
+============
+
+1. 1 Apr total 21.04 MMT.
+
+2. 1 Jul total 41.12 MMT.
+
+3. 1 Oct total 30.77 MMT.
+
+4. 1 Jan total 21.41 MMT.
+
+5. Norm != dated actual stock.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+BOUNDARY
+APMC/e-NAM/FPO market architecture remains in Topic 13.
+
+ECONOMY TOPIC 12 — PANEL 8/12
+RELEASE AND STORAGE
+===================
+
+1. NFSA allocation is entitlement-oriented.
+
+2. OMSS sells through market channels.
+
+3. PSF is a separate commodity-intervention route.
+
+4. Use modern silos, quality audits and dynamic release rules.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+BOUNDARY
+APMC/e-NAM/FPO market architecture remains in Topic 13.
+
+ECONOMY TOPIC 12 — PANEL 9/12
+NFSA RIGHTS
+===========
+
+1. Coverage up to 75% rural / 50% urban.
+
+2. PHH: 5 kg/person/month.
+
+3. AAY: 35 kg/household/month.
+
+4. Free arrangement: 1 Jan 2024-Dec 2028.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+BOUNDARY
+APMC/e-NAM/FPO market architecture remains in Topic 13.
+
+ECONOMY TOPIC 12 — PANEL 10/12
+DELIVERY REFORM
+===============
+
+1. Centre: stocks, allocation and support.
+
+2. States: identification, ration cards, FPS and delivery.
+
+3. ONORC covers all 36 States/UTs per 2025 review.
+
+4. Authentication needs fallback and grievance.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+BOUNDARY
+APMC/e-NAM/FPO market architecture remains in Topic 13.
+
+ECONOMY TOPIC 12 — PANEL 11/12
+FOOD AND NUTRITION
+==================
+
+1. Availability + access + utilisation + stability.
+
+2. Cereal security does not equal nutrition security.
+
+3. Fortified rice: July 2024-Dec 2028.
+
+4. Pulses, millets and diverse diets matter.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+BOUNDARY
+APMC/e-NAM/FPO market architecture remains in Topic 13.
+
+ECONOMY TOPIC 12 — PANEL 12/12
+MAINS ARCHITECTURE
+==================
+
+1. Diversify procurement by agro-ecology and nutrition.
+
+2. Use dynamic stocks and transparent OMSS.
+
+3. Protect NFSA rights and portability.
+
+4. WTO peace clause is conditional; Topic 28 owns full rules.
+
+5. APMC/e-NAM/FPOs remain Topic 13.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+BOUNDARY
+APMC/e-NAM/FPO market architecture remains in Topic 13.

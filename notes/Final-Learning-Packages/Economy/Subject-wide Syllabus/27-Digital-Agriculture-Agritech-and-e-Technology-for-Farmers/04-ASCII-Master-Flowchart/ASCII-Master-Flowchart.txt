@@ -1,74 +1,63 @@
-ASCII MASTER FLOW — PANEL 1/12: Farm data-to-outcome rail
-DATA
--> SENSE + CONNECT
--> ANALYSE + ADVISE + ACT
--> INCOME + RISK + RESOURCE OUTCOME
-MUST REMEMBER: Digital agriculture links farmer/plot registries, decision support, remote...
+ECONOMY TOPIC 27 | DIGITAL AGRICULTURE, AGRITECH AND e-TECHNOLOGY
+DATA CUTOFF: 10 SEPTEMBER 2026 | EVERY CURRENT CLAIM NEEDS DATE + STATUS
+============================================================================================================
+[01 VALUE CHAIN]
+  DATA CAPTURE -> ID/REGISTRY -> ADVICE -> INPUT/CREDIT/INSURANCE
+  -> PRODUCTION -> STORAGE/LOGISTICS -> MARKET -> PAYMENT -> FEEDBACK
+  Outcome test: net income, risk, resource use, resilience and farmer control.
+------------------------------------------------------------------------------------------------------------
+[02 TECHNOLOGY STACK]
+  Remote sensing observes | GIS analyses | GNSS/NavIC positions
+  IoT senses/exchanges | AI predicts | automated control acts
+  Drone capability = airframe + payload + software + trained operation.
+------------------------------------------------------------------------------------------------------------
+[03 PRECISION AGRICULTURE]
+  Measured spatial/temporal variation -> variable treatment -> feedback
+  Generic digitisation merely converts/transmits information.
+  Efficiency per hectare may rebound into higher total resource extraction.
+------------------------------------------------------------------------------------------------------------
+[04 PUBLIC ARCHITECTURE]
+  IDEA 2021 blueprint -> Digital Agriculture Mission approved 3 Sep 2024
+  Rs 2,817 crore outlay; Rs 1,940 crore central share
+  AgriStack + Krishi-DSS + crop-estimation/support systems.
+------------------------------------------------------------------------------------------------------------
+[05 AGRISTACK]
+  Farmer Registry/Farmer ID + georeferenced village maps + Crop Sown Registry
+  Federated state/UT operation + common standards + authorised service interfaces
+  Farmer ID != land title != cultivation != guaranteed entitlement.
+------------------------------------------------------------------------------------------------------------
+[06 CURRENT SNAPSHOT]
+  DA&FW page checked 10 Sep 2026: >10 crore IDs; ~5 lakh maps;
+  >30 crore plots surveyed in 650 districts. Page displayed no publication date.
+  Coverage != accuracy != adoption != welfare outcome.
+------------------------------------------------------------------------------------------------------------
+[07 DATA GOVERNANCE]
+  Purpose + lawful basis + minimisation + security + retention + provenance
+  + correction + human review + appeal + offline/assisted route
+  DPDP Rules notified 13 Nov 2025 with phased commencement.
+------------------------------------------------------------------------------------------------------------
+[08 FARM FINANCE / RISK]
+  PM-KISAN: digital verification -> DBT -> physical correction where needed
+  KCC: verified data -> bank underwriting; not automatic credit
+  PMFBY: CCE/YES-TECH/WINDS -> claim; basis risk remains.
+------------------------------------------------------------------------------------------------------------
+[09 MARKETS / BUSINESS]
+  e-NAM online layer + assaying + aggregation + logistics + settlement
+  FPO/shared service spreads fixed cost; unit economics decides survival
+  Network effects can improve matching and create lock-in.
+------------------------------------------------------------------------------------------------------------
+[10 INCLUSION]
+  Connectivity -> device -> skill -> language -> trust -> effective use
+  Protect tenants, sharecroppers, women, smallholders and minor crops
+  Human extension complements digital delivery.
+------------------------------------------------------------------------------------------------------------
+[11 ACCOUNTABILITY]
+  AI/score/model -> confidence + subgroup test + explanation + monitoring
+  Adverse decision -> notice -> assisted correction -> human appeal
+  Cyber resilience -> prevent -> detect -> contain -> recover -> learn.
+------------------------------------------------------------------------------------------------------------
+[12 UPSC SYNTHESIS]
+  Problem -> tool -> named evidence -> mechanism -> weakest complement
+  -> exclusion/risk -> reform -> net outcome + qualification
+  Topic 29 owns wider mission-mode technology portfolios.
 
-ASCII MASTER FLOW — PANEL 2/12: Technology-family map
-REMOTE SENSING -> observation
-GIS -> spatial analysis
-GNSS / NAVIC -> positioning
-IOT + AI + CONTROL -> separate layers
-
-ASCII MASTER FLOW — PANEL 3/12: Farm-cycle application chain
-PLAN + SOW
-MONITOR + APPLY INPUT
-INSURE + HARVEST
-STORE + ASSAY + SELL
-
-ASCII MASTER FLOW — PANEL 4/12: Digital Agriculture Mission map
-UMBRELLA MISSION
-AGRISTACK
-KRISHI-DSS
-APPROVAL != adoption or outcome
-
-ASCII MASTER FLOW — PANEL 5/12: AgriStack layers
-FARMER REGISTRY
-GEO-REFERENCED VILLAGE MAP
-CROP-SOWN INFORMATION
-FEDERATED SERVICE INTERFACE
-
-ASCII MASTER FLOW — PANEL 6/12: Krishi-DSS decision boundary
-GEOSPATIAL + ADMIN DATA
--> MAP + MONITOR + MODEL
--> HUMAN / OFFICIAL DECISION
-SUPPORT != autonomous authority
-CLOSE DISTINCTION: Registry entry is not land title, platform onboarding is not adoption,...
-
-ASCII MASTER FLOW — PANEL 7/12: e-NAM completion chain
-ONLINE DISCOVERY + BID
-+ ASSAYING + AGGREGATION
-+ LOGISTICS + SETTLEMENT
-+ ENFORCEMENT = COMPLETED TRADE
-
-ASCII MASTER FLOW — PANEL 8/12: Drone capability matrix
-AIRCRAFT PLATFORM
-PAYLOAD -> camera / sensor / sprayer
-OPERATOR + CALIBRATION
-RULE + WEATHER + MAINTENANCE
-
-ASCII MASTER FLOW — PANEL 9/12: Shared-service economics
-HIGH FIXED COST
--> FPO / SHG / CUSTOM HIRING
--> COST SHARED ACROSS USERS
-DEMAND + REPAIR determine viability
-
-ASCII MASTER FLOW — PANEL 10/12: Inclusion and correction board
-OWNER != CULTIVATOR
-ASSISTED + OFFLINE ACCESS
-DATA CORRECTION
-HUMAN APPEAL
-
-ASCII MASTER FLOW — PANEL 11/12: Activity-to-outcome ladder
-REGISTRATION / DEVICE / MESSAGE
--> ACTIVE ADOPTION
--> CORRECT DECISION
--> NET INCOME + RESILIENCE
-
-ASCII MASTER FLOW — PANEL 12/12: Digital-agriculture answer spine
-NAME farm-stage problem
-TRACE data -> decision -> action
-ADD physical + institutional complement
-TEST inclusion + outcome + remedy
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Distinguish mission approval, architecture,...

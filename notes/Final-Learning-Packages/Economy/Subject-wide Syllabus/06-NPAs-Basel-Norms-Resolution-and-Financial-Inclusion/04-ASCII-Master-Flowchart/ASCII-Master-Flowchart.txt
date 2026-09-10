@@ -1,74 +1,95 @@
-ASCII MASTER FLOW — PANEL 1/12: Stress recognition rail
-WEAK CASH FLOW
--> OVERDUE UNDER RBI TEST
--> NPA RECOGNITION
--> PROVISIONING + CAPITAL PRESSURE
-MUST REMEMBER: Asset-quality stress moves from repayment weakness to recognition,...
+ASCII MASTER FLOW — PANEL 1/12: RECOGNITION CLOCK
++----------------------------------------------------------------------------+
+| DUE DATE -> overdue immediately -> product-specific prudential clock         |
+| Term loan >90 days | bills >90 days | agriculture crop-season tests         |
+| CC/OD out of order: excess/no credits/insufficient interest credits, 90 days |
+| Recognition is borrower-wise within a bank; security normally does not defer|
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Loan-accounting fork
-PROVISION -> expected loss charged to income
-WRITE-OFF -> removed from active loan book
-WAIVER -> liability legally relinquished
-RECOVERY RIGHTS may survive a write-off
+ASCII MASTER FLOW — PANEL 2/12: CLASSIFICATION AND LOSS ABSORPTION
++----------------------------------------------------------------------------+
+| STANDARD -> SUBSTANDARD <=12 months NPA -> DOUBTFUL -> LOSS                  |
+| GNPA -> less prescribed provisions/adjustments -> NNPA                       |
+| Provision charges profit | write-off changes books | waiver ends claim       |
+| Recognition reveals loss; it does not create the borrower's cash-flow shock |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Risk-weighted capital board
-BASEL GLOBAL -> CET1 4.5 | TIER 1 6 | TOTAL 8
-RBI INDIA -> CET1 5.5 | TIER 1 7 | CRAR 9
-CCB -> 2.5 CET1
-VINTAGE -> RBI Master Circular, 1 Apr 2025
+ASCII MASTER FLOW — PANEL 3/12: NPA CAUSAL LOOP
++----------------------------------------------------------------------------+
+| appraisal/project delay/shock/governance -> weak cash flow -> default        |
+| -> NPA -> income reversal + provision -> profit/capital pressure             |
+| -> weak fresh credit -> investment slowdown -> borrower weakness             |
+| ICR signals servicing capacity; Twin Balance Sheet is a 2016-17 diagnosis    |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Twin-balance-sheet loop
-CORPORATE OVER-LEVERAGE
--> WEAK DEBT SERVICE
--> BANK NPAs + CAPITAL LOSS
--> WEAKER FRESH CREDIT
+ASCII MASTER FLOW — PANEL 4/12: RESTRUCTURING BOUNDARY
++----------------------------------------------------------------------------+
+| Viable concession + transparent recognition -> RESTRUCTURING                 |
+| Temporary exceptional relief -> FORBEARANCE                                  |
+| Fresh finance used only to hide old dues -> EVERGREENING                      |
+| Current RBI rule: classification continues while resolution is considered   |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Recovery-resolution ladder
-SARFAESI -> secured-asset enforcement
-DRT -> specialised debt recovery
-IBC / NCLT -> collective insolvency
-ICA -> lender coordination, not a tribunal
+ASCII MASTER FLOW — PANEL 5/12: BASEL CAPITAL
++----------------------------------------------------------------------------+
+| Basel I -> credit risk | Basel II -> Pillars 1/2/3 | Basel III -> resilience |
+| CRAR = eligible capital / RWA; RWA covers credit, market, operational risk   |
+| Capital quality: CET1 -> AT1 -> Tier 2                                       |
+| RBI 01-04-2025: 5.5 CET1 | 7 Tier1 | 9 CRAR | +2.5 CCB (covered SCBs)       |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: Stressed-asset transfer
-BANK BALANCE SHEET
--> ARC / NARCL TRANSFER
--> SPECIALISED RECOVERY OR SALE
-LOSS REMAINS -> valuation and buyer interest decide
-CLOSE DISTINCTION: Gross NPA is not net NPA, provision is not write-off, write-off is not...
+ASCII MASTER FLOW — PANEL 6/12: LEVERAGE AND LIQUIDITY
++----------------------------------------------------------------------------+
+| Leverage: Tier1/exposure -> 4% D-SIB; 3.5% others from 01-10-2019            |
+| LCR: HQLA/30-day stressed net outflow >=100% from 01-01-2019                 |
+| NSFR: available/required stable funding >=100% from 01-10-2021               |
+| Solvency and liquidity overlap in stress but are not the same condition      |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: Supervisory repair sequence
-AQR -> RECOGNITION
-PCA -> GRADUATED SUPERVISION
-RECAPITALISATION -> LOSS ABSORPTION
-4R -> RECOGNITION + RESOLUTION + RECAP + REFORMS
+ASCII MASTER FLOW — PANEL 7/12: EARLY SUPERVISION AND PCA
++----------------------------------------------------------------------------+
+| SMA-0 <=30 | SMA-1 >30-60 | SMA-2 >60-90 -> NPA trigger                     |
+| AQR -> classification check | CRILC -> shared large-credit information       |
+| PCA 02-11-2021/effective 01-01-2022: capital + NNPA + leverage               |
+| PCA restricts and repairs; it is not liquidation or DICGC payout             |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Stress indicators board
-NPA -> prudential loan classification
-ICR -> earnings / interest-service indicator
-EVERGREENING -> concealed stress
-FORBEARANCE -> temporary relief, not permanent concealment
+ASCII MASTER FLOW — PANEL 8/12: RBI RESOLUTION ROUTE
++----------------------------------------------------------------------------+
+| Default/credit event -> 30-day Review Period -> documented strategy          |
+| Multi-lender ICA -> 75% value + 60% number binds signatories                 |
+| ICE from Rs100 cr; two from Rs500 cr; RP4+; 180-day implementation clock     |
+| Delay -> extra provision; negotiation never freezes asset classification     |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Inclusion quality triangle
-ACCESS -> account or service availability
-USAGE -> active and suitable use
-QUALITY -> protection + grievance + suitability
-FI-INDEX -> all three; no base year
+ASCII MASTER FLOW — PANEL 9/12: RECOVERY TOOL MAP
++----------------------------------------------------------------------------+
+| SARFAESI s13(2): 60-day notice -> s13(4) secured-asset measures -> DRT remedy|
+| RDB Act 1993 -> DRT adjudication/recovery -> DRAT appeal                     |
+| ARC -> acquires financial asset -> reconstruction/recovery -> Security Receipt|
+| Recovery of one claim is not collective insolvency or guaranteed value       |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Inclusion delivery map
-PMJDY -> transaction-account platform
-SHG-BANK LINKAGE -> group savings to formal bank
-BUSINESS CORRESPONDENT -> last-mile access
-WATERCREDIT -> targeted water/sanitation finance
+ASCII MASTER FLOW — PANEL 10/12: IBC CONTROL SHIFT
++----------------------------------------------------------------------------+
+| NCLT admission -> section 14 moratorium -> IP -> claims -> CoC               |
+| CoC plan approval >=66% voting share -> NCLT legality check -> binding plan   |
+| No plan/statutory trigger -> liquidation -> section 53 waterfall             |
+| IBBI regulates ecosystem; personal-guarantor route operates from 01-12-2019  |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: Credit-cleanup trade-offs
-EARLY RECOGNITION -> credibility / short-run ratio shock
-HIGHER CAPITAL -> resilience / lending constraint
-FAST RECOVERY -> discipline / viability risk
-DIGITAL ACCESS -> lower cost / exclusion and mis-selling risk
+ASCII MASTER FLOW — PANEL 11/12: NARCL AND CONDUCT
++----------------------------------------------------------------------------+
+| NARCL acquires -> 15% cash + 85% SR -> IDRCL manages resolution              |
+| Guarantee supports eligible SR shortfall; asset transfer does not erase loss |
+| NPA = asset status | wilful default = deliberate conduct | fraud = deception |
+| RBI Directions: fraud 15-07-2024 | wilful default 30-07-2024                 |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: NPA answer spine
-DEFINE stress and classification
-ABSORB loss through provisions and capital
-CHOOSE recovery, resolution or transfer
-RESTORE governance and useful inclusion
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use ratio numerator/denominator and date,...
+ASCII MASTER FLOW — PANEL 12/12: RESPONSIBLE INCLUSION
++----------------------------------------------------------------------------+
+| PMJDY 28-08-2014 -> BSBD -> payments/DBT -> BC last mile                     |
+| PSL -> MUDRA -> SHG/JLG -> suitable productive credit                        |
+| FI-Index: Access + Usage + Quality; account count alone is incomplete         |
+| Answer: recognise -> absorb -> resolve -> govern -> include safely           |
++----------------------------------------------------------------------------+

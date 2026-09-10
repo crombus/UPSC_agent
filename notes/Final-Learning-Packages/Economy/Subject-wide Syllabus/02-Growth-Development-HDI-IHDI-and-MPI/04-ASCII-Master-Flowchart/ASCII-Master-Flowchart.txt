@@ -1,74 +1,128 @@
-ASCII MASTER FLOW — PANEL 1/12: Growth is the input, not the verdict
-REAL OUTPUT GROWTH
--> income + profits + fiscal capacity
--> jobs + public services + household investment
-DEVELOPMENT ONLY IF capabilities broaden
-MUST REMEMBER: Development expands capabilities, health, education, income security,...
-
-ASCII MASTER FLOW — PANEL 2/12: Capability conversion
-RESOURCES
--> health + education + nutrition
--> substantive freedoms
-LIMIT -> income can rise without conversion
-
-ASCII MASTER FLOW — PANEL 3/12: HDI three-dimension frame
-HEALTH -> life expectancy
-EDUCATION -> expected + mean years of schooling
-LIVING STANDARD -> GNI per capita
-AGGREGATION -> geometric mean
-
-ASCII MASTER FLOW — PANEL 4/12: HDI-to-IHDI discount
-HDI -> average achievement
-INEQUALITY WITHIN EACH DIMENSION
--> achievement discounted
-ZERO INEQUALITY -> IHDI equals HDI
-
-ASCII MASTER FLOW — PANEL 5/12: MPI household lens
-HEALTH | EDUCATION | LIVING STANDARDS
-HOUSEHOLD -> overlapping deficits
-NOT AN INCOME-ONLY CLASSIFICATION
-USE -> composition and targeting
-
-ASCII MASTER FLOW — PANEL 6/12: H times A formula
-H -> incidence: how many are poor
-A -> intensity: how deprived the poor are
-MPI = H x A
-TRAP -> H and A can move differently
-CLOSE DISTINCTION: Growth is not development, per-capita average is not distribution, HDI...
-
-ASCII MASTER FLOW — PANEL 7/12: Income line versus MPI
-INCOME LINE -> monetary threshold
-MPI -> weighted deprivation overlap
-INCOME -> transfer adequacy
-MPI -> sectoral composition of deprivation
-
-ASCII MASTER FLOW — PANEL 8/12: Institutions map
-UNDP -> HDI and IHDI
-UNDP + OPHI -> global MPI
-NITI AAYOG -> national MPI
-GOVERNMENTS -> service delivery
-
-ASCII MASTER FLOW — PANEL 9/12: Below-state diagnosis
-NATIONAL AVERAGE
--> STATE DIVERGENCE
--> DISTRICT DIVERGENCE
-RULE -> ranking change is not transformation
-
-ASCII MASTER FLOW — PANEL 10/12: Protection versus transformation
-MGNREGA -> wage floor + rural assets
-ICDS / PM POSHAN -> nutrition + schooling
-SHGs -> savings + agency + networks
-LIMIT -> productivity and decent jobs remain necessary
-
-ASCII MASTER FLOW — PANEL 11/12: Composite-index limits
-AVERAGE -> can hide distribution
-WEIGHTS -> shape results
-SURVEY TIMING -> misses sudden shocks
-QUALITY -> may differ from access
-
-ASCII MASTER FLOW — PANEL 12/12: Inclusive-growth answer spine
-DEFINE growth and development
-TRACE jobs + services + capabilities
-COMPARE HDI / IHDI / MPI
-QUALIFY with inequality, quality and ecology
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name publisher, edition/release date,...
+PANEL 1/12 - CORE CONCEPT: GROWTH IS A MEANS, DEVELOPMENT THE TEST
++----------------------------------------------------------------------------+
+| REAL GROWTH = sustained increase in inflation-adjusted output or income     |
+| DEVELOPMENT = growth + structural change + distribution + capabilities     |
+|               + agency + resilience + environmental sustainability         |
+| REAL GDP -> aggregate quantity; REAL GDP PER CAPITA -> average quantity     |
+| Neither alone proves decent jobs, equal access, security or future welfare. |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 2/12 - GROWTH ENGINE AND CONVERSION CHAIN
++----------------------------------------------------------------------------+
+| labour + physical capital + human capital + technology + institutions       |
+|                         -> productivity -> real output                       |
+| output -> jobs/wages + profits/investment + tax base                        |
+| jobs/services -> nutrition + health + schooling + agency -> productivity    |
+| Failure modes: jobless growth, enclave growth, inequality, weak services.   |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 3/12 - HDI TIMELINE, PURPOSE AND FOUR INDICATORS
++----------------------------------------------------------------------------+
+| 1990: first UNDP Human Development Report                                   |
+| PURPOSE: average achievement, not complete welfare                          |
+| HEALTH: life expectancy at birth                                             |
+| EDUCATION: expected years schooling + mean years schooling (age 25+)        |
+| LIVING STANDARD: GNI per capita in PPP terms                                |
+| Three dimensions; four indicators; publisher = UNDP.                        |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 4/12 - HDI DECODER, 2025 TECHNICAL NOTE
++----------------------------------------------------------------------------+
+| Linear index = (actual - minimum)/(maximum - minimum)                        |
+| LE goalposts 20-85; EYS 0-18; MYS 0-15                                     |
+| GNIpc goalposts 100-75,000 constant 2021 PPP dollars                        |
+| Education index = arithmetic mean of EYS and MYS indices                    |
+| Income index uses ln values: diminishing capability return to income        |
+| HDI = (Health x Education x Income)^(1/3): geometric mean                    |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 5/12 - HDI INTERPRETATION FIREWALL
++----------------------------------------------------------------------------+
+| VALUE = composite achievement; RANK = relative order in a stated release    |
+| REPORT YEAR != DATA YEAR; components may have different source vintages     |
+| Rank can move because peers, coverage or revisions change.                  |
+| Limits: average hides inequality; only 3 dimensions; omits poverty, voice,  |
+| security, service quality, unpaid care and environmental pressure.          |
+| GDI/GII are bounded gender complements, not fourth HDI dimensions.          |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 6/12 - IHDI: SAME DIMENSIONS, DISTRIBUTION DISCOUNT
++----------------------------------------------------------------------------+
+| Atkinson-type inequality Ax for health, education and income                 |
+| Adjusted dimension I-adjusted = (1 - Ax) x I                                |
+| IHDI = (Health-adjusted x Education-adjusted x Income-adjusted)^(1/3)       |
+| Loss = 1 - IHDI/HDI; perfect equality -> IHDI = HDI; always IHDI <= HDI     |
+| Not a fourth dimension; gap is not a poverty rate.                          |
+| UNDP limit: not association-sensitive across the same individuals.          |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 7/12 - GLOBAL MPI: 3 DIMENSIONS, 10 INDICATORS
++----------------------------------------------------------------------------+
+| OPHI + UNDP; acute household-level overlapping deprivation                  |
+| Health 1/3: nutrition 1/6; child mortality 1/6                              |
+| Education 1/3: years schooling 1/6; attendance 1/6                          |
+| Living standards 1/3: fuel, sanitation, water, electricity, housing, assets |
+|                       each 1/18                                              |
+| Equal dimension weights do not mean equal weights for all 10 indicators.    |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 8/12 - DUAL CUTOFF AND MPI = H x A
++----------------------------------------------------------------------------+
+| 1st cutoff: indicator-specific deprivation; sum weights -> score c           |
+| 2nd cutoff: c >= 1/3 -> MPI poor                                             |
+| Current global bands: vulnerable 1/5 to <1/3; severe c >= 1/2               |
+| H = poor population / total population                                      |
+| A = average weighted deprivation score among the poor                       |
+| MPI = H x A; H and A can move in opposite directions.                       |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 9/12 - INDIA'S NATIONAL MPI IS AN ADAPTATION
++----------------------------------------------------------------------------+
+| Publisher/nodal institution: NITI Aayog; source: NFHS household microdata    |
+| 12 indicators: global spine + maternal health + bank account                |
+| Health: nutrition 1/6; mortality 1/12; maternal health 1/12                 |
+| Education: MYS 1/6; attendance 1/6                                          |
+| Living standards: 7 indicators, each 1/21                                  |
+| Used at national, State/UT and district levels; not interchangeable globally.|
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 10/12 - DATED INDIA EVIDENCE AND DATA-LAG RULE
++----------------------------------------------------------------------------+
+| NITI Progress Review released 17 July 2023                                  |
+| compares NFHS-4 (2015-16) with NFHS-5 (2019-21)                            |
+| headcount ratio: 24.85% -> 14.96%; report estimate: 13.5 crore exited       |
+| These are survey-period comparisons, not observations made in 2023.         |
+| Limits: periodic survey, repeated cross-section, household assignment,      |
+| district/social-group averages and indicator/cutoff sensitivity.            |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 11/12 - COMPARISON, LIMITS AND PRELIMS TRAPS
++----------------------------------------------------------------------------+
+| Income poverty: monetary command below line; MPI: direct overlapping deficits|
+| HDI: average achievement; IHDI: inequality-adjusted achievement             |
+| Global MPI: 10 indicators; India national MPI: 12 indicators                |
+| H != A; IHDI loss != MPI; GNIpc != GDPpc; rank != value                     |
+| Household MPI can hide intra-household gender/age/disability inequality.     |
+| Expenditure != access != quality != utilisation != outcome.                 |
++----------------------------------------------------------------------------+
+                                      |
+                                      v
+PANEL 12/12 - ANSWER SPINE AND QUALIFIED VERDICT
++----------------------------------------------------------------------------+
+| DEFINE -> select metric -> decode institution/unit/formula/threshold         |
+| -> attach report year + data year -> calculate/compare components           |
+| -> explain productivity/jobs/services/distribution/environment mechanism     |
+| -> qualify averages, cutoff sensitivity, household unit, lag and causation  |
+| -> prescribe productive inclusion + quality capabilities + resilience       |
+| VERDICT: use a dated, disaggregated dashboard; no single index is development.|
++----------------------------------------------------------------------------+

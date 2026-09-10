@@ -1,74 +1,110 @@
-ASCII MASTER FLOW — PANEL 1/12: Infrastructure service chain
-IDENTIFY + APPRAISE
--> FINANCE + ALLOCATE RISK
--> BUILD + COMMISSION
--> OPERATE + MAINTAIN -> USABLE SERVICE
-MUST REMEMBER: Infrastructure combines network assets and services with large sunk costs,...
+ECONOMY TOPIC 18 — ASCII MASTER
+Current-source cutoff: 9 September 2026
 
-ASCII MASTER FLOW — PANEL 2/12: Infrastructure effects
-DEMAND CHANNEL -> construction activity
-SUPPLY CHANNEL -> lower cost + reliability
-CAPABILITY CHANNEL -> health / education / water
-OUTCOME DEPENDS -> completion + connection + use
+PANEL 01: SERVICE SPINE
++----------------------------------------------------------------------------+
+| Need and alternatives                                                      |
+| Appraise and prepare                                                       |
+| Finance and build                                                          |
+| Connect, operate, maintain                                                 |
+| Measure user outcome                                                       |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Project appraisal gate
-DEMAND + ENGINEERING
-LAND + ENVIRONMENT + SOCIAL
-FINANCE + INSTITUTION
-PASS BEFORE bankability claim
+PANEL 02: ECONOMIC LOGIC
++----------------------------------------------------------------------------+
+| Natural monopoly                                                           |
+| Network externality                                                        |
+| Public/merit benefit                                                       |
+| Crowding-in and costs                                                      |
+| Independent regulation                                                     |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: PPP risk matrix
-PUBLIC -> land / policy where controllable
-PRIVATE -> construction / operation where controllable
-DEMAND -> toll or government-payment design
-SHARED -> force majeure + renegotiation rules
+PANEL 03: PUBLIC CAPEX
++----------------------------------------------------------------------------+
+| FY27 BE Rs 12.2 lakh crore                                                 |
+| BE != Actual                                                               |
+| Multiplier is conditional                                                  |
+| Capacity and maintenance                                                   |
+| Service scorecard                                                          |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Road-model comparison
-BOT TOLL -> private traffic exposure
-BOT ANNUITY -> public payment stream
-HAM -> milestone support + annuity
-TOT -> brownfield operating rights
+PANEL 04: PPP DEFINITION
++----------------------------------------------------------------------------+
+| Fixed-term service contract                                                |
+| Performance standards                                                      |
+| Risk allocation                                                            |
+| PPP != privatisation                                                       |
+| Users/taxpayers fund service                                               |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: VGF decision route
-ECONOMICALLY JUSTIFIED?
-COMMERCIALLY SUB-VIABLE?
-COMPETITIVE PRIVATE SELECTION?
-NOTIFIED SUPPORT -> still test demand + land + contract
-CLOSE DISTINCTION: PPP is not privatisation, project cost is not annual expenditure,...
+PANEL 05: MODEL MAP
++----------------------------------------------------------------------------+
+| EPC baseline                                                               |
+| BOT Toll/Annuity                                                           |
+| DBFOT and HAM                                                              |
+| OMT and TOT                                                                |
+| Lease/concession                                                           |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: PPP stress and correction
-POST-2012 -> BOT-toll stress
-2015 -> Kelkar Committee
-2016 ONWARD -> HAM correction
-LIMIT -> risk shifts; it does not disappear
+PANEL 06: PROJECT CYCLE
++----------------------------------------------------------------------------+
+| Need and appraisal                                                         |
+| Readiness and bid                                                          |
+| Financial close                                                            |
+| Construction/O&M                                                           |
+| Handback/termination                                                       |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: Infrastructure financing fork
-NIP -> planning pipeline
-PUBLIC CAPEX -> new investment spending
-NMP -> brownfield monetisation
-PPP -> contract + risk allocation
+PANEL 07: PPP SUPPORT
++----------------------------------------------------------------------------+
+| VGF viability grant                                                        |
+| IIPDF preparation                                                          |
+| PPPAC appraisal                                                            |
+| Contingent-liability disclosure                                            |
+| Transparent renegotiation                                                  |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: GatiShakti and NLP
-GATISHAKTI -> GIS planning coordination
-NLP -> process + digital + standards + skills
-BOTH -> multimodal efficiency
-NEITHER -> automatic project completion
+PANEL 08: RISK TABLE
++----------------------------------------------------------------------------+
+| Construction and demand                                                    |
+| Land and regulation                                                        |
+| Currency/refinancing                                                       |
+| Force majeure                                                              |
+| Allocate to best manager                                                   |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Port logistics distinction
-VIZHINJAM -> trans-shipment project
-SAGARMALA -> port-led programme
-PORT VALUE -> berth + evacuation + customs
-STATUS -> verify actual ramp-up
+PANEL 09: FINANCE STACK
++----------------------------------------------------------------------------+
+| Public capex/banks                                                         |
+| Bonds/takeout                                                              |
+| InvIT                                                                      |
+| NIIF equity                                                                |
+| NaBFID long-term debt                                                      |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: Station redevelopment logic
-COMMERCIAL LAND / LEASE VALUE
--> CROSS-SUBSIDISE station upgrade
-RISKS -> footfall + title + coordination
-DUTY -> passenger access + safety + affordability
+PANEL 10: PIPELINES/MONETISATION
++----------------------------------------------------------------------------+
+| NIP historical FY20-FY25                                                   |
+| Current PPP pipeline                                                       |
+| NMP 2.0 FY26-FY30                                                          |
+| Potential != proceeds                                                      |
+| Brownfield != privatisation                                                |
++----------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: Infrastructure answer spine
-DEFINE service and project stage
-APPRAISE demand + land + finance
-ALLOCATE risks by controllability
-TEST completion + maintenance + contingent liability
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify model, concession term, risk...
+PANEL 11: LOGISTICS SYSTEM
++----------------------------------------------------------------------------+
+| GatiShakti GIS planning                                                    |
+| NLP process reform                                                         |
+| ULIP/LEADS data                                                            |
+| Modes/terminals/warehousing                                                |
+| Cost method and reliability                                                |
++----------------------------------------------------------------------------+
+
+PANEL 12: ANSWER ENGINE
++----------------------------------------------------------------------------+
+| Date every number                                                          |
+| Stage every project                                                        |
+| Claim -> evidence -> analysis -> qualification                             |
+| Lifecycle value and fiscal risk                                            |
+| Energy detail -> Topic 31                                                  |
++----------------------------------------------------------------------------+

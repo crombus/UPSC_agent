@@ -1,1209 +1,817 @@
----
-title: "Inflation, Price Indices and Business Cycles — Solved Practice Workbook"
-topic_key: economy-03
----
-# Inflation, Price Indices and Business Cycles — Solved Practice Workbook
+# Inflation, Price Indices and Business Cycles - Solved Practice Workbook
+
+**Standalone scope:** exactly 32 original MCQs before PYQs, strict ABCD rotation repeated eight times, 128 substantive unique option explanations, 32 unique question-specific traps, official-key discipline and exactly six original Mains model answers.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Inflation, disinflation and deflation?
+**Practice contract:** Exactly 32 original MCQs appear before PYQs. Correct answers follow `ABCD` repeated eight times. Every option has a substantive, option-specific explanation and every question has a unique examiner trap.
 
-A. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-B. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-C. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-D. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
+### MCQ 1
 
-**Answer: A.**
-**Explanation:** Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+A fall in the inflation rate from 8 per cent to 5 per cent while the CPI still rises is
 
-### Q2. Which option preserves the accounting or regulatory boundary of Inflation, disinflation and deflation?
-
-A. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-B. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-C. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-D. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-
-**Answer: B.**
-**Explanation:** Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses Inflation, disinflation and deflation without losing its vintage, basket or legal status?
-
-A. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-B. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-C. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-D. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-
-**Answer: C.**
-**Explanation:** Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Inflation, disinflation and deflation?
-
-A. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-B. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-C. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-D. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-
-**Answer: D.**
-**Explanation:** Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies Headline and core inflation?
-
-A. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-B. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-C. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-D. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
+- A. disinflation
+- B. deflation
+- C. reflation
+- D. hyperinflation
 
 **Answer: A.**
-**Explanation:** Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q6. Which option preserves the accounting or regulatory boundary of Headline and core inflation?
+**Option-specific explanations:**
 
-A. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-B. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-C. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-D. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
+- **A - Correct:** Disinflation means positive inflation has slowed, so the price level can still rise.
+- **B - Incorrect:** Deflation requires a sustained fall in the general price level, which is not described.
+- **C - Incorrect:** Reflation is deliberate support from depressed demand or prices, not ordinary moderation.
+- **D - Incorrect:** Hyperinflation is an extreme accelerating rise, the opposite of the stated slowing.
+
+**Examiner trap 1:** A lower inflation rate is not a lower price level.
+
+### MCQ 2
+
+Which description is most accurate?
+
+- A. Reflation is any increase in inflation
+- B. Stagflation combines inflation with weak growth or high unemployment
+- C. Deflation means slower inflation
+- D. Hyperinflation is a one-off food spike
 
 **Answer: B.**
-**Explanation:** Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q7. Which statement uses Headline and core inflation without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-B. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-C. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-D. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
+- **A - Incorrect:** Reflation is specifically associated with restoring demand or prices from depressed conditions.
+- **B - Correct:** Stagflation joins adverse price and activity outcomes, often after a supply shock.
+- **C - Incorrect:** Slower positive inflation is disinflation; deflation means the general price level falls.
+- **D - Incorrect:** Hyperinflation is broad, extreme and self-reinforcing rather than one relative-price movement.
+
+**Examiner trap 2:** Stagflation invalidates the assumption that inflation always signals excess demand.
+
+### MCQ 3
+
+A broad rise in wages and mark-ups after repeated food shocks is best described as
+
+- A. a pure base effect
+- B. deflationary adjustment
+- C. second-round or built-in inflation
+- D. a change in GDP accounting
 
 **Answer: C.**
-**Explanation:** Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Headline and core inflation?
+**Option-specific explanations:**
 
-A. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-B. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-C. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-D. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
+- **A - Incorrect:** A base effect comes from the comparison period and does not itself create wage-price persistence.
+- **B - Incorrect:** Deflation is a falling general price level, not broadening inflation.
+- **C - Correct:** Expectations and contracts can propagate an initial shock into persistent general inflation.
+- **D - Incorrect:** GDP-accounting changes may alter measurement but do not explain this wage-price mechanism.
+
+**Examiner trap 3:** Separate the first-round commodity shock from second-round generalisation.
+
+### MCQ 4
+
+Which statement about core inflation is correct?
+
+- A. It is always below headline inflation
+- B. It is MoSPI's only legally targeted index
+- C. It excludes every service price
+- D. It is an analytical exclusion measure whose definition must be stated
 
 **Answer: D.**
-**Explanation:** Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q9. Which statement correctly identifies CPI coverage?
+**Option-specific explanations:**
 
-A. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-B. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-C. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-D. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
+- **A - Incorrect:** Food or fuel deflation can make headline lower than core, so no fixed ordering exists.
+- **B - Incorrect:** India's statutory target is headline CPI, not a core index.
+- **C - Incorrect:** Core measures usually retain many services and other non-food, non-fuel items.
+- **D - Correct:** Core is constructed for underlying-pressure analysis and can vary by exclusion convention.
+
+**Examiner trap 4:** Never use core inflation without specifying what has been excluded.
+
+### MCQ 5
+
+Under MoSPI's current CPI series introduced on 12 February 2026, the base is
+
+- A. 2024=100
+- B. 2012=100
+- C. 2022-23=100
+- D. 2016=100
 
 **Answer: A.**
-**Explanation:** CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q10. Which option preserves the accounting or regulatory boundary of CPI coverage?
+**Option-specific explanations:**
 
-A. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-B. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-C. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-D. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
+- **A - Correct:** MoSPI introduced CPI 2024=100 for current releases on 12 February 2026.
+- **B - Incorrect:** The 2012 series was the preceding CPI base, not the current release base.
+- **C - Incorrect:** 2022-23 is the new WPI base, not the CPI base. It fails this question's stated measure, institution or boundary.
+- **D - Incorrect:** 2016=100 is associated with the current CPI-IW series. It fails this question's stated measure, institution or boundary.
+
+**Examiner trap 5:** Keep CPI, WPI and labour-index base years separate.
+
+### MCQ 6
+
+The expenditure weights of CPI 2024 are primarily derived from
+
+- A. Annual Survey of Industries 2023-24
+- B. Household Consumption Expenditure Survey 2023-24
+- C. National Accounts Supply Table 2022-23
+- D. Working Class Family Income and Expenditure Survey 2016
 
 **Answer: B.**
-**Explanation:** CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q11. Which statement uses CPI coverage without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-B. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-C. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-D. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
+- **A - Incorrect:** ASI concerns industrial establishments and is not the household-consumption weight source.
+- **B - Correct:** HCES 2023-24 supplies the consumption shares used in CPI 2024.
+- **C - Incorrect:** The Supply Table is relevant to PPI weighting, not CPI household weights.
+- **D - Incorrect:** The 2016 family survey underpins CPI-IW, not the all-household CPI 2024.
+
+**Examiner trap 6:** A base year and a weight-reference survey are related but distinct facts.
+
+### MCQ 7
+
+Which combination states MoSPI's CPI 2024 aggregation methods correctly?
+
+- A. Arithmetic mean at every level
+- B. Paasche below and Fisher above
+- C. Jevons at elementary level and Young/Modified Laspeyres at higher level
+- D. GDP deflator below and WPI above
 
 **Answer: C.**
-**Explanation:** CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q12. Which option avoids the standard UPSC close-option trap about CPI coverage?
+**Option-specific explanations:**
 
-A. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-B. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-C. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-D. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
+- **A - Incorrect:** The official method does not use one arithmetic mean at all levels.
+- **B - Incorrect:** Paasche and Fisher are useful concepts but are not the stated CPI 2024 combination.
+- **C - Correct:** MoSPI's FAQ names Jevons for elementary indices and Young/Modified Laspeyres higher up.
+- **D - Incorrect:** GDP deflator and WPI are separate measures, not CPI aggregation formulae.
+
+**Examiner trap 7:** Do not replace the official two-level formula with a generic textbook label.
+
+### MCQ 8
+
+CPI Combined is produced by
+
+- A. using only urban outlets
+- B. adding CPI Rural and Urban without weights
+- C. using WPI weights for common commodities
+- D. combining rural and urban indices with their corresponding weights
 
 **Answer: D.**
-**Explanation:** CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q13. Which statement correctly identifies WPI coverage?
+**Option-specific explanations:**
 
-A. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-B. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-C. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-D. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
+- **A - Incorrect:** Combined coverage includes rural as well as urban consumption.
+- **B - Incorrect:** An unweighted average would ignore the expenditure importance of rural and urban households.
+- **C - Incorrect:** WPI commodity weights belong to a different producer-side architecture.
+- **D - Correct:** MoSPI uses the relevant rural and urban weights in the combined index.
+
+**Examiner trap 8:** Combined does not mean a simple arithmetic average.
+
+### MCQ 9
+
+The Consumer Food Price Index is best understood as
+
+- A. a food-focused index within the consumer-price system
+- B. WPI Food Index under a different name
+- C. core inflation excluding services
+- D. a GDP-deflator component
 
 **Answer: A.**
-**Explanation:** WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q14. Which option preserves the accounting or regulatory boundary of WPI coverage?
+**Option-specific explanations:**
 
-A. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-B. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-C. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-D. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
+- **A - Correct:** CFPI tracks food prices in the consumer-price framework for Rural, Urban and Combined.
+- **B - Incorrect:** WPI Food Index combines food articles and manufactured food products in WPI.
+- **C - Incorrect:** Core usually excludes food and fuel; it is not CFPI. It fails this question's stated measure, institution or boundary.
+- **D - Incorrect:** The GDP deflator is derived from national accounts, not a CFPI component.
+
+**Examiner trap 9:** CFPI and WPI Food Index belong to different price stages and baskets.
+
+### MCQ 10
+
+Which pairing is correct as checked on 9 September 2026?
+
+- A. CPI-IW: MoSPI, base 2024
+- B. CPI-IW: Labour Bureau, base 2016
+- C. CPI-AL: RBI, base 2019
+- D. CPI-RL: OEA, base 2022-23
 
 **Answer: B.**
-**Explanation:** WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q15. Which statement uses WPI coverage without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-B. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-C. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-D. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
+- **A - Incorrect:** MoSPI compiles the all-household CPI family, not CPI-IW.
+- **B - Correct:** The Labour Bureau's current CPI-IW series uses 2016=100.
+- **C - Incorrect:** CPI-AL is a Labour Bureau index, not an RBI product. It fails this question's stated measure, institution or boundary.
+- **D - Incorrect:** CPI-RL is also Labour Bureau; 2022-23 is the WPI base. It fails this question's stated measure, institution or boundary.
+
+**Examiner trap 10:** Match each specialised CPI to its compiler and reference population.
+
+### MCQ 11
+
+What distinguishes CPI-AL from CPI-RL?
+
+- A. One contains only food and the other only services
+- B. One is monthly and the other annual
+- C. They represent agricultural-labour and broader rural-labour household baskets respectively
+- D. They use WPI commodity weights
 
 **Answer: C.**
-**Explanation:** WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q16. Which option avoids the standard UPSC close-option trap about WPI coverage?
+**Option-specific explanations:**
 
-A. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-B. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-C. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
-D. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
+- **A - Incorrect:** Both baskets cover broader consumption, not mutually exclusive food and services.
+- **B - Incorrect:** Both are released as consumer price indices rather than this monthly-annual split.
+- **C - Correct:** The population reference differs: agricultural labourers versus rural labourers.
+- **D - Incorrect:** Their weights arise from labour-household consumption, not WPI output weights.
+
+**Examiner trap 11:** Similar rural names do not make the reference populations identical.
+
+### MCQ 12
+
+Why can CPI-IW-linked dearness allowance fail to protect every worker?
+
+- A. CPI-IW contains no food
+- B. It is a wholesale index
+- C. It has no base year
+- D. Coverage, basket and indexation apply mainly to specified organised groups, not all informal workers
 
 **Answer: D.**
-**Explanation:** WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q17. Which statement correctly identifies GDP deflator coverage?
+**Option-specific explanations:**
 
-A. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-B. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-C. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-D. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
+- **A - Incorrect:** Food and beverages carry material weight in CPI-IW. It fails this question's stated measure, institution or boundary.
+- **B - Incorrect:** CPI-IW measures retail consumer prices for industrial workers.
+- **C - Incorrect:** Its current series has a stated 2016 base. It fails this question's stated measure, institution or boundary.
+- **D - Correct:** Many informal workers lack automatic contracts linked to CPI-IW.
+
+**Examiner trap 12:** An indexation mechanism protects only those covered by its contract and lag.
+
+### MCQ 13
+
+Which institution compiles India's WPI?
+
+- A. Office of Economic Adviser, DPIIT
+- B. National Statistical Office alone
+- C. Reserve Bank of India
+- D. Labour Bureau
 
 **Answer: A.**
-**Explanation:** The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q18. Which option preserves the accounting or regulatory boundary of GDP deflator coverage?
+**Option-specific explanations:**
 
-A. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-B. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-C. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-D. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
+- **A - Correct:** The Office of Economic Adviser in DPIIT compiles and releases WPI.
+- **B - Incorrect:** NSO compiles CPI and national accounts rather than WPI.
+- **C - Incorrect:** RBI uses price data for policy but does not compile WPI.
+- **D - Incorrect:** Labour Bureau compiles specialised worker and labourer CPIs for distinct population groups.
+
+**Examiner trap 13:** Policy user and statistical compiler are different roles.
+
+### MCQ 14
+
+Under the WPI 2022-23 series released for May 2026, which major group has the largest weight?
+
+- A. Primary Articles
+- B. Manufactured Products
+- C. Fuel and Power
+- D. Services
 
 **Answer: B.**
-**Explanation:** The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q19. Which statement uses GDP deflator coverage without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-B. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
-C. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-D. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
+- **A - Incorrect:** Primary Articles carry 22.75730, below manufacturing. It fails this question's stated measure, institution or boundary.
+- **B - Correct:** Manufactured Products carry 63.12837, the largest major-group weight.
+- **C - Incorrect:** Fuel and Power carry 14.11433. It fails this question's stated measure, institution or boundary.
+- **D - Incorrect:** Services are not a WPI major group. It fails this question's stated measure, institution or boundary.
+
+**Examiner trap 14:** A goods-only index can still have a dominant manufactured-products weight.
+
+### MCQ 15
+
+Which statement about WPI is correct?
+
+- A. It is the household cost-of-living index
+- B. It includes all services through Service PPI
+- C. It is a goods-only wholesale/basic-price architecture and Service PPIs are separate
+- D. It is the statutory inflation target
 
 **Answer: C.**
-**Explanation:** The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q20. Which option avoids the standard UPSC close-option trap about GDP deflator coverage?
+**Option-specific explanations:**
 
-A. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
-B. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-C. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-D. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
+- **A - Incorrect:** Household living costs are represented by consumer indices built around retail consumption.
+- **B - Incorrect:** Separate Service PPIs do not become part of WPI. It fails this question's stated measure, institution or boundary.
+- **C - Correct:** The official 15 June 2026 release distinguishes WPI from seven Service PPIs.
+- **D - Incorrect:** The statutory target uses headline CPI. It fails this question's stated measure, institution or boundary.
+
+**Examiner trap 15:** Do not smuggle separate PPI services into the WPI basket.
+
+### MCQ 16
+
+The official 15 June 2026 transition statement implies that
+
+- A. WPI ceased immediately in May 2026
+- B. only the old WPI base remains valid
+- C. PPI was abandoned
+- D. WPI and PPI coexist for five years before the announced WPI discontinuation
 
 **Answer: D.**
-**Explanation:** The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q21. Which statement correctly identifies Demand-pull inflation?
+**Option-specific explanations:**
 
-A. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-B. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-C. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-D. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
+- **A - Incorrect:** The release expressly provides a transition period rather than immediate cessation.
+- **B - Incorrect:** The 2011-12 series was replaced by the 2022-23 series. It fails this question's stated measure, institution or boundary.
+- **C - Incorrect:** Output, trial Input and selected Service PPIs were introduced, not abandoned.
+- **D - Correct:** The dated plan allows contractual users time to move from WPI to PPI.
+
+**Examiner trap 16:** State an announced transition as dated status, not as a completed future event.
+
+### MCQ 17
+
+The GDP deflator is calculated as
+
+- A. nominal GDP divided by real GDP, multiplied by 100
+- B. CPI divided by WPI
+- C. real GDP divided by nominal GDP
+- D. exports divided by imports
 
 **Answer: A.**
-**Explanation:** Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q22. Which option preserves the accounting or regulatory boundary of Demand-pull inflation?
+**Option-specific explanations:**
 
-A. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-B. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-C. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-D. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
+- **A - Correct:** This ratio is the national-accounts implicit price deflator.
+- **B - Incorrect:** CPI and WPI compare different baskets and do not form the deflator.
+- **C - Incorrect:** The inverse would move oppositely and is not the conventional formula.
+- **D - Incorrect:** Trade ratios have no role in the deflator identity. It fails this question's stated measure, institution or boundary.
+
+**Examiner trap 17:** Use consistent current-price and constant-price GDP vintages.
+
+### MCQ 18
+
+Which item is directly outside the GDP deflator's domestic-production boundary?
+
+- A. A domestically produced exported machine
+- B. An imported final consumer good
+- C. A government-produced service
+- D. A domestically produced construction service
 
 **Answer: B.**
-**Explanation:** Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q23. Which statement uses Demand-pull inflation without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-B. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-C. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-D. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
+- **A - Incorrect:** Exports are domestic output and therefore enter GDP. It fails this question's stated measure, institution or boundary.
+- **B - Correct:** Imports are excluded from domestic production, though they can enter CPI consumption.
+- **C - Incorrect:** Government non-market services are included through national-account valuation.
+- **D - Incorrect:** Domestic construction is part of output. It fails this question's stated measure, institution or boundary.
+
+**Examiner trap 18:** The GDP deflator follows production, not residents' purchases.
+
+### MCQ 19
+
+A Laspeyres price index uses
+
+- A. current quantities in both periods
+- B. no quantity weights
+- C. base-period quantities as weights
+- D. the geometric mean of two price indices by definition
 
 **Answer: C.**
-**Explanation:** Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Demand-pull inflation?
+**Option-specific explanations:**
 
-A. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-B. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
-C. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-D. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
+- **A - Incorrect:** Current quantities define a Paasche-type comparison. It fails this question's stated measure, institution or boundary.
+- **B - Incorrect:** Every aggregate price index requires a weighting structure to combine unlike items.
+- **C - Correct:** Laspeyres reprices the fixed base-period basket using current-period prices.
+- **D - Incorrect:** The geometric mean of Laspeyres and Paasche is Fisher. It fails this question's stated measure, institution or boundary.
+
+**Examiner trap 19:** The basket period, not merely the price period, identifies the formula.
+
+### MCQ 20
+
+The Fisher ideal index equals
+
+- A. Laspeyres minus Paasche
+- B. Paasche divided by Laspeyres
+- C. the arithmetic mean of current and base prices
+- D. the square root of the product of Laspeyres and Paasche
 
 **Answer: D.**
-**Explanation:** Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q25. Which statement correctly identifies Cost-push and supply inflation?
+**Option-specific explanations:**
 
-A. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-B. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-C. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-D. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
+- **A - Incorrect:** Subtraction has no role in the standard Fisher formula.
+- **B - Incorrect:** A ratio would measure divergence, not the Fisher index.
+- **C - Incorrect:** Fisher combines indices, not raw prices by this rule. It fails this question's stated measure, institution or boundary.
+- **D - Correct:** The geometric mean balances base- and current-weighted measures.
+
+**Examiner trap 20:** Fisher's symmetry comes with greater current-quantity data needs.
+
+### MCQ 21
+
+A standard substitution-bias concern with a fixed base basket is that it may
+
+- A. miss consumers shifting away from relatively costlier items
+- B. exclude all services automatically
+- C. convert retail prices into wholesale prices
+- D. make the index equal the GDP deflator
 
 **Answer: A.**
-**Explanation:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q26. Which option preserves the accounting or regulatory boundary of Cost-push and supply inflation?
+**Option-specific explanations:**
 
-A. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-B. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-C. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-D. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
+- **A - Correct:** Fixed weights can retain purchases that consumers reduce after relative-price changes.
+- **B - Incorrect:** Service coverage depends on the basket, not fixed-weight mathematics.
+- **C - Incorrect:** Price stage is determined by index design, not substitution.
+- **D - Incorrect:** The GDP deflator has a changing domestic-output composition.
+
+**Examiner trap 21:** Substitution bias is about behaviour after relative-price change.
+
+### MCQ 22
+
+A favourable base effect can reduce year-on-year inflation even when
+
+- A. the current price index is zero
+- B. the current month's price level has not fallen
+- C. all item weights are removed
+- D. nominal GDP equals real GDP
 
 **Answer: B.**
-**Explanation:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q27. Which statement uses Cost-push and supply inflation without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-B. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
-C. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-D. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
+- **A - Incorrect:** Price indices are not required to become zero for annual inflation to fall.
+- **B - Correct:** A high comparison-period level can lower the annual rate without current deflation.
+- **C - Incorrect:** Weights remain necessary to aggregate price relatives. It fails this question's stated measure, institution or boundary.
+- **D - Incorrect:** GDP equality concerns a deflator base condition, not CPI base effects.
+
+**Examiner trap 22:** Base arithmetic changes a rate, not the accumulated cost of living.
+
+### MCQ 23
+
+Which is a quality-change problem for inflation measurement?
+
+- A. A policy-rate vote
+- B. A fiscal deficit
+- C. A new phone model offers much greater capability at a higher price
+- D. A fall in unemployment
 
 **Answer: C.**
-**Explanation:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Cost-push and supply inflation?
+**Option-specific explanations:**
 
-A. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-B. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-C. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-D. Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
+- **A - Incorrect:** Monetary governance is not an index-number product-comparison formula problem.
+- **B - Incorrect:** Fiscal balance affects demand but is not itself quality adjustment.
+- **C - Correct:** The compiler must separate payment for improved quality from pure price increase.
+- **D - Incorrect:** Labour-market change belongs to cycle analysis. It fails this question's stated measure, institution or boundary.
+
+**Examiner trap 23:** A new product's higher sticker price is not automatically pure inflation.
+
+### MCQ 24
+
+Why should old-base and new-base index levels not be directly spliced?
+
+- A. Because inflation cannot be measured after rebasing
+- B. Because every rebasing lowers inflation
+- C. Because official back series are illegal
+- D. Because baskets, weights and methods can differ across the series break
 
 **Answer: D.**
-**Explanation:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q29. Which statement correctly identifies Output gap and stagflation?
+**Option-specific explanations:**
 
-A. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-B. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-C. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
-D. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
+- **A - Incorrect:** Rebasing is designed to improve continuing measurement with a more representative reference structure.
+- **B - Incorrect:** Its effect on measured inflation is empirical, not mechanically downward.
+- **C - Incorrect:** Official linking and back series are precisely the safe bridge.
+- **D - Correct:** Raw levels may represent different reference structures and therefore lack direct comparability.
+
+**Examiner trap 24:** A base revision is a measurement update, not a price shock.
+
+### MCQ 25
+
+Using the Fisher approximation, an 8 per cent nominal interest rate and 5 per cent expected inflation imply an ex ante real rate of about
+
+- A. 3 per cent
+- B. 13 per cent
+- C. 5 per cent
+- D. -3 per cent
 
 **Answer: A.**
-**Explanation:** A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q30. Which option preserves the accounting or regulatory boundary of Output gap and stagflation?
+**Option-specific explanations:**
 
-A. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-B. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-C. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
-D. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
+- **A - Correct:** The approximation is nominal minus expected inflation: 8 minus 5.
+- **B - Incorrect:** Adding inflation gives a nominal-plus-inflation number, not the real rate.
+- **C - Incorrect:** Expected inflation alone is not the real return. It fails this question's stated measure, institution or boundary.
+- **D - Incorrect:** The sign would be negative only if expected inflation exceeded the nominal rate.
+
+**Examiner trap 25:** Ex ante real interest uses expected, not necessarily realised, inflation.
+
+### MCQ 26
+
+Unexpected inflation under a fixed-rate nominal loan generally
+
+- A. benefits the lender because money gains purchasing power
+- B. reduces the real burden on the borrower and the real return to the lender
+- C. leaves both parties unaffected
+- D. guarantees the borrower a higher income
 
 **Answer: B.**
-**Explanation:** A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q31. Which statement uses Output gap and stagflation without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-B. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-C. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-D. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
+- **A - Incorrect:** Inflation lowers the purchasing power transferred through fixed nominal repayments.
+- **B - Correct:** The same nominal repayment transfers less real value from borrower to lender.
+- **C - Incorrect:** A nominal contract is affected when actual inflation differs from expectation.
+- **D - Incorrect:** Debt relief does not guarantee that the borrower's income rises.
+
+**Examiner trap 26:** The redistribution result changes for floating-rate or indexed contracts.
+
+### MCQ 27
+
+Inflation tax most directly describes
+
+- A. a statutory surcharge on capital gains
+- B. every increase in indirect tax
+- C. erosion of the real value of non-interest-bearing money balances
+- D. the RBI's policy rate
 
 **Answer: C.**
-**Explanation:** A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Output gap and stagflation?
+**Option-specific explanations:**
 
-A. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-B. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-C. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-D. A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
+- **A - Incorrect:** A legislated capital-gains charge is an explicit tax, not the inflation-tax concept.
+- **B - Incorrect:** Indirect taxes can raise prices but are not synonymous with inflation tax.
+- **C - Correct:** Money holders lose real purchasing power as the price level rises.
+- **D - Incorrect:** The repo rate is a monetary-policy instrument. It fails this question's stated measure, institution or boundary.
+
+**Examiner trap 27:** Inflation tax is an economic incidence, not necessarily a tax statute.
+
+### MCQ 28
+
+Which statement about indexed contracts is strongest?
+
+- A. They eliminate every distributional effect of inflation
+- B. They always use WPI
+- C. They guarantee a positive real return
+- D. They reduce exposure to the named index but retain basis, lag and coverage risks
 
 **Answer: D.**
-**Explanation:** A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q33. Which statement correctly identifies Expectations and persistence?
+**Option-specific explanations:**
 
-A. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-B. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-C. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
-D. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
+- **A - Incorrect:** Unindexed assets, taxes, timing and employment can still redistribute.
+- **B - Incorrect:** Contracts may use CPI-IW, CPI or another benchmark. It fails this question's stated measure, institution or boundary.
+- **C - Incorrect:** Indexation can preserve a benchmark relation but not guarantee all real outcomes.
+- **D - Correct:** The chosen index may differ from the person's basket and update after a delay.
+
+**Examiner trap 28:** Indexation transfers index-design risk into the contract.
+
+### MCQ 29
+
+The expectations-augmented Phillips curve implies that
+
+- A. a short-run trade-off may exist, but it cannot be permanently exploited after expectations adjust
+- B. higher inflation permanently fixes structural unemployment
+- C. supply shocks always reduce inflation
+- D. the long-run curve is horizontal
 
 **Answer: A.**
-**Explanation:** As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q34. Which option preserves the accounting or regulatory boundary of Expectations and persistence?
+**Option-specific explanations:**
 
-A. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-B. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-C. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-D. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
+- **A - Correct:** Unexpected demand changes can affect output temporarily; adjustment removes a permanent trade-off.
+- **B - Incorrect:** Skills, matching and institutions are not repaired by surprise inflation.
+- **C - Incorrect:** Adverse supply shocks can raise inflation and unemployment together.
+- **D - Incorrect:** The long-run formulation is conventionally vertical at the equilibrium unemployment rate.
 
-**Answer: B.**
-**Explanation:** As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 29:** Short-run non-neutrality does not imply a permanent policy menu.
 
-### Q35. Which statement uses Expectations and persistence without losing its vintage, basket or legal status?
+### MCQ 30
 
-A. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-B. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-C. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-D. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
+NAIRU is best described as
 
-**Answer: C.**
-**Explanation:** As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Expectations and persistence?
-
-A. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-B. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-C. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-D. As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-
-**Answer: D.**
-**Explanation:** As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies Policy assignment?
-
-A. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
-B. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-C. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-D. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-
-**Answer: A.**
-**Explanation:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of Policy assignment?
-
-A. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-B. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
-C. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-D. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
+- A. the legally mandated minimum unemployment rate
+- B. an estimated unemployment rate consistent with non-accelerating inflation
+- C. the unemployment rate at every trough
+- D. the same as zero unemployment
 
 **Answer: B.**
-**Explanation:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q39. Which statement uses Policy assignment without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-B. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-C. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
-D. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
+- **A - Incorrect:** No statute fixes a universal NAIRU. It fails this question's stated measure, institution or boundary.
+- **B - Correct:** It is an estimated equilibrium concept tied to stable inflation dynamics.
+- **C - Incorrect:** A cyclical trough need not equal the structural unemployment benchmark.
+- **D - Incorrect:** Frictional and structural unemployment make zero an inappropriate identity.
 
-**Answer: C.**
-**Explanation:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 30:** NAIRU is uncertain and can change with labour-market structure.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Policy assignment?
+### MCQ 31
 
-A. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-B. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-C. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-D. RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
+Which phase sequence is a valid stylised business cycle?
 
-**Answer: D.**
-**Explanation:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies Lockdown supply shock?
-
-A. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-B. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-C. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-D. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-
-**Answer: A.**
-**Explanation:** India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of Lockdown supply shock?
-
-A. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-B. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-C. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-D. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-
-**Answer: B.**
-**Explanation:** India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses Lockdown supply shock without losing its vintage, basket or legal status?
-
-A. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-B. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-C. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-D. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
+- A. Peak -> expansion -> recovery -> trough
+- B. Recovery -> recession -> expansion -> peak
+- C. Trough -> recovery -> expansion -> peak -> contraction
+- D. Inflation -> CPI -> WPI -> GDP
 
 **Answer: C.**
-**Explanation:** India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Lockdown supply shock?
+**Option-specific explanations:**
 
-A. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-B. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-C. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-D. India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
+- **A - Incorrect:** Expansion normally precedes the peak rather than follows it.
+- **B - Incorrect:** Recovery normally leads into broader expansion rather than directly into another recession.
+- **C - Correct:** The sequence correctly moves from low activity through expansion to downturn.
+- **D - Incorrect:** Price indices are measures, not cycle phases. It fails this question's stated measure, institution or boundary.
 
-**Answer: D.**
-**Explanation:** India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 31:** Actual cycles are irregular even when the teaching sequence is stylised.
 
-### Q45. Which statement correctly identifies Imported commodity pass-through?
+### MCQ 32
 
-A. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-B. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-C. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-D. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
+Why is the two-negative-quarter rule insufficient by itself for India?
 
-**Answer: A.**
-**Explanation:** The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of Imported commodity pass-through?
-
-A. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-B. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-C. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-D. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-
-**Answer: B.**
-**Explanation:** The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses Imported commodity pass-through without losing its vintage, basket or legal status?
-
-A. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-B. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-C. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-D. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-
-**Answer: C.**
-**Explanation:** The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Imported commodity pass-through?
-
-A. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-B. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-C. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-D. The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
+- A. India has no quarterly GDP estimates
+- B. Only WPI can date a recession
+- C. Annual growth can never be used
+- D. Seasonal adjustment, breadth, revisions and the absence of one statutory dating committee require a wider dashboard
 
 **Answer: D.**
-**Explanation:** The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q49. Which statement correctly identifies Food-price administration?
+**Option-specific explanations:**
 
-A. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-B. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-C. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-D. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
+- **A - Incorrect:** MoSPI publishes quarterly national accounts. It fails this question's stated measure, institution or boundary.
+- **B - Incorrect:** WPI is a price index and cannot alone date activity cycles.
+- **C - Incorrect:** Annual data remain relevant, though less timely for turning points.
+- **D - Correct:** A technical rule is a shorthand and does not establish severity or economy-wide diffusion.
 
-**Answer: A.**
-**Explanation:** Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 32:** State whether growth is year-on-year or seasonally adjusted quarter-on-quarter.
 
-### Q50. Which option preserves the accounting or regulatory boundary of Food-price administration?
-
-A. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-B. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-C. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-D. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-
-**Answer: B.**
-**Explanation:** Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses Food-price administration without losing its vintage, basket or legal status?
-
-A. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-B. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-C. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-D. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-
-**Answer: C.**
-**Explanation:** Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Food-price administration?
-
-A. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-B. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-C. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-D. Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-
-**Answer: D.**
-**Explanation:** Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies Index divergence?
-
-A. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-B. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-C. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-D. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-
-**Answer: A.**
-**Explanation:** CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of Index divergence?
-
-A. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-B. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-C. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-D. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-
-**Answer: B.**
-**Explanation:** CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses Index divergence without losing its vintage, basket or legal status?
-
-A. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-B. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-C. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-D. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-
-**Answer: C.**
-**Explanation:** CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Index divergence?
-
-A. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-B. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-C. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-D. CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-
-**Answer: D.**
-**Explanation:** CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Inflation targeting framework?
-
-A. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-B. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-C. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-D. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-
-**Answer: A.**
-**Explanation:** India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Inflation targeting framework?
-
-A. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-B. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-C. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-D. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-
-**Answer: B.**
-**Explanation:** India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Inflation targeting framework without losing its vintage, basket or legal status?
-
-A. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-B. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-C. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-D. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-
-**Answer: C.**
-**Explanation:** India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Inflation targeting framework?
-
-A. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-B. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-C. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-D. India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision.
-
-**Answer: D.**
-**Explanation:** India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies Distributional incidence?
-
-A. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-B. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-C. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-D. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-
-**Answer: A.**
-**Explanation:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of Distributional incidence?
-
-A. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-B. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-C. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-D. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-
-**Answer: B.**
-**Explanation:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses Distributional incidence without losing its vintage, basket or legal status?
-
-A. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-B. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-C. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-D. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-
-**Answer: C.**
-**Explanation:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Distributional incidence?
-
-A. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-B. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-C. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-D. Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-
-**Answer: D.**
-**Explanation:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Phillips-curve limit?
-
-A. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-B. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-C. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-D. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-
-**Answer: A.**
-**Explanation:** The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Phillips-curve limit?
-
-A. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-B. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-C. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-D. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-
-**Answer: B.**
-**Explanation:** The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Phillips-curve limit without losing its vintage, basket or legal status?
-
-A. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-B. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-C. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-D. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-
-**Answer: C.**
-**Explanation:** The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Phillips-curve limit?
-
-A. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-B. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-C. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-D. The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-
-**Answer: D.**
-**Explanation:** The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Business-cycle sequence?
-
-A. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-B. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-C. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-D. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-
-**Answer: A.**
-**Explanation:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Business-cycle sequence?
-
-A. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-B. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-C. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-D. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-
-**Answer: B.**
-**Explanation:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Business-cycle sequence without losing its vintage, basket or legal status?
-
-A. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-B. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-C. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-D. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-
-**Answer: C.**
-**Explanation:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Business-cycle sequence?
-
-A. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-B. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-C. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-D. Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-
-**Answer: D.**
-**Explanation:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Demand determinants and deficit finance?
-
-A. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-B. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-C. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-D. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-
-**Answer: A.**
-**Explanation:** Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Demand determinants and deficit finance?
-
-A. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-B. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-C. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-D. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-
-**Answer: B.**
-**Explanation:** Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Demand determinants and deficit finance without losing its vintage, basket or legal status?
-
-A. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-B. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-C. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-D. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-
-**Answer: C.**
-**Explanation:** Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Demand determinants and deficit finance?
-
-A. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-B. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-C. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-D. Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly.
-
-**Answer: D.**
-**Explanation:** Consumer demand depends on income, expectations and substitute or complement prices, an inferior good can gain demand when income falls, and direct deficit monetisation is generally the most inflationary financing route because it expands reserve money directly. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Price-series break discipline?
-
-A. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-B. Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-C. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-D. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-
-**Answer: A.**
-**Explanation:** MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Price-series break discipline?
-
-A. Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-B. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-C. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-D. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-
-**Answer: B.**
-**Explanation:** MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Price-series break discipline without losing its vintage, basket or legal status?
-
-A. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-B. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-C. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-D. CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-
-**Answer: C.**
-**Explanation:** MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Price-series break discipline?
-
-A. Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-B. The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-C. WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-D. MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-
-**Answer: D.**
-**Explanation:** MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### VERIFIED PYQ ROUTES AND KEY DISCIPLINE
 
-The audited ledgers route 2019 GS-III on growth with low inflation, 2022 GS-II on managing inflation and unemployment beyond welfare schemes, and 2024 GS-III on food inflation and RBI effectiveness here. Objective routes on CPI-WPI, demand determinants, deficit monetisation and demand-pull inflation remain unkeyed in this package.
+The following seven demands are retained from the repository's audited routing ledgers and local official-paper OCR. No final official/local answer key is available here for the four objective questions, and UPSC does not publish official model answers for the three descriptive questions. Therefore every verified PYQ carries the exact withholding sentence rather than an inferred official answer.
 
-### OWNER PYQ LEDGER EXTRACTS
+#### PYQ 1 - UPSC Mains 2019, GS Paper III, Question 2
 
-#### 9. PYQ application
+**Question:** Do you agree with the view that steady GDP growth and low inflation have left the Indian economy in good shape? Give reasons in support of your arguments. (Answer in 150 words)
 
-- ⚠️ 2024 GS-III: Causes of persistent food inflation and limits of RBI monetary policy.
-- ⚠️ Use PYQ logic to separate supply repair, fiscal action and monetary expectation
-  management.
+Answer withheld pending official UPSC key.
 
-#### Recent PYQ Integration (2024-2025)
+**Answer route:** Define the apparent favourable combination; test employment, investment, credit, distribution and sectoral balance; distinguish cyclical low inflation from demand weakness; conclude that headline aggregates require a broader macro dashboard.
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+#### PYQ 2 - UPSC Prelims 2020, GS Paper I, Question 67
 
-- **Years represented:** 2024
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
+**Question:** Consider the following statements:
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-III | 2 | Causes of high food inflation and effectiveness of RBI monetary policy | Comment · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+1. The weightage of food in Consumer Price Index (CPI) is higher than that in Wholesale Price Index (WPI).
+2. The WPI does not capture changes in the prices of services, which CPI does.
+3. Reserve Bank of India has now adopted WPI as its key measure of inflation and to decide on changing the key policy rates.
 
-##### What this owner must now support
+Which of the statements given above is/are correct?
 
-- Causes of high food inflation and effectiveness of RBI monetary policy
+- A. 1 and 2 only
+- B. 2 only
+- C. 3 only
+- D. 1, 2 and 3
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+Answer withheld pending official UPSC key.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Concept audit:** Apply the series applicable to the question year, distinguish consumer and wholesale coverage, and do not retrofit the 2026 base revisions into a 2020 paper.
 
-#### Historical PYQ Integration (2018-2023)
+#### PYQ 3 - UPSC Prelims 2021, GS Paper I, Question 4
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+**Question:** Consider the following statements. Other things remaining unchanged, market demand for a good might increase if:
 
-- **Years represented:** 2019, 2020, 2021, 2022
-- **Paper(s):** GS-II, GS-III, Prelims GS-I
-- **Routed question demands:** 6
+1. the price of its substitute increases;
+2. the price of its complement increases;
+3. the good is an inferior good and income of the consumers increases;
+4. its price falls.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | GS-III | 2 | GDP growth and low inflation assessment of Indian economy | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | Prelims GS-I | 67 | CPI and WPI food weightage services and RBI measure | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 4 | Demand determinants substitute complement and inferior goods | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 10 | Most inflationary method of financing budget deficit | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 12 | Demand-pull inflation causes in Indian economy | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | GS-II | 16 | Managing inflation and unemployment beyond welfare schemes | Discuss · 15 marks · 250 words | Cross-cutting; both Economy routes terminate in answer-complete Core | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+Which of the above statements are correct?
 
-##### What this owner must now support
+Answer withheld pending official UPSC key.
 
-- GDP growth and low inflation assessment of Indian economy
-- CPI and WPI food weightage services and RBI measure
-- Demand determinants substitute complement and inferior goods
-- Most inflationary method of financing budget deficit
-- Demand-pull inflation causes in Indian economy
-- Managing inflation and unemployment beyond welfare schemes
+**Concept audit:** A substitute-price increase and own-price fall can raise demand or quantity demanded respectively; a complement-price increase and higher income for an inferior good work in the opposite direction. Preserve the demand-versus-quantity-demand distinction.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+#### PYQ 4 - UPSC Prelims 2021, GS Paper I, Question 10
 
-#### 10. PYQ-based analytical application
+**Question:** Which one of the following is likely to be the most inflationary in its effects?
 
-- ⚠️ 2024 GS-III: Causes of persistent food inflation and limits of RBI monetary policy.
-- ⚠️ Use PYQ logic to separate supply repair, fiscal action and monetary expectation
-  management.
+- A. Repayment of public debt
+- B. Borrowing from the public to finance a budget deficit
+- C. Borrowing from banks to finance a budget deficit
+- D. Creation of new money to finance a budget deficit
 
-#### Historical PYQ Integration (2018-2023)
+Answer withheld pending official UPSC key.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+**Concept audit:** Compare direct reserve-money creation with financing that reallocates existing purchasing power; retain the qualification that final inflation also depends on slack, velocity and supply.
 
-- **Years represented:** 2022
-- **Paper(s):** GS-II
-- **Routed question demands:** 1
+#### PYQ 5 - UPSC Prelims 2021, GS Paper I, Question 12
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2022 | GS-II | 16 | Managing inflation and unemployment beyond welfare schemes | Discuss · 15 marks · 250 words | Cross-cutting; the stem names both inflation and unemployment | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**Question:** With reference to the Indian economy, demand-pull inflation can be caused or increased by which of the following?
 
-##### What this owner must now support
+1. Expansionary policies
+2. Fiscal stimulus
+3. Inflation-indexing wages
+4. Higher purchasing power
+5. Rising interest rates
 
-- Managing inflation and unemployment beyond welfare schemes
+Answer withheld pending official UPSC key.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Concept audit:** Separate initial aggregate-demand impulses from persistence mechanisms and contractionary interest-rate effects.
 
-### PYQ DEMAND CARD 1 — 2019 GS-III
+#### PYQ 6 - UPSC Mains 2022, GS Paper II, Question 16
 
-**Demand:** Discuss the Indian economy's GDP-growth and low-inflation combination.
+**Question:** Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss. (Answer in 250 words)
 
-**Status:** Verified routed Mains demand; original model solution.
+Answer withheld pending official UPSC key.
 
-**Model solution:** **Inflation, disinflation and deflation:** Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level. **Demand-pull inflation:** Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity. **Output gap and stagflation:** A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment. **Index divergence:** CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Answer route:** Link food-weighted real-income loss, unindexed informal work, the employment cost of blunt disinflation, supply repair, labour-intensive growth, skills and targeted protection.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2019 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+#### PYQ 7 - UPSC Mains 2024, GS Paper III, Question 2
 
-**Detailed examiner-grade model answer:**
+**Question:** What are the causes of persistent high food inflation in India? Comment on the effectiveness of the monetary policy of the RBI to control this type of inflation. (Answer in 150 words)
 
-**Introduction and thesis:** **Inflation, disinflation and deflation:** Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level. **Demand-pull inflation:** Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity. **Output gap and stagflation:** A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment. **Index divergence:** CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+Answer withheld pending official UPSC key.
 
-**Analytical body:**
+**Answer route:** Classify production, climate, storage, logistics, trade, imported-input and expectation channels; credit RBI for anchoring second-round effects but assign physical bottlenecks to fiscal and supply policy.
 
-1. **Claim and named evidence:** Demand: Discuss the Indian economy's GDP-growth and low-inflation combination. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+### ORIGINAL MAINS 1 - 10 MARKS
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Question:** Distinguish inflation, disinflation, deflation, reflation and stagflation. Answer in 150 words.
 
-**Qualified conclusion:** **Inflation, disinflation and deflation:** Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level. **Demand-pull inflation:** Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity. **Output gap and stagflation:** A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment. **Index divergence:** CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Model answer:**
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+Inflation is a sustained rise in the general price level; its rate is the percentage change in a stated index. Disinflation means this positive rate falls, so prices may still rise. Deflation is a sustained fall in the general price level and can increase real debt burdens and weaken output. Reflation is deliberate policy support to restore demand and prices from depressed conditions. Stagflation combines inflation with stagnant output and weak employment, often after an adverse supply shock.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+India's pandemic experience shows why the distinctions matter: logistics disruption raised essential prices despite slack. Demand-led inflation supports restraint; supply-led stagflation requires bottleneck repair plus credible expectation management. A single commodity spike is not automatically general inflation, while lower inflation does not restore the old price level. Precise vocabulary is therefore the first step in policy assignment.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2019 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+### ORIGINAL MAINS 2 - 10 MARKS
 
-### PYQ DEMAND CARD 2 — 2022 GS-II
+**Question:** Compare CPI, WPI and the GDP deflator as inflation measures. Answer in 150 words.
 
-**Demand:** Discuss managing inflation and unemployment beyond welfare schemes.
+**Model answer:**
 
-**Status:** Verified cross-cutting Mains demand; original model solution.
+CPI measures retail prices of a representative household-consumption basket. It includes goods, services and imported consumption; headline CPI is India's policy anchor. MoSPI introduced the current 2024=100 series on 12 February 2026 with HCES 2023-24 weights.
 
-**Model solution:** **Policy assignment:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. **Distributional incidence:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Phillips-curve limit:** The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together. **Business-cycle sequence:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+WPI, compiled by the Office of Economic Adviser, DPIIT, tracks wholesale/basic prices of goods and excludes services. Its 2022-23-base series was released for May 2026. It signals commodity and pipeline cost pressure but is not a household cost-of-living index.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2022 GS-II”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+The GDP deflator equals nominal GDP divided by real GDP multiplied by 100. It covers domestically produced final goods and services, excludes imports directly and has a changing production mix. It is broad but revised with national accounts and less timely monthly. Thus CPI suits consumer welfare and targeting, WPI pipeline analysis, and the deflator domestic-output prices.
 
-**Detailed examiner-grade model answer:**
+### ORIGINAL MAINS 3 - 15 MARKS
 
-**Introduction and thesis:** **Policy assignment:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. **Distributional incidence:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Phillips-curve limit:** The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together. **Business-cycle sequence:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Question:** Explain the major sources of inflation in India and show how headline, core, food and fuel measures aid diagnosis. Answer in 250 words.
 
-**Analytical body:**
+**Model answer:**
 
-1. **Claim and named evidence:** Demand: Discuss managing inflation and unemployment beyond welfare schemes. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified cross-cutting Mains demand; original model solution. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+Inflation is a sustained rise in the general price level, but its policy meaning depends on source, breadth and persistence. Demand-pull inflation arises when aggregate spending exceeds available capacity; fiscal stimulus, rapid credit growth or strong purchasing power can close the output gap. Cost-push inflation follows higher wages, taxes, freight or input prices. Supply shocks arise from crop loss, storage and transport failures or administered-price changes. Imported inflation transmits global crude, edible-oil, fertiliser and freight costs through the exchange rate and domestic supply chains.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+Headline CPI records the full consumer basket and therefore captures the prices households actually face. CFPI isolates food pressure, while fuel components reveal energy pass-through. Core inflation, conventionally headline excluding food and fuel, helps assess underlying persistence; however, it is an analytical construct and can itself be distorted by unusual items. Economic Survey 2025-26, for example, examined precious metals when interpreting core pressure.
 
-**Qualified conclusion:** **Policy assignment:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. **Distributional incidence:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Phillips-curve limit:** The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together. **Business-cycle sequence:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+The categories interact. A vegetable shock is initially relative and supply-led, but repeated shocks can alter wages, margins and expectations. Rural inflation may also be more volatile because food has a larger budget role. Policy must therefore combine RBI action against broad demand and second-round effects with buffers, logistics, calibrated trade, tax measures and productivity improvements. The qualification is crucial: no component is dispensable, and no single index reproduces every household's experienced inflation.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+### ORIGINAL MAINS 4 - 15 MARKS
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+**Question:** Examine the welfare and distributional effects of inflation through real wages, interest rates, debt and indexation. Answer in 250 words.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2022 GS-II”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Model answer:**
 
-### PYQ DEMAND CARD 3 — 2024 GS-III
+Inflation changes welfare by altering real purchasing power and the value of nominal contracts. A worker whose money wage rises more slowly than CPI suffers a real-wage loss. The same applies to pensions and fixed incomes, with a sharper burden on poorer households because food and fuel occupy larger budget shares and cash forms a greater share of liquid wealth.
 
-**Demand:** Comment on causes of persistent food inflation and the effectiveness of RBI monetary policy.
+The Fisher relation shows the interest channel: the ex ante real rate is approximately the nominal rate minus expected inflation. Unexpected inflation lowers the real value of fixed nominal repayment, benefiting a fixed-rate borrower and hurting the lender; unexpected deflation reverses the transfer. This result is not universal because floating rates reprice and borrowers may lose employment or income during tightening.
 
-**Status:** Verified routed Mains demand; original model solution.
+Inflation tax is the erosion of real non-interest-bearing money balances. Governments may receive seigniorage or nominal tax gains, but also face higher indexed expenditure, welfare pressure and borrowing costs. CPI-IW-linked dearness allowance protects many covered employees and pensioners, demonstrating the value of indexation. Yet informal workers often lack such protection, and every indexed contract retains basis and adjustment-lag risk.
 
-**Model solution:** **Cost-push and supply inflation:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Policy assignment:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. **Food-price administration:** Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response. **Inflation targeting framework:** India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+Thus inflation is distributional, not merely aggregate. Policy should anchor expectations, protect vulnerable households through targeted support and avoid assuming that one national CPI matches every household's basket or that all borrowers gain.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2024 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+### ORIGINAL MAINS 5 - 20 MARKS
 
-**Detailed examiner-grade model answer:**
+**Question:** Critically examine the Phillips curve and output gap as guides to inflation management in India. Answer in 250 words.
 
-**Introduction and thesis:** **Cost-push and supply inflation:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Policy assignment:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. **Food-price administration:** Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response. **Inflation targeting framework:** India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Model answer:**
 
-**Analytical body:**
+The short-run Phillips curve links lower economic slack with stronger wage and price pressure. Where wages and prices adjust slowly, unexpected demand expansion can temporarily raise output and employment, creating an inverse inflation-unemployment relation. The output gap operationalises this logic by comparing actual output with estimated potential output.
 
-1. **Claim and named evidence:** Demand: Comment on causes of persistent food inflation and the effectiveness of RBI monetary policy. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; original model solution. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+Expectations limit the trade-off. Workers and firms incorporate expected inflation into contracts and price setting, shifting the short-run curve. In the long run, unemployment returns toward a structural or equilibrium rate, producing a vertical long-run Phillips curve. NAIRU describes the estimated unemployment rate consistent with non-accelerating inflation; it is neither directly observable nor socially optimal.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+Indian evidence requires caution. RBI's November 2021 Bulletin study found a convex Phillips curve, flatter at low or negative gaps and steeper at high positive gaps. This supports stronger demand pressure near capacity. Yet food, fuel, administered prices, informality and imported shocks can raise inflation during slack, as the pandemic illustrated. Potential output is also model-dependent and revised with national accounts.
 
-**Qualified conclusion:** **Cost-push and supply inflation:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Policy assignment:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. **Food-price administration:** Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response. **Inflation targeting framework:** India's 2016 flexible inflation-targeting framework made headline CPI the formal nominal anchor and assigned the six-member MPC the collective repo-rate decision. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+Therefore the curve and gap are useful inputs, not automatic rules. RBI should combine them with inflation expectations, breadth, credit and external conditions. Government must address agriculture, logistics and energy supply. The qualified conclusion is that stabilisation works best when demand management anchors persistence while structural policy expands potential output.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+### ORIGINAL MAINS 6 - 20 MARKS
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+**Question:** Design a coordinated Indian policy response to persistent food and imported inflation without sacrificing medium-term growth. Answer in 250 words.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2024 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+**Model answer:**
 
-### ORIGINAL MAINS 1 — 10 MARKS
+Persistent food and imported inflation requires diagnosis before restraint. Separate crop and weather losses, perishability, storage and transport gaps, market concentration, trade-policy uncertainty, global commodity prices, freight, exchange-rate pass-through and second-round expectations. CFPI and item-level CPI identify household pressure; WPI goods groups reveal pipeline costs, but neither alone proves the source.
 
-**Question:** Distinguish inflation, disinflation and deflation. Answer in about 150 words.
+Immediate policy should protect consumption and unblock supply. Transparent buffer releases, faster inter-state movement, anti-hoarding enforcement and calibrated imports can address temporary shortages. Targeted transfers or food support protect vulnerable households without universal price suppression. Fuel-tax or subsidy adjustment may soften imported energy pass-through, but its fiscal cost and conservation effect must be explicit.
 
-**Model thesis:** **Claim:** Inflation, disinflation and deflation. **Named evidence/example:** Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Headline and core inflation. **Named evidence/example:** Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Medium-term policy should improve irrigation, climate-resilient seeds, storage, cold chains, market information, competition, processing and energy diversification. Predictable trade rules preserve producer incentives better than abrupt bans. Public investment that raises logistics and farm productivity shifts potential supply outward.
 
-**Claim → named evidence → analysis → qualification:**
+RBI should anchor headline-CPI expectations and prevent food or fuel shocks from spreading into wages and margins. Rate policy, however, cannot produce vegetables or crude oil; excessive tightening during slack can harm MSMEs and jobs. Fiscal support must remain targeted so it does not recreate excess demand.
 
-- Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level.
-- Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline.
-
-**Qualified conclusion:** **Claim:** Inflation, disinflation and deflation. **Named evidence/example:** Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Headline and core inflation. **Named evidence/example:** Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish inflation, disinflation and deflation. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Inflation, disinflation and deflation. **Named evidence/example:** Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Headline and core inflation. **Named evidence/example:** Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Inflation, disinflation and deflation. **Named evidence/example:** Inflation is a sustained rise in the general price level, disinflation is a fall in the inflation rate while prices may still rise, and deflation is a sustained fall in the general price level. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Headline and core inflation. **Named evidence/example:** Headline CPI includes food and fuel, while core inflation conventionally excludes them; relative component movements mean core is not mechanically always below headline. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish inflation, disinflation and deflation. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Why are CPI, WPI and the GDP deflator not interchangeable? Answer in about 150 words.
-
-**Model thesis:** **Claim:** CPI coverage. **Named evidence/example:** CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** WPI coverage. **Named evidence/example:** WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GDP deflator coverage. **Named evidence/example:** The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Index divergence. **Named evidence/example:** CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor.
-- WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure.
-- The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management.
-- CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights.
-
-**Qualified conclusion:** **Claim:** CPI coverage. **Named evidence/example:** CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** WPI coverage. **Named evidence/example:** WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GDP deflator coverage. **Named evidence/example:** The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Index divergence. **Named evidence/example:** CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why are CPI, WPI and the GDP deflator not interchangeable? Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** CPI coverage. **Named evidence/example:** CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** WPI coverage. **Named evidence/example:** WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GDP deflator coverage. **Named evidence/example:** The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Index divergence. **Named evidence/example:** CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** CPI coverage. **Named evidence/example:** CPI is a retail consumer basket that includes services and has a larger food component than WPI; headline CPI is India's formal inflation-targeting nominal anchor. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** WPI coverage. **Named evidence/example:** WPI is a wholesale-goods price index compiled by the Office of the Economic Adviser, excludes services and is not a household cost-of-living measure. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** GDP deflator coverage. **Named evidence/example:** The GDP deflator is derived from nominal and real national accounts and covers domestically produced final goods and services; it is broader but less suited to monthly retail-inflation management. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Index divergence. **Named evidence/example:** CPI, WPI and the GDP deflator can diverge because household services, wholesale goods and domestically produced final output have different coverage and weights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Why are CPI, WPI and the GDP deflator not interchangeable? Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain demand-pull and cost-push inflation with Indian evidence. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Demand-pull inflation. **Named evidence/example:** Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Cost-push and supply inflation. **Named evidence/example:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Lockdown supply shock. **Named evidence/example:** India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Imported commodity pass-through. **Named evidence/example:** The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity.
-- Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-- India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation.
-- The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers.
-
-**Qualified conclusion:** **Claim:** Demand-pull inflation. **Named evidence/example:** Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Cost-push and supply inflation. **Named evidence/example:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Lockdown supply shock. **Named evidence/example:** India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Imported commodity pass-through. **Named evidence/example:** The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain demand-pull and cost-push inflation with Indian evidence. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Demand-pull inflation. **Named evidence/example:** Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Cost-push and supply inflation. **Named evidence/example:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Lockdown supply shock. **Named evidence/example:** India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Imported commodity pass-through. **Named evidence/example:** The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Demand-pull inflation. **Named evidence/example:** Demand-pull inflation arises when aggregate spending grows faster than available output, especially as the positive output gap narrows spare capacity. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Cost-push and supply inflation. **Named evidence/example:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Lockdown supply shock. **Named evidence/example:** India's 2020 lockdown combined activity contraction with transport, mandi and logistics disruption, illustrating why a negative output gap does not guarantee low headline inflation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Imported commodity pass-through. **Named evidence/example:** The 2021-22 commodity surge and Russia-Ukraine war raised crude, edible-oil and fertiliser costs, with pass-through shaped by taxes, subsidies, exchange rates and buffers. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Explain demand-pull and cost-push inflation with Indian evidence. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Assess the distributional effects of inflation and disinflation. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Distributional incidence. **Named evidence/example:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Phillips-curve limit. **Named evidence/example:** The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Business-cycle sequence. **Named evidence/example:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-- The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together.
-- Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-
-**Qualified conclusion:** **Claim:** Distributional incidence. **Named evidence/example:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Phillips-curve limit. **Named evidence/example:** The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Business-cycle sequence. **Named evidence/example:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the distributional effects of inflation and disinflation. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Distributional incidence. **Named evidence/example:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Phillips-curve limit. **Named evidence/example:** The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Business-cycle sequence. **Named evidence/example:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Distributional incidence. **Named evidence/example:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Phillips-curve limit. **Named evidence/example:** The short-run Phillips curve is a demand-management guide rather than a mechanical law; supply shocks can worsen inflation and output together. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Business-cycle sequence. **Named evidence/example:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Assess the distributional effects of inflation and disinflation. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Design a coordinated response to persistent food inflation without weakening farm incentives. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Cost-push and supply inflation. **Named evidence/example:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Policy assignment. **Named evidence/example:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Food-price administration. **Named evidence/example:** Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Distributional incidence. **Named evidence/example:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand.
-- RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks.
-- Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response.
-- Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly.
-
-**Qualified conclusion:** **Claim:** Cost-push and supply inflation. **Named evidence/example:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Policy assignment. **Named evidence/example:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Food-price administration. **Named evidence/example:** Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Distributional incidence. **Named evidence/example:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design a coordinated response to persistent food inflation without weakening farm incentives.…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Cost-push and supply inflation. **Named evidence/example:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Policy assignment. **Named evidence/example:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Food-price administration. **Named evidence/example:** Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Distributional incidence. **Named evidence/example:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Cost-push and supply inflation. **Named evidence/example:** Cost-push inflation arises from input costs or supply constraints, so crop failure, logistics disruption or imported commodity scarcity can raise prices even with weak demand. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Policy assignment. **Named evidence/example:** RBI and the MPC manage demand and expectations through rates, liquidity and communication, while governments use buffers, taxes, trade, logistics and anti-hoarding tools against physical supply shocks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Food-price administration. **Named evidence/example:** Onion-price episodes and Price Stabilisation Fund interventions show why perishables may need buffer, logistics and calibrated trade action rather than a repo-only response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Distributional incidence. **Named evidence/example:** Inflation harms poor and fixed-income households most because food and fuel occupy larger budget shares and indexation such as CPI-IW-linked dearness allowance protects organised workers unevenly. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Design a coordinated response to persistent food inflation without weakening farm incentives.…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Analyse inflation through output gaps, expectations, business cycles and index-vintage discipline. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Output gap and stagflation. **Named evidence/example:** A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Expectations and persistence. **Named evidence/example:** As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Business-cycle sequence. **Named evidence/example:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Price-series break discipline. **Named evidence/example:** MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment.
-- As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent.
-- Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response.
-- MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock.
-
-**Qualified conclusion:** **Claim:** Output gap and stagflation. **Named evidence/example:** A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Expectations and persistence. **Named evidence/example:** As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Business-cycle sequence. **Named evidence/example:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Price-series break discipline. **Named evidence/example:** MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse inflation through output gaps, expectations, business cycles and index-vintage…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Output gap and stagflation. **Named evidence/example:** A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Expectations and persistence. **Named evidence/example:** As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Business-cycle sequence. **Named evidence/example:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Price-series break discipline. **Named evidence/example:** MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Output gap and stagflation. **Named evidence/example:** A negative output gap weakens demand pressure but does not prevent supply-shock inflation; stagflation combines inflation with weak growth or high unemployment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Expectations and persistence. **Named evidence/example:** As price changes broaden, households and workers revise consumption, wage demands and expectations, which can make an initially temporary shock more persistent. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Business-cycle sequence. **Named evidence/example:** Recovery, expansion, peak, slowdown or recession and trough form a stylised business cycle, while potential output and the source of the shock determine the suitable policy response. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Price-series break discipline. **Named evidence/example:** MoSPI began current CPI releases on a 2024=100 series from January 2026 and the Office of the Economic Adviser introduced a 2022-23-base WPI for the May 2026 release onward; a revised basket is a measurement update, not a price shock. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Analyse inflation through output gaps, expectations, business cycles and index-vintage…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+The optimal mix is therefore sequenced: relief and logistics now, credible monetary signalling against persistence, and productivity-enhancing supply reform for durable price stability with growth.

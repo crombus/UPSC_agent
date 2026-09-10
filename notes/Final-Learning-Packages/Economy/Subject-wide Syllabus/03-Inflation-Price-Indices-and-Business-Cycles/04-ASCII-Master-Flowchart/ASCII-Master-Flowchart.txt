@@ -1,74 +1,113 @@
-ASCII MASTER FLOW — PANEL 1/12: Three price-level states
-INFLATION -> prices rise
-DISINFLATION -> prices rise more slowly
-DEFLATION -> general price level falls
-TRAP -> rate change is not level change
-MUST REMEMBER: Inflation is a sustained increase in a chosen price index; distinguish...
-
-ASCII MASTER FLOW — PANEL 2/12: CPI-WPI-deflator matrix
-CPI -> retail basket + services
-WPI -> wholesale goods, no services
-GDP DEFLATOR -> domestic final output
-POLICY ANCHOR -> headline CPI
-
-ASCII MASTER FLOW — PANEL 3/12: Demand-pull chain
-SPENDING > AVAILABLE OUTPUT
--> inventories and spare capacity shrink
--> firms raise prices
-POLICY -> demand restraint can work
-
-ASCII MASTER FLOW — PANEL 4/12: Supply-shock chain
-CROP / OIL / LOGISTICS SHOCK
--> costs or availability worsen
--> prices rise despite weak demand
-POLICY -> repair supply + anchor expectations
-
-ASCII MASTER FLOW — PANEL 5/12: Output gap fork
-NEGATIVE GAP -> weak demand
-POSITIVE GAP -> overheating risk
-SUPPLY SHOCK -> inflation can coexist with negative gap
-STAGFLATION -> inflation + weak growth
-
-ASCII MASTER FLOW — PANEL 6/12: Expectations loop
-PRICE SHOCK
--> wage and price expectations
--> second-round adjustments
--> persistence beyond initial shock
-CLOSE DISTINCTION: Price level is not inflation rate, falling inflation is not falling...
-
-ASCII MASTER FLOW — PANEL 7/12: Policy assignment board
-RBI -> rates + liquidity + communication
-GOVERNMENT -> buffers + tax + trade
-STATES -> logistics + enforcement
-RULE -> tool must match shock
-
-ASCII MASTER FLOW — PANEL 8/12: India shock timeline
-2020 -> lockdown logistics shock
-2021-22 -> global commodity surge
-2016 -> formal CPI-targeting framework
-LESSON -> demand and supply can conflict
-
-ASCII MASTER FLOW — PANEL 9/12: Distributional incidence
-POOR -> high food and fuel share
-FIXED INCOME -> real purchasing power falls
-INDEXED WORKERS -> partial protection
-TIGHTENING -> borrowers and MSMEs bear costs
-
-ASCII MASTER FLOW — PANEL 10/12: Business-cycle rail
-TROUGH -> RECOVERY -> EXPANSION
--> PEAK -> SLOWDOWN / RECESSION
-POLICY DEPENDS ON output gap and shock
-PHILLIPS CURVE -> guide, not law
-
-ASCII MASTER FLOW — PANEL 11/12: Index-series break
-CPI 2024=100 -> releases from JAN 2026
-WPI 2022-23 base -> MAY 2026 onward
-NEW BASKET != NEW INFLATION
-RULE -> no casual level splicing
-
-ASCII MASTER FLOW — PANEL 12/12: Inflation answer spine
-IDENTIFY index + component
-DIAGNOSE demand / cost / supply
-TRACE expectations + distribution
-PRESCRIBE coordinated policy mix
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State index, weights/base, month or year...
+ASCII MASTER FLOW - PANEL 1/12: PRICE LEVEL AND RATE
++--------------------------------------------------------------+
+| Price level = index at a date                                |
+| Inflation = sustained rise; rate = % change in stated index  |
+| disinflation: rate down, level may rise | deflation: level down|
+| reflation: recovery from depressed prices/demand             |
+| stagflation: inflation + weak growth/jobs | hyper: explosive |
++--------------------------------------------------------------+
+                              |
+                              v
+ASCII MASTER FLOW - PANEL 2/12: CAUSAL TAXONOMY
++--------------------------------------------------------------+
+| demand > capacity -> demand-pull                             |
+| input/supply disruption -> cost-push                         |
+| world price + exchange rate -> imported inflation            |
+| wages + margins + expectations -> built-in persistence       |
+| first-round relative shock -> possible second-round breadth  |
++--------------------------------------------------------------+
+                              |
+                              v
+ASCII MASTER FLOW - PANEL 3/12: HEADLINE / FOOD / FUEL / CORE
++--------------------------------------------------------------+
+| Headline = full selected basket                              |
+| CFPI = official consumer-food sub-index                      |
+| Fuel = energy component / pass-through signal                |
+| Core = analytical exclusion, commonly food and fuel removed  |
+| Rule: state definition; core can exceed headline             |
++--------------------------------------------------------------+
+                              |
+                              v
+ASCII MASTER FLOW - PANEL 4/12: CPI 2024 ARCHITECTURE
++--------------------------------------------------------------+
+| Compiler: MoSPI / NSO | release introducing series: 12-02-26 |
+| Base 2024=100 | weights: HCES 2023-24 | 358 weighted items   |
+| Rural + Urban -> Combined by corresponding weights           |
+| COICOP 2018: 12 divisions | Jevons elementary                |
+| Young/Modified Laspeyres higher aggregation                  |
++--------------------------------------------------------------+
+                              |
+                              v
+ASCII MASTER FLOW - PANEL 5/12: CPI FAMILY AND WEIGHTS
++--------------------------------------------------------------+
+| CPI Combined weights: food/beverages 36.753; housing and     |
+| utilities 17.665; transport 8.796; health 6.100              |
+| Labour Bureau: CPI-IW 2016=100; CPI-AL/RL 2019=100           |
+| Purpose/basket differs -> do not substitute one for another  |
++--------------------------------------------------------------+
+                              |
+                              v
+ASCII MASTER FLOW - PANEL 6/12: WPI
++--------------------------------------------------------------+
+| OEA, DPIIT | 2022-23=100 | first current release 15-06-2026  |
+| Primary 22.75730 | Fuel 14.11433 | Manufactures 63.12837     |
+| 957 goods | no services | not household cost of living       |
+| separate PPI products; dated five-year WPI transition plan   |
++--------------------------------------------------------------+
+                              |
+                              v
+ASCII MASTER FLOW - PANEL 7/12: GDP DEFLATOR + INDEX FORMULAE
++--------------------------------------------------------------+
+| Deflator = nominal GDP / real GDP x 100                      |
+| domestic final goods/services | variable production basket   |
+| imports excluded directly; exports included                  |
+| Laspeyres q0 | Paasche qt | Fisher = sqrt(L x P)             |
++--------------------------------------------------------------+
+                              |
+                              v
+ASCII MASTER FLOW - PANEL 8/12: MEASUREMENT RISKS
++--------------------------------------------------------------+
+| annual rate = current momentum + comparison-base influence   |
+| seasonality != cycle | relative price != general inflation   |
+| substitution | quality | new goods | outlets | missing data  |
+| series break -> use official back series/link, not raw splice|
++--------------------------------------------------------------+
+                              |
+                              v
+ASCII MASTER FLOW - PANEL 9/12: REAL EFFECTS
++--------------------------------------------------------------+
+| real wage/income = nominal purchasing power after inflation  |
+| Fisher: r ~= i - expected inflation; exact (1+i)/(1+pi)-1    |
+| unexpected inflation: fixed borrower gains, lender loses     |
+| inflation tax erodes cash; indexation leaves basis/lag risk  |
++--------------------------------------------------------------+
+                              |
+                              v
+ASCII MASTER FLOW - PANEL 10/12: PHILLIPS CURVE
++--------------------------------------------------------------+
+| short run: less slack can raise inflation                    |
+| expectations adjust -> short-run curve shifts                |
+| long run: no permanent trade-off; curve vertical             |
+| NAIRU is estimated, changing, not observable or statutory    |
+| supply shock -> inflation and unemployment can rise together |
++--------------------------------------------------------------+
+                              |
+                              v
+ASCII MASTER FLOW - PANEL 11/12: BUSINESS CYCLE
++--------------------------------------------------------------+
+| trough -> recovery -> expansion -> peak -> contraction       |
+| output gap = (actual-potential)/potential x 100               |
+| leading / coincident / lagging dashboard                      |
+| two negative q-o-q quarters = technical shorthand only       |
+| India: seasonal adjustment + revisions; no statutory dater   |
++--------------------------------------------------------------+
+                              |
+                              v
+ASCII MASTER FLOW - PANEL 12/12: POLICY AND ANSWER SPINE
++--------------------------------------------------------------+
+| define -> choose/date index -> diagnose source/breadth        |
+| -> locate cycle -> trace expectations/real/distribution      |
+| -> RBI for demand/expectations (Topic 4 instruments)         |
+| -> fiscal/supply tools for bottlenecks + targeted protection |
+| -> qualify lags, revisions, incentives -> balanced verdict   |
++--------------------------------------------------------------+

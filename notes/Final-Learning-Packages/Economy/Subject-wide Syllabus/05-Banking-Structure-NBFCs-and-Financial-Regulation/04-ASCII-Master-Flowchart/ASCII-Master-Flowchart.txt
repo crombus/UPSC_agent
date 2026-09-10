@@ -1,74 +1,147 @@
-ASCII MASTER FLOW — PANEL 1/12: Banking legal perimeter
-SCHEDULED BANK -> Second Schedule status
-COMMERCIAL BANK -> deposits + payments + credit
-CO-OPERATIVE BANK -> member form + banking oversight
-NBFC -> financial company, not full bank powers
-MUST REMEMBER: India's financial system separates scheduled banks, cooperative banks,...
+ASCII MASTER FLOW — PANEL 1/12: WHY BANKING NEEDS SPECIAL REGULATION
++----------------------------------------------------------------------------------+
+| Public deposits -> payment promise -> loans/investments -> growth                 |
+|        |                 |                    |                                   |
+|        v                 v                    v                                   |
+| runnable liability   settlement risk    credit + market risk                     |
+|                                                                                  |
+| Balance sheet: deposits/borrowings/capital = liabilities and funding             |
+|                cash/RBI balances/loans/investments = assets                      |
+|                                                                                  |
+| Transformation: short/withdrawable funding -> longer, illiquid, risky assets     |
+| Constraint: capital + liquidity + underwriting + demand + regulation             |
++----------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Maturity transformation
-WITHDRAWABLE DEPOSITS
--> pooled bank funding
--> longer loans and investments
-RISK -> liquidity + credit + interest-rate mismatch
+ASCII MASTER FLOW — PANEL 2/12: LEGAL CLASSIFICATION BEFORE OWNERSHIP
++----------------------------------------------------------------------------------+
+| Banking Regulation Act 1949 s.5(b): public deposits for lending/investment,      |
+| repayable on demand or otherwise and withdrawable by cheque/draft/order/etc.     |
+|                                  |                                               |
+| RBI Act 1934 Second Schedule <---+---> scheduled bank                            |
+| s.42(6): Rs 5 lakh capital+reserves floor; depositor-interest test               |
+| Not in Schedule = non-scheduled bank, not an unlicensed or unregulated entity    |
+|                                                                                  |
+| Separate axes: scheduled/non-scheduled | commercial/co-operative | ownership     |
++----------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Multi-tier architecture
-PSB / PRIVATE / FOREIGN
-RRB / CO-OPERATIVE
-SMALL FINANCE BANK
-PAYMENTS BANK
+ASCII MASTER FLOW — PANEL 3/12: COMMERCIAL AND RURAL BANK MAP
++----------------------------------------------------------------------------------+
+| COMMERCIAL: PSB | private Indian bank | foreign branch / local WOS               |
+| Common: RBI licence and prudential supervision; different owner/governance law  |
+|                                                                                  |
+| RRB Act 1976: 50:35:15 = Union 50% + sponsor bank 35% + State 15%                |
+| -> local rural deposits and credit -> RBI banking regulation + NABARD role       |
+|                                                                                  |
+| Ownership supplies capital; board oversees; management lends; RBI supervises     |
+| Trap: public ownership is not prudential regulation or sound management          |
++----------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 4/12: Differentiated-bank fork
-SFB -> deposits + lending
-PAYMENTS BANK -> deposits + payments
-PAYMENTS BANK -> no own-balance-sheet lending
-RULE -> similar licence family, different powers
+ASCII MASTER FLOW — PANEL 4/12: CO-OPERATIVE BANKING AND 2020 AMENDMENT
++----------------------------------------------------------------------------------+
+| Co-operative form: State law / Multi-State law -> members, elections, bye-laws   |
+| Banking function: BR Act s.56 -> RBI licence, prudence, supervision, resolution  |
+|                                                                                  |
+| Banking Regulation (Amendment) Act 2020                                          |
+| UCB provisions effective 29 Jun 2020; StCB/DCCB provisions 1 Apr 2021            |
+| -> stronger RBI governance, capital and reconstruction powers                   |
+| -> registrar functions survive: recalibrated dual control, not total abolition  |
+| PACS are not automatically banks or DICGC-insured institutions                   |
++----------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 5/12: Rural-credit map
-RRB -> rural intermediary
-LEAD BANK -> district coordination
-SERVICE AREA -> local responsibility
-LIMIT -> coverage does not ensure viable credit
+ASCII MASTER FLOW — PANEL 5/12: DIFFERENTIATED BANKS
++----------------------------------------------------------------------------------+
+| LAB: local deposits + local credit within a limited geographic model             |
+|                                                                                  |
+| SFB: deposits + lending                                                          |
+| -> PSL overall 60% of ANBC/CEOBE from FY 2025-26 (RBI, 20 Jun 2025)              |
+| -> >=50% loan portfolio up to Rs 25 lakh: Licensing Guidelines 28-11-2025      |
+|                                                                                  |
+| Payments Bank: current/savings deposits + payments/remittances                   |
+| -> max Rs 2 lakh per customer end-day (Directions updated 1 Apr 2026)            |
+| -> no own-balance-sheet lending; no credit cards                                 |
++----------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 6/12: PSL target board
-MOST DOMESTIC BANKS -> 40 per cent overall
-AGRICULTURE -> 18 per cent
-SMALL/MARGINAL FARMERS -> 10 per cent
-WEAKER SECTIONS -> 12 per cent
-CLOSE DISTINCTION: Bank is not NBFC, deposit-taking permission is not universal,...
+ASCII MASTER FLOW — PANEL 6/12: INCLUSION DELIVERY
++----------------------------------------------------------------------------------+
+| Bank -> appoints and remains responsible for Business Correspondent              |
+| BC -> last-mile cash/account/remittance interface; agent, not deposit principal  |
+|                                                                                  |
+| Priority Sector Lending -> portfolio allocation to notified sectors              |
+| Most domestic banks: 40% overall under direction effective 1 Apr 2025            |
+| SFB: 60% overall from FY 2025-26; ratio is regulatory, not constitutional        |
+|                                                                                  |
+| Access -> usage -> suitable credit -> income/repayment -> durable inclusion       |
+| Trap: account/target completion alone does not prove welfare outcome             |
++----------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 7/12: PSL status gate
-TARGETS COME FROM RBI MASTER DIRECTIONS
-CATEGORIES AND SUB-TARGETS CAN CHANGE
-QUOTE THE EFFECTIVE DIRECTION
-DO NOT CALL A RATIO PERMANENT
+ASCII MASTER FLOW — PANEL 7/12: REGULATORY LIFECYCLE AND PCA
++----------------------------------------------------------------------------------+
+| Entry: BR Act s.22 licence -> prudential/conduct rules -> reporting/inspection   |
+| -> enforcement -> reconstruction/amalgamation under applicable banking law       |
+|                                                                                  |
+| PCA circular 2 Nov 2021; effective 1 Jan 2022 for covered SCBs                   |
+| monitors CRAR/CET1 | NNPA 6/9/12% bands | Tier-1 leverage                       |
+| actions: dividends/capital -> branches -> capex + discretionary risk controls    |
+| exit: four continuous clean quarters incl. one audited + RBI comfort             |
+| PCA != resolution != DICGC payout                                                |
++----------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 8/12: NBFC contagion chain
-WHOLESALE FUNDING + MATURITY MISMATCH
--> IL&FS / DHFL stress
--> mutual funds + banks + markets
-LESSON -> non-bank stress can be systemic
+ASCII MASTER FLOW — PANEL 8/12: DICGC SAFETY-NET BOUNDARY
++----------------------------------------------------------------------------------+
+| DICGC Act 1961 -> statutory deposit insurer; wholly owned RBI subsidiary         |
+| Limit effective 4 Feb 2020: Rs 5 lakh, principal + interest                      |
+| Unit: per depositor per bank, same right and same capacity, all branches         |
+| Different banks -> separate bank-wise cover; distinct legal capacity may differ |
+| Covered: eligible bank deposits in insured commercial/RRB/LAB/co-op banks        |
+| Excluded: NBFC deposits, securities, mutual funds, insurance products            |
+| Safety chain: supervision -> PCA -> resolution -> insured reimbursement          |
++----------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 9/12: Depositor protection boundary
-DICGC -> eligible bank deposits
-OWNER CAP -> Rs 5 lakh per depositor per bank
-OUT -> securities + insurance + ordinary NBFC claims
-PCA -> prevention, not payout
+ASCII MASTER FLOW — PANEL 9/12: NBFC IDENTITY AND LIABILITY AXIS
++----------------------------------------------------------------------------------+
+| RBI FAQ updated 29 Apr 2026: principal business = 50-50 test                     |
+| financial assets >50% total assets AND financial income >50% gross income        |
+| General registration NOF Rs 10 crore from 1 Oct 2022; transition 31 Mar 2027     |
+|                                                                                  |
+| NBFC-D: specifically authorised public deposits | no DICGC                       |
+| NBFC-ND: no public deposits | may use banks, CP, debentures, group funding       |
+| Ordinary NBFC: no demand deposits, own cheques or payment-system membership      |
+| Credit claims may expand; bank-deposit money creation remains distinct           |
++----------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 10/12: Regulatory perimeter
-RBI -> banks + NBFCs + payments
-SEBI -> securities
-IRDAI / PFRDA -> insurance / pensions
-FSDC -> cross-sector coordination
+ASCII MASTER FLOW — PANEL 10/12: SCALE-BASED REGULATION
++----------------------------------------------------------------------------------+
+| RBI SBR Directions 2025, updated 1 Jul 2026                                     |
+| BASE: ND below Rs 1,000 cr + P2P + AA + NOFHC + Type-I                          |
+| MIDDLE: all NBFC-D + ND Rs 1,000 cr+ + SPD/IDF/CIC/HFC/IFC                      |
+| UPPER: audited assets Rs 1,00,000 cr+ (Second Amendment, 24 Jun 2026)            |
+| TOP: expected empty; exceptional severe-risk escalation                          |
+|                                                                                  |
+| Logic: size + activity + perceived risk -> stronger governance/prudence          |
+| Trap: size alone does not place every specialised NBFC                           |
++----------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 11/12: Balance-sheet and inclusion traps
-LOANS / INVESTMENTS -> assets
-DEPOSITS -> liabilities
-FI-INDEX -> Access + Usage + Quality
-SYNDICATION -> shared exposure, not zero risk
+ASCII MASTER FLOW — PANEL 11/12: SPECIALISED NBFC AND SYSTEMIC-RISK MAP
++----------------------------------------------------------------------------------+
+| CIC 90/60 group exposure | HFC 60/50 housing | MFI 75%, income <=Rs 3 lakh       |
+| Factor 50/50 assets/income | P2P no own lending/guarantee | AA data-only consent |
+|                                                                                  |
+| Wholesale short funding -> long assets -> rollover shock -> fire sale            |
+| -> mutual funds + banks + bond market + borrowers -> systemic contagion          |
+| Named evidence: IL&FS 2018 and DHFL stress                                       |
+| Response: ALM + liquidity + concentration + group supervision + conduct rules    |
+| Trap: shadow banking is non-bank intermediation, not necessarily illegal finance |
++----------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 12/12: Financial-regulation answer spine
-CLASSIFY institution and powers
-MAP funding + leverage + safety net
-TRACE contagion and supervision
-BALANCE inclusion, diversity and stability
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify regulator, statute/direction,...
+ASCII MASTER FLOW — PANEL 12/12: DFI MAP AND MAINS ANSWER SPINE
++----------------------------------------------------------------------------------+
+| NABARD (1982): agriculture/rural refinance, development and rural supervision    |
+| SIDBI (2 Apr 1990): principal MSME promotion, finance and development body       |
+| NaBFID Act effective 19 Apr 2021: infrastructure DFI; RBI AIFI oversight 2022    |
+|                                                                                  |
+| ANSWER: classify entity -> map liabilities/assets -> trace mismatch/contagion    |
+| -> assign owner/board/management/regulator/DICGC -> test inclusion and conduct   |
+| -> choose proportional prudence + consolidated supervision + credible exit       |
+|                                                                                  |
+| Verdict: preserve diversity; regulate equivalent risk equivalently               |
++----------------------------------------------------------------------------------+

@@ -1,1136 +1,894 @@
 ---
-title: "Securities, Bonds, Equity, Derivatives and Investment Funds — Solved Practice Workbook"
-topic_key: economy-08
+title: "Economy Topic 8: Solved Practice Workbook"
+topic_key: economy-topic-08-securities-bonds-equity-derivatives-investment-funds
 ---
-# Securities, Bonds, Equity, Derivatives and Investment Funds — Solved Practice Workbook
+
+# Economy Topic 8 — Solved Practice Workbook
+
+**Current-law cutoff:** 9 September 2026  
+**Instruction:** answer before reading the option explanations. Nothing here is investment advice.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Bond claim?
+Exactly 32 original MCQs cover claims, bond mathematics, equity ratios, derivatives, funds, regulation
+and systemic risk. Correct options rotate A -> B -> C -> D eight times.
 
-A. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-B. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-C. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-D. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
+### MCQ 1
 
-**Answer: A.**
-**Explanation:** A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+Which statement most accurately distinguishes a bond from an ordinary equity share?
 
-### Q2. Which option preserves the accounting or regulatory boundary of Bond claim?
-
-A. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
-B. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-C. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-D. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-
-**Answer: B.**
-**Explanation:** A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses Bond claim without losing its vintage, basket or legal status?
-
-A. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-B. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-C. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-D. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
-
-**Answer: C.**
-**Explanation:** A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Bond claim?
-
-A. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-B. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
-C. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-D. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-
-**Answer: D.**
-**Explanation:** A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies Equity claim?
-
-A. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-B. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-C. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-D. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
+- A. A bond is a creditor claim with contractual payments; equity is a residual ownership claim
+- B. Both are ownership claims with identical voting rights
+- C. Equity promises principal repayment at a fixed maturity
+- D. A bondholder is always paid in full before every other claimant
 
 **Answer: A.**
-**Explanation:** Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q6. Which option preserves the accounting or regulatory boundary of Equity claim?
+**Option-specific explanations:**
 
-A. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
-B. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-C. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-D. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
+- **A - Correct:** Debt-equity classification begins with legal claim, payment obligation and residual status.
+- **B - Incorrect:** Bondholders are creditors and ordinarily do not possess the voting position of ordinary shareholders.
+- **C - Incorrect:** Ordinary equity has no contractual maturity or promised redemption of principal.
+- **D - Incorrect:** Priority is relative and actual recovery depends on security, seniority, assets and insolvency law.
+
+**Examiner trap 1:** Do not convert relative repayment priority into a guarantee of full recovery.
+
+### MCQ 2
+
+Consider the following statements:
+
+1. A secured bond has recourse to specified collateral.
+2. A subordinated bond ranks behind senior debt.
+3. Every listed bond is sovereign-guaranteed.
+
+Which statements are correct?
+
+- A. 1 only
+- B. 1 and 2 only
+- C. 2 and 3 only
+- D. 1, 2 and 3
 
 **Answer: B.**
-**Explanation:** Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q7. Which statement uses Equity claim without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
-B. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-C. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-D. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
+- **A - Incorrect:** Statement 2 also correctly identifies the lower priority of subordinated debt.
+- **B - Correct:** Security and seniority are separate dimensions, and neither listing nor rating assures repayment.
+- **C - Incorrect:** Statement 1 is correct, while exchange listing does not create a sovereign guarantee.
+- **D - Incorrect:** The first two are contractual distinctions; statement 3 invents a guarantee unrelated to listing.
+
+**Examiner trap 2:** Listed, secured, senior and guaranteed are four different attributes.
+
+### MCQ 3
+
+A bond's coupon rate is best defined as:
+
+- A. Annual coupon divided by current market price
+- B. The discount rate equating all cash flows with current price
+- C. Annual contractual coupon divided by face value
+- D. The bond's annual capital gain divided by issue price
 
 **Answer: C.**
-**Explanation:** Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Equity claim?
+**Option-specific explanations:**
 
-A. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-B. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
-C. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-D. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
+- **A - Incorrect:** That calculation is current yield rather than coupon rate.
+- **B - Incorrect:** That is yield to maturity under its assumptions.
+- **C - Correct:** The coupon rate is written into the contract against face value and can differ from market-based yields.
+- **D - Incorrect:** Capital gain is not the contractual coupon calculation.
+
+**Examiner trap 3:** Coupon rate does not automatically equal current yield or realised return.
+
+### MCQ 4
+
+Why does the market price of a plain fixed-coupon bond generally fall when required yield rises?
+
+- A. The issuer automatically cuts the printed coupon
+- B. The bond's face value rises above redemption value
+- C. Every rise in yield proves immediate issuer default
+- D. A higher discount rate lowers the present value of fixed promised cash flows
 
 **Answer: D.**
-**Explanation:** Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q9. Which statement correctly identifies Coupon and yield?
+**Option-specific explanations:**
 
-A. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-B. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-C. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-D. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
+- **A - Incorrect:** A fixed coupon does not reset merely because market yields move.
+- **B - Incorrect:** Face and redemption terms ordinarily remain contractual constants.
+- **C - Incorrect:** Interest-rate repricing can occur without a change in creditworthiness.
+- **D - Correct:** Present-value discounting produces the inverse relationship for fixed cash flows.
+
+**Examiner trap 4:** A yield move can reflect benchmark rates, credit spreads or liquidity; identify the driver.
+
+### MCQ 5
+
+A bond pays an annual coupon of Rs 8 and trades at Rs 80. Its current yield is:
+
+- A. 10 per cent
+- B. 8 per cent
+- C. 12.5 per cent
+- D. Impossible without knowing maturity
 
 **Answer: A.**
-**Explanation:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q10. Which option preserves the accounting or regulatory boundary of Coupon and yield?
+**Option-specific explanations:**
 
-A. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-B. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-C. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-D. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
+- **A - Correct:** Current yield equals 8 divided by 80 multiplied by 100.
+- **B - Incorrect:** Eight per cent would be the coupon rate if face value were Rs 100.
+- **C - Incorrect:** This reverses the numerator and denominator of the current-yield formula.
+- **D - Incorrect:** Maturity is required for YTM but not for annual coupon divided by market price.
+
+**Examiner trap 5:** Current yield omits redemption gain or loss and reinvestment.
+
+### MCQ 6
+
+Which statement about duration is correct?
+
+1. Modified duration approximates percentage price sensitivity to a small yield change.
+2. Longer duration generally means greater interest-rate sensitivity.
+3. Duration is the probability of issuer default.
+
+- A. 1 only
+- B. 1 and 2 only
+- C. 2 and 3 only
+- D. 1, 2 and 3
 
 **Answer: B.**
-**Explanation:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q11. Which statement uses Coupon and yield without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-B. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-C. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-D. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
+- **A - Incorrect:** Statement 2 follows directly from duration as a sensitivity measure.
+- **B - Correct:** Duration measures cash-flow timing and local price sensitivity, while convexity refines the estimate.
+- **C - Incorrect:** Statement 3 confuses market-rate sensitivity with credit analysis.
+- **D - Incorrect:** The first two are correct; duration does not estimate default probability.
+
+**Examiner trap 6:** Maturity and duration are related but not identical.
+
+### MCQ 7
+
+Which risk arises when coupon cash flows must be reinvested at an uncertain future rate?
+
+- A. Settlement principal risk
+- B. Dilution risk
+- C. Reinvestment risk
+- D. Custody risk
 
 **Answer: C.**
-**Explanation:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Coupon and yield?
+**Option-specific explanations:**
 
-A. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-B. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
-C. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-D. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
+- **A - Incorrect:** That concerns one transaction leg completing without the other.
+- **B - Incorrect:** Dilution concerns an expanding equity base or conversion into shares.
+- **C - Correct:** Reinvestment risk changes the realised compound return even when promised coupons are paid.
+- **D - Incorrect:** Custody risk concerns safekeeping and ownership records, not future coupon rates.
+
+**Examiner trap 7:** Falling rates can raise bond prices while lowering reinvestment income.
+
+### MCQ 8
+
+A zero-coupon bond ordinarily:
+
+- A. Resets its coupon periodically to a benchmark
+- B. Pays inflation compensation every month
+- C. Allows the holder to demand early redemption in every case
+- D. Makes no periodic coupon payment and is issued below redemption value
 
 **Answer: D.**
-**Explanation:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q13. Which statement correctly identifies Price-yield relationship?
+**Option-specific explanations:**
 
-A. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-B. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-C. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-D. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
+- **A - Incorrect:** That describes a floating-rate bond.
+- **B - Incorrect:** Inflation indexation is a separate cash-flow feature.
+- **C - Incorrect:** A put right must be expressly embedded in the contract.
+- **D - Correct:** The investor's return arises from the discount-to-redemption difference, subject to credit and market risk.
+
+**Examiner trap 8:** Zero coupon does not mean zero yield or zero duration.
+
+### MCQ 9
+
+A floating-rate bond most directly reduces:
+
+- A. Fixed-coupon price sensitivity around its reset dates
+- B. All default risk of the issuer
+- C. All basis risk
+- D. All inflation risk for every investor
 
 **Answer: A.**
-**Explanation:** For a fixed cash-flow bond, market price and comparable yield generally move inversely. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q14. Which option preserves the accounting or regulatory boundary of Price-yield relationship?
+**Option-specific explanations:**
 
-A. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-B. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-C. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-D. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
+- **A - Correct:** Periodic benchmark resets pull the coupon toward market conditions, though spread and reset risks remain.
+- **B - Incorrect:** Coupon reset cannot restore an insolvent issuer's capacity.
+- **C - Incorrect:** The bond may reset against a benchmark different from the investor's liability exposure.
+- **D - Incorrect:** A floating benchmark is not necessarily the investor's inflation index.
+
+**Examiner trap 9:** Floating rate is not fixed purchasing-power protection.
+
+### MCQ 10
+
+Inflation-indexed bonds are designed primarily to:
+
+- A. Guarantee a positive after-tax real return
+- B. Link specified principal or coupon cash flows to a stated inflation index
+- C. Eliminate issuer credit risk
+- D. Convert debt automatically into equity
 
 **Answer: B.**
-**Explanation:** For a fixed cash-flow bond, market price and comparable yield generally move inversely. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q15. Which statement uses Price-yield relationship without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
-B. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-C. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-D. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
+- **A - Incorrect:** Tax, price, liquidity and indexation-lag effects can still reduce realised return.
+- **B - Correct:** Indexation reallocates measured-inflation risk according to the contract.
+- **C - Incorrect:** Indexation changes purchasing-power exposure, not the issuer's ability to pay.
+- **D - Incorrect:** Conversion is a separate embedded option.
+
+**Examiner trap 10:** Protection is only as broad as the indexed component and chosen price index.
+
+### MCQ 11
+
+Which option is correctly matched?
+
+- A. Puttable bond — issuer alone can force early redemption
+- B. Convertible bond — investor can never become a shareholder
+- C. Callable bond — issuer may redeem early under stated terms
+- D. Callable bond — investor is guaranteed reinvestment at the old coupon
 
 **Answer: C.**
-**Explanation:** For a fixed cash-flow bond, market price and comparable yield generally move inversely. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Price-yield relationship?
+**Option-specific explanations:**
 
-A. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
-B. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
-C. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-D. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
+- **A - Incorrect:** A put right belongs to the investor, not the issuer.
+- **B - Incorrect:** Conversion is precisely the contractual route from debt into equity.
+- **C - Correct:** The issuer owns the call; the investor owns the put; conversion changes the claim.
+- **D - Incorrect:** Calling often exposes the investor to lower-rate reinvestment risk.
+
+**Examiner trap 11:** Optional exercise depends on the contract and should not be assumed automatic.
+
+### MCQ 12
+
+Why may a convertible bond carry a lower coupon than an otherwise similar plain bond?
+
+- A. Conversion removes all issuer default risk
+- B. It is always secured by the issuer's shares
+- C. The coupon is paid by the stock exchange
+- D. The conversion option gives the investor potential equity upside
 
 **Answer: D.**
-**Explanation:** For a fixed cash-flow bond, market price and comparable yield generally move inversely. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q17. Which statement correctly identifies Duration and convexity?
+**Option-specific explanations:**
 
-A. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
-B. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-C. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-D. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
+- **A - Incorrect:** Before conversion the instrument retains issuer credit exposure.
+- **B - Incorrect:** Convertibility does not itself create collateral.
+- **C - Incorrect:** The issuer remains responsible for contractual bond payments.
+- **D - Correct:** The investor may accept less coupon in exchange for the embedded option's value.
+
+**Examiner trap 12:** Convertible means eligible to convert under terms, not already converted.
+
+### MCQ 13
+
+The defining characteristic of a Masala bond is that it is:
+
+- A. Rupee-denominated debt issued overseas by an eligible Indian entity
+- B. Foreign-currency debt issued only within India
+- C. A Government of India inflation-indexed security
+- D. A green bond certified by SEBI
 
 **Answer: A.**
-**Explanation:** Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q18. Which option preserves the accounting or regulatory boundary of Duration and convexity?
+**Option-specific explanations:**
 
-A. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-B. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
-C. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-D. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
+- **A - Correct:** Rupee denomination places direct INR currency movement on the overseas investor.
+- **B - Incorrect:** That reverses both denomination and issuance location.
+- **C - Incorrect:** Masala bonds are an external-borrowing category, not necessarily sovereign or indexed.
+- **D - Incorrect:** Use of proceeds and currency denomination are independent features.
+
+**Examiner trap 13:** Current ECB eligibility and maturity rules must be checked rather than inferred from the nickname.
+
+### MCQ 14
+
+Consider the following statements about a listed green debt security:
+
+1. Its proceeds are linked to eligible environmental purposes.
+2. Additional allocation and impact disclosures address greenwashing.
+3. Its label guarantees repayment.
+
+Which statements are correct?
+
+- A. 1 only
+- B. 1 and 2 only
+- C. 2 and 3 only
+- D. 1, 2 and 3
 
 **Answer: B.**
-**Explanation:** Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q19. Which statement uses Duration and convexity without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
-B. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-C. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
-D. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
+- **A - Incorrect:** Statement 2 reflects the disclosure and reporting logic of SEBI's green-debt framework.
+- **B - Correct:** SEBI's 6 February 2023 framework links the label to use, tracking and disclosure of proceeds.
+- **C - Incorrect:** Statement 1 defines the use-of-proceeds character, while statement 3 is false.
+- **D - Incorrect:** A green label does not improve issuer solvency or create a repayment guarantee.
+
+**Examiner trap 14:** Environmental integrity and credit quality are separate tests.
+
+### MCQ 15
+
+Which return to an ordinary equity shareholder is contractual in the same way as bond interest?
+
+- A. Dividend declared for every profitable year
+- B. A minimum annual capital gain
+- C. None; dividend and capital gain are not contractually fixed
+- D. Repayment of issue price on a fixed maturity date
 
 **Answer: C.**
-**Explanation:** Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Duration and convexity?
+**Option-specific explanations:**
 
-A. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-B. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
-C. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-D. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
+- **A - Incorrect:** Profit does not automatically require a dividend declaration.
+- **B - Incorrect:** Market price can rise or fall and no minimum gain is promised.
+- **C - Correct:** Equity is a residual claim; its return depends on enterprise performance, payout and market valuation.
+- **D - Incorrect:** Ordinary shares have no bond-like maturity redemption.
+
+**Examiner trap 15:** Ownership gives residual upside but not a promised periodic payment.
+
+### MCQ 16
+
+A company's share price is Rs 50 and it has 20 crore shares outstanding. Its market capitalisation is:
+
+- A. Rs 2.5 crore
+- B. Rs 70 crore
+- C. Cannot be calculated without EPS
+- D. Rs 1,000 crore
 
 **Answer: D.**
-**Explanation:** Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q21. Which statement correctly identifies Credit spread?
+**Option-specific explanations:**
 
-A. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-B. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-C. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
-D. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
+- **A - Incorrect:** This divides rather than multiplies price by shares.
+- **B - Incorrect:** Adding price and share count has no valuation meaning.
+- **C - Incorrect:** Market capitalisation needs price and shares outstanding, not earnings.
+- **D - Correct:** Market capitalisation equals 50 multiplied by 20 crore shares.
+
+**Examiner trap 16:** A stock split can change price and share count without mechanically changing total market value.
+
+### MCQ 17
+
+Earnings per share should ordinarily use:
+
+- A. Profit attributable to ordinary equity divided by weighted-average ordinary shares
+- B. Revenue divided by closing share price
+- C. Dividend divided by face value
+- D. Market capitalisation divided by book debt
 
 **Answer: A.**
-**Explanation:** A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q22. Which option preserves the accounting or regulatory boundary of Credit spread?
+**Option-specific explanations:**
 
-A. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
-B. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-C. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
-D. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
+- **A - Correct:** Weighted-average shares account for changes in the equity base during the reporting period.
+- **B - Incorrect:** Revenue and market price do not define accounting earnings per share.
+- **C - Incorrect:** That resembles a dividend-rate calculation, not EPS.
+- **D - Incorrect:** This ratio does not allocate profit across shares.
+
+**Examiner trap 17:** Basic and diluted EPS can differ because potential shares affect the denominator.
+
+### MCQ 18
+
+A low P-E ratio by itself proves that a share is undervalued. This statement is:
+
+- A. Correct because price alone determines intrinsic value
+- B. Incorrect because earnings quality, cyclicality, growth and risk also matter
+- C. Correct whenever dividend yield is positive
+- D. Incorrect only for government companies
 
 **Answer: B.**
-**Explanation:** A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q23. Which statement uses Credit spread without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-B. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-C. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-D. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
+- **A - Incorrect:** Price must be assessed against sustainable cash flow, assets, growth and risk.
+- **B - Correct:** P-E is a comparison lens rather than an automatic investment conclusion.
+- **C - Incorrect:** Dividend policy does not validate the earnings multiple.
+- **D - Incorrect:** The limitation applies across ownership forms and sectors.
+
+**Examiner trap 18:** Negative or temporarily inflated earnings can make P-E misleading.
+
+### MCQ 19
+
+Which statement about preference shares is correct?
+
+1. They carry preferential dividend and capital-repayment rights over ordinary equity.
+2. They are legally share capital.
+3. They always rank ahead of secured creditors.
+
+
+- A. 1 only
+- B. 2 and 3 only
+- C. 1 and 2 only
+- D. 1, 2 and 3
 
 **Answer: C.**
-**Explanation:** A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Credit spread?
+**Option-specific explanations:**
 
-A. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-B. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-C. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
-D. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
+- **A - Incorrect:** Statement 2 is also correct despite debt-like economic features.
+- **B - Incorrect:** Statement 1 is correct, while creditor priority ordinarily precedes preference capital.
+- **C - Correct:** Preference shares combine preferential economic rights with legal equity status.
+- **D - Incorrect:** Statement 3 wrongly places share capital above secured creditor claims.
+
+**Examiner trap 19:** Fixed-looking preference dividends do not automatically make the instrument a bond.
+
+### MCQ 20
+
+A derivative's value is derived primarily from:
+
+- A. The face value of the issuer's ordinary shares only
+- B. The amount of margin posted only
+- C. A guaranteed return set by the regulator
+- D. An underlying asset, rate, index or event specified in the contract
 
 **Answer: D.**
-**Explanation:** A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q25. Which statement correctly identifies Futures?
+**Option-specific explanations:**
 
-A. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-B. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-C. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
-D. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
+- **A - Incorrect:** Derivatives can reference rates, currencies, commodities and indices as well as shares.
+- **B - Incorrect:** Margin supports performance but does not define the underlying payoff.
+- **C - Incorrect:** Regulators set conduct and risk controls, not guaranteed derivative profit.
+- **D - Correct:** The contract maps changes in an underlying into gains, losses or cash-flow exchanges.
+
+**Examiner trap 20:** Notional exposure can be much larger than initial cash paid.
+
+### MCQ 21
+
+Which statement correctly distinguishes futures from forwards?
+
+- A. Futures are standardised and exchange-cleared; forwards are generally customised OTC contracts
+- B. Only forwards create obligations for both sides
+- C. Futures have no counterparty-risk controls
+- D. Forwards are necessarily illegal in India
 
 **Answer: A.**
-**Explanation:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q26. Which option preserves the accounting or regulatory boundary of Futures?
+**Option-specific explanations:**
 
-A. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-B. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-C. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
-D. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
+- **A - Correct:** Venue and standardisation alter liquidity, margining and counterparty structure.
+- **B - Incorrect:** Both forwards and futures create symmetric obligations.
+- **C - Incorrect:** Margins, mark-to-market and CCP clearing are core controls.
+- **D - Incorrect:** Specified OTC forwards operate under regulatory frameworks.
+
+**Examiner trap 21:** Customisation can reduce basis risk while increasing bilateral complexity.
+
+### MCQ 22
+
+A call-option buyer has the right to:
+
+- A. Sell the underlying at the strike
+- B. Buy the underlying at the strike under the contract's terms
+- C. Receive every gain without paying a premium
+- D. Force the writer to exercise against the buyer
 
 **Answer: B.**
-**Explanation:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q27. Which statement uses Futures without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
-B. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-C. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-D. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
+- **A - Incorrect:** That is the right provided by a put option.
+- **B - Correct:** A long call's intrinsic value is positive when spot exceeds strike.
+- **C - Incorrect:** The option premium affects net payoff and break-even.
+- **D - Incorrect:** Exercise choice belongs to the buyer, not the writer.
+
+**Examiner trap 22:** The buyer's limited premium loss does not apply to an uncovered writer.
+
+### MCQ 23
+
+A put-option buyer's payoff before premium is best represented by:
+
+- A. Maximum of spot minus strike and zero
+- B. Spot plus strike in every state
+- C. Maximum of strike minus spot and zero
+- D. The option premium multiplied by the notional
 
 **Answer: C.**
-**Explanation:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Futures?
+**Option-specific explanations:**
 
-A. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-B. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-C. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-D. A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
+- **A - Incorrect:** That is the intrinsic payoff of a call buyer.
+- **B - Incorrect:** Option payoff is contingent, not a simple sum.
+- **C - Correct:** A put protects against price falling below strike, with net profit reduced by premium.
+- **D - Incorrect:** Premium is cost, not the intrinsic payoff formula.
+
+**Examiner trap 23:** Strike is not break-even because premium must be recovered.
+
+### MCQ 24
+
+An interest-rate swap commonly involves:
+
+- A. Automatic transfer of ownership in the underlying loan
+- B. Issue of ordinary shares by both counterparties
+- C. Guaranteed elimination of all basis and counterparty risk
+- D. Exchange of fixed and floating interest cash-flow streams on a reference notional
 
 **Answer: D.**
-**Explanation:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q29. Which statement correctly identifies Options?
+**Option-specific explanations:**
 
-A. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
-B. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-C. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-D. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
+- **A - Incorrect:** The original financing can remain in place while exposure is transformed.
+- **B - Incorrect:** A swap is a derivative contract, not reciprocal equity issuance.
+- **C - Incorrect:** Benchmark mismatch and default exposure can remain.
+- **D - Correct:** The notional commonly calculates payments and need not itself be exchanged.
+
+**Examiner trap 24:** Do not confuse a derivative swap with a central-bank currency swap line.
+
+### MCQ 25
+
+Which activity is a hedge?
+
+- A. An exporter sells future dollars to offset a known dollar receivable
+- B. A trader without exposure sells index futures to profit from a fall
+- C. An investor buys unrelated options because volatility may rise
+- D. A broker circulates matched orders to create false volume
 
 **Answer: A.**
-**Explanation:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q30. Which option preserves the accounting or regulatory boundary of Options?
+**Option-specific explanations:**
 
-A. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
-B. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
-C. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-D. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
+- **A - Correct:** The derivative offsets a pre-existing currency exposure in amount and direction.
+- **B - Incorrect:** That creates a directional speculative position.
+- **C - Incorrect:** Without an offsetting exposure this is speculation.
+- **D - Incorrect:** That is manipulative conduct, not risk reduction.
+
+**Examiner trap 25:** A mismatched tenor or quantity leaves basis or over-hedging risk.
+
+### MCQ 26
+
+Consider the following sequence:
+
+1. Adverse price movement
+2. Variation-margin call
+3. Forced sale to raise cash
+4. Further price pressure
+
+This sequence illustrates:
+
+- A. Guaranteed arbitrage convergence
+- B. A margin-liquidity spiral
+- C. Elimination of leverage
+- D. A passive index-rebalancing rule only
 
 **Answer: B.**
-**Explanation:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q31. Which statement uses Options without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-B. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-C. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
-D. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
+- **A - Incorrect:** Forced sales can widen dislocation rather than assure immediate convergence.
+- **B - Correct:** Mark-to-market converts price volatility into current funding needs and can amplify fire sales.
+- **C - Incorrect:** The sequence shows leverage transmitting stress.
+- **D - Incorrect:** Margin calls can affect many leveraged portfolios, not only index funds.
+
+**Examiner trap 26:** Margin reduces counterparty exposure but does not eliminate systemic liquidity risk.
+
+### MCQ 27
+
+Which statement about exchange-traded and OTC derivatives is correct?
+
+- A. Every electronic contract is exchange-traded
+- B. Exchange trading eliminates leverage and basis risk
+- C. OTC contracts can be regulated, reported, margined and sometimes centrally cleared
+- D. OTC contracts can never be customised
 
 **Answer: C.**
-**Explanation:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Options?
+**Option-specific explanations:**
 
-A. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-B. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-C. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-D. An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
+- **A - Incorrect:** An electronic trading platform can support an OTC market.
+- **B - Incorrect:** Standardisation and CCP controls do not abolish economic exposure.
+- **C - Correct:** OTC describes the execution/legal structure, not absence of regulation.
+- **D - Incorrect:** Customisation is a principal OTC feature.
+
+**Examiner trap 27:** Compare venue, standardisation, collateral, reporting and exit separately.
+
+### MCQ 28
+
+A mutual fund's NAV per unit is broadly:
+
+- A. Market price multiplied by trading volume
+- B. Annual return divided by expense ratio
+- C. Coupon income divided by face value
+- D. Scheme assets minus liabilities, divided by units outstanding
 
 **Answer: D.**
-**Explanation:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q33. Which statement correctly identifies Swaps?
+**Option-specific explanations:**
 
-A. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-B. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-C. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-D. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
+- **A - Incorrect:** That does not calculate a pooled portfolio's per-unit net assets.
+- **B - Incorrect:** Performance and cost do not replace balance-sheet valuation.
+- **C - Incorrect:** That is unrelated to the fund's total net assets and unit base.
+- **D - Correct:** NAV allocates the scheme's net assets across outstanding units.
+
+**Examiner trap 28:** ETF exchange price can trade above or below its contemporaneous NAV.
+
+### MCQ 29
+
+Match the mutual-fund classification:
+
+1. Open-ended — continuous purchase/redemption under scheme rules
+2. Passive — seeks to track a benchmark
+3. ETF — trades intraday on an exchange
+
+Which is correct?
+
+- A. 1, 2 and 3
+- B. 1 only
+- C. 1 and 2 only
+- D. 2 and 3 only
 
 **Answer: A.**
-**Explanation:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q34. Which option preserves the accounting or regulatory boundary of Swaps?
+**Option-specific explanations:**
 
-A. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-B. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-C. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-D. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
+- **A - Correct:** All three are correct and should not be collapsed into a single category.
+- **B - Incorrect:** The passive and ETF descriptions are also correct but refer to different classification axes.
+- **C - Incorrect:** ETF exchange trading is the defining feature omitted by this option.
+- **D - Incorrect:** Open-ended funds do permit continuing transactions under applicable NAV rules.
 
-**Answer: B.**
-**Explanation:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 29:** An ETF may be passive, but `ETF` and `index fund` are not identical transaction structures.
 
-### Q35. Which statement uses Swaps without losing its vintage, basket or legal status?
+### MCQ 30
 
-A. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-B. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-C. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-D. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
+Which statement about direct and regular plans is correct?
 
-**Answer: C.**
-**Explanation:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Swaps?
-
-A. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-B. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-C. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-D. A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-
-**Answer: D.**
-**Explanation:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies Hedging and speculation?
-
-A. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
-B. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-C. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-D. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-
-**Answer: A.**
-**Explanation:** Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of Hedging and speculation?
-
-A. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-B. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
-C. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-D. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
+- A. A direct plan gives the investor legal ownership of each portfolio security
+- B. They normally share a scheme portfolio but differ in distribution cost and therefore expense ratio/NAV
+- C. A regular plan guarantees adviser suitability
+- D. Direct plans are exempt from the Riskometer
 
 **Answer: B.**
-**Explanation:** Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q39. Which statement uses Hedging and speculation without losing its vintage, basket or legal status?
+**Option-specific explanations:**
 
-A. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-B. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-C. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
-D. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
+- **A - Incorrect:** The investor still owns mutual-fund units rather than individual securities.
+- **B - Correct:** The direct plan excludes distributor commission from its plan expenses, while the regular route includes it.
+- **C - Incorrect:** Distributor involvement does not guarantee product fit or return.
+- **D - Incorrect:** Risk disclosure applies to the scheme regardless of distribution route.
 
-**Answer: C.**
-**Explanation:** Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 30:** Lower expense does not make an unsuitable asset class suitable.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Hedging and speculation?
+### MCQ 31
 
-A. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-B. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-C. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-D. Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
+Which comparison is most accurate?
 
-**Answer: D.**
-**Explanation:** Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies Clearing and leverage?
-
-A. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-B. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-C. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-D. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-
-**Answer: A.**
-**Explanation:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of Clearing and leverage?
-
-A. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-B. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-C. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-D. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-
-**Answer: B.**
-**Explanation:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses Clearing and leverage without losing its vintage, basket or legal status?
-
-A. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-B. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-C. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-D. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
+- A. All four are ordinary open-ended mutual funds
+- B. PMS issues identical pooled units to every client
+- C. A REIT pools real-estate exposure, an InvIT pools infrastructure exposure, an AIF is a private pool, and PMS is client-specific management
+- D. Direct stocks and bonds are themselves Category III AIFs
 
 **Answer: C.**
-**Explanation:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Clearing and leverage?
+**Option-specific explanations:**
 
-A. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-B. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-C. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-D. Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
+- **A - Incorrect:** They operate under different legal and regulatory wrappers.
+- **B - Incorrect:** PMS ordinarily manages a client-specific portfolio and reporting relationship.
+- **C - Correct:** Asset base, pooling, ownership record, liquidity and investor-protection framework distinguish the vehicles.
+- **D - Incorrect:** Underlying securities are not transformed into pooled vehicles by classification.
 
-**Answer: D.**
-**Explanation:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 31:** Do not infer tax treatment or guaranteed distributions from the product label.
 
-### Q45. Which statement correctly identifies Mutual funds and ETFs?
+### MCQ 32
 
-A. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-B. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-C. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-D. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
+Consider the following regulatory map:
 
-**Answer: A.**
-**Explanation:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+1. SEBI — domestic listed securities, mutual funds and AIFs
+2. RBI — specified OTC interest-rate and foreign-exchange derivatives
+3. PFRDA — National Pension System
+4. IFSCA — financial products and institutions in an IFSC
 
-### Q46. Which option preserves the accounting or regulatory boundary of Mutual funds and ETFs?
+Which option is correct?
 
-A. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-B. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-C. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-D. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-
-**Answer: B.**
-**Explanation:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses Mutual funds and ETFs without losing its vintage, basket or legal status?
-
-A. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-B. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-C. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-D. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-
-**Answer: C.**
-**Explanation:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Mutual funds and ETFs?
-
-A. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-B. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-C. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-D. A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
+- A. 1 and 2 only
+- B. 1, 3 and 4 only
+- C. 2, 3 and 4 only
+- D. 1, 2, 3 and 4
 
 **Answer: D.**
-**Explanation:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
-### Q49. Which statement correctly identifies Alternative Investment Funds?
+**Option-specific explanations:**
 
-A. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-B. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-C. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-D. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
+- **A - Incorrect:** PFRDA and IFSCA also have the stated specialised jurisdictions.
+- **B - Incorrect:** RBI's functional perimeter includes specified OTC rate and currency derivatives.
+- **C - Incorrect:** SEBI is the principal domestic securities and fund-market regulator.
+- **D - Correct:** All four matches are correct, subject to statutory overlap and cross-border coordination.
 
-**Answer: A.**
-**Explanation:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
+**Examiner trap 32:** Regulator mapping follows product, activity, entity and location rather than one universal label.
 
-### Q50. Which option preserves the accounting or regulatory boundary of Alternative Investment Funds?
-
-A. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-B. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-C. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-D. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-
-**Answer: B.**
-**Explanation:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses Alternative Investment Funds without losing its vintage, basket or legal status?
-
-A. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-B. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-C. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-D. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-
-**Answer: C.**
-**Explanation:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Alternative Investment Funds?
-
-A. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-B. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-C. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-D. An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-
-**Answer: D.**
-**Explanation:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies REIT and InvIT?
-
-A. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-B. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-C. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-D. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-
-**Answer: A.**
-**Explanation:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of REIT and InvIT?
-
-A. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-B. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-C. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-D. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-
-**Answer: B.**
-**Explanation:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses REIT and InvIT without losing its vintage, basket or legal status?
-
-A. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-B. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-C. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-D. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-
-**Answer: C.**
-**Explanation:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about REIT and InvIT?
-
-A. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-B. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-C. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-D. REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-
-**Answer: D.**
-**Explanation:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies Participatory Notes?
-
-A. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-B. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-C. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-D. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-
-**Answer: A.**
-**Explanation:** Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of Participatory Notes?
-
-A. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-B. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-C. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-D. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-
-**Answer: B.**
-**Explanation:** Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses Participatory Notes without losing its vintage, basket or legal status?
-
-A. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-B. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-C. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-D. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-
-**Answer: C.**
-**Explanation:** Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Participatory Notes?
-
-A. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-B. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-C. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-D. Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-
-**Answer: D.**
-**Explanation:** Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies Inflation-Indexed Bonds?
-
-A. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-B. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-C. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-D. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-
-**Answer: A.**
-**Explanation:** Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of Inflation-Indexed Bonds?
-
-A. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-B. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-C. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-D. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-
-**Answer: B.**
-**Explanation:** Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses Inflation-Indexed Bonds without losing its vintage, basket or legal status?
-
-A. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-B. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-C. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-D. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-
-**Answer: C.**
-**Explanation:** Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Inflation-Indexed Bonds?
-
-A. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-B. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-C. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-D. Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain.
-
-**Answer: D.**
-**Explanation:** Inflation-Indexed Bonds link specified payouts or principal to inflation to protect real purchasing power, while market-price and liquidity risks remain. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Convertible bonds?
-
-A. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-B. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-C. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-D. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-
-**Answer: A.**
-**Explanation:** Convertible bonds begin as debt and may convert into equity under specified contractual terms. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Convertible bonds?
-
-A. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-B. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-C. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-D. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-
-**Answer: B.**
-**Explanation:** Convertible bonds begin as debt and may convert into equity under specified contractual terms. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Convertible bonds without losing its vintage, basket or legal status?
-
-A. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-B. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-C. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-D. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-
-**Answer: C.**
-**Explanation:** Convertible bonds begin as debt and may convert into equity under specified contractual terms. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Convertible bonds?
-
-A. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-B. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-C. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-D. Convertible bonds begin as debt and may convert into equity under specified contractual terms.
-
-**Answer: D.**
-**Explanation:** Convertible bonds begin as debt and may convert into equity under specified contractual terms. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Beta?
-
-A. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-B. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-C. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-D. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-
-**Answer: A.**
-**Explanation:** Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Beta?
-
-A. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-B. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-C. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-D. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-
-**Answer: B.**
-**Explanation:** Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Beta without losing its vintage, basket or legal status?
-
-A. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-B. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-C. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-D. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-
-**Answer: C.**
-**Explanation:** Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Beta?
-
-A. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-B. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-C. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-D. Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return.
-
-**Answer: D.**
-**Explanation:** Beta measures a stock's volatility relative to the broader market and is a market-risk indicator rather than a guarantee of return. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Tokenisation and sustainability bonds?
-
-A. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-B. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-C. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-D. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-
-**Answer: A.**
-**Explanation:** Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Tokenisation and sustainability bonds?
-
-A. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-B. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-C. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-D. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-
-**Answer: B.**
-**Explanation:** Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Tokenisation and sustainability bonds without losing its vintage, basket or legal status?
-
-A. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-B. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-C. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-D. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-
-**Answer: C.**
-**Explanation:** Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Tokenisation and sustainability bonds?
-
-A. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-B. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
-C. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-D. Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-
-**Answer: D.**
-**Explanation:** Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Investor protection and liquidity mismatch?
-
-A. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-B. A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-C. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-D. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-
-**Answer: A.**
-**Explanation:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Investor protection and liquidity mismatch?
-
-A. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-B. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-C. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-D. Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-
-**Answer: B.**
-**Explanation:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Investor protection and liquidity mismatch without losing its vintage, basket or legal status?
-
-A. Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-B. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-C. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-D. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
-
-**Answer: C.**
-**Explanation:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Investor protection and liquidity mismatch?
-
-A. Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
-B. A credit spread over a benchmark reflects default, liquidity and other risk-premium components rather than contractual coupon alone.
-C. For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-D. SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-
-**Answer: D.**
-**Explanation:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED OBJECTIVE-ONLY PYQ OWNERSHIP AUDIT
+### Official-key discipline
 
-Audited ledgers route objective demands on Participatory Notes, Inflation-Indexed Bonds, convertible bonds, InvITs, beta, AIF classification, bondholder priority, equity derivatives and real-world-asset tokenisation here. No answer letter is inferred.
+- The three 2025 questions reproduce the locally held official-paper wording and Set-A keys.
+- The 2026 route has only a provisional local key and therefore receives no answer letter.
+- Five historical routes reproduce only the audited neutral demand because their official keys and exact
+  option text are unavailable locally.
 
-### OWNER PYQ LEDGER EXTRACTS
+### PYQ 1 — UPSC Prelims 2025, Q1
 
-#### 9. PYQ application
+**Question:** With reference to investments, consider the following:
 
-- ⚠️ 2019-2026 PYQs repeatedly test statement-level distinctions: Participatory Notes versus direct holding, inflation-indexed versus plain bonds, convertible bonds, InvITs, beta, AIF classification, bondholder priority and tokenisation.
-- ⚠️ 2025 Prelims: bondholder priority, AIF categories and the regulation of equity derivatives.
-- ⚠️ 2026 Prelims provisional key: RWA tokenisation and sustainability-bond taxonomy.
+- I. Bonds
+- II. Hedge Funds
+- III. Stocks
+- IV. Venture Capital
 
-#### 2026 PYQ Integration
+How many of the above are treated as Alternative Investment Funds?
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+- (a) Only one
+- (b) Only two
+- (c) Only three
+- (d) All the four
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+**Official Set-A answer: (b) Only two.**
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 90 | Real-world asset tokenization using blockchain and investment access | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Solution:** Hedge funds fall within Category III AIFs and venture-capital funds within Category I.
+Bonds and stocks are direct securities, not pooled vehicles. The examiner's trap is to confuse assets
+that a fund may hold with the legal wrapper through which investors pool capital.
 
-##### What this owner must now support
+### PYQ 2 — UPSC Prelims 2025, Q7
 
-- Real-world asset tokenization using blockchain and investment access
+**Question:** Consider the following statements:
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+**Statement I:** As regards returns from an investment in a company, generally, bondholders are considered to be relatively at lower risk than stockholders.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Statement II:** Bondholders are lenders to a company whereas stockholders are its owners.
 
-#### Recent PYQ Integration (2024-2025)
+**Statement III:** For repayment purpose, bondholders are prioritized over stockholders by a company.
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+Which one of the following is correct in respect of the above statements?
 
-- **Years represented:** 2025
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 3
+- (a) Both Statement II and Statement III are correct and both of them explain Statement I
+- (b) Both Statement I and Statement II are correct and Statement I explains Statement II
+- (c) Only one of the Statements II and III is correct and that explains Statement I
+- (d) Neither Statement II nor Statement III is correct
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | Prelims GS-I | 1 | Alternative Investment Funds - which investment vehicles qualify (hedge funds, venture capital) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2025 | Prelims GS-I | 7 | Bondholders versus stockholders - risk and repayment priority | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2025 | Prelims GS-I | 8 | India's equity options market growth and regulation | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Official Set-A answer: (a).**
 
-##### What this owner must now support
+**Solution:** Bondholders are creditors with contractual claims and generally rank before residual
+shareholders. Those features explain the relative-risk statement. `Relatively lower risk` is not
+`risk-free`: default, interest-rate, liquidity and inflation risks can still impose loss.
 
-- Alternative Investment Funds - which investment vehicles qualify (hedge funds, venture capital)
-- Bondholders versus stockholders - risk and repayment priority
-- India's equity options market growth and regulation
+### PYQ 3 — UPSC Prelims 2025, Q8
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Question:** Consider the following statements:
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+- I. India accounts for a very large portion of all equity option contracts traded globally thus exhibiting a great boom.
+- II. India's stock market has grown rapidly in the recent past even overtaking Hong Kong's at some point of time.
+- III. There is no regulatory body either to warn the small investors about the risks of options trading or to act on unregistered financial advisors in this regard.
 
-#### Historical PYQ Integration (2018-2023)
+Which of the statements given above are correct?
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+- (a) I and II only
+- (b) II and III only
+- (c) I and III only
+- (d) I, II and III
 
-- **Years represented:** 2019, 2022, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 5
+**Official Set-A answer: (a) I and II only.**
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | Prelims GS-I | 67 | Participatory Notes issued to overseas stock market investors | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 5 | Inflation-Indexed Bonds features and investor benefits | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 65 | Convertible bonds interest rate and equity conversion features | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 21 | Infrastructure Investment Trusts InvIT tax treatment SARFAESI | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 73 | Beta as stock market volatility measure in finance | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+**Solution:** Follow the official key. Statement III is false because SEBI regulates the securities
+derivatives market, issues risk disclosures and acts within its adviser and market-conduct frameworks.
+Do not freeze the question's market-volume ranking as a permanent statistic; the durable concept is that
+rapid retail derivatives growth triggered stronger investor-protection and stability measures.
 
-##### What this owner must now support
+### Routed PYQ 4 — UPSC Prelims 2026, Q90
 
-- Participatory Notes issued to overseas stock market investors
-- Inflation-Indexed Bonds features and investor benefits
-- Convertible bonds interest rate and equity conversion features
-- Infrastructure Investment Trusts InvIT tax treatment SARFAESI
-- Beta as stock market volatility measure in finance
+**Neutral demand:** Real-world asset tokenisation using blockchain and investment access.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Answer withheld pending official UPSC key.**
 
-#### 10. PYQ-based analytical application
+**Route:** Tokenisation can fractionalise or transfer a representation of an underlying claim, but legal
+title, custody, redemption, disclosure, settlement finality and regulatory perimeter remain decisive.
+The provisional local key is not represented as official.
 
-- ⚠️ 2025 Prelims: bondholder priority, AIF categories and the regulation of equity
-  derivatives.
-- ⚠️ 2026 Prelims provisional key: RWA tokenisation and sustainability-bond taxonomy.
+### Historical routed demands — official keys unavailable locally
 
-### ORIGINAL MAINS 1 — 10 MARKS
+| Year and question | Neutral routed demand | Answer status | Learning route |
+|---|---|---|---|
+| 2019 Q67 | Participatory Notes issued to overseas stock-market investors | **Answer withheld pending official UPSC key.** | Offshore instrument issued by a registered FPI; not direct domestic ownership |
+| 2022 Q5 | Inflation-Indexed Bond features and investor benefits | **Answer withheld pending official UPSC key.** | Session 6; index link and limitations |
+| 2022 Q65 | Convertible-bond interest and equity-conversion features | **Answer withheld pending official UPSC key.** | Session 7; debt plus embedded equity option |
+| 2023 Q21 | InvIT tax treatment and SARFAESI comparison | **Answer withheld pending official UPSC key.** | Session 24; vehicle classification before tax/recovery law |
+| 2023 Q73 | Beta as stock-market volatility measure | **Answer withheld pending official UPSC key.** | Optional Advanced; relative market sensitivity, not return |
 
-**Question:** Distinguish bondholder and equity-holder claims. Answer in about 150 words.
 
-**Model thesis:** **Claim:** Bond claim. **Named evidence/example:** A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Equity claim. **Named evidence/example:** Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Coupon and yield. **Named evidence/example:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+### ORIGINAL MAINS PRACTICE AND MODEL ANSWERS
+Counts cover only each isolated answer body using the native alphanumeric-token regex.
+#### M1 — 10 marks — 150 words
 
-**Claim → named evidence → analysis → qualification:**
+**Question:** Why can a bond generate loss even when its issuer makes every promised payment?
 
-- A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment.
-- Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights.
-- Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
+**Demand plan:** define the instrument or vehicle, compare legal and economic functions, attach dated
+Indian regulation, analyse the risk channel and end with a qualified verdict.
 
-**Qualified conclusion:** **Claim:** Bond claim. **Named evidence/example:** A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Equity claim. **Named evidence/example:** Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Coupon and yield. **Named evidence/example:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Model answer (132 native-body words):**
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish bondholder and equity-holder claims. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+A bond's contractual performance does not fix its resale value or realised return. When market yields rise, the present value of fixed coupons and principal falls, producing a mark-to-market loss. Longer duration increases this sensitivity. A widening liquidity premium can force a larger price concession even without deterioration in issuer solvency.
 
-**Detailed examiner-grade model answer:**
+Reinvestment risk works differently: coupons received during the holding period may be reinvested at lower rates. Inflation can erode the purchasing power of nominal payments. Callable bonds can be redeemed when rates fall, removing upside and forcing reinvestment. Foreign-currency exposure can change the investor's home-currency return.
 
-**Introduction and thesis:** **Claim:** Bond claim. **Named evidence/example:** A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Equity claim. **Named evidence/example:** Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Coupon and yield. **Named evidence/example:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Thus credit risk is only one component. An investor should distinguish default, interest-rate, duration, liquidity, reinvestment, inflation, optionality and currency risks. `Fixed income` describes the cash-flow rule, not a guaranteed market price or real return.
 
-**Analytical body:**
+#### M2 — 10 marks — 150 words
 
-1. **Claim and named evidence:** A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+**Question:** Distinguish hedging, speculation and arbitrage in derivatives markets.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Demand plan:** define the instrument or vehicle, compare legal and economic functions, attach dated
+Indian regulation, analyse the risk channel and end with a qualified verdict.
 
-**Qualified conclusion:** **Claim:** Bond claim. **Named evidence/example:** A bond is a creditor claim with contractual interest and principal obligations, and bondholders generally rank ahead of equity shareholders in repayment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Equity claim. **Named evidence/example:** Equity is an ownership and residual-return claim that absorbs losses after creditors and may carry voting rights. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Coupon and yield. **Named evidence/example:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Model answer (146 native-body words):**
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+Hedging uses a derivative to offset a pre-existing exposure. An exporter expecting dollar receipts may sell dollars forward, accepting basis and timing risk in exchange for more predictable rupee cash flow. Speculation creates or enlarges exposure: a trader buying index options without an offsetting portfolio seeks profit from price movement. Arbitrage combines offsetting positions to exploit inconsistent prices across related claims.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+The contract name does not reveal purpose. A future can hedge inventory or create a leveraged directional bet. Position size, maturity and underlying match determine whether total risk falls. Over-hedging can reverse exposure, while funding costs and execution delays make arbitrage imperfect.
 
-**How to improve this answer:** For “Distinguish bondholder and equity-holder claims. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+Regulation should therefore support genuine risk transfer through transparent prices, margins and reporting while controlling leverage, manipulation and unsuitable retail participation. Derivatives are neither inherently protective nor inherently harmful; their economic effect follows the exposure they create after considering the user's original position.
 
-### ORIGINAL MAINS 2 — 10 MARKS
+#### M3 — 15 marks — 250 words
 
-**Question:** Why do bond prices and yields generally move inversely? Answer in about 150 words.
+**Question:** Compare forwards, futures, options and swaps as instruments of risk transfer.
 
-**Model thesis:** **Claim:** Coupon and yield. **Named evidence/example:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Price-yield relationship. **Named evidence/example:** For a fixed cash-flow bond, market price and comparable yield generally move inversely. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Duration and convexity. **Named evidence/example:** Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Demand plan:** define the instrument or vehicle, compare legal and economic functions, attach dated
+Indian regulation, analyse the risk channel and end with a qualified verdict.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (226 native-body words):**
 
-- Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance.
-- For a fixed cash-flow bond, market price and comparable yield generally move inversely.
-- Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule.
+Forwards and futures create symmetric obligations to transact later at an agreed price. A forward is customised and usually over the counter, providing a close hedge match but leaving bilateral valuation, documentation and counterparty exposure. A future is standardised, exchange-traded and centrally cleared. Daily mark-to-market and margin reduce accumulated counterparty risk but create immediate liquidity demands.
 
-**Qualified conclusion:** **Claim:** Coupon and yield. **Named evidence/example:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Price-yield relationship. **Named evidence/example:** For a fixed cash-flow bond, market price and comparable yield generally move inversely. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Duration and convexity. **Named evidence/example:** Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Options create asymmetric rights. A call buyer may buy and a put buyer may sell at the strike; either can allow the option to expire. The buyer pays a premium and, for a simple long option held to expiry, limits contractual loss to that premium. The writer receives premium but bears the contingent obligation and may face large margin calls. Strike, premium, time and volatility shape payoff.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Why do bond prices and yields generally move inversely? Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+Swaps exchange cash-flow streams, such as fixed for floating interest or specified currency-linked flows. The reference notional may calculate payments without being exchanged. Swaps can transform balance-sheet exposure without refinancing the original liability, but basis and counterparty risks remain.
 
-**Detailed examiner-grade model answer:**
+All four can hedge or speculate. Exchange standardisation supports liquidity and transparent risk management; OTC customisation can reduce basis risk. SEBI governs exchange-traded securities derivatives, while RBI governs specified OTC rate and currency derivatives. Sound regulation therefore combines reporting, collateral, position controls, central clearing where appropriate and suitability. The test is not product complexity alone but whether residual exposure and liquidity demands are understood.
 
-**Introduction and thesis:** **Claim:** Coupon and yield. **Named evidence/example:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Price-yield relationship. **Named evidence/example:** For a fixed cash-flow bond, market price and comparable yield generally move inversely. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Duration and convexity. **Named evidence/example:** Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+#### M4 — 15 marks — 250 words
 
-**Analytical body:**
+**Question:** Evaluate the investor-protection architecture of mutual funds in India.
 
-1. **Claim and named evidence:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** For a fixed cash-flow bond, market price and comparable yield generally move inversely. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+**Demand plan:** define the instrument or vehicle, compare legal and economic functions, attach dated
+Indian regulation, analyse the risk channel and end with a qualified verdict.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Model answer (212 native-body words):**
 
-**Qualified conclusion:** **Claim:** Coupon and yield. **Named evidence/example:** Coupon is the stated contractual cash-flow rate, while yield depends on market price, cash flows and maturity; they need not remain equal after issuance. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Price-yield relationship. **Named evidence/example:** For a fixed cash-flow bond, market price and comparable yield generally move inversely. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Duration and convexity. **Named evidence/example:** Duration and convexity describe bond-price sensitivity to yield changes beyond the simple inverse-direction rule. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+A mutual fund separates functions across a trust, asset management company, trustees and custodian. Investors hold units representing a proportionate claim on scheme net assets; they do not directly own each security. This architecture limits commingling and assigns portfolio management, oversight and custody to different entities.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+SEBI's Mutual Funds Regulations dated 16 January 2026, effective 1 April 2026, and Master Circular dated 20 March 2026 provide the current framework. Scheme Information Documents, Key Information Memorandums, portfolio and expense disclosures, valuation rules and the Riskometer support informed choice. Direct and regular plans disclose distribution-cost differences. The Riskometer's six levels communicate portfolio risk but neither predict return nor cap loss.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+Liquidity safeguards matter because open-ended redemption can conflict with illiquid assets. Stress testing, borrowing limits, fair valuation and segregated portfolios after specified credit events help allocate losses equitably. Trustees oversee compliance, while custodians safeguard assets. SCORES 2.0 adds automated grievance routing, escalation and review.
 
-**How to improve this answer:** For “Why do bond prices and yields generally move inversely? Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+Limits remain. Disclosure can overwhelm investors, credit ratings can change late, NAV can lag executable prices in stress and side pockets isolate rather than erase loss. Distributor incentives can create mis-selling. Protection must therefore combine understandable labels, cost transparency, liquidity management, independent oversight, suitability and prompt remedy. Regulation should enable diversified household participation without implying guaranteed capital or performance.
 
-### ORIGINAL MAINS 3 — 15 MARKS
+#### M5 — 20 marks — 250 words
 
-**Question:** Compare futures, options and swaps as risk-transfer contracts. Answer in about 250 words.
+**Question:** Compare mutual funds, ETFs, REITs, InvITs, AIFs, PMS and NPS as investment vehicles.
 
-**Model thesis:** **Claim:** Futures. **Named evidence/example:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Options. **Named evidence/example:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Swaps. **Named evidence/example:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Clearing and leverage. **Named evidence/example:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+**Demand plan:** define the instrument or vehicle, compare legal and economic functions, attach dated
+Indian regulation, analyse the risk channel and end with a qualified verdict.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (227 native-body words):**
 
-- A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-- An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
-- A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-- Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
+These vehicles differ in pooling, asset mandate, liquidity, ownership record and regulatory purpose. A mutual fund pools investors into scheme units at net asset value. Open-ended units transact with the fund under applicable NAV rules; an exchange-traded fund trades intraday and can deviate from NAV despite creation-redemption mechanisms. Active and passive describe management style, not liquidity form.
 
-**Qualified conclusion:** **Claim:** Futures. **Named evidence/example:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Options. **Named evidence/example:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Swaps. **Named evidence/example:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Clearing and leverage. **Named evidence/example:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+REITs and InvITs are SEBI-regulated trust vehicles linked respectively to real-estate and infrastructure cash flows, often through special-purpose vehicles. Their distributions and prices remain exposed to occupancy, tariffs, project operation, leverage and valuation. An AIF is a privately pooled vehicle: Category I includes specified venture or developmental strategies, Category II is the residual private-fund category and Category III may use complex or leveraged strategies. PMS instead manages a client-specific portfolio and reporting relationship.
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare futures, options and swaps as risk-transfer contracts. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
+NPS is a PFRDA-regulated defined-contribution pension architecture. NPS Trust, pension funds, the Central Recordkeeping Agency, Points of Presence and custodian perform separate functions. It is designed for retirement accumulation rather than ordinary mutual-fund liquidity.
 
-**Detailed examiner-grade model answer:**
+SEBI's 2025-2026 master circulars govern the domestic fund and trust vehicles; PFRDA governs NPS; IFSCA governs fund management within an International Financial Services Centre. No wrapper guarantees return. A sound comparison must ask who owns the assets, who can redeem, how price is formed, what leverage is permitted, which disclosures apply and whether the product matches the investor's horizon and capacity for loss.
 
-**Introduction and thesis:** **Claim:** Futures. **Named evidence/example:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Options. **Named evidence/example:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Swaps. **Named evidence/example:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Clearing and leverage. **Named evidence/example:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+#### M6 — 20 marks — 250 words
 
-**Analytical body:**
+**Question:** Securities-market innovation improves allocation but can amplify systemic and household risk. Critically examine.
 
-1. **Claim and named evidence:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
+**Demand plan:** define the instrument or vehicle, compare legal and economic functions, attach dated
+Indian regulation, analyse the risk channel and end with a qualified verdict.
 
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
+**Model answer (213 native-body words):**
 
-**Qualified conclusion:** **Claim:** Futures. **Named evidence/example:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Options. **Named evidence/example:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Swaps. **Named evidence/example:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Clearing and leverage. **Named evidence/example:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
+Innovation expands financing and risk-sharing. Convertible and green bonds tailor issuer obligations; exchange-traded funds lower diversification costs; REITs and InvITs open access to operating assets; derivatives let firms hedge rates, currencies and prices. Dematerialisation, electronic trading and shorter settlement improve transfer and reduce some operational exposure.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
+The same features create new fragilities. Derivative leverage permits large notional exposure against limited capital. Adverse moves generate margin calls and forced sales. Open-ended funds can promise redemption against less-liquid holdings, creating a sale-price-redemption spiral. Passive products can concentrate flows in common index constituents, while ETF market prices can detach from NAV during stress. Complex labels, social-media promotion and unregistered advice magnify household mis-selling.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
+India's regulatory response is functional. SEBI's October 2024 and 2025 equity-derivative measures strengthened premium collection, monitoring and stability controls. Its 2026 mutual-fund framework combines disclosure, Riskometer, custody and liquidity tools. RBI's 2024-2025 OTC derivative margin directions address bilateral exposure. PFRDA and IFSCA govern pension and IFSC domains.
 
-**How to improve this answer:** For “Compare futures, options and swaps as risk-transfer contracts. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
+Yet compliance cannot guarantee suitability or market liquidity. Regulation should align margin with risk, monitor common leverage and concentration, stress-test funds and clearing corporations, enforce insider-trading and PFUTP rules, disclose costs and payoff asymmetry, and provide effective grievance review. Innovation is welfare-enhancing only when legal title, transparent valuation, loss-bearing capacity and resilient exit arrangements develop together.
 
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Compare mutual funds, ETFs, AIFs, REITs and InvITs. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Mutual funds and ETFs. **Named evidence/example:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Alternative Investment Funds. **Named evidence/example:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** REIT and InvIT. **Named evidence/example:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-- An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-- REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-
-**Qualified conclusion:** **Claim:** Mutual funds and ETFs. **Named evidence/example:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Alternative Investment Funds. **Named evidence/example:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** REIT and InvIT. **Named evidence/example:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare mutual funds, ETFs, AIFs, REITs and InvITs. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Mutual funds and ETFs. **Named evidence/example:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Alternative Investment Funds. **Named evidence/example:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** REIT and InvIT. **Named evidence/example:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Mutual funds and ETFs. **Named evidence/example:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Alternative Investment Funds. **Named evidence/example:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** REIT and InvIT. **Named evidence/example:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Compare mutual funds, ETFs, AIFs, REITs and InvITs. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate the hedging benefit and leverage risk of derivatives. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Futures. **Named evidence/example:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Options. **Named evidence/example:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Swaps. **Named evidence/example:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Hedging and speculation. **Named evidence/example:** Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Clearing and leverage. **Named evidence/example:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Investor protection and liquidity mismatch. **Named evidence/example:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing.
-- An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates.
-- A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment.
-- Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose.
-- Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses.
-- SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-
-**Qualified conclusion:** **Claim:** Futures. **Named evidence/example:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Options. **Named evidence/example:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Swaps. **Named evidence/example:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Hedging and speculation. **Named evidence/example:** Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Clearing and leverage. **Named evidence/example:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Investor protection and liquidity mismatch. **Named evidence/example:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the hedging benefit and leverage risk of derivatives. Answer in about 300 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Futures. **Named evidence/example:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Options. **Named evidence/example:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Swaps. **Named evidence/example:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Hedging and speculation. **Named evidence/example:** Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Clearing and leverage. **Named evidence/example:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Investor protection and liquidity mismatch. **Named evidence/example:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Futures. **Named evidence/example:** A standardised futures contract creates symmetric obligations for buyer and seller and is supported by margining and clearing. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Options. **Named evidence/example:** An option gives the buyer a right but not an obligation, while the writer bears a contingent obligation; value depends on the underlying, strike, time, volatility and rates. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Swaps. **Named evidence/example:** A swap exchanges cash-flow streams linked to interest rates, currencies or other variables and may be centrally or bilaterally risk-managed according to the market segment. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Hedging and speculation. **Named evidence/example:** Hedging reduces a pre-existing exposure, while speculation creates or enlarges exposure for expected profit; the same derivative form can serve either purpose. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Clearing and leverage. **Named evidence/example:** Margins, clearing corporations and default waterfalls reduce settlement and counterparty risk but do not remove leverage, basis risk or mark-to-market losses. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Investor protection and liquidity mismatch. **Named evidence/example:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Evaluate the hedging benefit and leverage risk of derivatives. Answer in about 300 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** How should India widen household market participation without encouraging unsuitable risk? Answer in about 300 words.
-
-**Model thesis:** **Claim:** Mutual funds and ETFs. **Named evidence/example:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Alternative Investment Funds. **Named evidence/example:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** REIT and InvIT. **Named evidence/example:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Participatory Notes. **Named evidence/example:** Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Tokenisation and sustainability bonds. **Named evidence/example:** Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Investor protection and liquidity mismatch. **Named evidence/example:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value.
-- An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs.
-- REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs.
-- Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding.
-- Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects.
-- SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling.
-
-**Qualified conclusion:** **Claim:** Mutual funds and ETFs. **Named evidence/example:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Alternative Investment Funds. **Named evidence/example:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** REIT and InvIT. **Named evidence/example:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Participatory Notes. **Named evidence/example:** Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Tokenisation and sustainability bonds. **Named evidence/example:** Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Investor protection and liquidity mismatch. **Named evidence/example:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How should India widen household market participation without encouraging unsuitable risk?…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Mutual funds and ETFs. **Named evidence/example:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Alternative Investment Funds. **Named evidence/example:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** REIT and InvIT. **Named evidence/example:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Participatory Notes. **Named evidence/example:** Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Tokenisation and sustainability bonds. **Named evidence/example:** Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Investor protection and liquidity mismatch. **Named evidence/example:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Mutual funds and ETFs. **Named evidence/example:** A mutual fund is a SEBI-regulated pooled vehicle, while an ETF unit trades intraday on an exchange and may deviate from its net asset value. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Alternative Investment Funds. **Named evidence/example:** An AIF is a privately pooled vehicle under SEBI's category framework; venture-capital and hedge funds can fall within AIF categories, whereas direct stocks and bonds are not AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** REIT and InvIT. **Named evidence/example:** REITs and InvITs are SEBI-regulated pooled vehicles linked respectively to real-estate and infrastructure cash flows and are distinct from ordinary mutual funds and AIFs. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Participatory Notes. **Named evidence/example:** Participatory Notes are offshore instruments issued by registered foreign portfolio investors to overseas investors and are not the same as direct domestic shareholding. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Tokenisation and sustainability bonds. **Named evidence/example:** Real-world-asset tokenisation changes access and transfer mechanics but not the underlying legal and economic risk, while a sustainability bond finances eligible environmental and social projects rather than only green projects. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source. **Claim:** Investor protection and liquidity mismatch. **Named evidence/example:** SEBI's disclosure, adviser, margin, settlement and grievance architecture reduces conduct risk, but open-ended or pooled structures can still face liquidity mismatch, valuation opacity and mis-selling. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “How should India widen household market participation without encouraging unsuitable risk?…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.

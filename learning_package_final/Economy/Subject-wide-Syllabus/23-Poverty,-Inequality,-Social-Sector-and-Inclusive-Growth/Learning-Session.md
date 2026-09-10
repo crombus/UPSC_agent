@@ -1,3219 +1,2173 @@
-# Poverty, Inequality, Social Sector and Inclusive Growth — Learner-v2 Complete Learning Session
+---
+title: "Poverty, Inequality, Social Sector and Inclusive Growth - Complete Learning Session"
+topic_key: economy-topic-23
+---
+# Poverty, Inequality, Social Sector and Inclusive Growth - Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.
+## SOURCE, TIMELINE AND CURRENT-STATUS CONTROL
 
-### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
+**Current-source cutoff:** 10 September 2026.
 
-- **Generation date:** 2026-09-03.
-- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
-- **OCR evidence:** Repository Markdown was primary. OCR-searchable local official General Studies papers were used only to confirm printed routed demands. No answer key, marking scheme, unsupported page precision or current macroeconomic statistic was inferred from them.
-- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
-- **PYQ integrity:** Audited ledgers route Mains demands on inclusive growth, inter-generational equity, financial inclusion, community health and social-service expenditure, plus the objective poverty-line variation concept. These demands are solved or retained in practice without inventing an official model answer or objective key.
-- **Live-link boundary:** The official NITI pages were blocked to direct fetch, but official-domain search substantively exposed the national MPI method and the projected status of the 2022-23 estimate. No poverty rate, inequality value, scheme outlay or current beneficiary count was imported.
-- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
+**Mandatory source order used**
+1. Canonical Economy and Society Basic/Core Markdown.
+2. Separately labelled Optional Advanced Markdown.
+3. OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26*.
+4. Dated official MoSPI, NITI Aayog, World Bank, Union Budget/Economic Survey and social-sector ministry sources.
+5. Qdrant was not required.
 
-### LIVE OFFICIAL-SOURCE ATTEMPT LOG
+**Evidence discipline:** A poverty number is never detached from its line, PPP or price basis, survey, reference year and publisher. Expenditure, coverage, service quality and household outcome remain separate.
 
-The checks below were made on 2026-09-03. Substantive official text is used only for the proposition it actually supports; binary files, dynamic shells, stubs and undated dashboard snippets are recorded but not converted into current claims.
+### OFFICIAL SOURCE REGISTER
 
-- https://www.niti.gov.in/sites/default/files/2024-01/MPI-22_NITI-Aayog20254.pdf — direct fetch returned HTTP 403 on 2026-09-03; official-domain search substantively exposed the Alkire-Foster method, twelve indicators and projection basis.
-- https://www.niti.gov.in/whats-new/multidimensional-poverty-india-2005-06 — direct fetch returned HTTP 403; official-domain search confirmed that the 2022-23 value is an estimate rather than a fresh survey observation.
+- MoSPI, HCES 2023-24 press note, 27 December 2024: https://mospi.gov.in/sites/default/files/press_release/HCES_Press_Note_2023-24_27122024_rev.pdf
+- MoSPI, HCES 2023-24 detailed results press note, 30 January 2025: https://www.mospi.gov.in/sites/default/files/press_release/HCES_Report202324_Press_Note_30012025.pdf
+- MoSPI, HCES 2022-23 methodology and fact sheet: https://mospi.gov.in/sites/default/files/publication_reports/Factsheet_HCES_2022-23.pdf
+- NITI Aayog, National MPI Progress Review 2023: https://www.niti.gov.in/sites/default/files/2023-08/India-National-Multidimentional-Poverty-Index-2023.pdf
+- NITI Aayog, Multidimensional Poverty in India since 2005-06, January 2024: https://www.niti.gov.in/sites/default/files/2024-01/MPI-22_NITI-Aayog20254.pdf
+- World Bank, June 2025 update to global poverty lines: https://www.worldbank.org/en/news/factsheet/2025/06/05/june-2025-update-to-global-poverty-lines
+- World Bank, India Poverty and Equity Brief / PIP: https://pip.worldbank.org/country-profiles/IND
+- PIB, Tendulkar-method poverty estimates for 2011-12: https://pib.gov.in/newsite/PrintRelease.aspx?relid=103061
+- PIB, Rangarajan Report on Poverty, 7 August 2014: https://pib.gov.in/newsite/printrelease.aspx?relid=108291
+- Economic Survey 2025-26: https://www.indiabudget.gov.in/economicsurvey/
+- Mahatma Gandhi National Rural Employment Guarantee Act portal: https://nrega.nic.in/
+- Department of Food and Public Distribution, NFSA and PMGKAY: https://dfpd.gov.in/pradhan-mantri-garib-kalyan-anna-yojana/en
+- National Health Authority, AB-PMJAY: https://pmjay.gov.in/
+- PIB, AB-PMJAY expansion for persons aged 70 years and above, September-October 2024: https://pib.gov.in/PressReleasePage.aspx?PRID=2053883
+- National Social Assistance Programme portal: https://nsap.nic.in/
+- DBT Mission, Aadhaar exception-handling OM, 19 December 2017: https://dbtbharat.gov.in/data/om/Aadhaar_Exception_Handling_OM_19122017.pdf
+- National Scholarship Portal / Ministry of Education: https://www.education.gov.in/en/national-scholarship-portal
+
+### ORIGIN AND TIMELINE
+
+| Date | Development | Exam boundary |
+|---|---|---|
+| 1962 | Planning Commission Working Group proposed a national minimum consumption approach | Early norm, not a current line |
+| 1979 | Alagh Task Force formalised calorie-linked rural and urban poverty lines | Historical methodology |
+| 1993 | Lakdawala Expert Group recommended state-specific price-adjusted lines | Adopted for later Planning Commission estimates |
+| 2005-09 | Tendulkar Expert Group reviewed methodology and reported in 2009 | Broader consumption and price treatment |
+| 2011-12 | Last comparable official Planning Commission poverty ratio under Tendulkar | 21.9 per cent; method and year must accompany it |
+| 2013 | National Food Security Act enacted | Statutory food entitlement, not a poverty-line method |
+| 2014 | Rangarajan Expert Group report released | Recommendation did not become a timeless current line |
+| 2015 | JAM-DBT architecture expanded and MGNREGA social-audit systems continued | Delivery reform is not poverty measurement |
+| 2019-21 | NFHS-5 observation window for NITI's 2023 MPI review | Observed survey vintage |
+| 2022-23 | HCES resumed after the 2011-12 published round | Redesigned survey; comparability needs caution |
+| January 2024 | NITI discussion paper estimated MPI incidence at 11.28 per cent for 2022-23 | Modelled estimate, not fresh NFHS observation |
+| 2023-24 | Second consecutive HCES round | Current consumption and Gini evidence |
+| June 2025 | World Bank adopted 2021-PPP poverty lines of USD 3.00, 4.20 and 8.30 | International comparison, not Indian eligibility |
+| 2025-26 | Economic Survey used dated World Bank, HCES and MPI evidence | No new domestic official poverty line announced |
+
+### DATED CURRENT FACT RAIL
+
+| Measure or programme | Dated fact | Qualification |
+|---|---|---|
+| Tendulkar, 2011-12 | Rs 816 rural; Rs 1,000 urban monthly per capita; HCR 21.9% | Historical Planning Commission estimate |
+| Rangarajan, 2011-12 | Rs 972 rural; Rs 1,407 urban monthly per capita; HCR 29.5% | Committee recommendation released 7 August 2014 |
+| HCES 2023-24 MPCE | Without imputation: Rs 4,122 rural, Rs 6,996 urban; with imputation: Rs 4,247 and Rs 7,078 | Average consumption, not a poverty line |
+| HCES 2023-24 consumption Gini | 0.237 rural; 0.284 urban | Consumption inequality; not income or wealth |
+| World Bank, 2022-23 | 5.3% below USD 3.00; 23.9% below USD 4.20, 2021 PPP | World Bank estimates after June 2025 line revision |
+| NITI national MPI | 14.96% observed for NFHS-5, 2019-21; 11.28% estimated for 2022-23 | Observed and estimated values must not be merged |
+| MGNREGA | At least 100 days per rural household per financial year; work within 15 days | Demand must be registered; realised work may differ |
+| NFSA/PMGKAY | PHH 5 kg/person/month; AAY 35 kg/household/month; free grain through December 2028 | Grain entitlement is not full nutrition security |
+| AB-PMJAY | Rs 5 lakh/family/year for eligible hospitalisation; 70+ expansion approved/launched Sep-Oct 2024 | Insurance is not complete healthcare |
 
 ## BASIC LEARNING SESSION
 
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Economy Basic/Core is answer-complete before optional Advanced depth. |
-| Formula boundary | Formula, numerator, denominator, unit, stock/flow, nominal/real, base year, level/rate and accounting identity are explicit. |
-| Institutional boundary | Constitution, statute, delegated rule, regulator mandate, policy, recommendation, scheme and implementation outcome remain distinct. |
-| Transmission method | Shock or instrument → prices/quantities/balance sheets/incentives → institution and market response → output, employment, distribution, stability and external effect → lag and trade-off. |
-| Current-data method | Source → release date → reference period → unit/denominator → provisional/revised/final status; incompatible Budget, Survey or statistical vintages are never mixed. |
-| Programme-status method | Announced → approved → notified/guidelines issued → funded → operational → utilised → output → outcome are separate stages. |
-| External/WTO method | Agreement text, member category, box, limit, notification, consultation, dispute and ruling are qualified without invented thresholds. |
-| Causal method | Accounting identity, chronology and correlation are not promoted into behavioural or causal claims without mechanism, counterfactual and alternatives. |
-| Answer balance | Model answers balance growth, distribution, stability, sustainability and federal dimensions with India-centric evidence. |
-| Practice contract | Every solved item has demand decoding, a detailed examiner-grade model, executable timed/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Economy\basic\23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`  
-**Substantive canonical provenance owner:** `upsc-ai-kit\knowledge\Economy\23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth_Learner-V2-Complete-Topic-Package.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Economy\advanced\23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Economy\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- Every data-heavy table states unit, denominator, geography, reference period and source/status.
-- GDP/GVA, gross/net, domestic/national, nominal/real and level/rate distinctions remain exact.
-- Monetary, fiscal and external chains state intermediaries, balance-sheet channels, lags, leakages and trade-offs.
-- Budget and Economic Survey editions are never mixed; BE, RE, Actual, advance/provisional/revised/final estimates remain labelled.
-- Scheme and programme claims distinguish announcement, approval, notification, operation, coverage, utilisation and measured outcome.
-- WTO boxes, limits, de minimis, special treatment, notifications and disputes are qualified from authoritative rules.
-- PYQ wording is preserved only where verified; reconstructed or routed demands remain labelled.
-- **Current-status note, rechecked 2026-09-06:** volatile rates, estimates, scheme status, trade rules and institutional claims retain official source, release date, reference period and revision status.
-
-**Generation-local live/current sources:**
-- `https://www.niti.gov.in/sites/default/files/2024-01/MPI-22_NITI-Aayog20254.pdf — direct fetch returned HTTP 403 on 2026-09-03; official-domain search substantively exposed the Alkire-Foster method, twelve indicators and projection basis.`
-- `https://www.niti.gov.in/whats-new/multidimensional-poverty-india-2005-06 — direct fetch returned HTTP 403; official-domain search confirmed that the 2022-23 value is an estimate rather than a fresh survey observation.`
-
-### SESSION 1 — FOUNDATION — Poverty and inequality
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Poverty and inequality explains how Poverty and inequality boundary and Absolute and relative poverty fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Poverty and inequality separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Poverty and inequality must be read through Poverty and inequality boundary and Absolute and relative poverty, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Poverty**
-- **inequality**
-- **boundary**
-- **Absolute**
-- **relative**
-- **measures**
-
-**How to use them:** Define Poverty, inequality, boundary; attach Absolute to its named source, period and status; then qualify the answer with this limit: Do not use poverty and inequality as synonyms.
+### CORE SESSION 1 - FOUNDATION - Poverty and inequality are different questions
 
 #### VISUAL FIRST
 
 ```text
-POVERTY AND INEQUALITY
-01. Poverty and inequality boundary
-    |
-    v
-02. Absolute and relative poverty
-BOUNDARY -> Do not use poverty and inequality as synonyms.
+POVERTY AND INEQUALITY ARE DIFFERENT QUESTIONS
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> The canonical Economy owner and World Bank methodology treat poverty incidence and distributional inequality as separate statistics.
+BOUNDARY -> Always identify the welfare variable, unit, survey, year and threshold before comparing either measure.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
+Poverty asks whether a person or household falls below a stated welfare threshold; inequality asks how welfare is distributed across the whole population.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** A distribution may shift upward enough to reduce poverty while becoming more unequal if upper incomes rise faster.
 
-- Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-- Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
+**MUST-WRITE KEYWORDS:** threshold, distribution, welfare variable, incidence, dispersion, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not use poverty and inequality as synonyms.
+- **Claim:** A distribution may shift upward enough to reduce poverty while becoming more unequal if upper incomes rise faster.
+- **Named evidence:** The canonical Economy owner and World Bank methodology treat poverty incidence and distributional inequality as separate statistics.
+- **Analysis:** Poverty asks whether a person or household falls below a stated welfare threshold; inequality asks how welfare is distributed across the whole population. A distribution may shift upward enough to reduce poverty while becoming more unequal if upper incomes rise faster.
+- **Qualification / demand link:** Always identify the welfare variable, unit, survey, year and threshold before comparing either measure.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
+- **Fact/evidence:** The canonical Economy owner and World Bank methodology treat poverty incidence and distributional inequality as separate statistics.
+- **Analytical inference:** Poverty asks whether a person or household falls below a stated welfare threshold; inequality asks how welfare is distributed across the whole population. A distribution may shift upward enough to reduce poverty while becoming more unequal if upper incomes rise faster.
+- **Qualification:** Always identify the welfare variable, unit, survey, year and threshold before comparing either measure.
+
+#### PRELIMS TRAP
+
+A fall in poverty does not logically prove a fall in inequality.
+
+#### MAINS USE
+
+Use this distinction in the introduction to prevent an answer from substituting Gini for poverty or headcount for inequality.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Poverty and inequality boundary -> Absolute and relative poverty
-- **Qualified use:** Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
+- Definition: Poverty asks whether a person or household falls below a stated welfare threshold; inequality asks how welfare is distributed across the whole population.
+- Evidence anchor: The canonical Economy owner and World Bank methodology treat poverty incidence and distributional inequality as separate statistics.
+- Verdict: A distribution may shift upward enough to reduce poverty while becoming more unequal if upper incomes rise faster.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Poverty and inequality
-EXACT TERMS: Poverty | inequality | boundary | Absolute | relative | measures
-MECHANISM / ARGUMENT: connect Poverty and inequality boundary and Absolute and relative poverty through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
-UPSC TRAP / ANSWER-USE: Do not use poverty and inequality as synonyms.
-ANSWER-GRABBING FORMULATION: Poverty and inequality converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 2 — FOUNDATION — Absolute and relative poverty
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Absolute and relative poverty explains how Headcount and poverty gap fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Absolute and relative poverty separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Absolute and relative poverty must be read through Headcount and poverty gap, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Absolute**
-- **relative**
-- **poverty**
-- **Headcount**
-- **ratio**
-- **measures**
-
-**How to use them:** Define Absolute, relative, poverty; attach Headcount to its named source, period and status; then qualify the answer with this limit: Do not quote a poverty estimate without its line, methodology, period and price basis.
+### CORE SESSION 2 - FOUNDATION - Absolute and relative poverty
 
 #### VISUAL FIRST
 
 ```text
 ABSOLUTE AND RELATIVE POVERTY
-01. Headcount and poverty gap
-BOUNDARY -> Do not quote a poverty estimate without its line, methodology, period and price basis.
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> World Bank international lines are absolute real-consumption benchmarks; many high-income-country measures use relative-income thresholds.
+BOUNDARY -> Absolute does not mean timeless nominal money: price and PPP conversion are required.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
+Absolute poverty measures shortfall below a fixed real minimum, while relative poverty locates a person against the contemporary distribution or social standard.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** An absolute line can remain constant in real purchasing power while a relative line moves with median or average living standards.
 
-- The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
+**MUST-WRITE KEYWORDS:** absolute line, relative threshold, real purchasing power, median, social standard, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not quote a poverty estimate without its line, methodology, period and price basis.
+- **Claim:** An absolute line can remain constant in real purchasing power while a relative line moves with median or average living standards.
+- **Named evidence:** World Bank international lines are absolute real-consumption benchmarks; many high-income-country measures use relative-income thresholds.
+- **Analysis:** Absolute poverty measures shortfall below a fixed real minimum, while relative poverty locates a person against the contemporary distribution or social standard. An absolute line can remain constant in real purchasing power while a relative line moves with median or average living standards.
+- **Qualification / demand link:** Absolute does not mean timeless nominal money: price and PPP conversion are required.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Trace social expenditure from allocation to service quality and household outcome.
+- **Fact/evidence:** World Bank international lines are absolute real-consumption benchmarks; many high-income-country measures use relative-income thresholds.
+- **Analytical inference:** Absolute poverty measures shortfall below a fixed real minimum, while relative poverty locates a person against the contemporary distribution or social standard. An absolute line can remain constant in real purchasing power while a relative line moves with median or average living standards.
+- **Qualification:** Absolute does not mean timeless nominal money: price and PPP conversion are required.
+
+#### PRELIMS TRAP
+
+A nominally unchanged rupee line is not a constant real poverty line.
+
+#### MAINS USE
+
+Contrast minimum capability protection with participation in prevailing social life.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Headcount and poverty gap
-- **Qualified use:** Trace social expenditure from allocation to service quality and household outcome.
+- Definition: Absolute poverty measures shortfall below a fixed real minimum, while relative poverty locates a person against the contemporary distribution or social standard.
+- Evidence anchor: World Bank international lines are absolute real-consumption benchmarks; many high-income-country measures use relative-income thresholds.
+- Verdict: An absolute line can remain constant in real purchasing power while a relative line moves with median or average living standards.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Absolute and relative poverty
-EXACT TERMS: Absolute | relative | poverty | Headcount | ratio | measures
-MECHANISM / ARGUMENT: connect Headcount and poverty gap through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Trace social expenditure from allocation to service quality and household outcome.
-UPSC TRAP / ANSWER-USE: Do not quote a poverty estimate without its line, methodology, period and price basis.
-ANSWER-GRABBING FORMULATION: Absolute and relative poverty converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 3 — FOUNDATION — Headcount ratio and poverty gap
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Headcount ratio and poverty gap explains how Poverty-line vintage fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Headcount ratio and poverty gap separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Headcount ratio and poverty gap must be read through Poverty-line vintage, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Headcount**
-- **ratio**
-- **poverty**
-- **Poverty-line**
-- **vintage**
-- **estimate**
-
-**How to use them:** Define Headcount, ratio, poverty; attach Poverty-line to its named source, period and status; then qualify the answer with this limit: Do not merge headcount incidence with poverty-gap depth.
+### CORE SESSION 3 - FOUNDATION - Transient and chronic poverty
 
 #### VISUAL FIRST
 
 ```text
-HEADCOUNT RATIO AND POVERTY GAP
-01. Poverty-line vintage
-BOUNDARY -> Do not merge headcount incidence with poverty-gap depth.
+TRANSIENT AND CHRONIC POVERTY
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Economic Survey analysis links welfare resilience to employment, health, education and social protection rather than a single annual income observation.
+BOUNDARY -> A cross-section identifies current poverty but cannot by itself establish duration; panel or repeated evidence is needed.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
+Transient poverty is temporary shortfall caused by shocks; chronic poverty persists across repeated periods or generations.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Illness, crop loss, job loss or disaster can push a vulnerable household below the line, while low assets, discrimination and weak human capital can keep it there.
 
-- A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
+**MUST-WRITE KEYWORDS:** transient, chronic, vulnerability, shock, persistence, panel data, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not merge headcount incidence with poverty-gap depth.
+- **Claim:** Illness, crop loss, job loss or disaster can push a vulnerable household below the line, while low assets, discrimination and weak human capital can keep it there.
+- **Named evidence:** Economic Survey analysis links welfare resilience to employment, health, education and social protection rather than a single annual income observation.
+- **Analysis:** Transient poverty is temporary shortfall caused by shocks; chronic poverty persists across repeated periods or generations. Illness, crop loss, job loss or disaster can push a vulnerable household below the line, while low assets, discrimination and weak human capital can keep it there.
+- **Qualification / demand link:** A cross-section identifies current poverty but cannot by itself establish duration; panel or repeated evidence is needed.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Combine productive participation, universal basics, targeted protection and disaggregated accountability.
+- **Fact/evidence:** Economic Survey analysis links welfare resilience to employment, health, education and social protection rather than a single annual income observation.
+- **Analytical inference:** Transient poverty is temporary shortfall caused by shocks; chronic poverty persists across repeated periods or generations. Illness, crop loss, job loss or disaster can push a vulnerable household below the line, while low assets, discrimination and weak human capital can keep it there.
+- **Qualification:** A cross-section identifies current poverty but cannot by itself establish duration; panel or repeated evidence is needed.
+
+#### PRELIMS TRAP
+
+One survey observation cannot prove that a household is chronically poor.
+
+#### MAINS USE
+
+Match shock-responsive support to transient poverty and asset-capability reform to chronic poverty.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Poverty-line vintage
-- **Qualified use:** Combine productive participation, universal basics, targeted protection and disaggregated accountability.
+- Definition: Transient poverty is temporary shortfall caused by shocks; chronic poverty persists across repeated periods or generations.
+- Evidence anchor: Economic Survey analysis links welfare resilience to employment, health, education and social protection rather than a single annual income observation.
+- Verdict: Illness, crop loss, job loss or disaster can push a vulnerable household below the line, while low assets, discrimination and weak human capital can keep it there.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Headcount ratio and poverty gap
-EXACT TERMS: Headcount | ratio | poverty | Poverty-line | vintage | estimate
-MECHANISM / ARGUMENT: connect Poverty-line vintage through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Combine productive participation, universal basics, targeted protection and disaggregated accountability.
-UPSC TRAP / ANSWER-USE: Do not merge headcount incidence with poverty-gap depth.
-ANSWER-GRABBING FORMULATION: Headcount ratio and poverty gap converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 4 — CORE — Poverty-line method and vintage
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Poverty-line method and vintage explains how Tendulkar and Rangarajan fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Poverty-line method and vintage separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Poverty-line method and vintage must be read through Tendulkar and Rangarajan, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Poverty-line**
-- **method**
-- **vintage**
-- **Tendulkar**
-- **Rangarajan**
-- **expert-group**
-
-**How to use them:** Define Poverty-line, method, vintage; attach Tendulkar to its named source, period and status; then qualify the answer with this limit: Do not treat Tendulkar and Rangarajan estimates as one current official series.
+### CORE SESSION 4 - FOUNDATION - Poverty line and welfare aggregate
 
 #### VISUAL FIRST
 
 ```text
-POVERTY-LINE METHOD AND VINTAGE
-01. Tendulkar and Rangarajan
-BOUNDARY -> Do not treat Tendulkar and Rangarajan estimates as one current official series.
+POVERTY LINE AND WELFARE AGGREGATE
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Indian official poverty estimates historically used NSS household consumer expenditure and methodology-specific rural and urban lines.
+BOUNDARY -> The line, price base, reference period, equivalence rule and survey design jointly determine the estimate.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
+A poverty line is a stated threshold applied to a specified welfare aggregate, commonly per-capita consumption or income.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Surveyed household resources are converted to a comparable person-level measure and compared with a price-adjusted threshold.
 
-- The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
+**MUST-WRITE KEYWORDS:** poverty line, welfare aggregate, consumption, price index, reference period, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not treat Tendulkar and Rangarajan estimates as one current official series.
+- **Claim:** Surveyed household resources are converted to a comparable person-level measure and compared with a price-adjusted threshold.
+- **Named evidence:** Indian official poverty estimates historically used NSS household consumer expenditure and methodology-specific rural and urban lines.
+- **Analysis:** A poverty line is a stated threshold applied to a specified welfare aggregate, commonly per-capita consumption or income. Surveyed household resources are converted to a comparable person-level measure and compared with a price-adjusted threshold.
+- **Qualification / demand link:** The line, price base, reference period, equivalence rule and survey design jointly determine the estimate.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
+- **Fact/evidence:** Indian official poverty estimates historically used NSS household consumer expenditure and methodology-specific rural and urban lines.
+- **Analytical inference:** A poverty line is a stated threshold applied to a specified welfare aggregate, commonly per-capita consumption or income. Surveyed household resources are converted to a comparable person-level measure and compared with a price-adjusted threshold.
+- **Qualification:** The line, price base, reference period, equivalence rule and survey design jointly determine the estimate.
+
+#### PRELIMS TRAP
+
+A poverty line is not a universal biological constant or an income-tax exemption limit.
+
+#### MAINS USE
+
+State the measurement architecture before citing any poverty ratio.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Tendulkar and Rangarajan
-- **Qualified use:** Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
+- Definition: A poverty line is a stated threshold applied to a specified welfare aggregate, commonly per-capita consumption or income.
+- Evidence anchor: Indian official poverty estimates historically used NSS household consumer expenditure and methodology-specific rural and urban lines.
+- Verdict: Surveyed household resources are converted to a comparable person-level measure and compared with a price-adjusted threshold.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Poverty-line method and vintage
-EXACT TERMS: Poverty-line | method | vintage | Tendulkar | Rangarajan | expert-group
-MECHANISM / ARGUMENT: connect Tendulkar and Rangarajan through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
-UPSC TRAP / ANSWER-USE: Do not treat Tendulkar and Rangarajan estimates as one current official series.
-ANSWER-GRABBING FORMULATION: Poverty-line method and vintage converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 5 — CORE — Tendulkar and Rangarajan methods
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Tendulkar and Rangarajan methods explains how Lorenz curve and Gini fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Tendulkar and Rangarajan methods separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Tendulkar and Rangarajan methods must be read through Lorenz curve and Gini, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Tendulkar**
-- **Rangarajan**
-- **methods**
-- **Lorenz**
-- **curve**
-- **Gini**
-
-**How to use them:** Define Tendulkar, Rangarajan, methods; attach Lorenz to its named source, period and status; then qualify the answer with this limit: Do not compare income, consumption and wealth Gini values as if they used one base.
+### CORE SESSION 5 - FOUNDATION - Headcount ratio
 
 #### VISUAL FIRST
 
 ```text
-TENDULKAR AND RANGARAJAN METHODS
-01. Lorenz curve and Gini
-BOUNDARY -> Do not compare income, consumption and wealth Gini values as if they used one base.
+HEADCOUNT RATIO
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Planning Commission estimates under the Tendulkar method reported an all-India HCR of 21.9 per cent for 2011-12.
+BOUNDARY -> Headcount is insensitive to how far below the line each poor person lies.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
+The poverty headcount ratio is the share of the relevant population whose welfare measure lies below the poverty line.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** HCR equals the number of poor persons divided by the total relevant population, multiplied by 100.
 
-- The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
+**MUST-WRITE KEYWORDS:** headcount ratio, incidence, numerator, denominator, poverty line, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not compare income, consumption and wealth Gini values as if they used one base.
+- **Claim:** HCR equals the number of poor persons divided by the total relevant population, multiplied by 100.
+- **Named evidence:** Planning Commission estimates under the Tendulkar method reported an all-India HCR of 21.9 per cent for 2011-12.
+- **Analysis:** The poverty headcount ratio is the share of the relevant population whose welfare measure lies below the poverty line. HCR equals the number of poor persons divided by the total relevant population, multiplied by 100.
+- **Qualification / demand link:** Headcount is insensitive to how far below the line each poor person lies.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Trace social expenditure from allocation to service quality and household outcome.
+- **Fact/evidence:** Planning Commission estimates under the Tendulkar method reported an all-India HCR of 21.9 per cent for 2011-12.
+- **Analytical inference:** The poverty headcount ratio is the share of the relevant population whose welfare measure lies below the poverty line. HCR equals the number of poor persons divided by the total relevant population, multiplied by 100.
+- **Qualification:** Headcount is insensitive to how far below the line each poor person lies.
+
+#### PRELIMS TRAP
+
+Giving a poor person income while they remain below the line does not change headcount.
+
+#### MAINS USE
+
+Use HCR for incidence, then add depth and severity before judging welfare intensity.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Lorenz curve and Gini
-- **Qualified use:** Trace social expenditure from allocation to service quality and household outcome.
+- Definition: The poverty headcount ratio is the share of the relevant population whose welfare measure lies below the poverty line.
+- Evidence anchor: Planning Commission estimates under the Tendulkar method reported an all-India HCR of 21.9 per cent for 2011-12.
+- Verdict: HCR equals the number of poor persons divided by the total relevant population, multiplied by 100.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Tendulkar and Rangarajan methods
-EXACT TERMS: Tendulkar | Rangarajan | methods | Lorenz | curve | Gini
-MECHANISM / ARGUMENT: connect Lorenz curve and Gini through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Trace social expenditure from allocation to service quality and household outcome.
-UPSC TRAP / ANSWER-USE: Do not compare income, consumption and wealth Gini values as if they used one base.
-ANSWER-GRABBING FORMULATION: Tendulkar and Rangarajan methods converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 6 — CORE — Lorenz curve and Gini coefficient
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Lorenz curve and Gini coefficient explains how MPI architecture and MPI formula fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Lorenz curve and Gini coefficient separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Lorenz curve and Gini coefficient must be read through MPI architecture and MPI formula, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Lorenz**
-- **curve**
-- **Gini**
-- **coefficient**
-- **architecture**
-- **formula**
-
-**How to use them:** Define Lorenz, curve, Gini; attach coefficient to its named source, period and status; then qualify the answer with this limit: Do not present the projected 2022-23 MPI estimate as a fresh household survey result.
+### CORE SESSION 6 - FOUNDATION - Poverty gap
 
 #### VISUAL FIRST
 
 ```text
-LORENZ CURVE AND GINI COEFFICIENT
-01. MPI architecture
-    |
-    v
-02. MPI formula
-BOUNDARY -> Do not present the projected 2022-23 MPI estimate as a fresh household survey result.
+POVERTY GAP
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> The Foster-Greer-Thorbecke alpha-equals-one measure captures depth that the headcount ratio misses.
+BOUNDARY -> Two populations can have the same headcount but different poverty gaps.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
+The poverty gap measures the average normalised shortfall of poor persons from the poverty line, counting non-poor persons as zero-gap.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** For each poor person, subtract welfare from the line, divide by the line, and average across the full population.
 
-- India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-- The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
+**MUST-WRITE KEYWORDS:** poverty gap, depth, normalised shortfall, FGT, incidence, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not present the projected 2022-23 MPI estimate as a fresh household survey result.
+- **Claim:** For each poor person, subtract welfare from the line, divide by the line, and average across the full population.
+- **Named evidence:** The Foster-Greer-Thorbecke alpha-equals-one measure captures depth that the headcount ratio misses.
+- **Analysis:** The poverty gap measures the average normalised shortfall of poor persons from the poverty line, counting non-poor persons as zero-gap. For each poor person, subtract welfare from the line, divide by the line, and average across the full population.
+- **Qualification / demand link:** Two populations can have the same headcount but different poverty gaps.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Combine productive participation, universal basics, targeted protection and disaggregated accountability.
+- **Fact/evidence:** The Foster-Greer-Thorbecke alpha-equals-one measure captures depth that the headcount ratio misses.
+- **Analytical inference:** The poverty gap measures the average normalised shortfall of poor persons from the poverty line, counting non-poor persons as zero-gap. For each poor person, subtract welfare from the line, divide by the line, and average across the full population.
+- **Qualification:** Two populations can have the same headcount but different poverty gaps.
+
+#### PRELIMS TRAP
+
+The poverty gap is not simply the number of people below the line.
+
+#### MAINS USE
+
+Use it to show whether transfers reduce the depth of deprivation even before households cross the line.
 
 #### MINI RECAP
 
-- **Mechanism chain:** MPI architecture -> MPI formula
-- **Qualified use:** Combine productive participation, universal basics, targeted protection and disaggregated accountability.
+- Definition: The poverty gap measures the average normalised shortfall of poor persons from the poverty line, counting non-poor persons as zero-gap.
+- Evidence anchor: The Foster-Greer-Thorbecke alpha-equals-one measure captures depth that the headcount ratio misses.
+- Verdict: For each poor person, subtract welfare from the line, divide by the line, and average across the full population.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Lorenz curve and Gini coefficient
-EXACT TERMS: Lorenz | curve | Gini | coefficient | architecture | formula
-MECHANISM / ARGUMENT: connect MPI architecture and MPI formula through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Combine productive participation, universal basics, targeted protection and disaggregated accountability.
-UPSC TRAP / ANSWER-USE: Do not present the projected 2022-23 MPI estimate as a fresh household survey result.
-ANSWER-GRABBING FORMULATION: Lorenz curve and Gini coefficient converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 7 — CORE — National Multidimensional Poverty Index
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** National Multidimensional Poverty Index explains how Observed and projected MPI fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, National Multidimensional Poverty Index separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> National Multidimensional Poverty Index must be read through Observed and projected MPI, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **National**
-- **Multidimensional**
-- **Poverty**
-- **Index**
-- **Observed**
-- **projected**
-
-**How to use them:** Define National, Multidimensional, Poverty; attach Index to its named source, period and status; then qualify the answer with this limit: Do not equate social-sector allocation, expenditure, service quality and outcome.
+### CORE SESSION 7 - CORE - Squared poverty gap and severity
 
 #### VISUAL FIRST
 
 ```text
-NATIONAL MULTIDIMENSIONAL POVERTY INDEX
-01. Observed and projected MPI
-BOUNDARY -> Do not equate social-sector allocation, expenditure, service quality and outcome.
+SQUARED POVERTY GAP AND SEVERITY
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> The Foster-Greer-Thorbecke alpha-equals-two class is decomposable across population groups under a common line.
+BOUNDARY -> Its ethical weighting is deliberate; the index is less intuitive than headcount and depends on the same line and data.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
+The squared poverty gap gives greater weight to larger shortfalls and is therefore sensitive to inequality among the poor.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Squaring each normalised gap makes severe deprivation contribute disproportionately to the aggregate.
 
-- The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
+**MUST-WRITE KEYWORDS:** squared gap, severity, inequality among poor, FGT alpha two, decomposability, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not equate social-sector allocation, expenditure, service quality and outcome.
+- **Claim:** Squaring each normalised gap makes severe deprivation contribute disproportionately to the aggregate.
+- **Named evidence:** The Foster-Greer-Thorbecke alpha-equals-two class is decomposable across population groups under a common line.
+- **Analysis:** The squared poverty gap gives greater weight to larger shortfalls and is therefore sensitive to inequality among the poor. Squaring each normalised gap makes severe deprivation contribute disproportionately to the aggregate.
+- **Qualification / demand link:** Its ethical weighting is deliberate; the index is less intuitive than headcount and depends on the same line and data.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
+- **Fact/evidence:** The Foster-Greer-Thorbecke alpha-equals-two class is decomposable across population groups under a common line.
+- **Analytical inference:** The squared poverty gap gives greater weight to larger shortfalls and is therefore sensitive to inequality among the poor. Squaring each normalised gap makes severe deprivation contribute disproportionately to the aggregate.
+- **Qualification:** Its ethical weighting is deliberate; the index is less intuitive than headcount and depends on the same line and data.
+
+#### PRELIMS TRAP
+
+Severity does not mean multidimensional poverty; it is still based on the selected monetary welfare aggregate.
+
+#### MAINS USE
+
+Recommend a headcount-gap-severity dashboard rather than one poverty rate.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Observed and projected MPI
-- **Qualified use:** Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
+- Definition: The squared poverty gap gives greater weight to larger shortfalls and is therefore sensitive to inequality among the poor.
+- Evidence anchor: The Foster-Greer-Thorbecke alpha-equals-two class is decomposable across population groups under a common line.
+- Verdict: Squaring each normalised gap makes severe deprivation contribute disproportionately to the aggregate.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: National Multidimensional Poverty Index
-EXACT TERMS: National | Multidimensional | Poverty | Index | Observed | projected
-MECHANISM / ARGUMENT: connect Observed and projected MPI through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
-UPSC TRAP / ANSWER-USE: Do not equate social-sector allocation, expenditure, service quality and outcome.
-ANSWER-GRABBING FORMULATION: National Multidimensional Poverty Index converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 8 — CORE — MPI headcount, intensity and formula
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** MPI headcount, intensity and formula explains how Inclusive-growth frame fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, MPI headcount, intensity and formula separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> MPI headcount, intensity and formula must be read through Inclusive-growth frame, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **headcount**
-- **intensity**
-- **formula**
-- **Inclusive-growth**
-- **frame**
-- **Inclusive**
-
-**How to use them:** Define headcount, intensity, formula; attach Inclusive-growth to its named source, period and status; then qualify the answer with this limit: Do not treat a bank account as proof of inclusive growth.
+### CORE SESSION 8 - CORE - Indian poverty-estimation chronology
 
 #### VISUAL FIRST
 
 ```text
-MPI HEADCOUNT, INTENSITY AND FORMULA
-01. Inclusive-growth frame
-BOUNDARY -> Do not treat a bank account as proof of inclusive growth.
+INDIAN POVERTY-ESTIMATION CHRONOLOGY
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> The standard chronology is 1962 Working Group, Alagh 1979, Lakdawala 1993, Tendulkar 2009 and Rangarajan 2014.
+BOUNDARY -> Committee report dates, reference survey years and government adoption status are distinct.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
+India's official monetary-poverty methodology evolved through expert groups rather than one unchanged line.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Successive committees revised consumption norms, price adjustment and rural-urban comparability as expenditure patterns changed.
 
-- Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
+**MUST-WRITE KEYWORDS:** 1962 Working Group, Alagh, Lakdawala, Tendulkar, Rangarajan, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not treat a bank account as proof of inclusive growth.
+- **Claim:** Successive committees revised consumption norms, price adjustment and rural-urban comparability as expenditure patterns changed.
+- **Named evidence:** The standard chronology is 1962 Working Group, Alagh 1979, Lakdawala 1993, Tendulkar 2009 and Rangarajan 2014.
+- **Analysis:** India's official monetary-poverty methodology evolved through expert groups rather than one unchanged line. Successive committees revised consumption norms, price adjustment and rural-urban comparability as expenditure patterns changed.
+- **Qualification / demand link:** Committee report dates, reference survey years and government adoption status are distinct.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Trace social expenditure from allocation to service quality and household outcome.
+- **Fact/evidence:** The standard chronology is 1962 Working Group, Alagh 1979, Lakdawala 1993, Tendulkar 2009 and Rangarajan 2014.
+- **Analytical inference:** India's official monetary-poverty methodology evolved through expert groups rather than one unchanged line. Successive committees revised consumption norms, price adjustment and rural-urban comparability as expenditure patterns changed.
+- **Qualification:** Committee report dates, reference survey years and government adoption status are distinct.
+
+#### PRELIMS TRAP
+
+Rangarajan's 2014 recommendation did not automatically become a permanent current official poverty line.
+
+#### MAINS USE
+
+Use chronology to explain why poverty figures from different methods are not interchangeable.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Inclusive-growth frame
-- **Qualified use:** Trace social expenditure from allocation to service quality and household outcome.
+- Definition: India's official monetary-poverty methodology evolved through expert groups rather than one unchanged line.
+- Evidence anchor: The standard chronology is 1962 Working Group, Alagh 1979, Lakdawala 1993, Tendulkar 2009 and Rangarajan 2014.
+- Verdict: Successive committees revised consumption norms, price adjustment and rural-urban comparability as expenditure patterns changed.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: MPI headcount, intensity and formula
-EXACT TERMS: headcount | intensity | formula | Inclusive-growth | frame | Inclusive
-MECHANISM / ARGUMENT: connect Inclusive-growth frame through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Trace social expenditure from allocation to service quality and household outcome.
-UPSC TRAP / ANSWER-USE: Do not treat a bank account as proof of inclusive growth.
-ANSWER-GRABBING FORMULATION: MPI headcount, intensity and formula converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 9 — CORE — Observed and projected MPI estimates
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Observed and projected MPI estimates explains how Growth elasticity of poverty fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Observed and projected MPI estimates separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Observed and projected MPI estimates must be read through Growth elasticity of poverty, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Observed**
-- **projected**
-- **estimates**
-- **Growth**
-- **elasticity**
-- **poverty**
-
-**How to use them:** Define Observed, projected, estimates; attach Growth to its named source, period and status; then qualify the answer with this limit: Do not assume a national average describes every state, district or group.
+### CORE SESSION 9 - CORE - Lakdawala methodology
 
 #### VISUAL FIRST
 
 ```text
-OBSERVED AND PROJECTED MPI ESTIMATES
-01. Growth elasticity of poverty
-BOUNDARY -> Do not assume a national average describes every state, district or group.
+LAKDAWALA METHODOLOGY
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Planning Commission estimates from 1997 used the Expert Group methodology chaired by D. T. Lakdawala.
+BOUNDARY -> Observed calorie intake and the expenditure corresponding to an older calorie norm can diverge as preferences and prices change.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
+The Lakdawala approach retained state-specific poverty lines linked to calorie-norm expenditure baskets and updated them with price indices.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Separate rural and urban price adjustments produced state-specific thresholds and poverty estimates from NSS consumption data.
 
-- The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
+**MUST-WRITE KEYWORDS:** Lakdawala, calorie norm, state-specific line, price index, NSS, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not assume a national average describes every state, district or group.
+- **Claim:** Separate rural and urban price adjustments produced state-specific thresholds and poverty estimates from NSS consumption data.
+- **Named evidence:** Planning Commission estimates from 1997 used the Expert Group methodology chaired by D. T. Lakdawala.
+- **Analysis:** The Lakdawala approach retained state-specific poverty lines linked to calorie-norm expenditure baskets and updated them with price indices. Separate rural and urban price adjustments produced state-specific thresholds and poverty estimates from NSS consumption data.
+- **Qualification / demand link:** Observed calorie intake and the expenditure corresponding to an older calorie norm can diverge as preferences and prices change.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Combine productive participation, universal basics, targeted protection and disaggregated accountability.
+- **Fact/evidence:** Planning Commission estimates from 1997 used the Expert Group methodology chaired by D. T. Lakdawala.
+- **Analytical inference:** The Lakdawala approach retained state-specific poverty lines linked to calorie-norm expenditure baskets and updated them with price indices. Separate rural and urban price adjustments produced state-specific thresholds and poverty estimates from NSS consumption data.
+- **Qualification:** Observed calorie intake and the expenditure corresponding to an older calorie norm can diverge as preferences and prices change.
+
+#### PRELIMS TRAP
+
+Lakdawala did not prescribe one identical nominal line for every state.
+
+#### MAINS USE
+
+Critique the ageing basket and price-index dependence without saying nutrition ceased to matter.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Growth elasticity of poverty
-- **Qualified use:** Combine productive participation, universal basics, targeted protection and disaggregated accountability.
+- Definition: The Lakdawala approach retained state-specific poverty lines linked to calorie-norm expenditure baskets and updated them with price indices.
+- Evidence anchor: Planning Commission estimates from 1997 used the Expert Group methodology chaired by D. T. Lakdawala.
+- Verdict: Separate rural and urban price adjustments produced state-specific thresholds and poverty estimates from NSS consumption data.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Observed and projected MPI estimates
-EXACT TERMS: Observed | projected | estimates | Growth | elasticity | poverty
-MECHANISM / ARGUMENT: connect Growth elasticity of poverty through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Combine productive participation, universal basics, targeted protection and disaggregated accountability.
-UPSC TRAP / ANSWER-USE: Do not assume a national average describes every state, district or group.
-ANSWER-GRABBING FORMULATION: Observed and projected MPI estimates converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 10 — CORE — Inclusive growth
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Inclusive growth explains how Social-sector spending chain fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Inclusive growth separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Inclusive growth must be read through Social-sector spending chain, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Inclusive**
-- **growth**
-- **Social-sector**
-- **spending**
-- **chain**
-- **Budget**
-
-**How to use them:** Define Inclusive, growth, Social-sector; attach spending to its named source, period and status; then qualify the answer with this limit: Do not infer an objective PYQ answer letter from a routed demand.
+### CORE SESSION 10 - CORE - Tendulkar methodology and 2011-12 estimate
 
 #### VISUAL FIRST
 
 ```text
-INCLUSIVE GROWTH
-01. Social-sector spending chain
-BOUNDARY -> Do not infer an objective PYQ answer letter from a routed demand.
+TENDULKAR METHODOLOGY AND 2011-12 ESTIMATE
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> For 2011-12 the Planning Commission reported Rs 816 rural and Rs 1,000 urban monthly per capita lines and a 21.9 per cent all-India HCR under this method.
+BOUNDARY -> These are 2011-12 method-specific nominal values, not current 2026 poverty thresholds.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
+The Tendulkar Committee moved away from directly anchoring poverty lines to calorie intake and used a broader consumption basket with improved price adjustment.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** It adopted a common reference urban basket logic, accounted more explicitly for private health and education spending, and used NSS consumption.
 
-- Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
+**MUST-WRITE KEYWORDS:** Tendulkar 2009, 2011-12, MPCE, health, education, 21.9 per cent, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not infer an objective PYQ answer letter from a routed demand.
+- **Claim:** It adopted a common reference urban basket logic, accounted more explicitly for private health and education spending, and used NSS consumption.
+- **Named evidence:** For 2011-12 the Planning Commission reported Rs 816 rural and Rs 1,000 urban monthly per capita lines and a 21.9 per cent all-India HCR under this method.
+- **Analysis:** The Tendulkar Committee moved away from directly anchoring poverty lines to calorie intake and used a broader consumption basket with improved price adjustment. It adopted a common reference urban basket logic, accounted more explicitly for private health and education spending, and used NSS consumption.
+- **Qualification / demand link:** These are 2011-12 method-specific nominal values, not current 2026 poverty thresholds.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
+- **Fact/evidence:** For 2011-12 the Planning Commission reported Rs 816 rural and Rs 1,000 urban monthly per capita lines and a 21.9 per cent all-India HCR under this method.
+- **Analytical inference:** The Tendulkar Committee moved away from directly anchoring poverty lines to calorie intake and used a broader consumption basket with improved price adjustment. It adopted a common reference urban basket logic, accounted more explicitly for private health and education spending, and used NSS consumption.
+- **Qualification:** These are 2011-12 method-specific nominal values, not current 2026 poverty thresholds.
+
+#### PRELIMS TRAP
+
+Tendulkar did not define poverty solely by a fresh calorie cutoff.
+
+#### MAINS USE
+
+Cite the line and HCR only with method and year attached.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Social-sector spending chain
-- **Qualified use:** Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
+- Definition: The Tendulkar Committee moved away from directly anchoring poverty lines to calorie intake and used a broader consumption basket with improved price adjustment.
+- Evidence anchor: For 2011-12 the Planning Commission reported Rs 816 rural and Rs 1,000 urban monthly per capita lines and a 21.9 per cent all-India HCR under this method.
+- Verdict: It adopted a common reference urban basket logic, accounted more explicitly for private health and education spending, and used NSS consumption.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Inclusive growth
-EXACT TERMS: Inclusive | growth | Social-sector | spending | chain | Budget
-MECHANISM / ARGUMENT: connect Social-sector spending chain through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
-UPSC TRAP / ANSWER-USE: Do not infer an objective PYQ answer letter from a routed demand.
-ANSWER-GRABBING FORMULATION: Inclusive growth converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 11 — CORE — Growth elasticity of poverty
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Growth elasticity of poverty explains how Universal and targeted provision and Social assistance and insurance fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Growth elasticity of poverty separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Growth elasticity of poverty must be read through Universal and targeted provision and Social assistance and insurance, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Growth**
-- **elasticity**
-- **poverty**
-- **Universal**
-- **targeted**
-- **provision**
-
-**How to use them:** Define Growth, elasticity, poverty; attach Universal to its named source, period and status; then qualify the answer with this limit: Do not use poverty and inequality as synonyms.
+### CORE SESSION 11 - CORE - Rangarajan methodology and status
 
 #### VISUAL FIRST
 
 ```text
-GROWTH ELASTICITY OF POVERTY
-01. Universal and targeted provision
-    |
-    v
-02. Social assistance and insurance
-BOUNDARY -> Do not use poverty and inequality as synonyms.
+RANGARAJAN METHODOLOGY AND STATUS
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> The 7 August 2014 PIB release reports Rs 972 rural and Rs 1,407 urban monthly per capita lines and a 29.5 per cent HCR for 2011-12.
+BOUNDARY -> The recommendation was not adopted as a timeless successor line; current claims must remain attributed to Rangarajan and 2011-12.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
+The Rangarajan Committee proposed separate normative food and non-food components and generally higher rural and urban thresholds than Tendulkar.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Its revised basket produced a larger estimated poor population for the same 2011-12 reference year.
 
-- Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-- Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
+**MUST-WRITE KEYWORDS:** Rangarajan 2014, normative basket, Rs 972, Rs 1,407, 29.5 per cent, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not use poverty and inequality as synonyms.
+- **Claim:** Its revised basket produced a larger estimated poor population for the same 2011-12 reference year.
+- **Named evidence:** The 7 August 2014 PIB release reports Rs 972 rural and Rs 1,407 urban monthly per capita lines and a 29.5 per cent HCR for 2011-12.
+- **Analysis:** The Rangarajan Committee proposed separate normative food and non-food components and generally higher rural and urban thresholds than Tendulkar. Its revised basket produced a larger estimated poor population for the same 2011-12 reference year.
+- **Qualification / demand link:** The recommendation was not adopted as a timeless successor line; current claims must remain attributed to Rangarajan and 2011-12.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Trace social expenditure from allocation to service quality and household outcome.
+- **Fact/evidence:** The 7 August 2014 PIB release reports Rs 972 rural and Rs 1,407 urban monthly per capita lines and a 29.5 per cent HCR for 2011-12.
+- **Analytical inference:** The Rangarajan Committee proposed separate normative food and non-food components and generally higher rural and urban thresholds than Tendulkar. Its revised basket produced a larger estimated poor population for the same 2011-12 reference year.
+- **Qualification:** The recommendation was not adopted as a timeless successor line; current claims must remain attributed to Rangarajan and 2011-12.
+
+#### PRELIMS TRAP
+
+Higher poverty under Rangarajan does not show that living standards worsened between two dates; the method changed for the same year.
+
+#### MAINS USE
+
+Use Tendulkar-versus-Rangarajan to demonstrate methodology sensitivity.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Universal and targeted provision -> Social assistance and insurance
-- **Qualified use:** Trace social expenditure from allocation to service quality and household outcome.
+- Definition: The Rangarajan Committee proposed separate normative food and non-food components and generally higher rural and urban thresholds than Tendulkar.
+- Evidence anchor: The 7 August 2014 PIB release reports Rs 972 rural and Rs 1,407 urban monthly per capita lines and a 29.5 per cent HCR for 2011-12.
+- Verdict: Its revised basket produced a larger estimated poor population for the same 2011-12 reference year.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Growth elasticity of poverty
-EXACT TERMS: Growth | elasticity | poverty | Universal | targeted | provision
-MECHANISM / ARGUMENT: connect Universal and targeted provision and Social assistance and insurance through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Trace social expenditure from allocation to service quality and household outcome.
-UPSC TRAP / ANSWER-USE: Do not use poverty and inequality as synonyms.
-ANSWER-GRABBING FORMULATION: Growth elasticity of poverty converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 12 — CORE — Social-sector spending results chain
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Social-sector spending results chain explains how MGNREGA boundary fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Social-sector spending results chain separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Social-sector spending results chain must be read through MGNREGA boundary, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Social-sector**
-- **spending**
-- **results**
-- **chain**
-- **MGNREGA**
-- **boundary**
-
-**How to use them:** Define Social-sector, spending, results; attach chain to its named source, period and status; then qualify the answer with this limit: Do not quote a poverty estimate without its line, methodology, period and price basis.
+### CORE SESSION 12 - CORE - Current domestic poverty-line status
 
 #### VISUAL FIRST
 
 ```text
-SOCIAL-SECTOR SPENDING RESULTS CHAIN
-01. MGNREGA boundary
-BOUNDARY -> Do not quote a poverty estimate without its line, methodology, period and price basis.
+CURRENT DOMESTIC POVERTY-LINE STATUS
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Economic Survey 2025-26 cites World Bank 2022-23 estimates and NITI multidimensional estimates rather than announcing a new domestic official line.
+BOUNDARY -> Do not call a World Bank line India's statutory or officially adopted domestic poverty line.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
+India presently has no single newly adopted official monetary poverty line that supersedes all committee methods for current-year measurement.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Recent debate uses HCES-based research, World Bank international lines and NITI MPI, each answering a different question.
 
-- MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
+**MUST-WRITE KEYWORDS:** official status, attribution, domestic line, international estimate, methodology, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not quote a poverty estimate without its line, methodology, period and price basis.
+- **Claim:** Recent debate uses HCES-based research, World Bank international lines and NITI MPI, each answering a different question.
+- **Named evidence:** Economic Survey 2025-26 cites World Bank 2022-23 estimates and NITI multidimensional estimates rather than announcing a new domestic official line.
+- **Analysis:** India presently has no single newly adopted official monetary poverty line that supersedes all committee methods for current-year measurement. Recent debate uses HCES-based research, World Bank international lines and NITI MPI, each answering a different question.
+- **Qualification / demand link:** Do not call a World Bank line India's statutory or officially adopted domestic poverty line.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Combine productive participation, universal basics, targeted protection and disaggregated accountability.
+- **Fact/evidence:** Economic Survey 2025-26 cites World Bank 2022-23 estimates and NITI multidimensional estimates rather than announcing a new domestic official line.
+- **Analytical inference:** India presently has no single newly adopted official monetary poverty line that supersedes all committee methods for current-year measurement. Recent debate uses HCES-based research, World Bank international lines and NITI MPI, each answering a different question.
+- **Qualification:** Do not call a World Bank line India's statutory or officially adopted domestic poverty line.
+
+#### PRELIMS TRAP
+
+Latest available poverty estimate is not synonymous with a newly notified Indian poverty line.
+
+#### MAINS USE
+
+Open current-data answers with an attribution sentence rather than an unqualified number.
 
 #### MINI RECAP
 
-- **Mechanism chain:** MGNREGA boundary
-- **Qualified use:** Combine productive participation, universal basics, targeted protection and disaggregated accountability.
+- Definition: India presently has no single newly adopted official monetary poverty line that supersedes all committee methods for current-year measurement.
+- Evidence anchor: Economic Survey 2025-26 cites World Bank 2022-23 estimates and NITI multidimensional estimates rather than announcing a new domestic official line.
+- Verdict: Recent debate uses HCES-based research, World Bank international lines and NITI MPI, each answering a different question.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Social-sector spending results chain
-EXACT TERMS: Social-sector | spending | results | chain | MGNREGA | boundary
-MECHANISM / ARGUMENT: connect MGNREGA boundary through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Combine productive participation, universal basics, targeted protection and disaggregated accountability.
-UPSC TRAP / ANSWER-USE: Do not quote a poverty estimate without its line, methodology, period and price basis.
-ANSWER-GRABBING FORMULATION: Social-sector spending results chain converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 13 — CORE SYNTHESIS — Universal provision and targeting
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Universal provision and targeting explains how NFSA boundary fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Universal provision and targeting separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Universal provision and targeting must be read through NFSA boundary, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Universal**
-- **provision**
-- **targeting**
-- **NFSA**
-- **boundary**
-- **National**
-
-**How to use them:** Define Universal, provision, targeting; attach NFSA to its named source, period and status; then qualify the answer with this limit: Do not merge headcount incidence with poverty-gap depth.
+### CORE SESSION 13 - CORE - HCES as consumption evidence
 
 #### VISUAL FIRST
 
 ```text
-UNIVERSAL PROVISION AND TARGETING
-01. NFSA boundary
-BOUNDARY -> Do not merge headcount incidence with poverty-gap depth.
+HCES AS CONSUMPTION EVIDENCE
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> HCES 2022-23 was fielded from August 2022 to July 2023; HCES 2023-24 followed as a second consecutive round.
+BOUNDARY -> Consumption is smoother than income for many households but can understate top-end resources and is affected by recall and imputation.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
+The Household Consumption Expenditure Survey measures household consumption patterns and monthly per-capita consumption expenditure, not income or wealth.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** MoSPI samples households, records item-wise expenditure under specified reference periods and weights observations to estimate population distributions.
 
-- The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
+**MUST-WRITE KEYWORDS:** HCES, MPCE, consumption, sampling, reference period, imputation, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not merge headcount incidence with poverty-gap depth.
+- **Claim:** MoSPI samples households, records item-wise expenditure under specified reference periods and weights observations to estimate population distributions.
+- **Named evidence:** HCES 2022-23 was fielded from August 2022 to July 2023; HCES 2023-24 followed as a second consecutive round.
+- **Analysis:** The Household Consumption Expenditure Survey measures household consumption patterns and monthly per-capita consumption expenditure, not income or wealth. MoSPI samples households, records item-wise expenditure under specified reference periods and weights observations to estimate population distributions.
+- **Qualification / demand link:** Consumption is smoother than income for many households but can understate top-end resources and is affected by recall and imputation.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
+- **Fact/evidence:** HCES 2022-23 was fielded from August 2022 to July 2023; HCES 2023-24 followed as a second consecutive round.
+- **Analytical inference:** The Household Consumption Expenditure Survey measures household consumption patterns and monthly per-capita consumption expenditure, not income or wealth. MoSPI samples households, records item-wise expenditure under specified reference periods and weights observations to estimate population distributions.
+- **Qualification:** Consumption is smoother than income for many households but can understate top-end resources and is affected by recall and imputation.
+
+#### PRELIMS TRAP
+
+MPCE is neither household income nor household total expenditure.
+
+#### MAINS USE
+
+Use HCES for consumption distribution while naming its survey design and limits.
 
 #### MINI RECAP
 
-- **Mechanism chain:** NFSA boundary
-- **Qualified use:** Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
+- Definition: The Household Consumption Expenditure Survey measures household consumption patterns and monthly per-capita consumption expenditure, not income or wealth.
+- Evidence anchor: HCES 2022-23 was fielded from August 2022 to July 2023; HCES 2023-24 followed as a second consecutive round.
+- Verdict: MoSPI samples households, records item-wise expenditure under specified reference periods and weights observations to estimate population distributions.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Universal provision and targeting
-EXACT TERMS: Universal | provision | targeting | NFSA | boundary | National
-MECHANISM / ARGUMENT: connect NFSA boundary through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Fix the poverty or inequality metric, data source, price basis and reference period before comparing estimates.
-UPSC TRAP / ANSWER-USE: Do not merge headcount incidence with poverty-gap depth.
-ANSWER-GRABBING FORMULATION: Universal provision and targeting converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 14 — CORE SYNTHESIS — Social assistance, insurance and public services
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Social assistance, insurance and public services explains how Health-protection boundary and Financial inclusion fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, Social assistance, insurance and public services separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Social assistance, insurance and public services must be read through Health-protection boundary and Financial inclusion, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Social**
-- **assistance**
-- **insurance**
-- **public**
-- **services**
-- **Health-protection**
-
-**How to use them:** Define Social, assistance, insurance; attach public to its named source, period and status; then qualify the answer with this limit: Do not treat Tendulkar and Rangarajan estimates as one current official series.
+### CORE SESSION 14 - CORE - HCES comparability break
 
 #### VISUAL FIRST
 
 ```text
-SOCIAL ASSISTANCE, INSURANCE AND PUBLIC SERVICES
-01. Health-protection boundary
-    |
-    v
-02. Financial inclusion
-BOUNDARY -> Do not treat Tendulkar and Rangarajan estimates as one current official series.
+HCES COMPARABILITY BREAK
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> MoSPI's 2022-23 methodology documents a redesigned item list and collection architecture relative to NSS 2011-12.
+BOUNDARY -> A long-run change from 2011-12 can reflect both welfare change and survey-design change.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
+Comparability requires checking questionnaire, item list, visits, reference periods and treatment of free items before constructing a trend.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** HCES 2022-23 used multiple questionnaires and repeated visits and separately reported imputation for selected free welfare items.
 
-- Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-- Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
+**MUST-WRITE KEYWORDS:** comparability, questionnaire redesign, multiple visits, free-item imputation, MMRP, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not treat Tendulkar and Rangarajan estimates as one current official series.
+- **Claim:** HCES 2022-23 used multiple questionnaires and repeated visits and separately reported imputation for selected free welfare items.
+- **Named evidence:** MoSPI's 2022-23 methodology documents a redesigned item list and collection architecture relative to NSS 2011-12.
+- **Analysis:** Comparability requires checking questionnaire, item list, visits, reference periods and treatment of free items before constructing a trend. HCES 2022-23 used multiple questionnaires and repeated visits and separately reported imputation for selected free welfare items.
+- **Qualification / demand link:** A long-run change from 2011-12 can reflect both welfare change and survey-design change.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Trace social expenditure from allocation to service quality and household outcome.
+- **Fact/evidence:** MoSPI's 2022-23 methodology documents a redesigned item list and collection architecture relative to NSS 2011-12.
+- **Analytical inference:** Comparability requires checking questionnaire, item list, visits, reference periods and treatment of free items before constructing a trend. HCES 2022-23 used multiple questionnaires and repeated visits and separately reported imputation for selected free welfare items.
+- **Qualification:** A long-run change from 2011-12 can reflect both welfare change and survey-design change.
+
+#### PRELIMS TRAP
+
+Two official surveys are not automatically directly comparable merely because both report MPCE.
+
+#### MAINS USE
+
+Place a methodology-break caveat beside any decade-long consumption claim.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Health-protection boundary -> Financial inclusion
-- **Qualified use:** Trace social expenditure from allocation to service quality and household outcome.
+- Definition: Comparability requires checking questionnaire, item list, visits, reference periods and treatment of free items before constructing a trend.
+- Evidence anchor: MoSPI's 2022-23 methodology documents a redesigned item list and collection architecture relative to NSS 2011-12.
+- Verdict: HCES 2022-23 used multiple questionnaires and repeated visits and separately reported imputation for selected free welfare items.
 
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Social assistance, insurance and public services
-EXACT TERMS: Social | assistance | insurance | public | services | Health-protection
-MECHANISM / ARGUMENT: connect Health-protection boundary and Financial inclusion through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Trace social expenditure from allocation to service quality and household outcome.
-UPSC TRAP / ANSWER-USE: Do not treat Tendulkar and Rangarajan estimates as one current official series.
-ANSWER-GRABBING FORMULATION: Social assistance, insurance and public services converts a precise economic distinction into a qualified conclusion
-```
-
-### SESSION 15 — CORE SYNTHESIS — MGNREGA, NFSA, health protection, finance and shock response
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** MGNREGA, NFSA, health protection, finance and shock response explains how Intergenerational and spatial inequality and Shock-responsive inclusion fit into one examinable economic mechanism.
-
-**Technical definition:** In Economy analysis, MGNREGA, NFSA, health protection, finance and shock response separates the concept and accounting boundary from its unit, coverage, price basis, base year or basket, estimate vintage, institutional or legal source, crop and geography scope, eligibility, implementation stage, stock-flow boundary, transmission channel and distributional or stability consequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> MGNREGA, NFSA, health protection, finance and shock response must be read through Intergenerational and spatial inequality and Shock-responsive inclusion, with the formula or legal perimeter stated before the policy inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **MGNREGA**
-- **NFSA**
-- **health**
-- **protection**
-- **finance**
-- **shock**
-
-**How to use them:** Define MGNREGA, NFSA, health; attach protection to its named source, period and status; then qualify the answer with this limit: Do not compare income, consumption and wealth Gini values as if they used one base.
+### CORE SESSION 15 - CORE - HCES 2023-24 consumption levels
 
 #### VISUAL FIRST
 
 ```text
-MGNREGA, NFSA, HEALTH PROTECTION, FINANCE AND SHOCK RESPONSE
-01. Intergenerational and spatial inequality
-    |
-    v
-02. Shock-responsive inclusion
-BOUNDARY -> Do not compare income, consumption and wealth Gini values as if they used one base.
+HCES 2023-24 CONSUMPTION LEVELS
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> MoSPI's 27 December 2024 release reports 2023-24 MPCE without imputation at Rs 4,122 rural and Rs 6,996 urban; with imputation, Rs 4,247 and Rs 7,078.
+BOUNDARY -> Average MPCE cannot reveal distribution, poverty depth or household eligibility by itself.
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### CORE EXPLANATION
+#### DEFINITION
 
-Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
+Average MPCE is a period flow per person; it describes mean consumption, not a poverty threshold.
 
-#### NAMED EVIDENCE AND MECHANISM
+> **ANSWER-GRABBING LINE:** Rural and urban averages can be reported with or without imputed values for specified items received free through social welfare programmes.
 
-- Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-- Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
+**MUST-WRITE KEYWORDS:** 2023-24, MPCE, rural, urban, imputation, average, evidence, qualification
 
-#### EXAMINER CAUTION
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- Do not compare income, consumption and wealth Gini values as if they used one base.
+- **Claim:** Rural and urban averages can be reported with or without imputed values for specified items received free through social welfare programmes.
+- **Named evidence:** MoSPI's 27 December 2024 release reports 2023-24 MPCE without imputation at Rs 4,122 rural and Rs 6,996 urban; with imputation, Rs 4,247 and Rs 7,078.
+- **Analysis:** Average MPCE is a period flow per person; it describes mean consumption, not a poverty threshold. Rural and urban averages can be reported with or without imputed values for specified items received free through social welfare programmes.
+- **Qualification / demand link:** Average MPCE cannot reveal distribution, poverty depth or household eligibility by itself.
 
-#### EXAM LINK
+#### EVIDENCE AND INFERENCE
 
-- **Prelims:** Preserve the exact formula, territorial or resident boundary, price basis, base year, index basket, eligible counterparty, institution and legal status; never upgrade a projection into an actual or a regulatory direction into a universal rule.
-- **Mains:** Combine productive participation, universal basics, targeted protection and disaggregated accountability.
+- **Fact/evidence:** MoSPI's 27 December 2024 release reports 2023-24 MPCE without imputation at Rs 4,122 rural and Rs 6,996 urban; with imputation, Rs 4,247 and Rs 7,078.
+- **Analytical inference:** Average MPCE is a period flow per person; it describes mean consumption, not a poverty threshold. Rural and urban averages can be reported with or without imputed values for specified items received free through social welfare programmes.
+- **Qualification:** Average MPCE cannot reveal distribution, poverty depth or household eligibility by itself.
+
+#### PRELIMS TRAP
+
+Do not compare average MPCE directly with a method-specific poverty line without matching prices and definitions.
+
+#### MAINS USE
+
+Use current MPCE only as a consumption-level anchor, then add distributional evidence.
 
 #### MINI RECAP
 
-- **Mechanism chain:** Intergenerational and spatial inequality -> Shock-responsive inclusion
-- **Qualified use:** Combine productive participation, universal basics, targeted protection and disaggregated accountability.
+- Definition: Average MPCE is a period flow per person; it describes mean consumption, not a poverty threshold.
+- Evidence anchor: MoSPI's 27 December 2024 release reports 2023-24 MPCE without imputation at Rs 4,122 rural and Rs 6,996 urban; with imputation, Rs 4,247 and Rs 7,078.
+- Verdict: Rural and urban averages can be reported with or without imputed values for specified items received free through social welfare programmes.
 
-#### CLOSING RECALL FLOW
+### CORE SESSION 16 - CORE - World Bank international poverty lines
 
-```closure-flow
-START / CONCEPT: MGNREGA, NFSA, health protection, finance and shock response
-EXACT TERMS: MGNREGA | NFSA | health | protection | finance | shock
-MECHANISM / ARGUMENT: connect Intergenerational and spatial inequality and Shock-responsive inclusion through accounting, incentives and transmission
-CONSEQUENCE / CONTRAST: Combine productive participation, universal basics, targeted protection and disaggregated accountability.
-UPSC TRAP / ANSWER-USE: Do not compare income, consumption and wealth Gini values as if they used one base.
-ANSWER-GRABBING FORMULATION: MGNREGA, NFSA, health protection, finance and shock response converts a precise economic distinction into a qualified conclusion
-```
-
-#### COMPLETE BASIC OWNER EVIDENCE BANK
-
-> **Subject:** Economy | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III + Prelims.
-> **Core area:** Poverty and inclusion.
-> **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = current Survey/current-affairs hook.
-> *Companion: `../advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`.*
-
-##### 1. Visual foundation
+#### VISUAL FIRST
 
 ```text
-1. PRODUCTIVE GROWTH AND PUBLIC REVENUE
-   |
-   v
-2. JOBS, SERVICES AND TRANSFERS
-   |
-   v
-3. LOWER DEPRIVATIONS AND RISK
-   |
-   v
-4. CAPABILITY AND MOBILITY
-   |
-   v
-5. INCLUSIVE AND RESILIENT GROWTH
+WORLD BANK INTERNATIONAL POVERTY LINES
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> In June 2025 the World Bank updated the lines to USD 3.00, USD 4.20 and USD 8.30 per person per day at 2021 PPP.
+BOUNDARY -> They replace the earlier 2017-PPP USD 2.15, USD 3.65 and USD 6.85 lines; series across revisions are not directly interchangeable.
 ```
 
-**Core proposition:** Inclusive growth combines market participation, quality public
-services, redistribution and protection against shocks; no single instrument can perform all
-four roles.
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-##### 2. Essential definitions
+#### DEFINITION
 
-| Concept | Exam-ready meaning |
-|---|---|
-| ✅ **Absolute poverty** | Shortfall below a defined minimum standard or poverty line. |
-| ✅ **Relative poverty** | Deprivation assessed against the distribution or prevailing social standard. |
-| ✅ **Inequality** | Uneven distribution of income, wealth, opportunity or outcomes. |
-| ✅ **Social sector** | Public-policy areas such as health, education, nutrition and social protection. |
-| ✅ **Inclusive growth** | Growth that broadens opportunities and shares gains while protecting vulnerable groups. |
+International poverty lines are PPP-converted real thresholds designed for cross-country monitoring, not domestic programme eligibility.
 
-##### 3. Topic mechanism
+> **ANSWER-GRABBING LINE:** Purchasing power parity translates currencies into comparable real consumption and the Bank periodically rebases lines when new PPPs become available.
 
-1. Productive employment and asset ownership determine market income and resilience.
-2. Taxes and transfers alter disposable income, while health, education and nutrition
-   spending alter capabilities.
-3. Public infrastructure and anti-discrimination measures widen access to markets and
-   services.
-4. Social insurance and assistance prevent shocks from becoming long-term poverty traps.
-5. Intergenerational mobility depends on whether children receive quality services
-   regardless of household income or location.
+**MUST-WRITE KEYWORDS:** World Bank, June 2025, 2021 PPP, USD 3.00, USD 4.20, USD 8.30, evidence, qualification
 
-##### 4. Institutions and policy tools
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- ✅ **NITI Aayog and statistical agencies:** track multidimensional poverty and development
-  outcomes.
-- ✅ **Union and state social-sector departments:** finance and deliver health, education,
-  nutrition and protection.
-- ✅ **Local governments and frontline systems:** determine last-mile access, quality and
-  grievance redress.
-- ✅ **Finance Commissions and budget institutions:** shape the fiscal capacity available for
-  equalising services.
+- **Claim:** Purchasing power parity translates currencies into comparable real consumption and the Bank periodically rebases lines when new PPPs become available.
+- **Named evidence:** In June 2025 the World Bank updated the lines to USD 3.00, USD 4.20 and USD 8.30 per person per day at 2021 PPP.
+- **Analysis:** International poverty lines are PPP-converted real thresholds designed for cross-country monitoring, not domestic programme eligibility. Purchasing power parity translates currencies into comparable real consumption and the Bank periodically rebases lines when new PPPs become available.
+- **Qualification / demand link:** They replace the earlier 2017-PPP USD 2.15, USD 3.65 and USD 6.85 lines; series across revisions are not directly interchangeable.
 
-##### 5. Indian applications and examples
+#### EVIDENCE AND INFERENCE
 
-- ✅ **Claim:** Income/consumption inequality is measured through a specific graphical and
-  numerical tool, not described impressionistically. **Evidence:** The Lorenz curve plots
-  cumulative population share against cumulative income/consumption share, and the Gini
-  coefficient (twice the area between the Lorenz curve and the line of perfect equality)
-  summarises inequality on a 0-to-1 scale. **Significance:** This is the standard
-  measurement anchor for any inequality-focused answer and distinguishes inequality
-  measurement from poverty measurement. **Limitation:** Gini is sensitive to the underlying
-  data (income vs consumption) and to changes at different points of the distribution
-  (e.g., top-end concentration can be under-captured), so it must be read alongside
-  complementary measures.
-- ✅ **Claim:** India's poverty-line methodology has been revised more than once, and the
-  two named expert-group approaches differ in what they measure. **Evidence:** The
-  Tendulkar Committee (2009) methodology shifted the poverty line's basis from a calorie-
-  norm anchor to a broader consumption basket including health and education, while the
-  Rangarajan Committee (2014) proposed a revised, generally higher poverty line using
-  updated consumption norms; India has not adopted a single official successor poverty
-  line since. **Significance:** This distinction is a classic UPSC test of methodological
-  literacy versus a single memorised poverty-line number. **Limitation/status caution:**
-  Since neither committee's line has been adopted as India's current single official
-  poverty line, any specific "official poverty line" figure should be attributed to its
-  source committee/year and treated with methodology-status caution, not cited as a current
-  government-adopted line.
-- ✅ **Claim:** Poverty measured in multiple dimensions, not income alone, is a distinct,
-  officially tracked indicator. **Evidence:** NITI Aayog's Multidimensional Poverty Index
-  (MPI), based on the global Alkire-Foster methodology, measures deprivation across health,
-  education and standard-of-living indicators. **Significance:** This operationalises the
-  Section 6 "MPI and income poverty identify different households" caution with a named,
-  official Indian index. **Limitation:** MPI's indicator weights and thresholds are
-  methodological choices; changes in MPI headline figures partly reflect indicator/data-
-  source revisions across editions, not only real-world change.
-- ✅ **Claim:** Development should be assessed by what people can actually do and be, not
-  income alone—an idea with a named theoretical foundation. **Evidence:** Amartya Sen's
-  capability approach frames development as the expansion of people's substantive freedoms
-  and capabilities, influencing the design of the Human Development Index and India's
-  MPI-style multidimensional measures. **Significance:** This gives Mains answers a named
-  scholarly anchor connecting poverty/inequality measurement to the broader development
-  literature (cross-reference Topic 2). **Limitation:** The capability approach is
-  conceptually powerful but operationally difficult to fully quantify; real-world indices
-  (HDI, MPI) are necessarily partial, simplified proxies for the full capability space.
-- ✅ **Claim:** Rural employment guarantee functions as a demand-driven safety net distinct
-  from a targeted cash-transfer or food-subsidy scheme. **Evidence:** The Mahatma Gandhi
-  National Rural Employment Guarantee Act (MGNREGA) legally guarantees up to 100 days of
-  wage employment per rural household per year on demand. **Significance:** This
-  operationalises "social insurance... prevent shocks from becoming long-term poverty
-  traps" with a named, rights-based, self-targeting instrument. **Limitation:** Actual
-  guarantee fulfilment depends on budget allocation, timely wage payment and worksite
-  availability; demand for work frequently exceeds funded person-days in practice.
-- ✅ **Claim:** Legal entitlement to subsidised food operates through a distinct
-  targeting architecture from cash transfers. **Evidence:** The National Food Security Act
-  (NFSA), 2013 legally entitles up to 75% of the rural and 50% of the urban population
-  (as per Census-based coverage ratios) to subsidised foodgrain through the Public
-  Distribution System, alongside maternity and child-nutrition entitlements.
-  **Significance:** This connects the poverty topic to the food-security value chain
-  (cross-reference Topic 12) and shows a rights-based, in-kind approach to deprivation.
-  **Limitation:** Coverage ratios are based on Census population data that ages between
-  Census rounds, creating well-documented exclusion-error debates as actual population
-  shifts.
-- ✅ **Claim:** Health-related poverty (catastrophic out-of-pocket medical expenditure) is
-  targeted through a separate insurance-based instrument. **Evidence:** Ayushman Bharat -
-  Pradhan Mantri Jan Arogya Yojana (PM-JAY) provides a health-insurance cover (per notified
-  entitlement amount per family per year) for secondary and tertiary hospitalisation to
-  identified vulnerable families under the SECC-based database. **Significance:** This
-  operationalises "social insurance... protection" as a health-specific instrument distinct
-  from MGNREGA (employment) or NFSA (food), showing the multi-instrument nature of India's
-  social-protection architecture. **Limitation:** Insurance-based coverage addresses
-  hospitalisation cost shock but does not by itself fix primary-care access, quality or
-  out-of-pocket outpatient/diagnostic spending, which remain significant.
-- ⚠️ **Claim:** Nutrition and foundational-education programmes address capability
-  formation directly, complementing income/food-security instruments. **Evidence:**
-  POSHAN Abhiyaan (integrated nutrition support, converged with related schemes) and
-  Samagra Shiksha (an integrated school-education scheme) alongside the National Social
-  Assistance Programme (NSAP, providing pensions to elderly, widowed and disabled persons
-  from poor households) target nutrition, education and old-age/disability protection
-  respectively. **Significance:** These named schemes complete the "prevention, promotion,
-  protection" social-protection triad referenced in Section 6. **Limitation:** Convergence
-  across multiple nutrition/education/assistance schemes creates coordination and last-mile
-  delivery challenges, and interstate implementation quality varies significantly.
-- ✅ **Claim:** Financial inclusion is a distinct, officially measured pathway to inclusive
-  growth, not a synonym for poverty alleviation itself. **Evidence:** The Pradhan Mantri
-  Jan Dhan Yojana (PMJDY, launched 2014) provided near-universal basic bank-account access,
-  and the RBI's own composite Financial Inclusion Index (FI-Index, base year 2021, first
-  published 2021 with a value of 53.9) tracks Access, Usage and Quality sub-indices; the
-  FI-Index rose to 64.2 in March 2024 and 67.0 in March 2025, with gains recorded across all
-  three sub-indices. **Significance:** This directly answers the routed 2022 GS-III demand
-  ("financial inclusion and inclusive growth under market economy") with a named account-
-  access instrument (PMJDY) and a named, dated composite measurement tool (FI-Index),
-  operationalising "market participation" (Section 3) for previously unbanked households.
-  **Limitation:** A rising FI-Index and high account-ownership numbers measure access and
-  usage of financial services, not income growth or poverty reduction directly; dormant
-  accounts, low-value transactions and continued reliance on informal credit for larger
-  needs mean formal-account access does not by itself guarantee inclusive growth.
-- ✅ **Claim:** Rising life expectancy is a demographic achievement that simultaneously
-  creates a distinct, cost-intensive community-health challenge, and this reframing is
-  itself a routed Mains demand. **Evidence:** India's life expectancy at birth was 69.8
-  years per the Sample Registration System's Abridged Life Tables 2017-21 (Registrar
-  General of India), a marginal decline from the 2016-20 estimate attributed to COVID-19
-  excess mortality but part of a longer-run rising trend; Ayushman Bharat's Health and
-  Wellness Centres (upgrading sub-centres and primary health centres) were established to
-  extend comprehensive primary care, including screening and management of non-
-  communicable diseases (NCDs), which account for a rising majority of deaths as the
-  population ages. **Significance:** This answers "community health challenges from rising
-  life expectancy" by linking demographic transition to a named institutional response
-  (HWCs) and shows the economic logic: preventive, community-level NCD management reduces
-  catastrophic out-of-pocket expenditure (cross-reference the PM-JAY unit above) and
-  protects workforce productivity, directly supporting the "capability and mobility"
-  mechanism step (Section 3). **Limitation:** HWC coverage and NCD-screening quality vary
-  across states, and a rising life-expectancy figure alone does not indicate whether
-  additional years are spent in good health (healthy life expectancy) or with a growing
-  NCD/disability burden; any specific life-expectancy or mortality figure should be cited
-  with its exact source period.
-- ✅ **Claim:** Urban poverty has distinct deprivation dimensions from rural poverty and
-  cannot be read off a single national poverty line. **Evidence:** NITI Aayog's national
-  Multidimensional Poverty Index shows urban multidimensional poverty falling from 8.65% to
-  5.27% between the NFHS-4 (2015-16) and NFHS-5 (2019-21) reference periods, a faster decline
-  than rural areas on the same measure; within this national urban average, slum-focused
-  studies using Census/SECC and NFHS indicators consistently find concentrated deprivation
-  in secure housing tenure, sanitation and access to piped drinking water, alongside
-  overcrowding and reliance on polluting cooking fuel. **Significance:** This operationalises
-  the Section 6 "spatial and social disaggregation is essential" trap with a named,
-  official urban-versus-rural MPI comparison and shows why a falling national urban-poverty
-  average can still coexist with severe pockets of slum deprivation — directly relevant to
-  an inclusive-growth answer that must not treat "urban" as internally homogeneous.
-  **Limitation:** A lower aggregate urban MPI reflects city-wide averages and can mask
-  intra-city inequality; slum-level deprivation studies use varying local indicator sets, so
-  a specific slum-level figure should be attributed to its named study rather than
-  generalised as the national urban condition.
+- **Fact/evidence:** In June 2025 the World Bank updated the lines to USD 3.00, USD 4.20 and USD 8.30 per person per day at 2021 PPP.
+- **Analytical inference:** International poverty lines are PPP-converted real thresholds designed for cross-country monitoring, not domestic programme eligibility. Purchasing power parity translates currencies into comparable real consumption and the Bank periodically rebases lines when new PPPs become available.
+- **Qualification:** They replace the earlier 2017-PPP USD 2.15, USD 3.65 and USD 6.85 lines; series across revisions are not directly interchangeable.
 
-##### Core limitations and trade-offs
+#### PRELIMS TRAP
 
-- ⚠️ Poverty can fall on a chosen line while inequality (Gini) rises if growth
-  disproportionately benefits upper deciles, so headline poverty-decline claims must be
-  paired with an inequality check.
-- ⚠️ Unresolved Tendulkar-versus-Rangarajan (and the absence of a single current official
-  line) creates genuine ambiguity in citing "the" poverty rate; any specific number must be
-  attributed to its source methodology and year.
-- ⚠️ Targeting mechanisms (Census-based NFSA ratios, SECC-based PM-JAY eligibility) can
-  exclude genuinely poor households whose circumstances changed after the underlying data
-  was collected — a recurring exclusion-error risk across schemes.
-- ⚠️ MGNREGA's self-targeting design depends on adequate, timely fund allocation; wage-
-  payment delays or capped budgets can undermine the "guarantee" in practice during high-
-  demand periods.
-- ⚠️ Insurance-based health protection (PM-JAY) addresses catastrophic hospitalisation cost
-  but leaves primary-care and outpatient expenditure gaps that can still push households
-  towards poverty.
-- ⚠️ Interstate variation in administrative capacity, political priority and last-mile
-  delivery means identical central schemes (NFSA, MGNREGA, POSHAN, Samagra Shiksha)
-  produce materially different real-world outcomes across states.
-- ⚠️ A rising Financial Inclusion Index and near-universal PMJDY account ownership measure
-  access and usage of formal finance, not income growth; dormant accounts and continued
-  informal-credit reliance for larger needs mean account access alone does not close the
-  inclusive-growth gap.
-- ⚠️ A rising national life-expectancy figure does not by itself indicate healthy life
-  expectancy; without matching NCD-screening and primary-care quality (Health and Wellness
-  Centres), added years of life can coincide with a growing disability/chronic-disease
-  burden and rising community-health costs.
-- ⚠️ A falling aggregate urban MPI can coexist with severe, concentrated slum-level
-  deprivation in housing, sanitation and water access; national urban averages must be read
-  alongside slum-specific evidence, not treated as describing every urban household.
+PPP dollars are not converted at the market exchange rate and are not daily cash entitlements.
 
-##### 6. Must-Know Facts for Prelims
+#### MAINS USE
 
-- ✅ Poverty and inequality are related but not identical; poverty can fall while inequality
-  rises.
-- ✅ Headcount ratio measures incidence, while poverty gap captures depth.
-- ✅ Income, consumption, wealth and multidimensional inequality answer different questions.
-- ✅ Social protection includes prevention, promotion and protection, not cash transfers
-  alone.
-- ✅ Universal public goods and targeted benefits can be complementary.
-- ✅ Inclusive growth requires productive participation as well as redistribution.
-- ✅ RBI's Financial Inclusion Index (base 2021 = 53.9) rose to 64.2 in March 2024 and 67.0
-  in March 2025 across its Access, Usage and Quality sub-indices.
-- ✅ India's life expectancy at birth was 69.8 years per SRS Abridged Life Tables 2017-21; a
-  rising life-expectancy trend raises the economic burden of non-communicable diseases,
-  addressed partly through Ayushman Bharat Health and Wellness Centres.
-- ✅ Urban multidimensional poverty (NITI Aayog MPI) fell faster than rural MPI between
-  2015-16 and 2019-21, but this national average can mask concentrated slum-level
-  deprivation in housing, sanitation and water access.
+State the line, PPP vintage, survey year and purpose every time.
 
-##### 7. UPSC traps
+#### MINI RECAP
 
-- ❌ Poverty elimination guarantees equality. -> Large relative gaps can remain above a
-  poverty line.
-- ❌ A national average describes every state and group. -> Spatial and social disaggregation
-  is essential.
-- ❌ Social-sector expenditure equals social outcome. -> Quality, access, governance and
-  behaviour mediate results.
-- ❌ Cash transfers can replace health and education systems. -> Transfers cannot alone
-  supply complex public services.
-- ❌ MPI and income poverty identify exactly the same households. -> Different dimensions and
-  thresholds can produce different sets.
-- ❌ A bank account is proof of financial inclusion and inclusive growth. -> Account access
-  (PMJDY) is only the Access sub-index; Usage and Quality (RBI FI-Index) must also improve.
-- ❌ A national urban poverty/MPI average describes every city or slum. -> Slum-level
-  deprivation in housing, sanitation and water can be far more severe than the city average.
+- Definition: International poverty lines are PPP-converted real thresholds designed for cross-country monitoring, not domestic programme eligibility.
+- Evidence anchor: In June 2025 the World Bank updated the lines to USD 3.00, USD 4.20 and USD 8.30 per person per day at 2021 PPP.
+- Verdict: Purchasing power parity translates currencies into comparable real consumption and the Bank periodically rebases lines when new PPPs become available.
 
-##### 8. 📰 Economic Survey 2025-26 / current anchor
+### CORE SESSION 17 - CORE - World Bank India estimates for 2022-23
 
-- 📰 Extreme poverty was 5.3% in 2022-23 using the revised World Bank USD 3/day line.
-- 📰 Lower-middle-income poverty was 23.9% in 2022-23.
-- 📰 NITI MPI fell to 14.96% in 2019-21 and was estimated at 11.28% in 2022-23.
-
-⚠️ **Interpretation caution:** The Survey attributes the USD 3.00 line to the World
-Bank's June 2025 revision at **2021 PPP prices**, and explicitly says the resulting
-estimates are not directly comparable with older poverty lines or India's domestic
-poverty-line debate. Targeting also saves fiscal resources but can exclude people with
-unstable incomes and residence.
-
-##### 9. PYQ application
-
-- ⚠️ 2024 GS-III: Social-service public expenditure and inclusive growth after reforms.
-- ⚠️ 2025 GS-III: HDI versus IHDI as an inclusive-growth indicator.
-- ⚠️ **Social-expenditure answer route:** distinguish allocation from actual spending,
-  spending from service quality, and national average from state/district outcomes; then
-  link health, education, nutrition and protection to jobs, capabilities and fiscal
-  sustainability.
-- ⚠️ 2022 GS-III: Financial inclusion and inclusive growth under a market economy — answer
-  with the PMJDY-access plus RBI FI-Index (Access/Usage/Quality) evidence above.
-- ⚠️ 2022 GS-III: Community health challenges from rising life expectancy — answer with the
-  SRS life-expectancy figure, the NCD burden and the Ayushman Bharat HWC response above.
-
-##### 10. Mains angles
-
-- ⚠️ Use the triad opportunity, capability and security, supported by voice and dignity.
-- ⚠️ Distinguish immediate poverty relief from intergenerational mobility.
-- ⚠️ Recommend quality universal basics, portable protection, productive jobs and
-  disaggregated accountability.
-- ⚠️ Treat financial inclusion, community health/life expectancy and urban-slum deprivation
-  as distinct inclusive-growth dimensions, each needing its own named evidence rather than
-  one generic "development is improving" claim.
-
-> **Answer thesis:** Inclusive growth combines market participation, quality public services, redistribution and protection against shocks; no single instrument can perform all four roles.
-
-##### 11. Probable questions
-
-- ⚠️ **Prelims:** Distinguish absolute poverty, relative poverty, poverty headcount, poverty
-  gap and multidimensional poverty.
-- ⚠️ **Mains (10 marks):** Why can social-sector spending rise without a proportionate
-  improvement in outcomes?
-- ⚠️ **Mains (15 marks):** Design an inclusive-growth strategy combining productive jobs,
-  universal basics and shock-responsive protection.
-
-##### 11A. Answer architecture (10/15/20-mark support)
-
-**Directive decoder**
-- "Examine social-sector expenditure and inclusive growth" -> requires distinguishing
-  allocation, actual spend and outcome, and naming instruments (MGNREGA, NFSA, PM-JAY,
-  POSHAN, Samagra Shiksha, NSAP) rather than speaking of "social spending" abstractly.
-- "Discuss poverty and inequality measurement" -> requires precise use of Lorenz/Gini
-  (inequality) versus Tendulkar/Rangarajan/MPI (poverty), never conflating the two.
-- "Evaluate targeting versus universalism" -> requires naming a specific targeting
-  mechanism (Census-based NFSA ratios, SECC-based PM-JAY) and its exclusion-error risk.
-- "State/Discuss financial inclusion and inclusive growth" -> requires naming PMJDY (access)
-  and the RBI FI-Index (Access/Usage/Quality, with the 2021/2024/2025 values) distinctly,
-  not treating "more bank accounts" as inclusive growth by itself.
-- "Discuss community-health challenges from rising life expectancy" -> requires the SRS
-  life-expectancy figure, the NCD-burden mechanism, and the Ayushman Bharat HWC response,
-  with a healthy-life-expectancy caveat.
-- "Examine urban poverty/slum deprivation" -> requires the urban-versus-rural MPI trend plus
-  named slum-level dimensions (housing tenure, sanitation, water), not a single national
-  urban-poverty number.
-
-**Evidence chain** (claim -> named evidence -> significance -> limitation)
-Use the Section 5 bank: measurement questions draw on the Lorenz/Gini/Tendulkar/Rangarajan/
-MPI/Sen units; instrument-evaluation questions draw on the MGNREGA/NFSA/PM-JAY/POSHAN-
-Samagra Shiksha-NSAP units; financial-inclusion questions draw on the PMJDY/FI-Index unit;
-community-health questions draw on the life-expectancy/HWC unit; urban-poverty questions
-draw on the urban MPI/slum-deprivation unit.
-
-**Counter-evidence and balance**
-Pair every scheme's rights-based design with its Core-limitation caution (exclusion error,
-funding-dependent guarantee, coverage-versus-outcome gap, interstate variation) so coverage
-statistics are never treated as proof of outcome.
-
-**10/15/20-mark scaling**
-- 10 marks (~150 words): thesis + 2-3 evidence units (e.g., Gini + one named scheme) + one
-  limitation + verdict.
-- 15 marks (~250 words): thesis + triad structure (opportunity -> capability -> security) +
-  4-5 evidence units + counter-evidence + verdict.
-- 20 marks (~250-300 words): add a comparative/causal dimension (targeted versus universal
-  design, or income-poverty versus MPI-based poverty trends) + 5-7 evidence units + explicit
-  trade-offs + a fully reasoned verdict.
-
-**Reasoned verdict template**
-"India's social-protection architecture combines rights-based guarantees (MGNREGA, NFSA),
-insurance (PM-JAY) and capability investments (POSHAN, Samagra Shiksha, NSAP), and MPI-based
-multidimensional poverty has fallen, but [name the specific exclusion-error/interstate/
-inequality constraint the question asks about] means inclusive growth requires quality,
-not only coverage — therefore [qualified, directive-matching conclusion]."
-
-##### 12. Study links
-
-- ✅ Advanced companion: `../advanced/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`.
-- ✅ `02_Growth-Development-HDI-IHDI-and-MPI.md` — measurement of capabilities and
-  deprivation.
-- ✅ `09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` — fiscal space and expenditure
-  quality.
-- ✅ `22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` — productive pathways
-  out of poverty.
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-##### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
-
-- **Years represented:** 2024
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-III | 1 | Public expenditure on social services post-reforms and inclusive growth | Examine · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-###### What this owner must now support
-
-- Public expenditure on social services post-reforms and inclusive growth
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-##### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2019, 2020, 2022
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 5
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | GS-III | 11 | Inclusive growth strategy for inclusiveness and sustainability objectives | Comment · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | Prelims GS-I | 24 | Official poverty line variation across Indian states | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | GS-III | 1 | Intra and inter-generational equity in inclusive growth | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 2 | Financial inclusion and inclusive growth under market economy | State · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 5 | Community health challenges from rising life expectancy in India | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-###### What this owner must now support
-
-- Inclusive growth strategy for inclusiveness and sustainability objectives
-- Official poverty line variation across Indian states
-- Intra and inter-generational equity in inclusive growth
-- Financial inclusion and inclusive growth under market economy
-- Community health challenges from rising life expectancy in India
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-###### Semantic-completeness ownership and PYQ control
-
-- **Official syllabus/index and owned core:** Poverty, inequality and inclusion require distinct incidence, depth, distribution, capability and access measures; growth affects them through jobs, wages, prices, assets, public services and fiscal redistribution.
-- **Indispensable distinction and prerequisite taxonomy:** Poverty headcount is not poverty gap, income is not consumption, Gini is not poverty, average growth is not inclusive growth, scheme enrolment is not adequacy, and correlation between growth and poverty decline is not complete causation.
-- **Mechanism, implementation and evidence control:** State survey, line/method, unit, price base, reference period and denominator; compare compatible series only and balance growth, distribution, stability, sustainability and federal delivery.
-- **✅ Verified current fact (official sources rechecked 5 September 2026):**
-  Rechecked 6 September 2026 against the listed official publisher or regulator source. The official NITI pages were blocked to direct fetch, but official-domain search substantively exposed the national MPI method and the projected status of the 2022-23 estimate. No poverty rate, inequality value, scheme outlay or current beneficiary count was imported. Sources: https://www.niti.gov.in/sites/default/files/2024-01/MPI-22_NITI-Aayog20254.pdf; https://www.niti.gov.in/whats-new/multidimensional-poverty-india-2005-06
-- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
-  registration, a report, a training completion, a disposal count or a ranking
-  can support a causal argument only after authority, capacity, incentives,
-  distribution, implementation, grievance, outcome and alternative explanations
-  are tested.
-- **Canonical and cross-owner boundary:** this Economy owner teaches the
-  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
-  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
-  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
-  evidence may be routed but is not silently duplicated or re-owned.
-- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
-  standard public-administration/economy taxonomy and complete verified PYQ
-  demands were checked for absent concepts, institutions, mechanisms,
-  classifications, exceptions, comparisons, criticisms, current status,
-  answer architecture and dependent artifacts.
-- **Verified PYQ ownership, 2018-2026:** Audited ledgers route Mains demands on inclusive growth, inter-generational equity, financial inclusion, community health and social-service expenditure, plus the objective poverty-line variation concept. These demands are solved or retained in practice without inventing an official model answer or objective key.
-
-### ECONOMY DEEP-REVIEW CORE CONTROL
-
-- **Must remember:** Poverty, inequality and inclusion require distinct incidence, depth, distribution, capability and access measures; growth affects them through jobs, wages, prices, assets, public services and fiscal redistribution.
-- **Close distinction:** Poverty headcount is not poverty gap, income is not consumption, Gini is not poverty, average growth is not inclusive growth, scheme enrolment is not adequacy, and correlation between growth and poverty decline is not complete causation.
-- **Formula / status / evidence / causal limit:** State survey, line/method, unit, price base, reference period and denominator; compare compatible series only and balance growth, distribution, stability, sustainability and federal delivery.
-
-## BASIC MCQS / REMEDIATION
-
-### Q1. Which statement correctly identifies Poverty and inequality boundary?
-
-A. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-B. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-C. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-D. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-
-**Answer: A.**
-**Explanation:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q2. Which option preserves the accounting or regulatory boundary of Poverty and inequality boundary?
-
-A. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-B. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-C. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-D. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-
-**Answer: B.**
-**Explanation:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q3. Which statement uses Poverty and inequality boundary without losing its vintage, basket or legal status?
-
-A. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-B. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-C. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-D. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-
-**Answer: C.**
-**Explanation:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Poverty and inequality boundary?
-
-A. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-B. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-C. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-D. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-
-**Answer: D.**
-**Explanation:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q5. Which statement correctly identifies Absolute and relative poverty?
-
-A. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-B. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-C. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-D. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-
-**Answer: A.**
-**Explanation:** Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q6. Which option preserves the accounting or regulatory boundary of Absolute and relative poverty?
-
-A. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-B. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-C. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-D. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-
-**Answer: B.**
-**Explanation:** Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q7. Which statement uses Absolute and relative poverty without losing its vintage, basket or legal status?
-
-A. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-B. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-C. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-D. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-
-**Answer: C.**
-**Explanation:** Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q8. Which option avoids the standard UPSC close-option trap about Absolute and relative poverty?
-
-A. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-B. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-C. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-D. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-
-**Answer: D.**
-**Explanation:** Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q9. Which statement correctly identifies Headcount and poverty gap?
-
-A. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-B. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-C. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-D. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-
-**Answer: A.**
-**Explanation:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q10. Which option preserves the accounting or regulatory boundary of Headcount and poverty gap?
-
-A. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-B. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-C. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-D. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-
-**Answer: B.**
-**Explanation:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q11. Which statement uses Headcount and poverty gap without losing its vintage, basket or legal status?
-
-A. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-B. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-C. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-D. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-
-**Answer: C.**
-**Explanation:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q12. Which option avoids the standard UPSC close-option trap about Headcount and poverty gap?
-
-A. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-B. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-C. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-D. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-
-**Answer: D.**
-**Explanation:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q13. Which statement correctly identifies Poverty-line vintage?
-
-A. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-B. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-C. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-D. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-
-**Answer: A.**
-**Explanation:** A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q14. Which option preserves the accounting or regulatory boundary of Poverty-line vintage?
-
-A. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-B. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-C. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-D. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-
-**Answer: B.**
-**Explanation:** A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q15. Which statement uses Poverty-line vintage without losing its vintage, basket or legal status?
-
-A. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-B. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-C. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-D. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-
-**Answer: C.**
-**Explanation:** A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q16. Which option avoids the standard UPSC close-option trap about Poverty-line vintage?
-
-A. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-B. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-C. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-D. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-
-**Answer: D.**
-**Explanation:** A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q17. Which statement correctly identifies Tendulkar and Rangarajan?
-
-A. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-B. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-C. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-D. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-
-**Answer: A.**
-**Explanation:** The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q18. Which option preserves the accounting or regulatory boundary of Tendulkar and Rangarajan?
-
-A. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-B. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-C. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-D. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-
-**Answer: B.**
-**Explanation:** The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q19. Which statement uses Tendulkar and Rangarajan without losing its vintage, basket or legal status?
-
-A. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-B. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-C. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-D. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-
-**Answer: C.**
-**Explanation:** The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q20. Which option avoids the standard UPSC close-option trap about Tendulkar and Rangarajan?
-
-A. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-B. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-C. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-D. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-
-**Answer: D.**
-**Explanation:** The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q21. Which statement correctly identifies Lorenz curve and Gini?
-
-A. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-B. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-C. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-D. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-
-**Answer: A.**
-**Explanation:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q22. Which option preserves the accounting or regulatory boundary of Lorenz curve and Gini?
-
-A. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-B. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-C. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-D. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-
-**Answer: B.**
-**Explanation:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q23. Which statement uses Lorenz curve and Gini without losing its vintage, basket or legal status?
-
-A. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-B. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-C. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-D. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-
-**Answer: C.**
-**Explanation:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q24. Which option avoids the standard UPSC close-option trap about Lorenz curve and Gini?
-
-A. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-B. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-C. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-D. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-
-**Answer: D.**
-**Explanation:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q25. Which statement correctly identifies MPI architecture?
-
-A. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-B. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-C. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-D. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-
-**Answer: A.**
-**Explanation:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q26. Which option preserves the accounting or regulatory boundary of MPI architecture?
-
-A. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-B. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-C. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-D. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-
-**Answer: B.**
-**Explanation:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q27. Which statement uses MPI architecture without losing its vintage, basket or legal status?
-
-A. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-B. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-C. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-D. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-
-**Answer: C.**
-**Explanation:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q28. Which option avoids the standard UPSC close-option trap about MPI architecture?
-
-A. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-B. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-C. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-D. India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-
-**Answer: D.**
-**Explanation:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q29. Which statement correctly identifies MPI formula?
-
-A. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-B. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-C. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-D. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-
-**Answer: A.**
-**Explanation:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q30. Which option preserves the accounting or regulatory boundary of MPI formula?
-
-A. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-B. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-C. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-D. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-
-**Answer: B.**
-**Explanation:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q31. Which statement uses MPI formula without losing its vintage, basket or legal status?
-
-A. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-B. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-C. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-D. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-
-**Answer: C.**
-**Explanation:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q32. Which option avoids the standard UPSC close-option trap about MPI formula?
-
-A. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-B. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-C. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-D. The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-
-**Answer: D.**
-**Explanation:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q33. Which statement correctly identifies Observed and projected MPI?
-
-A. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-B. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-C. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-D. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-
-**Answer: A.**
-**Explanation:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q34. Which option preserves the accounting or regulatory boundary of Observed and projected MPI?
-
-A. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-B. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-C. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-D. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-
-**Answer: B.**
-**Explanation:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q35. Which statement uses Observed and projected MPI without losing its vintage, basket or legal status?
-
-A. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-B. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-C. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-D. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-
-**Answer: C.**
-**Explanation:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Observed and projected MPI?
-
-A. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-B. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-C. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-D. The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-
-**Answer: D.**
-**Explanation:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q37. Which statement correctly identifies Inclusive-growth frame?
-
-A. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-B. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-C. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-D. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-
-**Answer: A.**
-**Explanation:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q38. Which option preserves the accounting or regulatory boundary of Inclusive-growth frame?
-
-A. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-B. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-C. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-D. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-
-**Answer: B.**
-**Explanation:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q39. Which statement uses Inclusive-growth frame without losing its vintage, basket or legal status?
-
-A. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-B. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-C. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-D. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-
-**Answer: C.**
-**Explanation:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q40. Which option avoids the standard UPSC close-option trap about Inclusive-growth frame?
-
-A. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-B. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-C. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-D. Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-
-**Answer: D.**
-**Explanation:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q41. Which statement correctly identifies Growth elasticity of poverty?
-
-A. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-B. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-C. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-D. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-
-**Answer: A.**
-**Explanation:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q42. Which option preserves the accounting or regulatory boundary of Growth elasticity of poverty?
-
-A. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-B. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-C. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-D. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-
-**Answer: B.**
-**Explanation:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q43. Which statement uses Growth elasticity of poverty without losing its vintage, basket or legal status?
-
-A. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-B. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-C. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-D. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-
-**Answer: C.**
-**Explanation:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q44. Which option avoids the standard UPSC close-option trap about Growth elasticity of poverty?
-
-A. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-B. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-C. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-D. The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-
-**Answer: D.**
-**Explanation:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q45. Which statement correctly identifies Social-sector spending chain?
-
-A. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-B. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-C. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-D. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-
-**Answer: A.**
-**Explanation:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q46. Which option preserves the accounting or regulatory boundary of Social-sector spending chain?
-
-A. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-B. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-C. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-D. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-
-**Answer: B.**
-**Explanation:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q47. Which statement uses Social-sector spending chain without losing its vintage, basket or legal status?
-
-A. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-B. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-C. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-D. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-
-**Answer: C.**
-**Explanation:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Social-sector spending chain?
-
-A. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-B. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-C. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-D. Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-
-**Answer: D.**
-**Explanation:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q49. Which statement correctly identifies Universal and targeted provision?
-
-A. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-B. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-C. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-D. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-
-**Answer: A.**
-**Explanation:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q50. Which option preserves the accounting or regulatory boundary of Universal and targeted provision?
-
-A. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-B. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-C. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-D. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-
-**Answer: B.**
-**Explanation:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q51. Which statement uses Universal and targeted provision without losing its vintage, basket or legal status?
-
-A. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-B. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-C. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-D. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-
-**Answer: C.**
-**Explanation:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Universal and targeted provision?
-
-A. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-B. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-C. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-D. Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-
-**Answer: D.**
-**Explanation:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q53. Which statement correctly identifies Social assistance and insurance?
-
-A. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-B. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-C. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-D. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-
-**Answer: A.**
-**Explanation:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q54. Which option preserves the accounting or regulatory boundary of Social assistance and insurance?
-
-A. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-B. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-C. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-D. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-
-**Answer: B.**
-**Explanation:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q55. Which statement uses Social assistance and insurance without losing its vintage, basket or legal status?
-
-A. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-B. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-C. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-D. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-
-**Answer: C.**
-**Explanation:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Social assistance and insurance?
-
-A. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-B. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-C. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-D. Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-
-**Answer: D.**
-**Explanation:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q57. Which statement correctly identifies MGNREGA boundary?
-
-A. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-B. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-C. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-D. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-
-**Answer: A.**
-**Explanation:** MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q58. Which option preserves the accounting or regulatory boundary of MGNREGA boundary?
-
-A. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-B. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-C. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-D. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-
-**Answer: B.**
-**Explanation:** MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q59. Which statement uses MGNREGA boundary without losing its vintage, basket or legal status?
-
-A. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-B. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-C. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-D. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-
-**Answer: C.**
-**Explanation:** MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q60. Which option avoids the standard UPSC close-option trap about MGNREGA boundary?
-
-A. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-B. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-C. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-D. MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-
-**Answer: D.**
-**Explanation:** MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q61. Which statement correctly identifies NFSA boundary?
-
-A. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-B. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-C. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-D. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-
-**Answer: A.**
-**Explanation:** The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q62. Which option preserves the accounting or regulatory boundary of NFSA boundary?
-
-A. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-B. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-C. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-D. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-
-**Answer: B.**
-**Explanation:** The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q63. Which statement uses NFSA boundary without losing its vintage, basket or legal status?
-
-A. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-B. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-C. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-D. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-
-**Answer: C.**
-**Explanation:** The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q64. Which option avoids the standard UPSC close-option trap about NFSA boundary?
-
-A. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-B. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-C. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-D. The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-
-**Answer: D.**
-**Explanation:** The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q65. Which statement correctly identifies Health-protection boundary?
-
-A. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-B. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-C. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-D. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-
-**Answer: A.**
-**Explanation:** Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q66. Which option preserves the accounting or regulatory boundary of Health-protection boundary?
-
-A. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-B. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-C. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-D. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-
-**Answer: B.**
-**Explanation:** Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q67. Which statement uses Health-protection boundary without losing its vintage, basket or legal status?
-
-A. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-B. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-C. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-D. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-
-**Answer: C.**
-**Explanation:** Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Health-protection boundary?
-
-A. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-B. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-C. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-D. Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-
-**Answer: D.**
-**Explanation:** Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q69. Which statement correctly identifies Financial inclusion?
-
-A. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-B. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-C. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-D. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-
-**Answer: A.**
-**Explanation:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q70. Which option preserves the accounting or regulatory boundary of Financial inclusion?
-
-A. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-B. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-C. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-D. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-
-**Answer: B.**
-**Explanation:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q71. Which statement uses Financial inclusion without losing its vintage, basket or legal status?
-
-A. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-B. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-C. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-D. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-
-**Answer: C.**
-**Explanation:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Financial inclusion?
-
-A. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-B. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-C. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-D. Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-
-**Answer: D.**
-**Explanation:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q73. Which statement correctly identifies Intergenerational and spatial inequality?
-
-A. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-B. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-C. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-D. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-
-**Answer: A.**
-**Explanation:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q74. Which option preserves the accounting or regulatory boundary of Intergenerational and spatial inequality?
-
-A. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-B. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-C. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-D. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-
-**Answer: B.**
-**Explanation:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q75. Which statement uses Intergenerational and spatial inequality without losing its vintage, basket or legal status?
-
-A. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-B. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-C. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-D. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-
-**Answer: C.**
-**Explanation:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Intergenerational and spatial inequality?
-
-A. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-B. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-C. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-D. Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-
-**Answer: D.**
-**Explanation:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q77. Which statement correctly identifies Shock-responsive inclusion?
-
-A. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-B. Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-C. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-D. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-
-**Answer: A.**
-**Explanation:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q78. Which option preserves the accounting or regulatory boundary of Shock-responsive inclusion?
-
-A. Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-B. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-C. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-D. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-
-**Answer: B.**
-**Explanation:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q79. Which statement uses Shock-responsive inclusion without losing its vintage, basket or legal status?
-
-A. The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-B. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-C. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-D. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-
-**Answer: C.**
-**Explanation:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Shock-responsive inclusion?
-
-A. A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-B. The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-C. The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-D. Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-
-**Answer: D.**
-**Explanation:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The other options belong to different measures, vintages, baskets, instruments, institutions or legal perimeters.
-
-## PYQS AND ANSWER PRACTICE
-
-### VERIFIED PYQ OWNERSHIP AUDIT
-
-Audited ledgers route Mains demands on inclusive growth, inter-generational equity, financial inclusion, community health and social-service expenditure, plus the objective poverty-line variation concept. These demands are solved or retained in practice without inventing an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “VERIFIED PYQ OWNERSHIP AUDIT”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Economy demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Define the economic concept and state the exact identity, classification, unit, denominator and stock-flow status. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Identify the constitutional, statutory, regulatory, budgetary or executive authority and the programme's operative stage. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Trace the shock or instrument through prices, quantities, balance sheets, expectations and incentives with explicit lags. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Use a named India-centric dataset, institution, policy, market or programme with source, release date and reference period. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Evaluate growth, employment, distribution, stability, sustainability and Centre-state or intergovernmental effects. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Test causal identification, data revision, fiscal cost, external constraint, implementation capacity and residual trade-offs. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** The answer must resolve the Economy demand in “VERIFIED PYQ OWNERSHIP AUDIT”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “VERIFIED PYQ OWNERSHIP AUDIT”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### OWNER PYQ LEDGER EXTRACTS
-
-#### 9. PYQ application
-
-- ⚠️ 2024 GS-III: Social-service public expenditure and inclusive growth after reforms.
-- ⚠️ 2025 GS-III: HDI versus IHDI as an inclusive-growth indicator.
-- ⚠️ **Social-expenditure answer route:** distinguish allocation from actual spending,
-  spending from service quality, and national average from state/district outcomes; then
-  link health, education, nutrition and protection to jobs, capabilities and fiscal
-  sustainability.
-- ⚠️ 2022 GS-III: Financial inclusion and inclusive growth under a market economy — answer
-  with the PMJDY-access plus RBI FI-Index (Access/Usage/Quality) evidence above.
-- ⚠️ 2022 GS-III: Community health challenges from rising life expectancy — answer with the
-  SRS life-expectancy figure, the NCD burden and the Ayushman Bharat HWC response above.
-
-**Demand decoding:** The directive **answer** requires a direct position on “9. PYQ application”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Economy demand in “9. PYQ application”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ⚠️ 2024 GS-III: Social-service public expenditure and inclusive growth after reforms. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** ⚠️ 2025 GS-III: HDI versus IHDI as an inclusive-growth indicator. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** ⚠️ Social-expenditure answer route: distinguish allocation from actual spending, **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** spending from service quality, and national average from state/district outcomes; then **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** link health, education, nutrition and protection to jobs, capabilities and fiscal **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** ⚠️ 2022 GS-III: Financial inclusion and inclusive growth under a market economy — answer **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** The answer must resolve the Economy demand in “9. PYQ application”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “9. PYQ application”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-#### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
-
-- **Years represented:** 2024
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-III | 1 | Public expenditure on social services post-reforms and inclusive growth | Examine · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Public expenditure on social services post-reforms and inclusive growth
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2019, 2020, 2022
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 5
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | GS-III | 11 | Inclusive growth strategy for inclusiveness and sustainability objectives | Comment · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | Prelims GS-I | 24 | Official poverty line variation across Indian states | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | GS-III | 1 | Intra and inter-generational equity in inclusive growth | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 2 | Financial inclusion and inclusive growth under market economy | State · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 5 | Community health challenges from rising life expectancy in India | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Inclusive growth strategy for inclusiveness and sustainability objectives
-- Official poverty line variation across Indian states
-- Intra and inter-generational equity in inclusive growth
-- Financial inclusion and inclusive growth under market economy
-- Community health challenges from rising life expectancy in India
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ 2024 GS-III: Social-service public expenditure and inclusive growth after reforms.
-- ⚠️ 2025 GS-III: HDI versus IHDI as an inclusive-growth indicator.
-- ⚠️ **Social-expenditure answer engine:** allocation → release → actual spending →
-  service availability/quality → household outcome; disaggregate by state, group and
-  rural/urban access before claiming inclusive growth.
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2019, 2020, 2022
-- **Paper(s):** GS-III
-- **Routed question demands:** 4
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | GS-III | 11 | Inclusive growth strategy for inclusiveness and sustainability objectives | Comment · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 1 | Intra and inter-generational equity in inclusive growth | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 2 | Financial inclusion and inclusive growth under market economy | State · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 5 | Community health challenges from rising life expectancy in India | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- Inclusive growth strategy for inclusiveness and sustainability objectives
-- Intra and inter-generational equity in inclusive growth
-- Financial inclusion and inclusive growth under market economy
-- Community health challenges from rising life expectancy in India
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### PYQ DEMAND CARD 1 — 2019 GS-III
-
-**Demand:** Inclusive-growth strategy for inclusiveness and sustainability objectives.
-
-**Status:** Official-paper demand routed in the audited 2018-2023 GS-III ledger.
-
-**Model solution:** **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Growth elasticity of poverty:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Universal and targeted provision:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Shock-responsive inclusion:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2019 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Growth elasticity of poverty:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Universal and targeted provision:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Shock-responsive inclusion:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Inclusive-growth strategy for inclusiveness and sustainability objectives. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand routed in the audited 2018-2023 GS-III ledger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Growth elasticity of poverty:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Universal and targeted provision:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Shock-responsive inclusion:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2019 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 2 — 2020 GS-III
-
-**Demand:** Intra- and inter-generational equity in inclusive growth.
-
-**Status:** Official-paper demand routed in the audited 2018-2023 GS-III ledger.
-
-**Model solution:** **Lorenz curve and Gini:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Growth elasticity of poverty:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Shock-responsive inclusion:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2020 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Lorenz curve and Gini:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Growth elasticity of poverty:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Shock-responsive inclusion:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Intra- and inter-generational equity in inclusive growth. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand routed in the audited 2018-2023 GS-III ledger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Lorenz curve and Gini:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Growth elasticity of poverty:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Shock-responsive inclusion:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2020 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 3 — 2022 GS-III
-
-**Demand:** Financial inclusion and inclusive growth under a market economy.
-
-**Status:** Official-paper demand routed in the audited 2018-2023 GS-III ledger.
-
-**Model solution:** **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Universal and targeted provision:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Financial inclusion:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2022 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Universal and targeted provision:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Financial inclusion:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Financial inclusion and inclusive growth under a market economy. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand routed in the audited 2018-2023 GS-III ledger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Universal and targeted provision:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Financial inclusion:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2022 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 4 — 2022 GS-III
-
-**Demand:** Community-health challenges arising from rising life expectancy in India.
-
-**Status:** Official-paper demand routed in the audited 2018-2023 GS-III ledger.
-
-**Model solution:** **Social-sector spending chain:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Social assistance and insurance:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services. **Health-protection boundary:** Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Shock-responsive inclusion:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 4 — 2022 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Social-sector spending chain:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Social assistance and insurance:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services. **Health-protection boundary:** Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Shock-responsive inclusion:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Community-health challenges arising from rising life expectancy in India. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand routed in the audited 2018-2023 GS-III ledger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Social-sector spending chain:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Social assistance and insurance:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services. **Health-protection boundary:** Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Shock-responsive inclusion:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 4 — 2022 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### PYQ DEMAND CARD 5 — 2024 GS-III
-
-**Demand:** Public expenditure on social services after reforms and its relationship with inclusive growth.
-
-**Status:** Official-paper demand routed in the audited 2024-2025 GS-III ledger.
-
-**Model solution:** **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Social-sector spending chain:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Universal and targeted provision:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Health-protection boundary:** Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 5 — 2024 GS-III”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Social-sector spending chain:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Universal and targeted provision:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Health-protection boundary:** Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Demand: Public expenditure on social services after reforms and its relationship with inclusive growth. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Status: Official-paper demand routed in the audited 2024-2025 GS-III ledger. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Social-sector spending chain:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Universal and targeted provision:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Health-protection boundary:** Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 5 — 2024 GS-III”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish poverty incidence, poverty depth and inequality. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Poverty and inequality boundary. **Named evidence/example:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Absolute and relative poverty. **Named evidence/example:** Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Headcount and poverty gap. **Named evidence/example:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Lorenz curve and Gini. **Named evidence/example:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-- Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-- The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-- The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-
-**Qualified conclusion:** **Claim:** Poverty and inequality boundary. **Named evidence/example:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Absolute and relative poverty. **Named evidence/example:** Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Headcount and poverty gap. **Named evidence/example:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Lorenz curve and Gini. **Named evidence/example:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish poverty incidence, poverty depth and inequality. Answer in about 150 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Poverty and inequality boundary. **Named evidence/example:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Absolute and relative poverty. **Named evidence/example:** Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Headcount and poverty gap. **Named evidence/example:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Lorenz curve and Gini. **Named evidence/example:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Poverty and inequality boundary. **Named evidence/example:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Absolute and relative poverty. **Named evidence/example:** Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Headcount and poverty gap. **Named evidence/example:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Lorenz curve and Gini. **Named evidence/example:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Distinguish poverty incidence, poverty depth and inequality. Answer in about 150 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Why must the 2022-23 national MPI estimate be separated from NFHS-5 observations? Answer in about 150 words.
-
-**Model thesis:** **Claim:** MPI architecture. **Named evidence/example:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MPI formula. **Named evidence/example:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Observed and projected MPI. **Named evidence/example:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-- The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-- The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-
-**Qualified conclusion:** **Claim:** MPI architecture. **Named evidence/example:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MPI formula. **Named evidence/example:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Observed and projected MPI. **Named evidence/example:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why must the 2022-23 national MPI estimate be separated from NFHS-5 observations? Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** MPI architecture. **Named evidence/example:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MPI formula. **Named evidence/example:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Observed and projected MPI. **Named evidence/example:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** MPI architecture. **Named evidence/example:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MPI formula. **Named evidence/example:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Observed and projected MPI. **Named evidence/example:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Why must the 2022-23 national MPI estimate be separated from NFHS-5 observations? Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain why growth can reduce poverty while increasing inequality. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Poverty and inequality boundary. **Named evidence/example:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Inclusive-growth frame. **Named evidence/example:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Growth elasticity of poverty. **Named evidence/example:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intergenerational and spatial inequality. **Named evidence/example:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-- Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-- The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-- Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-
-**Qualified conclusion:** **Claim:** Poverty and inequality boundary. **Named evidence/example:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Inclusive-growth frame. **Named evidence/example:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Growth elasticity of poverty. **Named evidence/example:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intergenerational and spatial inequality. **Named evidence/example:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why growth can reduce poverty while increasing inequality. Answer in about 250 words.”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Poverty and inequality boundary. **Named evidence/example:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Inclusive-growth frame. **Named evidence/example:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Growth elasticity of poverty. **Named evidence/example:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intergenerational and spatial inequality. **Named evidence/example:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Poverty and inequality boundary. **Named evidence/example:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Inclusive-growth frame. **Named evidence/example:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Growth elasticity of poverty. **Named evidence/example:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intergenerational and spatial inequality. **Named evidence/example:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Explain why growth can reduce poverty while increasing inequality. Answer in about 250 words.”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Evaluate targeting against universal public services in India's social sector. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Social-sector spending chain. **Named evidence/example:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Universal and targeted provision. **Named evidence/example:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Social assistance and insurance. **Named evidence/example:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intergenerational and spatial inequality. **Named evidence/example:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-- Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-- Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-- Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-
-**Qualified conclusion:** **Claim:** Social-sector spending chain. **Named evidence/example:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Universal and targeted provision. **Named evidence/example:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Social assistance and insurance. **Named evidence/example:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intergenerational and spatial inequality. **Named evidence/example:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate targeting against universal public services in India's social sector. Answer in…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Social-sector spending chain. **Named evidence/example:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Universal and targeted provision. **Named evidence/example:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Social assistance and insurance. **Named evidence/example:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intergenerational and spatial inequality. **Named evidence/example:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Social-sector spending chain. **Named evidence/example:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Universal and targeted provision. **Named evidence/example:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Social assistance and insurance. **Named evidence/example:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intergenerational and spatial inequality. **Named evidence/example:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Evaluate targeting against universal public services in India's social sector. Answer in…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Design an inclusive-growth strategy combining jobs, services, redistribution and shock protection. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Inclusive-growth frame. **Named evidence/example:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Growth elasticity of poverty. **Named evidence/example:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Social-sector spending chain. **Named evidence/example:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Universal and targeted provision. **Named evidence/example:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Financial inclusion. **Named evidence/example:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Shock-responsive inclusion. **Named evidence/example:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-- The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-- Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-- Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-- Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-- Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
-
-**Qualified conclusion:** **Claim:** Inclusive-growth frame. **Named evidence/example:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Growth elasticity of poverty. **Named evidence/example:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Social-sector spending chain. **Named evidence/example:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Universal and targeted provision. **Named evidence/example:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Financial inclusion. **Named evidence/example:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Shock-responsive inclusion. **Named evidence/example:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design an inclusive-growth strategy combining jobs, services, redistribution and shock…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Inclusive-growth frame. **Named evidence/example:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Growth elasticity of poverty. **Named evidence/example:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Social-sector spending chain. **Named evidence/example:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Universal and targeted provision. **Named evidence/example:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Financial inclusion. **Named evidence/example:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Shock-responsive inclusion. **Named evidence/example:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Inclusive-growth frame. **Named evidence/example:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Growth elasticity of poverty. **Named evidence/example:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Social-sector spending chain. **Named evidence/example:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Universal and targeted provision. **Named evidence/example:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Financial inclusion. **Named evidence/example:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Shock-responsive inclusion. **Named evidence/example:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “Design an inclusive-growth strategy combining jobs, services, redistribution and shock…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** How should India measure and address poverty without collapsing methodology, distribution and capability into one indicator? Answer in about 300 words.
-
-**Model thesis:** **Claim:** Headcount and poverty gap. **Named evidence/example:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Poverty-line vintage. **Named evidence/example:** A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Tendulkar and Rangarajan. **Named evidence/example:** The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Lorenz curve and Gini. **Named evidence/example:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MPI architecture. **Named evidence/example:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MPI formula. **Named evidence/example:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Observed and projected MPI. **Named evidence/example:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intergenerational and spatial inequality. **Named evidence/example:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-- A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-- The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-- The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-- India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-- The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-- The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-- Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-
-**Qualified conclusion:** **Claim:** Headcount and poverty gap. **Named evidence/example:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Poverty-line vintage. **Named evidence/example:** A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Tendulkar and Rangarajan. **Named evidence/example:** The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Lorenz curve and Gini. **Named evidence/example:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MPI architecture. **Named evidence/example:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MPI formula. **Named evidence/example:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Observed and projected MPI. **Named evidence/example:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intergenerational and spatial inequality. **Named evidence/example:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How should India measure and address poverty without collapsing methodology, distribution and…”, every clause, exact formula/category, institution and policy status, a monetary-fiscal-real-external transmission chain with lags, named Indian evidence, distribution/federal effects, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Headcount and poverty gap. **Named evidence/example:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Poverty-line vintage. **Named evidence/example:** A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Tendulkar and Rangarajan. **Named evidence/example:** The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Lorenz curve and Gini. **Named evidence/example:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MPI architecture. **Named evidence/example:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MPI formula. **Named evidence/example:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Observed and projected MPI. **Named evidence/example:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intergenerational and spatial inequality. **Named evidence/example:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-2. **Claim and named evidence:** A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-3. **Claim and named evidence:** The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-4. **Claim and named evidence:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-5. **Claim and named evidence:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-6. **Claim and named evidence:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-7. **Claim and named evidence:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-8. **Claim and named evidence:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** Connect the identity/category and named Indian evidence → instrument, price, quantity, balance-sheet or incentive channel → implementation and lag → growth, employment, distribution, stability, sustainability and federal effect. **Qualification:** State unit/denominator, stock/flow, nominal/real, authority and programme status, source-date-reference period, causal limit, counterfactual, trade-off or residual risk.
-
-**Counter-position / limit:** An accounting identity, index movement, allocation, rate change, notification, platform count, WTO notification or chronological association cannot alone establish transmission, utilisation, distributional benefit or attributable outcome; test mechanism, lag, counterfactual, data vintage, implementation and external/federal constraints.
-
-**Qualified conclusion:** **Claim:** Headcount and poverty gap. **Named evidence/example:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Poverty-line vintage. **Named evidence/example:** A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Tendulkar and Rangarajan. **Named evidence/example:** The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Lorenz curve and Gini. **Named evidence/example:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MPI architecture. **Named evidence/example:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** MPI formula. **Named evidence/example:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Observed and projected MPI. **Named evidence/example:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source. **Claim:** Intergenerational and spatial inequality. **Named evidence/example:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average. **Analysis:** This identifies the economic mechanism, the relevant institution or accounting boundary, and the effect on output, prices, distribution or financial stability. **Qualification:** The conclusion must retain the stated period, estimate vintage, base year, basket, instrument eligibility, crop and geography scope, implementation stage, stock-flow distinction or legal perimeter rather than generalise beyond the source.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/identity → instrument or shock → transmission → growth, distribution, stability, sustainability and federal effects; state a thesis; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for unit, denominator, data vintage, legal/programme status, lag, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves formula, stock-flow, institutional, status, data-vintage, distributional and causal distinctions.
-
-**How to improve this answer:** For “How should India measure and address poverty without collapsing methodology, distribution and…”, replace the weakest catalogue point with one exact formula or classification, named institution/instrument, balance-sheet or incentive channel, lag, measurable outcome, distribution/federal effect and qualification.
-
-## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
-
-> **Subject:** Economy | **Tier:** Advanced | **GS Paper:** GS-III + Prelims.
-> **Core area:** Poverty and inclusion.
-> **Grounded in:** Ramesh Singh, relevant chapters; Economic Survey 2025-26; audited UPSC Economy PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current Survey/current-affairs hook.
-> *Companion: `../basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`.*
-
-#### 1. Architecture
+#### VISUAL FIRST
 
 ```text
-1. productive growth and public revenue
-   |
-   v
-  2. jobs, services and transfers
-     |
-     v
-    3. lower deprivations and risk
-       |
-       v
-      4. capability and mobility
-         |
-         v
-        5. inclusive and resilient growth
+WORLD BANK INDIA ESTIMATES FOR 2022-23
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> World Bank's 2025 update reports India at 5.3 per cent below USD 3.00 and 23.9 per cent below USD 4.20 per person per day, both at 2021 PPP, for 2022-23.
+BOUNDARY -> These are World Bank estimates, not a new Government of India domestic poverty line; they are sensitive to survey and imputation choices.
 ```
 
-**Analytical claim:** Inclusive growth combines market participation, quality public
-services, redistribution and protection against shocks; no single instrument can perform all
-four roles.
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-#### 2. Concepts and distinctions
+#### DEFINITION
 
-| Concept | Precise meaning |
-|---|---|
-| ✅ **Absolute poverty** | Shortfall below a defined minimum standard or poverty line. |
-| ✅ **Relative poverty** | Deprivation assessed against the distribution or prevailing social standard. |
-| ✅ **Inequality** | Uneven distribution of income, wealth, opportunity or outcomes. |
-| ✅ **Social sector** | Public-policy areas such as health, education, nutrition and social protection. |
-| ✅ **Inclusive growth** | Growth that broadens opportunities and shares gains while protecting vulnerable groups. |
+A poverty estimate applies a named international line to a named survey distribution for a stated year.
 
-#### 3. Detailed transmission
+> **ANSWER-GRABBING LINE:** Changing the line changes the headcount even when the underlying consumption distribution is unchanged.
 
-1. Productive employment and asset ownership determine market income and resilience.
-2. Taxes and transfers alter disposable income, while health, education and nutrition
-   spending alter capabilities.
-3. Public infrastructure and anti-discrimination measures widen access to markets and
-   services.
-4. Social insurance and assistance prevent shocks from becoming long-term poverty traps.
-5. Intergenerational mobility depends on whether children receive quality services
-   regardless of household income or location.
+**MUST-WRITE KEYWORDS:** 5.3 per cent, 23.9 per cent, 2022-23, 2021 PPP, estimate, evidence, qualification
 
-##### Deeper analytical layers
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-- ⚠️ Growth elasticity of poverty depends on initial inequality, sectoral growth and labour
-  intensity.
-- ⚠️ Horizontal inequality across social groups can affect trust and mobility beyond
-  household income gaps.
-- ⚠️ Benefit incidence asks who actually receives the value of public spending.
-- ⚠️ Exclusion, inclusion and transaction costs determine targeting performance.
-- ⚠️ Shock-responsive social protection should expand during climate, health or employment
-  crises.
-- ⚠️ Fiscal space for inclusion grows through tax capacity, reprioritisation and higher
-  productivity.
+- **Claim:** Changing the line changes the headcount even when the underlying consumption distribution is unchanged.
+- **Named evidence:** World Bank's 2025 update reports India at 5.3 per cent below USD 3.00 and 23.9 per cent below USD 4.20 per person per day, both at 2021 PPP, for 2022-23.
+- **Analysis:** A poverty estimate applies a named international line to a named survey distribution for a stated year. Changing the line changes the headcount even when the underlying consumption distribution is unchanged.
+- **Qualification / demand link:** These are World Bank estimates, not a new Government of India domestic poverty line; they are sensitive to survey and imputation choices.
 
-#### 4. Institutional architecture
+#### EVIDENCE AND INFERENCE
 
-- ✅ **NITI Aayog and statistical agencies:** track multidimensional poverty and development
-  outcomes.
-- ✅ **Union and state social-sector departments:** finance and deliver health, education,
-  nutrition and protection.
-- ✅ **Local governments and frontline systems:** determine last-mile access, quality and
-  grievance redress.
-- ✅ **Finance Commissions and budget institutions:** shape the fiscal capacity available for
-  equalising services.
+- **Fact/evidence:** World Bank's 2025 update reports India at 5.3 per cent below USD 3.00 and 23.9 per cent below USD 4.20 per person per day, both at 2021 PPP, for 2022-23.
+- **Analytical inference:** A poverty estimate applies a named international line to a named survey distribution for a stated year. Changing the line changes the headcount even when the underlying consumption distribution is unchanged.
+- **Qualification:** These are World Bank estimates, not a new Government of India domestic poverty line; they are sensitive to survey and imputation choices.
 
-#### 5. Indian applications and boundary cases
+#### PRELIMS TRAP
 
-- ⚠️ Poverty can decline while inequality rises if all incomes grow but gains are
-  concentrated at the top.
-- ⚠️ A cash transfer can protect consumption during a shock but cannot substitute for a
-  functioning hospital or school.
-- ⚠️ A national programme may show high coverage while remote districts face vacancies, weak
-  infrastructure or authentication failure.
+The two rates are not contradictory; they use different thresholds.
 
-#### 6. Limitations and trade-offs
+#### MAINS USE
 
-- ⚠️ Targeting conserves resources but creates exclusion and administrative burdens.
-- ⚠️ Universal provision reduces stigma and error but can be fiscally costly.
-- ⚠️ Subsidised consumption provides relief while productive assets and capabilities support
-  exit from poverty.
-- ⚠️ Rapid urban growth creates opportunity but raises housing, informality and service-
-  access risks.
-- ⚠️ Outcome-linked funding encourages performance yet may penalise difficult starting
-  conditions.
+Use the gap between the rates to explain vulnerability near a minimum line.
 
-⚠️ **Boundary condition:** Targeting saves fiscal resources but weak data and documentation
-can exclude precisely those with unstable incomes and residence.
+#### MINI RECAP
 
-#### 7. Must-Know Facts for Advanced Prelims
+- Definition: A poverty estimate applies a named international line to a named survey distribution for a stated year.
+- Evidence anchor: World Bank's 2025 update reports India at 5.3 per cent below USD 3.00 and 23.9 per cent below USD 4.20 per person per day, both at 2021 PPP, for 2022-23.
+- Verdict: Changing the line changes the headcount even when the underlying consumption distribution is unchanged.
 
-- ✅ Poverty and inequality are related but not identical; poverty can fall while inequality
-  rises.
-- ✅ Headcount ratio measures incidence, while poverty gap captures depth.
-- ✅ Income, consumption, wealth and multidimensional inequality answer different questions.
-- ✅ Social protection includes prevention, promotion and protection, not cash transfers
-  alone.
-- ✅ Universal public goods and targeted benefits can be complementary.
-- ✅ Inclusive growth requires productive participation as well as redistribution.
+### CORE SESSION 18 - CORE - National multidimensional poverty architecture
 
-#### 8. Advanced Prelims traps
+#### VISUAL FIRST
 
-- ❌ Poverty elimination guarantees equality. -> Large relative gaps can remain above a
-  poverty line.
-- ❌ A national average describes every state and group. -> Spatial and social disaggregation
-  is essential.
-- ❌ Social-sector expenditure equals social outcome. -> Quality, access, governance and
-  behaviour mediate results.
-- ❌ Cash transfers can replace health and education systems. -> Transfers cannot alone
-  supply complex public services.
-- ❌ MPI and income poverty identify exactly the same households. -> Different dimensions and
-  thresholds can produce different sets.
+```text
+NATIONAL MULTIDIMENSIONAL POVERTY ARCHITECTURE
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> NITI Aayog's 2023 Progress Review adapts the Alkire-Foster method to 12 indicators and uses NFHS-5, 2019-21.
+BOUNDARY -> National MPI differs from the 10-indicator global MPI and does not replace monetary poverty.
+```
 
-#### 9. 📰 Survey 2025-26 analytical application
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
 
-| Verified current anchor | Topic-specific analytical use |
-|---|---|
-| 📰 Extreme poverty was 5.3% in 2022-23 using the revised World Bank USD 3/day line. | It uses the World Bank's 2021-PPP benchmark and is not directly comparable with older lines or India's domestic poverty-line debate. |
-| 📰 Lower-middle-income poverty was 23.9% in 2022-23. | The higher lower-middle-income-line headcount shows sensitivity to the benchmark chosen. |
-| 📰 NITI MPI fell to 14.96% in 2019-21 and was estimated at 11.28% in 2022-23. | MPI progress should be decomposed by dimension and geography rather than treated as uniform welfare improvement. |
+#### DEFINITION
 
-#### 10. PYQ-based analytical application
+India's national MPI identifies overlapping household deprivations across health, education and standard of living.
 
-- ⚠️ 2024 GS-III: Social-service public expenditure and inclusive growth after reforms.
-- ⚠️ 2025 GS-III: HDI versus IHDI as an inclusive-growth indicator.
-- ⚠️ **Social-expenditure answer engine:** allocation → release → actual spending →
-  service availability/quality → household outcome; disaggregate by state, group and
-  rural/urban access before claiming inclusive growth.
+> **ANSWER-GRABBING LINE:** Twelve weighted indicators produce a deprivation score; a person is counted poor when the household score reaches at least one-third.
 
-#### 11. Mains-ready framework
+**MUST-WRITE KEYWORDS:** National MPI, Alkire-Foster, 12 indicators, one-third cutoff, NFHS-5, evidence, qualification
 
-**Central thesis:** Inclusive growth combines market participation, quality public services, redistribution and protection against shocks; no single instrument can perform all four roles.
+#### HOW TO WRITE THE ANSWER PARAGRAPH
 
-1. Define **Absolute poverty** and distinguish it from **Relative poverty**.
-2. Taxes and transfers alter disposable income, while health, education and nutrition
-   spending alter capabilities.
-3. NITI Aayog and statistical agencies: track multidimensional poverty and development
-   outcomes.
-4. Targeting conserves resources but creates exclusion and administrative burdens.
-5. Recommend quality universal basics, portable protection, productive jobs and
-   disaggregated accountability.
+- **Claim:** Twelve weighted indicators produce a deprivation score; a person is counted poor when the household score reaches at least one-third.
+- **Named evidence:** NITI Aayog's 2023 Progress Review adapts the Alkire-Foster method to 12 indicators and uses NFHS-5, 2019-21.
+- **Analysis:** India's national MPI identifies overlapping household deprivations across health, education and standard of living. Twelve weighted indicators produce a deprivation score; a person is counted poor when the household score reaches at least one-third.
+- **Qualification / demand link:** National MPI differs from the 10-indicator global MPI and does not replace monetary poverty.
 
-#### 12. Probable questions
+#### EVIDENCE AND INFERENCE
 
-- ⚠️ **Prelims:** Distinguish absolute poverty, relative poverty, poverty headcount, poverty
-  gap and multidimensional poverty.
-- ⚠️ **Mains (10 marks):** Why can social-sector spending rise without a proportionate
-  improvement in outcomes?
-- ⚠️ **Mains (15 marks):** Design an inclusive-growth strategy combining productive jobs,
-  universal basics and shock-responsive protection.
+- **Fact/evidence:** NITI Aayog's 2023 Progress Review adapts the Alkire-Foster method to 12 indicators and uses NFHS-5, 2019-21.
+- **Analytical inference:** India's national MPI identifies overlapping household deprivations across health, education and standard of living. Twelve weighted indicators produce a deprivation score; a person is counted poor when the household score reaches at least one-third.
+- **Qualification:** National MPI differs from the 10-indicator global MPI and does not replace monetary poverty.
 
-#### 13. Study links
+#### PRELIMS TRAP
 
-- ✅ Foundation companion: `../basic/23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md`.
-- ✅ `02_Growth-Development-HDI-IHDI-and-MPI.md` — measurement of capabilities and
-  deprivation.
-- ✅ `09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` — fiscal space and expenditure
-  quality.
-- ✅ `22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md` — productive pathways
-  out of poverty.
+An MPI-poor household and a monetary-poor household need not be the same.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+#### MAINS USE
 
-#### Historical PYQ Integration (2018-2023)
+Use MPI as a capability diagnostic while cross-linking formal HDI/MPI treatment to Topic 2.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+#### MINI RECAP
 
-- **Years represented:** 2019, 2020, 2022
-- **Paper(s):** GS-III
-- **Routed question demands:** 4
+- Definition: India's national MPI identifies overlapping household deprivations across health, education and standard of living.
+- Evidence anchor: NITI Aayog's 2023 Progress Review adapts the Alkire-Foster method to 12 indicators and uses NFHS-5, 2019-21.
+- Verdict: Twelve weighted indicators produce a deprivation score; a person is counted poor when the household score reaches at least one-third.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | GS-III | 11 | Inclusive growth strategy for inclusiveness and sustainability objectives | Comment · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 1 | Intra and inter-generational equity in inclusive growth | Explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 2 | Financial inclusion and inclusive growth under market economy | State · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-III | 5 | Community health challenges from rising life expectancy in India | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+### CORE SESSION 19 - CORE - MPI headcount intensity and estimate status
 
-##### What this owner must now support
+#### VISUAL FIRST
 
-- Inclusive growth strategy for inclusiveness and sustainability objectives
-- Intra and inter-generational equity in inclusive growth
-- Financial inclusion and inclusive growth under market economy
-- Community health challenges from rising life expectancy in India
+```text
+MPI HEADCOUNT INTENSITY AND ESTIMATE STATUS
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> NITI reported observed national MPI incidence of 14.96 per cent for NFHS-5, 2019-21, and estimated 11.28 per cent for 2022-23 in its January 2024 discussion paper.
+BOUNDARY -> The 2022-23 value is an estimate, not a fresh NFHS observation; indicator definitions and editions must match.
+```
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+MPI equals the multidimensional headcount ratio H multiplied by average deprivation intensity A among the poor.
+
+> **ANSWER-GRABBING LINE:** A fall may come from fewer people classified poor, lower intensity among those still poor, or both.
+
+**MUST-WRITE KEYWORDS:** MPI equals H times A, incidence, intensity, 14.96, 11.28, estimate, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** A fall may come from fewer people classified poor, lower intensity among those still poor, or both.
+- **Named evidence:** NITI reported observed national MPI incidence of 14.96 per cent for NFHS-5, 2019-21, and estimated 11.28 per cent for 2022-23 in its January 2024 discussion paper.
+- **Analysis:** MPI equals the multidimensional headcount ratio H multiplied by average deprivation intensity A among the poor. A fall may come from fewer people classified poor, lower intensity among those still poor, or both.
+- **Qualification / demand link:** The 2022-23 value is an estimate, not a fresh NFHS observation; indicator definitions and editions must match.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** NITI reported observed national MPI incidence of 14.96 per cent for NFHS-5, 2019-21, and estimated 11.28 per cent for 2022-23 in its January 2024 discussion paper.
+- **Analytical inference:** MPI equals the multidimensional headcount ratio H multiplied by average deprivation intensity A among the poor. A fall may come from fewer people classified poor, lower intensity among those still poor, or both.
+- **Qualification:** The 2022-23 value is an estimate, not a fresh NFHS observation; indicator definitions and editions must match.
+
+#### PRELIMS TRAP
+
+Do not describe the 11.28 per cent estimate as a 2022-23 survey observation.
+
+#### MAINS USE
+
+Separate observed benchmark, projection method and uncertainty.
+
+#### MINI RECAP
+
+- Definition: MPI equals the multidimensional headcount ratio H multiplied by average deprivation intensity A among the poor.
+- Evidence anchor: NITI reported observed national MPI incidence of 14.96 per cent for NFHS-5, 2019-21, and estimated 11.28 per cent for 2022-23 in its January 2024 discussion paper.
+- Verdict: A fall may come from fewer people classified poor, lower intensity among those still poor, or both.
+
+### CORE SESSION 20 - CORE - Income consumption wealth and opportunity inequality
+
+#### VISUAL FIRST
+
+```text
+INCOME CONSUMPTION WEALTH AND OPPORTUNITY INEQUALITY
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> HCES measures consumption; administrative tax or survey data may illuminate income; asset surveys and balance sheets address wealth.
+BOUNDARY -> A low consumption Gini cannot establish low wealth inequality or equal opportunity.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+Income is a flow, consumption is realised spending, wealth is a stock, and opportunity inequality concerns unequal circumstances and access.
+
+> **ANSWER-GRABBING LINE:** Households can smooth consumption despite volatile income, while accumulated wealth creates collateral, security and intergenerational advantage.
+
+**MUST-WRITE KEYWORDS:** income flow, consumption, wealth stock, opportunity, intergenerational advantage, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Households can smooth consumption despite volatile income, while accumulated wealth creates collateral, security and intergenerational advantage.
+- **Named evidence:** HCES measures consumption; administrative tax or survey data may illuminate income; asset surveys and balance sheets address wealth.
+- **Analysis:** Income is a flow, consumption is realised spending, wealth is a stock, and opportunity inequality concerns unequal circumstances and access. Households can smooth consumption despite volatile income, while accumulated wealth creates collateral, security and intergenerational advantage.
+- **Qualification / demand link:** A low consumption Gini cannot establish low wealth inequality or equal opportunity.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** HCES measures consumption; administrative tax or survey data may illuminate income; asset surveys and balance sheets address wealth.
+- **Analytical inference:** Income is a flow, consumption is realised spending, wealth is a stock, and opportunity inequality concerns unequal circumstances and access. Households can smooth consumption despite volatile income, while accumulated wealth creates collateral, security and intergenerational advantage.
+- **Qualification:** A low consumption Gini cannot establish low wealth inequality or equal opportunity.
+
+#### PRELIMS TRAP
+
+Never label a consumption-expenditure Gini as a wealth Gini.
+
+#### MAINS USE
+
+Specify which distribution is unequal and why that measure fits the question.
+
+#### MINI RECAP
+
+- Definition: Income is a flow, consumption is realised spending, wealth is a stock, and opportunity inequality concerns unequal circumstances and access.
+- Evidence anchor: HCES measures consumption; administrative tax or survey data may illuminate income; asset surveys and balance sheets address wealth.
+- Verdict: Households can smooth consumption despite volatile income, while accumulated wealth creates collateral, security and intergenerational advantage.
+
+### CORE SESSION 21 - CORE - Lorenz curve
+
+#### VISUAL FIRST
+
+```text
+LORENZ CURVE
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> World Bank inequality methodology uses Lorenz distributions as the graphical basis for the Gini index.
+BOUNDARY -> Lorenz curves can cross, preventing an unambiguous ranking by visual dominance alone.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+The Lorenz curve plots cumulative population ordered from poorest to richest against cumulative income or consumption share.
+
+> **ANSWER-GRABBING LINE:** Greater bowing below the 45-degree equality line indicates greater inequality under the same welfare concept.
+
+**MUST-WRITE KEYWORDS:** cumulative population, cumulative share, equality line, Lorenz dominance, crossing, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Greater bowing below the 45-degree equality line indicates greater inequality under the same welfare concept.
+- **Named evidence:** World Bank inequality methodology uses Lorenz distributions as the graphical basis for the Gini index.
+- **Analysis:** The Lorenz curve plots cumulative population ordered from poorest to richest against cumulative income or consumption share. Greater bowing below the 45-degree equality line indicates greater inequality under the same welfare concept.
+- **Qualification / demand link:** Lorenz curves can cross, preventing an unambiguous ranking by visual dominance alone.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** World Bank inequality methodology uses Lorenz distributions as the graphical basis for the Gini index.
+- **Analytical inference:** The Lorenz curve plots cumulative population ordered from poorest to richest against cumulative income or consumption share. Greater bowing below the 45-degree equality line indicates greater inequality under the same welfare concept.
+- **Qualification:** Lorenz curves can cross, preventing an unambiguous ranking by visual dominance alone.
+
+#### PRELIMS TRAP
+
+The horizontal axis is population share, not income share.
+
+#### MAINS USE
+
+Draw the axes and equality line before interpreting the curve.
+
+#### MINI RECAP
+
+- Definition: The Lorenz curve plots cumulative population ordered from poorest to richest against cumulative income or consumption share.
+- Evidence anchor: World Bank inequality methodology uses Lorenz distributions as the graphical basis for the Gini index.
+- Verdict: Greater bowing below the 45-degree equality line indicates greater inequality under the same welfare concept.
+
+### CORE SESSION 22 - CORE - Gini coefficient and HCES inequality
+
+#### VISUAL FIRST
+
+```text
+GINI COEFFICIENT AND HCES INEQUALITY
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> MoSPI reported consumption-expenditure Gini coefficients for 2023-24 of 0.237 rural and 0.284 urban, down from 0.266 and 0.314 in 2022-23.
+BOUNDARY -> These are HCES consumption Ginis, not income or wealth Ginis; top-tail undercoverage and survey redesign matter.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+The Gini summarises the area between the Lorenz curve and perfect equality relative to the total area below the equality line.
+
+> **ANSWER-GRABBING LINE:** It ranges from zero equality toward one complete concentration when expressed as a coefficient.
+
+**MUST-WRITE KEYWORDS:** Gini, Lorenz area, 0.237 rural, 0.284 urban, HCES 2023-24, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** It ranges from zero equality toward one complete concentration when expressed as a coefficient.
+- **Named evidence:** MoSPI reported consumption-expenditure Gini coefficients for 2023-24 of 0.237 rural and 0.284 urban, down from 0.266 and 0.314 in 2022-23.
+- **Analysis:** The Gini summarises the area between the Lorenz curve and perfect equality relative to the total area below the equality line. It ranges from zero equality toward one complete concentration when expressed as a coefficient.
+- **Qualification / demand link:** These are HCES consumption Ginis, not income or wealth Ginis; top-tail undercoverage and survey redesign matter.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** MoSPI reported consumption-expenditure Gini coefficients for 2023-24 of 0.237 rural and 0.284 urban, down from 0.266 and 0.314 in 2022-23.
+- **Analytical inference:** The Gini summarises the area between the Lorenz curve and perfect equality relative to the total area below the equality line. It ranges from zero equality toward one complete concentration when expressed as a coefficient.
+- **Qualification:** These are HCES consumption Ginis, not income or wealth Ginis; top-tail undercoverage and survey redesign matter.
+
+#### PRELIMS TRAP
+
+A lower consumption Gini does not prove that wealth concentration fell.
+
+#### MAINS USE
+
+Name welfare concept, geography and year beside every Gini.
+
+#### MINI RECAP
+
+- Definition: The Gini summarises the area between the Lorenz curve and perfect equality relative to the total area below the equality line.
+- Evidence anchor: MoSPI reported consumption-expenditure Gini coefficients for 2023-24 of 0.237 rural and 0.284 urban, down from 0.266 and 0.314 in 2022-23.
+- Verdict: It ranges from zero equality toward one complete concentration when expressed as a coefficient.
+
+### CORE SESSION 23 - CORE - Palma ratio quintile shares and tails
+
+#### VISUAL FIRST
+
+```text
+PALMA RATIO QUINTILE SHARES AND TAILS
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Distributional analysis commonly pairs Gini with decile, quintile or Palma-style shares.
+BOUNDARY -> Palma ignores movement within the middle 50 per cent and depends on the same data-quality constraints.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+The Palma ratio compares the top 10 per cent's income share with the bottom 40 per cent's share; quintile ratios compare selected population groups.
+
+> **ANSWER-GRABBING LINE:** Tail-focused measures reveal who gains when a single Gini can conceal distributionally different changes.
+
+**MUST-WRITE KEYWORDS:** Palma ratio, top 10, bottom 40, quintile share, tails, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Tail-focused measures reveal who gains when a single Gini can conceal distributionally different changes.
+- **Named evidence:** Distributional analysis commonly pairs Gini with decile, quintile or Palma-style shares.
+- **Analysis:** The Palma ratio compares the top 10 per cent's income share with the bottom 40 per cent's share; quintile ratios compare selected population groups. Tail-focused measures reveal who gains when a single Gini can conceal distributionally different changes.
+- **Qualification / demand link:** Palma ignores movement within the middle 50 per cent and depends on the same data-quality constraints.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Distributional analysis commonly pairs Gini with decile, quintile or Palma-style shares.
+- **Analytical inference:** The Palma ratio compares the top 10 per cent's income share with the bottom 40 per cent's share; quintile ratios compare selected population groups. Tail-focused measures reveal who gains when a single Gini can conceal distributionally different changes.
+- **Qualification:** Palma ignores movement within the middle 50 per cent and depends on the same data-quality constraints.
+
+#### PRELIMS TRAP
+
+Palma is a ratio of income shares, not a ratio of population counts.
+
+#### MAINS USE
+
+Use a tail measure when the question concerns concentration or bottom-group gains.
+
+#### MINI RECAP
+
+- Definition: The Palma ratio compares the top 10 per cent's income share with the bottom 40 per cent's share; quintile ratios compare selected population groups.
+- Evidence anchor: Distributional analysis commonly pairs Gini with decile, quintile or Palma-style shares.
+- Verdict: Tail-focused measures reveal who gains when a single Gini can conceal distributionally different changes.
+
+### CORE SESSION 24 - CORE - Kuznets hypothesis
+
+#### VISUAL FIRST
+
+```text
+KUZNETS HYPOTHESIS
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Kuznets presented the proposition as a historical hypothesis rather than an automatic law.
+BOUNDARY -> Country experience depends on institutions, technology, asset ownership, taxation and policy; inequality need not self-correct.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+The Kuznets hypothesis proposes an inverted-U relationship in which inequality may first rise and later fall during structural transformation.
+
+> **ANSWER-GRABBING LINE:** Early industrial gains can concentrate in modern sectors; later diffusion, urbanisation, education and political redistribution may broaden gains.
+
+**MUST-WRITE KEYWORDS:** Kuznets curve, inverted U, structural transformation, institutions, hypothesis, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Early industrial gains can concentrate in modern sectors; later diffusion, urbanisation, education and political redistribution may broaden gains.
+- **Named evidence:** Kuznets presented the proposition as a historical hypothesis rather than an automatic law.
+- **Analysis:** The Kuznets hypothesis proposes an inverted-U relationship in which inequality may first rise and later fall during structural transformation. Early industrial gains can concentrate in modern sectors; later diffusion, urbanisation, education and political redistribution may broaden gains.
+- **Qualification / demand link:** Country experience depends on institutions, technology, asset ownership, taxation and policy; inequality need not self-correct.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Kuznets presented the proposition as a historical hypothesis rather than an automatic law.
+- **Analytical inference:** The Kuznets hypothesis proposes an inverted-U relationship in which inequality may first rise and later fall during structural transformation. Early industrial gains can concentrate in modern sectors; later diffusion, urbanisation, education and political redistribution may broaden gains.
+- **Qualification:** Country experience depends on institutions, technology, asset ownership, taxation and policy; inequality need not self-correct.
+
+#### PRELIMS TRAP
+
+Do not present the Kuznets curve as a universal prediction or policy excuse.
+
+#### MAINS USE
+
+Use it as a contestable lens and identify institutions that alter the trajectory.
+
+#### MINI RECAP
+
+- Definition: The Kuznets hypothesis proposes an inverted-U relationship in which inequality may first rise and later fall during structural transformation.
+- Evidence anchor: Kuznets presented the proposition as a historical hypothesis rather than an automatic law.
+- Verdict: Early industrial gains can concentrate in modern sectors; later diffusion, urbanisation, education and political redistribution may broaden gains.
+
+### CORE SESSION 25 - CORE - Growth poverty inequality triangle
+
+#### VISUAL FIRST
+
+```text
+GROWTH POVERTY INEQUALITY TRIANGLE
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Canonical Economy material identifies sectoral composition, labour intensity and access to assets and services as determinants of poverty elasticity.
+BOUNDARY -> Correlation between GDP growth and poverty decline does not isolate causation or distribution.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+Poverty change depends jointly on average growth and changes in distribution.
+
+> **ANSWER-GRABBING LINE:** Growth raises mean resources, but high initial inequality or concentration of gains reduces the poverty-reducing effect for a given growth rate.
+
+**MUST-WRITE KEYWORDS:** growth-poverty-inequality triangle, elasticity, initial inequality, sectoral composition, distribution, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Growth raises mean resources, but high initial inequality or concentration of gains reduces the poverty-reducing effect for a given growth rate.
+- **Named evidence:** Canonical Economy material identifies sectoral composition, labour intensity and access to assets and services as determinants of poverty elasticity.
+- **Analysis:** Poverty change depends jointly on average growth and changes in distribution. Growth raises mean resources, but high initial inequality or concentration of gains reduces the poverty-reducing effect for a given growth rate.
+- **Qualification / demand link:** Correlation between GDP growth and poverty decline does not isolate causation or distribution.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Canonical Economy material identifies sectoral composition, labour intensity and access to assets and services as determinants of poverty elasticity.
+- **Analytical inference:** Poverty change depends jointly on average growth and changes in distribution. Growth raises mean resources, but high initial inequality or concentration of gains reduces the poverty-reducing effect for a given growth rate.
+- **Qualification:** Correlation between GDP growth and poverty decline does not isolate causation or distribution.
+
+#### PRELIMS TRAP
+
+The same GDP growth rate can produce different poverty outcomes.
+
+#### MAINS USE
+
+Trace growth through jobs, wages, prices, assets and public revenue.
+
+#### MINI RECAP
+
+- Definition: Poverty change depends jointly on average growth and changes in distribution.
+- Evidence anchor: Canonical Economy material identifies sectoral composition, labour intensity and access to assets and services as determinants of poverty elasticity.
+- Verdict: Growth raises mean resources, but high initial inequality or concentration of gains reduces the poverty-reducing effect for a given growth rate.
+
+### CORE SESSION 26 - CORE - Inclusive growth and pro-poor growth
+
+#### VISUAL FIRST
+
+```text
+INCLUSIVE GROWTH AND PRO-POOR GROWTH
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> UPSC's 2019 inclusive-growth demand explicitly joins inclusiveness with sustainability.
+BOUNDARY -> A programme can be inclusive in access yet inadequate in quality, earnings or ecological durability.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+Inclusive growth broadens productive opportunity, access to services and protection; pro-poor growth specifically asks whether poor people's welfare improves absolutely or faster than others.
+
+> **ANSWER-GRABBING LINE:** Absolute pro-poor growth requires poor incomes to rise; relative pro-poor growth requires their share or growth rate to improve relative to the non-poor.
+
+**MUST-WRITE KEYWORDS:** inclusive growth, absolute pro-poor, relative pro-poor, opportunity, sustainability, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Absolute pro-poor growth requires poor incomes to rise; relative pro-poor growth requires their share or growth rate to improve relative to the non-poor.
+- **Named evidence:** UPSC's 2019 inclusive-growth demand explicitly joins inclusiveness with sustainability.
+- **Analysis:** Inclusive growth broadens productive opportunity, access to services and protection; pro-poor growth specifically asks whether poor people's welfare improves absolutely or faster than others. Absolute pro-poor growth requires poor incomes to rise; relative pro-poor growth requires their share or growth rate to improve relative to the non-poor.
+- **Qualification / demand link:** A programme can be inclusive in access yet inadequate in quality, earnings or ecological durability.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** UPSC's 2019 inclusive-growth demand explicitly joins inclusiveness with sustainability.
+- **Analytical inference:** Inclusive growth broadens productive opportunity, access to services and protection; pro-poor growth specifically asks whether poor people's welfare improves absolutely or faster than others. Absolute pro-poor growth requires poor incomes to rise; relative pro-poor growth requires their share or growth rate to improve relative to the non-poor.
+- **Qualification:** A programme can be inclusive in access yet inadequate in quality, earnings or ecological durability.
+
+#### PRELIMS TRAP
+
+Inclusive growth is not identical to redistribution after growth.
+
+#### MAINS USE
+
+Define the criterion before judging whether growth is pro-poor.
+
+#### MINI RECAP
+
+- Definition: Inclusive growth broadens productive opportunity, access to services and protection; pro-poor growth specifically asks whether poor people's welfare improves absolutely or faster than others.
+- Evidence anchor: UPSC's 2019 inclusive-growth demand explicitly joins inclusiveness with sustainability.
+- Verdict: Absolute pro-poor growth requires poor incomes to rise; relative pro-poor growth requires their share or growth rate to improve relative to the non-poor.
+
+### CORE SESSION 27 - CORE - Predistribution and redistribution
+
+#### VISUAL FIRST
+
+```text
+PREDISTRIBUTION AND REDISTRIBUTION
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Capability and human-capital approaches show why public services can change future primary income rather than merely compensate current poverty.
+BOUNDARY -> The boundary is analytical: some public services both redistribute current welfare and predistribute future opportunity.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+Predistribution shapes market incomes before taxes and transfers; redistribution changes disposable resources afterward.
+
+> **ANSWER-GRABBING LINE:** Education, health, land access, competition, labour institutions and asset ownership affect earning power, while progressive taxes and transfers alter post-market outcomes.
+
+**MUST-WRITE KEYWORDS:** predistribution, redistribution, market income, disposable income, assets, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Education, health, land access, competition, labour institutions and asset ownership affect earning power, while progressive taxes and transfers alter post-market outcomes.
+- **Named evidence:** Capability and human-capital approaches show why public services can change future primary income rather than merely compensate current poverty.
+- **Analysis:** Predistribution shapes market incomes before taxes and transfers; redistribution changes disposable resources afterward. Education, health, land access, competition, labour institutions and asset ownership affect earning power, while progressive taxes and transfers alter post-market outcomes.
+- **Qualification / demand link:** The boundary is analytical: some public services both redistribute current welfare and predistribute future opportunity.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Capability and human-capital approaches show why public services can change future primary income rather than merely compensate current poverty.
+- **Analytical inference:** Predistribution shapes market incomes before taxes and transfers; redistribution changes disposable resources afterward. Education, health, land access, competition, labour institutions and asset ownership affect earning power, while progressive taxes and transfers alter post-market outcomes.
+- **Qualification:** The boundary is analytical: some public services both redistribute current welfare and predistribute future opportunity.
+
+#### PRELIMS TRAP
+
+Cash transfers are not the only redistributive instrument, and skills are not merely post-market relief.
+
+#### MAINS USE
+
+Recommend a package that changes both earning capacity and immediate deprivation.
+
+#### MINI RECAP
+
+- Definition: Predistribution shapes market incomes before taxes and transfers; redistribution changes disposable resources afterward.
+- Evidence anchor: Capability and human-capital approaches show why public services can change future primary income rather than merely compensate current poverty.
+- Verdict: Education, health, land access, competition, labour institutions and asset ownership affect earning power, while progressive taxes and transfers alter post-market outcomes.
+
+### CORE SESSION 28 - CORE - Fiscal incidence
+
+#### VISUAL FIRST
+
+```text
+FISCAL INCIDENCE
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Budget and Economic Survey analysis distinguish allocation, actual spending and outcomes; incidence studies add who bears or benefits.
+BOUNDARY -> Valuing in-kind services and indirect-tax burdens requires assumptions; average incidence may hide quality differences.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+Fiscal-incidence analysis estimates how taxes, transfers, subsidies and public services alter household welfare across the distribution.
+
+> **ANSWER-GRABBING LINE:** Move from market income to disposable income after direct taxes and transfers, then to consumable or final income after indirect taxes and monetised services.
+
+**MUST-WRITE KEYWORDS:** fiscal incidence, market income, disposable income, indirect taxes, in-kind services, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Move from market income to disposable income after direct taxes and transfers, then to consumable or final income after indirect taxes and monetised services.
+- **Named evidence:** Budget and Economic Survey analysis distinguish allocation, actual spending and outcomes; incidence studies add who bears or benefits.
+- **Analysis:** Fiscal-incidence analysis estimates how taxes, transfers, subsidies and public services alter household welfare across the distribution. Move from market income to disposable income after direct taxes and transfers, then to consumable or final income after indirect taxes and monetised services.
+- **Qualification / demand link:** Valuing in-kind services and indirect-tax burdens requires assumptions; average incidence may hide quality differences.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Budget and Economic Survey analysis distinguish allocation, actual spending and outcomes; incidence studies add who bears or benefits.
+- **Analytical inference:** Fiscal-incidence analysis estimates how taxes, transfers, subsidies and public services alter household welfare across the distribution. Move from market income to disposable income after direct taxes and transfers, then to consumable or final income after indirect taxes and monetised services.
+- **Qualification:** Valuing in-kind services and indirect-tax burdens requires assumptions; average incidence may hide quality differences.
+
+#### PRELIMS TRAP
+
+A progressive spending item can be offset by regressive taxes or unequal service quality.
+
+#### MAINS USE
+
+Assess the net package rather than one subsidy or tax in isolation.
+
+#### MINI RECAP
+
+- Definition: Fiscal-incidence analysis estimates how taxes, transfers, subsidies and public services alter household welfare across the distribution.
+- Evidence anchor: Budget and Economic Survey analysis distinguish allocation, actual spending and outcomes; incidence studies add who bears or benefits.
+- Verdict: Move from market income to disposable income after direct taxes and transfers, then to consumable or final income after indirect taxes and monetised services.
+
+### CORE SESSION 29 - CORE - Progressive taxes transfers and public services
+
+#### VISUAL FIRST
+
+```text
+PROGRESSIVE TAXES TRANSFERS AND PUBLIC SERVICES
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Health, education, nutrition and social protection are recurring social-sector channels in Union and state budgets.
+BOUNDARY -> Statutory progressivity does not guarantee effective progressivity when exemptions, evasion or indirect-tax burdens differ.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+A progressive tax takes a rising effective share with ability to pay; transfers and services are progressive when lower groups receive greater relative benefit.
+
+> **ANSWER-GRABBING LINE:** Revenue finances consumption protection and capability formation, while tax design affects incentives, compliance and fiscal space.
+
+**MUST-WRITE KEYWORDS:** progressive taxation, transfers, public services, effective incidence, fiscal space, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Revenue finances consumption protection and capability formation, while tax design affects incentives, compliance and fiscal space.
+- **Named evidence:** Health, education, nutrition and social protection are recurring social-sector channels in Union and state budgets.
+- **Analysis:** A progressive tax takes a rising effective share with ability to pay; transfers and services are progressive when lower groups receive greater relative benefit. Revenue finances consumption protection and capability formation, while tax design affects incentives, compliance and fiscal space.
+- **Qualification / demand link:** Statutory progressivity does not guarantee effective progressivity when exemptions, evasion or indirect-tax burdens differ.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Health, education, nutrition and social protection are recurring social-sector channels in Union and state budgets.
+- **Analytical inference:** A progressive tax takes a rising effective share with ability to pay; transfers and services are progressive when lower groups receive greater relative benefit. Revenue finances consumption protection and capability formation, while tax design affects incentives, compliance and fiscal space.
+- **Qualification:** Statutory progressivity does not guarantee effective progressivity when exemptions, evasion or indirect-tax burdens differ.
+
+#### PRELIMS TRAP
+
+Higher spending is not automatically progressive if access is captured by better-off groups.
+
+#### MAINS USE
+
+Link equity to incidence, service quality and sustainable revenue.
+
+#### MINI RECAP
+
+- Definition: A progressive tax takes a rising effective share with ability to pay; transfers and services are progressive when lower groups receive greater relative benefit.
+- Evidence anchor: Health, education, nutrition and social protection are recurring social-sector channels in Union and state budgets.
+- Verdict: Revenue finances consumption protection and capability formation, while tax design affects incentives, compliance and fiscal space.
+
+### CORE SESSION 30 - CORE - Capability approach and human capital
+
+#### VISUAL FIRST
+
+```text
+CAPABILITY APPROACH AND HUMAN CAPITAL
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Amartya Sen's capability framework underpins multidimensional assessment; Economic Survey 2025-26 links education and health to mobility and inclusive growth.
+BOUNDARY -> Capabilities exceed labour productivity; dignity, agency and participation have intrinsic value.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+The capability approach evaluates substantive freedoms to be healthy, educated, nourished and socially participating, while human capital emphasises productive capacities.
+
+> **ANSWER-GRABBING LINE:** Public health, learning and nutrition improve agency and productivity and reduce intergenerational transmission of poverty.
+
+**MUST-WRITE KEYWORDS:** capabilities, functionings, human capital, agency, intergenerational mobility, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Public health, learning and nutrition improve agency and productivity and reduce intergenerational transmission of poverty.
+- **Named evidence:** Amartya Sen's capability framework underpins multidimensional assessment; Economic Survey 2025-26 links education and health to mobility and inclusive growth.
+- **Analysis:** The capability approach evaluates substantive freedoms to be healthy, educated, nourished and socially participating, while human capital emphasises productive capacities. Public health, learning and nutrition improve agency and productivity and reduce intergenerational transmission of poverty.
+- **Qualification / demand link:** Capabilities exceed labour productivity; dignity, agency and participation have intrinsic value.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Amartya Sen's capability framework underpins multidimensional assessment; Economic Survey 2025-26 links education and health to mobility and inclusive growth.
+- **Analytical inference:** The capability approach evaluates substantive freedoms to be healthy, educated, nourished and socially participating, while human capital emphasises productive capacities. Public health, learning and nutrition improve agency and productivity and reduce intergenerational transmission of poverty.
+- **Qualification:** Capabilities exceed labour productivity; dignity, agency and participation have intrinsic value.
+
+#### PRELIMS TRAP
+
+Capability poverty cannot be inferred completely from income alone.
+
+#### MAINS USE
+
+Combine intrinsic rights and instrumental productivity rather than reducing services to GDP inputs.
+
+#### MINI RECAP
+
+- Definition: The capability approach evaluates substantive freedoms to be healthy, educated, nourished and socially participating, while human capital emphasises productive capacities.
+- Evidence anchor: Amartya Sen's capability framework underpins multidimensional assessment; Economic Survey 2025-26 links education and health to mobility and inclusive growth.
+- Verdict: Public health, learning and nutrition improve agency and productivity and reduce intergenerational transmission of poverty.
+
+### CORE SESSION 31 - CORE - Social-sector expenditure to outcome chain
+
+#### VISUAL FIRST
+
+```text
+SOCIAL-SECTOR EXPENDITURE TO OUTCOME CHAIN
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> The 2024 GS-III question asks whether post-reform social-service expenditure aligned with inclusive growth, requiring pattern plus outcome analysis.
+BOUNDARY -> More expenditure may reflect higher need or prices; outcomes also depend on governance, baseline conditions and complementary inputs.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+An allocation is budget authority, expenditure is money actually spent, output is a delivered service, and outcome is the household-level result.
+
+> **ANSWER-GRABBING LINE:** Funds must be released, converted into staff and facilities, used with adequate quality, and translated into health, learning or nutrition.
+
+**MUST-WRITE KEYWORDS:** allocation, release, expenditure, output, outcome, quality, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Funds must be released, converted into staff and facilities, used with adequate quality, and translated into health, learning or nutrition.
+- **Named evidence:** The 2024 GS-III question asks whether post-reform social-service expenditure aligned with inclusive growth, requiring pattern plus outcome analysis.
+- **Analysis:** An allocation is budget authority, expenditure is money actually spent, output is a delivered service, and outcome is the household-level result. Funds must be released, converted into staff and facilities, used with adequate quality, and translated into health, learning or nutrition.
+- **Qualification / demand link:** More expenditure may reflect higher need or prices; outcomes also depend on governance, baseline conditions and complementary inputs.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The 2024 GS-III question asks whether post-reform social-service expenditure aligned with inclusive growth, requiring pattern plus outcome analysis.
+- **Analytical inference:** An allocation is budget authority, expenditure is money actually spent, output is a delivered service, and outcome is the household-level result. Funds must be released, converted into staff and facilities, used with adequate quality, and translated into health, learning or nutrition.
+- **Qualification:** More expenditure may reflect higher need or prices; outcomes also depend on governance, baseline conditions and complementary inputs.
+
+#### PRELIMS TRAP
+
+Budget allocation is not proof of expenditure, access or outcome.
+
+#### MAINS USE
+
+Use the full results chain and compare states or groups.
+
+#### MINI RECAP
+
+- Definition: An allocation is budget authority, expenditure is money actually spent, output is a delivered service, and outcome is the household-level result.
+- Evidence anchor: The 2024 GS-III question asks whether post-reform social-service expenditure aligned with inclusive growth, requiring pattern plus outcome analysis.
+- Verdict: Funds must be released, converted into staff and facilities, used with adequate quality, and translated into health, learning or nutrition.
+
+### CORE SESSION 32 - CORE - Targeting universalism and self-selection
+
+#### VISUAL FIRST
+
+```text
+TARGETING UNIVERSALISM AND SELF-SELECTION
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> MGNREGA uses work demand and manual labour as self-selection, while NFSA uses legally allocated coverage and state identification.
+BOUNDARY -> Hybrid systems can combine universal basic services with targeted cash or categorical support.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+Targeting restricts benefits by eligibility; universalism offers broad coverage; self-selection designs benefits so intended groups are more likely to participate.
+
+> **ANSWER-GRABBING LINE:** Targeting saves fiscal resources but creates identification and transaction costs; universalism limits stigma and exclusion but costs more.
+
+**MUST-WRITE KEYWORDS:** targeting, universalism, means test, categorical, self-selection, stigma, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Targeting saves fiscal resources but creates identification and transaction costs; universalism limits stigma and exclusion but costs more.
+- **Named evidence:** MGNREGA uses work demand and manual labour as self-selection, while NFSA uses legally allocated coverage and state identification.
+- **Analysis:** Targeting restricts benefits by eligibility; universalism offers broad coverage; self-selection designs benefits so intended groups are more likely to participate. Targeting saves fiscal resources but creates identification and transaction costs; universalism limits stigma and exclusion but costs more.
+- **Qualification / demand link:** Hybrid systems can combine universal basic services with targeted cash or categorical support.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** MGNREGA uses work demand and manual labour as self-selection, while NFSA uses legally allocated coverage and state identification.
+- **Analytical inference:** Targeting restricts benefits by eligibility; universalism offers broad coverage; self-selection designs benefits so intended groups are more likely to participate. Targeting saves fiscal resources but creates identification and transaction costs; universalism limits stigma and exclusion but costs more.
+- **Qualification:** Hybrid systems can combine universal basic services with targeted cash or categorical support.
+
+#### PRELIMS TRAP
+
+Self-selection is not absence of eligibility or administration.
+
+#### MAINS USE
+
+Judge design by error rates, adequacy, cost, incentives and political durability.
+
+#### MINI RECAP
+
+- Definition: Targeting restricts benefits by eligibility; universalism offers broad coverage; self-selection designs benefits so intended groups are more likely to participate.
+- Evidence anchor: MGNREGA uses work demand and manual labour as self-selection, while NFSA uses legally allocated coverage and state identification.
+- Verdict: Targeting saves fiscal resources but creates identification and transaction costs; universalism limits stigma and exclusion but costs more.
+
+### CORE SESSION 33 - CORE SYNTHESIS - Exclusion and inclusion errors
+
+#### VISUAL FIRST
+
+```text
+EXCLUSION AND INCLUSION ERRORS
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> DBT Mission's 19 December 2017 Aadhaar exception-handling OM requires alternatives when authentication or connectivity fails.
+BOUNDARY -> Reducing one error can increase the other; the welfare cost of exclusion may be higher for essential entitlements.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+Exclusion error denies an eligible person; inclusion error grants benefit to an ineligible person.
+
+> **ANSWER-GRABBING LINE:** Outdated lists, documentation gaps, migration and authentication failure raise exclusion; weak verification and stale records raise inclusion.
+
+**MUST-WRITE KEYWORDS:** exclusion error, inclusion error, authentication, exception handling, grievance, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Outdated lists, documentation gaps, migration and authentication failure raise exclusion; weak verification and stale records raise inclusion.
+- **Named evidence:** DBT Mission's 19 December 2017 Aadhaar exception-handling OM requires alternatives when authentication or connectivity fails.
+- **Analysis:** Exclusion error denies an eligible person; inclusion error grants benefit to an ineligible person. Outdated lists, documentation gaps, migration and authentication failure raise exclusion; weak verification and stale records raise inclusion.
+- **Qualification / demand link:** Reducing one error can increase the other; the welfare cost of exclusion may be higher for essential entitlements.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** DBT Mission's 19 December 2017 Aadhaar exception-handling OM requires alternatives when authentication or connectivity fails.
+- **Analytical inference:** Exclusion error denies an eligible person; inclusion error grants benefit to an ineligible person. Outdated lists, documentation gaps, migration and authentication failure raise exclusion; weak verification and stale records raise inclusion.
+- **Qualification:** Reducing one error can increase the other; the welfare cost of exclusion may be higher for essential entitlements.
+
+#### PRELIMS TRAP
+
+A clean database is not proof that every eligible person is included.
+
+#### MAINS USE
+
+Add appeals, offline alternatives, dynamic updating and audit.
+
+#### MINI RECAP
+
+- Definition: Exclusion error denies an eligible person; inclusion error grants benefit to an ineligible person.
+- Evidence anchor: DBT Mission's 19 December 2017 Aadhaar exception-handling OM requires alternatives when authentication or connectivity fails.
+- Verdict: Outdated lists, documentation gaps, migration and authentication failure raise exclusion; weak verification and stale records raise inclusion.
+
+### CORE SESSION 34 - CORE SYNTHESIS - JAM and direct benefit transfer
+
+#### VISUAL FIRST
+
+```text
+JAM AND DIRECT BENEFIT TRANSFER
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> The DBT Mission publishes exception-handling instructions and scheme-wise transfer architecture.
+BOUNDARY -> Savings claims do not by themselves establish additional welfare; cash cannot replace services with supply-side requirements.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+JAM combines Jan Dhan accounts, Aadhaar identity and mobile connectivity; DBT is a delivery mode, not a welfare objective or single scheme.
+
+> **ANSWER-GRABBING LINE:** Digital identity and account transfer can reduce intermediaries, duplicates and payment delay while creating authentication, seeding and access risks.
+
+**MUST-WRITE KEYWORDS:** Jan Dhan, Aadhaar, mobile, DBT, portability, exception handling, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Digital identity and account transfer can reduce intermediaries, duplicates and payment delay while creating authentication, seeding and access risks.
+- **Named evidence:** The DBT Mission publishes exception-handling instructions and scheme-wise transfer architecture.
+- **Analysis:** JAM combines Jan Dhan accounts, Aadhaar identity and mobile connectivity; DBT is a delivery mode, not a welfare objective or single scheme. Digital identity and account transfer can reduce intermediaries, duplicates and payment delay while creating authentication, seeding and access risks.
+- **Qualification / demand link:** Savings claims do not by themselves establish additional welfare; cash cannot replace services with supply-side requirements.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The DBT Mission publishes exception-handling instructions and scheme-wise transfer architecture.
+- **Analytical inference:** JAM combines Jan Dhan accounts, Aadhaar identity and mobile connectivity; DBT is a delivery mode, not a welfare objective or single scheme. Digital identity and account transfer can reduce intermediaries, duplicates and payment delay while creating authentication, seeding and access risks.
+- **Qualification:** Savings claims do not by themselves establish additional welfare; cash cannot replace services with supply-side requirements.
+
+#### PRELIMS TRAP
+
+Aadhaar authentication failure must not automatically extinguish an entitlement.
+
+#### MAINS USE
+
+Balance leakage control with last-mile inclusion, privacy, choice and grievance redress.
+
+#### MINI RECAP
+
+- Definition: JAM combines Jan Dhan accounts, Aadhaar identity and mobile connectivity; DBT is a delivery mode, not a welfare objective or single scheme.
+- Evidence anchor: The DBT Mission publishes exception-handling instructions and scheme-wise transfer architecture.
+- Verdict: Digital identity and account transfer can reduce intermediaries, duplicates and payment delay while creating authentication, seeding and access risks.
+
+### CORE SESSION 35 - CORE SYNTHESIS - MGNREGA rights-based employment
+
+#### VISUAL FIRST
+
+```text
+MGNREGA RIGHTS-BASED EMPLOYMENT
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> The Mahatma Gandhi National Rural Employment Guarantee Act and official portal establish household entitlement, demand registration and social-audit architecture.
+BOUNDARY -> Actual person-days, wage timeliness and work availability determine realised protection; it is not an urban or individual 100-day guarantee.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+MGNREGA is a demand-driven legal guarantee of at least 100 days of unskilled manual wage employment per rural household per financial year.
+
+> **ANSWER-GRABBING LINE:** Adult members demand work; employment should be provided within 15 days, otherwise the state-law framework provides unemployment allowance.
+
+**MUST-WRITE KEYWORDS:** MGNREGA, 100 days, rural household, demand-driven, 15 days, social audit, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Adult members demand work; employment should be provided within 15 days, otherwise the state-law framework provides unemployment allowance.
+- **Named evidence:** The Mahatma Gandhi National Rural Employment Guarantee Act and official portal establish household entitlement, demand registration and social-audit architecture.
+- **Analysis:** MGNREGA is a demand-driven legal guarantee of at least 100 days of unskilled manual wage employment per rural household per financial year. Adult members demand work; employment should be provided within 15 days, otherwise the state-law framework provides unemployment allowance.
+- **Qualification / demand link:** Actual person-days, wage timeliness and work availability determine realised protection; it is not an urban or individual 100-day guarantee.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The Mahatma Gandhi National Rural Employment Guarantee Act and official portal establish household entitlement, demand registration and social-audit architecture.
+- **Analytical inference:** MGNREGA is a demand-driven legal guarantee of at least 100 days of unskilled manual wage employment per rural household per financial year. Adult members demand work; employment should be provided within 15 days, otherwise the state-law framework provides unemployment allowance.
+- **Qualification:** Actual person-days, wage timeliness and work availability determine realised protection; it is not an urban or individual 100-day guarantee.
+
+#### PRELIMS TRAP
+
+Budget allocation does not convert a statutory demand into work unless demand is recorded and met.
+
+#### MAINS USE
+
+Evaluate livelihood protection, rural wage floor, asset quality and implementation.
+
+#### MINI RECAP
+
+- Definition: MGNREGA is a demand-driven legal guarantee of at least 100 days of unskilled manual wage employment per rural household per financial year.
+- Evidence anchor: The Mahatma Gandhi National Rural Employment Guarantee Act and official portal establish household entitlement, demand registration and social-audit architecture.
+- Verdict: Adult members demand work; employment should be provided within 15 days, otherwise the state-law framework provides unemployment allowance.
+
+### CORE SESSION 36 - CORE SYNTHESIS - NFSA food entitlement
+
+#### VISUAL FIRST
+
+```text
+NFSA FOOD ENTITLEMENT
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Department of Food and Public Distribution records free NFSA foodgrain from 1 January 2023, extended for five years through December 2028.
+BOUNDARY -> The Act's entitlement scale, identification lists, portability and nutrition outcomes are separate; cereal access is not complete nutrition security.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+The National Food Security Act 2013 creates statutory foodgrain and nutrition entitlements through identified categories and institutions.
+
+> **ANSWER-GRABBING LINE:** Priority households receive 5 kg per person per month and Antyodaya Anna Yojana households 35 kg per household per month within coverage ceilings of up to 75 per cent rural and 50 per cent urban population.
+
+**MUST-WRITE KEYWORDS:** NFSA 2013, PHH, AAY, 5 kg, 35 kg, free through December 2028, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Priority households receive 5 kg per person per month and Antyodaya Anna Yojana households 35 kg per household per month within coverage ceilings of up to 75 per cent rural and 50 per cent urban population.
+- **Named evidence:** Department of Food and Public Distribution records free NFSA foodgrain from 1 January 2023, extended for five years through December 2028.
+- **Analysis:** The National Food Security Act 2013 creates statutory foodgrain and nutrition entitlements through identified categories and institutions. Priority households receive 5 kg per person per month and Antyodaya Anna Yojana households 35 kg per household per month within coverage ceilings of up to 75 per cent rural and 50 per cent urban population.
+- **Qualification / demand link:** The Act's entitlement scale, identification lists, portability and nutrition outcomes are separate; cereal access is not complete nutrition security.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Department of Food and Public Distribution records free NFSA foodgrain from 1 January 2023, extended for five years through December 2028.
+- **Analytical inference:** The National Food Security Act 2013 creates statutory foodgrain and nutrition entitlements through identified categories and institutions. Priority households receive 5 kg per person per month and Antyodaya Anna Yojana households 35 kg per household per month within coverage ceilings of up to 75 per cent rural and 50 per cent urban population.
+- **Qualification:** The Act's entitlement scale, identification lists, portability and nutrition outcomes are separate; cereal access is not complete nutrition security.
+
+#### PRELIMS TRAP
+
+The 35 kg entitlement is per AAY household, not per person.
+
+#### MAINS USE
+
+Assess legal coverage, list updating, portability, diet quality and fiscal-logistics sustainability.
+
+#### MINI RECAP
+
+- Definition: The National Food Security Act 2013 creates statutory foodgrain and nutrition entitlements through identified categories and institutions.
+- Evidence anchor: Department of Food and Public Distribution records free NFSA foodgrain from 1 January 2023, extended for five years through December 2028.
+- Verdict: Priority households receive 5 kg per person per month and Antyodaya Anna Yojana households 35 kg per household per month within coverage ceilings of up to 75 per cent rural and 50 per cent urban population.
+
+### CORE SESSION 37 - CORE SYNTHESIS - Pensions and lifecycle assistance
+
+#### VISUAL FIRST
+
+```text
+PENSIONS AND LIFECYCLE ASSISTANCE
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> NSAP includes IGNOAPS, IGNWPS, IGNDPS and the National Family Benefit Scheme; states often add their own support.
+BOUNDARY -> Portal registration or nominal entitlement does not establish payment adequacy, regularity or national uniformity.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+Social assistance uses tax-financed support for eligible groups; social insurance pools contributions or specified risks.
+
+> **ANSWER-GRABBING LINE:** Old age, widowhood, disability and breadwinner death can reduce earnings or raise costs, requiring predictable lifecycle protection.
+
+**MUST-WRITE KEYWORDS:** NSAP, old age, widow, disability, family benefit, social assistance, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Old age, widowhood, disability and breadwinner death can reduce earnings or raise costs, requiring predictable lifecycle protection.
+- **Named evidence:** NSAP includes IGNOAPS, IGNWPS, IGNDPS and the National Family Benefit Scheme; states often add their own support.
+- **Analysis:** Social assistance uses tax-financed support for eligible groups; social insurance pools contributions or specified risks. Old age, widowhood, disability and breadwinner death can reduce earnings or raise costs, requiring predictable lifecycle protection.
+- **Qualification / demand link:** Portal registration or nominal entitlement does not establish payment adequacy, regularity or national uniformity.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** NSAP includes IGNOAPS, IGNWPS, IGNDPS and the National Family Benefit Scheme; states often add their own support.
+- **Analytical inference:** Social assistance uses tax-financed support for eligible groups; social insurance pools contributions or specified risks. Old age, widowhood, disability and breadwinner death can reduce earnings or raise costs, requiring predictable lifecycle protection.
+- **Qualification:** Portal registration or nominal entitlement does not establish payment adequacy, regularity or national uniformity.
+
+#### PRELIMS TRAP
+
+NSAP pensions are not contributory EPF pensions and should not be merged analytically.
+
+#### MAINS USE
+
+Evaluate adequacy, indexation, coverage, payment regularity and state top-ups.
+
+#### MINI RECAP
+
+- Definition: Social assistance uses tax-financed support for eligible groups; social insurance pools contributions or specified risks.
+- Evidence anchor: NSAP includes IGNOAPS, IGNWPS, IGNDPS and the National Family Benefit Scheme; states often add their own support.
+- Verdict: Old age, widowhood, disability and breadwinner death can reduce earnings or raise costs, requiring predictable lifecycle protection.
+
+### CORE SESSION 38 - CORE SYNTHESIS - Health insurance and PM-JAY boundary
+
+#### VISUAL FIRST
+
+```text
+HEALTH INSURANCE AND PM-JAY BOUNDARY
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> The September-October 2024 expansion covers all persons aged 70 and above; already-covered families receive an additional Rs 5 lakh top-up reserved for eligible seniors.
+BOUNDARY -> Coverage does not guarantee provider availability, outpatient protection, quality or zero out-of-pocket spending.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+Health insurance protects against specified financial risk; it does not itself create comprehensive public-health or primary-care capacity.
+
+> **ANSWER-GRABBING LINE:** AB-PMJAY finances eligible secondary and tertiary hospitalisation up to Rs 5 lakh per family per year through empanelled providers.
+
+**MUST-WRITE KEYWORDS:** AB-PMJAY, Rs 5 lakh, hospitalisation, age 70, top-up, empanelment, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** AB-PMJAY finances eligible secondary and tertiary hospitalisation up to Rs 5 lakh per family per year through empanelled providers.
+- **Named evidence:** The September-October 2024 expansion covers all persons aged 70 and above; already-covered families receive an additional Rs 5 lakh top-up reserved for eligible seniors.
+- **Analysis:** Health insurance protects against specified financial risk; it does not itself create comprehensive public-health or primary-care capacity. AB-PMJAY finances eligible secondary and tertiary hospitalisation up to Rs 5 lakh per family per year through empanelled providers.
+- **Qualification / demand link:** Coverage does not guarantee provider availability, outpatient protection, quality or zero out-of-pocket spending.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The September-October 2024 expansion covers all persons aged 70 and above; already-covered families receive an additional Rs 5 lakh top-up reserved for eligible seniors.
+- **Analytical inference:** Health insurance protects against specified financial risk; it does not itself create comprehensive public-health or primary-care capacity. AB-PMJAY finances eligible secondary and tertiary hospitalisation up to Rs 5 lakh per family per year through empanelled providers.
+- **Qualification:** Coverage does not guarantee provider availability, outpatient protection, quality or zero out-of-pocket spending.
+
+#### PRELIMS TRAP
+
+PM-JAY is not a universal reimbursement of every medical expense.
+
+#### MAINS USE
+
+Place insurance within a continuum of primary care, public health, referral and financial protection.
+
+#### MINI RECAP
+
+- Definition: Health insurance protects against specified financial risk; it does not itself create comprehensive public-health or primary-care capacity.
+- Evidence anchor: The September-October 2024 expansion covers all persons aged 70 and above; already-covered families receive an additional Rs 5 lakh top-up reserved for eligible seniors.
+- Verdict: AB-PMJAY finances eligible secondary and tertiary hospitalisation up to Rs 5 lakh per family per year through empanelled providers.
+
+### CORE SESSION 39 - CORE SYNTHESIS - Scholarships and education support
+
+#### VISUAL FIRST
+
+```text
+SCHOLARSHIPS AND EDUCATION SUPPORT
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> The Ministry of Education's National Scholarship Portal hosts multiple central and state schemes with scheme-specific rules.
+BOUNDARY -> Enrolment or disbursement does not prove learning, completion or labour-market mobility.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+A scholarship reduces the private cost of education for a defined learner group; the National Scholarship Portal is an application and delivery platform, not one scholarship.
+
+> **ANSWER-GRABBING LINE:** Fee support and maintenance assistance can reduce dropout and widen opportunity when eligibility, verification and timely payment work.
+
+**MUST-WRITE KEYWORDS:** scholarship, National Scholarship Portal, eligibility, retention, learning outcome, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Fee support and maintenance assistance can reduce dropout and widen opportunity when eligibility, verification and timely payment work.
+- **Named evidence:** The Ministry of Education's National Scholarship Portal hosts multiple central and state schemes with scheme-specific rules.
+- **Analysis:** A scholarship reduces the private cost of education for a defined learner group; the National Scholarship Portal is an application and delivery platform, not one scholarship. Fee support and maintenance assistance can reduce dropout and widen opportunity when eligibility, verification and timely payment work.
+- **Qualification / demand link:** Enrolment or disbursement does not prove learning, completion or labour-market mobility.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** The Ministry of Education's National Scholarship Portal hosts multiple central and state schemes with scheme-specific rules.
+- **Analytical inference:** A scholarship reduces the private cost of education for a defined learner group; the National Scholarship Portal is an application and delivery platform, not one scholarship. Fee support and maintenance assistance can reduce dropout and widen opportunity when eligibility, verification and timely payment work.
+- **Qualification:** Enrolment or disbursement does not prove learning, completion or labour-market mobility.
+
+#### PRELIMS TRAP
+
+Do not assign one universal eligibility rule or amount to every NSP scheme.
+
+#### MAINS USE
+
+Evaluate access, timeliness, completion, learning and transition outcomes.
+
+#### MINI RECAP
+
+- Definition: A scholarship reduces the private cost of education for a defined learner group; the National Scholarship Portal is an application and delivery platform, not one scholarship.
+- Evidence anchor: The Ministry of Education's National Scholarship Portal hosts multiple central and state schemes with scheme-specific rules.
+- Verdict: Fee support and maintenance assistance can reduce dropout and widen opportunity when eligibility, verification and timely payment work.
+
+### CORE SESSION 40 - CORE SYNTHESIS - Vulnerability shocks and risk layering
+
+#### VISUAL FIRST
+
+```text
+VULNERABILITY SHOCKS AND RISK LAYERING
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> Health, climate and employment shocks recur in Economic Survey discussions of resilience and social protection.
+BOUNDARY -> Poor households may have low formal insurance precisely because premiums, information and trust are constrained.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+Vulnerability is the probability of future welfare loss; poverty is an observed shortfall at a stated time.
+
+> **ANSWER-GRABBING LINE:** Households manage frequent small shocks through savings and insurance, larger shocks through public support, and catastrophic covariate shocks through scalable state response.
+
+**MUST-WRITE KEYWORDS:** vulnerability, idiosyncratic shock, covariate shock, risk layering, resilience, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Households manage frequent small shocks through savings and insurance, larger shocks through public support, and catastrophic covariate shocks through scalable state response.
+- **Named evidence:** Health, climate and employment shocks recur in Economic Survey discussions of resilience and social protection.
+- **Analysis:** Vulnerability is the probability of future welfare loss; poverty is an observed shortfall at a stated time. Households manage frequent small shocks through savings and insurance, larger shocks through public support, and catastrophic covariate shocks through scalable state response.
+- **Qualification / demand link:** Poor households may have low formal insurance precisely because premiums, information and trust are constrained.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** Health, climate and employment shocks recur in Economic Survey discussions of resilience and social protection.
+- **Analytical inference:** Vulnerability is the probability of future welfare loss; poverty is an observed shortfall at a stated time. Households manage frequent small shocks through savings and insurance, larger shocks through public support, and catastrophic covariate shocks through scalable state response.
+- **Qualification:** Poor households may have low formal insurance precisely because premiums, information and trust are constrained.
+
+#### PRELIMS TRAP
+
+A non-poor household today can still be highly vulnerable to poverty tomorrow.
+
+#### MAINS USE
+
+Design prevention, insurance, assistance and shock-responsive expansion as layers.
+
+#### MINI RECAP
+
+- Definition: Vulnerability is the probability of future welfare loss; poverty is an observed shortfall at a stated time.
+- Evidence anchor: Health, climate and employment shocks recur in Economic Survey discussions of resilience and social protection.
+- Verdict: Households manage frequent small shocks through savings and insurance, larger shocks through public support, and catastrophic covariate shocks through scalable state response.
+
+### CORE SESSION 41 - CORE SYNTHESIS - Regional social gender and caste inequality
+
+#### VISUAL FIRST
+
+```text
+REGIONAL SOCIAL GENDER AND CASTE INEQUALITY
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> NITI MPI and HCES permit rural-urban and state disaggregation, while social-category and gender evidence requires dataset-specific tables.
+BOUNDARY -> National averages must not be projected onto every state, caste, tribe, gender or district; causal claims need careful evidence.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+Horizontal inequality compares socially meaningful groups or places, while vertical inequality ranks individuals or households by welfare.
+
+> **ANSWER-GRABBING LINE:** Unequal assets, discrimination, care burdens, remoteness and public-service quality compound one another and transmit disadvantage.
+
+**MUST-WRITE KEYWORDS:** horizontal inequality, vertical inequality, caste, gender, region, intersectionality, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Unequal assets, discrimination, care burdens, remoteness and public-service quality compound one another and transmit disadvantage.
+- **Named evidence:** NITI MPI and HCES permit rural-urban and state disaggregation, while social-category and gender evidence requires dataset-specific tables.
+- **Analysis:** Horizontal inequality compares socially meaningful groups or places, while vertical inequality ranks individuals or households by welfare. Unequal assets, discrimination, care burdens, remoteness and public-service quality compound one another and transmit disadvantage.
+- **Qualification / demand link:** National averages must not be projected onto every state, caste, tribe, gender or district; causal claims need careful evidence.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** NITI MPI and HCES permit rural-urban and state disaggregation, while social-category and gender evidence requires dataset-specific tables.
+- **Analytical inference:** Horizontal inequality compares socially meaningful groups or places, while vertical inequality ranks individuals or households by welfare. Unequal assets, discrimination, care burdens, remoteness and public-service quality compound one another and transmit disadvantage.
+- **Qualification:** National averages must not be projected onto every state, caste, tribe, gender or district; causal claims need careful evidence.
+
+#### PRELIMS TRAP
+
+Group disparity is not explained merely by group identity; trace assets, institutions, services and discrimination.
+
+#### MAINS USE
+
+Disaggregate the outcome and identify the mechanism instead of listing vulnerable groups.
+
+#### MINI RECAP
+
+- Definition: Horizontal inequality compares socially meaningful groups or places, while vertical inequality ranks individuals or households by welfare.
+- Evidence anchor: NITI MPI and HCES permit rural-urban and state disaggregation, while social-category and gender evidence requires dataset-specific tables.
+- Verdict: Unequal assets, discrimination, care burdens, remoteness and public-service quality compound one another and transmit disadvantage.
+
+### CORE SESSION 42 - CORE SYNTHESIS - Policy evaluation dashboard
+
+#### VISUAL FIRST
+
+```text
+POLICY EVALUATION DASHBOARD
+DEFINITION -> MECHANISM -> NAMED EVIDENCE -> DISTRIBUTIONAL EFFECT
+EVIDENCE -> MGNREGA, NFSA, NSAP, PM-JAY and scholarships expose different coverage, adequacy, quality and portability tests.
+BOUNDARY -> A beneficiary count, budget outlay or portal transaction is an output, not causal proof of poverty reduction.
+```
+
+*Visual reading:* Move from definition to evidence and mechanism before reaching a qualified distributional verdict.
+
+#### DEFINITION
+
+Inclusive-policy evaluation asks whether support is adequate, reaches intended people, is progressive, delivers quality, travels with mobile citizens and remains fiscally sustainable.
+
+> **ANSWER-GRABBING LINE:** Track inputs, outputs, take-up, incidence, outcomes and grievance resolution, then compare against a plausible counterfactual.
+
+**MUST-WRITE KEYWORDS:** adequacy, coverage, incidence, quality, portability, fiscal sustainability, evidence, qualification
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Track inputs, outputs, take-up, incidence, outcomes and grievance resolution, then compare against a plausible counterfactual.
+- **Named evidence:** MGNREGA, NFSA, NSAP, PM-JAY and scholarships expose different coverage, adequacy, quality and portability tests.
+- **Analysis:** Inclusive-policy evaluation asks whether support is adequate, reaches intended people, is progressive, delivers quality, travels with mobile citizens and remains fiscally sustainable. Track inputs, outputs, take-up, incidence, outcomes and grievance resolution, then compare against a plausible counterfactual.
+- **Qualification / demand link:** A beneficiary count, budget outlay or portal transaction is an output, not causal proof of poverty reduction.
+
+#### EVIDENCE AND INFERENCE
+
+- **Fact/evidence:** MGNREGA, NFSA, NSAP, PM-JAY and scholarships expose different coverage, adequacy, quality and portability tests.
+- **Analytical inference:** Inclusive-policy evaluation asks whether support is adequate, reaches intended people, is progressive, delivers quality, travels with mobile citizens and remains fiscally sustainable. Track inputs, outputs, take-up, incidence, outcomes and grievance resolution, then compare against a plausible counterfactual.
+- **Qualification:** A beneficiary count, budget outlay or portal transaction is an output, not causal proof of poverty reduction.
+
+#### PRELIMS TRAP
+
+Do not declare success from spending or enrolment alone.
+
+#### MAINS USE
+
+Conclude with a dashboard rather than a scheme catalogue.
+
+#### MINI RECAP
+
+- Definition: Inclusive-policy evaluation asks whether support is adequate, reaches intended people, is progressive, delivers quality, travels with mobile citizens and remains fiscally sustainable.
+- Evidence anchor: MGNREGA, NFSA, NSAP, PM-JAY and scholarships expose different coverage, adequacy, quality and portability tests.
+- Verdict: Track inputs, outputs, take-up, incidence, outcomes and grievance resolution, then compare against a plausible counterfactual.
+
+## OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER
+
+### Poverty dominance and stochastic comparison
+
+If one distribution has a lower headcount for every plausible poverty line in a stated range, it shows first-order poverty dominance. Higher-order tests incorporate depth and severity. These tools reduce dependence on one arbitrary line but still require comparable welfare data.
+
+### Decomposability and subgroup diagnosis
+
+FGT poverty measures can be decomposed into population-weighted subgroup contributions under a common poverty line. This helps identify whether aggregate change comes from within-group progress or population composition, but subgroup labels do not themselves establish causation.
+
+### Atkinson and Generalised Entropy measures
+
+The Atkinson index makes inequality aversion explicit; Generalised Entropy measures can be decomposed within and between groups. Their parameter choices alter sensitivity to the top or bottom, so they complement rather than automatically replace Gini.
+
+### Fiscal-incidence assumptions
+
+Incidence estimates depend on who is assumed to bear indirect taxes, receive subsidies and value public education or health services. A monetised service benefit is not equivalent to cash and may conceal quality variation.
+
+### Social registries, portability and privacy
+
+Dynamic social registries can improve updating and portability, but interoperable databases create privacy, consent, cybersecurity and function-creep risks. Minimum data, purpose limitation, audit trails and accessible correction are part of inclusion.
+
+### Shock-responsive financing
+
+Triggers, contingency funds and scalable delivery rails can expand support after covariate shocks. Trigger error, local variation and fiscal pre-arrangement determine whether speed produces fair coverage.
+
+### Capability measurement limit
+
+Observed functionings reflect both capabilities and choices under constraint. Composite indices necessarily select dimensions and weights, so deliberative legitimacy and disaggregated dashboards remain important.
+
+### Kuznets and political economy
+
+Technology, monopoly rents, land and education inequality, tax capacity and political voice can prevent the predicted downward side of the Kuznets curve. Distribution is institutionally shaped, not a mechanical stage of growth.
+
+### Intersectionality
+
+Gender, caste, tribe, disability, age, region and migration status can interact rather than add independently. Policy therefore needs disaggregated evidence without treating group averages as destiny.
 
 ## CONSOLIDATED REGISTER NOTES
 
-### Poverty, Inequality, Social Sector and Inclusive Growth: RAPID CONCEPT, INSTITUTION AND STATUS MAP
+### Measurement map
 
-1. **Poverty and inequality boundary:** Poverty measures shortfall below a stated threshold, while inequality measures dispersion across a distribution; poverty can fall even when inequality rises.
-2. **Absolute and relative poverty:** Absolute poverty uses a defined minimum standard, while relative poverty evaluates position against the prevailing distribution or social standard.
-3. **Headcount and poverty gap:** The poverty headcount ratio measures incidence, while the poverty gap captures average depth below the line; neither alone describes every deprivation.
-4. **Poverty-line vintage:** A poverty estimate is inseparable from its line, price basis, survey, reference period and methodology; estimates from different vintages should not be presented as one continuous series.
-5. **Tendulkar and Rangarajan:** The Tendulkar and Rangarajan expert-group methods use different consumption baskets and thresholds; neither should be mislabeled as a timeless current official poverty line.
-6. **Lorenz curve and Gini:** The Lorenz curve represents cumulative distribution, while the Gini coefficient summarises inequality; income, consumption and wealth data can produce different results.
-7. **MPI architecture:** India's national Multidimensional Poverty Index follows an Alkire-Foster structure across health, education and standard-of-living dimensions using twelve indicators.
-8. **MPI formula:** The multidimensional poverty index combines the headcount ratio of multidimensionally poor people with their average intensity of deprivation, conventionally expressed as MPI equals H multiplied by A.
-9. **Observed and projected MPI:** The 2019-21 national MPI estimate is tied to NFHS-5 observations, while NITI Aayog's 2022-23 figure is an estimate projected from earlier reduction trends rather than a fresh household survey.
-10. **Inclusive-growth frame:** Inclusive growth combines productive participation, quality public services, redistribution and protection against shocks; growth and distribution are related but distinct tests.
-11. **Growth elasticity of poverty:** The poverty reduction generated by growth depends on initial inequality, sectoral composition, labour intensity and access to assets and services.
-12. **Social-sector spending chain:** Budget allocation, release, actual spending, service availability, service quality and household outcome are separate stages; expenditure is not itself an outcome.
-13. **Universal and targeted provision:** Universal public services and targeted benefits can complement each other, while targeting saves resources but creates exclusion, inclusion and transaction-cost risks.
-14. **Social assistance and insurance:** Social assistance is generally tax-financed support based on need or category, while social insurance pools contributions or specified risks; both differ from universal public services.
-15. **MGNREGA boundary:** MGNREGA is a demand-driven legal employment guarantee for rural households, not an unconditional cash transfer or proof that every demand for work was met.
-16. **NFSA boundary:** The National Food Security Act creates legal food and nutrition entitlements through an in-kind architecture; statutory coverage rules and actual beneficiary inclusion are different questions.
-17. **Health-protection boundary:** Hospitalisation insurance can reduce catastrophic inpatient costs but cannot by itself replace primary care, public-health capacity, outpatient access or service quality.
-18. **Financial inclusion:** Financial inclusion requires access, usage and quality of suitable services; account ownership alone does not prove credit access, income growth or poverty exit.
-19. **Intergenerational and spatial inequality:** Inclusive-growth analysis must examine mobility across generations and disparities across states, districts, social groups, gender and rural-urban locations rather than rely on a national average.
-20. **Shock-responsive inclusion:** Social protection should prevent temporary health, climate or employment shocks from becoming persistent poverty traps while retaining a pathway to productive capability and fiscal sustainability.
+- Poverty is threshold shortfall; inequality is distributional dispersion; vulnerability is future risk.
+- HCR measures incidence; poverty gap measures depth; squared gap weights severe shortfalls.
+- Poverty line + welfare aggregate + price/PPP basis + survey + reference period + geography are inseparable.
+- Tendulkar 2011-12: Rs 816 rural, Rs 1,000 urban, HCR 21.9%; historical method-specific values.
+- Rangarajan 2011-12: Rs 972 rural, Rs 1,407 urban, HCR 29.5%; 2014 recommendation, not a timeless current line.
+- India has no single newly adopted current domestic monetary poverty line; attribute every estimate.
+- World Bank June 2025 lines: USD 3.00, 4.20 and 8.30 at 2021 PPP.
+- World Bank India 2022-23 estimates: 5.3% below USD 3.00 and 23.9% below USD 4.20.
+- National MPI uses 12 indicators; MPI = H x A; 14.96% is NFHS-5 observed, 11.28% for 2022-23 is estimated.
 
-### Poverty, Inequality, Social Sector and Inclusive Growth: SCOPE, ELIGIBILITY, STOCK-FLOW AND IMPLEMENTATION TRAPS
+### Inequality and inclusive-growth map
 
-- Do not use poverty and inequality as synonyms.
-- Do not quote a poverty estimate without its line, methodology, period and price basis.
-- Do not merge headcount incidence with poverty-gap depth.
-- Do not treat Tendulkar and Rangarajan estimates as one current official series.
-- Do not compare income, consumption and wealth Gini values as if they used one base.
-- Do not present the projected 2022-23 MPI estimate as a fresh household survey result.
-- Do not equate social-sector allocation, expenditure, service quality and outcome.
-- Do not treat a bank account as proof of inclusive growth.
-- Do not assume a national average describes every state, district or group.
-- Do not infer an objective PYQ answer letter from a routed demand.
+- Income is a flow; wealth is a stock; consumption and opportunity answer different questions.
+- Lorenz plots cumulative population against cumulative welfare; Gini summarises its distance from equality.
+- HCES 2023-24 consumption Gini: 0.237 rural and 0.284 urban; do not relabel as income or wealth.
+- Palma = top 10% share / bottom 40% share; quintile ratios are tail-focused complements.
+- Kuznets is a qualified hypothesis, not an inevitable law.
+- Poverty reduction depends on growth, initial inequality, sectoral composition and access.
+- Inclusive growth combines productive participation, quality services, redistribution and shock protection.
+- Predistribution changes market earning power; redistribution changes post-market resources.
 
-### Poverty, Inequality, Social Sector and Inclusive Growth: ANSWER-WRITING SPINE
+### Delivery and scheme map
 
-```text
-DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE
--> STATE FORMULA, CROP, GEOGRAPHY, ELIGIBILITY OR LEGAL POWER
--> NAME THE PERIOD, ESTIMATE VINTAGE AND ISSUING BODY
--> SEPARATE ANNOUNCEMENT, IMPLEMENTATION, STOCK AND FLOW OUTCOMES
--> ADD ONE INDIA-SPECIFIC EVIDENCE UNIT AND ITS LIMIT
--> TEST DISTRIBUTION, OUTPUT, PRICE OR FINANCIAL-STABILITY EFFECTS
--> CONCLUDE WITH A GRADED VERDICT, NOT A TIMELESS NUMBER
-```
+- Fiscal incidence follows taxes, transfers, subsidies and in-kind services across the distribution.
+- Social expenditure must pass allocation -> release -> spending -> output -> quality -> outcome.
+- Targeting, universalism and self-selection involve different fiscal and error trade-offs.
+- JAM is infrastructure; DBT is a delivery mode; exception handling and grievance redress prevent exclusion.
+- MGNREGA: rural-household demand-driven legal guarantee of at least 100 days; 15-day work rule.
+- NFSA: PHH 5 kg/person/month; AAY 35 kg/household/month; free grain through December 2028.
+- NSAP assistance, PM-JAY insurance and scholarships address different lifecycle/capability risks.
+- PM-JAY hospitalisation cover cannot replace primary care, public health or outpatient protection.
 
-### Poverty, Inequality, Social Sector and Inclusive Growth: LIVE-SOURCE, VINTAGE AND EVIDENCE BOUNDARY
+### Examiner-ready evaluation
 
-The official NITI pages were blocked to direct fetch, but official-domain search substantively exposed the national MPI method and the projected status of the 2022-23 estimate. No poverty rate, inequality value, scheme outlay or current beneficiary count was imported.
-
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
-
-#### ASCII MASTER FLOW — PANEL 1/12: Poverty and inequality map
-
-```ascii-master
-POVERTY -> threshold shortfall
-INEQUALITY -> distributional dispersion
-BOTH can move differently
-STATE metric + data base
-MUST REMEMBER: Poverty, inequality and inclusion require distinct incidence, depth,...
-```
-
-#### ASCII MASTER FLOW — PANEL 2/12: Poverty-measure ladder
-
-```ascii-master
-HEADCOUNT -> incidence
-POVERTY GAP -> depth
-SEVERITY -> distribution among poor
-MPI -> multiple deprivations
-```
-
-#### ASCII MASTER FLOW — PANEL 3/12: Methodology clock
-
-```ascii-master
-LINE + BASKET
-PRICE BASIS + SURVEY
-REFERENCE PERIOD
-COMPARABILITY before trend
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: Committee distinction
-
-```ascii-master
-TENDULKAR -> one methodology vintage
-RANGARAJAN -> revised basket + threshold
-NO TIMELESS current line
-ATTRIBUTE every estimate
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Lorenz and Gini map
-
-```ascii-master
-PERFECT-EQUALITY LINE
-LORENZ CURVE
-AREA -> GINI summary
-INCOME / CONSUMPTION / WEALTH differ
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: MPI construction rail
-
-```ascii-master
-12 INDICATORS
--> deprivation score
--> H headcount + A intensity
--> MPI = H x A
-CLOSE DISTINCTION: Poverty headcount is not poverty gap, income is not consumption, Gini...
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: MPI vintage boundary
-
-```ascii-master
-NFHS-5 2019-21 -> observed base
-2022-23 -> projected estimate
-NOT fresh survey
-COMPARE editions cautiously
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: Inclusive-growth engine
-
-```ascii-master
-PRODUCTIVE JOBS + ASSETS
-QUALITY HEALTH + EDUCATION
-REDISTRIBUTION + PROTECTION
-CAPABILITY + MOBILITY
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Social-spending results chain
-
-```ascii-master
-ALLOCATION
--> RELEASE -> SPENDING
--> SERVICE ACCESS + QUALITY
--> HOUSEHOLD OUTCOME
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Protection architecture
-
-```ascii-master
-ASSISTANCE -> need/category
-INSURANCE -> pooled risk
-UNIVERSAL SERVICES -> broad access
-TARGETING -> exclusion risk
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Named instrument boundary
-
-```ascii-master
-MGNREGA -> work guarantee
-NFSA -> food entitlement
-HEALTH INSURANCE -> hospitalisation protection
-FINANCE -> access + usage + quality
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Inclusive-growth answer spine
-
-```ascii-master
-FIX metric + vintage
-TRACE jobs + services + transfers
-DISAGGREGATE groups + places
-CONCLUDE capability + resilience
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State survey, line/method, unit, price...
-```
+- Adequacy: is the benefit sufficient?
+- Coverage: who is included or excluded?
+- Incidence: who ultimately gains or bears cost?
+- Quality: did money become a usable service?
+- Portability: can migrants and mobile households access it?
+- Sustainability: can financing and administrative capacity endure?
+- Verdict: combine opportunity, capability, security, voice and dignity; never infer outcomes from spending or enrolment alone.

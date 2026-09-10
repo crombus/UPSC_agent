@@ -1,74 +1,233 @@
-ASCII MASTER FLOW — PANEL 1/12: Land-reform instrument map
-INTERMEDIARY ABOLITION -> cultivator-state link
-TENANCY -> rent + security + recorded cultivator
-CEILINGS -> permissible holding + surplus land
-CONSOLIDATION / RECORDS -> workable parcels + enforceable rights
-MUST REMEMBER: Land reform, tenancy, ceilings, consolidation, irrigation, seeds,...
+ECONOMY TOPIC 11 — PANEL 1/12
+AGRARIAN REFORM CHAIN
+=====================
 
-ASCII MASTER FLOW — PANEL 2/12: Law-to-outcome rail
-STATE LAW
--> ACCURATE RECORDS
--> LOCAL ADMINISTRATION + MOBILISATION
--> ACTUAL TENURE / REDISTRIBUTION OUTCOME
+1. Rights -> records -> workable holdings -> inputs -> markets.
 
-ASCII MASTER FLOW — PANEL 3/12: State reform comparison
-OPERATION BARGA -> sharecropper recording
-KERALA -> tenancy abolition + ceiling depth
-J&K 1950 -> early estate restructuring
-COMPARE context; do not copy outcomes mechanically
+2. Land reform changes institutions; Green Revolution changes technology.
 
-ASCII MASTER FLOW — PANEL 4/12: Green-Revolution package
-HYV SEED + ASSURED WATER
-+ FERTILISER + CREDIT + EXTENSION
-+ PROCUREMENT + PRICE SUPPORT
-PACKAGE EFFECT -> yield + marketed surplus
+3. Productivity needs both incentives and complementary services.
 
-ASCII MASTER FLOW — PANEL 5/12: Concentration legacy
-IRRIGATED NORTHWEST
--> WHEAT / RICE SPECIALISATION
--> FOODGRAIN SURPLUS
--> GROUNDWATER + SOIL + REGIONAL STRESS
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
 
-ASCII MASTER FLOW — PANEL 6/12: Cropping metrics fork
-PATTERN -> crop-area distribution
-INTENSITY -> gross cropped / net sown area
-DIVERSIFICATION -> crop / allied shift
-EACH needs stated time + geography
-CLOSE DISTINCTION: Land record is not title guarantee, abolition is not complete...
+CORE BOUNDARY
+State land law remains distinct from technology, procurement and
+sustainable-input policy.
+
+ECONOMY TOPIC 11 — PANEL 2/12
+COLONIAL TENURE LEGACY
+======================
 
-ASCII MASTER FLOW — PANEL 7/12: Diversification decision board
-AGRO-CLIMATE + WATER
-EXPECTED RETURN + VOLATILITY
-CREDIT + INSURANCE + EXTENSION
-STORAGE + PROCESSING + BUYER ACCESS
+1. Zamindari: intermediary between State and cultivator.
 
-ASCII MASTER FLOW — PANEL 8/12: Millet transition rail
-DRYLAND SUITABILITY
--> LOWER WATER EXPOSURE
--> NUTRITION / RESILIENCE VALUE
--> NEED processing + procurement + demand
+2. Ryotwari: direct assessment of recorded cultivator.
 
-ASCII MASTER FLOW — PANEL 9/12: Water-crop lock-in
-PROCUREMENT + CHEAP PUMPING
--> WATER-INTENSIVE CROP CHOICE
--> AQUFER / SOIL STRESS
--> DIVERSIFICATION BECOMES HARDER
+3. Mahalwari: village estate or co-sharer revenue unit.
 
-ASCII MASTER FLOW — PANEL 10/12: Scientist-engineer distinction
-VISVESVARAYA -> sluice gates + block irrigation
-SWAMINATHAN -> semi-dwarf crop adaptation
-ENGINEERING -> assured water systems
-CROP SCIENCE -> yield response
+4. Use labels only for causal relevance and regional variation.
 
-ASCII MASTER FLOW — PANEL 11/12: Agrarian trade-offs
-SECURE TENURE -> investment / owner concerns
-CONSOLIDATION -> scale / vulnerable-user safeguards
-HIGH YIELD -> food security / ecological cost
-DIVERSIFICATION -> resilience / market risk
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
 
-ASCII MASTER FLOW — PANEL 12/12: Agrarian answer spine
-DEFINE rights, records and holding structure
-TRACE technology + water + market package
-COMPARE regional outcomes and trade-offs
-CONCLUDE with viable diversification
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use state-specific law and period,...
+CORE BOUNDARY
+State land law remains distinct from technology, procurement and
+sustainable-input policy.
+
+ECONOMY TOPIC 11 — PANEL 3/12
+LAND-REFORM TOOLKIT
+===================
+
+1. Abolition removes specified intermediaries.
+
+2. Tenancy reform covers rent, security, recording and ownership routes.
+
+3. Ceilings identify surplus; consolidation reorganises parcels.
+
+4. Cooperation pools functions; Bhoodan/Gramdan were voluntary.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+CORE BOUNDARY
+State land law remains distinct from technology, procurement and
+sustainable-input policy.
+
+ECONOMY TOPIC 11 — PANEL 4/12
+CONSTITUTIONAL MAP
+==================
+
+1. State List Entry 18: land and land tenures.
+
+2. Article 31A: specified category shield.
+
+3. Article 31B: listed Ninth-Schedule laws.
+
+4. Article 31C: Article 39(b)/(c) boundary.
+
+5. I.R. Coelho 2007: post-24 April 1973 basic-structure review.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+CORE BOUNDARY
+State land law remains distinct from technology, procurement and
+sustainable-input policy.
+
+ECONOMY TOPIC 11 — PANEL 5/12
+IMPLEMENTATION TEST
+===================
+
+1. Law -> declaration -> verification -> adjudication.
+
+2. Then possession -> allotment -> mutation -> productive support.
+
+3. Evasion, exemptions, litigation and stale records break the chain.
+
+4. Operation Barga and Kerala show politics plus administration.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+CORE BOUNDARY
+State land law remains distinct from technology, procurement and
+sustainable-input policy.
+
+ECONOMY TOPIC 11 — PANEL 6/12
+INCLUSIVE LAND RIGHTS
+=====================
+
+1. Women: legal share -> mutation -> possession -> control.
+
+2. Tribal/customary: map private, community and common rights.
+
+3. Leasing: owner security plus cultivator security.
+
+4. Model Agricultural Land Leasing Act 2016 is advisory to States.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+CORE BOUNDARY
+State land law remains distinct from technology, procurement and
+sustainable-input policy.
+
+ECONOMY TOPIC 11 — PANEL 7/12
+DIGITAL LAND GOVERNANCE
+=======================
+
+1. DILRMP 3.0 guidelines: 2026-2031.
+
+2. ULPIN: 14-digit georeferenced parcel identifier.
+
+3. SVAMITVA: rural abadi mapping and State property cards.
+
+4. 29 Jan 2026: 3.06 crore cards in 1.86 lakh villages.
+
+5. Digitised record != conclusive title.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+CORE BOUNDARY
+State land law remains distinct from technology, procurement and
+sustainable-input policy.
+
+ECONOMY TOPIC 11 — PANEL 8/12
+GREEN REVOLUTION PACKAGE
+========================
+
+1. Mid-1960s HYV expansion.
+
+2. Semi-dwarf seed + irrigation + fertiliser + credit.
+
+3. Research + extension + procurement support.
+
+4. Technology worked through complementarity, not seed alone.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+CORE BOUNDARY
+State land law remains distinct from technology, procurement and
+sustainable-input policy.
+
+ECONOMY TOPIC 11 — PANEL 9/12
+ACHIEVEMENT AND LIMIT
+=====================
+
+1. Higher cereal yields, output and marketed surplus.
+
+2. Lower chronic import dependence and stronger rural linkages.
+
+3. Concentration in wheat-rice and irrigated north-west.
+
+4. Groundwater, nutrient, monoculture and distributional stress.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+CORE BOUNDARY
+State land law remains distinct from technology, procurement and
+sustainable-input policy.
+
+ECONOMY TOPIC 11 — PANEL 10/12
+CROPPING SYSTEMS
+================
+
+1. Pattern = area distribution among crops.
+
+2. Intensity = gross cropped area / net area sown x 100.
+
+3. Rotation is temporal; multiple cropping counts cycles.
+
+4. Mixed has no fixed rows; intercropping uses planned geometry.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+CORE BOUNDARY
+State land law remains distinct from technology, procurement and
+sustainable-input policy.
+
+ECONOMY TOPIC 11 — PANEL 11/12
+INDIA CROP MAP
+==============
+
+1. North-west: irrigated wheat-rice and cotton.
+
+2. Humid east: rice, jute and tea belts.
+
+3. Dry Deccan: millets, pulses, oilseeds and cotton.
+
+4. Coasts/hills: rice, coconut, spices and plantation crops.
+
+5. Regional fit, not universal crop substitution.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+CORE BOUNDARY
+State land law remains distinct from technology, procurement and
+sustainable-input policy.
+
+ECONOMY TOPIC 11 — PANEL 12/12
+MAINS REFORM ARCHITECTURE
+=========================
+
+1. State land law -> enforceable rights and records.
+
+2. Workable operations -> research, water, credit and extension.
+
+3. Region-specific crop mix -> value chains and risk management.
+
+4. Topic 12 owns MSP/procurement; Topic 14 owns deeper sustainability tools.
+
+5. Judge rights, productivity, income, inclusion and resilience together.
+
+ANSWER ROUTE
+Claim -> named evidence -> mechanism -> qualification -> reform.
+
+CORE BOUNDARY
+State land law remains distinct from technology, procurement and
+sustainable-input policy.
